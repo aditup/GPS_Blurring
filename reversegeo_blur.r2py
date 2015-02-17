@@ -9,16 +9,16 @@
   Aditi Prabhu
 
 <Purpose>
- Gets the location details when the lat/long coordinates are given, 
- based on the precision (zoom level) specified by the user.
+ This program uses the latitude and longitude data from a GPS and returns
+ an address related to these coordinates. The "zoom" parameter for the 
+ address specifies the level of detail that must be present and blurs out 
+ everything else in the address returned. The zoom value varies from 1-5,
+ where 1 is country and 5 is the house/building.
+ 
+ We use Nominatim to perform this. The wiki for this tool is available at 
+ http://wiki.openstreetmap.org/wiki/Nominatim#Reverse_Geocoding_.2F_Address_lookup
 
 """
-
-# To-do:
-# Check if arguments are of the correct type.
-# In loc_parser, prevent wrong output when the required field 
-# is not in Nominatim's database. -Using xmlparse.r2py and 
-# Nominatim's zoom levels maybe? (json format - easier to parse)
 
 def get_location_details(latitude, longitude, zoom):
  """
