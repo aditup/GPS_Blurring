@@ -1,0 +1,262 @@
+"""
+<Program Name>
+  reverse_geo.r2py
+
+<Started>
+  February 1, 2015
+
+<Author>
+  Aditi Prabhu
+
+<Purpose>
+  This program uses the latitude and longitude data from the GPS and returns
+  an address related to these coordinates, or returns the coordinates themselves
+  if necessary.
+
+  Usage:
+    For city: get_city()
+    For state: get_state()
+    For country: get_country()
+    For the full address: get_full_address()
+    For coordinates: get_gps_location(amount_to_round)
+
+    The amount_to_round parameter varies from 0 to 3, where 0 indicates no rounding.
+    This parameter is used to determine the precision of the GPS data to be returned.
+
+  Nominatim to perform the reverse geocoding. The wiki for this tool is available at
+  http://wiki.openstreetmap.org/wiki/Nominatim#Reverse_Geocoding_.2F_Address_lookup
+
+  Example response from server given latitude = 52.54877605 and 
+  longitude = -1.81627023283164:
+    {"place_id":"73626440","licence":"Data \u00a9 OpenStreetMap contributors, ODbL 1.0. 
+    http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"90394420","lat":
+    "52.54877605","lon":"-1.81627023283164","display_name":"137, Pilkington Avenue, Castle
+    Vale, Maney, Birmingham, West Midlands, England, B72 1LH, United Kingdom","address":{"
+    house_number":"137","road":"Pilkington Avenue","suburb":"Castle Vale","hamlet":"Maney",
+    "city":"Birmingham","state_district":"West Midlands","state":"England","postcode":
+    "B72 1LH","country":"United Kingdom","country_code":"gb"}}
+
+
+  Note: If the Nominatim server is down, truncated GPS coordinates are returned.
+
+"""
+
+
+# Get the latitude and longitude data from the GPS
+# Returns a dictionary with the latitude and longitude value
+# e.g.: {"latitude": 52.54877605, "longitude": -1.81627023283164}
+def get_gps_coordinates():
+  # This is only an example
+	return {"latitude": 52.54877605, "longitude": -1.81627023283164}
+
+
+# Build the HTTP GET message to be sent to the Nominatim server
+def build_GET_message(lat, long):
+  message = "GET /reverse?format=json&lat=" + str(lat) + "&lon=" + str(long) + \
+    "&zoom=18&addressdetails=1 HTTP/1.1\r\nHost: nominatim.openstreetmap.org\r\n\r\n"
+  return message
+
+
+# Connect to the Nominatim server from any available port on the client
+def get_connection_to_geoip_server(serverip, port_no):
+  available_ports = list(getresources()[0]['connport'])
+
+  for port in available_ports:
+    port = int(port) 
+    try:
+      nominatim_server_connection = openconnection(serverip, \
+        port_no, getmyip(), port, 5)		# Timeout = 5
+      return nominatim_server_connection
+    except Exception as e:
+      continue
+
+  raise PortsUnavailableError("Sorry! No ports available at this time.\n\n")
+
+
+# Receive the reply from the Nominatim server after the query is sent
+def get_response_from_geoip_server(nominatim_server_connection, timeout):
+  received_string = ""
+  time_started = getruntime()
+  while getruntime() < time_started + timeout:
+    try:
+      received_string = nominatim_server_connection.recv(4096)
+    except SocketWouldBlockError:
+      if received_string != "":
+        break
+    except SocketClosedRemote:
+      pass
+
+  if received_string == "":
+    raise TimeoutError("Connection timed out.\n\n")
+  else:
+    return received_string
+
+
+def request_data_from_server(lat, long):
+  message_to_server = build_GET_message(lat, long)
+  nominatim_server_connection = get_connection_to_geoip_server(gethostbyname("nominatim.openstreetmap.org"), 80)
+  nominatim_server_connection.send(message_to_server) # Sends query to the Nominatim server
+  message_from_server = get_response_from_geoip_server(nominatim_server_connection, 5) # Timeout = 5
+  nominatim_server_connection.close()
+
+  # Check if server is down. The message from the server must contain the string "display_name"
+  if message_from_server.find("display_name") == -1:
+    log("Server is down!\n\n")
+    return -1
+
+  return message_from_server
+
+
+# This function extracts from a given string, all the content that comes after
+# a given substring, until it encounters a double quote.
+def extract_content_from_string(string, substring):
+  # Index of the first occurance of the substring in the string
+  start = string.find(substring)
+  if start == -1:
+    return -1
+  # Extract all data present after the substring
+  content = string[(start + len(substring)):]
+  # Find the index of the next occurance of the double quote
+  end = content.find("\"")
+  # This will contain the required content
+  content = content[:end]
+  return content
+
+
+
+
+
+#----------FUNCTIONS AVAILABLE TO THE USER----------#
+
+# Returns -1 if server is down, after printing the GPS coordinates
+
+def get_city():
+  gps_data = get_gps_coordinates()
+  message_from_server = request_data_from_server(gps_data["latitude"], gps_data["longitude"])
+  if message_from_server == -1: # Server is down
+    # Print the coordinates
+    log(get_gps_location(1, coordinates = gps_data, called_by_user=False) + "\n\n")
+    return -1
+
+	# Get the city name from the server reponse
+  city_name = extract_content_from_string(message_from_server, "\"city\":\"")
+  if city_name == -1:
+    raise DataNotFoundError("Sorry! No city data found for the given coordinates.\n\n")
+
+  # Get entire address from the server response
+  whole_address = extract_content_from_string(message_from_server, "\"display_name\":\"")
+
+	# Extract the required address from the whole address
+  # "\"" is added to the end of whole_address since we need it to end with a double quote
+  address = city_name + extract_content_from_string(whole_address + "\"", city_name)
+
+  return address
+
+
+def get_state():
+  gps_data = get_gps_coordinates()
+  message_from_server = request_data_from_server(gps_data["latitude"], gps_data["longitude"])
+  if message_from_server == -1: # Server is down
+    # Print the coordinates
+    log(get_gps_location(2, coordinates = gps_data, called_by_user=False) + "\n\n")
+    return -1
+
+	# Get the state name from the server reponse
+  state_name = extract_content_from_string(message_from_server, "\"state\":\"")
+  if state_name == -1:
+    raise DataNotFoundError("Sorry! No state data found for the given coordinates.\n\n")
+
+  # Get entire address from the server response
+  whole_address = extract_content_from_string(message_from_server, "\"display_name\":\"")
+
+	# Extract the required address from the whole address
+  # "\"" is added to the end of whole_address since we need it to end with a double quote
+  address = state_name + extract_content_from_string(whole_address + "\"", state_name)
+
+  return address
+
+
+def get_country():
+  gps_data = get_gps_coordinates()
+  message_from_server = request_data_from_server(gps_data["latitude"], gps_data["longitude"])
+  if message_from_server == -1: # Server is down
+    # Print the coordinates
+    log(get_gps_location(3, coordinates = gps_data, called_by_user=False) + "\n\n")
+    return -1
+
+	# Get the country name from the server reponse
+  country_name = extract_content_from_string(message_from_server, "\"country\":\"")
+  if country_name == -1:
+    raise DataNotFoundError("Sorry! No country data found for the given coordinates.\n\n")
+
+  return country_name
+
+
+def get_full_address():
+  gps_data = get_gps_coordinates()
+  message_from_server = request_data_from_server(gps_data["latitude"], gps_data["longitude"])
+  if message_from_server == -1: # Server is down
+    # Print the coordinates
+    log(get_gps_location(0, coordinates = gps_data, called_by_user=False) + "\n\n")
+    return -1
+
+  # Get entire address from the server response
+  address = extract_content_from_string(message_from_server, "\"display_name\":\"")
+
+  return address
+
+
+# Returns the GPS coordinates rounded by an amount specified by amount_to_round.
+# The called_by_user parameter indicates whether the function was called by the user
+# or from inside some other function.
+# Return typeis a dictionary with keys: latitude, longitude
+def get_gps_location(amount_to_round, coordinates = None, called_by_user = True):
+  if called_by_user:
+	  coordinates = get_gps_coordinates()
+  elif coordinates == None: # If user set the called_by_user parameter to False
+    raise SyntaxError("You are only allowed to specify amount_to_round!")
+  
+	# Type checking for coordinates
+  if not isinstance(coordinates["latitude"], (int, float)):
+    raise TypeError(str(type(coordinates["latitude"])) + " is not a valid type for Latitude!\n\n")
+  if not isinstance(coordinates["longitude"], (int, float)):
+    raise TypeError(str(type(coordinates["longitude"])) + " is not a valid type for Longitude!\n\n")
+
+  if amount_to_round == 0:
+    return coordinates
+  
+  elif amount_to_round == 1:
+    lat = "%.2f" % coordinates["latitude"]
+    long = "%.2f" % coordinates["longitude"]
+    return {"latitude": lat, "longitude": long}
+
+  elif amount_to_round == 2:
+    lat = "%.1f" % coordinates["latitude"]
+    long = "%.1f" % coordinates["longitude"]
+    return {"latitude": lat, "longitude": long}
+
+  elif amount_to_round == 3:
+    lat = "%.f" % coordinates["latitude"]
+    long = "%.f" % coordinates["longitude"]
+    return {"latitude": lat, "longitude": long}
+
+
+
+
+#----------TEST----------#
+
+log("City: "+ get_city() + "\n\n")
+
+log("State: " + get_state() + "\n\n")
+
+log("Country: " + get_country() + "\n\n")
+
+log("Full Address: " + get_full_address() + "\n\n")
+
+log(str(get_gps_location(0)) + "\n\n")
+
+log(str(get_gps_location(1)) + "\n\n")
+
+log(str(get_gps_location(2)) + "\n\n")
+
+log(str(get_gps_location(3)) + "\n\n")
