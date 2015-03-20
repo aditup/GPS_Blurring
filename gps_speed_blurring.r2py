@@ -1,0 +1,42 @@
+dy_import_module_symbols("sensorlib.r2py")
+
+unblurred_speeds = []
+blurred_speeds = []
+difference = []
+count = 10
+
+# get a connection to communicate with sensors
+port = get_connectionport()
+sensor_socket = getconnection(port)
+
+request_data(sensor_socket, 'startLocating', [])
+
+while (count != 0):
+  try:
+    sensor_data = request_data(sensor_socket, 'readLocation', []) 
+
+  except Exception as e:
+    log(str(e), '\n')
+    request_data(sensor_socket, 'stopLocating', []) 
+    sensor_socket.close()
+    break
+
+  if sensor_data != {}:
+    try:
+      location = sensor_data["gps"]
+    except KeyError:
+      location = sensor_data["network"]
+
+    speed = location["speed"]
+    unblurred_speeds.append(speed)
+    blurred_speeds.append("%.f" % speed)
+
+    count -= 1
+    sleep(5)
+
+for i in range(len(unblurred_speeds)):
+  diff = unblurred_speeds[i] - blurred_speeds[i]
+  difference.append(diff)
+
+request_data(sensor_socket, 'stopLocating', []) 
+sensor_socket.close()
