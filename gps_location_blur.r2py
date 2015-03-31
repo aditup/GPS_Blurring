@@ -1,0 +1,56 @@
+dy_import_module_symbols("sensorlib.r2py")
+
+def get_gps_coordinates():
+  coordinates = {}
+  sensor_data = {}
+  port = get_connectionport()
+  sensor_socket = getconnection(port)
+
+  request_data(sensor_socket, 'startLocating', [])
+
+  while True:
+    try:
+      sensor_data = request_data(sensor_socket, 'readLocation', [])
+      sleep(10)
+
+    except Exception as e:
+      #log(str(e), '\n')
+      request_data(sensor_socket, 'stopLocating', []) 
+      sensor_socket.close()
+      raise Error(e+"\n")
+
+    if sensor_data != {}:
+      try:
+        location = sensor_data["gps"]
+      except KeyError:
+        location = sensor_data["network"]
+
+      coordinates = {"latitude": location["latitude"], "longitude": location["longitude"]}
+      break
+
+  request_data(sensor_socket, 'stopLocating', []) 
+  sensor_socket.close()
+  return coordinates
+
+def get_address(coordinates):
+  address = ""
+  while address != "":
+    address = geocode(coordinates["latitude"], coordinates["longitude"])
+  return address
+
+def get_city(address):
+  pass
+
+def get_state(address):
+  pass
+
+def get_country(address):
+  pass
+
+def find_closest_point(long, lat, listofpoints):
+  pass
+
+def load_long_lat_from_file(filename):
+  pass
+
+log(get_gps_coordinates())
