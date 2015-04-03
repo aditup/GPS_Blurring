@@ -1,0 +1,3100 @@
+Daily	46.71748	-97.97621	US	ND
+Embden	46.8022	-97.43315	US	ND
+Abercrombie	46.44774	-96.73036	US	ND
+City of Abercrombie	46.44651	-96.72667	US	ND
+Township of Abercrombie	46.41034	-96.79725	US	ND
+Absaraka	46.97803	-97.39453	US	ND
+Absaraka Interchange	46.87581	-97.38787	US	ND
+Township of Acton	48.41323	-97.20858	US	ND
+Township of Ada	45.97956	-98.31915	US	ND
+Township of Addie	47.54363	-98.30749	US	ND
+Township of Addison	46.76023	-97.11588	US	ND
+Township of Adler	47.88959	-97.94641	US	ND
+Adrian	46.59998	-98.55343	US	ND
+Township of Adrian	46.58742	-98.59937	US	ND
+Township of Advance	48.84805	-97.753	US	ND
+Township of Agnes	48.06432	-97.70899	US	ND
+Akra	48.77527	-97.72704	US	ND
+Township of Akra	48.76098	-97.75264	US	ND
+Township of Albert	48.06453	-99.52382	US	ND
+Township of Albertha	45.98282	-98.94291	US	ND
+Township of Albion	47.05999	-98.58371	US	ND
+Township of Albion	46.06897	-98.693	US	ND
+Township of Alexander	47.97796	-99.87641	US	ND
+Township of Alexander	46.67397	-99.00769	US	ND
+Alfred	46.60303	-98.99928	US	ND
+Alice	46.76192	-97.55593	US	ND
+City of Alice	46.75999	-97.55601	US	ND
+Township of Aliceton	46.32594	-97.59523	US	ND
+Township of Alleghany	46.32597	-97.84641	US	ND
+Township of Allen	46.93757	-99.88751	US	ND
+Township of Allendale	47.80265	-97.17477	US	ND
+Township of Alma	48.67395	-98.12196	US	ND
+Alsen	48.63056	-98.70485	US	ND
+City of Alsen	48.63028	-98.70482	US	ND
+Township of Alta	46.93512	-97.8703	US	ND
+Alton	47.35553	-97.04564	US	ND
+Amenia	47.00497	-97.21898	US	ND
+City of Amenia	47.00682	-97.22418	US	ND
+Township of Amenia	47.02158	-97.26268	US	ND
+Township of Americus	47.71577	-97.04516	US	ND
+Amourdale	48.8714	-99.37292	US	ND
+An-qui-ni-gay Indian Burial Ground	48.85556	-99.73459	US	ND
+Township of Anderson	47.02323	-98.27704	US	ND
+Andvik Landing Strip	46.64775	-97.13065	US	ND
+Aneta	47.67944	-97.98815	US	ND
+City of Aneta	47.67955	-97.98972	US	ND
+Anselm	46.52858	-97.49565	US	ND
+Township of Antelope	46.32578	-96.96688	US	ND
+Ardoch	48.20721	-97.3423	US	ND
+Ardoch National Wildlife Refuge	48.25831	-97.3224	US	ND
+City of Ardoch	48.20548	-97.34075	US	ND
+Township of Ardoch	48.23803	-97.3188	US	ND
+Argusville	47.05219	-96.93453	US	ND
+City of Argusville	47.05005	-96.94316	US	ND
+Armourdale	48.8714	-99.37292	US	ND
+Township of Armourdale	48.84854	-99.32883	US	ND
+Arndt	48.63	-99.23542	US	ND
+Township of Arne	47.89035	-99.61888	US	ND
+Township of Arrow Wood	47.24805	-98.83733	US	ND
+Arrowwood National Wildlife Refuge	47.15165	-98.78969	US	ND
+Arthur	47.10414	-97.21814	US	ND
+City of Arthur	47.10429	-97.21853	US	ND
+Township of Arthur	47.1082	-97.2626	US	ND
+Arvilla	47.91916	-97.49481	US	ND
+Township of Arvilla	47.88916	-97.55901	US	ND
+Township of Ashland	47.11028	-98.6586	US	ND
+Ashley	46.03414	-99.3715	US	ND
+City of Ashley	46.03485	-99.37354	US	ND
+Township of Ashtabula	47.10995	-98.02391	US	ND
+Township of Atkins	48.41422	-99.29744	US	ND
+Township of Atwood	47.19841	-99.92565	US	ND
+Auburn	48.50693	-97.4398	US	ND
+Township of Aurora	47.97732	-99.3617	US	ND
+Township of Avon	47.80221	-97.55925	US	ND
+Ayr	47.04109	-97.49065	US	ND
+Ayr Interchange	46.87581	-97.49287	US	ND
+City of Ayr	47.04118	-97.49097	US	ND
+Township of Ayr	47.02158	-97.51524	US	ND
+Backoo	48.83666	-97.71037	US	ND
+Township of Badger	46.32646	-98.47351	US	ND
+Baker	48.16056	-99.64763	US	ND
+Township of Baldwin	47.1969	-97.89718	US	ND
+Township of Bale	46.32587	-97.72096	US	ND
+Township of Banner	48.58149	-98.78141	US	ND
+Township of Beaulieu	48.76099	-97.88403	US	ND
+Township of Beaver	46.71054	-98.80677	US	ND
+Township of Beaver	48.23825	-99.52367	US	ND
+Township of Belford	46.15296	-96.94831	US	ND
+Township of Bell	47.19527	-97.1337	US	ND
+Township of Belmont	47.62484	-96.91685	US	ND
+Bennetts Coulee	47.25305	-98.86261	US	ND
+Township of Bentru	47.71071	-96.94795	US	ND
+Berea	46.93415	-98.0951	US	ND
+Township of Bergen	47.71579	-98.33281	US	ND
+Berlin	46.37858	-98.48982	US	ND
+City of Berlin	46.3783	-98.48847	US	ND
+Township of Berlin	47.01932	-97.00961	US	ND
+Township of Berlin	47.37073	-99.58596	US	ND
+Township of Bethel	48.50087	-99.03571	US	ND
+Township of Big Bend	46.41309	-97.59495	US	ND
+Big Coulee	47.88278	-98.96651	US	ND
+Benson Corner	46.48581	-98.20149	US	ND
+Big Coulee	48.19111	-99.26236	US	ND
+Big Coulee	47.89973	-99.59207	US	ND
+Big Coulee	48.14917	-99.19402	US	ND
+Big Coulee	48.52111	-99.1868	US	ND
+Township of Billings	48.57854	-98.51119	US	ND
+Township of Bilodeau	47.45744	-99.33015	US	ND
+Binford	47.56194	-98.3451	US	ND
+City of Binford	47.5604	-98.34573	US	ND
+Township of Bingham	47.54115	-96.90922	US	ND
+Township of Binghampton	46.76052	-97.74429	US	ND
+Township of Birtsell	47.54427	-99.20217	US	ND
+Bisbee	48.62584	-99.37792	US	ND
+City of Bisbee	48.62633	-99.37878	US	ND
+Blabon	47.40166	-97.78898	US	ND
+Township of Black Loam	46.50025	-98.09678	US	ND
+Blackmer	45.97885	-96.60063	US	ND
+Blanchard	47.34581	-97.21953	US	ND
+Township of Blanchard	47.36747	-97.28268	US	ND
+Block Six of the Original Townsite	46.87358	-96.78758	US	ND
+Bloom	46.91638	-98.61288	US	ND
+Township of Bloom	46.93941	-98.62905	US	ND
+Township of Blooming	47.97666	-97.30151	US	ND
+Township of Bluebird	46.50026	-98.84996	US	ND
+Boeder Landing Strip	47.38499	-97.71259	US	ND
+Township of Bohnsack	47.28131	-97.13371	US	ND
+Bordulac	47.38777	-98.964	US	ND
+Township of Bordulac	47.3702	-98.94693	US	ND
+Bowdon	47.46972	-99.7079	US	ND
+City of Bowdon	47.46856	-99.70882	US	ND
+Township of Bowen	46.15327	-97.69528	US	ND
+Bowesmont	48.68999	-97.17813	US	ND
+Bowesmont Interchange	48.70221	-97.19035	US	ND
+Boyer National Wildlife Refuge	48.39139	-99.79291	US	ND
+Boynton	46.15441	-98.55538	US	ND
+Brampton	45.99469	-97.77621	US	ND
+Township of Brampton	45.97936	-97.82073	US	ND
+Township of Brandenburg	46.15287	-96.8245	US	ND
+Brantford	47.59777	-98.92289	US	ND
+Bremen	47.74667	-99.38679	US	ND
+Township of Bremen	47.71653	-99.36159	US	ND
+Township of Brenna	47.8895	-97.1746	US	ND
+Briarwood	46.78608	-96.79703	US	ND
+City of Briarwood	46.78708	-96.7952	US	ND
+Township of Brightwood	46.06615	-96.95111	US	ND
+Township of Brimer	47.02311	-98.40399	US	ND
+Brinsmade	48.1825	-99.32402	US	ND
+City of Brinsmade	48.18361	-99.32403	US	ND
+Township of Broe	48.15169	-99.65341	US	ND
+Township of Bruce	48.76156	-98.93474	US	ND
+Brumba National Wildlife Refuge	48.73334	-99.24597	US	ND
+Brumba Pool	48.72773	-99.24442	US	ND
+Township of Bryan	47.54377	-98.4359	US	ND
+Township of Bucephalia	47.37026	-98.81919	US	ND
+Buchanan	47.06249	-98.829	US	ND
+City of Buchanan	47.0626	-98.8291	US	ND
+Township of Buchanan	47.02278	-98.78454	US	ND
+Township of Buckeye	47.02414	-99.67121	US	ND
+Township of Bue	47.70833	-98.25871	US	ND
+Buffalo	46.9197	-97.54954	US	ND
+Buffalo Coulee	48.03306	-99.86096	US	ND
+Buffalo Coulee	47.69525	-96.90758	US	ND
+City of Buffalo	46.92031	-97.55042	US	ND
+Township of Buffalo	46.93422	-97.49227	US	ND
+Buffalo-Alice Interchange	46.87581	-97.55565	US	ND
+Township of Bunker	46.67606	-99.76513	US	ND
+Burnstad	46.38553	-99.63261	US	ND
+Township of Bush	47.80335	-98.97527	US	ND
+Busse Coulee	48.77388	-97.84343	US	ND
+Township of Butte Valley	48.1513	-99.52394	US	ND
+The Buttes	48.1975	-99.50041	US	ND
+Buttzville	46.50802	-97.62982	US	ND
+Buxton	47.60192	-97.09731	US	ND
+City of Buxton	47.60238	-97.10009	US	ND
+Township of Buxton	47.62834	-97.15591	US	ND
+Township of Byron	48.946	-98.80302	US	ND
+Cactus Point	46.53914	-99.21844	US	ND
+Caledonia	47.45748	-96.88564	US	ND
+Township of Caledonia	47.45443	-96.91119	US	ND
+Calio	48.63112	-98.93291	US	ND
+City of Calio	48.62381	-98.93804	US	ND
+Calspur	47.93331	-97.08813	US	ND
+Calvin	48.85251	-98.93541	US	ND
+City of Calvin	48.85182	-98.93807	US	ND
+Cando	48.48667	-99.20986	US	ND
+City of Cando	48.48721	-99.203	US	ND
+City of Canton City	48.68787	-97.66767	US	ND
+Carlisle Interchange	48.76026	-97.2109	US	ND
+Township of Carlisle	48.80417	-97.35981	US	ND
+Township of Carlton	46.01692	-98.4326	US	ND
+Carmelite Monastery	46.2844	-96.70674	US	ND
+Township of Carpenter	47.28239	-97.77054	US	ND
+Carr National Wildlife Refuge	48.28778	-99.69874	US	ND
+Carrington	47.44972	-99.12622	US	ND
+Carrington Water Works	47.49778	-99.11761	US	ND
+City of Carrington	47.45079	-99.13001	US	ND
+Butte Michaud	47.59575	-98.14196	US	ND
+Cashel	48.48471	-97.29869	US	ND
+Casselton	46.90053	-97.2112	US	ND
+City of Casselton	46.89738	-97.21246	US	ND
+Township of Casselton	46.93578	-97.24219	US	ND
+Cathay	47.55333	-99.40901	US	ND
+City of Cathay	47.55409	-99.41084	US	ND
+Township of Cato	48.32589	-98.61665	US	ND
+Cavalier	48.79388	-97.62231	US	ND
+City of Cavalier	48.79475	-97.62322	US	ND
+Township of Cavalier	48.75221	-97.62212	US	ND
+Cayuga	46.07413	-97.38426	US	ND
+City of Cayuga	46.07608	-97.38444	US	ND
+Township of Central	47.88955	-98.20406	US	ND
+Chaffee	46.77442	-97.35259	US	ND
+Township of Chambers	47.23361	-99.02678	US	ND
+Chaseley	47.45028	-99.82012	US	ND
+Township of Chaseley	47.45775	-99.84112	US	ND
+Township of Chester	47.88948	-97.43029	US	ND
+Township of Chicago	46.8481	-99.25756	US	ND
+Christine	46.57357	-96.80175	US	ND
+City of Christine	46.57512	-96.80626	US	ND
+Township of Clara	48.15153	-98.35729	US	ND
+Clement	46.15441	-98.24427	US	ND
+Township of Clement	46.16007	-98.18905	US	ND
+Clementsville	47.03777	-98.49315	US	ND
+Cleveland	46.89165	-99.11789	US	ND
+City of Cleveland	46.89042	-99.11996	US	ND
+Township of Cleveland	48.23824	-97.96814	US	ND
+Clifford	47.34804	-97.41064	US	ND
+City of Clifford	47.34818	-97.41013	US	ND
+Township of Clifton	46.76021	-97.61965	US	ND
+Township of Climax	46.14636	-98.12149	US	ND
+Clyde	48.77001	-98.89902	US	ND
+Coburn	46.61775	-97.3712	US	ND
+Township of Coburn	46.58639	-97.34319	US	ND
+Cogswell	46.10691	-97.78204	US	ND
+City of Cogswell	46.10686	-97.78444	US	ND
+Township of Casey	46.50025	-97.59481	US	ND
+City of Colfax	46.47088	-96.87247	US	ND
+Township of Colfax	46.50032	-96.92632	US	ND
+Township of Columbia	47.63004	-98.81984	US	ND
+Township of Colvin	47.7158	-98.58998	US	ND
+Comstock	48.15083	-99.3943	US	ND
+Township of Concord	45.97274	-97.81038	US	ND
+Concrete	48.74555	-97.93454	US	ND
+Township of Conklin	47.28352	-99.29111	US	ND
+Considine	48.56195	-99.28319	US	ND
+Conway	48.23833	-97.67509	US	ND
+City of Conway	48.23445	-97.67518	US	ND
+Township of Coolin	48.41396	-99.03605	US	ND
+Cooperstown	47.44444	-98.12398	US	ND
+City of Cooperstown	47.44492	-98.12571	US	ND
+Township of Cooperstown	47.45726	-98.17993	US	ND
+Township of Cornell	47.02188	-97.6423	US	ND
+Township of Corwin	46.76125	-98.6285	US	ND
+Coteau du Missouri	46.00025	-99.00066	US	ND
+Colfax	46.46941	-96.87453	US	ND
+The Coulee	48.55166	-97.59342	US	ND
+Crary	48.07083	-98.63844	US	ND
+City of Crary	48.07187	-98.6386	US	ND
+Township of Creel	48.06393	-98.88646	US	ND
+Crete	46.20024	-97.96288	US	ND
+Crocus	48.70889	-99.16153	US	ND
+Township of Crocus	48.67474	-99.16615	US	ND
+Township of Coulee	48.23798	-99.13448	US	ND
+Crystal	48.59694	-97.66953	US	ND
+City of Crystal	48.59822	-97.66893	US	ND
+Township of Crystal	48.58644	-97.73215	US	ND
+Cuba	46.82137	-97.8626	US	ND
+Cuba Interchange	46.92026	-97.87093	US	ND
+Township of Cuba	46.84771	-97.87077	US	ND
+Cummings	47.5147	-97.07953	US	ND
+Township of Cusator	46.76116	-99.00725	US	ND
+Dahlen	48.15805	-97.92954	US	ND
+Township of Dahlen	48.15132	-97.96816	US	ND
+Dalrymple Spur	46.89775	-97.16953	US	ND
+Township of Danton	46.23862	-97.07205	US	ND
+Danzig	46.13803	-99.47484	US	ND
+Darby	48.15361	-98.96763	US	ND
+Township of Dash	48.94586	-99.06669	US	ND
+Davenport	46.71414	-97.07009	US	ND
+City of Davenport	46.71492	-97.06496	US	ND
+Township of Davenport	46.67291	-97.11546	US	ND
+Dawson	46.8686	-99.7515	US	ND
+City of Dawson	46.86791	-99.75363	US	ND
+Township of Dayton	47.80236	-98.46114	US	ND
+Dazey	47.19054	-98.20176	US	ND
+City of Dazey	47.18832	-98.2007	US	ND
+Township of Dazey	47.19759	-98.15119	US	ND
+Township of De Groat	48.32624	-99.00541	US	ND
+De Lamere	46.26718	-97.33509	US	ND
+De Villo	46.06551	-96.63757	US	ND
+Township of Cypress	48.94591	-98.93432	US	ND
+Township of Dean	46.32539	-98.34985	US	ND
+Deisem	46.44247	-98.78982	US	ND
+Township of Delger	47.54469	-99.84116	US	ND
+Township of Denver	46.23956	-97.94459	US	ND
+Derrick	48.47695	-98.55762	US	ND
+Township of Devillo	46.06579	-96.70024	US	ND
+Devils Heart Butte	47.93384	-98.85764	US	ND
+Devils Nest	46.04619	-96.87062	US	ND
+Devils Thumb	47.67527	-98.63621	US	ND
+Township of Dewey	48.41311	-98.25312	US	ND
+Township of Dexter	46.15186	-97.19733	US	ND
+Dickey	46.53692	-98.46787	US	ND
+City of Dickey	46.53672	-98.46819	US	ND
+Divide	47.76972	-99.12484	US	ND
+Township of Divide	46.23972	-98.06892	US	ND
+Township of Dixon	46.51664	-99.59205	US	ND
+Township of Dodds	47.97704	-98.33253	US	ND
+Dover	47.46028	-99.27623	US	ND
+Township of Dover	47.28352	-98.40387	US	ND
+Township of Dows	47.19542	-97.3877	US	ND
+Doyon	48.05278	-98.53677	US	ND
+Drayton	48.5711	-97.17785	US	ND
+City of Drayton	48.56208	-97.17922	US	ND
+Township of Drayton	48.58848	-97.21247	US	ND
+Dresden	48.8275	-98.48123	US	ND
+Township of Dresden	48.94624	-98.54021	US	ND
+Dry Coulee	46.54609	-98.46732	US	ND
+Duane	46.07219	-98.54232	US	ND
+Township of Duerr	45.98032	-97.12634	US	ND
+Dundas	47.64	-99.02956	US	ND
+Township of Dundee	48.49964	-97.73147	US	ND
+Durbin	46.80858	-97.14953	US	ND
+Township of Durbin	46.84632	-97.11752	US	ND
+Township of Durham	47.19675	-98.65768	US	ND
+Durupt	47.09527	-98.47009	US	ND
+Dwight	46.30413	-96.73813	US	ND
+City of Dwight	46.30378	-96.74	US	ND
+Township of Dwight	46.32471	-96.69779	US	ND
+Township of Eagle	46.53234	-96.78217	US	ND
+Easby	48.71028	-98.25345	US	ND
+Township of Easby	48.67407	-98.25252	US	ND
+Township of East Alma	48.67395	-97.99202	US	ND
+Township of East Fork	47.89063	-99.74778	US	ND
+Unorganized Territory of East Logan	46.46396	-99.30042	US	ND
+Unorganized Territory of East McIntosh	46.07852	-99.19659	US	ND
+Unorganized Territory of East Rolette	48.73082	-99.61158	US	ND
+East Valley City Interchange	46.91859	-97.95343	US	ND
+East Walle Evangelical Lutheran	47.78887	-96.97952	US	ND
+Eastedge	46.65664	-97.89232	US	ND
+Township of Eastman	47.37002	-98.56343	US	ND
+Township of Easton	47.45598	-97.7934	US	ND
+Township of Eaton	45.97302	-98.12177	US	ND
+Eckelson	46.93804	-98.33315	US	ND
+Township of Eckelson	46.93613	-98.37557	US	ND
+Township of Eddy	47.80349	-98.71714	US	ND
+Township of Eden	48.23831	-97.70899	US	ND
+Township of Edendale	47.36813	-97.53814	US	ND
+Edgeley	46.35914	-98.71566	US	ND
+Edgeley Junction	46.37719	-98.6951	US	ND
+City of Edgeley	46.36234	-98.71239	US	ND
+Edinburg	48.49666	-97.86204	US	ND
+City of Edinburg	48.49546	-97.86276	US	ND
+Edmore	48.41334	-98.45428	US	ND
+Edmore Coulee	48.21195	-98.78984	US	ND
+City of Edmore	48.41221	-98.45318	US	ND
+Edmunds	47.24722	-98.96817	US	ND
+Township of Edmunds	47.28361	-98.91109	US	ND
+Township of Edna	47.11026	-98.27709	US	ND
+Egeland	48.62639	-99.09736	US	ND
+City of Egeland	48.62757	-99.09793	US	ND
+Township of Elden	46.06814	-98.56772	US	ND
+Township of Eldon	48.06448	-99.39432	US	ND
+Township of Eldorado	47.45438	-97.02785	US	ND
+Township of Eldred	46.76004	-97.49221	US	ND
+Township of Elgin	48.76123	-98.41062	US	ND
+Elickertail National Wildlife Refuge	46.25276	-99.95317	US	ND
+Ellendale	46.00275	-98.52705	US	ND
+City of Ellendale	46.00486	-98.52505	US	ND
+Township of Ellendale	45.98009	-98.57066	US	ND
+Elliott	46.40219	-97.81482	US	ND
+City of Elliott	46.40227	-97.81488	US	ND
+Township of Elliott	46.41297	-97.84637	US	ND
+Township of Ellsbury	47.19646	-97.7694	US	ND
+Elm Coulee	47.82664	-97.01369	US	ND
+Elm Tree Square	46.87885	-96.78786	US	ND
+Township of Elm	45.98206	-98.6936	US	ND
+Township of Elma	45.97912	-96.95179	US	ND
+Elmore	46.19579	-96.60535	US	ND
+Township of Elora	48.58654	-97.60045	US	ND
+Township of Elverum	48.15192	-99.91278	US	ND
+Embden Interchange	46.87609	-97.42954	US	ND
+Emerado	47.91887	-97.36508	US	ND
+City of Emerado	47.91908	-97.36561	US	ND
+Township of Empire	47.02125	-97.38815	US	ND
+Emrick	47.59472	-99.51207	US	ND
+Enderlin	46.62303	-97.60149	US	ND
+City of Enderlin	46.62066	-97.59357	US	ND
+Township of Enger	47.54187	-97.53705	US	ND
+Englevale	46.39275	-97.91343	US	ND
+English Coulee	47.96165	-97.05952	US	ND
+Enloe	46.49968	-96.75758	US	ND
+Township of Enterprise	48.15155	-98.22763	US	ND
+Enzminger Landing Strip	46.73609	-99.22178	US	ND
+Erie	47.11526	-97.38787	US	ND
+Erie Junction	47.09331	-97.38453	US	ND
+Township of Erie	47.10833	-97.38756	US	ND
+Township of Ervin	47.54153	-97.02749	US	ND
+Esmond	48.03584	-99.76207	US	ND
+City of Esmond	48.03326	-99.76509	US	ND
+Essex	48.1225	-98.74595	US	ND
+Township of Estabrook	47.54415	-99.07441	US	ND
+Evangelical United Brethren	47.83193	-97.43009	US	ND
+Everest	46.8597	-97.2212	US	ND
+Township of Everest	46.84685	-97.24147	US	ND
+Township of Excelsior	46.93784	-100.01271	US	ND
+Fairdale	48.49083	-98.23122	US	ND
+City of Fairdale	48.48994	-98.23111	US	ND
+Township of Fairview	46.4058	-97.89899	US	ND
+Fairview Junction	46.26829	-96.82397	US	ND
+Township of Fairville	47.63028	-99.32998	US	ND
+Township of Falconer	47.979	-97.08499	US	ND
+Township of Fancher	48.41342	-98.51457	US	ND
+Fargo	46.87719	-96.7898	US	ND
+City of Fargo	46.86525	-96.82899	US	ND
+Township of Felson	48.94598	-97.62212	US	ND
+Township of Ferry	48.06088	-97.17117	US	ND
+Township of Fertile	48.41268	-97.60097	US	ND
+Fessenden	47.64917	-99.62929	US	ND
+City of Fessenden	47.6492	-99.62702	US	ND
+Fife	46.88525	-96.96425	US	ND
+Fillmore	48.18028	-99.80069	US	ND
+Fingal	46.76053	-97.79038	US	ND
+City of Fingal	46.76253	-97.79315	US	ND
+Finley	47.51416	-97.83593	US	ND
+City of Finley	47.51251	-97.83733	US	ND
+Township of Finley	47.54619	-97.78817	US	ND
+Fleece	48.76026	-97.20674	US	ND
+Township of Flint	46.93672	-99.25618	US	ND
+Flora	47.95028	-99.41791	US	ND
+Township of Florance	47.54394	-98.69193	US	ND
+Forbes	45.94358	-98.78205	US	ND
+City of Forbes	45.94248	-98.78216	US	ND
+Township of Forde	47.71588	-98.4612	US	ND
+Fordville	48.21749	-97.79065	US	ND
+City of Fordville	48.2166	-97.79557	US	ND
+Township of Enterprise	46.06219	-98.74621	US	ND
+Forman	46.10774	-97.63649	US	ND
+City of Forman	46.10369	-97.63645	US	ND
+Township of Forman	46.06578	-97.69636	US	ND
+Forsman Landing Strip	46.42358	-98.76288	US	ND
+Fort Ransom	46.5208	-97.92621	US	ND
+City of Fort Ransom	46.52455	-97.93114	US	ND
+Township of Fort Ransom	46.49969	-97.9717	US	ND
+Fort Seward Historic Site	46.91193	-98.72205	US	ND
+Fort Totten	47.98	-98.9929	US	ND
+Fort Totten Indian Agency	47.9775	-98.9929	US	ND
+Unorganized Territory of Fort Totten	47.98037	-98.98326	US	ND
+Township of Forward	47.71691	-99.8765	US	ND
+Township of Fram	47.80372	-99.74771	US	ND
+Township of Franklin	47.54313	-97.92098	US	ND
+Fredonia	46.32886	-99.09566	US	ND
+City of Fredonia	46.32912	-99.09567	US	ND
+Township of Freeborn	47.80303	-98.58873	US	ND
+Township of Freeman	46.4131	-97.21783	US	ND
+Township of Fremont	48.95709	-98.04168	US	ND
+Fresh Water Coulee	47.94887	-97.22064	US	ND
+Township of Frettim	47.19786	-99.67168	US	ND
+Fried	47.04582	-98.65788	US	ND
+Township of Fried	47.0229	-98.65789	US	ND
+Frontier	46.80052	-96.83314	US	ND
+Frontier Village	46.88943	-98.70066	US	ND
+City of Frontier	46.80044	-96.83318	US	ND
+Fullerton	46.16525	-98.42704	US	ND
+City of Fullerton	46.16327	-98.42731	US	ND
+Gackle	46.62581	-99.14205	US	ND
+City of Gackle	46.62647	-99.14148	US	ND
+Galchutt	46.38746	-96.80952	US	ND
+Galesburg	47.26998	-97.40648	US	ND
+City of Galesburg	47.27018	-97.40874	US	ND
+Township of Galesburg	47.28165	-97.38799	US	ND
+Township of Gallatin	47.30721	-97.99454	US	ND
+Township of Garborg	46.41271	-97.09251	US	ND
+Gardar	48.58916	-97.87398	US	ND
+Township of Gardar	48.58657	-97.86186	US	ND
+Gardner	47.1472	-96.96786	US	ND
+City of Gardner	47.14451	-96.96861	US	ND
+Township of Gardner	47.10786	-97.00661	US	ND
+Garske	48.35778	-98.87735	US	ND
+Geneseo	46.07385	-97.2787	US	ND
+Township of Gerber	47.19736	-99.41776	US	ND
+Township of German	46.15704	-98.94225	US	ND
+Township of Germania	46.6745	-99.2597	US	ND
+Township of Germantown	47.63037	-99.45803	US	ND
+Township of Gerrard	48.58804	-99.29731	US	ND
+Township of Getchell	47.02268	-98.02325	US	ND
+Gilby	48.08527	-97.47064	US	ND
+City of Gilby	48.0837	-97.4677	US	ND
+Township of Gilby	48.06421	-97.44929	US	ND
+Township of Gill	46.84686	-97.36655	US	ND
+Township of Glacier	47.28354	-99.16457	US	ND
+Township of Gladstone	46.50025	-98.22251	US	ND
+Glasston	48.70582	-97.44758	US	ND
+Township of Glen	46.5873	-98.97464	US	ND
+Township of Glendale	46.5884	-99.72662	US	ND
+Township of Glenila	48.82643	-98.93464	US	ND
+Township of Glenmore	46.50041	-98.725	US	ND
+Township of Glenwood	48.49928	-97.60052	US	ND
+Glover	46.24163	-98.13899	US	ND
+Township of Golden Glen	46.32555	-98.7247	US	ND
+Township of Golden	48.41274	-97.86192	US	ND
+Goldwin	47.14888	-99.20122	US	ND
+Township of Freshwater	48.23905	-98.88985	US	ND
+Township of Gordon	48.6814	-98.63384	US	ND
+Grace City	47.55139	-98.80538	US	ND
+City of Grace City	47.55284	-98.80417	US	ND
+Township of Grace	47.80239	-97.68834	US	ND
+Township of Graf	46.67535	-99.51204	US	ND
+Grafton	48.41221	-97.41063	US	ND
+Township of Grafton	46.36246	-96.95675	US	ND
+City of Grafton	48.41466	-97.40628	US	ND
+Township of Grafton	48.41242	-97.47311	US	ND
+Grand Forks	47.92526	-97.03285	US	ND
+City of Grand Forks	47.91226	-97.07517	US	ND
+Township of Grand Forks	47.86417	-97.08106	US	ND
+Township of Grand Prairie	47.10969	-97.89671	US	ND
+Grand Rapids	46.44442	-98.37065	US	ND
+Township of Grand Rapids	46.41333	-98.34798	US	ND
+Township of Grand Valley	46.06916	-98.81839	US	ND
+Grandin	47.23692	-97.00147	US	ND
+City of Grandin	47.23669	-97.00298	US	ND
+Grandview Point	48.4036	-97.79231	US	ND
+Township of Grandview	46.50024	-98.34793	US	ND
+Township of Grant	46.06465	-97.19841	US	ND
+Township of Gray	47.11128	-98.52884	US	ND
+Great Bend	46.15385	-96.80202	US	ND
+City of Great Bend	46.15461	-96.80104	US	ND
+Township of Green	46.84847	-98.1227	US	ND
+Township of Greendale	47.43555	-98.14593	US	ND
+Township of Greendale	45.97896	-96.82619	US	ND
+Township of Greene	46.58647	-97.4689	US	ND
+Township of Greenland	46.67472	-98.37585	US	ND
+Township of Greenview	47.45629	-97.92145	US	ND
+Township of Greenville	46.4133	-98.09707	US	ND
+Township of Greenwood	47.57944	-98.12287	US	ND
+Township of Grey	48.84832	-98.80293	US	ND
+Township of Griffin	46.67424	-99.13363	US	ND
+Guelph	46.02275	-98.23594	US	ND
+Township of Gunkel	47.10826	-97.13354	US	ND
+Guptill	47.51555	-99.13845	US	ND
+Township of Gutschmidt	46.50128	-99.09994	US	ND
+Township of Haag	46.3266	-99.10027	US	ND
+Township of Haaland	47.4576	-99.71364	US	ND
+Township of Hagel	47.89087	-99.87651	US	ND
+Hague	46.0286	-99.99567	US	ND
+City of Hague	46.02891	-99.99895	US	ND
+Hamar	47.84361	-98.57344	US	ND
+Hamberg	47.76306	-99.51457	US	ND
+City of Hamberg	47.76279	-99.51553	US	ND
+Township of Hamburg	46.15582	-98.69261	US	ND
+Township of Hamburg	47.71649	-99.49027	US	ND
+Hamilton	48.8086	-97.45286	US	ND
+City of Hamilton	48.80813	-97.45274	US	ND
+Township of Hamilton	48.77171	-97.49139	US	ND
+Hamlin	46.16607	-97.28509	US	ND
+Township of Hamlin	47.80393	-98.20519	US	ND
+Township of Hammer	48.41364	-98.90568	US	ND
+Hampden	48.54028	-98.65429	US	ND
+City of Hampden	48.5396	-98.65432	US	ND
+Hample	46.13719	-97.97788	US	ND
+Hankinson	46.06968	-96.90175	US	ND
+City of Hankinson	46.07165	-96.89184	US	ND
+Hanks Corner	48.75888	-97.94982	US	ND
+Hannaford	47.31333	-98.18648	US	ND
+City of Hannaford	47.31418	-98.18894	US	ND
+Hannah	48.97167	-98.69179	US	ND
+Hannah Junction	47.92527	-97.66703	US	ND
+City of Hannah	48.973	-98.69035	US	ND
+Hansboro	48.95001	-99.38291	US	ND
+City of Hansboro	48.95232	-99.38072	US	ND
+Township of Hanson	46.413	-97.9717	US	ND
+Township of Harding	48.32602	-98.74597	US	ND
+Township of Harlem	46.15325	-97.82007	US	ND
+Harlow	48.16361	-99.51902	US	ND
+Township of Harmony	46.93525	-97.11679	US	ND
+Township of Harriston	48.32632	-97.31712	US	ND
+Hartwig Landing Strip	46.33275	-98.65593	US	ND
+Harvey	47.76972	-99.9354	US	ND
+City of Harvey	47.76989	-99.93057	US	ND
+Township of Harvey	48.84814	-98.27743	US	ND
+Harwood	46.97941	-96.88064	US	ND
+City of Harwood	46.97615	-96.87952	US	ND
+Township of Harwood	47.01968	-96.8804	US	ND
+Hastings	46.68387	-98.09454	US	ND
+Hatton	47.63971	-97.45342	US	ND
+City of Hatton	47.63697	-97.45876	US	ND
+Havana	45.95024	-97.61899	US	ND
+City of Havana	45.9517	-97.61837	US	ND
+Township of Haven	47.45712	-98.81955	US	ND
+Hawks Nest	47.34211	-99.2877	US	ND
+Township of Hawksnest	47.3706	-99.33021	US	ND
+Township of Hay	48.76112	-98.14624	US	ND
+Township of Haynes	47.02463	-99.92481	US	ND
+Hazen Brook	47.91888	-97.36564	US	ND
+Heaton	47.47833	-99.5479	US	ND
+Township of Hegton	47.97675	-97.55902	US	ND
+Heimdal	47.79278	-99.64512	US	ND
+Township of Heimdal	47.80351	-99.61897	US	ND
+Township of Helena	47.36992	-98.30752	US	ND
+Township of Helendale	46.58643	-97.21813	US	ND
+Township of Hemen	46.84879	-98.24884	US	ND
+Township of Henderson	48.68047	-98.78013	US	ND
+Township of Henrietta	46.41357	-98.47356	US	ND
+Hensel	48.68833	-97.66648	US	ND
+Township of Herberg	47.36695	-96.90334	US	ND
+Township of Herman	46.15189	-97.32183	US	ND
+Herrick	48.51387	-97.22841	US	ND
+Herrick Interchange	48.53026	-97.1859	US	ND
+Herriott	48.35443	-97.38924	US	ND
+Hesper	47.9864	-99.62985	US	ND
+Township of Hesper	47.97751	-99.61894	US	ND
+Hickson	46.66941	-96.81036	US	ND
+Township of Highland	46.1458	-97.47787	US	ND
+Township of Highland	46.67305	-97.49313	US	ND
+Township of Hidden	47.02281	-98.91126	US	ND
+Township of Hoiland	47.7486	-97.93621	US	ND
+Holmes	47.71582	-97.29675	US	ND
+Honeyford	48.03332	-97.47064	US	ND
+Hoople	48.53471	-97.63481	US	ND
+City of Hoople	48.535	-97.63771	US	ND
+Hope	47.32221	-97.72232	US	ND
+City of Hope	47.32438	-97.71927	US	ND
+Township of Hope	48.93128	-98.15862	US	ND
+Township of Hope	48.15129	-98.48702	US	ND
+Horace	46.75886	-96.9037	US	ND
+City of Horace	46.75594	-96.90725	US	ND
+Horseshoe Coulee	48.4386	-97.29285	US	ND
+Hoving	46.24746	-97.56815	US	ND
+Township of Howell	48.7617	-99.32864	US	ND
+Township of Howes	46.84688	-97.49289	US	ND
+Township of Hudson	46.06806	-98.19608	US	ND
+Township of Hugo	47.3688	-97.66563	US	ND
+Hunter	47.19053	-97.21703	US	ND
+City of Hunter	47.19047	-97.21317	US	ND
+Township of Hunter	47.19545	-97.26268	US	ND
+Township of Huron	48.76146	-98.8031	US	ND
+Township of Ibsen	46.326	-96.84123	US	ND
+Icelandic Coulee	48.93749	-97.28896	US	ND
+Township of Illinois	47.97716	-98.46128	US	ND
+Independence	46.34108	-98.19399	US	ND
+Inkster	48.15138	-97.64425	US	ND
+City of Inkster	48.15147	-97.64416	US	ND
+Township of Inkster	48.15132	-97.70973	US	ND
+Township of Iosco	47.0235	-99.29121	US	ND
+Township of Iowa	48.23869	-99.78289	US	ND
+Township of Irvine	48.32626	-99.26493	US	ND
+Isabel	48.06473	-99.65347	US	ND
+Township of Isabel	48.06471	-99.65357	US	ND
+Township of Isley	46.32609	-97.97195	US	ND
+Township of Jackson	46.06628	-97.94553	US	ND
+James Whitman Landing Strip	47.13138	-99.75289	US	ND
+Jamestown	46.91054	-98.70844	US	ND
+Jamestown Junction	46.86332	-98.67093	US	ND
+City of Jamestown	46.90652	-98.69267	US	ND
+Township of Janke	46.41374	-99.10006	US	ND
+Jessie	47.54222	-98.23815	US	ND
+Johnson	46.97971	-98.50648	US	ND
+Johnson National Wildlife Refuge	48.49861	-99.28125	US	ND
+Township of Johnson	47.37058	-99.45803	US	ND
+Johnston Polled Herefords Airstrip	48.47584	-99.1918	US	ND
+Johnstown	48.14416	-97.47008	US	ND
+Township of Johnstown	48.15137	-97.44903	US	ND
+Joliette	48.81804	-97.22757	US	ND
+Joliette Interchange	48.8036	-97.23174	US	ND
+Township of Joliette	48.79676	-97.22781	US	ND
+Josephine	47.93972	-99.31402	US	ND
+Juanita	47.50222	-98.68399	US	ND
+Jud	46.52609	-98.89566	US	ND
+City of Jud	46.52586	-98.89775	US	ND
+Juniata National Wildlife Refuge	48.45972	-99.77847	US	ND
+Township of Kane	48.01305	-98.32177	US	ND
+Karnak	47.28082	-98.06426	US	ND
+Kathryn	46.67803	-97.96871	US	ND
+City of Kathryn	46.68176	-97.97071	US	ND
+Keith	48.09334	-98.75261	US	ND
+Keith Jones Airstrip	48.85584	-98.92902	US	ND
+Kellogg	48.36304	-97.4273	US	ND
+Kelly	47.97998	-97.24536	US	ND
+Kelso	47.32303	-97.02953	US	ND
+Township of Kelso	47.28144	-97.00684	US	ND
+Kempton	47.81888	-97.61425	US	ND
+Township of Kennison	46.58736	-98.72489	US	ND
+Kensal	47.30083	-98.73344	US	ND
+City of Kensal	47.30004	-98.73213	US	ND
+Township of Kensal	47.28333	-98.78541	US	ND
+Township of Kensington	48.41392	-97.73069	US	ND
+Township of Kent	46.0663	-98.31803	US	ND
+Township of Kentner	46.0671	-98.44268	US	ND
+Kerry	48.45638	-97.80426	US	ND
+Township of Keystone	46.15503	-98.56673	US	ND
+Kindred	46.64858	-97.01703	US	ND
+City of Kindred	46.64943	-97.01689	US	ND
+Township of Kingsley	47.45693	-98.4358	US	ND
+Township of Kingston	46.05649	-97.31962	US	ND
+Township of Kinloss	48.50015	-98.25307	US	ND
+Kintyre	46.54971	-99.94955	US	ND
+Township of Kinyon	47.19507	-97.00628	US	ND
+Township of Klingstrup	48.50061	-98.9054	US	ND
+Kloten	47.71611	-98.07537	US	ND
+Kloze	46.80054	-98.73983	US	ND
+Knox	48.34028	-99.69041	US	ND
+City of Knox	48.34404	-99.69117	US	ND
+Koldok	46.92859	-97.72371	US	ND
+Township of Kroeber	46.52498	-99.84761	US	ND
+Kulm	46.30191	-98.94816	US	ND
+City of Kulm	46.30225	-98.94663	US	ND
+La Mars	45.96468	-96.69035	US	ND
+Township of La Moure	48.84763	-97.884	US	ND
+Township of LaMars	45.97909	-96.70105	US	ND
+LaMoure	46.35719	-98.29454	US	ND
+City of LaMoure	46.35717	-98.29611	US	ND
+Ladoga	46.8761	-99.56289	US	ND
+Lakota	48.04278	-98.33621	US	ND
+City of Lakota	48.04267	-98.34679	US	ND
+Township of Lakota	48.06518	-98.35785	US	ND
+Lallie	47.97833	-99.21597	US	ND
+Unorganized Territory of Lallie North	48.0659	-99.12756	US	ND
+Township of Lallie	47.98404	-99.13238	US	ND
+Township of Lampton	48.49969	-97.86191	US	ND
+Laney Landing Strip	46.36525	-98.12538	US	ND
+Lang Landing Strip	46.55831	-99.33372	US	ND
+Langdon	48.76	-98.36817	US	ND
+City of Langdon	48.76237	-98.37311	US	ND
+Lankin	48.31111	-97.92509	US	ND
+City of Lankin	48.3145	-97.92132	US	ND
+Township of Lansing	48.84847	-99.06681	US	ND
+Larimore	47.90666	-97.62675	US	ND
+City of Larimore	47.90902	-97.62727	US	ND
+Township of Larimore	47.88924	-97.68932	US	ND
+Township of Larrabee	47.54386	-98.81981	US	ND
+Larson Landing Strip	46.24997	-98.42954	US	ND
+Township of Latona	48.32557	-98.09774	US	ND
+Lawton	48.30278	-98.36927	US	ND
+City of Lawton	48.30353	-98.36845	US	ND
+Leal	47.10527	-98.31732	US	ND
+City of Leal	47.10495	-98.31539	US	ND
+Township of Lee	47.71582	-98.07549	US	ND
+Leeds	48.28889	-99.43764	US	ND
+City of Leeds	48.28905	-99.43952	US	ND
+Township of Lees	47.13166	-98.83761	US	ND
+Lehr	46.27969	-99.35233	US	ND
+City of Lehr	46.28243	-99.35287	US	ND
+Lemert	47.50972	-99.264	US	ND
+Township of Lenora	47.62961	-98.04837	US	ND
+Township of Lenton	46.76156	-98.88188	US	ND
+Leonard	46.65191	-97.24565	US	ND
+City of Leonard	46.65232	-97.24993	US	ND
+Township of Leonard	46.67335	-97.24109	US	ND
+Leroy	48.92333	-97.75258	US	ND
+Township of Leval	47.8897	-98.4613	US	ND
+Township of Levant	48.15089	-97.31939	US	ND
+Leyden	48.87666	-97.81092	US	ND
+Township of Liberty	46.58524	-97.59495	US	ND
+Lidgerwood	46.07552	-97.15176	US	ND
+City of Lidgerwood	46.07373	-97.14514	US	ND
+Township of Lillehoff	48.23907	-98.3572	US	ND
+Lincoln Interchange	48.65832	-97.18174	US	ND
+Township of Lincoln	48.67316	-97.19235	US	ND
+Township of Lind	47.71562	-97.68887	US	ND
+Township of Lindaas	47.54242	-97.28168	US	ND
+Township of Linden	48.94576	-98.67162	US	ND
+Township of Lippert	46.8488	-98.88204	US	ND
+Lisbon	46.44163	-97.68121	US	ND
+City of Lisbon	46.43826	-97.68406	US	ND
+Litchville	46.65359	-98.19426	US	ND
+City of Litchville	46.6576	-98.19182	US	ND
+Township of Litchville	46.58724	-98.09656	US	ND
+Lithia	46.61607	-96.81342	US	ND
+Little Coulee	48.18722	-99.22763	US	ND
+Little Goose National Wildlife Refuge	47.9303	-97.84236	US	ND
+Township of Lodema	48.67389	-97.60073	US	ND
+Township of Lohnes	47.96137	-98.70878	US	ND
+Loma	48.63028	-98.5329	US	ND
+City of Loma	48.64178	-98.52474	US	ND
+Township of Longview	47.37052	-99.2025	US	ND
+Lookout Point	48.91083	-97.92565	US	ND
+Township of Loretta	47.71571	-97.818	US	ND
+Township of Lorraine	45.98271	-98.81862	US	ND
+Louden Coulee	48.91138	-97.32979	US	ND
+Township of Loam	48.8489	-98.14849	US	ND
+Township of Lovell	45.97714	-98.08538	US	ND
+Lowell	45.94192	-99.38012	US	ND
+Township of Lowery	47.28385	-99.41783	US	ND
+Lucca	46.70692	-97.71983	US	ND
+Ludden	46.00858	-98.12538	US	ND
+City of Ludden	46.00811	-98.1255	US	ND
+Luverne	47.2511	-97.93482	US	ND
+City of Luverne	47.25139	-97.93488	US	ND
+Lynchburg	46.77442	-97.26287	US	ND
+Lynchburg Interchange	46.87609	-97.26342	US	ND
+Township of Lynn	47.37076	-99.96917	US	ND
+Township of Lyon	47.19697	-98.78447	US	ND
+Township of Mabel	47.37002	-98.43545	US	ND
+Maddock	47.96251	-99.53013	US	ND
+City of Maddock	47.96244	-99.52924	US	ND
+Magnolia	46.91248	-97.42954	US	ND
+Maida	48.99861	-98.36483	US	ND
+Mandt	48.41971	-97.60092	US	ND
+Manfred	47.69472	-99.74818	US	ND
+Township of Manfred	47.7168	-99.74777	US	ND
+Township of Manilla	48.76122	-98.27742	US	ND
+Township of Manning	46.71969	-99.89054	US	ND
+Township of Manns	46.67447	-98.50232	US	ND
+Mantador	46.16524	-96.97731	US	ND
+City of Mantador	46.16547	-96.97784	US	ND
+Manvel	48.07776	-97.17646	US	ND
+City of Manvel	48.07261	-97.17792	US	ND
+Mapes	48.03111	-98.22732	US	ND
+Township of Mapes	48.01277	-98.19316	US	ND
+Township of Maple	46.15404	-98.44166	US	ND
+Mapleton	46.88914	-97.05259	US	ND
+City of Mapleton	46.89126	-97.05304	US	ND
+Township of Mapleton	46.84576	-96.98958	US	ND
+Township of Marboe	45.9685	-97.29384	US	ND
+Marion	46.6072	-98.33232	US	ND
+City of Marion	46.60911	-98.33751	US	ND
+Market Square	46.8583	-96.82119	US	ND
+Township of Marstonmoor	47.11046	-99.41794	US	ND
+Township of Martin	48.49921	-97.34103	US	ND
+Township of Maryville	48.76192	-99.72289	US	ND
+Mason	47.07359	-97.32898	US	ND
+Mauvais Coulee	48.32028	-99.14847	US	ND
+Mayville	47.49804	-97.32454	US	ND
+City of Mayville	47.49805	-97.32617	US	ND
+Township of Mayville	47.45345	-97.28193	US	ND
+Maza	48.39361	-99.19847	US	ND
+City of Maza	48.395	-99.19986	US	ND
+McArthur	48.87638	-97.22785	US	ND
+McArthur Elevator	48.87304	-97.22673	US	ND
+McArthur Interchange	48.87638	-97.23035	US	ND
+McCanna	48.00583	-97.71009	US	ND
+Township of McClellan	48.15142	-99.39436	US	ND
+McHenry	47.57611	-98.59149	US	ND
+City of McHenry	47.57642	-98.59117	US	ND
+McLeod	46.39358	-97.29954	US	ND
+McPhail Butte	46.97975	-99.64177	US	ND
+McPhail Butte Historic Monument	46.97999	-99.64177	US	ND
+McVille	47.76388	-98.17732	US	ND
+McVille Coulee	47.7125	-98.15676	US	ND
+City of McVille	47.76522	-98.17551	US	ND
+Medberry	46.3758	-98.62093	US	ND
+Township of Medford	48.23901	-97.83974	US	ND
+Medina	46.89388	-99.29983	US	ND
+City of Medina	46.89522	-99.29987	US	ND
+Meidinger Square	46.90554	-98.70871	US	ND
+Mekinock	48.01277	-97.36342	US	ND
+Township of Mekinock	47.97694	-97.42931	US	ND
+Township of Melrose	47.36905	-97.79396	US	ND
+Melville	47.33472	-99.03567	US	ND
+Township of Melville	47.37034	-99.07463	US	ND
+Township of Melvin	47.88953	-98.07524	US	ND
+Township of Merkel	47.24093	-99.79911	US	ND
+Meyer Township National Wildlife Refuge	48.30555	-99.86541	US	ND
+Township of Meyer	48.32672	-99.91213	US	ND
+Michigan	48.025	-98.11705	US	ND
+City of Michigan City	48.02459	-98.12	US	ND
+Township of Michigan	47.71572	-97.17467	US	ND
+Township of Michigan	48.02947	-98.09728	US	ND
+Township of Midford	48.23138	-97.82787	US	ND
+Township of Midland	48.63057	-97.34033	US	ND
+Township of Midway	46.93852	-98.76838	US	ND
+Township of Mikkelson	46.58736	-98.85008	US	ND
+Milnor	46.25913	-97.4562	US	ND
+City of Milnor	46.26094	-97.45733	US	ND
+Township of Milnor	46.23845	-97.44531	US	ND
+Milton	48.62638	-98.0426	US	ND
+City of Milton	48.62636	-98.0459	US	ND
+Township of Minco	47.88339	-98.59108	US	ND
+Minto	48.29165	-97.37147	US	ND
+City of Minto	48.29239	-97.37302	US	ND
+Township of Minto	48.8482	-98.67153	US	ND
+Mirror Pool	46.52672	-97.24051	US	ND
+Township of Mission	47.98817	-98.83883	US	ND
+Monango	46.17275	-98.59454	US	ND
+City of Monango	46.17334	-98.59515	US	ND
+Township of Monroe	48.76163	-99.46004	US	ND
+Montpelier	46.70026	-98.5901	US	ND
+City of Montpelier	46.699	-98.58907	US	ND
+Township of Montpelier	46.67416	-98.62886	US	ND
+Township of Montrose	48.58612	-97.99143	US	ND
+Township of Moore	46.2319	-96.75202	US	ND
+Township of Moore	46.58681	-97.7209	US	ND
+Mooreton	46.26857	-96.87619	US	ND
+City of Mooreton	46.26888	-96.87593	US	ND
+Township of Mooreton	46.23916	-96.82306	US	ND
+Township of Moraine	47.88972	-97.81777	US	ND
+Butte de Morale	47.83131	-99.8536	US	ND
+Township of Moran	46.06563	-97.0737	US	ND
+Township of Morgan	47.62859	-97.28246	US	ND
+Township of Morris	48.23835	-98.74606	US	ND
+Township of Moscow	48.76137	-98.67167	US	ND
+Mose	47.57861	-98.45482	US	ND
+Moselle	46.2319	-97.08342	US	ND
+Munich	48.66917	-98.83263	US	ND
+City of Munich	48.67286	-98.83843	US	ND
+Munster	47.72028	-99.27179	US	ND
+Township of Munster	47.71647	-99.23285	US	ND
+Murray	47.42582	-97.2762	US	ND
+Mylo	48.63528	-99.61876	US	ND
+City of Mylo	48.63593	-99.61784	US	ND
+Myra	46.85359	-97.32009	US	ND
+Township of Nansen	46.41275	-96.96712	US	ND
+Nanson	48.57389	-99.77987	US	ND
+Napoleon	46.50831	-99.77122	US	ND
+City of Napoleon	46.50391	-99.76841	US	ND
+Nash	48.47055	-97.51314	US	ND
+Township of Nash	48.06448	-97.96832	US	ND
+Neche	48.9861	-97.5548	US	ND
+City of Neche	48.98304	-97.55163	US	ND
+Township of Neche	48.94216	-97.48343	US	ND
+Nekoma	48.57722	-98.37039	US	ND
+Nekoma Coulee	48.43612	-98.4465	US	ND
+Township of Nelson	47.43499	-98.01871	US	ND
+Township of Nelson	46.76106	-97.99712	US	ND
+Township of Nesheim	47.71553	-98.20443	US	ND
+Ness Airstrip	46.31301	-96.81619	US	ND
+Township of New City	48.5879	-99.42817	US	ND
+Township of New Washington	47.23333	-98.58371	US	ND
+Township of Newbre	48.2382	-98.48695	US	ND
+Township of Newburgh	47.62872	-97.53676	US	ND
+Township of Newbury	46.76209	-99.38483	US	ND
+Township of Newland	48.41327	-98.3836	US	ND
+Newman	46.99108	-97.09953	US	ND
+Newville	48.55862	-98.98736	US	ND
+Niagara	47.99638	-97.87037	US	ND
+City of Niagara	47.9983	-97.87167	US	ND
+Township of Niagara	47.97646	-97.81628	US	ND
+Nicholson	46.10913	-97.86816	US	ND
+Niles	48.28111	-99.3493	US	ND
+Township of Noble	47.19394	-96.88685	US	ND
+Township of Nogosek	47.28346	-98.65768	US	ND
+Nolan	47.13804	-97.55731	US	ND
+Township of Noltimier	47.02264	-97.89633	US	ND
+Nome	46.67775	-97.81038	US	ND
+City of Nome	46.67567	-97.81647	US	ND
+Township of Noonan	48.23832	-98.61651	US	ND
+Township of Nora	46.41338	-98.72484	US	ND
+Township of Norden	46.3267	-98.9751	US	ND
+Township of Nordmore	47.54392	-98.94697	US	ND
+Township of Norma	46.76071	-97.87087	US	ND
+Norman	46.65885	-96.94342	US	ND
+Township of Norman	47.36787	-97.41038	US	ND
+Township of Normania	48.23832	-99.26484	US	ND
+Township of Normanna	46.67464	-96.98804	US	ND
+City of Nekoma	48.57623	-98.37527	US	ND
+Township of North Creel	48.15614	-98.87555	US	ND
+North Grand Forks	47.97943	-97.09091	US	ND
+Township of North Loma	48.69533	-98.50896	US	ND
+Township of North Olga	48.85306	-98.02103	US	ND
+Unorganized Territory of North Pierce	48.41393	-100.08085	US	ND
+Unorganized Territory of North Rolette	48.90213	-99.96923	US	ND
+North Valley City	46.94609	-97.99677	US	ND
+Township of North Viking	47.97772	-99.48931	US	ND
+Township of Northland	46.587	-97.97134	US	ND
+Unorganized Territory of Northwest McIntosh	46.20128	-99.58589	US	ND
+Unorganized Territory of Northwest Stutsman	47.19682	-99.16432	US	ND
+Township of Northwest	46.24182	-98.94201	US	ND
+Northwood	47.73415	-97.56675	US	ND
+City of Northwood	47.73667	-97.5653	US	ND
+Township of Northwood	47.71445	-97.5595	US	ND
+Township of Norton	48.3256	-97.96847	US	ND
+Nortonville	46.55831	-98.73871	US	ND
+Norway	46.13886	-98.14566	US	ND
+Township of Norway	47.45447	-97.1556	US	ND
+Township 5	46.36246	-97.14481	US	ND
+O'Brien Coulee	48.83777	-98.0926	US	ND
+Oakes	46.13858	-98.09038	US	ND
+Oakes Interchange	46.91276	-98.08149	US	ND
+City of Oakes	46.13931	-98.08774	US	ND
+Township of Oakville	47.88955	-97.30193	US	ND
+Oakwood	48.42693	-97.29535	US	ND
+Township of Oakwood	48.41211	-97.3391	US	ND
+Oberon	47.92305	-99.20402	US	ND
+City of Oberon	47.92409	-99.20591	US	ND
+Township of Odessa	47.97436	-98.59691	US	ND
+Old Baldy	48.92607	-98.06699	US	ND
+Old Settlers Monument	46.40275	-99.61539	US	ND
+Olga	48.79833	-98.03788	US	ND
+Olmstead	48.62751	-99.08514	US	ND
+Olson National Wildlife Refuge	48.25722	-99.73735	US	ND
+Township of Olson	48.50114	-99.29733	US	ND
+Township of Ontario	48.15133	-98.61672	US	ND
+Ops	48.22777	-97.59703	US	ND
+Township of Ops	48.23823	-97.57893	US	ND
+Township of Ora	47.7168	-97.94564	US	ND
+Oriska	46.93053	-97.78899	US	ND
+Oriska Interchange	46.91998	-97.78705	US	ND
+City of Oriska	46.93136	-97.79068	US	ND
+Township of Oriska	46.93503	-97.74515	US	ND
+Orr	48.09333	-97.67536	US	ND
+Township of Osago	47.80277	-98.33284	US	ND
+Township of Osford	48.58672	-98.1223	US	ND
+Township of Oshkosh	47.63032	-99.58554	US	ND
+Oswald	46.05885	-96.72813	US	ND
+Township of Overland	48.41351	-98.64451	US	ND
+Township of Ovid	46.32593	-98.09763	US	ND
+Township of Owego	46.49988	-97.34294	US	ND
+City of Oxbow	46.67203	-96.80183	US	ND
+Page	47.15971	-97.5712	US	ND
+City of Page	47.15794	-97.57054	US	ND
+Township of Page	47.19571	-97.51459	US	ND
+Palensky Private Landing Strip	46.05413	-98.02955	US	ND
+Township of Paradise	47.62985	-98.56417	US	ND
+Township of Paris	47.11006	-99.16436	US	ND
+Township of Paulson	48.58779	-99.16668	US	ND
+Township of Peace	46.67567	-99.63847	US	ND
+Pekin	47.79083	-98.32816	US	ND
+City of Pekin	47.79192	-98.32783	US	ND
+Township of Pelican	48.16016	-99.12568	US	ND
+Pelto	48.15861	-98.22788	US	ND
+Pembina	48.96638	-97.24368	US	ND
+Pembina Interchange	48.97082	-97.25729	US	ND
+Pembina Valley	48.88333	-97.99899	US	ND
+Township of Pembina	48.94599	-97.31989	US	ND
+Penn	48.22167	-99.08902	US	ND
+Township of Perry	48.67419	-98.38331	US	ND
+Perth	48.71639	-99.45792	US	ND
+City of Perth	48.71488	-99.45802	US	ND
+Township of Perth	48.23824	-98.09781	US	ND
+Peters	46.38387	-99.70733	US	ND
+Petersburg	48.01111	-98.00149	US	ND
+City of Petersburg	48.01319	-98.00039	US	ND
+Township of Petersburg	47.97621	-97.96731	US	ND
+Peterson Airstrip	47.04831	-97.25564	US	ND
+Peterson Coulee	47.89445	-99.38485	US	ND
+City of Pembina	48.96654	-97.24744	US	ND
+Township of Peterson	46.93632	-99.38344	US	ND
+Township of Petersville	47.19764	-99.54445	US	ND
+Pettibone	47.11916	-99.51956	US	ND
+City of Pettibone	47.11923	-99.52047	US	ND
+Pfeifer Airstrip	46.12914	-98.22538	US	ND
+Township of Picton	48.94561	-99.46021	US	ND
+Township of Pierce	47.1975	-98.40305	US	ND
+Pigeon Point	46.49719	-97.39731	US	ND
+Pillsbury	47.20693	-97.79066	US	ND
+City of Pillsbury	47.20709	-97.79587	US	ND
+Pilot Knob	47.05599	-97.85522	US	ND
+Township of Pilot Mound	47.62981	-98.17808	US	ND
+Pingree	47.16333	-98.90705	US	ND
+City of Pingree	47.1638	-98.90895	US	ND
+Township of Pingree	47.19708	-98.91108	US	ND
+Pinkham	46.92025	-96.90369	US	ND
+Pickert	47.44166	-97.81509	US	ND
+Township of Pipestem Valley	47.19694	-99.03768	US	ND
+Pisek	48.31083	-97.70925	US	ND
+City of Pisek	48.311	-97.71092	US	ND
+Township of Plainview	47.10986	-98.91107	US	ND
+Township of Pleasant	47.57944	-98.01704	US	ND
+Township of Pleasant Prairie	47.63001	-98.94686	US	ND
+Pleasant Valley	48.36944	-97.86454	US	ND
+Township of Pleasant View	47.43555	-98.36065	US	ND
+Township of Pleasant View	46.1458	-97.87177	US	ND
+Township of Pleasant View	47.80253	-97.43068	US	ND
+Township of Pleasant	46.67293	-96.85784	US	ND
+Township of Plymouth	48.06439	-97.8387	US	ND
+Point Kneeshaw	48.92498	-98.05744	US	ND
+Poland	48.19776	-97.21841	US	ND
+Township of Pomona View	46.32636	-98.84972	US	ND
+Township of Pontiac	46.67329	-97.61898	US	ND
+Township of Port Emma	45.98224	-98.20916	US	ND
+Township of Porter	46.24035	-98.44002	US	ND
+Portland	47.49832	-97.37037	US	ND
+Portland Junction	47.56137	-97.36926	US	ND
+City of Portland	47.4993	-97.36933	US	ND
+Township of Potter	46.93592	-98.24882	US	ND
+Powell	47.9197	-97.17786	US	ND
+Power	46.55552	-97.23815	US	ND
+Township of Prairie Centre	48.32544	-97.57875	US	ND
+Prairie Rose	46.81747	-96.83564	US	ND
+City of Prairie Rose	46.81711	-96.83514	US	ND
+Township of Prairie	46.58746	-98.22224	US	ND
+Preston	47.3122	-97.2187	US	ND
+Township of Preston	46.58694	-97.84648	US	ND
+Township of Primrose	47.45503	-97.53752	US	ND
+Township of Progress	47.37072	-99.71359	US	ND
+Township of Prospect	48.50023	-98.51398	US	ND
+Prosper	46.96303	-97.01981	US	ND
+Township of Pulaski	48.3231	-97.19297	US	ND
+The Pyramid	46.52391	-97.92037	US	ND
+Queen of Peace Priory	48.80973	-99.78931	US	ND
+Township of Quinby	47.02446	-99.79801	US	ND
+Ramsey	48.15833	-99.08846	US	ND
+Township of Raney	46.50048	-98.97484	US	ND
+Township of Ransom	46.06531	-97.44516	US	ND
+Township of Raritan	46.67352	-97.74488	US	ND
+Rau Airstrip	46.61998	-99.56705	US	ND
+Township of Ray	46.41341	-98.85013	US	ND
+Township of Raymond	46.93572	-96.98751	US	ND
+Township of Red Willow	47.58	-98.36121	US	ND
+Township of Reed	46.94129	-96.8789	US	ND
+Reeves	46.86304	-98.5826	US	ND
+City of Reile's Acres	46.92691	-96.86648	US	ND
+Reiles Acres	46.92302	-96.86536	US	ND
+Township of Reno Valley	48.23881	-99.91247	US	ND
+Revere	47.35555	-98.32871	US	ND
+Township of Rexin	47.28194	-99.49206	US	ND
+Township of Rexine	47.28413	-99.54462	US	ND
+Reynolds	47.6722	-97.10675	US	ND
+City of Reynolds	47.67012	-97.10888	US	ND
+Rice Township National Wildlife Refuge	48.58639	-99.83403	US	ND
+Township of Rich Valley	47.97773	-99.74769	US	ND
+Township of Rich	47.10862	-97.51472	US	ND
+Township of Riggin	48.14335	-99.2383	US	ND
+Robinson	47.14277	-99.78122	US	ND
+Robinson Coulee	47.74639	-98.85372	US	ND
+Township of Robinson	47.1111	-99.79859	US	ND
+Township of Rochester	47.19602	-97.64221	US	ND
+City of Robinson	47.14226	-99.78028	US	ND
+City of Rogers	47.07401	-98.20312	US	ND
+Township of Rogers	47.11126	-98.14913	US	ND
+Rohrville	48.1425	-98.66011	US	ND
+Rolette	48.66083	-99.84153	US	ND
+City of Rolette	48.66083	-99.84175	US	ND
+Rolla	48.85778	-99.61792	US	ND
+City of Rolla	48.86034	-99.61818	US	ND
+Township of Rolling Prairie	47.45701	-98.69169	US	ND
+Township of Roloff	46.24186	-99.06561	US	ND
+Township of Romness	47.54344	-98.04881	US	ND
+Roosevelt Playground	46.89108	-96.79286	US	ND
+Township of Roscoe	46.50021	-98.47373	US	ND
+Township of Rose	47.02304	-98.53086	US	ND
+Rosebud Coulee	48.88888	-97.48064	US	ND
+Rogers	47.07276	-98.19954	US	ND
+Township of Rosebud	46.67526	-98.25118	US	ND
+Township of Rosemeade	46.32603	-97.34346	US	ND
+Township of Rosendal	47.6298	-98.436	US	ND
+Roseville	47.44026	-97.38898	US	ND
+Township of Roseville	47.45442	-97.4104	US	ND
+Rott Brothers Airstrip	46.79026	-99.69066	US	ND
+Round Top	47.12922	-99.03576	US	ND
+Township of Round Top	47.1099	-99.03769	US	ND
+Township of Royal	48.50048	-98.77491	US	ND
+Township of Rubin	48.06458	-98.2278	US	ND
+Rugby	48.36889	-99.99625	US	ND
+City of Rugby	48.36663	-99.99214	US	ND
+Township of Rugh	47.80269	-97.94658	US	ND
+Township of Rushford	48.32556	-97.70863	US	ND
+Township of Rusland	47.63082	-99.84118	US	ND
+Township of Russell	46.5004	-98.59954	US	ND
+Rutland	46.05302	-97.50898	US	ND
+City of Rutland	46.05433	-97.50684	US	ND
+Township of Rutland	46.06589	-97.57105	US	ND
+Township of Ryan	46.32625	-98.22259	US	ND
+Township of Rye	47.97841	-97.17414	US	ND
+Sacred Heart Convent	46.80191	-96.80147	US	ND
+Township of Saint Andrews	48.49865	-97.21048	US	ND
+Township of Saint Anna	47.63068	-99.71362	US	ND
+Saint Anns Indian Mission	48.84028	-99.75487	US	ND
+Saint Benedict	46.72441	-96.84147	US	ND
+Saint Joe	48.51362	-98.92735	US	ND
+Saint John	48.94445	-99.71097	US	ND
+City of Saint John	48.94375	-99.71316	US	ND
+Township of Saint Joseph	48.94609	-97.75273	US	ND
+Saint Michael	47.985	-98.87206	US	ND
+Township of Saint Paul	46.84917	-99.38415	US	ND
+Saint Thomas	48.61916	-97.44647	US	ND
+City of Saint Thomas	48.61937	-97.4471	US	ND
+Township of Saint Thomas	48.63054	-97.4698	US	ND
+Salt Coulee	47.87498	-97.32092	US	ND
+Salt Water Coulee	48.0086	-97.21175	US	ND
+Sanborn	46.94221	-98.22426	US	ND
+City of Sanborn	46.94211	-98.22396	US	ND
+Township of Sandoun	46.41307	-97.34356	US	ND
+Township of Saratoga	46.58747	-98.47335	US	ND
+Township of Sargent	46.06599	-97.82088	US	ND
+Sarles	48.94584	-98.99596	US	ND
+City of Sarles	48.94505	-98.99573	US	ND
+Township of Sarnia	48.15137	-98.09791	US	ND
+Township of Sauter	48.23853	-98.22751	US	ND
+Schell Buttes	46.30425	-99.82965	US	ND
+Township of Scoville	46.39156	-97.46917	US	ND
+Township of Sealy	46.58855	-99.85288	US	ND
+Township of Seivert	48.58171	-98.89877	US	ND
+Selz	47.85722	-99.89179	US	ND
+Sevenmile Coulee	46.55414	-98.48398	US	ND
+Sevenmile Coulee	46.86915	-98.57093	US	ND
+Township of Severn	46.67435	-98.75506	US	ND
+Sharlow	46.67998	-98.86011	US	ND
+Township of Sharlow	46.67432	-98.8817	US	ND
+Sharon	47.59721	-97.89398	US	ND
+City of Sharon	47.59745	-97.89968	US	ND
+Township of Sharon	47.63085	-97.92148	US	ND
+Shawnee	47.95527	-97.7512	US	ND
+Township of Shelby	46.14858	-98.74427	US	ND
+Sheldon	46.5858	-97.4912	US	ND
+Village of Sheldon	46.58743	-97.49195	US	ND
+Township of Sheldon	47.71625	-98.97552	US	ND
+Shell Valley	48.75111	-99.8732	US	ND
+Township of Shell Valley	48.76212	-99.85441	US	ND
+Township of Shenford	46.47831	-97.46886	US	ND
+Shepard	47.38972	-98.13204	US	ND
+Township of Shepherd	48.32581	-98.22736	US	ND
+Sherbrooke	47.46082	-97.71954	US	ND
+Township of Sherbrooke	47.45548	-97.66538	US	ND
+Township of Sheridan	46.58688	-98.34794	US	ND
+Sheyenne	47.82805	-99.12012	US	ND
+Sheyenne National Grassland	46.42658	-97.29528	US	ND
+Shell Valley	48.79806	-99.86486	US	ND
+City of Sheyenne	47.82726	-99.11695	US	ND
+Township of Sheyenne	46.49989	-97.21767	US	ND
+Township of Shuman	46.15236	-97.44628	US	ND
+Sibley	47.21721	-97.96454	US	ND
+City of Sibley	47.2186	-97.96531	US	ND
+Township of Sibley	46.84988	-99.76363	US	ND
+Township of Sidney	48.94561	-99.32858	US	ND
+Silva	48.16889	-99.91847	US	ND
+Silverleaf	46.01358	-98.38093	US	ND
+Township of Silvesta	48.49982	-98.12241	US	ND
+Township of Sinclair	46.76114	-99.13241	US	ND
+Site of Old Fort Ransom	46.51803	-97.93955	US	ND
+Township of Skandia	46.76148	-98.12306	US	ND
+Skunk Coulee	48.13027	-97.7787	US	ND
+Skyrud Skyway	48.40166	-98.08038	US	ND
+Slade National Wildlife Refuge	46.83267	-99.72069	US	ND
+Smith Coulee	48.77583	-97.84037	US	ND
+Township of Smith	48.94588	-99.19794	US	ND
+Sonora	46.06663	-96.74146	US	ND
+Township of Sorenson	48.67483	-99.29703	US	ND
+Township of South Dresden	48.84816	-98.54047	US	ND
+Township of South Cottonwood	47.54444	-99.58605	US	ND
+Unorganized Territory of Liberty	46.76305	-99.76439	US	ND
+Township of South Olga	48.76118	-98.01527	US	ND
+Unorganized Territory of South Pierce	48.03622	-99.98661	US	ND
+Unorganized Territory of South Rolette	48.65681	-99.92357	US	ND
+Township of South Viking	47.89022	-99.49027	US	ND
+South West Fargo	46.87358	-96.90036	US	ND
+Southam	48.15834	-98.55205	US	ND
+Unorganized Territory of Southwest McIntosh	46.03157	-99.63755	US	ND
+Township of Southwest	45.97927	-97.94571	US	ND
+Township of Speedwell	47.45758	-99.58603	US	ND
+Spiritwood	46.9361	-98.49565	US	ND
+Township of Spiritwood	46.93598	-98.50273	US	ND
+Township of Stanley	46.75339	-96.84213	US	ND
+Starkweather	48.45195	-98.88374	US	ND
+Starkweather Coulee	48.31112	-98.81318	US	ND
+Township of Stavanger	47.62847	-97.02686	US	ND
+Steele	46.85471	-99.91594	US	ND
+City of Steele	46.85593	-99.91747	US	ND
+Township of Stevens	48.06427	-98.61614	US	ND
+Township of Stewart	47.02322	-98.14996	US	ND
+Township of Stewart	47.28457	-99.92546	US	ND
+Stiles	46.07524	-97.05259	US	ND
+Township of Stirton	46.84786	-99.13172	US	ND
+Stirum	46.21024	-97.80649	US	ND
+Stony Brook	47.23944	-98.83455	US	ND
+City of Starkweather	48.45225	-98.87877	US	ND
+Township of Storlie	48.57818	-98.63448	US	ND
+Township of Strabane	48.15128	-97.57825	US	ND
+Straubville	46.04386	-97.9001	US	ND
+Streaman Coulee	46.73971	-98.55426	US	ND
+Township of Strong	47.11009	-99.2911	US	ND
+Township of Sullivan	48.4137	-98.77501	US	ND
+Township of Summit	46.15137	-96.66928	US	ND
+Sunset Gardens	46.9486	-98.69371	US	ND
+Township of Superior	47.63002	-99.0737	US	ND
+Sutton	47.40194	-98.43926	US	ND
+Township of Svea	46.76172	-98.24893	US	ND
+Township of Sverdrup	47.36978	-98.05021	US	ND
+Svold	48.80777	-97.79676	US	ND
+Township of Swede	46.41348	-98.97494	US	ND
+Sweetwater	48.21584	-98.87123	US	ND
+Swenson Airstrip	47.17219	-96.84064	US	ND
+Township of Sydna	46.32609	-97.46931	US	ND
+Sydney	46.73082	-98.76983	US	ND
+Township of Sydney	46.76138	-98.7551	US	ND
+Sykeston	47.465	-99.39956	US	ND
+City of Sykeston	47.46615	-99.39921	US	ND
+Taft	47.45637	-97.07009	US	ND
+Township of Tanner	46.76252	-99.51147	US	ND
+Tappen	46.87498	-99.6365	US	ND
+City of Tappen	46.87161	-99.62712	US	ND
+Township of Taylor	45.97918	-97.69595	US	ND
+Township of Teddy	48.76155	-99.06639	US	ND
+Township of Tell	46.48332	-99.96983	US	ND
+Tesch Strip	46.14357	-97.24315	US	ND
+Tewaukon National Wildlife Refuge	46.00507	-97.42352	US	ND
+Township of Tewaukon	45.97936	-97.42743	US	ND
+Township of Thingvalla	48.67376	-97.86191	US	ND
+Thompson	47.77359	-97.1098	US	ND
+City of Thompson	47.77543	-97.10617	US	ND
+Township of Thordenskjold	46.67375	-97.87171	US	ND
+Thorne	48.73917	-99.93153	US	ND
+Township of Tiber	48.49972	-97.99222	US	ND
+Township of Tiffany	47.71621	-98.84682	US	ND
+Tilden	48.15583	-99.2468	US	ND
+Timber Coulee	46.40663	-97.67982	US	ND
+Tokio	47.92472	-98.81622	US	ND
+Township of Toledo	46.88388	-99.06011	US	ND
+Tolna	47.82722	-98.4401	US	ND
+Tolna Coulee	47.82139	-98.42427	US	ND
+City of Tolna	47.82589	-98.43849	US	ND
+Tomahawk National Wildlife Refuge	47.07721	-98.18176	US	ND
+City of Tower City	46.92626	-97.67596	US	ND
+Tower City	46.92275	-97.67399	US	ND
+Tower City Interchange	46.91859	-97.6826	US	ND
+Township of Tower	46.9349	-97.61632	US	ND
+Trappers Coulee	47.98945	-99.80207	US	ND
+Township of Trier	48.67778	-98.90338	US	ND
+Township of Triumph	48.32595	-98.48709	US	ND
+Township of Tuller	46.50022	-97.72092	US	ND
+Tuttle	47.1436	-99.99455	US	ND
+City of Tuttle	47.14453	-99.99341	US	ND
+Township of Twin Tree	47.89066	-98.97432	US	ND
+Tyler	46.14913	-96.60535	US	ND
+Township of Tyrol	47.54381	-98.17829	US	ND
+Union	48.55777	-97.94899	US	ND
+Township of Union	47.71569	-97.30308	US	ND
+Upland State Game Refuge	47.55194	-99.91651	US	ND
+Urbana	46.93443	-98.41176	US	ND
+Valley City	46.92331	-98.00315	US	ND
+City of Valley City	46.92252	-98.00707	US	ND
+Valley City Interchange	46.91109	-98.0101	US	ND
+Valley City National Fish Hatchery	46.96276	-98.02649	US	ND
+Township of Valley	46.93534	-97.96482	US	ND
+Township of Valley	46.24081	-98.56635	US	ND
+Township of Valley	46.76254	-99.63811	US	ND
+Township of Van Meter	45.98014	-98.44406	US	ND
+Vance	47.03386	-97.21787	US	ND
+Vang	48.90583	-98.12483	US	ND
+Vashti	47.18888	-99.08067	US	ND
+Venlo	46.48636	-97.4462	US	ND
+Venturia	45.99859	-99.54623	US	ND
+City of Venturia	45.99747	-99.54975	US	ND
+Township of Verner	46.15313	-97.94502	US	ND
+Township of Vernon	46.93723	-99.76261	US	ND
+Township of Vernon	48.32556	-97.83832	US	ND
+Verona	46.36386	-98.07232	US	ND
+City of Verona	46.36604	-98.07136	US	ND
+Veseleyville	48.32527	-97.5573	US	ND
+Township of Vesta	48.41274	-97.99231	US	ND
+Township of Victor	48.58746	-99.03512	US	ND
+Township of Viking	46.49988	-97.09294	US	ND
+Township of Viking	47.5425	-97.41078	US	ND
+Village Square	46.86358	-96.84758	US	ND
+Virgil Rott Private Landing Strip	46.60553	-98.77955	US	ND
+Township of Virginia	48.76137	-99.19733	US	ND
+Vistos Landing Strip	45.96664	-98.17816	US	ND
+Township of Vivian	46.23949	-97.81971	US	ND
+Volk National Wildlife Refuge	48.25333	-99.69347	US	ND
+Voss	48.29638	-97.45536	US	ND
+Township of Wadsworth	47.19686	-99.29134	US	ND
+Wahpeton	46.26524	-96.60591	US	ND
+City of Wahpeton	46.27193	-96.61176	US	ND
+Township of Walburg	46.75986	-97.367	US	ND
+Walcott	46.54894	-96.93666	US	ND
+City of Walcott	46.55047	-96.93755	US	ND
+Township of Walcott	46.58732	-96.92715	US	ND
+Walden	47.17471	-97.6901	US	ND
+Township of Waldo	46.06593	-96.82436	US	ND
+Wales	48.89584	-98.60262	US	ND
+City of Wales	48.89516	-98.60083	US	ND
+Township of Wallace	47.28419	-99.67181	US	ND
+Township of Walle	47.79976	-97.03794	US	ND
+Township of Walsh Centre	48.32538	-97.44868	US	ND
+Walsh Point	48.40972	-97.80454	US	ND
+Township of Walshville	48.23787	-97.19363	US	ND
+Township of Walters	47.28364	-99.03771	US	ND
+Walum	47.26971	-98.19454	US	ND
+Township of Wamduska	47.8896	-98.33286	US	ND
+Township of Wano	46.4134	-98.59934	US	ND
+Warren	46.72719	-97.01037	US	ND
+Township of Warren	46.76056	-96.99056	US	ND
+Warsaw	48.2961	-97.2548	US	ND
+Warwick	47.855	-98.71011	US	ND
+City of Warwick	47.85474	-98.70569	US	ND
+Township of Washburn	47.4566	-98.0494	US	ND
+Washington Norwegian Evangelical Lutheran	47.75832	-97.45175	US	ND
+Township of Washington	47.71552	-97.43132	US	ND
+Township of Waterloo	48.76126	-98.54042	US	ND
+Township of Watson	46.67287	-97.36722	US	ND
+Weaver	48.59112	-98.72457	US	ND
+Township of Weber	45.97772	-97.56297	US	ND
+Webster	48.28223	-98.87624	US	ND
+Township of Webster	48.32612	-98.87571	US	ND
+Township of Weimer	47.02226	-97.76932	US	ND
+Township of Weiser	47.02394	-99.54454	US	ND
+Township of Weld	46.93561	-99.13094	US	ND
+Township of Wells	47.80525	-99.87378	US	ND
+Wellsburg	47.83167	-99.76151	US	ND
+Werre Landing Strip	46.24441	-98.53371	US	ND
+Township of West Antelope	47.89018	-99.36161	US	ND
+Township of West End	46.32608	-97.21796	US	ND
+West Fargo	46.87497	-96.90036	US	ND
+City of West Fargo	46.85704	-96.90437	US	ND
+Township of West Hope	48.94598	-98.27721	US	ND
+Unorganized Territory of West Logan	46.41351	-99.79161	US	ND
+Township of West Norway	47.71666	-99.61901	US	ND
+Township of West Ontario	47.54458	-99.7136	US	ND
+West Valley City Interchange	46.9122	-98.03621	US	ND
+Township of Westford	46.93697	-99.63622	US	ND
+Township of Weston	46.01664	-98.3076	US	ND
+Wheatland	46.90747	-97.34537	US	ND
+Township of Wheatland	47.3061	-98.11954	US	ND
+Township of Wheatland	46.93406	-97.36648	US	ND
+Wheatland-Chaffee Interchange	46.87553	-97.34537	US	ND
+Township of Whitestone	46.1565	-98.81835	US	ND
+Whitman	48.15861	-98.11982	US	ND
+Widmer Strip	46.26247	-97.93371	US	ND
+Wild Rice	46.74635	-96.80953	US	ND
+Township of Willey	46.23948	-97.56983	US	ND
+Township of Williams	46.93676	-99.50978	US	ND
+Township of Williams	47.97708	-98.20389	US	ND
+Township of Willow	47.6298	-98.30792	US	ND
+Township of Willowbank	46.32639	-98.59899	US	ND
+Wimbledon	47.16971	-98.45982	US	ND
+City of Wimbledon	47.16958	-98.45868	US	ND
+Windsor	46.89638	-99.04289	US	ND
+Township of Windsor	46.93551	-99.00672	US	ND
+Wirch	46.07747	-98.944	US	ND
+Township of Wiser	47.1066	-96.8828	US	ND
+Wishek	46.25692	-99.55706	US	ND
+Wishek Fairground	46.25275	-99.58372	US	ND
+City of Wishek	46.25529	-99.55476	US	ND
+Township of Wold	47.54142	-97.15567	US	ND
+Wolford	48.49861	-99.70431	US	ND
+City of Wolford	48.4978	-99.70428	US	ND
+Township of Wood	46.40554	-99.95872	US	ND
+Township of Woodbury	46.84685	-98.757	US	ND
+Township of Woodlawn	46.85032	-99.88836	US	ND
+Township of Woodward	47.54413	-99.33006	US	ND
+Woodworth	47.14249	-99.30317	US	ND
+City of Woodworth	47.14228	-99.30439	US	ND
+Township of Wright	46.23992	-98.31499	US	ND
+Wurgler National Wildlife Refuge	48.31222	-99.66152	US	ND
+Township of Wyard	47.45757	-99.20307	US	ND
+Wyndmere	46.26663	-97.13231	US	ND
+City of Wyndmere	46.264	-97.13096	US	ND
+Township of Wyndmere	46.23871	-97.19767	US	ND
+York	48.31278	-99.57347	US	ND
+City of York	48.31308	-99.57357	US	ND
+Township of Yorktown	46.15334	-98.31683	US	ND
+Township of Young	46.24157	-98.81771	US	ND
+Ypsilanti	46.78193	-98.56315	US	ND
+Township of Ypsilanti	46.76146	-98.5023	US	ND
+Zeeland	45.96998	-99.83067	US	ND
+City of Zeeland	45.97295	-99.83238	US	ND
+Township of Zion	48.50126	-99.42791	US	ND
+Woods	46.67997	-97.18898	US	ND
+Guyson	46.29747	-99.20539	US	ND
+Township of Tepee Butte	46.41257	-102.73804	US	ND
+Zahl	48.57336	-103.69214	US	ND
+Watrous	46.32584	-102.19294	US	ND
+Wilton	47.1586	-100.78347	US	ND
+A Butte	47.82821	-103.6365	US	ND
+Township of Acme	46.50145	-102.36007	US	ND
+Township of Adelaide	46.16237	-103.68081	US	ND
+Aennis Coulee	48.52558	-101.9135	US	ND
+Aggie Brown Coulee	47.52028	-101.36849	US	ND
+Township of Afton	48.15296	-101.33939	US	ND
+City of Alamo	48.58249	-103.46775	US	ND
+Township of Alden	46.33334	-102.58377	US	ND
+Alamo	48.58169	-103.46991	US	ND
+Alexander	47.84308	-103.6427	US	ND
+City of Alexander	47.83897	-103.64132	US	ND
+Township of Alexandria	48.76413	-103.66239	US	ND
+Township of Alger	48.24036	-102.50446	US	ND
+Alkabo	48.86281	-103.89021	US	ND
+Township of Alex	47.80347	-103.60321	US	ND
+Almont	46.72528	-101.50264	US	ND
+City of Almont	46.72842	-101.50189	US	ND
+Alpha	46.65834	-103.81992	US	ND
+Altamont Moraine	46.50026	-100.00066	US	ND
+Ambrose	48.95392	-103.48269	US	ND
+City of Ambrose	48.95599	-103.481	US	ND
+Township of Ambrose	48.94658	-103.53199	US	ND
+Ambulance Butte	46.58152	-100.72371	US	ND
+Amidon	46.48223	-103.32185	US	ND
+City of Amidon	46.48219	-103.31977	US	ND
+Township of Amity	48.76265	-100.38021	US	ND
+Township of Amor	46.07549	-103.55628	US	ND
+Township of Amundsville	47.80416	-101.93627	US	ND
+Anamoose	47.8825	-100.24125	US	ND
+City of Anamoose	47.88276	-100.24204	US	ND
+Anderson Butte	47.28168	-103.50991	US	ND
+Anderson Butte	46.29988	-102.53023	US	ND
+Anderson Coulee	47.2664	-103.51269	US	ND
+Ankenbauer Coulee	48.6853	-102.10544	US	ND
+Township of Andrews	47.80461	-101.03527	US	ND
+Annunciation Priory	46.72194	-100.75318	US	ND
+Antelope	46.85584	-102.20267	US	ND
+Antelope Butte	46.48862	-102.02127	US	ND
+Township of Anna	47.97887	-101.67867	US	ND
+Antelope Valley	47.9875	-100.13236	US	ND
+City of Antler	48.97122	-101.28297	US	ND
+Appam	48.57003	-103.58881	US	ND
+Antler	48.97085	-101.28238	US	ND
+Apple Valley	46.82166	-100.5979	US	ND
+Township of Argonne	46.15639	-102.67821	US	ND
+Arnegard	47.8078	-103.44103	US	ND
+City of Arnegard	47.80839	-103.43875	US	ND
+Township of Arnegard	47.80483	-103.47646	US	ND
+Arnold	46.92388	-100.75346	US	ND
+Arnold Coulee	48.40196	-101.63572	US	ND
+Ash Coulee	47.12279	-103.55325	US	ND
+Ash Coulee	47.57723	-102.3974	US	ND
+Ash Coulee	47.1514	-102.26851	US	ND
+Township of Ashby	46.24472	-102.4347	US	ND
+Atcoal	48.90142	-102.91185	US	ND
+Township of Athens	48.41634	-103.60255	US	ND
+Audubon National Wildlife Refuge	47.58548	-101.16659	US	ND
+Aura Butte	47.87119	-102.85727	US	ND
+Aurelia	48.46669	-101.90211	US	ND
+Township of Aurena	47.71765	-100.77847	US	ND
+Township of Austin	48.15343	-102.24566	US	ND
+Avoca	48.18502	-103.52408	US	ND
+Aylmer	47.93417	-100.19291	US	ND
+Baden	48.58724	-102.00405	US	ND
+Baden Coulee	48.59169	-102.00544	US	ND
+Township of Baden	48.5899	-102.03839	US	ND
+Assumption Abbey	46.88917	-102.32045	US	ND
+Badland Draw	46.42723	-104.03938	US	ND
+Badlands Draw	47.57918	-103.97465	US	ND
+Township of Baer	46.24453	-102.06038	US	ND
+Township of Baker	46.68193	-100.01274	US	ND
+Township of Bakker	46.67499	-100.03372	US	ND
+Bald Butte	48.13953	-100.34683	US	ND
+Baldwin	47.02666	-100.74957	US	ND
+Baldy Butte	46.48445	-102.99072	US	ND
+Balfour	47.95167	-100.53459	US	ND
+City of Balfour	47.95175	-100.53428	US	ND
+Balta	48.16667	-100.03708	US	ND
+City of Balta	48.16653	-100.03692	US	ND
+Banks	48.03863	-103.19463	US	ND
+Township of Banner	47.89105	-102.06469	US	ND
+Bantry	48.49833	-100.61041	US	ND
+City of Bantry	48.49744	-100.60976	US	ND
+Bailery Landing Strip	46.71666	-100.28428	US	ND
+Battleview	48.57892	-102.7924	US	ND
+Township of Battleview	48.58978	-102.8206	US	ND
+Bear Butte	47.65119	-103.52342	US	ND
+Township of Bear Den	47.75141	-103.00463	US	ND
+Beauty Valley	48.50613	-102.83213	US	ND
+Beef Corral Bottom	46.97863	-103.49463	US	ND
+Beef Corral Wash	46.98224	-103.4938	US	ND
+Township of Beery	46.41419	-102.23543	US	ND
+Township of Beisigl	46.16199	-102.0606	US	ND
+Belden	48.1514	-102.3574	US	ND
+Bell Butte	46.76473	-101.66015	US	ND
+Bell Coulee	46.16445	-101.40152	US	ND
+Belmar	48.66083	-100.32764	US	ND
+Benedict	47.83028	-101.08237	US	ND
+City of Benedict	47.83014	-101.08434	US	ND
+Township of Bentinck	48.85	-101.1686	US	ND
+Bentley	46.32917	-102.06349	US	ND
+Berg Coulee	48.53752	-101.93488	US	ND
+Bergen	48.00167	-100.71459	US	ND
+City of Bergen	48.00376	-100.72008	US	ND
+Township of Berlin	47.71711	-100.13394	US	ND
+Berthold	48.31307	-101.73711	US	ND
+City of Berthold	48.31534	-101.73454	US	ND
+Township of Berthold	48.32819	-101.72784	US	ND
+Berwick	48.36111	-100.24652	US	ND
+Township of Berwick	48.32712	-100.30195	US	ND
+City of Beulah	47.26723	-101.77383	US	ND
+Bible Tabernacle	47.45972	-101.1196	US	ND
+Township of Bicker	48.50297	-102.82063	US	ND
+Township of Biesigl	46.14167	-102.05737	US	ND
+Township of Big Bend	47.88896	-102.58006	US	ND
+Big Butte	45.99495	-102.55106	US	ND
+Big Butte	48.44477	-102.77997	US	ND
+Beulah	47.26334	-101.77795	US	ND
+Big Plateau	46.98418	-103.54019	US	ND
+Big Stick Oilfiled	47.11585	-103.41352	US	ND
+Township of Big Stone	48.58986	-103.34166	US	ND
+Big Top Mesa	47.30224	-103.48797	US	ND
+Bismarck	46.80833	-100.78374	US	ND
+City of Bismarck	46.81115	-100.76958	US	ND
+Township of Bjornson	47.89179	-100.90694	US	ND
+Black Butte	46.51806	-102.57106	US	ND
+Black Butte	46.39807	-103.44824	US	ND
+Black Butte	48.09955	-101.02336	US	ND
+Township of Black Butte	46.49995	-102.61352	US	ND
+Black Top Butte	47.23621	-103.57097	US	ND
+Blacks Coulee	48.38251	-101.59544	US	ND
+Blacktail Coulee	47.97417	-100.84543	US	ND
+Blacktail Coulee	48.02223	-100.85765	US	ND
+Township of Blacktail	48.41641	-103.73295	US	ND
+Blackwater Coulee	48.10112	-101.11071	US	ND
+Township of Blackwater	47.63102	-101.75782	US	ND
+Township of Blaine	48.67633	-101.38597	US	ND
+Blaisdell	48.33613	-102.07683	US	ND
+Township of Blooming Prairie	48.9468	-103.39914	US	ND
+Township of Blooming Valley	48.85088	-103.13666	US	ND
+Blue Butte	47.85893	-102.72476	US	ND
+Township of Blue Butte	47.89087	-102.96245	US	ND
+Blue Buttes	47.8803	-102.85102	US	ND
+Bluegrass	46.94917	-101.58181	US	ND
+Bobs Coulee	48.07586	-103.8202	US	ND
+Bonnes Coulee	48.05556	-100.94904	US	ND
+Township of Boone	47.54481	-100.09679	US	ND
+Township of Border	48.76394	-103.00545	US	ND
+Bottineau	48.82723	-100.4457	US	ND
+City of Bottineau	48.82498	-100.44434	US	ND
+Boulder Point	46.41248	-103.44926	US	ND
+Boundary Butte	48.99935	-100.43002	US	ND
+Bonnie Divide	47.4789	-103.05713	US	ND
+Bounty	48.91614	-103.18074	US	ND
+Bowbells	48.80308	-102.246	US	ND
+City of Bowbells	48.80353	-102.2475	US	ND
+Bowers Coulee	47.98723	-100.92459	US	ND
+Bowman	46.18306	-103.39491	US	ND
+Bowman Coulee	48.51724	-101.90822	US	ND
+City of Bowman	46.18353	-103.40081	US	ND
+Township of Bowman	46.16134	-103.43306	US	ND
+Township of Boyd	46.76508	-100.52093	US	ND
+Boyle	46.88251	-102.52324	US	ND
+Braddock	46.56443	-100.09094	US	ND
+City of Braddock	46.56391	-100.08975	US	ND
+Township of Boyesen	46.07554	-103.30704	US	ND
+Township of Brandon	48.76339	-101.56362	US	ND
+Bratburg Butte	46.81433	-102.45382	US	ND
+Braun Butte	46.10058	-100.30043	US	ND
+Breien	46.38	-100.94235	US	ND
+Township of Brander	48.76301	-101.0376	US	ND
+Township of Brillian	47.97902	-101.0352	US	ND
+Brisbane	46.34251	-101.49097	US	ND
+Township of Brisbane	46.32917	-101.45875	US	ND
+Township of Brittian	46.32725	-102.23494	US	ND
+Brittin	46.71527	-100.40567	US	ND
+Township of Brookbank	48.15352	-102.50454	US	ND
+Township of Brooklyn	48.24118	-103.28085	US	ND
+Township of Brown	47.97856	-100.90744	US	ND
+Township of Buchanan Valley	46.59082	-100.35428	US	ND
+Buckhorn Butte	47.30372	-103.62305	US	ND
+Township of Bucklin	46.32519	-103.98892	US	ND
+Buckskin Butte	47.38006	-103.30534	US	ND
+Township of Buckskin	46.47917	-101.77348	US	ND
+Bucyrus	46.0639	-102.78821	US	ND
+City of Bucyrus	46.06457	-102.78831	US	ND
+Township of Bucyrus	46.07558	-102.80885	US	ND
+Township of Buena Vista	46.24299	-103.05767	US	ND
+Buffalo Buttes	46.40056	-102.55294	US	ND
+Buford	47.99863	-103.99132	US	ND
+Township of Buford	47.99983	-103.92476	US	ND
+Bull Butte	46.58978	-102.41663	US	ND
+Bull Butte	47.85061	-103.83479	US	ND
+Bull Butte	48.33678	-104.03171	US	ND
+Township of Bull Butte	48.32897	-103.95474	US	ND
+Township of Bull Moose	47.45785	-99.96933	US	ND
+Bullion Butte	46.68057	-103.60186	US	ND
+Bullion Butte	46.68104	-103.59683	US	ND
+Township of Bullion	46.67302	-103.79753	US	ND
+Township of Burg	48.76409	-103.53089	US	ND
+Burgess	46.47972	-101.02125	US	ND
+Township of Burke	48.24034	-102.24562	US	ND
+Burkley Coulee	48.08973	-101.13238	US	ND
+Burlington	48.27529	-101.42878	US	ND
+City of Burlington	48.27616	-101.42486	US	ND
+Township of Burlington	48.23959	-101.46949	US	ND
+Burnt Butte	46.93971	-100.7968	US	ND
+Township of Burt	48.15326	-101.46887	US	ND
+Butte	47.83806	-100.66542	US	ND
+Burt	46.36528	-102.15516	US	ND
+Butte Saint Paul Historic Site	48.85417	-100.19652	US	ND
+City of Butte	47.83704	-100.66587	US	ND
+Township of Byersville	47.71753	-100.64954	US	ND
+Township of Callahan	48.58959	-101.64762	US	ND
+Camel Butte	46.00278	-103.71992	US	ND
+Camel Buttes	46.55973	-102.30072	US	ND
+Camels Butte	46.99815	-102.82261	US	ND
+Camels Hump Butte	46.95252	-103.79857	US	ND
+Township of Cameron	47.89174	-101.55069	US	ND
+Cannon Ball	46.38944	-100.59401	US	ND
+Township of Cannon Ball	46.32699	-102.10991	US	ND
+Cap Butte	46.78162	-101.70791	US	ND
+Township of Carbondale	48.50284	-101.90836	US	ND
+Carbury	48.89085	-100.54459	US	ND
+Carl Feldner Coulee	48.47307	-101.77294	US	ND
+Township of Captain's Landing	46.81461	-100.82948	US	ND
+Carpio	48.44252	-101.71461	US	ND
+City of Carpio	48.4431	-101.71532	US	ND
+Township of Carpio	48.41562	-101.77844	US	ND
+Township of Carroll	46.41124	-102.98852	US	ND
+Carson	46.41778	-101.56487	US	ND
+Carson Water Well	47.48807	-103.34658	US	ND
+City of Carson	46.42231	-101.57063	US	ND
+Township of Carter	48.85078	-102.34912	US	ND
+Cartwright	47.85974	-103.92632	US	ND
+Castle Butte	46.49372	-100.65	US	ND
+Township of Cash	46.32347	-103.48844	US	ND
+Cave Coulee	46.98416	-100.87152	US	ND
+Cedar Butte	46.11839	-102.13129	US	ND
+Cedar Butte	46.11786	-101.39572	US	ND
+Township of Cecil	48.67542	-100.21141	US	ND
+Cedar Coulee	47.58418	-102.91936	US	ND
+Cedar Coulee	48.14808	-103.18158	US	ND
+Cedar Top Butte	47.30224	-103.50102	US	ND
+Township of Cedar	46.24411	-102.6842	US	ND
+Unorganized Territory of Central McKenzie	47.70258	-103.21354	US	ND
+Unorganized Territory of Central Pierce	48.15248	-100.17198	US	ND
+Chadwick	46.15972	-101.0343	US	ND
+Chalky Buttes	46.39945	-103.33518	US	ND
+Chama	46.90779	-103.9102	US	ND
+Township of Champion	48.41602	-103.21164	US	ND
+Township of Chandler	46.16232	-102.43481	US	ND
+Township of Charbon	47.89165	-103.73318	US	ND
+Charbonneau	47.85335	-103.76326	US	ND
+Charlson	48.0603	-102.8713	US	ND
+Township of Chestina	47.02509	-100.05138	US	ND
+Chimney Butte	46.81784	-103.59346	US	ND
+Chimney Butte	47.48093	-102.64996	US	ND
+Chimney Butte	46.83946	-103.62019	US	ND
+Chimney Butte	47.92739	-102.83993	US	ND
+Chinaman Coulee	48.18697	-103.60436	US	ND
+Chocolate Butte	46.66946	-103.34463	US	ND
+Chola	48.62224	-101.49072	US	ND
+Chornuk	47.1939	-103.32824	US	ND
+Chocolate Butte	46.6684	-103.34131	US	ND
+Township of Christiania	46.93824	-100.2655	US	ND
+Clark Butte	46.54585	-102.0173	US	ND
+Township of Clark	46.58654	-102.73814	US	ND
+Circle Buttes	46.37911	-101.54161	US	ND
+Clay Butte	47.69724	-103.30714	US	ND
+Township of Clay	48.67652	-101.5165	US	ND
+Township of Clayton	48.76387	-102.48068	US	ND
+Clay Butte	47.27278	-102.52774	US	ND
+Township of Clearwater	48.41605	-102.29914	US	ND
+Township of Cleary	48.67682	-102.69041	US	ND
+Township of Clermont	45.98849	-102.43467	US	ND
+Cliffs Plateau	46.70001	-103.45269	US	ND
+Clifton	47.89111	-100.0343	US	ND
+Township of Climax	48.50346	-103.98792	US	ND
+Township of Clinton	48.85126	-103.79377	US	ND
+Coal Butte	46.45916	-100.5179	US	ND
+Coal Butte	46.96888	-100.8493	US	ND
+Coffin Buttes	46.20195	-101.91876	US	ND
+Colgan	48.94837	-103.62825	US	ND
+Collar Draw	47.54696	-103.40936	US	ND
+Cole Ford	48.52916	-100.46319	US	ND
+Columbus	48.9042	-102.78045	US	ND
+City of Columbus	48.90493	-102.7813	US	ND
+Township of Colville	48.5908	-102.69195	US	ND
+Township of Connor	46.41012	-103.23786	US	ND
+Cookout Butte	46.45959	-101.5141	US	ND
+Township of Colquhoun	48.94635	-101.69383	US	ND
+Township of Cordelia	48.84923	-100.24859	US	ND
+Corinth	48.61253	-103.32769	US	ND
+Corner Butte	46.54669	-100.62101	US	ND
+Corral Draw	47.59474	-103.99298	US	ND
+Coteau	48.7567	-102.31906	US	ND
+Township of Cottonwood	48.41615	-102.55981	US	ND
+Coulee	48.5453	-102.01155	US	ND
+Cow Butte	45.98793	-102.94501	US	ND
+Township of Crawford	46.32352	-103.73875	US	ND
+Crazy Man Coulee	48.12669	-103.5627	US	ND
+Croff	47.74724	-102.9413	US	ND
+Township of Crofte	47.02643	-100.68599	US	ND
+Township of Cromwell	47.02601	-100.5588	US	ND
+Township of Cremerville	47.80427	-102.06486	US	ND
+Crosby	48.9142	-103.29491	US	ND
+City of Crosby	48.9164	-103.29695	US	ND
+Crow Flies High Butte Historic Site	47.98252	-102.54574	US	ND
+Township of Crowfoot	48.50284	-102.16879	US	ND
+Crown Butte	46.90262	-101.08986	US	ND
+Cummings Draw	47.57224	-103.8727	US	ND
+Curlew Valley	46.60834	-101.38626	US	ND
+Curlew Buttes	46.76421	-101.61424	US	ND
+Township of Currie	48.76222	-100.12819	US	ND
+Custer Lookout	46.84929	-102.17208	US	ND
+Custers Wash	46.86418	-103.54241	US	ND
+Township of Cut Bank	48.76334	-101.43114	US	ND
+Daglum	46.7089	-103.02045	US	ND
+Dakota Square	48.20834	-101.31155	US	ND
+Township of Dale	48.85082	-102.48044	US	ND
+Township of Dalen	48.94635	-100.51156	US	ND
+Dana	46.57666	-100.23372	US	ND
+Township of Danbury	46.41249	-100.21289	US	ND
+Township of Daneville	48.76427	-103.95408	US	ND
+Davis Buttes	46.91529	-102.73129	US	ND
+Dawsons Waterhole	47.12001	-103.50463	US	ND
+De Mores	46.92196	-103.74242	US	ND
+Township of De Witt	48.94805	-103.79405	US	ND
+De Sart	46.3789	-102.95822	US	ND
+Township of Debing	48.24041	-102.63403	US	ND
+Deep	48.66501	-100.82376	US	ND
+Township of Deepwater	47.71734	-101.93633	US	ND
+Deering	48.39557	-101.05182	US	ND
+City of Deering	48.39576	-101.04955	US	ND
+Township of Dehli	46.99307	-103.83381	US	ND
+Township of Delhi	47.02318	-103.85681	US	ND
+Denbigh	48.31528	-100.58708	US	ND
+Township of Denbigh	48.32729	-100.56137	US	ND
+Denhoff	47.47666	-100.25957	US	ND
+Denhoff Cemeteries	47.48555	-100.26707	US	ND
+Township of Denhoff	47.45799	-100.22477	US	ND
+Township of Denmark	48.76366	-102.08701	US	ND
+Des Lacs	48.25779	-101.5635	US	ND
+Des Lacs Migratory Bird Refuge	48.80253	-102.12933	US	ND
+Des Lacs National Wildlife Refuge	48.97846	-102.1788	US	ND
+Township of Des Lacs	48.24007	-101.59893	US	ND
+Devils Butte	46.52331	-101.49372	US	ND
+City of Des Lacs	48.25641	-101.56345	US	ND
+Dickey Draw	46.29028	-103.91215	US	ND
+Unorganized Territory of Dickinson North	46.89388	-102.74527	US	ND
+Unorganized Territory of Dickinson South	46.71753	-102.76532	US	ND
+City of Dickinson	46.88577	-102.78638	US	ND
+Dietz Draw	47.27113	-103.7202	US	ND
+Dickinson	46.87918	-102.78962	US	ND
+Dillinger Divide	47.46696	-103.06852	US	ND
+Township of Dimond	48.67692	-102.42907	US	ND
+Doaks Butte	45.95619	-103.94562	US	ND
+Dobson Buttes	46.79584	-102.74462	US	ND
+Docs Draw	47.63529	-103.51464	US	ND
+Diffley Landing Strip	47.84445	-101.96072	US	ND
+Dodge	47.30612	-102.20434	US	ND
+City of Dodge	47.30571	-102.20281	US	ND
+Dogden Butte	47.81361	-100.76125	US	ND
+Township of Dogden	47.80415	-100.64961	US	ND
+Dogtooth Buttes	46.39389	-101.34681	US	ND
+City of Donnybrook	48.50776	-101.88743	US	ND
+Dore	47.92057	-104.03104	US	ND
+Douglas	47.85723	-101.50294	US	ND
+City of Douglas	47.85793	-101.50167	US	ND
+Township of Douglas	47.80446	-101.55036	US	ND
+Township of Dovre	46.58696	-103.09351	US	ND
+Doyle Landing Strip	48.04167	-100.87126	US	ND
+Drady	48.15195	-101.42572	US	ND
+Drake	47.92417	-100.37236	US	ND
+City of Drake	47.92262	-100.37464	US	ND
+Driscoll	46.84415	-100.1415	US	ND
+Township of Driscoll	46.85077	-100.14061	US	ND
+Donnybrook	48.50946	-101.88516	US	ND
+Township of Dry Fork	48.24065	-102.89274	US	ND
+Township of Dublin	48.41622	-103.47228	US	ND
+Dunning	48.71947	-101.03988	US	ND
+Dunseith	48.81306	-100.06097	US	ND
+City of Dunseith	48.81303	-100.06242	US	ND
+Dutch Henry Butte	46.98014	-102.92705	US	ND
+E Christianson Water Well	47.64779	-103.18825	US	ND
+Unorganized Territory of Northeast Slope	46.5852	-103.05108	US	ND
+Eagle Butte	47.64797	-103.77531	US	ND
+Eagle Draw	47.33363	-103.67047	US	ND
+Eagle Nest Butte	47.68251	-102.68991	US	ND
+Eagle Nest	46.85251	-101.92433	US	ND
+East Dunseith	48.86556	-100.0168	US	ND
+East Fairview	47.85335	-104.03965	US	ND
+East Fork Badlands Draw	47.57002	-103.97048	US	ND
+Township of East Fork	48.32875	-103.53947	US	ND
+Unorganized Territory of East Golden Valley	46.71649	-103.67206	US	ND
+Unorganized Territory of East Grant	46.32428	-101.46955	US	ND
+Unorganized Territory of East McHenry	48.2047	-100.40568	US	ND
+Unorganized Territory of East McKenzie	47.8907	-102.84173	US	ND
+Unorganized Territory of East McLean	47.63167	-100.92856	US	ND
+Unorganized Territory of East Mercer	47.38814	-101.56211	US	ND
+Unorganized Territory of East Morton	46.62174	-101.00479	US	ND
+Unorganized Territory of East Oliver	47.11786	-101.17583	US	ND
+East Rainy Butte	46.45723	-102.98767	US	ND
+Unorganized Territory of East Stark	46.81254	-102.32214	US	ND
+East Twin Butte	47.02105	-103.74669	US	ND
+Township of Ecklund	47.11335	-100.7176	US	ND
+Eckman	48.65808	-101.05793	US	ND
+Township of Economy	47.80667	-101.29488	US	ND
+Township of Eden Valley	48.94651	-101.56215	US	ND
+Township of Edgemont	47.37103	-100.60918	US	ND
+Township of Egan	48.32803	-101.98685	US	ND
+Township of Eidsvold	48.85229	-100.81801	US	ND
+Ekre	46.78918	-103.96993	US	ND
+Eland	46.86223	-102.88185	US	ND
+Elgin	46.4039	-101.84598	US	ND
+City of Elgin	46.40246	-101.84287	US	ND
+Eisenhower Divide	47.49279	-103.08658	US	ND
+Township of Elkhorn	48.94717	-103.95412	US	ND
+Township of Elling	48.06543	-100.17205	US	ND
+Township of Ellisville	48.50313	-103.47204	US	ND
+Elm Butte	46.43043	-101.73012	US	ND
+Township of Elm Tree	48.07687	-102.89268	US	ND
+Township of Elm	46.4152	-101.73586	US	ND
+Township of Elmdale	48.67675	-102.16841	US	ND
+Township of Elms	48.58916	-101.25552	US	ND
+Township of Elysian	48.67595	-100.60227	US	ND
+Emerson	47.18362	-102.63491	US	ND
+Emmet	47.64639	-101.6535	US	ND
+Township of Engelter	46.85417	-101.40153	US	ND
+Township of Ensign	48.50213	-101.2558	US	ND
+Epping	48.27919	-103.35713	US	ND
+City of Epping	48.28162	-103.35765	US	ND
+Epworth	48.11613	-102.22434	US	ND
+Township of Equality	48.32806	-103.15151	US	ND
+Erickson Landing Strip	47.22222	-100.63374	US	ND
+Ericson Coulee	46.77389	-101.58181	US	ND
+Township of E-Six	46.58418	-102.9885	US	ND
+Estes Coulee	47.74863	-104.03243	US	ND
+Township of Estherville	47.20101	-100.55906	US	ND
+Township of Eureka	48.32765	-101.33899	US	ND
+Township of Evergreen	48.24028	-101.85735	US	ND
+Township of Fairbanks	48.76365	-101.95587	US	ND
+Township of Fairview	47.63098	-100.09667	US	ND
+Falkirk	47.36194	-101.09459	US	ND
+Township of Falsen	48.1528	-100.69064	US	ND
+Township of Fay	48.8509	-102.74273	US	ND
+Fayette	47.26168	-102.9438	US	ND
+Township of Fertile Valley	48.67722	-103.92271	US	ND
+Township of Fertile	47.89104	-102.19326	US	ND
+Figley Coulee	47.99085	-104.01215	US	ND
+Township of Farina	46.41377	-102.48646	US	ND
+Township of Fillmore	48.94795	-103.26692	US	ND
+First Larson Coulee	48.19473	-101.23211	US	ND
+Township of Fischbein	46.163	-103.05742	US	ND
+Township of Fisher	46.24473	-101.68694	US	ND
+Five Point Butte	46.76193	-103.90442	US	ND
+Flasher	46.45611	-101.23264	US	ND
+City of Flasher	46.4521	-101.23263	US	ND
+Flagstaff Butte	46.66433	-103.03318	US	ND
+City of Flaxton	48.89745	-102.39326	US	ND
+Fonda	48.66972	-100.01875	US	ND
+Flaxton	48.89864	-102.39239	US	ND
+Fordahl Landing Strip	46.17917	-102.54627	US	ND
+Foreman Butte	47.84375	-103.65075	US	ND
+Foreman Coulee	47.8164	-102.73825	US	ND
+Fork McKeen Historic Site	46.76972	-100.85291	US	ND
+Forfar	48.57057	-101.29849	US	ND
+Fort Berthold Reservation	47.74305	-102.2778	US	ND
+Fort Buford State Historic Site	47.9878	-104.00104	US	ND
+Fort Clark	47.24	-101.2521	US	ND
+Fort Clark Historic Site	47.25194	-101.27516	US	ND
+Fort Dilts Historic Site	46.27945	-103.77437	US	ND
+Fort Mandan Historic Site	47.29611	-101.28599	US	ND
+Fort Rice	46.52611	-100.58429	US	ND
+Fort Union Trading Post National Historic Site	48.0003	-104.04521	US	ND
+Fort Yates	46.08694	-100.63013	US	ND
+City of Fort Yates	46.0866	-100.63018	US	ND
+Unorganized Territory of Fort Yates	46.05125	-100.70622	US	ND
+Township of Forthun	48.94692	-102.8736	US	ND
+Fortuna	48.91003	-103.77937	US	ND
+City of Fortuna	48.90989	-103.77833	US	ND
+Four Bears Village	47.98279	-102.57852	US	ND
+Foxholm	48.36946	-101.57127	US	ND
+Township of Francis	46.93886	-100.51833	US	ND
+Township of Foxholm	48.32799	-101.59834	US	ND
+Freda	46.34722	-101.17375	US	ND
+Township of Freda	46.32803	-101.11117	US	ND
+Township of Frederick	48.67689	-103.34149	US	ND
+Township of Freedom	48.06641	-101.33916	US	ND
+Township of Frazier	48.76392	-103.26817	US	ND
+Fryburg	46.87057	-103.30296	US	ND
+Fuller Coulee	48.36362	-101.56655	US	ND
+Funston	47.99584	-100.26319	US	ND
+Garden Coulee	47.99641	-104.02382	US	ND
+Gardena	48.70084	-100.49764	US	ND
+City of Gardena	48.70126	-100.49845	US	ND
+Township of Garness	48.58998	-102.55972	US	ND
+Township of Garnet	48.67707	-103.47161	US	ND
+Garrison	47.65222	-101.41572	US	ND
+Township of Garner	46.75999	-103.79759	US	ND
+City of Garrison	47.65306	-101.42179	US	ND
+Gascoyne	46.11834	-103.07989	US	ND
+City of Gascoyne	46.11897	-103.07876	US	ND
+Township of Gascoyne	46.07494	-103.05739	US	ND
+Township of Gasman	47.97906	-101.29285	US	ND
+Gassman Coulee	48.23168	-101.3785	US	ND
+Gaylord	46.74862	-103.18934	US	ND
+Township of Gem	46.07548	-103.43161	US	ND
+Genoa	48.19362	-100.99432	US	ND
+Gert Buttes	46.26945	-102.32516	US	ND
+Township of Ghylin	47.11266	-100.55928	US	ND
+Township of Gibbs	46.85297	-100.6447	US	ND
+Township of Gilmore	48.41488	-100.73334	US	ND
+Township of Gilstrap	45.98833	-102.31021	US	ND
+Gladstone	46.86084	-102.56796	US	ND
+City of Gladstone	46.85939	-102.56945	US	ND
+Gladys	48.4953	-103.8202	US	ND
+Glen Ullin	46.81501	-101.82988	US	ND
+City of Glen Ullin	46.81206	-101.83305	US	ND
+Glenburn	48.51307	-101.22071	US	ND
+City of Glenburn	48.51304	-101.22099	US	ND
+Glennon Coulee	47.73889	-101.78322	US	ND
+Glick Coulee	48.37335	-101.57822	US	ND
+Goettle Coulee	48.49613	-101.84905	US	ND
+Township of Glenview	47.02395	-100.82019	US	ND
+City of Golden Valley	47.2901	-102.0655	US	ND
+Township of Golden Valley	48.41601	-103.08124	US	ND
+Golva	46.73418	-103.98632	US	ND
+City of Golva	46.73468	-103.98312	US	ND
+Township of Good Luck	48.50331	-103.86311	US	ND
+Golden Valley	47.29084	-102.06462	US	ND
+City of Goodrich	47.47598	-100.12466	US	ND
+Goodrich	47.475	-100.12624	US	ND
+Township of Gooseneck	48.94697	-103.66229	US	ND
+Gorham	47.14863	-103.30741	US	ND
+Township of Grail	47.80413	-102.84179	US	ND
+Township of Grainbelt	46.24282	-103.30708	US	ND
+Grand View	48.63072	-102.76193	US	ND
+Graner Bottom	46.66166	-100.6679	US	ND
+Grano	48.61502	-101.58655	US	ND
+City of Grano	48.61525	-101.58876	US	ND
+City of Granville	48.26636	-100.84492	US	ND
+Township of Grassland	48.67669	-101.64685	US	ND
+Grassna	46.08777	-100.29568	US	ND
+Grassy Butte	47.11888	-103.6218	US	ND
+Grassy Butte	47.39251	-103.24797	US	ND
+Grassy Butte	47.39529	-103.24908	US	ND
+Township of Greatstone	47.71775	-101.03594	US	ND
+Township of Greely	47.89184	-101.03549	US	ND
+Granville	48.26779	-100.84264	US	ND
+Township of Greenbush	48.59	-101.90791	US	ND
+Greene	48.65641	-101.70127	US	ND
+Greenieu Coulee	47.97058	-103.0788	US	ND
+Grenora	48.61836	-103.93799	US	ND
+City of Grenora	48.6199	-103.93666	US	ND
+Township of Grenora	48.58336	-104.02188	US	ND
+Griffin	46.21584	-103.54075	US	ND
+Township of Grilley	48.50201	-100.99456	US	ND
+Greenwood Headquarters Water Well	47.65641	-103.84604	US	ND
+Guthrie	48.00112	-100.37736	US	ND
+Hailstone Butte	46.91296	-101.6751	US	ND
+Township of Haley	45.98862	-103.05779	US	ND
+Half Breed Coulee	48.18835	-103.11518	US	ND
+Haley	45.96139	-103.11934	US	ND
+Half Timber Butte	46.27139	-100.83513	US	ND
+Township of Hamerly	48.85028	-101.69342	US	ND
+Hamlet	48.62864	-103.05157	US	ND
+Township of Hamlet	48.76346	-101.69341	US	ND
+Hanks	48.60336	-103.80298	US	ND
+Hanks Gully	47.34002	-103.55686	US	ND
+Hanley Plateau	46.6714	-103.41407	US	ND
+Hanley Wash	46.63612	-103.45824	US	ND
+Hanleys Wash	46.66335	-103.50713	US	ND
+Hannover	47.11139	-101.42654	US	ND
+Hanson Coulee	48.40668	-101.64211	US	ND
+Township of Haram	48.94656	-100.64291	US	ND
+Harding	47.85335	-104.01521	US	ND
+Township of Harding	46.08332	-100.08373	US	ND
+Township of Hardscrabble	48.06802	-103.95377	US	ND
+Harmon	46.95166	-100.95264	US	ND
+Township of Harmonious	48.76399	-102.87417	US	ND
+Township of Harmonius	48.73337	-102.90046	US	ND
+Township of Harper	46.41033	-103.61357	US	ND
+Township of Harriet	47.1061	-100.179	US	ND
+Township of Harrison	48.24282	-101.36003	US	ND
+Unorganized Territory of Hart	46.16226	-103.5563	US	ND
+Hartland	48.39946	-101.82044	US	ND
+Haskins Landing Strip	48.93335	-101.68377	US	ND
+Township of Hastings	48.76327	-101.16883	US	ND
+Havelock	46.47473	-102.74378	US	ND
+Township of Havelock	46.49946	-102.73825	US	ND
+Township of Hawkeye	48.8509	-103.26807	US	ND
+Township of Hawkeye	47.97998	-102.83948	US	ND
+Hay Butte	47.78304	-103.54413	US	ND
+Hay Coulee	47.49056	-102.37435	US	ND
+Hay Coulee	47.48974	-103.01824	US	ND
+Hay Coulee	48.34584	-100.8432	US	ND
+Hay Draw	47.11113	-103.55686	US	ND
+Township of Hayland	48.67687	-103.08076	US	ND
+City of Haynes	45.97391	-102.47101	US	ND
+Haystack Butte	47.17319	-100.33618	US	ND
+Haystack Butte	47.66461	-103.07616	US	ND
+Township of Hazel	48.58962	-103.21155	US	ND
+Hazelton	46.48471	-100.27956	US	ND
+City of Hazelton	46.48546	-100.28077	US	ND
+Township of Hazelton	46.51666	-100.21706	US	ND
+Hazen	47.29445	-101.62266	US	ND
+City of Hazen	47.29943	-101.62616	US	ND
+Heart Butte	47.65364	-102.40228	US	ND
+Heart Butte	46.67001	-101.8744	US	ND
+Haynes	45.97417	-102.47099	US	ND
+Hebron	46.90056	-102.04544	US	ND
+City of Hebron	46.90228	-102.04429	US	ND
+Township of Hebron	48.24151	-103.95454	US	ND
+Heidemann Coulee	48.46253	-103.65547	US	ND
+Heil	46.38751	-101.69986	US	ND
+Township of Hendrickson	48.15283	-100.82049	US	ND
+Township of Henry	47.24203	-103.98201	US	ND
+Hensler	47.26027	-101.08487	US	ND
+Hesnault	48.05029	-101.55766	US	ND
+Hettinger	46.00139	-102.63682	US	ND
+City of Hettinger	46.00344	-102.63485	US	ND
+Township of Hettinger	45.98818	-102.68533	US	ND
+Hiddenwood National Wildlife Refuge	47.84751	-101.80628	US	ND
+Township of Hiddenwood	47.89108	-101.80735	US	ND
+Township of Highland	46.58766	-102.23652	US	ND
+Township of Highland	47.71746	-100.52073	US	ND
+Hirschville	47.06806	-102.5638	US	ND
+Township of Hofflund	48.16669	-102.9838	US	ND
+Township of Hoffman	48.85016	-101.43104	US	ND
+The Hogback	46.53527	-100.77068	US	ND
+Hogs Back Buttes	46.28722	-102.21571	US	ND
+Township of Holden	46.01112	-102.80044	US	ND
+Township of Holmes	47.65	-100.65041	US	ND
+Hops Wash	46.63612	-103.45824	US	ND
+Horse Nose Butte	47.29446	-102.43157	US	ND
+Horsehead Valley	46.26499	-100.40262	US	ND
+Horseshoe Bend	48.56392	-103.57214	US	ND
+Horseshoe Butte	47.06717	-100.93728	US	ND
+Horseshoe Valley	47.69278	-100.96431	US	ND
+Horseshoe Butte	46.80473	-101.82099	US	ND
+Township of Howe	46.07862	-101.80754	US	ND
+Township of Howie	47.89111	-102.44981	US	ND
+Huff	46.62388	-100.65179	US	ND
+Township of Hughes	46.32424	-103.86294	US	ND
+Hull	46.0286	-100.12484	US	ND
+Hulse Coulee	48.96808	-101.09293	US	ND
+Township of Horseshoe Valley	47.71778	-100.90719	US	ND
+Township of Hume	46.41018	-103.11335	US	ND
+Hungry Man Butte	47.24211	-103.05553	US	ND
+Hurd	48.64613	-101.21794	US	ND
+Township of Hurley	48.85016	-101.56224	US	ND
+Township of Idaho	48.32874	-102.37409	US	ND
+Township of Ideal	47.80835	-103.3338	US	ND
+Independence Point	47.77807	-102.35268	US	ND
+Indergard Water Well	47.56779	-103.83853	US	ND
+Indian Butte	46.95864	-102.19824	US	ND
+Ice Caves Point of Interest	47.31502	-103.40297	US	ND
+International Peace Garden	48.99195	-100.06263	US	ND
+Interstate Land and Cattle	47.57085	-103.88965	US	ND
+Township of Ivanhoe	48.58991	-101.77755	US	ND
+Ives	46.27084	-103.73937	US	ND
+J Clark Salyer National Wildlife Refuge	48.56259	-100.56841	US	ND
+Jack Power Coulee	48.50808	-101.88488	US	ND
+Jacks Lookout	46.15412	-101.96154	US	ND
+Jackson Coulee	47.95308	-103.05658	US	ND
+Jackrabbit Butte	46.81469	-101.6681	US	ND
+Jacobson Flowing Water Well	47.84169	-103.80965	US	ND
+Township of Jefferson	48.23948	-100.17194	US	ND
+Johnson Coulee	48.43391	-101.69655	US	ND
+Johnsons Corner	47.80419	-102.94158	US	ND
+Johnson Ford	46.58084	-101.75403	US	ND
+Township of Jordan	46.14028	-102.30182	US	ND
+Jore Water Well	47.76057	-103.04825	US	ND
+Judson	46.82639	-101.27848	US	ND
+Township of Judson	48.15464	-103.79832	US	ND
+Juniper Spur	46.59348	-103.44175	US	ND
+Juno	48.89837	-103.20407	US	ND
+KBMR Radio Tower	46.94221	-100.69457	US	ND
+KFYR Radio Tower	46.81554	-100.02316	US	ND
+Township of Kandiyohi	48.58979	-102.29921	US	ND
+Kandolph Coulee	48.29946	-101.5035	US	ND
+Township of Kane	48.75803	-100.91003	US	ND
+Karlsen Coulee	48.36835	-101.57294	US	ND
+Karlsruhe	48.09001	-100.62042	US	ND
+City of Karlsruhe	48.09102	-100.61622	US	ND
+Keene	47.92697	-102.94158	US	ND
+Township of Keene	47.97897	-102.96237	US	ND
+Keever Butte	46.94209	-100.6944	US	ND
+Township of Keller	48.85101	-102.87397	US	ND
+Kelvin	48.93723	-100.05096	US	ND
+Kemp Coulee	48.13168	-101.13821	US	ND
+Kenaston	48.61864	-102.11266	US	ND
+Kenmare	48.67475	-102.08266	US	ND
+City of Kenmare	48.67306	-102.07224	US	ND
+Township of Kennedy	46.3251	-102.86232	US	ND
+Keogh Landing Strip	47.92502	-102.8213	US	ND
+Kermit	48.90336	-103.04629	US	ND
+Township of Kern	46.24487	-102.30998	US	ND
+Township of Kickapoo	47.20138	-100.05317	US	ND
+Township of Kickapoo	48.24033	-101.9869	US	ND
+City of Kief	47.85995	-100.51328	US	ND
+Kiefer Buttes	46.05861	-100.45679	US	ND
+Killdeer	47.37196	-102.75408	US	ND
+City of Killdeer	47.36711	-102.75346	US	ND
+Unorganized Territory of Killdeer	47.38759	-102.88456	US	ND
+Killian Coulee	48.50558	-101.87988	US	ND
+Kief	47.8575	-100.51153	US	ND
+Kimball Bottom	46.67277	-100.71818	US	ND
+Kincaid	48.88725	-102.78684	US	ND
+Kinley Plateau	46.73224	-103.45907	US	ND
+Kinsvater Landing Strip	46.19223	-102.72849	US	ND
+Township of Kirkelie	48.32783	-101.46881	US	ND
+Klandl Headquarters Flowing Water Well	47.60835	-104.01632	US	ND
+Klinks Slope	47.46014	-100.55842	US	ND
+Klondike Butte	46.76666	-101.4564	US	ND
+Township of Kohlmeier	48.67552	-100.08045	US	ND
+Kongsberg	47.85139	-100.80126	US	ND
+Township of Kottke Valley	48.32741	-100.95043	US	ND
+Kramer	48.69056	-100.70681	US	ND
+City of Kramer	48.69102	-100.70759	US	ND
+Kruger	47.09779	-103.56575	US	ND
+Township of Kunze	46.58667	-102.86365	US	ND
+Township of Kunze	46.58418	-102.90156	US	ND
+Kupper Headquarter Water Well	47.46196	-103.97298	US	ND
+Kupper Headquarter Water Well	47.45502	-103.97854	US	ND
+Kuroki	48.93113	-101.14655	US	ND
+L Anderson Water Well	47.64529	-103.46797	US	ND
+LaPorte Coulee	48.71613	-100.82876	US	ND
+Township of Land	47.8922	-100.52094	US	ND
+Landa	48.89669	-100.91182	US	ND
+City of Landa	48.89585	-100.91197	US	ND
+Township of Langberg	45.98866	-103.68054	US	ND
+Lansford	48.62891	-101.37572	US	ND
+City of Lansford	48.62699	-101.37596	US	ND
+Lark	46.45306	-101.39626	US	ND
+Township of Lark	46.41494	-101.36174	US	ND
+Larson	48.88975	-102.85851	US	ND
+City of Larson	48.89114	-102.86601	US	ND
+Larsons Coulee	48.28446	-101.45128	US	ND
+Township of Ladd	45.98861	-103.43164	US	ND
+Lawson Coulee	48.50224	-101.85933	US	ND
+Last Buffalo Hunt in North Dakota Recreation Site	46.59751	-103.44269	US	ND
+Township of Layton	48.50207	-100.73309	US	ND
+Township of Lebanon	48.06596	-100.82058	US	ND
+Lefor	46.68167	-102.55962	US	ND
+Lehigh	46.86779	-102.69462	US	ND
+Township of Lein	47.03221	-100.1815	US	ND
+Township of Leipzig	46.50135	-101.86063	US	ND
+Leith	46.35834	-101.63653	US	ND
+City of Leith	46.36273	-101.63857	US	ND
+Leverich	48.43528	-100.0893	US	ND
+Township of Lewis	48.67602	-101.1248	US	ND
+Township of Liberty	47.891	-102.32157	US	ND
+Lignite	48.87753	-102.56295	US	ND
+City of Lignite	48.87746	-102.5643	US	ND
+Lincoln	46.76249	-100.7004	US	ND
+Township of Lincoln Dale	47.63124	-100.35228	US	ND
+Lincoln Valley	47.63833	-100.3043	US	ND
+Township of Lincoln Valley	48.85111	-103.66234	US	ND
+City of Lincoln	46.76737	-100.70167	US	ND
+Township of Lincoln	46.49915	-100.099	US	ND
+Township of Lindahl	48.50289	-102.9508	US	ND
+Linton	46.26666	-100.23289	US	ND
+City of Linton	46.26855	-100.23337	US	ND
+Township of Linton	48.0666	-101.72796	US	ND
+Little Badlands	46.7439	-103.05879	US	ND
+Little Butte	47.91643	-100.76918	US	ND
+Little Butte	48.64303	-102.30439	US	ND
+Township of Little Deep	48.5022	-100.86371	US	ND
+Little Missouri Badlands	47.00029	-103.50074	US	ND
+Little Missouri National Grassland	47.09887	-103.53707	US	ND
+Little Missouri National Grassland	46.68751	-103.43935	US	ND
+Little Prairie	48.96167	-100.07485	US	ND
+Little Squaretop Butte	47.2668	-103.43879	US	ND
+Livona	46.50222	-100.54706	US	ND
+Lloyds Coulee	48.2914	-101.48628	US	ND
+Township of Lockwood	48.58957	-101.51654	US	ND
+Logan	48.14834	-101.15377	US	ND
+Township of Logan	46.76467	-100.39461	US	ND
+Lone Butte	46.75399	-103.88406	US	ND
+Lone Butte	47.50237	-103.15793	US	ND
+Lone Butte	46.08256	-100.30569	US	ND
+Lonetree Coulee	48.35085	-101.54294	US	ND
+Township of Lone Tree	46.71654	-103.95291	US	ND
+Long Butte	46.15109	-102.26014	US	ND
+Long Butte	46.38466	-101.16374	US	ND
+Long Butte	46.84278	-102.13933	US	ND
+Lonetree	48.28251	-101.64378	US	ND
+Long Grassy Butte	46.00361	-103.74715	US	ND
+Long X Divide	47.5614	-103.35686	US	ND
+Township of Longfellow	47.45851	-101.24914	US	ND
+Lookout Butte	46.02111	-100.46485	US	ND
+Lookout Butte	46.10636	-101.43591	US	ND
+Township of Loquemont	47.71736	-102.06493	US	ND
+Loraine	48.86558	-101.56794	US	ND
+City of Loraine	48.86833	-101.56783	US	ND
+Township of Lordsburg	48.76255	-100.24868	US	ND
+Lostwood	48.47558	-102.42406	US	ND
+Lostwood National Wildlife Refuge	48.60528	-102.4528	US	ND
+Township of Lostwood	48.50296	-102.42955	US	ND
+Township of Lowland	48.503	-102.03832	US	ND
+Township of Lucy	48.6769	-102.5596	US	ND
+Township of Luey	48.6842	-102.55406	US	ND
+Township of Lund	48.06663	-101.85739	US	ND
+Lunds Landing	48.16586	-103.14074	US	ND
+Lunds Valley	48.5078	-102.54268	US	ND
+Unorganized Territory of Lyman	47.02542	-100.30489	US	ND
+Lynwood	46.66666	-100.90735	US	ND
+Lyons	46.81111	-101.05319	US	ND
+Mackobee Coulee	48.47418	-101.57933	US	ND
+Township of Madison	46.58694	-102.48712	US	ND
+Township of Maine	46.24438	-102.55955	US	ND
+Makoti	47.96112	-101.80461	US	ND
+City of Makoti	47.96054	-101.80454	US	ND
+Township of Malcolm	47.63165	-101.12075	US	ND
+Mandan	46.82666	-100.88958	US	ND
+City of Mandan	46.82683	-100.8848	US	ND
+Township of Mandan	48.24046	-101.7278	US	ND
+Unorganized Territory of Mandan	46.84196	-100.92875	US	ND
+Mandaree	47.72918	-102.67602	US	ND
+Manitou	48.33113	-102.63657	US	ND
+Township of Manitou	48.32826	-102.63386	US	ND
+Manning	47.23001	-102.77019	US	ND
+Marble Point	48.51502	-101.9085	US	ND
+Township of Margaret	48.41502	-101.12517	US	ND
+Township of Marion	46.24288	-103.55627	US	ND
+Marley	48.02502	-103.90493	US	ND
+Marmarth	46.29501	-103.92076	US	ND
+City of Marmarth	46.29604	-103.93314	US	ND
+Marmon	48.38725	-103.65603	US	ND
+Martin	47.82667	-100.11513	US	ND
+City of Martin	47.82657	-100.11513	US	ND
+Township of Maryland	48.32751	-101.07901	US	ND
+Township of Mauch	47.37081	-100.09726	US	ND
+City of Max	47.82056	-101.29152	US	ND
+Maxbass	48.72169	-101.14155	US	ND
+City of Maxbass	48.72242	-101.14235	US	ND
+Township of Mayland	48.41559	-101.64704	US	ND
+Mazda	46.28584	-103.86159	US	ND
+Township of McAlmond	48.24035	-102.11641	US	ND
+McClusky	47.48583	-100.44318	US	ND
+City of McClusky	47.48405	-100.44273	US	ND
+Township of McCulley	46.31666	-100.2115	US	ND
+Township of McGahan	48.32806	-102.11633	US	ND
+McGregor	48.59531	-102.92824	US	ND
+McGregory Buttes	47.60834	-102.61491	US	ND
+McIntosh Coulee	48.5453	-101.946	US	ND
+Township of McKenzie	46.85163	-100.39338	US	ND
+Township of McKinley	48.3276	-101.20906	US	ND
+McLeish Landing Strip	46.5336	-100.12289	US	ND
+McLeod	48.33851	-103.17158	US	ND
+McLeod	47.09807	-103.56547	US	ND
+McKenzie	46.82416	-100.41345	US	ND
+Medicine Butte	47.12547	-101.92759	US	ND
+Medicine Hole	47.44418	-102.89102	US	ND
+Medora	46.9139	-103.52435	US	ND
+City of Medora	46.91288	-103.52493	US	ND
+Menoken	46.82055	-100.53123	US	ND
+Township of Menoken	46.85198	-100.51976	US	ND
+Township of Mentor	48.94686	-103.00486	US	ND
+Township of Menz	46.00133	-101.93483	US	ND
+Mercer	47.49055	-100.71097	US	ND
+City of Mercer	47.49043	-100.71052	US	ND
+Merida	47.24277	-100.92931	US	ND
+Melby Private Airstrip	48.78753	-102.33795	US	ND
+Metcalf Water Well	47.3364	-104.03632	US	ND
+Township of Merrill	46.24454	-102.18532	US	ND
+Mike Auney Flowing Well	46.99251	-103.49991	US	ND
+Mike Hart Draw	47.58307	-103.85659	US	ND
+Midway	46.98416	-100.79013	US	ND
+Mile Butte	47.51998	-103.70944	US	ND
+Milroy	48.44	-100.53374	US	ND
+Minot	48.23251	-101.29627	US	ND
+City of Minot	48.23491	-101.28873	US	ND
+Township of Missouri	46.68376	-100.64162	US	ND
+Township of Model	47.97881	-102.06445	US	ND
+Moffit	46.67721	-100.29122	US	ND
+Moffit Butte	46.69015	-100.26818	US	ND
+Moga Butte	46.1658	-103.13555	US	ND
+Molander Historic Site	47.12416	-100.96681	US	ND
+Township of Mont	48.24138	-103.79846	US	ND
+Township of Moord	46.49717	-103.11351	US	ND
+Morgan Draw	47.3014	-103.62769	US	ND
+Morman Butte	47.60506	-103.19368	US	ND
+Township of Morton	46.67769	-100.39584	US	ND
+Mosquito Butte	48.56732	-102.23521	US	ND
+Mostad Coulee	48.12779	-101.15182	US	ND
+Mott Coulee	48.57002	-101.98683	US	ND
+City of Mott	46.37412	-102.31969	US	ND
+Mound	46.40251	-103.73853	US	ND
+Township of Mound	46.41036	-103.73865	US	ND
+Mud Buttes	46.02639	-103.76687	US	ND
+Mott	46.3725	-102.32711	US	ND
+Township of Muskego	48.50261	-101.5166	US	ND
+Township of Myran	47.06668	-102.44907	US	ND
+Township of Myrtle	48.32833	-102.76349	US	ND
+The Narrows	48.98084	-100.3482	US	ND
+Township of Naughton	46.93926	-100.64487	US	ND
+Township of Nebo	46.07555	-103.68076	US	ND
+Township of Nedrose	48.24073	-101.20399	US	ND
+Nelson Butte	46.80306	-101.69571	US	ND
+Nelson Landing Strip	46.22223	-102.57377	US	ND
+Township of Ness	48.32709	-100.17187	US	ND
+New Comb Rnach	47.43113	-103.4213	US	ND
+New England	46.53918	-102.86822	US	ND
+City of New England	46.54077	-102.86704	US	ND
+Township of New England	46.4989	-102.86302	US	ND
+Township of New Germantown	47.75139	-100.28374	US	ND
+New Hradec	46.99946	-102.88435	US	ND
+New Leipzig	46.37612	-101.93987	US	ND
+City of New Leipzig	46.37581	-101.95167	US	ND
+Township of New Prairie	48.15313	-101.07959	US	ND
+New Salem	46.845	-101.41125	US	ND
+City of New Salem	46.84371	-101.4175	US	ND
+New Town	47.98085	-102.49018	US	ND
+City of New Town	47.98471	-102.48217	US	ND
+Township of Newborg	48.67605	-100.9941	US	ND
+Newburg	48.71502	-100.91293	US	ND
+City of Newburg	48.71407	-100.91262	US	ND
+Township of Newman	47.97914	-101.1641	US	ND
+Township of Newport	48.3266	-100.43191	US	ND
+Nine Mile Corner	48.80697	-102.08739	US	ND
+Niobe	48.68892	-102.21572	US	ND
+Niobe Coulee	48.68197	-102.10572	US	ND
+Noonan	48.88892	-103.00879	US	ND
+City of Noonan	48.88994	-103.01013	US	ND
+Norfolk	47.97389	-100.30292	US	ND
+Norma	48.72891	-101.97322	US	ND
+Township of Normal	48.50141	-100.3416	US	ND
+Unorganized Territory of North Billings	47.13099	-103.35547	US	ND
+North Almont	46.83972	-101.50959	US	ND
+Unorganized Territory of North Burke	48.9195	-102.1172	US	ND
+Unorganized Territory of North Central McLean	47.7195	-101.27954	US	ND
+North Dakota	47.50027	-100.00068	US	ND
+Unorganized Territory of North Emmons	46.43826	-100.25723	US	ND
+Township of North Fork	47.79641	-103.13019	US	ND
+Unorganized Territory of North Golden Valley	47.15407	-103.73004	US	ND
+North Lemmon	45.94611	-102.15765	US	ND
+Township of North Lemmon	45.96308	-102.15586	US	ND
+Unorganized Territory of North McKenzie	47.92683	-103.2636	US	ND
+Township of North Prairie	48.15293	-100.95011	US	ND
+Unorganized Territory of North Sheridan	47.53778	-100.28861	US	ND
+Unorganized Territory of North Sioux	46.2863	-100.78552	US	ND
+North Star Butte	46.48278	-102.11488	US	ND
+Township of North Star	48.94358	-102.22095	US	ND
+Unorganized Territory of Northeast McHenry	48.44366	-100.42886	US	ND
+Township of Northwest	47.28483	-100.05069	US	ND
+Unorganized Territory of Northwest Slope	46.56283	-103.60335	US	ND
+Township of Norwich	48.23997	-100.95009	US	ND
+Number One Coulee	47.78752	-103.97493	US	ND
+Norwich	48.2464	-100.98904	US	ND
+Township of Oak Valley	48.76278	-100.51159	US	ND
+Oakdale	47.47307	-102.86491	US	ND
+Township of Oakland	48.15346	-102.11644	US	ND
+Township of Odessa	46.58761	-102.11331	US	ND
+Township of Odin	47.97836	-100.6493	US	ND
+Old Man Dancing Butte	47.55342	-102.29001	US	ND
+Oleaas Coulee	48.42863	-101.66822	US	ND
+Township of Oliver	48.41607	-103.34192	US	ND
+Township of Olivia	47.89164	-100.77862	US	ND
+Olson Private Airstrip	48.03752	-102.9213	US	ND
+Omemee	48.70639	-100.35514	US	ND
+Township of Orange	45.98814	-102.06085	US	ND
+Township of Orlien	47.97891	-101.80735	US	ND
+Orrin	48.09139	-100.16319	US	ND
+Township of Orthell	48.50331	-103.73287	US	ND
+Township of Osborn	47.97865	-102.44882	US	ND
+Township of Osloe	48.15347	-101.98692	US	ND
+Township of Ostby	48.58818	-100.34218	US	ND
+Township of Otis	47.80463	-100.907	US	ND
+Overly	48.68194	-100.15014	US	ND
+City of Overly	48.68107	-100.15098	US	ND
+Township of Painted Woods	47.11256	-100.87746	US	ND
+Palermo	48.33974	-102.22906	US	ND
+City of Palermo	48.33799	-102.23002	US	ND
+Township of Palermo	48.32748	-102.2465	US	ND
+Township of Palmer	48.67692	-103.21122	US	ND
+Pats Coulee	48.51253	-103.66853	US	ND
+Township of Peabody	48.85008	-100.64313	US	ND
+Peaceful Valley	46.96363	-103.4963	US	ND
+Paulson	48.8967	-103.13324	US	ND
+Peaceful Valley Recreation Site	46.9539	-103.50713	US	ND
+Township of Peaceful Valley	46.58518	-103.23763	US	ND
+Pearl Butte	46.09332	-102.42086	US	ND
+Pearl Butte	46.54651	-102.54546	US	ND
+Township of Pearl	47.24179	-103.85561	US	ND
+Perella	48.90169	-102.251	US	ND
+Petrel	45.94833	-102.2771	US	ND
+Phaelens Butte	47.68112	-102.67991	US	ND
+Township of Pherrin	48.24117	-103.53938	US	ND
+Pick City	47.51139	-101.45377	US	ND
+Township of Pickard	47.45826	-100.60906	US	ND
+Pickardville	47.47111	-100.57958	US	ND
+Township of Pickering	48.85021	-100.51242	US	ND
+Pierce	46.78999	-100.69235	US	ND
+Pierce	46.35223	-103.07128	US	ND
+City of Pick City	47.51166	-101.45715	US	ND
+Township of Plain	48.50278	-101.6472	US	ND
+Township of Pleasant Valley	48.32838	-102.89273	US	ND
+Plum Butte	46.18667	-102.22043	US	ND
+Piuss Butte	46.19421	-101.07443	US	ND
+Plumb Draw	47.59863	-103.85909	US	ND
+Plumely Draw	46.83501	-103.51574	US	ND
+Township of Plumer	48.76393	-103.39951	US	ND
+Porcupine	46.21889	-101.09874	US	ND
+Porcupine Coulee	47.99725	-103.15019	US	ND
+Portal	48.99586	-102.54961	US	ND
+City of Portal	48.99569	-102.54744	US	ND
+Township of Powers	48.50305	-102.55983	US	ND
+Prairie Junction	47.9914	-101.90267	US	ND
+Township of Pratt	48.58907	-100.9944	US	ND
+Township of Prescott	48.50203	-101.12507	US	ND
+Pretty Butte	46.38081	-103.96124	US	ND
+Price	47.08583	-100.94153	US	ND
+Township of Prophets	47.54524	-100.609	US	ND
+Township of Prosperity	48.94641	-101.82449	US	ND
+Township of Purcell	48.24032	-102.37493	US	ND
+R Mead Rnach	47.45196	-103.31713	US	ND
+Ragged Butte	47.86348	-103.64221	US	ND
+Township of Rainbow	48.50301	-103.34181	US	ND
+Rainy Butte	46.48031	-103.03215	US	ND
+Township of Rainy Butte	46.49751	-102.98902	US	ND
+Raleigh	46.35778	-101.30653	US	ND
+Township of Raleigh	46.32808	-101.36163	US	ND
+Ralston	48.24862	-101.47628	US	ND
+Township of Randolph	47.80488	-103.73317	US	ND
+Rangeley	48.04278	-100.49098	US	ND
+Rattlesnake Butte	47.03721	-103.17229	US	ND
+Rattlesnake Butte	46.55064	-100.49615	US	ND
+Rattlesnake Butte	46.52003	-100.66478	US	ND
+Rattlesnake Butte	46.36458	-103.29412	US	ND
+Rattlesnake Buttes	46.08889	-103.78881	US	ND
+Raub	47.7464	-102.04322	US	ND
+Rawson	47.81946	-103.54075	US	ND
+City of Rawson	47.82002	-103.54103	US	ND
+Ray	48.34447	-103.16518	US	ND
+City of Ray	48.34238	-103.16316	US	ND
+Red Butte	47.18726	-101.57545	US	ND
+Township of Redmond	48.41584	-102.16882	US	ND
+Township of Ree	48.41589	-101.90813	US	ND
+Reeder	46.10584	-102.94544	US	ND
+City of Reeder	46.1071	-102.94258	US	ND
+Township of Reeder	46.075	-102.93296	US	ND
+Regan	47.15805	-100.52818	US	ND
+City of Regan	47.15676	-100.52726	US	ND
+Regent	46.42167	-102.55572	US	ND
+City of Regent	46.4222	-102.5582	US	ND
+Reihle Coulee	48.37113	-101.57627	US	ND
+Renville	48.76308	-101.30016	US	ND
+Township of Renville	48.76316	-101.29997	US	ND
+Rhame	46.23251	-103.65547	US	ND
+City of Rhame	46.23461	-103.65516	US	ND
+Township of Rhame	46.24338	-103.68209	US	ND
+Richardton	46.8839	-102.31573	US	ND
+City of Richardton	46.88437	-102.31567	US	ND
+Township of Richburg	48.9466	-101.03398	US	ND
+Township of Richland	48.94685	-102.34873	US	ND
+Township of Richmond	47.19951	-100.3046	US	ND
+Rider	46.91418	-103.63741	US	ND
+Township of Rifle	46.58668	-102.6136	US	ND
+Riga	48.29389	-100.70736	US	ND
+Township of Riga	48.32737	-100.69156	US	ND
+Rising	48.33612	-100.9557	US	ND
+Rival	48.9017	-102.61184	US	ND
+Robbers Butte	46.03445	-102.1971	US	ND
+Robinson Coulee	47.9764	-101.08321	US	ND
+Township of Roland	48.94596	-100.38033	US	ND
+Township of Rolling Green	48.15341	-101.59859	US	ND
+Ronningen Draw	47.57474	-103.9302	US	ND
+Township of Roosevelt	48.67671	-101.77728	US	ND
+Roseglen	47.75139	-101.83628	US	ND
+Township of Roseglen	47.71735	-101.80765	US	ND
+Township of Roseland	48.67676	-102.29903	US	ND
+Township of Rosemont	47.80466	-101.42177	US	ND
+Ross	48.31113	-102.54657	US	ND
+City of Ross	48.31286	-102.54363	US	ND
+Township of Ross	48.32829	-102.50392	US	ND
+Roth	48.9078	-100.80265	US	ND
+Rough Coulee	47.91363	-102.67769	US	ND
+Township of Round Prairie	48.15469	-103.95425	US	ND
+Round Top	47.54965	-102.96127	US	ND
+Round Top	46.17514	-101.85071	US	ND
+Round Top	46.01883	-101.94583	US	ND
+Round Top Butte	47.66043	-103.05779	US	ND
+Round Top Butte	46.40819	-103.55228	US	ND
+Rubbert Aerial Landing Strip	48.65001	-100.83376	US	ND
+Rugby Point	48.97195	-100.34764	US	ND
+Township of Rushville	47.8918	-101.29303	US	ND
+Ruso	47.83834	-100.93348	US	ND
+City of Ruso	47.83728	-100.93435	US	ND
+Russell	48.67141	-100.90154	US	ND
+Township of Russell	48.78333	-100.01708	US	ND
+Russell Butte	46.19017	-101.69984	US	ND
+Ryder	47.91751	-101.67794	US	ND
+City of Ryder	47.91767	-101.67365	US	ND
+Township of Ryder	47.89101	-101.67876	US	ND
+Sacred Heart Priory	46.8939	-102.34517	US	ND
+Sagebrush Coulee	47.56445	-102.40879	US	ND
+Ruthville	48.37168	-101.29877	US	ND
+Saint Anthony	46.61694	-100.91319	US	ND
+Township of Saint Croix	46.50054	-102.4869	US	ND
+Saint Gertrude	46.28445	-101.3293	US	ND
+Township of Saint Mary	47.63105	-101.50361	US	ND
+Saint Marys Mission	48.84972	-100.03985	US	ND
+Township of Saint Marys	48.41552	-101.51681	US	ND
+Butte Saint Paul	48.85159	-100.19626	US	ND
+Saint Sylvan Mission	48.84945	-100.07097	US	ND
+Township of Saline	48.41498	-100.864	US	ND
+San Haven	48.83472	-100.03902	US	ND
+Sanger	47.17971	-100.99542	US	ND
+Sanish	47.9739	-102.54602	US	ND
+Township of Sauk Prairie	48.67678	-101.90784	US	ND
+Township of Sauk Valley	48.58982	-102.95073	US	ND
+Sawyer	48.08973	-101.05377	US	ND
+City of Sawyer	48.08944	-101.05336	US	ND
+Scairt Woman Draw	47.29085	-103.35741	US	ND
+Township of Scandia	48.94654	-100.77471	US	ND
+Schafer	47.79946	-103.18658	US	ND
+Township of Schafer	47.79307	-103.2088	US	ND
+Schmidt	46.67361	-100.78207	US	ND
+Schmidt Bottom	46.68194	-100.7504	US	ND
+Township of Schultz	46.16667	-101.55041	US	ND
+Scoria Point	46.93113	-103.48546	US	ND
+Township of Scorio	48.59018	-103.73276	US	ND
+Township of Scotia	48.94693	-100.90294	US	ND
+Township of Scott	45.98846	-102.55952	US	ND
+Scranton	46.14806	-103.14295	US	ND
+City of Scranton	46.14669	-103.14272	US	ND
+Second Larson Coulee	48.19473	-101.23211	US	ND
+Sentinel Butte	46.91835	-103.83881	US	ND
+Sentinel Butte	46.87112	-103.83548	US	ND
+City of Sentinel Butte	46.91932	-103.8403	US	ND
+Township of Sentinel	46.89138	-103.73418	US	ND
+Township of Sergius	48.84749	-101.01314	US	ND
+Sevenmile Coulee	48.87446	-101.86544	US	ND
+Seventeen Butte	46.94229	-102.8192	US	ND
+Township of Shealey	48.1514	-101.83683	US	ND
+Township of Shealy	48.1535	-101.85727	US	ND
+Sheep Butte	47.63035	-103.79497	US	ND
+Sheep Butte	47.64724	-103.77464	US	ND
+Sheep Coulee	47.84752	-103.94993	US	ND
+Township of Sheets	46.32333	-103.36312	US	ND
+Township of Shell	48.06654	-102.11642	US	ND
+Sherwood	48.96002	-101.63266	US	ND
+City of Sherwood	48.96186	-101.63288	US	ND
+Shields	46.23361	-101.12596	US	ND
+Township of Shields	46.28195	-101.1893	US	ND
+Shipton Coulee	48.51558	-101.90405	US	ND
+Township of Sherman	48.84998	-101.29987	US	ND
+Sibley Butte	46.95625	-100.36487	US	ND
+Township of Sibley Butte	46.93855	-100.39212	US	ND
+Township of Sidonia	48.50295	-102.29923	US	ND
+Signal Butte	46.53048	-100.68729	US	ND
+Township of Sikes	48.15344	-102.37498	US	ND
+Simcoe	48.1564	-100.86681	US	ND
+Simon Butte	46.9671	-102.71131	US	ND
+Sims	46.77222	-101.49848	US	ND
+Township of Sioux	47.9157	-103.87723	US	ND
+Sitting Bull Burial Site	46.08972	-100.63402	US	ND
+Six Mile Corner	46.98057	-103.19073	US	ND
+Skaar	47.37335	-104.04021	US	ND
+Township of Slope	46.93057	-102.92574	US	ND
+Smith Butte	46.00638	-100.43179	US	ND
+Slide Butte	46.39029	-103.38407	US	ND
+Smokey Butte	46.03712	-101.38482	US	ND
+Smoky Butte	48.67399	-103.56251	US	ND
+Township of Smoky Butte	48.67715	-103.60206	US	ND
+Snow	47.16863	-103.11741	US	ND
+Township of Snow	47.6316	-101.24909	US	ND
+Solberg Butte	46.93249	-100.62179	US	ND
+Solen	46.38888	-100.79846	US	ND
+City of Solen	46.38773	-100.79568	US	ND
+Township of Solen	46.38055	-100.80652	US	ND
+Township of Solon	46.41381	-102.11086	US	ND
+Township of Soo	48.94636	-102.4799	US	ND
+Township of Sorkness	48.41607	-102.69029	US	ND
+Souris	48.90974	-100.68154	US	ND
+City of Souris	48.91003	-100.6826	US	ND
+Unorganized Territory of South Billings	46.76903	-103.42586	US	ND
+Unorganized Territory of South Dunn	47.08154	-102.56179	US	ND
+Unorganized Territory of South Emmons	46.10095	-100.23195	US	ND
+Township of South Fork	46.07501	-102.06085	US	ND
+Unorganized Territory of South Golden Valley	46.58528	-103.92295	US	ND
+South Heart	46.86473	-102.99157	US	ND
+Unorganized Territory of South McLean	47.33089	-100.93893	US	ND
+City of South Heart	46.86784	-102.98945	US	ND
+South Prairie	48.05195	-101.29572	US	ND
+Unorganized Territory of South Sheridan	47.40253	-100.3005	US	ND
+Township of South Valley	48.58868	-100.08053	US	ND
+Unorganized Territory of Southeast McKenzie	47.44848	-103.3481	US	ND
+Unorganized Territory of Southeast Williams	48.16539	-103.0182	US	ND
+Unorganized Territory of Southwest McKenzie	47.56814	-103.82212	US	ND
+Unorganized Territory of Southwest Sioux	46.04304	-101.22266	US	ND
+Spencer Coulee	48.55669	-101.96572	US	ND
+Township of Spencer	48.58977	-102.1687	US	ND
+Sperati Point	47.59457	-103.44842	US	ND
+Spotted Horn	47.71335	-102.70686	US	ND
+Square Butte	46.86696	-103.69714	US	ND
+Square Butte	47.05972	-101.19764	US	ND
+Square Buttes	47.05138	-100.93597	US	ND
+Square Top	47.54529	-103.23158	US	ND
+Squaretop Butte	47.26363	-103.44352	US	ND
+Squaw Gap	47.48891	-103.92743	US	ND
+Squaw Point	48.98862	-100.35042	US	ND
+Stady	48.72059	-103.70603	US	ND
+Township of Stafford	48.94641	-101.95567	US	ND
+Stampede	48.88726	-102.73767	US	ND
+Stanley	48.31724	-102.39045	US	ND
+City of Stanley	48.31633	-102.38728	US	ND
+Stanton	47.32111	-101.38155	US	ND
+City of Stanton	47.31687	-101.38439	US	ND
+Township of Star	46.24287	-103.43169	US	ND
+Township of Starbuck	48.76574	-100.78336	US	ND
+Township of Stave	48.41587	-102.03848	US	ND
+Township of Steiber	47.28562	-100.55813	US	ND
+Township of Steiner	46.50115	-102.23612	US	ND
+Sterling	46.81388	-100.2915	US	ND
+Township of Sterling	46.85127	-100.26709	US	ND
+Still	47.16055	-100.63624	US	ND
+Township of Stillwater	46.24285	-103.18242	US	ND
+Stocke Butte	47.65735	-103.45952	US	ND
+Stone Johnny Coulee	48.21363	-103.14352	US	ND
+Township of Stone View	48.6792	-102.94768	US	ND
+Township of Stone	48.59031	-103.3838	US	ND
+Township of Stoneview	48.67688	-102.95065	US	ND
+Stony Butte	46.54695	-102.54072	US	ND
+Stony Butte	47.89776	-102.87553	US	ND
+Stony Johnny Butte	47.68113	-103.29102	US	ND
+Township of Strandahl	48.41663	-103.98776	US	ND
+Strasburg	46.1336	-100.1615	US	ND
+City of Strasburg	46.13378	-100.16203	US	ND
+Township of Strasburg	46.16666	-100.20873	US	ND
+Township of Strassburg	47.80425	-100.52078	US	ND
+Township of Strehlow	46.41204	-102.8629	US	ND
+String Buttes	47.62668	-102.42851	US	ND
+Sugarloaf Butte	46.64817	-100.73012	US	ND
+Township of Strege	47.97829	-100.39175	US	ND
+Township of Summit	47.24583	-100.37262	US	ND
+Township of Sundre	48.15314	-101.20934	US	ND
+Sunny	46.82944	-100.95708	US	ND
+Township of Sunny Slope	46.16243	-103.95637	US	ND
+Sunset Butte	46.14945	-103.80965	US	ND
+Township of Sunshine	46.49751	-103.74298	US	ND
+Surrey	48.2364	-101.13349	US	ND
+City of Surrey	48.23647	-101.13362	US	ND
+Sweening Coulee	47.82557	-103.92382	US	ND
+Sweet Briar	46.82444	-101.15486	US	ND
+Table Butte	47.93213	-102.82409	US	ND
+Table Butte	46.51694	-100.65957	US	ND
+Township of Tacoma	48.67067	-100.84794	US	ND
+Township of Taft	46.76432	-100.26851	US	ND
+Tagus	48.3464	-101.93405	US	ND
+Talbot Butte	46.16338	-103.35622	US	ND
+Township of Talbot	46.16238	-103.30707	US	ND
+Tasco	48.68722	-100.25514	US	ND
+Tasker Coulee	48.30807	-101.50905	US	ND
+Taskers Coulee	48.64419	-102.06211	US	ND
+Township of Tatman	48.41519	-101.25567	US	ND
+Taylor	46.90056	-102.42518	US	ND
+Taylor Butte	46.15613	-102.57126	US	ND
+Township of Taylor Butte	46.16237	-102.55946	US	ND
+City of Taylor	46.90182	-102.42221	US	ND
+Teepee Butte	47.41496	-103.32854	US	ND
+Township of Telfer	46.67814	-100.52193	US	ND
+Temple	48.38891	-103.05602	US	ND
+Temvik	46.36971	-100.25845	US	ND
+Temvik Butte	46.36388	-100.28511	US	ND
+Tepee Butte	46.39362	-103.39935	US	ND
+Tepee Buttes	46.39556	-102.7635	US	ND
+Tepee Buttes	47.72891	-103.31908	US	ND
+Thelan	46.80362	-103.97187	US	ND
+Township of Thelma	46.7639	-100.14211	US	ND
+Thompson Headquarter Water Well	47.45946	-104.01187	US	ND
+Thompson Headquarter Water Well	47.44946	-104.01715	US	ND
+Township of Thorson	48.67689	-102.82073	US	ND
+Three Buttes	46.32556	-101.23569	US	ND
+Thorson Landing Strip	46.15473	-102.75099	US	ND
+Timmer	46.37139	-101.01791	US	ND
+City of Tioga	48.39765	-102.93862	US	ND
+Township of Tioga	48.41674	-102.95139	US	ND
+Tioga	48.39724	-102.93824	US	ND
+Township of Tolgen	48.15354	-101.72785	US	ND
+Tolley	48.72891	-101.82739	US	ND
+City of Tolley	48.73036	-101.8272	US	ND
+Toms Butte	46.6846	-103.38609	US	ND
+Toms Wash	46.66418	-103.48574	US	ND
+Tops Airstrip	46.83249	-100.29539	US	ND
+Township of Torgerson	48.41535	-99.94959	US	ND
+Township of Torning	48.06635	-101.46901	US	ND
+Tower Butte	47.32064	-103.4639	US	ND
+Towner	48.34583	-100.40541	US	ND
+City of Towner	48.34714	-100.40702	US	ND
+Trenton	48.07058	-103.83687	US	ND
+Township of Trenton	48.07249	-103.79918	US	ND
+Tri State Speedway	46.73306	-102.81212	US	ND
+Township of Tri	48.01546	-103.66465	US	ND
+Trotters	47.32307	-103.91826	US	ND
+Township of Troy	48.8509	-103.39934	US	ND
+Truax	47.35834	-101.64683	US	ND
+Township of Truax	48.12546	-103.28738	US	ND
+Township of Truman	47.8909	-100.00496	US	ND
+Truro	48.69391	-101.44627	US	ND
+Township of Trygg	47.02574	-100.43179	US	ND
+Tub Butte	47.84331	-103.61674	US	ND
+Township of Tuscarora	48.23909	-100.04201	US	ND
+Township of Tuttle	47.11181	-100.05149	US	ND
+Township of Twelve Mile	48.11312	-103.4105	US	ND
+Twin Butte	48.8242	-103.55408	US	ND
+Township of Twin Butte	48.85101	-103.5308	US	ND
+Twin Buttes	46.04223	-102.35054	US	ND
+Twin Buttes	46.20731	-103.38903	US	ND
+Twin Buttes	46.69186	-100.70744	US	ND
+Twin Buttes	47.05888	-100.73502	US	ND
+Twin Buttes	47.17529	-102.60046	US	ND
+Twin Buttes	47.51639	-102.24629	US	ND
+Twin Buttes	46.84718	-101.71091	US	ND
+Twin Buttes	46.39969	-100.61846	US	ND
+Twin Buttes	48.11945	-101.4735	US	ND
+Twin Buttes	48.11898	-101.47333	US	ND
+Township of Twin Valley	48.03921	-103.1924	US	ND
+Township of Tyrone	48.32874	-103.66884	US	ND
+Underwood	47.45639	-101.1371	US	ND
+City of Underwood	47.4551	-101.14151	US	ND
+Unorganized Territory of Underwood	47.37147	-101.23929	US	ND
+Upham	48.58167	-100.72819	US	ND
+City of Upham	48.58128	-100.72863	US	ND
+Township of Upland	48.7639	-103.13681	US	ND
+Upper Souris National Wildlife Refuge	48.55349	-101.59311	US	ND
+Township of Vale	48.85073	-102.61184	US	ND
+Township of Van Buren	48.50241	-101.38606	US	ND
+Van Hook Arm	47.88335	-102.35379	US	ND
+Township of Van Hook	47.97874	-102.32158	US	ND
+Vanderhoof Coulee	47.75585	-103.9516	US	ND
+Township of Vang	48.06646	-101.59867	US	ND
+Vanville	48.62947	-102.37267	US	ND
+Township of Vanville	48.58985	-102.42942	US	ND
+Velva	48.05612	-100.92932	US	ND
+City of Velva	48.05744	-100.93093	US	ND
+Verendrye	48.12112	-100.73903	US	ND
+Township of Victoria	47.54555	-101.24929	US	ND
+Township of View	48.24089	-103.15185	US	ND
+Township of Villard	48.15269	-100.56123	US	ND
+Volk Butte	46.12395	-100.31234	US	ND
+Voltaire	48.02056	-100.84154	US	ND
+City of Voltaire	48.01928	-100.84488	US	ND
+Wabek	47.97196	-101.95656	US	ND
+Township of Wagar	48.41475	-100.60288	US	ND
+Township of Wagendorf	46.32546	-102.73699	US	ND
+Township of Walker	46.50074	-102.11188	US	ND
+Township of Ward	48.76382	-102.34938	US	ND
+Washburn	47.28916	-101.02903	US	ND
+City of Washburn	47.29276	-101.02749	US	ND
+Wassaic	48.40613	-102.37823	US	ND
+Township of Waterford	48.41538	-101.38622	US	ND
+City of Watford City	47.80212	-103.27479	US	ND
+Watford City	47.80224	-103.28325	US	ND
+Watson Private Airstrip	47.50474	-103.20186	US	ND
+Township of Wayne	48.94638	-101.1686	US	ND
+Township of Wayzetta	48.06647	-102.24575	US	ND
+Township of Wellington	48.58857	-100.21116	US	ND
+Werner	47.36057	-102.45713	US	ND
+Township of West Bank	48.32833	-103.02226	US	ND
+Unorganized Territory of West Bowman	46.10363	-103.8832	US	ND
+Wannagan Seeps	46.99279	-103.54908	US	ND
+West Fork Badlands Draw	47.57002	-103.97048	US	ND
+Unorganized Territory of West Grant	46.28831	-101.86272	US	ND
+Unorganized Territory of West Mercer	47.23514	-101.96246	US	ND
+Unorganized Territory of West Morton	46.82369	-101.66151	US	ND
+Unorganized Territory of West Oliver	47.11129	-101.59545	US	ND
+West Rainy Butte	46.49629	-103.04566	US	ND
+Unorganized Territory of West Slope	46.4501	-103.9327	US	ND
+Unorganized Territory of West Stark	46.79265	-103.09625	US	ND
+West Twin Butte	47.02196	-103.77409	US	ND
+Township of Westby	48.85126	-103.95414	US	ND
+Township of Western	47.71702	-100.00515	US	ND
+Westhope	48.90946	-101.02071	US	ND
+City of Westhope	48.91108	-101.01768	US	ND
+Township of Wheaton	48.9465	-101.43106	US	ND
+Wheelock	48.29641	-103.25241	US	ND
+City of Wheelock	48.29502	-103.25296	US	ND
+Whetstone Buttes	46.23112	-102.95572	US	ND
+Township of Whetstone	46.23001	-103.93298	US	ND
+Whiskey Buttes	46.48188	-101.34184	US	ND
+Township of Whitby	48.76297	-100.64301	US	ND
+White	48.69612	-100.62403	US	ND
+Township of White Ash	48.5031	-101.77755	US	ND
+White Butte	46.59957	-102.3643	US	ND
+White Butte	46.38668	-103.3024	US	ND
+White Butte	46.81557	-102.95601	US	ND
+White Earth	48.38058	-102.77324	US	ND
+Unorganized Territory of West McLean	47.66594	-101.62222	US	ND
+Township of White Earth	48.41767	-102.82278	US	ND
+White Shield	47.66139	-101.84517	US	ND
+Township of White	47.89083	-100.13345	US	ND
+Whitebody Coulee	47.90085	-102.66296	US	ND
+City of White Earth	48.37987	-102.77181	US	ND
+Whites Wash	46.66196	-103.48046	US	ND
+Township of Whiting	46.07553	-103.18242	US	ND
+Township of Whitteron	48.84973	-100.37926	US	ND
+Wildrose	48.63058	-103.18435	US	ND
+City of Wildrose	48.62988	-103.18379	US	ND
+Township of Wild Rose	46.67696	-100.14357	US	ND
+Township of Willis	48.06637	-101.20953	US	ND
+Williston	48.14697	-103.61797	US	ND
+Williston Basin	47.25028	-101.75072	US	ND
+City of Williston	48.16375	-103.63619	US	ND
+Township of Williston	48.15446	-103.67974	US	ND
+City of Willow City	48.60449	-100.29327	US	ND
+Willow City	48.60444	-100.2943	US	ND
+Township of Willow Vale	48.67561	-100.34145	US	ND
+Township of Wilson	47.28594	-100.68531	US	ND
+City of Wilton	47.15834	-100.7851	US	ND
+Winchester Butte	46.30206	-100.31022	US	ND
+Windy Butte	46.69917	-103.33993	US	ND
+Wing	47.14082	-100.279	US	ND
+City of Wing	47.14248	-100.28315	US	ND
+Township of Wing	47.11205	-100.30513	US	ND
+Township of Winona	46.06889	-101.56278	US	ND
+Winter Headquarters Water Well	47.73391	-103.94521	US	ND
+Township of Wise	47.54535	-100.73692	US	ND
+Woburn	48.82864	-102.41934	US	ND
+Wolf Butte	46.15363	-102.77337	US	ND
+Wolf Butte	46.72615	-101.84603	US	ND
+Township of Wolf Butte	46.16243	-102.80862	US	ND
+Wolf Coulee	47.39974	-103.42575	US	ND
+Wolf Draw	47.09029	-103.51685	US	ND
+Wolseth	48.44641	-101.12404	US	ND
+Township of Woodberry	46.32328	-103.11277	US	ND
+Young Mans Butte	46.87136	-102.24411	US	ND
+Youngtown	46.9425	-101.40792	US	ND
+Zap	47.2864	-101.92267	US	ND
+City of Zap	47.28467	-101.92334	US	ND
+Zenith	46.87946	-103.09657	US	ND
+Ziner Butte	47.22965	-102.52135	US	ND
+Township of Yellowstone	47.89719	-104.00497	US	ND
+Sevenmile Corner	48.89448	-102.546	US	ND
+Hawkeye	47.99752	-102.87796	US	ND
+Max	47.82111	-101.29877	US	ND
+Sowers Bluff	48.54003	-103.98021	US	ND
+Minot Air Force Base	48.41557	-101.35766	US	ND
+Garrison	47.64583	-101.43944	US	ND
+Roseglen	47.75	-101.83333	US	ND
+Lidgerwood Remote Automatic Meteorological Observing System	46.1	-97.15	US	ND
+Howard Johnson Fargo Nd	46.8789	-96.7833	US	ND
+Radisson - Fargo	46.878	-96.786	US	ND
+Grand International	48.2508	-101.2945	US	ND
+CHEZ SUSANNE	46.8716	-96.7963	US	ND
+Loaf-N-Jug	46.83768	-100.79352	US	ND
+Township of Anamoose	47.89099	-100.26307	US	ND
+Township of Antler	48.94631	-101.30004	US	ND
+Township of Balfour	47.9788	-100.52044	US	ND
+Township of Balta	48.15205	-100.04219	US	ND
+Township of Bantry	48.50182	-100.60289	US	ND
+Township of Bowbells	48.76315	-102.21758	US	ND
+Township of Cando	48.50129	-99.16582	US	ND
+Township of Carrington	47.45757	-99.07226	US	ND
+Township of Cathay	47.5441	-99.45838	US	ND
+Township of Deering	48.41498	-100.99451	US	ND
+Township of Esmond	48.06527	-99.78344	US	ND
+Township of Fargo	46.94388	-96.79471	US	ND
+Township of Granville	48.23964	-100.82051	US	ND
+Township of Harriet-Lien	47.06867	-100.17786	US	ND
+Township of Karlsruhe	48.06527	-100.56019	US	ND
+Township of Kenmare	48.67683	-102.03687	US	ND
+Township of Knox	48.32634	-99.65241	US	ND
+Township of Langdon	48.84821	-98.40896	US	ND
+Township of Lansford	48.589	-101.38617	US	ND
+Township of Lawton	48.32644	-98.35675	US	ND
+Township of Leeds	48.32677	-99.39387	US	ND
+Township of Martin	47.80391	-100.13382	US	ND
+Township of Maza	48.41414	-99.16675	US	ND
+Township of McClusky	47.45779	-100.48146	US	ND
+Township of McHenry	47.5436	-98.56386	US	ND
+Township of Mercer	47.45809	-100.73732	US	ND
+Township of Mott	46.41533	-102.36089	US	ND
+Township of Nekoma	48.58725	-98.38349	US	ND
+Township of Nesson Valley	48.17141	-103.15046	US	ND
+Township of Oberon	47.92278	-99.24233	US	ND
+Township of Pettibone	47.1108	-99.54483	US	ND
+Township of Poplar	47.75861	-101.15765	US	ND
+Township of Portal	48.94629	-102.61178	US	ND
+Township of Sawyer	48.06589	-101.08012	US	ND
+Township of Scranton	46.16277	-103.18341	US	ND
+Township of Surrey	48.24015	-101.07784	US	ND
+Township of Sykeston	47.45737	-99.45871	US	ND
+Township of Tappen	46.84906	-99.63765	US	ND
+Township of Velva	48.06621	-100.95068	US	ND
+Township of Voltaire	47.97827	-100.77926	US	ND
+Township of Warwick	47.89209	-98.71671	US	ND
+Township of Wheelock	48.32857	-103.28071	US	ND
+Township of York	48.32642	-99.52328	US	ND
+Township of Butte	47.80464	-100.77854	US	ND
+Four Bears Segment	47.9388	-102.69365	US	ND
+Mandaree Segment	47.67981	-102.54596	US	ND
+Twin Buttes Segment	47.52145	-102.19193	US	ND
+White Shield Segment	47.67554	-101.9892	US	ND
+Township of Chalky Butte	46.41037	-103.36252	US	ND
+Cathedral of the Holy Spirit	46.81056	-100.79639	US	ND
+Religious Society of Friends	46.82389	-100.77972	US	ND
+Unitarian Universalist Fellowship	46.82389	-100.77917	US	ND
+Bismarck Community Bowl	46.82139	-100.82139	US	ND
+Oxbow	46.67282	-96.81002	US	ND
+Grand Forks Air Force Base	47.95493	-97.38664	US	ND
+Minot Air Force Base	48.42087	-101.33914	US	ND
+Minot Air Force Base	48.42584	-101.34575	US	ND
+Grand Forks Air Force Base	47.95479	-97.38877	US	ND
+Unorganized Territory of Central Hettinger	46.36918	-102.61268	US	ND
+Unorganized Territory of Dixon	46.50048	-99.60165	US	ND
+Unorganized Territory of Fort Berthold	47.62937	-102.46373	US	ND
+Unorganized Territory of Fort Berthold	47.84868	-102.70453	US	ND
+Unorganized Territory of Fort Berthold	47.65781	-102.0612	US	ND
+Unorganized Territory of Fort Berthold	47.51398	-102.05272	US	ND
+Unorganized Territory of Holden	45.98861	-102.80866	US	ND
+Unorganized Territory of Kickapoo	47.199	-100.05109	US	ND
+Unorganized Territory of Lincoln-Fort Rice	46.72966	-100.75705	US	ND
+Unorganized Territory of Phoenix	47.19908	-100.17733	US	ND
+Unorganized Territory of Central Slope	46.41023	-103.42573	US	ND
+La Moure OMEGA Tower	46.36601	-98.33554	US	ND
+Kustom Deals	46.8113	-100.77728	US	ND
+Pietschtree Airstrip	48.29705	-101.43046	US	ND
+Preszler Airstrip	46.69182	-100.09224	US	ND
+Chitwood Airstrip	47.71213	-103.6466	US	ND
+Lindvig Airstrip	48.00829	-103.59538	US	ND
+Peterson Airstrip	48.85984	-101.30467	US	ND
+Chase Airstrip	46.90957	-102.00641	US	ND
+Jurgens Airstrip	46.90622	-102.49132	US	ND
+Undlin Airstrip	48.68447	-101.34763	US	ND
+Sjule Private Airstrip	48.93197	-100.57786	US	ND
+Tappen Airstrip	46.88183	-99.6345	US	ND
+Leeds Municipal	48.28323	-99.3967	US	ND
+Kornkven Airstrip	48.88685	-100.69004	US	ND
+Linrud Airstrip	48.12202	-100.93422	US	ND
+Hought Airstrip	48.41364	-103.83874	US	ND
+Behrens Airstrip	48.27044	-101.39704	US	ND
+Johnson Airstrip	46.89875	-98.86098	US	ND
+Paul Airstrip	48.41823	-100.05824	US	ND
+Moffet Airstrip	46.30218	-96.99147	US	ND
+Horsley Airstrip	48.98365	-97.46434	US	ND
+Smith Airstrip	47.77389	-98.98756	US	ND
+M. Bodvig Airstrip	46.99436	-99.67261	US	ND
+Philbrick Private Airstrip	47.40445	-100.88217	US	ND
+L Seckerson Airstrip	46.80404	-99.00632	US	ND
+Johnson Private Airstrip	47.32807	-97.90054	US	ND
+Regan Airstrip	47.22506	-100.42923	US	ND
+Dilse Private Airstrip	46.30344	-103.17281	US	ND
+Bakko Airstrip	46.55295	-97.03235	US	ND
+Punton Private	47.00398	-97.4067	US	ND
+Humann Private Airstrip	46.49318	-100.17933	US	ND
+Storseth Airstrip	48.66625	-103.85984	US	ND
+Lonetree Airstrip	47.68398	-100.08597	US	ND
+Kulm Ambulance Corps	46.30185	-98.95	US	ND
+Drayton Volunteer Ambulance Association	48.56075	-97.17858	US	ND
+Munich Rural Ambulance	48.67009	-98.8356	US	ND
+Two Shields Butte	47.73975	-102.47807	US	ND
+Williston Landfill	48.16556	-103.57528	US	ND
+Fargo City Landfill	46.88694	-96.86583	US	ND
+Bottineau City Landfill	48.84167	-100.455	US	ND
+Jamestown Landfill	46.905	-98.56889	US	ND
+Dickinson City Landfill	46.85111	-102.69306	US	ND
+HVDC CU - Zoar Electrode Line End	47.41481	-101.22782	US	ND
+Souris-Red-Rainy Region - 2-digit Hydrologic Unit Code - 09	47.6991	-97.32841	US	ND
+HVDC CU - Zoar Electrode	47.41482	-101.23429	US	ND
+Shayenne National Grassland	46.39969	-97.27269	US	ND
+Fargo Veterans Affairs Healthcare System	46.90622	-96.77481	US	ND
+Sanford Children's Southwest Clinic	46.86209	-96.82277	US	ND
+North Dakota Highway Patrol Fargo	46.86983	-96.83417	US	ND
+North Dakota Highway Patrol Headquarters	46.82059	-100.78274	US	ND
+North Dakota Highway Patrol Williston	48.14659	-103.61838	US	ND
+North Dakota Highway Patrol Bismarck	46.84961	-100.77101	US	ND
+North Dakota Highway Patrol Jamestown	46.90349	-98.70569	US	ND
+North Dakota Highway Patrol Dickinson	46.9012	-102.78889	US	ND
+North Dakota Highway Patrol Minot	48.21067	-101.28427	US	ND
+North Dakota State Penitentiary	46.80042	-100.74268	US	ND
+North Dakota Highway Patrol Grand Forks	47.92976	-97.09614	US	ND
+Fairview Colony	46.33921	-98.40044	US	ND
+Sundale Colony	46.32457	-97.44191	US	ND
+Wheatland Colony	46.92604	-97.65475	US	ND
+Willowbank Colony	46.31544	-98.57073	US	ND
+Scott Gymnasium	46.8816	-102.80158	US	ND
+Rollie Greeno Track	46.91195	-98.69665	US	ND
+Lura Manor	48.24547	-101.29825	US	ND
+Aleshire Theater	48.24709	-101.30058	US	ND
+Technology Incubator	46.90422	-96.81116	US	ND
+Bison Block I	46.89031	-96.80224	US	ND
+Kessler Dorm	46.00178	-98.51923	US	ND
+Riffe Dorm	46.00112	-98.51749	US	ND
+August Little Soldier Apartment Complex	46.76683	-100.75873	US	ND
+Skalicky Technology Incubator	47.92106	-97.09024	US	ND
+Mechanical Shop	47.91954	-97.0846	US	ND
+Virginia Rose Apartments	47.92195	-97.08401	US	ND
+Williamsburg Apartments	47.9214	-97.08321	US	ND
+Swanson Apartment Complex	47.92003	-97.0814	US	ND
+Gallery Apartments	47.92677	-97.08708	US	ND
+Tulane Drive 23 and 24 Plex Apartments	47.92402	-97.08723	US	ND
+Northwestern Drive Apartments	47.92424	-97.08369	US	ND
+Berkeley Drive 8 Plex Apartments	47.92271	-97.08338	US	ND
+Bud Jacobi Tennis Complex	47.92622	-97.07492	US	ND
+International Centre	47.92267	-97.06971	US	ND
+Hamline Square Apartments	47.93068	-97.06885	US	ND
+Burtness Theatre	47.92109	-97.0742	US	ND
+Adelphi Fountain	47.91998	-97.07453	US	ND
+Armory	47.91911	-97.07274	US	ND
+Soaring Eagle Sculpture and Garden	47.92121	-97.07188	US	ND
+Environmental Training Institute	47.92036	-97.0626	US	ND
+Lokken Track	46.91562	-98.01568	US	ND
+Graichen Gymnasium	46.91884	-98.0042	US	ND
+Hatton Eielson Public Schoool	47.64144	-97.45991	US	ND
+Good Samaritan Society-Arthur	47.10865	-97.21667	US	ND
+Saint Gabriel's Community	46.85537	-100.78226	US	ND
+Good Samaritan Society-Bismarck	46.849	-100.78899	US	ND
+Good Samaritan Society-Bottineau	48.82284	-100.43397	US	ND
+Golden Acres Manor	47.44953	-99.1114	US	ND
+Wedgewood Manor	48.79418	-97.63376	US	ND
+Good Samaritan Society-Crosby	48.90613	-103.28932	US	ND
+Woodside Village	47.89748	-97.08697	US	ND
+Saint Gerard's Community of Care	46.06674	-96.90332	US	ND
+Ave Maria Village	46.92931	-98.70296	US	ND
+Eventide at Hi-Acres Manor	46.90891	-98.69039	US	ND
+Good Samaritan Society-Lakota	48.03654	-98.35103	US	ND
+Good Samaritan Society-Larimore	47.90554	-97.61785	US	ND
+Good Samaritan Society-Mott	46.37486	-102.31637	US	ND
+Elm Crest Manor	46.84561	-101.40751	US	ND
+Good Samaritan Society-Oakes	46.14152	-98.08746	US	ND
+Buckstop Junction Historic Village	46.80699	-100.72593	US	ND
+Former Governors' Mansion State Historic Site	46.81101	-100.78646	US	ND
+Tommy Turtle Statue	48.82249	-100.43095	US	ND
+Sheriff's Musuem	48.11356	-98.85944	US	ND
+Wee'l Turtle Statue	48.8078	-100.06198	US	ND
+Wally the Walleye Statue	47.65355	-101.41741	US	ND
+Ali's Boundless Playground	47.91085	-97.07578	US	ND
+Huff Indian Village State Historic Site	46.61857	-100.64266	US	ND
+World's Largest Buffalo Statue	46.88932	-98.69848	US	ND
+Frontier Village	46.88999	-98.70258	US	ND
+On-A-Slant Mandan Indian Village	46.7674	-100.84677	US	ND
+Minot Optimist Soccer Complex	48.26033	-101.31245	US	ND
+Salem Sue Statue	46.85277	-101.42625	US	ND
+Victorian Dress Musuem	48.36703	-99.99792	US	ND
+Bonanzaville USA	46.87584	-96.92789	US	ND
+Chimney Butte	46.66531	-101.15574	US	ND
+Antelope Butte	46.63734	-101.46722	US	ND
+White Butte	46.66041	-101.45744	US	ND
+Crown Butte	46.59492	-101.55646	US	ND
+Pump Coulee	46.55722	-101.53111	US	ND
+Cat Coulee	46.56499	-101.50988	US	ND
+Griner Coulee	46.60556	-101.48345	US	ND
+Snake Coulee	46.59955	-101.44625	US	ND
+Point Butte	46.56835	-101.40908	US	ND
+Pony Coulee	46.59106	-101.36772	US	ND
+Rattlesnake Point	46.60944	-101.87854	US	ND
+Rattlesnake Buttes	46.44018	-101.45936	US	ND
+Thompson Butte	46.23437	-101.47983	US	ND
+Rattlesnake Butte	46.15031	-101.43212	US	ND
+Bw Ramkota	46.79688	-100.78787	US	ND
+Sheyenne National Grassland	46.40055	-97.27719	US	ND
+Microtel Dickinson	46.90024	-102.79604	US	ND

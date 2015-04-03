@@ -1,0 +1,593 @@
+Praia Zale	0.05	6.51667	ST	02
+Ponta Zale	0.05	6.51667	ST	02
+Pico Zagaia	0.18333	6.51667	ST	02
+Praia Zabagor	0.06667	6.51667	ST	02
+Rio Xufexufe	0.13333	6.5	ST	02
+Praia Xixi	0.06667	6.51667	ST	02
+Ponta da Vista Alegre	0	6.53333	ST	02
+Vista Alegre	0.31667	6.68333	ST	02
+Vila Verde	0.13333	6.55	ST	02
+Vilaverde	0.13333	6.55	ST	02
+Vila Sara	0.33333	6.58333	ST	02
+Vila Rosa	1.68333	7.41667	ST	01
+Vila Moura	0.3	6.68333	ST	02
+Vila Conceicao	0.05	6.56667	ST	02
+Ponta Vasconcelos	0.38333	6.73333	ST	02
+Val Carmo	0.16667	6.63333	ST	02
+Va-Inha	0.05	6.51667	ST	02
+Urzelina	0.18333	6.68333	ST	02
+Rio Umbugo	0.11667	6.63333	ST	02
+Ubabudo	0.26667	6.75	ST	02
+Praia da Uba	1.68045	7.4598	ST	01
+Uba	1.63333	7.38333	ST	01
+Triunfo	0.4	6.68333	ST	02
+Morro da Trindade	0.3	6.68333	ST	02
+Trindade	0.3	6.68333	ST	02
+Tras os Montes	0.26667	6.61667	ST	02
+Angra Toldo	0.15	6.68333	ST	02
+Pedras Tinhosas	1.36667	7.28333	ST	01
+Tinhosa Pequena	1.38333	7.28333	ST	00
+Tinhosa Grande	1.35	7.3	ST	00
+Terreiro Velho	1.61667	7.41667	ST	01
+Terra Firme	1.68333	7.46667	ST	01
+Agua Telha	0.36667	6.71667	ST	02
+Agua Telha	0.3	6.51667	ST	02
+Praia de Sundi	1.68333	7.38333	ST	01
+Sundi	1.66667	7.38333	ST	01
+Soledade	0.13333	6.65	ST	02
+Sintra	0.1	6.56667	ST	02
+Monte Sinai	0.08333	6.56667	ST	02
+Praia Simao	0.03333	6.51667	ST	02
+Sete Pedras	0.03333	6.63333	ST	02
+Sequeira	1.63333	7.38333	ST	01
+Sela do Camelo	0.21667	6.53333	ST	02
+Praia Seca	1.55	7.4	ST	01
+Saudade	0.28333	6.63333	ST	02
+Sao Tome and Principe	1	7	ST	00
+Ribeira Sao Tome	1.56667	7.35	ST	01
+Praia Sao Tome	1.56667	7.35	ST	01
+Pico de Sao Tome	0.26667	6.55	ST	02
+Ilha de Sao Tome	0.2	6.65	ST	02
+Sao Tome	0.33654	6.72732	ST	02
+Sao Tome	0.2	6.65	ST	02
+Ponta de Sao Sebastiao	0.35	6.73333	ST	02
+Sao Pedro	0.28333	6.7	ST	02
+Sao Pedro	0.3	6.63333	ST	02
+Sao Paulo	0.2	6.65	ST	02
+Sao Nicolau	0.28333	6.63333	ST	02
+Rio Sao Miguel	0.13333	6.5	ST	02
+Ilheu Sao Miguel	0.13333	6.48333	ST	02
+Baia de Sao Miguel	0.13333	6.5	ST	02
+Sao Miguel	0.13333	6.5	ST	02
+Sao Mateus	1.63333	7.4	ST	01
+Sao Manuel	0.26667	6.48333	ST	02
+Sao Manuel	0.16667	6.48333	ST	02
+Sao Luis	0.3	6.61667	ST	02
+Sao Jose Picate	1.63333	7.4	ST	01
+Sao Jose	0.21667	6.5	ST	02
+Sao Jose	0.11667	6.6	ST	02
+Morro Sao Jorge	1.68333	7.43333	ST	01
+Sao Jorge	1.66667	7.4	ST	01
+Sao Joaquim	1.61667	7.38333	ST	01
+Angra de Sao Joao dos Angolares	0.11667	6.65	ST	02
+Rio Sao Joao	0.13333	6.65	ST	02
+Sao Joao	1.65	7.43333	ST	01
+Sao Joao	0.25	6.48333	ST	02
+Sao Joao	0.13333	6.65	ST	02
+Sao Joao	0.08333	6.55	ST	02
+Sao Joao	0.23333	6.48333	ST	02
+Sao Joao	0.15	6.65	ST	02
+Sao Joao	0.08333	6.56667	ST	02
+Ponta Sao Jeronimo	0.33333	6.75	ST	02
+Sao Jeronimo	1.68333	7.36667	ST	01
+Sao Jeronimo	0.2	6.68333	ST	02
+Sao Januario	0.25	6.66667	ST	02
+Sao Francisco	0.31667	6.65	ST	02
+Sao Francisco	0.2	6.65	ST	02
+Sao Francisco	0.4	6.68333	ST	02
+Sao Francisco	0	6.53333	ST	02
+Sao Carlos do Fundao	1.61667	7.38333	ST	01
+Santo Cristo	1.63333	7.43333	ST	01
+Ponta de Santo Antonio	0	6.53333	ST	02
+Baia de Santo Antonio	1.65193	7.44427	ST	01
+Santo Antonio	1.63726	7.41783	ST	01
+Santo Antonio	1.65	7.41667	ST	01
+Santo Antonio	0.23333	6.73333	ST	02
+Santo Andre	0.33333	6.7	ST	02
+Santo Amaro	0.36667	6.7	ST	02
+Sant'Elmo	0.21667	6.61667	ST	02
+Santa Trindade	1.61667	7.4	ST	01
+Praia de Santa Rita	1.7	7.4	ST	01
+Santa Rita	1.68333	7.41667	ST	01
+Santarem	0.35	6.68333	ST	02
+Praia de Santana	1.66667	7.43333	ST	01
+Ponta Santana	1.66265	7.4465	ST	01
+Ilheu de Sant'Ana	0.25	6.76667	ST	02
+Ilheu Santana	1.66263	7.44886	ST	01
+Enseada de Sant'Ana	0.25	6.75	ST	02
+Santana	1.66667	7.43333	ST	01
+Santana	0.25423	6.7414	ST	02
+Santa Maria	0.35	6.6	ST	02
+Santa Margarida	0.33333	6.66667	ST	02
+Santa Luzia	0.36667	6.63333	ST	02
+Santa Josefina	0.06667	6.53333	ST	02
+Santa Joaquina	1.61667	7.4	ST	01
+Rio Santa Isabel	0.18333	6.48333	ST	02
+Santa Isabel	1.65	7.41667	ST	01
+Santa Irene	0.21667	6.51667	ST	02
+Santa Irene	0.1	6.6	ST	02
+Santa Elvira	0.26667	6.65	ST	02
+Santa Cruz	0.33333	6.66667	ST	02
+Santa Cruz	0.13333	6.65	ST	02
+Santa Clotilde	0.3	6.5	ST	02
+Santa Clotilde	0.25	6.7	ST	02
+Santa Clotilde	0.11667	6.6	ST	02
+Santa Clara	0.35	6.61667	ST	02
+Santa Cecilia	0.18333	6.7	ST	02
+Praia de Santa Catarina	0.26667	6.48333	ST	02
+Santa Catarina	0.27157	6.47241	ST	02
+Santa Adelaide	0.26667	6.65	ST	02
+Praia Sandida	1.68333	7.43333	ST	01
+Sameiro	0.28333	6.75	ST	02
+Praia Sambangombe	0.08333	6.51667	ST	02
+Salomao	1.63333	7.38333	ST	01
+Praia Salgada	1.63333	7.45	ST	01
+Safu	0.21667	6.48333	ST	02
+Monte Sacli	0.35	6.66667	ST	02
+Rosema	0.35	6.56667	ST	02
+Rio Vouga	0.33333	6.7	ST	02
+Rio Leca	0.35	6.55	ST	02
+Rio do Ouro	0.36667	6.65	ST	02
+Rio Ave	0.26667	6.5	ST	02
+Ribeira Palma	0.35	6.58333	ST	02
+Praia da Ribeira Ize	1.68333	7.4	ST	01
+Ribeira Ize	1.68333	7.4	ST	01
+Ribeira Funda	0.36667	6.58333	ST	02
+Ribeira Fria	1.58333	7.43333	ST	01
+Ribeira Afonso	0.2	6.71667	ST	02
+Praia Ribeira	0.2	6.7	ST	02
+Praia Rei	1.6	7.35	ST	01
+Praia Rei	0.21667	6.73333	ST	02
+Ilheu Quixiba	0.06667	6.6	ST	02
+Ponta Quinguelharo	0.36667	6.73333	ST	02
+Quingue	0.28333	6.66667	ST	02
+Monte das Quinas	0.28333	6.53333	ST	02
+Quinas	0.26667	6.6	ST	02
+Quimpo	0.25	6.71667	ST	02
+Rio Quija	0.11667	6.51667	ST	02
+Agua Quifinda	0.31667	6.71667	ST	02
+Queluz	0.33333	6.65	ST	02
+Queijo	0.2	6.53333	ST	02
+Agua Provaz	0.36667	6.55	ST	02
+Provaz	0.3	6.58333	ST	02
+Pico do Principe	1.57926	7.38153	ST	01
+Ilha do Principe	1.61735	7.39637	ST	01
+Principe	1.61667	7.41667	ST	01
+Preguica	0.26667	6.65	ST	02
+Precipicio	1.68333	7.45	ST	01
+Ponta Prainha	0.33333	6.51667	ST	02
+Ponta da Praia Salgada	1.65	7.45	ST	01
+Ponta Praiao	0.3	6.76667	ST	02
+Morro da Praia Joana	-0.01667	6.51667	ST	02
+Praia Inhame	1.66667	7.43333	ST	01
+Morro da Praia Grande	1.68333	7.45	ST	01
+Baia da Praia Grande	0.06667	6.58333	ST	02
+Praia Grande	0.08333	6.58333	ST	02
+Praia das Conchas	0.38333	6.61667	ST	02
+Ponta da Praia das Burras	1.7	7.43333	ST	01
+Praia da Rosema	0.36667	6.56667	ST	02
+Porto Alegre	0.03333	6.53333	ST	02
+Rio Portinho	0.08333	6.51667	ST	02
+Ilheu Portinho	1.53333	7.38333	ST	01
+Portinho	0.08333	6.53333	ST	02
+Portinho	1.63333	7.43333	ST	01
+Ribeira Porco	1.55	7.38333	ST	01
+Ponta Furada	0.23333	6.48333	ST	02
+Ponta Forte	1.66667	7.43333	ST	01
+Ponta Figo	0.35	6.55	ST	02
+Praia Ponta do Sol	1.65	7.36667	ST	01
+Ponta do Sol	1.65	7.38333	ST	01
+Praia Pombo	-0.01667	6.51667	ST	02
+Praia Pombas	0.28333	6.75	ST	02
+Poiso Alto	0.33333	6.61667	ST	02
+Plato Cafe	0.26667	6.66667	ST	02
+Planca Segunda	0.4	6.61667	ST	02
+Plancas	0.36667	6.6	ST	02
+Planca Primeira	0.4	6.6	ST	02
+Praia Pipa	0.11667	6.5	ST	02
+Pinheiro	0.26667	6.56667	ST	02
+Pinheira	0.28333	6.71667	ST	02
+Baia do Pilar	0.13333	6.5	ST	02
+Piedade	1.63333	7.43333	ST	01
+Ponta do Pico Negro	1.52761	7.40067	ST	01
+Praia Picao	0.26667	6.75	ST	02
+Agua Picao	0.26667	6.75	ST	02
+Picao	1.66667	7.43333	ST	01
+Pianpian	0.28333	6.68333	ST	02
+Praia Pesqueiro de Deus	0.01667	6.53333	ST	02
+Perseveranca	0.08333	6.61667	ST	02
+Praia do Periquito	1.6	7.43333	ST	01
+Periquito	1.6	7.43333	ST	01
+Praia Pequena	1.63333	7.45	ST	01
+Praia Pequena	0.33333	6.75	ST	02
+Peninha	0.25	6.6	ST	02
+Ribeira Peixe	0.08333	6.61667	ST	02
+Morro Peixe	0.41667	6.65	ST	02
+Pedroma	0.26667	6.7	ST	02
+Rio das Pedras	0.1	6.51667	ST	02
+Praia da Pedra Furada	1.65	7.36667	ST	01
+Ponta da Pedra Furada	1.65	7.36667	ST	01
+Pedra Furada	0.16667	6.7	ST	02
+Paufita	1.68333	7.41667	ST	01
+Pau Cavalo	1.65	7.38333	ST	01
+Paris	0.33333	6.68333	ST	02
+Rio Papagaio	1.65	7.41667	ST	01
+Morro Papagaio	1.61667	7.4	ST	01
+Praia Pantufo	0.31667	6.75	ST	02
+Palmira	0.28333	6.6	ST	02
+Praia Palma	0.11667	6.5	ST	02
+Agua Palito	0.31667	6.68333	ST	02
+Rio Paga Fogo	0.28333	6.48333	ST	02
+Paciencia	1.66667	7.43333	ST	01
+Rio do Ouro	0.41667	6.68333	ST	02
+Os Dois Irmaos	1.58333	7.43333	ST	01
+Oque Tres	1.65	7.4	ST	01
+Oque Rosario	1.65	7.41667	ST	01
+Oque Posson	0.36667	6.58333	ST	02
+Oque Pipi	1.6	7.41667	ST	01
+Oque Nazare	1.63333	7.4	ST	01
+Oque Gaspar	1.65	7.41667	ST	01
+Oquedelrei	0.36667	6.73333	ST	02
+Oque Daniel	1.66667	7.36667	ST	01
+Oque Boi	1.63333	7.43333	ST	01
+Oque Bobo	0.31667	6.7	ST	02
+Morro dos Ocas	0.31667	6.5	ST	02
+Oca	1.66667	7.4	ST	01
+Observatorio	0.11667	6.63333	ST	02
+N'zumbi	0.06667	6.55	ST	02
+Praia do Novo Destino	1.65	7.43333	ST	01
+Ponta Novo Destino	1.65	7.43333	ST	01
+Novo Destino	0.31667	6.63333	ST	02
+Novo Brasil	0.08333	6.56667	ST	02
+Nova Olinda	0.25	6.73333	ST	02
+Nova Olinda	0.38333	6.61667	ST	02
+Nova Moca	0.28333	6.63333	ST	02
+Nova Estrela	1.61667	7.43333	ST	01
+Nova Cuba	1.63333	7.41667	ST	01
+Nitreira	1.61667	7.41667	ST	01
+Neves Ferreira	1.55	7.4	ST	01
+Neves	0.35671	6.54897	ST	02
+Pico Negro	1.53284	7.40187	ST	01
+N. Ceilao	0.28333	6.6	ST	02
+Nazare	0.36667	6.71667	ST	02
+M. Vilela	0.28333	6.56667	ST	02
+Mutamba	0.4	6.61667	ST	02
+Ponta Mussanda	0.13333	6.66667	ST	02
+Mamas de Mussacavu	0.1	6.53333	ST	02
+Muquinqui	0.38333	6.65	ST	02
+Muongo	0.31667	6.65	ST	02
+Mulondo	0.3	6.51667	ST	02
+M. Peixe	0.4	6.65	ST	02
+Ponta dos Mosteiros	1.67959	7.461	ST	01
+Ilheus dos Mosteiros	1.68457	7.46942	ST	01
+Morro Vigia	0.33333	6.6	ST	02
+Praia Morrao dos Castelos	0.2	6.73333	ST	02
+Ponta dos Morcegos	0.15	6.68333	ST	02
+Monteverde	0.15	6.5	ST	02
+Montes Herminios	0.25	6.7	ST	02
+Monte Rosa	0.13333	6.51667	ST	02
+Monte Raul	0.21667	6.68333	ST	02
+Monte Pedra	1.61667	7.43333	ST	01
+Monteforte	0.33333	6.53333	ST	02
+Monte Carmo	0.33333	6.6	ST	02
+Monte Carmo	0.3	6.5	ST	02
+Monte Carmo	0.15	6.58333	ST	02
+Monte Cafe	0.3	6.65	ST	02
+Montebelo	0.21667	6.71667	ST	02
+Praia Montanha	1.68333	7.38333	ST	01
+Montalvao	1.66667	7.41667	ST	01
+Montalegre	1.63333	7.38333	ST	01
+Praia Mocoto	1.68333	7.38333	ST	01
+Ribeira Moca	0.3	6.5	ST	02
+Praia Moca	0.3	6.48333	ST	02
+Mizambu	0.23333	6.68333	ST	02
+Mirante	0.33333	6.6	ST	02
+Mirante	0.25	6.51667	ST	02
+Rio Miranda Guedes	0.15	6.61667	ST	02
+Ponta da Mina	1.65	7.43333	ST	01
+Milagrosa	0.28333	6.66667	ST	02
+Miguel Angelo	0.23333	6.65	ST	02
+Praia Micondo	0.16667	6.68333	ST	02
+Micondo	0.16667	6.66667	ST	02
+Mendes da Silva	0.21667	6.7	ST	02
+Picos de Mencorne	1.58333	7.4	ST	01
+Rio Melo	0.36667	6.71667	ST	02
+Praia Melao	0.31667	6.75	ST	02
+Matocana	0.23333	6.7	ST	02
+Morro Matemba	1.6	7.36667	ST	01
+Rio Mata Mina	0.26667	6.48333	ST	02
+Rio Massacavu	0.1	6.51667	ST	02
+Rio Martim Mendes	0.1	6.63333	ST	02
+Praia Martim Mendes	0.1	6.63333	ST	02
+Maria Pires	0.23333	6.55	ST	02
+Rio Maria Luisa	0.33333	6.51667	ST	02
+Maria Isabel	0.2	6.66667	ST	02
+Maria Helena	0.21667	6.63333	ST	02
+Pico Maria Fernandes	0.16667	6.65	ST	02
+Ponta Maria Apolinaria	0.4	6.7	ST	02
+Praia Margarida	1.68333	7.36667	ST	01
+Maquina	1.63333	7.38333	ST	01
+Rio Manuel Jorge	0.3	6.75	ST	02
+Manuel Gomes	1.63333	7.38333	ST	01
+Praia Manuel dos Santos da Nazare	1.61667	7.43333	ST	01
+Mantero	1.6	7.35	ST	01
+Praia Mandioca	0.08333	6.6	ST	02
+M. Alice	0.06667	6.53333	ST	02
+Malanza	0.05	6.53333	ST	02
+Ponta Mae Marta	1.68333	7.38333	ST	01
+Madalena	0.33333	6.66667	ST	02
+Pico Macuru	0.11667	6.65	ST	02
+Macambrara	0.26667	6.63333	ST	02
+Monte Macalu	0.36667	6.66667	ST	02
+Praia Macaco	1.68333	7.45	ST	01
+Monte Macaco	0.35	6.65	ST	02
+Ilheu Macaco	0.1	6.51667	ST	02
+Baia Luisa	0.21667	6.73333	ST	02
+Lemos	0.3	6.7	ST	02
+Rio Lemba Pequeno	0.23333	6.48333	ST	02
+Praia da Lemba-Lemba	1.6	7.35	ST	01
+Rio Lemba	0.25	6.46667	ST	02
+Morro Lemba	0.25	6.53333	ST	02
+Lemba	0.25	6.46667	ST	02
+Ponta Lebre	0.23333	6.75	ST	02
+Laura	0.28333	6.7	ST	02
+Praia da Lapa	1.61667	7.36667	ST	01
+Praia Lanca	0.1	6.51667	ST	02
+Agua Lamas	0.38333	6.63333	ST	02
+Ponta Lamaporco	0.01667	6.51667	ST	02
+Lamaporco	0.01667	6.51667	ST	02
+Lagoa Amelia	0.28333	6.6	ST	02
+Praia Lagarto	0.36667	6.71667	ST	02
+Praia Koba	0.4	6.7	ST	02
+Rio Joao Nunes	0.16667	6.61667	ST	02
+Pico Joao Dias Pai	1.6	7.38333	ST	01
+Agua Joao	0.21667	6.73333	ST	02
+Rio Joana de Sousa	0.2	6.46667	ST	02
+Monte Joana de Sousa	0.18333	6.46667	ST	02
+Ilheu Joana de Sousa	0.18333	6.46667	ST	02
+Ponta Joana	-0.01667	6.51667	ST	02
+Praia Jiga	0.23333	6.75	ST	02
+Java	0.26667	6.65	ST	02
+Ribeira Ize	1.68333	7.4	ST	01
+Morro Irene	0.23333	6.51667	ST	02
+Praia do Iola	1.65	7.36667	ST	01
+Ponta Iola	1.63333	7.36667	ST	01
+Morro Iola	1.63333	7.36667	ST	01
+Iola	1.65	7.36667	ST	01
+Rio Io Grande	0.1	6.63333	ST	02
+Io Grande	0.21667	6.61667	ST	02
+Baia de Iogoiogo	0.03333	6.55	ST	02
+Iobo	1.63333	7.36667	ST	01
+Praia do Io	0.1	6.65	ST	02
+Ponta do Io	0.11667	6.66667	ST	02
+Interior	0.13333	6.61667	ST	02
+Monte Inserto	0.2	6.6	ST	02
+Praia Inhame	1.66667	7.43333	ST	01
+Praia Inhame	0.01667	6.51667	ST	02
+Infante Dom Henrique	1.56677	7.41337	ST	01
+Ponta da Hora	1.7	7.4	ST	01
+Henrique	0.05	6.55	ST	02
+Rio Gumbela	0.05	6.55	ST	02
+Gumbela	0.08333	6.55	ST	02
+Guegue Novo	0.26667	6.71667	ST	02
+Praia Guegue do Sul	0.18333	6.7	ST	02
+Praia Guegue	0.41667	6.63333	ST	02
+Guayaquil	0.2	6.61667	ST	02
+Guarda	0.35	6.6	ST	02
+Guadalupe	0.38333	6.65	ST	02
+Ponta Gryobo	0.15	6.48333	ST	02
+Gratidao	0.33333	6.68333	ST	02
+Granja	0.15	6.63333	ST	02
+Praia Grande	1.67088	7.44714	ST	01
+Praia Grande	1.55699	7.41712	ST	01
+Praia Grande	0.38333	6.6	ST	02
+Agua Grande	0.35	6.73333	ST	02
+Ponta da Graca	-0.01667	6.53333	ST	02
+Graca	0.3	6.65	ST	02
+Graca	0.25	6.48333	ST	02
+Godins	0.2	6.63333	ST	02
+Germinia Antonia	1.63333	7.38333	ST	01
+Monte Gentio	0.16667	6.63333	ST	02
+Generosa	0.35	6.55	ST	02
+General Fonseca	1.56667	7.43333	ST	01
+Ponta da Garca	1.63333	7.46667	ST	01
+Ponta Garca	0.1	6.63333	ST	02
+Pedra da Gale	1.72545	7.38022	ST	01
+Ilheu Gago Coutinho	-0.01667	6.53333	ST	02
+Ilheu Gabado	0.13333	6.48333	ST	02
+Futuro	1.66667	7.43333	ST	01
+Ponta Furada	0.25	6.46667	ST	02
+Morro Fundao	1.61667	7.38333	ST	01
+Ribeira Funda	0.36667	6.58333	ST	02
+Fraternidade	0.11667	6.65	ST	02
+Ribeira de Frades	1.65	7.41667	ST	01
+Fortunato	0.31667	6.56667	ST	02
+Praia da Fortaleza	1.6	7.35	ST	01
+Praia do Forno	0	6.53333	ST	02
+Pico Formoso Pequeno	0.25	6.61667	ST	02
+Pico Formoso Grande	0.23333	6.63333	ST	02
+Ilheu Formoso	0.13333	6.48333	ST	02
+Praia Formiga	1.6	7.33333	ST	01
+Formiga	0.25	6.48333	ST	02
+Focinho de Cao	1.6	7.33333	ST	01
+F. Mantero	0.25	6.71667	ST	02
+Filho	1.6	7.38333	ST	01
+Ponta Figo	0.36667	6.55	ST	02
+Fernao Dias	0.41667	6.68333	ST	02
+Praia Faleiros	0.03333	6.51667	ST	02
+Praia de Evora	1.65	7.45	ST	01
+Estoril	0.33333	6.58333	ST	02
+Morro de Este	1.58333	7.41667	ST	01
+Morro Estanduarte	1.63333	7.38333	ST	01
+Esprainha	0.33333	6.51667	ST	02
+Esperanca	1.63333	7.4	ST	01
+Esperanca	0.3	6.61667	ST	02
+Praia Escada	-0.01667	6.53333	ST	02
+Ermelinda	0.13333	6.58333	ST	02
+Enjale	0.03333	6.51667	ST	02
+Rio Edgar	0.18333	6.48333	ST	02
+Dona Eugenia	0.13333	6.61667	ST	02
+Dona Augusta	0.11667	6.63333	ST	02
+Praia Dom Grande	0.03333	6.53333	ST	02
+Dom Afonso	0.1	6.6	ST	02
+Ponta Diogo Vaz	0.31667	6.5	ST	02
+Diogo Vaz	0.31667	6.5	ST	02
+Ponta Diogo Prenca	0.31667	6.75	ST	02
+Rio Diogo Pena	0.11667	6.51667	ST	02
+Rio Diogo Nunes	0.38333	6.7	ST	02
+Praia Diogo Nunes	0.38333	6.7	ST	02
+Ponta Diogo Nunes	0.38333	6.71667	ST	02
+Diana	0.33333	6.68333	ST	02
+Monte de Dentro	0.26667	6.6	ST	02
+Ponta do Cruzeiro	0.41667	6.66667	ST	02
+Cruzeiro	0.18333	6.63333	ST	02
+Cruz dos Ventos	0.2	6.73333	ST	02
+Monte Cristo	0.05	6.56667	ST	02
+Costa e Silva	1.56667	7.35	ST	01
+Praia da Correia	1.6	7.35	ST	01
+Praia Coracora	0.18333	6.48333	ST	02
+Rio Contador	0.35	6.55	ST	02
+Rio Contador	0.26667	6.46667	ST	02
+Morro Coniconi	1.66667	7.41667	ST	01
+Praia das Conchas	0.4	6.61667	ST	02
+Conceicao	1.65	7.4	ST	01
+Colonia Acoreana	0.18333	6.68333	ST	02
+Ilheu Coco	0.2	6.46667	ST	02
+Praia Cle-cle	0.03333	6.55	ST	02
+Agua Clara Dias	0.28333	6.75	ST	02
+Pico Charuto	0.25	6.56667	ST	02
+Chamico	0.31667	6.6	ST	02
+Chamico	0.31667	6.6	ST	02
+Celeste	0.08333	6.6	ST	02
+Ponta Cavingui	0.03333	6.55	ST	02
+Rio Caue	0.08333	6.58333	ST	02
+Catumbela	0.25	6.66667	ST	02
+Catraio	0.26667	6.66667	ST	02
+Ponta Catecuta	1.61667	7.43333	ST	01
+Monte Castro	0.31667	6.55	ST	02
+Agua Castelo	0.41667	6.61667	ST	02
+Castelo	0.21667	6.71667	ST	02
+Cascalheira	1.68333	7.41667	ST	01
+Carriote	1.58333	7.36667	ST	01
+Morro Carregado	0.41667	6.61667	ST	02
+Ilheu Caroco	1.51667	7.43333	ST	01
+Caridade	0.2	6.7	ST	02
+Pico Cao Pequeno	0.1	6.53333	ST	02
+Pico Cao Grande	0.11667	6.56667	ST	02
+Cantagalo	0.21667	6.68333	ST	02
+Cantagalo	0.23333	6.65	ST	02
+Cantagalo	0.06667	6.53333	ST	02
+Agua Canoa	0.26667	6.75	ST	02
+Praia Candeia	1.55	7.4	ST	01
+Canavial	0.38333	6.66667	ST	02
+Praia Cana	1.68333	7.41667	ST	01
+Camelo	0.23333	6.68333	ST	02
+Cambuta	0.25	6.68333	ST	02
+Calvario	0.26667	6.58333	ST	02
+Praia Calundo	1.56667	7.43333	ST	01
+Caldeiras	0.35	6.63333	ST	02
+Praia do Calaboio	0.08333	6.51667	ST	02
+Caixao Grande	0.3	6.71667	ST	02
+Praia Caixao	1.61426	7.35552	ST	01
+Morro Caixao	1.61667	7.36667	ST	01
+Pico Cagungue	0.21667	6.65	ST	02
+Ponta Cafe	1.55671	7.425	ST	01
+Ponta Cadao	0.33333	6.53333	ST	02
+Cadao	0.33333	6.53333	ST	02
+Rio Cabumbe	0.21667	6.51667	ST	02
+Pico Cabumbe	0.2	6.55	ST	02
+Ilheu das Cabras	0.4	6.71667	ST	02
+Bussaco	0.26667	6.68333	ST	02
+Praia das Burras	1.68333	7.43333	ST	01
+Praia Bunga	0.03333	6.55	ST	02
+Buenos Aires	0.26667	6.71667	ST	02
+Monte Braga	0.38333	7.63333	ST	02
+Botija	0.2	6.63333	ST	02
+Ponta Bote	0.08333	6.61667	ST	02
+Bombon	0.31667	6.73333	ST	02
+Praia do Bombom	1.7	7.4	ST	01
+Ilheu Bombom	1.69886	7.40255	ST	01
+Bombom	1.68333	7.4	ST	01
+Bombaim	0.25	6.63333	ST	02
+Rio Bomba	0.25	6.65	ST	02
+Monte dos Bois	0.4	6.65	ST	02
+Praia Boi	1.68333	7.46667	ST	01
+Boa Esperanca	0.33333	6.63333	ST	02
+Boa Entrada	0.35	6.66667	ST	02
+Blublu	0.31667	6.71667	ST	02
+Rio Binda	0.21667	6.46667	ST	02
+Praia Binda	0.21667	6.46667	ST	02
+Binda	0.21667	6.46667	ST	02
+Binda	0.23333	6.48333	ST	02
+Ribeira Bibi	1.55	7.41667	ST	01
+B. Faro	0.23333	6.66667	ST	02
+Bemposta	0.31667	6.63333	ST	02
+Bemfica	0.31667	6.65	ST	02
+Belo Monte	1.68689	7.44513	ST	01
+Belmonte	0.33333	6.65	ST	02
+Bela Vista	1.61667	7.41667	ST	01
+Bela Vista	0.36667	6.7	ST	02
+Batalha	0.25	6.7	ST	02
+Ribeira Banzu	1.61667	7.36667	ST	01
+Praia Banana	1.68485	7.43729	ST	01
+Balsa Voador	0.13333	6.48333	ST	02
+Baliza	0.25	6.7	ST	02
+Praia Baleia	1.65	7.45	ST	01
+Ponta Baleia	0.03333	6.56667	ST	02
+Ribeira Bacharel	1.63333	7.36667	ST	01
+Babudo	1.65	7.4	ST	01
+Praia Azeitona	0.1	6.63333	ST	02
+Ponta Azeitona	0.11667	6.5	ST	02
+Monte Azeitona	0.21667	6.7	ST	02
+Atalaia	1.61667	7.45	ST	01
+As Mamas	1.55	7.35	ST	01
+As Duas Aguas	1.68333	7.4	ST	01
+Morro Artur	0.21667	6.5	ST	02
+Antonio Enes	1.55	7.38333	ST	01
+Antonio Dias	0.2	6.66667	ST	02
+Anselmo de Andrade	1.6	7.36667	ST	01
+Rio Angra Toldo	0.16667	6.68333	ST	02
+Rio Angobo	0.15	6.68333	ST	02
+Angobo	0.15	6.66667	ST	02
+Angobo	0.15	6.68333	ST	02
+Rio Anambo	0.33333	6.51667	ST	02
+Rio Ana de Chaves	0.16667	6.61667	ST	02
+Pico Ana de Chaves	0.25	6.58333	ST	02
+Baia de Ana de Chaves	0.35	6.73333	ST	02
+Amparo II	0.31667	6.71667	ST	02
+Amparo	0.18333	6.66667	ST	02
+Praia Amador	0.23333	6.73333	ST	02
+Alto Douro	0.2	6.71667	ST	02
+Alto Douro	0.05	6.53333	ST	02
+Baia do Almoxarife	0.28333	6.75	ST	02
+Alianca	0.18333	6.65	ST	02
+Praia de Alges	0.3	6.76667	ST	02
+Ponta Alema	0.26667	6.46667	ST	02
+Aida	0.08333	6.6	ST	02
+Baia das Agulhas	1.61667	7.35	ST	01
+Agua Ize	0.21667	6.73333	ST	02
+Agua-Coco	0.05	6.53333	ST	02
+Ribeira Afonso	0.2	6.7	ST	02
+Rio Abade	0.23333	6.73333	ST	02
+Praia do Abade	1.63333	7.45	ST	01
+Ponta do Abade	1.63333	7.46667	ST	01
+Abade	1.63333	7.45	ST	01
+Abacates	0.25	6.68333	ST	02
+A. Andrade	0.23333	6.7	ST	02
+Principe	1.66294	7.41174	ST	
+S. Tome	0.37817	6.71215	ST	
+Pinheira Mediumwave Transmitter	0.29232	6.74846	ST	02
+Pinheira Mediumwave Transmitter, Mast Northeast	0.29431	6.75916	ST	02
+Pinheira Mediumwave Transmitter, Mast Southwest	0.29371	6.75867	ST	02
+Porto Algere	0.03455	6.53352	ST	02
+Ponta Banana	1.69105	7.44083	ST	01

@@ -1,0 +1,998 @@
+Plateau Wickers	-21.0139	55.56142	RE	00
+Vue Belle	-21.07844	55.27461	RE	00
+Ravine Vincendo	-21.37633	55.67567	RE	00
+Pointe a Vincendo	-21.38272	55.67092	RE	00
+Vincendo	-21.37007	55.6777	RE	00
+Caverne Villier	-21.03333	55.55	RE	00
+Ruisseau la Vigne	-20.88333	55.61667	RE	00
+Ravine de la Veuve	-21.23226	55.29804	RE	00
+Verger Hemery	-21.36502	55.54687	RE	00
+Ravine la Verdure	-20.89147	55.46689	RE	00
+Union	-20.99968	55.67142	RE	00
+Ravine du Trou	-21.23874	55.30965	RE	00
+Trois Roches	-21.04588	55.24972	RE	00
+Trois Petits Bonhommes	-21.10185	55.5009	RE	00
+Trois Mares-les Hauts	-21.24241	55.51295	RE	00
+Ravine des Trois Mares	-21.28985	55.45844	RE	00
+Ravine des Trois Bassins	-21.10992	55.25386	RE	00
+Pointe des Trois Bassins	-21.11278	55.25355	RE	00
+Trois-Bassins	-21.1	55.3	RE	RE
+Trinite	-21.33333	55.76667	RE	00
+Mare a Trevet	-21.05	55.55	RE	00
+Rempart du Tremblet	-21.28511	55.76774	RE	00
+Ravine du Tremblet	-21.29286	55.80447	RE	00
+Pointe du Tremblet	-21.29176	55.80539	RE	00
+Tremblet	-21.30384	55.80138	RE	00
+Ravine Tete Dure	-20.99764	55.31242	RE	00
+Terre Sainte	-21.34804	55.48676	RE	00
+Bras de Terre Rouge	-20.99272	55.64992	RE	00
+Terre Rouge	-21.3453	55.50271	RE	00
+Terre Plate	-21.07827	55.51959	RE	00
+Terre Carrere	-21.07982	55.68591	RE	00
+Pointe Terre	-21.16667	55.38333	RE	00
+Caverne de Terre	-20.98333	55.46667	RE	00
+Terrain Elisa	-20.93505	55.54754	RE	00
+Bras Tanan	-20.93333	55.48333	RE	00
+Ravine du Tampon	-21.2659	55.55444	RE	00
+Plaine des Tamarins	-21.0793	55.44037	RE	00
+Ravine Takamaka	-21.32041	55.80142	RE	00
+Brule de Takamaka	-21.32537	55.78302	RE	00
+Takamaka	-21.31523	55.80042	RE	00
+Taibit	-21.11427	55.42811	RE	00
+Pointe de la Table	-21.33141	55.80785	RE	00
+Ravine Tabac	-21.10424	55.26056	RE	00
+Bras Tabac	-21.08333	55.61667	RE	00
+Bras de Sylvert	-21.21449	55.40693	RE	00
+Surprise	-21.1513	55.3021	RE	00
+Stella Matutina	-21.20434	55.29856	RE	00
+Sous les Bois Noirs	-21.37907	55.6377	RE	00
+Ravine Souris Chaude	-21.35904	55.66548	RE	00
+Ravine la Sourdine	-21.00801	55.70031	RE	00
+Ravine Seche	-21.13629	55.58549	RE	00
+Ravine Seche	-21.11667	55.58333	RE	00
+Ravine Seche	-21.05023	55.73217	RE	00
+Ravine Seche	-21.03333	55.5	RE	00
+Ravine Seche	-21.01284	55.51078	RE	00
+Ravine Seche	-20.94377	55.64503	RE	00
+Bras Sec	-21.35068	55.65497	RE	00
+Bras Sec	-21.22478	55.50337	RE	00
+Ilet Savannah	-20.97139	55.33068	RE	00
+Savannah	-20.98772	55.29763	RE	00
+Ravine Savane Cimetiere	-21.17824	55.71763	RE	00
+Plateau Sarabe	-20.98	55.60483	RE	00
+Caverne Sapent	-20.98737	55.43857	RE	00
+Montee Sano	-20.95181	55.53665	RE	00
+Source Samary	-21.15	55.53333	RE	00
+Saline-les Hauts	-21.09263	55.30553	RE	00
+Ravine de la Saline	-21.08979	55.2403	RE	00
+Etang Sale	-21.26777	55.33211	RE	00
+Cirque de Salazie	-21.05	55.5	RE	00
+Salazie	-21.02734	55.539	RE	RE
+Plaine des Salazes	-21.11464	55.51593	RE	00
+Chaine des Salazes	-21.08769	55.46972	RE	00
+Arrondissement de Saint-Pierre	-21.25	55.58333	RE	RE
+Saint-Pierre	-21.3393	55.47811	RE	RE
+Saint-Philippe	-21.35852	55.76795	RE	RE
+Etang de Saint-Paul	-20.99249	55.29108	RE	00
+Brule de Saint-Paul	-21.08556	55.3778	RE	00
+Bras de Saint-Paul	-21.17265	55.44485	RE	00
+Baie de Saint-Paul	-20.9937	55.26446	RE	00
+Arrondissement de Saint-Paul	-21.08333	55.33333	RE	RE
+Saint-Paul	-21.00963	55.27071	RE	RE
+Plaine Saint-Louis	-21.26667	55.43333	RE	00
+Saint-Louis	-21.28585	55.41124	RE	RE
+Brule de Saint-Leu	-21.15496	55.3785	RE	00
+Saint-Leu	-21.17059	55.28824	RE	RE
+Pointe Saint-Joseph	-21.38614	55.60995	RE	00
+Saint-Joseph	-21.37839	55.61918	RE	RE
+Petite Riviere Saint-Jean	-20.92614	55.62989	RE	00
+Grande Riviere Saint-Jean	-20.91049	55.62948	RE	00
+Saint-Gilles-les Hauts	-21.05048	55.26499	RE	00
+Saint-Gilles-les Bains	-21.05438	55.2285	RE	RE
+Ravine Saint-Gilles	-21.05487	55.22286	RE	00
+Bras Saint-Gilles	-21.03333	55.28333	RE	00
+Ravine de Saint-Francois	-21.06413	55.732	RE	00
+Premier Bras Saint-Francois	-21.08333	55.68333	RE	00
+Mornes de Saint-Francois	-21.13718	55.64943	RE	00
+Morne Saint-Francois	-20.93859	55.45564	RE	00
+Deuxieme Bras Saint-Francois	-21.06667	55.7	RE	00
+Saint-Francois	-21.06722	55.73475	RE	00
+Saint-Francois	-20.91861	55.45859	RE	00
+Riviere Saint-Etienne	-21.30156	55.40305	RE	00
+Plateau Sainte-Therese	-20.96523	55.35213	RE	00
+Sainte-Therese	-20.94928	55.34251	RE	00
+Riviere Sainte-Suzanne	-20.90771	55.61578	RE	00
+Bras de Sainte-Suzanne	-21.1858	55.53016	RE	00
+Bras Sainte-Suzanne	-20.98333	55.38333	RE	00
+Sainte-Suzanne	-20.90614	55.60886	RE	RE
+Brule de Sainte-Rose	-21.14364	55.77125	RE	00
+Sainte-Rose	-21.12983	55.79629	RE	RE
+Riviere Sainte-Marie	-20.88333	55.55	RE	00
+Pointe Sainte-Marie	-20.89145	55.55781	RE	00
+Bras Sainte-Marie	-20.89523	55.54793	RE	00
+Sainte-Marie	-20.89684	55.5496	RE	RE
+Bras Sainte-Marguerite	-21.07368	55.73919	RE	00
+Sainte-Clotilde	-20.89161	55.47872	RE	00
+Sainte-Anne-les Hauts	-21.08333	55.71667	RE	00
+Riviere Sainte-Anne	-21.07743	55.74383	RE	00
+Sainte-Anne	-21.08522	55.74944	RE	00
+Riviere Saint-Denis	-20.87576	55.44402	RE	00
+Rade de Saint-Denis	-20.85	55.43333	RE	00
+Arrondissement de Saint-Denis	-20.91667	55.5	RE	RE
+Saint-Denis	-20.88231	55.4504	RE	RE
+Saint-Bernard	-20.90787	55.40133	RE	00
+Arrondissement de Saint-Benoit	-21.08333	55.66667	RE	RE
+Saint-Benoit	-21.03801	55.71937	RE	RE
+Saint-Andre	-20.96333	55.65031	RE	RE
+Anse du Sac	-21.11667	55.81667	RE	00
+Ravine des Sables Noirs	-21.3	55.45	RE	00
+Pointe des Sables Blancs	-21.36041	55.78268	RE	00
+Plaine des Sables	-21.23031	55.66724	RE	00
+Pic des Sables	-21.13031	55.59646	RE	00
+Pas des Sables	-21.23522	55.64766	RE	00
+Cratere Rouge de l'Enclos	-21.21667	55.68333	RE	00
+Pointe Rouge	-21.17437	55.83375	RE	00
+Cratere Rouge	-21.23333	55.73333	RE	00
+Bras Rouge	-21.17165	55.44546	RE	00
+Rond des Chevrons	-21.14968	55.51041	RE	00
+Fond des Roefles	-21.2	55.28333	RE	00
+Riviere des Roches	-21.00778	55.70093	RE	00
+Ravine des Roches	-21.34537	55.49588	RE	00
+Ravine Roche Pendue	-21.16667	55.43333	RE	00
+Roche Maigre	-21.2718	55.41475	RE	00
+Ravine Rochefort	-21.36537	55.72441	RE	00
+Ravine de la Roche a Jacquot	-21.02832	55.4929	RE	00
+Ravine a Robert	-21.1	55.68333	RE	00
+Riviere Saint-Pierre	-21.08333	55.73333	RE	00
+Pointe de la Riviere Saint-Etienne	-21.31269	55.41105	RE	00
+Riviere du Rempart	-21.36667	55.61667	RE	00
+Riviere du Mat-les Hauts	-20.97423	55.64623	RE	00
+Riviere du Mat-les Bas	-20.97487	55.68718	RE	00
+Pointe de la Riviere du Mat	-20.97923	55.70098	RE	00
+Pointe de la Riviere des Roches	-20.98333	55.7	RE	00
+Pic de la Riviere des Roches	-21.05898	55.6192	RE	00
+Foret de la Riviere des Remparts	-21.25586	55.59867	RE	00
+Pointe de la Riviere des Pluies	-20.86667	55.51667	RE	00
+Pointe de la Riviere des Galets	-20.95785	55.27844	RE	00
+Riviere de l'Est	-21.11956	55.75898	RE	00
+Pointe Riviere d'Abord	-21.35104	55.48467	RE	00
+Revolution	-20.91667	55.55799	RE	00
+Reunion	-21.1	55.6	RE	00
+Reunion	-21.1	55.6	RE	00
+Reunion	-21.06667	55.26667	RE	00
+Reunion	-20.90083	55.53715	RE	00
+Ravine Renone	-21.25481	55.35268	RE	00
+Rencontre	-21.30795	55.80401	RE	00
+Ravine Renaud	-21.00699	55.29732	RE	00
+Renaissance	-20.92872	55.60389	RE	00
+Riviere des Remparts	-21.38461	55.61903	RE	00
+Plaine des Remparts	-21.23117	55.64259	RE	00
+Puys Raymond	-21.29425	55.70295	RE	00
+Pointe de la Ravine Seche	-21.04953	55.73201	RE	00
+Ravine Seche	-21.24371	55.35895	RE	00
+Ravine Martin	-21.16667	55.45	RE	00
+Ravine Glissante	-21.13843	55.80492	RE	00
+Ravine du Pont-les Bas	-21.35	55.56667	RE	00
+Ravine du Pont	-21.34258	55.5616	RE	00
+Ravine des Chevres-les Hauts	-20.90969	55.56853	RE	00
+Pointe de la Ravine des Chevres	-20.89301	55.57178	RE	00
+Ravine des Chevres	-20.89692	55.57153	RE	00
+Ravine des Cafres-les Hauts	-21.33769	55.5177	RE	00
+Ravine des Cafres-les Bas	-21.34986	55.50832	RE	00
+Ravine des Cabris	-21.28671	55.47363	RE	00
+Ravine des Cabris	-21.26499	55.50818	RE	00
+Pointe de la Ravine d'Ango	-21.34939	55.79666	RE	00
+Ravine d'Ango	-21.34557	55.79318	RE	00
+Pointe de la Ravine Creuse	-20.93333	55.68333	RE	00
+Ravine Creuse	-20.96932	55.66352	RE	00
+Pointe de la Ravine Blanche	-21.33883	55.45756	RE	00
+Ravine Blanche	-21.33842	55.46659	RE	00
+Ravine a Marquet	-20.95	55.33333	RE	00
+Pointe de la Ravine a Malheur	-20.91142	55.35257	RE	00
+Ravine a Malheur	-20.92525	55.3678	RE	00
+Pic Ramond	-21.28333	55.7	RE	00
+Cratere Ramond	-21.26667	55.7	RE	00
+Quartier-Francais	-20.928	55.63524	RE	00
+Pointe du Quai la Rose	-21.12471	55.79337	RE	00
+Ravine du Premier Bras	-20.88325	55.49738	RE	00
+Mare a Poule d'Eau	-21.05123	55.52584	RE	00
+Ravine Poulailler	-21.2	55.48333	RE	00
+Cap de la Possession	-20.9	55.33333	RE	00
+Ravine du Portail	-21.21656	55.289	RE	00
+Pointe du Portail	-21.22856	55.29363	RE	00
+Bras de Ponteau	-21.21667	55.48333	RE	00
+Bras de Ponteau	-21.18333	55.58333	RE	00
+Pont Dives	-21.23397	55.50511	RE	00
+Ravine du Pont	-21.36529	55.54143	RE	00
+Bois de Pomme	-21.01879	55.54632	RE	00
+Ravine des Pluies	-20.88216	55.502	RE	00
+Ravine Plate	-21.09697	55.68129	RE	00
+Caverne Plate	-20.96667	55.43333	RE	00
+Plate	-21.20483	55.33311	RE	00
+Plate	-20.99298	55.57407	RE	00
+Plaine des Gregues	-21.32972	55.60603	RE	00
+Ravine la Plaine	-20.97723	55.29709	RE	00
+Bras de la Plaine	-21.28512	55.45636	RE	00
+Pindray	-21.11667	55.76667	RE	00
+Bras Pigeon	-21.07443	55.71905	RE	00
+Pierrefonds	-21.3037	55.42888	RE	00
+Pichete	-20.96377	55.34251	RE	00
+Gap a Picard	-20.98333	55.55	RE	00
+Cap Picard	-20.98333	55.55	RE	00
+Petit Tampon	-21.26829	55.5574	RE	00
+Petit Serre	-21.21313	55.45471	RE	00
+Ravine du Petit Saint-Pierre	-21.08269	55.74991	RE	00
+Petit Saint-Pierre	-21.09082	55.74867	RE	00
+Petit Sable	-21.03627	55.53647	RE	00
+Petit Matarum	-21.1124	55.48404	RE	00
+Ravine du Petit Etang	-21.1689	55.28751	RE	00
+Petite Ravine	-21.13492	55.27168	RE	00
+Petite Ravine	-21.12197	55.30244	RE	00
+Petite Plaine	-21.14524	55.59093	RE	00
+Ravine de la Petite Ile	-21.37413	55.56767	RE	00
+Petite-Ile	-21.35	55.56667	RE	RE
+Petite Ile	-21.37639	55.56806	RE	00
+Petit Benard	-21.14471	55.40501	RE	00
+Petit Bazar	-20.94033	55.64836	RE	00
+Bras Petard	-21.00318	55.67495	RE	00
+Ravine Perote	-21.36564	55.72394	RE	00
+Bras Payet	-21.15864	55.6102	RE	00
+Ravine Pavee	-21.08985	55.5933	RE	00
+Ravine Pauline	-21.01667	55.63333	RE	00
+Ravine Patience	-21.14943	55.44827	RE	00
+Petit Bras de Patience	-21.12474	55.63419	RE	00
+Grand Bras de Patience	-21.11343	55.64492	RE	00
+Bras de Patience	-21.09335	55.61238	RE	00
+Ravine des Patates a Durand	-20.88296	55.46736	RE	00
+Morne des Patates a Durand	-20.94666	55.46461	RE	00
+Bras de Patates	-21.25101	55.4181	RE	00
+Bras du Parc	-21.0714	55.49172	RE	00
+Ravine Papaye	-21.25	55.4	RE	00
+Montee Panon	-21.0918	55.26315	RE	00
+Bras Panon	-20.96667	55.65	RE	00
+Bras d'Oussy	-21.02163	55.4032	RE	00
+Plaine des Osmondes	-21.22119	55.74792	RE	00
+Ravine des Orangers	-21.09813	55.76087	RE	00
+Pointe des Orangers	-21.08333	55.76667	RE	00
+Coteau des Orangers	-21.14065	55.44071	RE	00
+Chaine des Orangers	-21.04763	55.39351	RE	00
+Ruisseau des Noirs	-20.89126	55.45911	RE	00
+Cap Noir	-21.15	55.45	RE	00
+Cap Noir	-21.03333	55.21667	RE	00
+Bois de Nefles	-21.08678	55.2508	RE	00
+Bras de la Nage	-20.97344	55.48971	RE	00
+Caverne Mussard	-21.09728	55.5087	RE	00
+Foret Mourouvin	-21.15755	55.77752	RE	00
+Bras des Moufiats	-20.96667	55.65	RE	00
+Bras du Mouchoir Gris	-21.22487	55.40817	RE	00
+Crete Morne de Fourche	-21.03333	55.41667	RE	00
+Morange	-21.09955	55.73435	RE	00
+Montvert-les Hauts	-21.31564	55.54581	RE	00
+Montvert-les Bas	-21.33335	55.54172	RE	00
+Bras de Montvert	-21.32374	55.52854	RE	00
+Bras Montvert	-21.10242	55.27784	RE	00
+Ruisseau Montplaisir	-20.89154	55.45893	RE	00
+Montause	-21.18575	55.3289	RE	00
+Ravine Montauban	-20.93427	55.50167	RE	00
+Monrepos	-20.98676	55.32486	RE	00
+Mon Caprice	-21.30768	55.49817	RE	00
+Moka	-20.93247	55.5134	RE	00
+M. Lamotte	-20.98333	55.66667	RE	00
+Ravine Misere	-21.09975	55.58435	RE	00
+Ravine Mimi	-21.16607	55.83234	RE	00
+Bras du Milieu	-21.05097	55.61169	RE	00
+Cratere Mi-cote	-21.21667	55.75	RE	00
+Bras Michel	-21.11667	55.63333	RE	00
+Plaine des Merles	-21.16667	55.4	RE	00
+Plaine des Merles	-21.07151	55.46077	RE	00
+Lac des Merles	-21.05	55.46667	RE	00
+Bras des Merles	-20.99807	55.39772	RE	00
+Menciol	-20.96098	55.62547	RE	00
+Plateau de Mazarin	-21.07044	55.56806	RE	00
+Coteau Mazarin	-21.07513	55.55228	RE	00
+Bras Mazarin	-21.08825	55.59546	RE	00
+Mazarin	-21.07228	55.559	RE	00
+Matouta	-21.36056	55.69798	RE	00
+Riviere du Mat	-20.98051	55.70063	RE	00
+Petit Bras Massard	-21.05734	55.68063	RE	00
+Grand Bras Massard	-21.03333	55.68333	RE	00
+Mascareignes	-20	57	RE	00
+Mare a Martin	-21.01258	55.48717	RE	00
+Riviere des Marsouins	-21.10102	55.58523	RE	00
+Riviere des Marsouins	-21.03114	55.71636	RE	00
+Plaine des Marsouins	-21.10377	55.56825	RE	00
+Marsouins	-21.1	55.56667	RE	00
+Ravine Marrons	-21.0049	55.63873	RE	00
+Bras Marron	-21.05345	55.50239	RE	00
+Ravine a Marquet	-20.92747	55.33035	RE	00
+Ravine Marmaniere	-20.91667	55.5	RE	00
+Chaine des Mariannes	-21	55.43333	RE	00
+Ravine Maret	-21.13333	55.48333	RE	00
+Mare Seche	-21.14765	55.4714	RE	00
+Marepine	-20.8885	55.51844	RE	00
+Ravine de la Mare Longue	-21.35	55.75	RE	00
+Pointe de la Mare Longue	-21.36674	55.7506	RE	00
+Brule de la Mare Longue	-21.35493	55.75361	RE	00
+Mare Longue	-21.36334	55.75343	RE	00
+Pointe de la Mare d'Arzule	-21.36469	55.77429	RE	00
+Bras de la Mare d'Affouche	-21.03333	55.5	RE	00
+Mare a Citrons	-21.03269	55.52445	RE	00
+Ravine la Mare	-21.23333	55.46667	RE	00
+Ravine la Mare	-20.95044	55.35229	RE	00
+Ravine la Mare	-20.89171	55.52987	RE	00
+Bras Marcel	-21.15637	55.60765	RE	00
+Ma Pensee	-20.99303	55.6926	RE	00
+Ruisseau Manuel	-20.9	55.63333	RE	00
+Manapany-les Hauts	-21.33907	55.57608	RE	00
+Manapany-les Bains	-21.37661	55.59411	RE	00
+Ravine Manapany	-21.37143	55.58416	RE	00
+Manapany	-21.3697	55.57656	RE	00
+Ravine a Malheur	-20.9113	55.35369	RE	00
+Bras Malheur	-20.91965	55.40263	RE	00
+Mal-Cote	-20.92683	55.38871	RE	00
+Plaine des Makes	-21.20653	55.40997	RE	00
+Makes	-21.2	55.43333	RE	00
+Maison Rouge	-21.26801	55.41158	RE	00
+Maison Payet	-20.96667	55.63333	RE	00
+Maison Moullan	-21.03333	55.5	RE	00
+Maison Leroux	-21.20176	55.81892	RE	00
+Maison Lelievre	-21.08333	55.31667	RE	00
+Maison James Biget	-21.21564	55.52107	RE	00
+Maison Isautier	-21.31448	55.53208	RE	00
+Maison Henou	-21.1495	55.59782	RE	00
+Maison de l'Enfance	-21.20701	55.5722	RE	00
+Coteau Maigre	-21.13514	55.52788	RE	00
+Bras Maho	-20.96667	55.6	RE	00
+Mahavel	-21.27746	55.46802	RE	00
+Mafatte	-21.06141	55.41747	RE	00
+Cirque de Mafate	-21.05	55.41667	RE	00
+Maduran	-21.20556	55.3289	RE	00
+Bras Long	-21.24194	55.47085	RE	00
+L'Oasis	-21.04648	55.66875	RE	00
+L'Ilet aux Palmistes	-21.33484	55.80139	RE	00
+L'Ilet	-21.32256	55.60071	RE	00
+L'Ilet	-21.1931	55.67983	RE	00
+Ligne des Bambous	-21.3	55.4988	RE	00
+Liberia	-21.02322	55.64899	RE	00
+Plaine des Lianes	-21.01667	55.75	RE	00
+Pic des Lianes	-21.02285	55.57509	RE	00
+Bras des Lianes	-20.98869	55.6258	RE	00
+L'Hermitage-les Bas	-21.08047	55.23034	RE	00
+L'Hermitage	-21.35795	55.57711	RE	00
+Le Titan	-20.93958	55.28379	RE	00
+Le Tevelave	-21.20849	55.35295	RE	00
+Le Tap Cal	-21.11667	55.43333	RE	00
+Le Tapage	-21.23706	55.441	RE	00
+Le Tan Rouge	-21.2014	55.34431	RE	00
+L'Etang	-20.9294	55.65564	RE	00
+Le Tampon	-21.28309	55.51802	RE	RE
+Les Vacoas	-21.31667	55.8	RE	00
+Les Trois Salazes	-21.10664	55.44263	RE	00
+Les Trois Mares	-21.25724	55.50072	RE	00
+Les Trois Freres	-20.90802	55.59779	RE	00
+Les Trois Chameaux	-21.07487	55.21781	RE	00
+Les Trois Bras	-21.15231	55.72871	RE	00
+Les Six-Cents	-21.26667	55.51667	RE	00
+Les Sables Blancs	-21.34999	55.79013	RE	00
+Les Quatre-Cents	-21.27963	55.50604	RE	00
+Le Souffleur	-21.20752	55.28242	RE	00
+Les Orangers	-21.10656	55.75247	RE	00
+Les Mares	-21.187	55.73331	RE	00
+Les Lianes	-21.34277	55.6016	RE	00
+Les Jacques	-21.37362	55.63366	RE	00
+Les Jacques	-21.07083	55.70153	RE	00
+Les Deux Mamelles	-21.07595	55.61286	RE	00
+Les Deux Bras	-21.00104	55.39133	RE	00
+Les Colimacons	-21.13559	55.3122	RE	00
+Les Cocos	-21.28715	55.42433	RE	00
+Les Chicots	-21.11417	55.74933	RE	00
+Les Cascades	-21.18341	55.70922	RE	00
+Les Canots	-21.24967	55.36382	RE	00
+Les Camelias	-20.86667	55.46667	RE	00
+L'Escalier	-21.0008	55.5753	RE	00
+Les Bras	-21.21667	55.43333	RE	00
+Les Avirons	-21.24181	55.33938	RE	RE
+Les Aigrettes	-21.14287	55.45608	RE	00
+Le Ruisseau	-21.25811	55.44161	RE	00
+Le Rond	-21.31627	55.60681	RE	00
+Le Ramier	-21.02186	55.53622	RE	00
+Le Quatorzieme	-21.25059	55.52112	RE	00
+Le Pourpier	-20.97193	55.30953	RE	00
+Le Portail	-21.2132	55.30071	RE	00
+Le Port	-20.9373	55.29189	RE	RE
+Le Plat	-21.18333	55.33333	RE	00
+Le Petit Tampon	-21.28977	55.5247	RE	00
+Le Petit Saint-Francois	-21.06384	55.732	RE	00
+Le Petit Maniron	-21.25	55.38333	RE	00
+Le Petit Brule	-21.12455	55.77219	RE	00
+Le Petit Bras	-21.21667	55.35	RE	00
+Le Petit Bras	-21.05	55.21667	RE	00
+L'Eperon	-21.24624	55.415	RE	00
+L'Eperon	-21.04286	55.25748	RE	00
+L'Eperon	-21.17404	55.5196	RE	00
+Le Pavillon	-21.18776	55.44201	RE	00
+Le Pave	-21.11786	55.38997	RE	00
+Le Patelin	-20.97159	55.67284	RE	00
+Le Ouaki	-21.27628	55.44953	RE	00
+Le Onzieme	-21.27406	55.52495	RE	00
+Le Mouchoir Gris	-21.25175	55.4173	RE	00
+Le Maurice	-21.25466	55.35236	RE	00
+Le Marocain	-21.13898	55.81365	RE	00
+Le Maniron	-21.24943	55.3888	RE	00
+Le Lambert	-21.25462	55.37286	RE	00
+Le Guillaume	-21.03647	55.29883	RE	00
+Le Gros Morne	-21.0878	55.45646	RE	00
+Le Grand Hazier	-20.90457	55.58834	RE	00
+Le Grand Figuier	-20.96163	55.47921	RE	00
+Le Grand Bras	-21.26362	55.35788	RE	00
+Le Fond de Maurice	-21.23333	55.33333	RE	00
+Le Dix-Septieme	-21.24473	55.52653	RE	00
+Le Dix-Neuvieme	-21.24086	55.53865	RE	00
+Le Diore	-20.97431	55.63316	RE	00
+Le Delice	-20.93515	55.63112	RE	00
+Le Cratere	-21.05037	55.68301	RE	00
+Le Cousin	-20.86667	55.58333	RE	00
+Le Colosse	-20.93587	55.67238	RE	00
+Le Coeur Saignant	-20.9685	55.69246	RE	00
+Bras Leclerc	-21.29796	55.52469	RE	00
+Le Cimendal	-21.06249	55.41586	RE	00
+Le Chaudron	-20.89301	55.49117	RE	00
+Le Cazabois	-21.03725	55.46302	RE	00
+Le Cap-les Hauts	-21.15	55.33333	RE	00
+Le Cap	-21.17893	55.30699	RE	00
+Le Cap	-21.16919	55.47585	RE	00
+Le Cap	-21.07795	55.72372	RE	00
+Le Butor	-21.38139	55.61479	RE	00
+Le Butor	-21.037	55.72047	RE	00
+Le Butor	-20.88736	55.47072	RE	00
+Le Brule	-20.9215	55.43675	RE	00
+Le Bras Creux	-21.24911	55.55105	RE	00
+Le Bras Creux	-21.14071	55.61181	RE	00
+Le Bois de Nefles	-21.10941	55.29125	RE	00
+Le Bois de Nefles	-20.9983	55.32823	RE	00
+Le Bloc	-21.03333	55.4	RE	00
+Le Besave	-21.36189	55.60685	RE	00
+Le Belier	-21.0435	55.46147	RE	00
+La Vigne	-20.92094	55.61686	RE	00
+La Vallee	-21.3055	55.45461	RE	00
+Bras Laurent	-20.98126	55.56262	RE	00
+Petite Ravine des Lataniers	-20.9272	55.33917	RE	00
+Grande Ravine des Lataniers	-20.92467	55.33764	RE	00
+Caverne des Lataniers	-21.20548	55.6508	RE	00
+La Savane Marabout	-21.16622	55.57634	RE	00
+La Saline-les Bas	-21.09372	55.23913	RE	00
+La Saline	-21.08119	55.26741	RE	00
+La Roche Ecrite	-21.01461	55.46068	RE	00
+La Riviere des Roches	-21.00115	55.69628	RE	00
+La Riviere des Pluies	-20.91303	55.51193	RE	00
+La Riviere	-21.26609	55.44039	RE	00
+La Riviere	-21.2595	55.44053	RE	RE
+La Ressource	-20.91712	55.5695	RE	00
+La Renaissance	-21.03005	55.26888	RE	00
+La Providence	-20.89381	55.45302	RE	00
+La Possession	-20.92892	55.33513	RE	RE
+La Pointe	-21.29656	55.51866	RE	00
+La Pointe	-21.24297	55.492	RE	00
+La Plaine-des-Palmistes	-21.11667	55.63333	RE	RE
+La Plaine des Cafres	-21.22453	55.55733	RE	00
+La Plaine	-20.98413	55.31252	RE	00
+La Petite Ile	-20.88081	55.44019	RE	00
+La Petite Ferme	-21.23615	55.57309	RE	00
+La Petite Chaloupe	-21.14609	55.31823	RE	00
+La Paix	-21.02432	55.67028	RE	00
+La Nouvelle	-21.07488	55.4204	RE	00
+Riviere Langevin	-21.38522	55.64446	RE	00
+Pointe de Langevin	-21.38814	55.64627	RE	00
+Gros Morne Langevin	-21.25786	55.65711	RE	00
+Langevin	-21.38084	55.65144	RE	00
+La Montagne	-20.89102	55.42588	RE	00
+La Marine	-21.12726	55.78537	RE	00
+La Marine	-20.91274	55.62305	RE	00
+La Marianne	-20.88333	55.6	RE	00
+La Mare	-20.95316	55.35527	RE	00
+La Mare	-20.89541	55.52995	RE	00
+La Mare	-21.28832	55.60094	RE	00
+La Mare	-20.98333	55.55	RE	00
+Ravine Lahemol	-21.1	55.25	RE	00
+La Grande Montee	-20.92533	55.52342	RE	00
+La Grande Ferme	-21.21891	55.59197	RE	00
+La Grande Chaloupe	-20.89741	55.3752	RE	00
+La Goyave	-21.37051	55.61387	RE	00
+La Glaciere	-21.10599	55.39192	RE	00
+Ravine Laforge	-20.98245	55.3126	RE	00
+La Fontaine-les Hauts	-21.13333	55.33333	RE	00
+La Fontaine	-21.15429	55.32505	RE	00
+La Fenetre	-21.05994	55.53563	RE	00
+La Decouverte	-20.90231	55.5475	RE	00
+Ravine Lacroix	-21.16367	55.8328	RE	00
+Pointe Lacroix	-21.16161	55.8345	RE	00
+Bras de Lacroix	-21.15	55.81667	RE	00
+La Croix	-21.23444	55.33064	RE	00
+La Crete	-21.335	55.65495	RE	00
+La Coudee	-21.31667	55.7	RE	00
+La Chatoire	-21.27274	55.51294	RE	00
+La Chaloupe Saint-Leu	-21.14165	55.31697	RE	00
+La Caroline	-21.00143	55.6516	RE	00
+La Butte	-20.93228	55.29158	RE	00
+La Bretagne	-20.92011	55.49486	RE	00
+Coteau Kerveguen	-21.12386	55.50396	RE	00
+Col Kelval	-21.03333	55.45	RE	00
+Kelval	-21.09681	55.44257	RE	00
+Jean Petit-les Bas	-21.36981	55.62458	RE	00
+Jean Petit	-21.33547	55.63115	RE	00
+Bras Jean Payet	-21.28333	55.5	RE	00
+Ravine Jean Louis	-21.2	55.48333	RE	00
+Pointe des Jardins	-20.87139	55.45041	RE	00
+Ravine Jardin	-20.99172	55.31741	RE	00
+Bras des Jam Rosas	-20.96667	55.65	RE	00
+Roche a Jacquot	-21.01689	55.46803	RE	00
+Bras Jacques Payet	-21.37595	55.67601	RE	00
+Jacques Payet	-21.34034	55.68398	RE	00
+Ravine a Jacques	-20.89059	55.38473	RE	00
+Bras de Jacques	-21.23333	55.41667	RE	00
+Ilet Tommic	-21.15	55.46667	RE	00
+Ilet Techer	-21.1983	55.51823	RE	00
+Ilet Solitude	-20.96679	55.36623	RE	00
+Ilet Ronde	-21.24208	55.45471	RE	00
+Ilet Payet	-21.0035	55.60293	RE	00
+Ilet Nourry	-20.99169	55.39407	RE	00
+Ilet Morin	-21.00794	55.56415	RE	00
+Ilet Marron	-21.20183	55.51405	RE	00
+Ilet Flamand	-20.98333	55.46667	RE	00
+Ilet du Peter-Boot	-21.1717	55.46042	RE	00
+Ilet des Lataniers	-21.03682	55.40048	RE	00
+Ilet de Roche Plate	-21.25138	55.61167	RE	00
+Ilet de Patience	-21.1	55.61667	RE	00
+Ilet Denise	-20.97869	55.36329	RE	00
+Ilet Bois-Rouge	-21.02499	55.40521	RE	00
+Ilet a Vidot	-21.31806	55.62595	RE	00
+Ilet a Malheur	-21.0275	55.42763	RE	00
+Ilet a Guillaume	-20.94941	55.41147	RE	00
+Ilet a Dejeuner	-20.9959	55.40796	RE	00
+Ilet a Cordes	-21.1528	55.43856	RE	00
+Cratere Hubert	-21.23333	55.68333	RE	00
+Cap la Houssaye	-21.01876	55.23546	RE	00
+Pointe des Homards	-21.0321	55.22166	RE	00
+Ravine de l'Hermitage	-21.0835	55.22628	RE	00
+Ravine Henry Dijoux	-21.14324	55.44992	RE	00
+Hell-Bourg	-21.06466	55.52021	RE	00
+Pointe des Haziers	-20.89591	55.59179	RE	00
+Cratere Haug	-21.21128	55.7337	RE	00
+Harmonie	-21.01377	55.70108	RE	00
+Halte-la	-20.96512	55.33481	RE	00
+Bras Guillaume	-20.94217	55.4134	RE	00
+Gueule Rouge	-21.15759	55.48377	RE	00
+Ravine de la Grosse Roche	-21.02461	55.54271	RE	00
+Ilet du Gros Galet	-21.17159	55.48627	RE	00
+Ravine des Gregues	-21.38112	55.60148	RE	00
+Plaine des Gregues	-21.33333	55.61667	RE	00
+Grand Tampon	-21.28547	55.55871	RE	00
+Pointe des Grands Bois	-21.37307	55.55077	RE	00
+Grands Bois	-21.35928	55.52557	RE	00
+Ravine Grand Sable	-21.06113	55.4718	RE	00
+Grand Ruisseau	-21.11667	55.48333	RE	00
+Grand Plumet	-20.98333	55.53333	RE	00
+Grand Plate	-21.00352	55.54027	RE	00
+Grand Matarum	-21.12253	55.47506	RE	00
+Ravine du Grand Maniron	-21.26796	55.39386	RE	00
+Grand Ilet	-21.02696	55.47319	RE	00
+Grand Galet	-21.30771	55.64076	RE	00
+Grand Fond	-21.19241	55.30641	RE	00
+Grand Fond	-21.03771	55.22366	RE	00
+Grand Fond	-21.05	55.63333	RE	00
+Grand Fond	-21.1798	55.61031	RE	00
+Grand Etang	-21.09629	55.63989	RE	00
+Pointe de la Grande Ravine	-21.1	55.26667	RE	00
+Grande Ravine	-21.12589	55.26632	RE	00
+Grande Ravine	-21.03333	55.53333	RE	00
+Grande Ravine	-20.93691	55.58561	RE	00
+Grande Ravine	-20.88566	55.40606	RE	00
+Grande Ravine	-21.11327	55.30029	RE	00
+Grand Enclos	-21.23333	55.7	RE	00
+Rampe de la Grande Montee	-21.16463	55.59722	RE	00
+Grande Montagne	-20.94604	55.3866	RE	00
+Grande Mare	-21.05481	55.55528	RE	00
+Grande Decouverte	-20.98333	55.55	RE	00
+Ravine Grande Chaloupe	-20.89608	55.37566	RE	00
+Grande Anse	-21.36918	55.54888	RE	00
+Grand Coude	-21.28683	55.62991	RE	00
+Grand Coin	-20.97659	55.40466	RE	00
+Pointe du Grand Brule	-21.23496	55.8079	RE	00
+Foret Domaniale du Grand Brule	-21.25065	55.78554	RE	00
+Grand Brule	-21.2536	55.76976	RE	00
+Grand Bras	-21.1	55.63333	RE	00
+Grand Bras	-21.03388	55.66339	RE	00
+Grand Benard	-21.11556	55.42209	RE	00
+Grand Battoir	-21.05092	55.62893	RE	00
+Grand Bassin	-21.16667	55.53333	RE	00
+Grand Bassin	-21.18127	55.5363	RE	00
+Ravine Goyaves	-21.23909	55.42395	RE	00
+Ravine Goyaves	-21.15	55.46667	RE	00
+Mare a Goyaves	-21.0202	55.54038	RE	00
+Halte du Gouvernement	-20.86667	55.45	RE	00
+Pointe du Gouffre	-20.88165	55.39534	RE	00
+Gol-le Haut	-21.25272	55.432	RE	00
+Plaine Gol	-21.27322	55.38893	RE	00
+Etang du Gol	-21.289	55.38844	RE	00
+Gol	-21.27592	55.40144	RE	00
+Ravines Glissantes	-21.13461	55.80712	RE	00
+Girofle	-21.37099	55.68751	RE	00
+Gillot	-20.88333	55.51667	RE	00
+Gillot	-20.90257	55.51568	RE	00
+Ravine Gazabois	-21.02086	55.48071	RE	00
+Ravine Gaspard	-20.96464	55.36257	RE	00
+Riviere des Galets	-20.95618	55.27779	RE	00
+Port des Galets	-20.91667	55.3	RE	00
+Pointe des Galets	-20.92285	55.28843	RE	00
+Plaine des Galets	-20.94687	55.30742	RE	00
+Ravine a Furcy-Leon	-21.1216	55.77592	RE	00
+F. Sauger	-21.01667	55.25	RE	00
+Riviere des Francais	-21.3694	55.55026	RE	00
+Morne de Fourche	-21.0615	55.44046	RE	00
+Plaine des Fougeres	-20.99049	55.52024	RE	00
+Ravine de la Fontaine	-21.16389	55.29043	RE	00
+Cap Fontaine	-21.01667	55.71667	RE	00
+Ravine Fond Maunier	-21.05101	55.26421	RE	00
+Fond de Galet	-21.32233	55.63655	RE	00
+Fleurs Jaunes-les Hauts	-21.01536	55.53093	RE	00
+Riviere des Fleurs Jaunes	-21.01448	55.55187	RE	00
+Fleurs Jaunes	-21.1325	55.45398	RE	00
+Fleurimont	-21.03934	55.26892	RE	00
+Filaos	-21.08307	55.23757	RE	00
+Ravine des Figues	-20.8934	55.53459	RE	00
+Fiague	-21.25	55.43333	RE	00
+Le Trou de Fer	-21.04338	55.55364	RE	00
+Bras de la Fenetre	-21.06667	55.63333	RE	00
+Cratere Faujas	-21.22468	55.71939	RE	00
+Ravine Farla	-21.06219	55.48589	RE	00
+Etang-Sale les Bains	-21.26806	55.33406	RE	00
+Pointe de l'Etang-Sale	-21.27685	55.3368	RE	00
+L'Etang-Sale	-21.25	55.38333	RE	RE
+Bras des Etangs	-21.13134	55.45418	RE	00
+Etang-les Hauts	-21.13333	55.33333	RE	00
+Ravine de l'Etang du Gol	-21.27936	55.40767	RE	00
+Ravine de l'Etang	-21.169	55.28614	RE	00
+Pointe de l'Etang	-20.9	55.68333	RE	00
+Morne de l'Etang	-21.10282	55.66296	RE	00
+Etang	-21.1701	55.30684	RE	00
+Riviere de l'Est	-21.10611	55.77056	RE	00
+Esperance	-20.9506	55.60771	RE	00
+Esperance	-20.94265	55.51846	RE	00
+Sommet de l'Entre-Deux	-21.13806	55.50707	RE	00
+L'Entre-Deux	-21.23333	55.46667	RE	RE
+Entre-Deux	-21.22753	55.33176	RE	00
+Entre-Deux	-21.2354	55.36573	RE	00
+Fond de l'Elibat	-20.86667	55.53333	RE	00
+Eden	-21.02627	55.62715	RE	00
+Plateau de Duverney	-21.11334	55.58919	RE	00
+Grand Fond Dussac	-21.1849	55.29711	RE	00
+Caverne Dufour	-21.10941	55.49598	RE	00
+Bras de Douane	-21.32151	55.45983	RE	00
+Dos d'Ane	-20.98169	55.37688	RE	00
+Dominique	-21.11667	55.76667	RE	00
+Domenjod	-20.91496	55.50261	RE	00
+Ravine Divon	-21.00547	55.28236	RE	00
+Dimitile	-21.29085	55.61332	RE	00
+Dimitile	-21.1907	55.48206	RE	00
+Desert	-20.96495	55.63602	RE	00
+Desbassyns	-20.91733	55.50934	RE	00
+Parc Dennemon	-21.17853	55.44229	RE	00
+Source Denise	-20.96667	55.35	RE	00
+Bras des Demoiselles	-21.04041	55.53569	RE	00
+Decouverte	-20.99148	55.57798	RE	00
+Ravine Dechenez	-21.26637	55.36986	RE	00
+Ravine Dalleau	-21.28333	55.8	RE	00
+Ravine du Creux Saint-Paul	-20.98333	55.28333	RE	00
+Ravine Creuse	-21.13193	55.62219	RE	00
+Ravine Creuse	-20.93333	55.68333	RE	00
+Bras Cresson	-20.91416	55.42654	RE	00
+Foret du Cratere	-21.06667	55.65	RE	00
+Nez Coupe du Tremblet	-21.28229	55.73994	RE	00
+Nez Coupe	-21.20709	55.72378	RE	00
+Cormoran	-21.04426	55.239	RE	00
+Convenance	-20.89378	55.56583	RE	00
+Ravine Constantin	-21.18957	55.8242	RE	00
+Ravine des Congres	-21.04825	55.64746	RE	00
+Confiance	-21.06646	55.70375	RE	00
+Conde	-21.29317	55.50836	RE	00
+Commune Carron	-20.93107	55.61837	RE	00
+Commune Begue	-20.95122	55.62705	RE	00
+Commune Ango	-20.94404	55.61899	RE	00
+Cratere Commerson	-21.20709	55.6417	RE	00
+Ravine Colimacons	-21.15263	55.28184	RE	00
+Fond de Cocatre	-21.11667	55.26667	RE	00
+Cratere des Citrons-Galets	-21.26667	55.75	RE	00
+Brule des Citrons-Galets	-21.29207	55.77812	RE	00
+Bras Citron	-21.24724	55.48295	RE	00
+Pic de Cimendef	-21.02994	55.45339	RE	00
+Cirque de Cilaos	-21.14573	55.45983	RE	00
+Bras de Cilaos	-21.28366	55.45293	RE	00
+Cilaos	-21.13357	55.4719	RE	RE
+Chiendent	-20.93258	55.54511	RE	00
+Plaine des Chicots	-20.99097	55.45567	RE	00
+Bras des Chevrettes	-21.00442	55.67559	RE	00
+Bras Chevrettes	-20.95187	55.63652	RE	00
+Ravine des Chevres	-20.89496	55.57559	RE	00
+Pic des Chevres	-21.07754	55.52266	RE	00
+Chemin Cesar	-21.35	55.58333	RE	00
+Ravine la Chauve Souris	-21.12045	55.26123	RE	00
+Pointe des Chateaux	-21.14883	55.27278	RE	00
+Chateau du Gol	-21.26667	55.38333	RE	00
+Ravine du Charpentier	-20.89533	55.55219	RE	00
+Bras Chansons	-21.06667	55.61667	RE	00
+Pointe du Champ-Borne	-20.94452	55.68311	RE	00
+Plaine Champ-Borne	-20.91667	55.66667	RE	00
+Champ-Borne	-20.95215	55.68598	RE	00
+Cap Champagne	-21.02633	55.22576	RE	00
+Cap des Chameaux	-21.05554	55.22266	RE	00
+Ravine la Chaloupe	-21.15847	55.28688	RE	00
+Ravine de la Chaine	-21.33524	55.47175	RE	00
+Pointe Caverne	-21.16667	55.48333	RE	00
+Petit Bras de Caverne	-21.03333	55.53333	RE	00
+Grand Bras de Caverne	-21.00143	55.58459	RE	00
+Bras de Caverne	-20.98333	55.58333	RE	00
+Ravine des Cascades	-21.16667	55.83333	RE	00
+Pointe des Cascades	-21.18249	55.83604	RE	00
+Anse des Cascades	-21.18621	55.82669	RE	00
+Cascades	-21.15	55.83333	RE	00
+Casabona	-21.32729	55.46272	RE	00
+Carreau Morin	-20.99762	55.64465	RE	00
+Ravine Carosse	-21.37758	55.5979	RE	00
+Carosse	-21.35555	55.59688	RE	00
+Port Caron	-21.1	55.78333	RE	00
+Bras Caprice	-21.04052	55.63215	RE	00
+Ruisseau Capot	-20.87786	55.41113	RE	00
+Cap Noir	-20.99381	55.39168	RE	00
+Cap Blanc	-21.28698	55.65003	RE	00
+Ravine du Cap	-21.18335	55.2873	RE	00
+Bras Canot	-21.04855	55.70819	RE	00
+Ravine des Cancrelas	-21.25	55.41667	RE	00
+Cambuston	-20.93223	55.64543	RE	00
+Ravine des Calumets	-21.11667	55.61667	RE	00
+Coteau Calumet	-21.10212	55.54902	RE	00
+Cafrine	-21.35064	55.51171	RE	00
+Ravine des Cafres	-21.35248	55.50682	RE	00
+Ravine des Cafres	-21.2777	55.38337	RE	00
+Plaine des Cafres	-21.17045	55.57138	RE	00
+Ravine a Cadet	-20.90479	55.50503	RE	00
+Ravine des Cabris	-21.32697	55.44098	RE	00
+Pointe des Cabris	-21.31667	55.43333	RE	00
+Bras Cabot	-21.09595	55.62078	RE	00
+Riviere du Butor	-20.89097	55.46075	RE	00
+Rade du Butor	-20.86667	55.48333	RE	00
+Butor	-20.86667	55.46667	RE	00
+Bronchard	-21.06575	55.41182	RE	00
+Le Bras Breton	-21.16667	55.28333	RE	00
+Pointe de Bretagne	-21.20201	55.28131	RE	00
+Ravine du Bras Sec	-21.14158	55.48093	RE	00
+Riviere du Bras-Panon	-21.00287	55.675	RE	00
+Ravine Bras-Panon	-21.37478	55.67811	RE	00
+Bras-Panon	-20.99667	55.67823	RE	RE
+Bras Madeleine	-21.05362	55.69528	RE	00
+Morne du Bras des Lianes	-21	55.58333	RE	00
+Bras des Chevrettes	-20.96506	55.62331	RE	00
+Bras des Calumets	-21.16081	55.61736	RE	00
+Bras de Ponteau	-21.21667	55.48333	RE	00
+Bras Canot	-21.05239	55.70447	RE	00
+Source du Bras Cabot	-21.10353	55.59859	RE	00
+Bout de l'Etang	-20.99179	55.28527	RE	00
+Ravine du Bourbier	-21.02569	55.70449	RE	00
+Rade du Bourbier	-21.01667	55.73333	RE	00
+Pointe du Bourbier	-21.01949	55.70453	RE	00
+Bourbier	-21.03093	55.69383	RE	00
+Ravine des Boucs	-21.28333	55.8	RE	00
+Bras la Boucherie	-21.1016	55.73931	RE	00
+Ravine Boucan Launay	-20.90391	55.46049	RE	00
+Ravine de Boucan Canot	-21.02878	55.2261	RE	00
+Boucan Canot	-21.02855	55.22727	RE	00
+Cratere Bory	-21.2438	55.70807	RE	00
+Bonnet de Pretre	-21.14953	55.49167	RE	00
+Bonnet Carre	-21.11755	55.46844	RE	00
+Ravine de Bonne Esperance	-21.11938	55.77506	RE	00
+Pointe de Bonne Esperance	-21.12247	55.78089	RE	00
+Pointe du Bois-Rouge	-20.91264	55.63957	RE	00
+Etang du Bois-Rouge	-20.9171	55.64899	RE	00
+Bois-Rouge	-20.91352	55.63585	RE	00
+Bois-Rouge	-20.91829	55.53195	RE	00
+Bois d'Olive	-21.29874	55.45608	RE	00
+Chaine du Bois de Nefles	-21.21018	55.42686	RE	00
+Bois de Nefles	-20.9143	55.47994	RE	00
+Rempart du Bois-Blanc	-21.21389	55.77423	RE	00
+Ravine du Bois-Blanc	-21.19649	55.82424	RE	00
+Premier Bras du Bois-Blanc	-21.2	55.8	RE	00
+Pointe du Bois-Blanc	-21.20047	55.82503	RE	00
+Foret de Bois-Blanc	-21.20858	55.79517	RE	00
+Deuxieme Bras du Bois-Blanc	-21.18333	55.81667	RE	00
+Bois-Blanc	-21.19871	55.81841	RE	00
+Nez de Boeuf	-21.20543	55.62035	RE	00
+Ravine Blanche	-21.32136	55.46002	RE	00
+Ravine Blanche	-21.00622	55.58331	RE	00
+Ruisseau Blanc	-20.88333	55.4	RE	00
+Bethleem	-21.03912	55.67443	RE	00
+Ravine Betail	-21.36845	55.73058	RE	00
+Bernier	-20.95218	55.44866	RE	00
+Bernica-les Bas	-21.04444	55.28111	RE	00
+Ravine du Bernica	-20.99289	55.28968	RE	00
+Bras du Bernica	-21.04969	55.29697	RE	00
+Cap Bernard	-20.87434	55.4239	RE	00
+Berive-les Bas	-21.31719	55.52836	RE	00
+Berive	-21.30726	55.53702	RE	00
+Pointe des Benjoins	-21.1	55.8	RE	00
+Bras Benjoin	-21.17188	55.44649	RE	00
+Bras Benamal	-21.01667	55.4	RE	00
+Foret de Belouve	-21.03333	55.55	RE	00
+Bras de Beloune	-21.13333	55.41667	RE	00
+Col Bellevue	-21.16571	55.58805	RE	00
+Bellevue	-21.25013	55.4022	RE	00
+Bellevue	-21.15126	55.81981	RE	00
+Bellevue	-20.99637	55.63028	RE	00
+Bellemene	-21.02181	55.29626	RE	00
+Rempart de Bellecombe	-21.23561	55.67983	RE	00
+Pas de Bellecombe	-21.22222	55.68896	RE	00
+Ravine de Bel Air	-20.88333	55.6	RE	00
+Pointe de Bel Air	-20.8991	55.6002	RE	00
+Bel Air	-21.28931	55.51542	RE	00
+Bel Air	-21.29179	55.39684	RE	00
+Bel Air	-20.90844	55.59566	RE	00
+Ravine du Be Cabot	-21.01535	55.50172	RE	00
+Be Cabot	-21.0115	55.50372	RE	00
+Bebour	-21.1	55.6	RE	00
+Bebour	-21.11667	55.56667	RE	00
+Beauvallon	-21.0114	55.69664	RE	00
+Beaumont	-20.94014	55.52929	RE	00
+Beaulieu	-21.03475	55.70782	RE	00
+Beaufonds	-21.04809	55.7225	RE	00
+Beaufond	-20.9273	55.56045	RE	00
+Bassin Martin	-21.30762	55.51802	RE	00
+Ravine Bassin	-21.00102	55.325	RE	00
+Ravine Basse Vallee	-21.37541	55.70133	RE	00
+Rampe de Basse Vallee	-21.36795	55.6998	RE	00
+Basse Vallee	-21.35197	55.6999	RE	00
+Basse Vallee	-21.37116	55.71168	RE	00
+Bras Baptiste	-21.05	55.48333	RE	00
+Ravine Bananier	-20.876	55.41938	RE	00
+Cap Banane	-21.01667	55.53333	RE	00
+Pointe des Bambous	-21.17805	55.8345	RE	00
+Balmann	-21.16285	55.7949	RE	00
+Bain	-21.05	55.51667	RE	00
+Ravine des Avirons	-21.24808	55.32054	RE	00
+Pointe des Avirons	-21.2519	55.32074	RE	00
+Avenir	-20.93192	55.3359	RE	00
+Chaine d'Aurere	-21.01206	55.409	RE	00
+Bras d'Aurere	-20.98333	55.38333	RE	00
+Aurere	-21	55.43333	RE	00
+Aurelien Dijoux	-21.20733	55.5141	RE	00
+Ruisseau Aubel	-21.01667	55.7	RE	00
+Ravine Athanase	-21.01301	55.29503	RE	00
+Ravine d'Arzule	-21.35943	55.77239	RE	00
+Bras d'Antoine	-21.29549	55.46283	RE	00
+Bras d'Antoine	-21.23322	55.49045	RE	00
+Anse-les Hauts	-21.3221	55.5557	RE	00
+Anse-les Bas	-21.36371	55.54001	RE	00
+Ravine de l'Anse	-21.36271	55.53713	RE	00
+Anse	-21.33814	55.54821	RE	00
+Ravine d'Ango	-21.35141	55.7942	RE	00
+Cap Anglais	-21.09042	55.51903	RE	00
+Bras d'Amales	-21.06585	55.51608	RE	00
+Aloes	-21.25	55.45	RE	00
+Pointe des Aigrettes	-21.03804	55.21681	RE	00
+Plaine d'Affouches	-20.97747	55.41721	RE	00
+A. Dubuisson	-21.17383	55.30853	RE	00
+Riviere d'Abord	-21.34368	55.47874	RE	00
+Abondance	-21.03465	55.67338	RE	00
+Cap des Aigrettes	-21.03333	55.21667	RE	00
+Juliette Dodu	-20.866	55.4555	RE	
+Le Nautile	-21.0483	55.241	RE	
+Le Saint Alexis	-20.99	55.27	RE	
+Les Villas du Lagon	-20.99	55.27	RE	
+Iloha	-21.1548	55.2954	RE	
+Les Creoles	-20.99	55.27	RE	
+DOMAINE DES JAMROSES	-20.8833	55.4333	RE	
+BW GRAND HTL DES MASCAREIGNES	-21.0333	55.2333	RE	
+Case CADET-SAKE	-20.89709	55.45951	RE	
+Reunion	-21.10044	55.60206	RE	RE
+Reunion	-21.10084	55.60344	RE	RE
+Bras-Panon	-20.98333	55.68333	RE	RE
+L'Entre-Deux	-21.23333	55.46667	RE	RE
+L'Etang-Sale	-21.25	55.38333	RE	RE
+Petite-Ile	-21.35	55.56667	RE	RE
+La Plaine-des-Palmistes	-21.11667	55.63333	RE	RE
+Le Port	-20.94084	55.29977	RE	RE
+La Possession	-20.91667	55.33333	RE	RE
+Saint-Andre	-20.95	55.65	RE	RE
+Saint-Benoit	-21.03333	55.71667	RE	RE
+Saint-Denis	-20.88897	55.45555	RE	RE
+Saint-Joseph	-21.36667	55.61667	RE	RE
+Saint-Leu	-21.15	55.28333	RE	RE
+Saint-Louis	-21.26667	55.41667	RE	RE
+Saint-Paul	-21	55.26667	RE	RE
+Saint-Pierre	-21.31667	55.48333	RE	RE
+Saint-Philippe	-21.35	55.76667	RE	RE
+Sainte-Marie	-20.88333	55.55	RE	RE
+Sainte-Rose	-21.13575	55.79475	RE	RE
+Sainte-Suzanne	-20.9	55.61667	RE	RE
+Salazie	-21.01667	55.55	RE	RE
+Le Tampon	-21.26667	55.51667	RE	RE
+Trois-Bassins	-21.1	55.3	RE	RE
+Cilaos	-21.11667	55.46667	RE	RE
+Les Avirons	-21.23278	55.33286	RE	RE
+La Saline les Bains	-21.18249	55.29282	RE	
+Chabrier OMEGA Tower	-20.97416	55.28987	RE	
+Saint Pierre Mediumwave Transmitter	-21.32697	55.48578	RE	
+Bureau de Poste de St Gilles Roquefeuil	-21.06127	55.22797	RE	
+Bureau de Poste de Savanna	-20.98809	55.29838	RE	
+Bureau de Poste de Les Avirons	-21.24106	55.33298	RE	
+Bureau de Poste de Bras Panon	-20.99476	55.67618	RE	
+Bureau de Poste de Petite Ile	-21.35635	55.56572	RE	
+Bureau de Poste de La Plaine Des Palmistes	-21.13457	55.62616	RE	
+Bureau de Poste de Le Port	-20.94382	55.30742	RE	RE
+Bureau de Poste de La Possession	-20.92966	55.33339	RE	
+Bureau de Poste de St Andre	-20.96113	55.63309	RE	RE
+Bureau de Poste de St Benoit	-21.03388	55.71337	RE	
+Bureau de Poste de St Denis Rp	-20.87965	55.45139	RE	
+Bureau de Poste de St Joseph	-21.37766	55.6163	RE	RE
+Bureau de Poste de St Leu	-21.16775	55.28645	RE	RE
+Bureau de Poste de St Paul	-21.01038	55.27167	RE	
+Bureau de Poste de St Pierre	-21.33923	55.47205	RE	
+Bureau de Poste de Saint Philippe	-21.36128	55.76205	RE	RE
+Bureau de Poste de Ste Marie	-20.8965	55.5448	RE	RE
+Bureau de Poste de Ste Suzanne	-20.90657	55.60912	RE	
+Bureau de Poste de Le Tampon	-21.277	55.52162	RE	
+Bureau de Poste de Les Trois Bassins	-21.1059	55.29517	RE	
+Bureau de Poste de Cilaos	-21.13338	55.47192	RE	
+Bureau de Poste de St Denis Ocean	-20.8821	55.46102	RE	RE
+Bureau de Poste de Le Tampon 17e Km	-21.23972	55.52745	RE	
+Bureau de Poste de Le Port Zup	-20.93654	55.30405	RE	RE
+Bureau de Poste de La Saline Les Bains	-21.09401	55.23667	RE	RE
+Bureau de Poste de Plateau Caillou	-21.02354	55.26603	RE	
+Bureau de Poste de Ravine Blanche	-21.33974	55.46152	RE	
+Bureau de Poste de La Cressonniere	-20.97167	55.65742	RE	RE
+Bureau de Poste de Bois De Nefles St Paul	-20.99907	55.32824	RE	
+Bureau de Poste de Le Brule	-20.92232	55.43476	RE	
+Bureau de Poste de Cambuston	-20.9321	55.64395	RE	
+Bureau de Poste de Hell Bourg	-21.06576	55.51903	RE	
+Bureau de Poste de Saint Denis La Montagne	-20.88789	55.42475	RE	
+Bureau de Poste de La Plaine Des Cafres	-21.21947	55.5518	RE	RE
+Bureau de Poste de Tampon 14e Km	-21.25221	55.52112	RE	
+Bureau de Poste de Ravine Des Cabris	-21.28502	55.47049	RE	
+Bureau de Poste de La Riviere	-21.26481	55.43744	RE	
+Bureau de Poste de Ste Anne	-21.08091	55.74581	RE	RE
+Bureau de Poste de Ste Clotilde	-20.89212	55.48217	RE	
+Bureau de Poste de St Gilles Les Bains	-21.05226	55.22488	RE	
+Bureau de Poste de St Gilles Les Hauts	-21.04823	55.26622	RE	
+Bureau de Poste de La Saline	-21.08132	55.26961	RE	RE
+Bureau de Poste de L Etang Sale Les Bains	-21.27251	55.33524	RE	
+Bureau de Poste de Le Dos D Ane	-20.98463	55.38081	RE	
+Bureau de Poste de La Riviere Des Galets	-20.96453	55.32091	RE	
+Bureau de Poste de Saint Francois	-20.89625	55.45809	RE	RE
+Bureau de Poste de Les Lianes	-21.33791	55.57794	RE	RE
+Bureau de Poste de Montvert	-21.27893	55.4503	RE	
+Bureau de Poste de St Denis Camelias	-20.89343	55.46159	RE	RE
+Bureau de Poste de Riviere Des Pluies	-20.91584	55.51003	RE	RE
+Bureau de Poste de Saint Denis Chaudron	-20.89285	55.48829	RE	RE
+Bureau de Poste de La Bretagne	-20.92617	55.49355	RE	
+Bureau de Poste de Bernica	-21.04882	55.28376	RE	
+Bureau de Poste de Tan Rouge	-21.06349	55.29497	RE	RE
+Bureau de Poste de Riviere Du Mat	-20.99294	55.6784	RE	RE
+Bureau de Poste de Saint Bernard	-20.91008	55.40098	RE	RE
+Bureau de Poste de Tevelave	-21.21032	55.35939	RE	
+Bureau de Poste de Trois Mares	-21.26055	55.50301	RE	RE
+Bureau de Poste de Sainte Therese	-20.95442	55.33938	RE	RE
+Bureau de Poste de St Pierre Ligne Des Bambous	-21.28042	55.4722	RE	RE
+Bureau de Poste de St Pierre Bois D'Olives	-21.29752	55.45217	RE	
+Bureau de Poste de Saint Denis Trinite	-20.89517	55.46887	RE	
+Bureau de Poste de Hubert Delisle	-21.28347	55.52068	RE	RE
+Bureau de Poste de Paul Badre	-21.27724	55.50355	RE	
+Bureau de Poste de Salazie Grand Ilet	-21.03088	55.47767	RE	RE
+Bureau de Poste de St Denis La Source	-20.89001	55.44822	RE	
+Novotel St Gilles La Reunion	-21.07708	55.22221	RE	RE
+Blue Margouillat	-21.18394	55.29125	RE	RE
+Mercure Creolia Saint Denis La Reunion	-20.8732	55.4603	RE	
+Les Chenets	-21.13154	55.47413	RE	RE
+Lux Ile De La Reunion	-21.08741	55.23004	RE	RE
+Le Nautile Reunion	-21.09035	55.23246	RE	RE
+Alamanda	-21.06472	55.22239	RE	RE
+Le Juliette Dodu	-20.87868	55.45131	RE	RE
+Bellepierre	-20.907	55.44439	RE	RE
+Le Boucan Canot	-21.02725	55.22685	RE	
+Le Saint Denis Ile De Reunion	-20.85945	55.45898	RE	

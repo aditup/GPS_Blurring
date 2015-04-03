@@ -1,0 +1,55 @@
+Monte-Carlo	43.73976	7.42732	MC	00
+Rocher de Monaco	43.73102	7.42516	MC	00
+Principality of Monaco	43.73141	7.41903	MC	00
+Monaco	43.73333	7.41667	MC	00
+Fontvieille	43.72687	7.41766	MC	00
+Pointe Focinane	43.73806	7.42995	MC	00
+Anse de Canton	43.73333	7.41667	MC	00
+Pointe Saint-Martin	43.72942	7.42424	MC	00
+Port de Fontvieille	43.72962	7.42047	MC	00
+Pointe de la Poudriere	43.73075	7.42724	MC	00
+Pointe Saint-Antoine	43.73314	7.42809	MC	00
+Port Hercule	43.73521	7.4252	MC	00
+Saint-Roman	43.7489	7.43423	MC	00
+Stade Louis Deux	43.72738	7.41557	MC	00
+Ciappaira	43.73185	7.4281	MC	00
+Plage du Larvotto	43.74656	7.43404	MC	00
+Larvotto	43.74714	7.43356	MC	00
+Anse de la Grue	43.72984	7.42134	MC	00
+Jardin Exotique	43.73253	7.41776	MC	00
+Jardin Japonais	43.74152	7.43054	MC	00
+Anse du Portier	43.74079	7.43091	MC	00
+Moneghetti	43.73679	7.41647	MC	00
+Commune de Monaco	43.73216	7.41981	MC	00
+Grimaldi Forum Monaco	43.744	7.432	MC	
+Beausoleil	43.7439	7.41843	MC	00
+Les Revoires	43.73422	7.41306	MC	00
+Port de Cap d'Ail	43.72497	7.4158	MC	00
+Cap d'Ail	43.71879	7.40608	MC	00
+Cap Rognoso	43.71892	7.39891	MC	00
+Bureau de Poste de Monaco Fontvieille	43.72813	7.41704	MC	
+Bureau de Poste de Monte Carlo	43.73874	7.42513	MC	
+Bureau de Poste de Monaco Ville	43.73099	7.42353	MC	
+Bureau de Poste de Monte Carlo Moulins	43.74532	7.42906	MC	
+Bureau de Poste de Monaco Herculis	43.7373	7.4174	MC	
+Bureau de Poste de Monte Carlo Larvotto	43.74702	7.4333	MC	
+Monaco-Ville	43.73076	7.42358	MC	
+Monte Carlo/Spelugues	43.74081	7.42719	MC	
+La Rousse/Saint Roman	43.74797	7.43315	MC	
+Larvotto/Bas Moulins	43.74769	7.43817	MC	
+Saint Michel	43.74041	7.42311	MC	
+La Colle	43.73179	7.41401	MC	
+Moneghetti/ Bd de Belgique	43.73655	7.41699	MC	
+Les Revoires	43.73448	7.41367	MC	
+Fontvieille	43.72707	7.41869	MC	
+Odalys Les Hauts De La Principaute	43.74406	7.42799	MC	
+Residence Le Quai Des Princes	43.72535	7.41816	MC	
+Novotel Monte Carlo	43.73893	7.42169	MC	
+Metropole Superior	43.7409	7.42707	MC	
+Columbus Monte Carlo	43.72749	7.42019	MC	
+Fairmont Monte Carlo	43.74009	7.43006	MC	
+Fairmont Monte Carlo Deluxe Sea View	43.74016	7.43006	MC	
+Metropole Monte Carlo	43.741	7.427	MC	
+Mirabeau	43.74139	7.42924	MC	
+De Paris (Exclusive Sea View)	43.73916	7.42717	MC	
+L'hermitage (Exclusive Sea View)	43.7382	7.42652	MC	

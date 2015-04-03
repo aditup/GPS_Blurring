@@ -1,0 +1,396 @@
+Zuurzak	12.1	-68.9	CW	00
+Zorgvliet	12.35	-69.11667	CW	00
+Landhuis Zorgendal	12.16667	-68.96667	CW	00
+Seru Zjeremi	12.33333	-69.13333	CW	00
+Playa Zjeremi	12.31667	-69.15	CW	00
+Landhuis Zjeremi	12.31667	-69.13333	CW	00
+Landhuis Zeelandia	12.11667	-68.9	CW	00
+Zeelandia	12.11667	-68.9	CW	00
+Zakito	12.11667	-68.95	CW	00
+Ser'i Yuana	12.28333	-69.13333	CW	00
+Wishi	12.12648	-68.96065	CW	00
+Willemstad	12.1084	-68.93354	CW	
+Willemberg	12.07639	-68.85611	CW	00
+Westpuntbaai	12.36667	-69.16667	CW	00
+Westpunt	12.38333	-69.16667	CW	00
+Welbedacht	12.13333	-68.83333	CW	00
+Weitje	12.01667	-68.98333	CW	00
+Weis	12.15	-68.93333	CW	00
+Landhuis Wechi	12.16667	-68.96667	CW	00
+Wechi	12.16667	-68.96667	CW	00
+Waterloo	12.15	-68.9	CW	00
+Watamula	12.38333	-69.15	CW	00
+Boka Wandomi	12.36667	-69.11667	CW	00
+Wakawa	12.31667	-69.05	CW	00
+Waaigat	12.1	-68.91667	CW	00
+Vredeberg	12.09167	-68.85	CW	00
+Vianen	12.1	-68.91667	CW	00
+Baai van Versali	12.1	-68.91667	CW	00
+Veerisberg	12.13333	-68.95	CW	00
+Veeris	12.11667	-68.95	CW	00
+Valentijnsbaai	12.21667	-69.08333	CW	00
+Baai van Valentijn	12.11667	-68.93333	CW	00
+Valentijn	12.11667	-68.93333	CW	00
+Vaarsenbaai	12.15	-69	CW	00
+Un Boka	12.38333	-69.13333	CW	00
+Seru Un Blachi	12.33333	-69.13333	CW	00
+Seru Tinta	12.33333	-69.13333	CW	00
+Tera Kora	12.21667	-69.03333	CW	00
+Tafelberg	12.31667	-69.11667	CW	00
+Tafel Berg	12.06667	-68.83333	CW	00
+Boka Tabla	12.36667	-69.1	CW	00
+Boka Tabla	12.13333	-68.8	CW	00
+Suriname Dorp	12.15	-68.93333	CW	00
+Suffisant Dorp	12.15	-68.91667	CW	00
+Suffisant	12.16667	-68.91667	CW	00
+Su Casa	12.11667	-68.96667	CW	00
+Stenen Koraal	12.16667	-68.93333	CW	00
+Spaanse Water	12.06667	-68.85	CW	00
+Spaanse Haven	12.06667	-68.86667	CW	00
+Spaanse Baai	12.06667	-68.86667	CW	00
+Landhuis Souax	12.16667	-68.96667	CW	00
+Souax	12.18333	-68.96667	CW	00
+Slangenbaai	12.13333	-68.98333	CW	00
+Landhuis Sint Sebastiaan	12.21667	-69.05	CW	00
+Sint Sebastiaan	12.21667	-69.05	CW	00
+Sint Michielsberg	12.15	-68.98333	CW	00
+Sint Michielsbaai	12.15	-68.98333	CW	00
+Sint Michiel Liber	12.15	-68.98333	CW	00
+Salina Sint Michiel	12.15	-68.98333	CW	00
+Salina Sint Marie	12.2	-69.05	CW	00
+Kaap Sint Marie	12.18333	-69.05	CW	00
+Boka Sint Marie	12.2	-69.03333	CW	00
+Sint Jozefsdal	12.28333	-69.08333	CW	00
+Sint Jorisbaai	12.11667	-68.8	CW	00
+Landhuis Sint Jacob	12.16667	-68.91667	CW	00
+Sint Jacob	12.16667	-68.91667	CW	00
+Sint Hironimo	12.31667	-69.1	CW	00
+Sint Christoffelberg	12.334	-69.1217	CW	00
+Sint Antonieberg	12.3	-69.06667	CW	00
+Sint Anna Baai	12.1	-68.91667	CW	00
+Zoutpan van Siberi	12.2	-69.05	CW	00
+Landhuis Siberi	12.23333	-69.03333	CW	00
+Siberi	12.23333	-69.05	CW	00
+Roi Shon Tata	12.03333	-68.78333	CW	00
+Play'i Shon	12.21667	-69.08333	CW	00
+Shete Seru	12.31667	-69.11667	CW	00
+Landhuis Seru Grandi	12.18333	-68.98333	CW	00
+Landhuis Seritu	12.11667	-68.9	CW	00
+Seritu	12.11667	-68.91667	CW	00
+Ser'i Papaya	12.16667	-68.95	CW	00
+Ser'i Bientu	12.31667	-69.1	CW	00
+Schottegat	12.11667	-68.91667	CW	00
+Scherpenheuvel	12.1	-68.9	CW	00
+Scharloo	12.1	-68.91667	CW	00
+Landhuis Savonet	12.35	-69.1	CW	00
+Savonet	12.35	-69.11667	CW	00
+Sapate	12.13333	-68.86667	CW	00
+Santa Rosa	12.11667	-68.88333	CW	00
+Boka Santa Pretu	12.3	-69.05	CW	00
+Boka Santa Pretu	12.16667	-68.86667	CW	00
+Santa Martabaai	12.28333	-69.13333	CW	00
+Boca Santa Marta	12.26667	-69.13333	CW	00
+Santa Maria	12.15	-68.93333	CW	00
+Landhuis Santa Krus	12.3	-69.11667	CW	00
+Boka Santa Krus	12.3	-69.16667	CW	00
+Santa Krus	12.3	-69.13333	CW	00
+Santa Krus	12.3	-69.13333	CW	00
+Landhuis Santa Catarina	12.15	-68.81667	CW	00
+Santa Catarina	12.15	-68.85	CW	00
+Boka San Pedro	12.25	-69.03333	CW	00
+San Pedro	12.38333	-69.15	CW	00
+San Pedro	12.25	-69.03333	CW	00
+San Pedro	12.25	-69.03333	CW	00
+San Nikolas	12.28333	-69.13333	CW	00
+Landhuis San Nikolaas	12.26667	-69.11667	CW	00
+San Juanbaai	12.25	-69.1	CW	00
+Landhuis San Juan	12.25	-69.08333	CW	00
+San Juan	12.25	-69.1	CW	00
+Landhuis San Hironimo	12.31667	-69.08333	CW	00
+San Dominico Montana	12.1	-68.83333	CW	00
+Salina Abou	12.1	-68.9	CW	00
+Salina	12.1	-68.9	CW	00
+Roi Salga	12.36667	-69.11667	CW	00
+Sabana Westpunt	12.37047	-69.15405	CW	00
+Rust en Vrede	12.11667	-68.9	CW	00
+Roosendaal	12.13333	-68.95	CW	00
+Landhuis Rooi Catootje	12.11667	-68.9	CW	00
+Rooi Catootje	12.11667	-68.9	CW	00
+Landhuis Ronde Klip	12.15	-68.85	CW	00
+Ronde Klip	12.15	-68.86667	CW	00
+Ronde Klip	12.15	-68.85	CW	00
+Rio Canario	12.13333	-68.93333	CW	00
+Rifwater	12.1	-68.95	CW	00
+Riffort	12.10523	-68.93748	CW	00
+Zoutpan van Rif	12.2	-69.05	CW	00
+Landhuis Rif	12.2	-69.05	CW	00
+Rif	12.2	-69.06667	CW	00
+Landhuis Raphael	12.13333	-68.95	CW	00
+Raphael	12.13333	-68.95	CW	00
+Punda	12.10588	-68.92925	CW	00
+Seru Pretu	12.11667	-68.96667	CW	00
+Pos Spano	12.28333	-69.13333	CW	00
+Boka Pos Spanjo	12.26667	-69.13333	CW	00
+Portomaribaai	12.21667	-69.08333	CW	00
+Portomari	12.21667	-69.06667	CW	00
+Boka Play'i Kanoa	12.16667	-68.85	CW	00
+Boka Plate	12.36667	-69.11667	CW	00
+Piscaderabaai	12.13231	-68.96861	CW	
+Pietermaai	12.1	-68.91667	CW	00
+Phlip	12.3	-69.1	CW	00
+Pestbaai	12.16667	-69	CW	00
+Eiland Penso	12.07722	-68.85667	CW	00
+Landhuis Patrick	12.28333	-69.05	CW	00
+Boka Patrick	12.28333	-69.05	CW	00
+Patrick	12.28333	-69.08333	CW	00
+Seru Pasku	12.31667	-69.13333	CW	00
+Parera	12.1	-68.91667	CW	00
+Seru Para Mira	12.31667	-69.13333	CW	00
+Landhuis Papaya	12.18333	-68.98333	CW	00
+Papaya	12.36667	-69.13333	CW	00
+Papaya	12.18333	-68.96667	CW	00
+Landhuis Pannekoek	12.26667	-69.08333	CW	00
+Pannekoek	12.25	-69.1	CW	00
+Ser'i Palomba	12.33333	-69.13333	CW	00
+Ser'i Palomba	12.11667	-68.81667	CW	00
+Ser'i Pal'i Bandera	12.33333	-69.11667	CW	00
+Otrabanda	12.1089	-68.93826	CW	
+Oranjeberg	12.08333	-68.78333	CW	00
+Awa di Oostpunt	12.03333	-68.73333	CW	00
+Punt Kanon	12.03333	-68.73333	CW	00
+Oostpunt	12.06667	-68.76667	CW	00
+Noordpunt	12.4	-69.16667	CW	00
+Landhuis Noordkant	12.16667	-68.88333	CW	00
+Noordkant	12.16667	-68.9	CW	00
+Newport	12.05	-68.81667	CW	00
+Negropont	12.11667	-68.91667	CW	00
+Fort Nassau	12.11667	-68.91667	CW	00
+Mundo Nobo	12.11091	-68.9532	CW	00
+Muizenberg	12.16667	-68.91667	CW	00
+Motetbaai	12.11667	-68.91667	CW	00
+Morgenster	12.08333	-68.83333	CW	00
+Montan'i Rei	12.1	-68.86667	CW	00
+Montana Abou	12.1	-68.85	CW	00
+Midden Seinpost	12.1	-68.85	CW	00
+Meiberg	12.16667	-69.01667	CW	00
+Meeuwtje	12.08056	-68.85722	CW	00
+Meeuwtje	12.11667	-68.91667	CW	00
+Punta Mariolina	12.06667	-68.85	CW	00
+Marchena	12.11667	-68.93333	CW	00
+Mansalinabaai	12.11667	-68.93333	CW	00
+Playa Mansalina	12.23333	-69.1	CW	00
+Boka Mansalina	12.36667	-69.11667	CW	00
+Bok'i Mangel	12.15	-68.8	CW	00
+Landhuis Malpais	12.16667	-68.98333	CW	00
+Malpais	12.16667	-68.98333	CW	00
+Kaap Malmeeuw	12.13333	-68.98333	CW	00
+Seru Male	12.36667	-69.13333	CW	00
+Isla Makuaku	12.11667	-68.8	CW	00
+Mahuma	12.16667	-68.95	CW	00
+Baai van Macola	12.11667	-68.91667	CW	00
+Seroe Macoco	12.13333	-68.93333	CW	00
+Lijhoek	12.06667	-68.86667	CW	00
+Libie	12.11667	-68.86667	CW	00
+Lelienberg	12.3	-69.08333	CW	00
+Playa Largu	12.23333	-69.1	CW	00
+Playa Lagun	12.31667	-69.15	CW	00
+Lagun	12.32206	-69.15044	CW	00
+Boka Labadera	12.15	-68.81667	CW	00
+Kura Juri	12.35	-69.15	CW	00
+Kunuku Abou	12.2	-69.01667	CW	00
+Ser'i Kueba	12.33333	-69.06667	CW	00
+Krakeel	12.23333	-69.03333	CW	00
+Roi Kosta	12.06667	-68.75	CW	00
+Boka Kortalein	12.36667	-69.11667	CW	00
+Korporaal	12.1	-68.88333	CW	00
+Landhuis Koraal Tabak	12.13333	-68.81667	CW	00
+Koraal Tabak	12.13333	-68.83333	CW	00
+Koraal Specht	12.08333	-68.88333	CW	00
+Koningsplein	12.11667	-68.91667	CW	00
+Kolontjie	12.11667	-68.9	CW	00
+Boka Kokolishi	12.1	-68.78333	CW	00
+Knipberg	12.35	-69.13333	CW	00
+Knipbaai	12.33333	-69.15	CW	00
+Landhuis Knip	12.33333	-69.13333	CW	00
+Knip	12.35	-69.13333	CW	00
+Landhuis Klein Sint Michiel	12.15	-68.98333	CW	00
+Klein Sint Michiel	12.15	-68.98333	CW	00
+Landhuis Klein Sint Joris	12.1	-68.81667	CW	00
+Klein Sint Joris	12.1	-68.8	CW	00
+Landhuis Klein Santa Marta	12.28333	-69.1	CW	00
+Klein Santa Marta	12.28333	-69.11667	CW	00
+Landhuis Klein Piscadera	12.13333	-68.96667	CW	00
+Klein Piscadera	12.13333	-68.96667	CW	00
+Baai van Klein Macola	12.11667	-68.91667	CW	00
+Klein Kwartier	12.11667	-68.88333	CW	00
+Kleine Berg	12.2	-69	CW	00
+Klein Curacao	11.99182	-68.64567	CW	00
+Kintjan	12.1	-68.9	CW	00
+Roi Katoen	12.2	-69.03333	CW	00
+Kas Chikitu	12.11667	-68.96667	CW	00
+Kas Abou	12.23333	-69.1	CW	00
+Ser'i Karpata	12.13333	-68.93333	CW	00
+Kadoesjie	12.11667	-68.91667	CW	00
+Kabrietenberg	12.06667	-68.85	CW	00
+Kabrietenbaai	12.06667	-68.86667	CW	00
+Punta Caballero	12.06528	-68.85333	CW	00
+Julianadorp	12.15	-68.95	CW	00
+Punta Juba	12.06667	-68.86667	CW	00
+Juan Domingo	12.16667	-68.95	CW	00
+Landhuis Jongbloed	12.13333	-68.88333	CW	00
+Jongbloed	12.13333	-68.88333	CW	00
+Landhuis Janwe	12.1	-68.88333	CW	00
+Janwe	12.1	-68.9	CW	00
+Jan Thielbaai	12.06667	-68.86667	CW	00
+Landhuis Jan Thiel	12.08333	-68.86667	CW	00
+Lagun Jan Thiel	12.08725	-68.8835	CW	00
+Jan Thiel	12.08333	-68.86667	CW	00
+Zoutpan van Jan Kok	12.2	-69.05	CW	00
+Jan Kok	12.21667	-69.03333	CW	00
+Jan Doret	12.15	-68.96667	CW	00
+Jack Evertszberg	12.13333	-68.96667	CW	00
+Playa Hunku	12.21667	-69.08333	CW	00
+Roi Hundu	12.08333	-68.78333	CW	00
+Playa Hundu	12.25	-69.11667	CW	00
+Boka Hulu	12.28333	-69.15	CW	00
+Hofi Abou	12.3	-69.11667	CW	00
+Zoutpan van Hermanus	12.2	-69.05	CW	00
+Landhuis Hermanus	12.2	-69.03333	CW	00
+Hermanus	12.2	-69.03333	CW	00
+Heintje Kool	12.13333	-68.93333	CW	00
+Landhuis Hato	12.18333	-68.95	CW	00
+Bocht van Hato	12.25	-69	CW	00
+Hato	12.21667	-69	CW	00
+Punta Halvedag	12.23333	-69.11667	CW	00
+Habaai	12.11667	-68.96667	CW	00
+Grote Berg	12.18333	-68.98333	CW	00
+Grote Berg	12.18333	-69	CW	00
+Landhuis Groot Sint Michiel	12.15	-68.98333	CW	00
+Groot Sint Michiel	12.15	-68.96667	CW	00
+Landhuis Groot Sint Joris	12.11667	-68.81667	CW	00
+Groot Sint Joris	12.11667	-68.83333	CW	00
+Landhuis Groot Santa Marta	12.26667	-69.1	CW	00
+Groot Santa Marta	12.26667	-69.1	CW	00
+Landhuis Groot Piscadera	12.13333	-68.96667	CW	00
+Groot Piscadera	12.15	-68.96667	CW	00
+Groot Kwartier	12.13333	-68.91667	CW	00
+Ceru Grandi	12.06667	-68.78333	CW	00
+Playa Grandi	12.31667	-69.06667	CW	00
+Boka Grandi	12.35	-69.08333	CW	00
+Boka Grandi	12.15	-68.81667	CW	00
+Boka Grandi	12.25	-69.1	CW	00
+Gato	12.16571	-68.96496	CW	00
+Gasparito	12.13333	-68.93333	CW	00
+Fuik Baai	12.05	-68.81667	CW	00
+Landhuis Fuik	12.05	-68.8	CW	00
+Fuik	12.06667	-68.8	CW	00
+Seru Francisco Jobo	12.31667	-69.13333	CW	00
+Fortuna Abou	12.16667	-68.91667	CW	00
+Fontein	12.25	-69.08333	CW	00
+Fleur de Marie	12.1	-68.91667	CW	00
+Emmastad	12.13333	-68.91667	CW	00
+Duivelsklip	12.05	-68.8	CW	00
+Duivelsklip	12.05	-68.76667	CW	00
+Dos Boka	12.38333	-69.13333	CW	00
+Dorp Westpunt	12.36667	-69.13333	CW	00
+Dorp Soto	12.26667	-69.1	CW	00
+Dorp Sint Willebrordus	12.21667	-69.05	CW	00
+Dorp Sint Michiel	12.13333	-68.98333	CW	00
+Dominguito	12.1	-68.9	CW	00
+Cer'i Domi	12.11667	-68.93333	CW	00
+Roi Domi	12.3	-69.13333	CW	00
+Landhuis Dokterstuin	12.26667	-69.05	CW	00
+Dokterstuin	12.26667	-69.06667	CW	00
+Boka Djegu	12.38333	-69.13333	CW	00
+De Hoop	12.13333	-68.95	CW	00
+Landhuis Daniel	12.2	-69.01667	CW	00
+Daniel	12.21667	-69.01667	CW	00
+Seru Dakue	12.23333	-69.05	CW	00
+Daaibooibaai	12.2	-69.08333	CW	00
+Cornelisbaai	12.08333	-68.88333	CW	00
+Punta Cora Bina	12.06667	-68.85	CW	00
+Seru Commandant	12.3	-69.13333	CW	00
+Roi Clement	12.08333	-68.78333	CW	00
+Landhuis Choloma	12.1	-68.81667	CW	00
+Choloma	12.11667	-68.81667	CW	00
+Playa Chikitu	12.3	-69.13333	CW	00
+Playa Chikitu	12.21667	-69.08333	CW	00
+Caracasbaai	12.06667	-68.85	CW	00
+Caracas Baai	12.06667	-68.85	CW	00
+Busca Baai	12.11667	-68.91667	CW	00
+Bullenbaai	12.18345	-69.01547	CW	00
+Bullenbaai	12.18333	-69.03333	CW	00
+Buena Vista	12.13333	-68.95	CW	00
+Landhuis Brievengat	12.15	-68.86667	CW	00
+Brievengat	12.15	-68.9	CW	00
+Boka Braun	12.36667	-69.1	CW	00
+Seru Brandar	12.36667	-69.13333	CW	00
+Bou'i Seru	12.3	-69.1	CW	00
+Playa Boto	12.23333	-69.08333	CW	00
+Bonavista	12.16667	-68.98333	CW	00
+Bona Vista	12.11667	-68.85	CW	00
+Boka Sami	12.13333	-68.98333	CW	00
+Blomonte	12.15	-68.93333	CW	00
+Bleinheim	12.13333	-68.95	CW	00
+Blauwbaai	12.13333	-68.98333	CW	00
+Landhuis Blauw	12.13333	-68.96667	CW	00
+Blauw	12.13333	-68.96667	CW	00
+Punta Blanku	12.11667	-68.8	CW	00
+Lagun Blanku	12.03333	-68.78333	CW	00
+Awa Blanku	12.03333	-68.78333	CW	00
+Seru Blandan	12.15	-68.98333	CW	00
+Ser'i Bientu	12.33333	-69.13333	CW	00
+Roi Beru	12.35	-69.1	CW	00
+Bergantinbaai	12.3	-69.05	CW	00
+Fort Beekenburg	12.06667	-68.85	CW	00
+Batipanabaai	12.11667	-68.93333	CW	00
+Ser'i Baha Hundu	12.33333	-69.13333	CW	00
+Australie	12.11667	-68.95	CW	00
+Baai van Asiento	12.13333	-68.91667	CW	00
+Asiento	12.11667	-68.91667	CW	00
+Landhuis Ascencion	12.26667	-69.05	CW	00
+Boka Ascencion	12.26667	-69.03333	CW	00
+Ascencion	12.25	-69.03333	CW	00
+Salina Abou	12.21667	-69.06667	CW	00
+Playa Abou	12.35	-69.15	CW	00
+Kon Julianabrug	12.11389	-68.93	CW	00
+Habai	12.12111	-68.95226	CW	00
+Welgelegen	12.12	-68.94667	CW	00
+Domi	12.1175	-68.94278	CW	00
+Mundo	12.11611	-68.94722	CW	00
+Nobo	12.11444	-68.94667	CW	00
+Kortijn	12.11528	-68.9375	CW	00
+Motet	12.11667	-68.93333	CW	00
+Sint Jago	12.10972	-68.92222	CW	00
+Ararat	12.11056	-68.91944	CW	00
+Cornet	12.10583	-68.92	CW	00
+Berg Altena	12.10778	-68.9175	CW	00
+Cher Asile	12.10667	-68.91528	CW	00
+Nieuw Nederland	12.10389	-68.91667	CW	00
+Paradijs	12.10889	-68.91333	CW	00
+Steenrijk	12.10056	-68.91056	CW	00
+Mari Pompun	12.1	-68.90833	CW	00
+John Godden Pier	12.05222	-68.82722	CW	00
+Ceru Boca	12.07167	-68.84583	CW	00
+Ser'i Pila	12.26667	-69.1	CW	00
+Seru Grandi	12.24167	-69.1	CW	00
+Ser'i Kura	12.1	-68.89167	CW	00
+Kon Emmabrug	12.10917	-68.93333	CW	00
+Ceru Salin' Abao	12.10778	-68.90611	CW	00
+Colon	12.11389	-68.94028	CW	00
+Sapate Eiland	12.11278	-68.90889	CW	00
+Zuur Eiland	12.12889	-68.93667	CW	00
+Piedras Negras	12.14444	-68.93833	CW	
+SUNSET WATERS	12.1	-68.9166	CW	
+BREEZES CURACAO	12.0922	-68.8975	CW	
+Boca St. Michiel	12.14335	-68.99487	CW	
+Westpunt	12.37765	-69.15044	CW	
+Piscadera	12.11998	-68.96534	CW	
+Santa Catharina	12.14188	-68.83638	CW	
+Coral Estate Rif St. Marie	12.20902	-69.07328	CW	
+Country of Curacao	12.16667	-68.96667	CW	00
+Netherlands Antilles	12.11721	-68.91964	CW	00
+Grote Berg	12.19239	-68.99826	CW	
+Daniel	12.20904	-69.02066	CW	
+San Marco And Casino	12.10507	-68.93234	CW	
+T Klooster	12.10355	-68.92526	CW	

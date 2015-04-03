@@ -1,0 +1,148 @@
+Yambu Head	13.15	-61.15	VC	04
+Worlds End Reef	12.6	-61.31667	VC	06
+West Cay	12.99047	-61.29045	VC	06
+Waterloo	13.3	-61.13333	VC	01
+Wallibou	13.31667	-61.21667	VC	03
+Vermont	13.2	-61.21667	VC	02
+Union	13.01422	-61.23211	VC	06
+Turema	13.33333	-61.15	VC	01
+Troumaka	13.26667	-61.25	VC	03
+Tobago Cays	12.63381	-61.35731	VC	06
+Stubbs	13.13333	-61.15	VC	04
+South Mayreau Channel	12.61667	-61.4	VC	06
+Sans Souci	13.21667	-61.11667	VC	01
+Sand Cay	12.6	-61.43333	VC	06
+Saint Vincent and the Grenadines	13.08333	-61.2	VC	00
+Saint Vincent	13.25	-61.2	VC	00
+Saint Vincent	13.11667	-61.16667	VC	04
+Parish of Saint Patrick	13.23333	-61.23333	VC	05
+Parish of Saint George	13.16667	-61.2	VC	04
+Saint Elairs Cay	12.98051	-61.24116	VC	06
+Parish of Saint David	13.3	-61.2	VC	03
+Parish of Saint Andrew	13.2	-61.23333	VC	02
+Rutland Vale	13.2	-61.28333	VC	05
+Richmond Vale	13.28333	-61.23333	VC	03
+Richmond	13.3	-61.21667	VC	03
+Ribishi	13.13333	-61.18333	VC	04
+Rabaka	13.3	-61.15	VC	01
+Questelles	13.16667	-61.23333	VC	02
+Isle a Quatre	12.95	-61.25	VC	06
+Porter Point	13.38333	-61.18333	VC	01
+Port Elizabeth	13.01102	-61.23548	VC	06
+The Pillories	12.9	-61.16667	VC	06
+Petit Tobac	12.62283	-61.34869	VC	06
+Petit Cay	12.83333	-61.2	VC	06
+Petit Canouan	12.78333	-61.28333	VC	06
+Petit Bonhomme	13.2	-61.2	VC	01
+Peruvian Vale	13.16667	-61.13333	VC	01
+Pembroke	13.18333	-61.25	VC	02
+Old Woman Point	13.15	-61.25	VC	02
+Old Wall	12.63854	-61.39431	VC	06
+O'Briens	13.28472	-61.14879	VC	01
+North Union	13.21667	-61.13333	VC	01
+North Mayreau Channel	12.66667	-61.38333	VC	06
+Mustique	12.88333	-61.18333	VC	06
+Montrose	13.16667	-61.23333	VC	02
+Montezuma Shoal	12.86667	-61.2	VC	06
+Mesopotamia	13.16667	-61.16667	VC	01
+Mayreau	12.64118	-61.39079	VC	06
+Martinique Channel	12.56667	-61.41667	VC	00
+Lovell Village	12.88333	-61.18333	VC	06
+L'Islot	12.69268	-61.34884	VC	06
+Layou	13.2	-61.26667	VC	02
+La Soufriere	13.33333	-61.18333	VC	00
+Kukunjare	13.28333	-61.23333	VC	03
+Kingstown	13.15872	-61.22475	VC	04
+Horse Shoe Reef	12.63333	-61.35	VC	06
+Hermitage	13.23333	-61.21667	VC	05
+Grenadines	12.66667	-61.25	VC	06
+Grenadines	12.83333	-61.25	VC	06
+Greiggs	13.2	-61.15	VC	01
+Grand Bonhomme	13.23333	-61.23333	VC	05
+Grand Balaine	13.36667	-61.2	VC	03
+Georgetown	13.2879	-61.1302	VC	01
+Friendship	12.98998	-61.24127	VC	06
+Friendly	13.22862	-61.13072	VC	01
+Francois	13.2	-61.21667	VC	02
+Fancy	13.36667	-61.16667	VC	01
+Espagnol Point	13.36667	-61.13333	VC	01
+Egg Reef	12.61667	-61.33333	VC	06
+Duvernette Islet	13.13333	-61.21667	VC	04
+Dubois	13.18333	-61.23333	VC	02
+Dovers	12.88333	-61.18333	VC	06
+Dove Cay	12.68333	-61.35	VC	06
+De Volet Point	13.36667	-61.21667	VC	03
+Derrick	12.98757	-61.25209	VC	06
+Cow and Calves	13.36667	-61.15	VC	01
+Colonarie Point	13.23333	-61.13333	VC	01
+Colonarie	13.24437	-61.13746	VC	01
+Cloey Hole	12.71667	-61.3	VC	06
+Clifton	12.59762	-61.41898	VC	06
+Clare Valley	13.16667	-61.25	VC	02
+Cheltenham	12.88333	-61.18333	VC	06
+Chauncey	13.16667	-61.23333	VC	02
+Chateaubelair	13.28333	-61.25	VC	03
+Parish of Charlotte	13.26667	-61.15	VC	01
+Fort Charlotte	13.15	-61.23333	VC	02
+Charlestown	12.70042	-61.33062	VC	06
+Chapmans	13.28333	-61.11667	VC	01
+Calliaqua	13.11667	-61.18333	VC	04
+Byera Village	13.2572	-61.12656	VC	01
+Bullet	13.03995	-61.20267	VC	06
+Brighton Village	13.13333	-61.16667	VC	04
+Black Point	13.26667	-61.11667	VC	01
+Biabou	13.2	-61.13333	VC	01
+Chapmans	13.29412	-61.12003	VC	01
+Belmont	13.00226	-61.23196	VC	06
+Belmont	13.15	-61.18333	VC	04
+Bednoe	12.95	-61.25	VC	06
+Ashton Harbour	12.58849	-61.43499	VC	06
+Ashton	12.5954	-61.4349	VC	06
+Arnos Vale	13.13333	-61.21667	VC	04
+Arnos Vale	13.13333	-61.2	VC	04
+Adelphi	13.18388	-61.14561	VC	01
+Johnson Point	13.15417	-61.25417	VC	02
+Edinboro	13.1575	-61.24444	VC	02
+Coxheath	13.15917	-61.24194	VC	02
+Graham	13.16667	-61.23611	VC	02
+Redemption	13.16444	-61.22944	VC	02
+Pauls	13.15694	-61.23417	VC	04
+Riley	13.15444	-61.23222	VC	04
+Schooner Jetty	13.14778	-61.23278	VC	04
+Greathead	13.14417	-61.22083	VC	04
+Cane Garden	13.1425	-61.23222	VC	04
+Cane Garden Point	13.13778	-61.2375	VC	04
+Calliaqua	13.13056	-61.20278	VC	04
+Prospect	13.12611	-61.19111	VC	04
+Belle Point	12.99611	-61.25167	VC	04
+Lawler Point	12.99979	-61.24296	VC	04
+Princess Point	13.00361	-61.24028	VC	04
+Belmont Shoal	13.00722	-61.24	VC	04
+Union Pasture	13.01444	-61.2325	VC	04
+Point Peter	13.01028	-61.24667	VC	04
+Devil's Table	13.01213	-61.24867	VC	04
+Northwest Point	13.0175	-61.24861	VC	04
+Ships Stern	12.995	-61.27333	VC	00
+Upper Bight	12.99442	-61.27092	VC	00
+Ocar Point	13.0117	-61.23865	VC	00
+Villa Point	13.13889	-61.27778	VC	00
+Questelles Point	13.16944	-61.25806	VC	00
+Rookes Point	13.13111	-61.19944	VC	00
+Johnson Point	13.12306	-61.19722	VC	00
+Lagoon	13.12667	-61.19167	VC	00
+Sharp's Point	13.12222	-61.185	VC	00
+Arnos Vale	13.14431	-61.21086	VC	
+J.F. Mitchell	12.98863	-61.26238	VC	
+Rose Bank	13.2692	-61.2397	VC	
+Lower Bight	12.99297	-61.27629	VC	
+Big Cay	12.99021	-61.28839	VC	
+L'Anse Chemin	13.03901	-61.21402	VC	
+Man Point	13.04779	-61.20595	VC	
+Bequia Head	13.04064	-61.20754	VC	
+Diable Point	13.03332	-61.20477	VC	
+Brute Point	13.03004	-61.20488	VC	
+Ansela Coite	13.0128	-61.21569	VC	
+Saint Hilaire Point	12.98808	-61.23063	VC	
+Samples Cay	12.98449	-61.23827	VC	
+Buccament	13.19389	-61.26583	VC	
+Silver Spoon	13.25381	-61.13686	VC	

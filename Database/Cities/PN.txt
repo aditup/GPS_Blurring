@@ -1,0 +1,25 @@
+Water Valley	-25.06667	-130.1	PN	00
+Ted Side	-25.06667	-130.1	PN	00
+Tahoutoumah	-24.08333	-130.08333	PN	00
+South Point	-24.4	-128.3	PN	00
+Saint Pauls Valley	-25.06667	-130.08333	PN	00
+Saint Pauls Point	-25.06667	-130.08333	PN	00
+The Rope	-25.06667	-130.08333	PN	00
+Outer Valley	-25.06667	-130.1	PN	00
+Oeno Atoll	-23.92896	-130.74442	PN	00
+North East Point	-24.31667	-128.3	PN	00
+North East Point	-23.91667	-130.73333	PN	00
+McCoys Valley	-25.06667	-130.08333	PN	00
+Manelee	-25.08333	-130.08333	PN	00
+Lookout Point	-25.06667	-130.1	PN	00
+Hollyander	-25.06667	-130.08333	PN	00
+The Hollow	-25.06667	-130.1	PN	00
+Gudgeen	-25.06667	-130.1	PN	00
+Gense Valley	-25.06667	-130.1	PN	00
+Ducie Atoll	-24.67406	-124.77733	PN	00
+Deep Valley	-25.06667	-130.1	PN	00
+Christians Cave	-25.06667	-130.1	PN	00
+Point Christian	-25.06667	-130.11667	PN	00
+Western Harbour	-25.06181	-130.11864	PN	
+Kundur marqa	-25.065	-130.10357	PN	
+Awahou Point	-24.33861	-128.33144	PN	00

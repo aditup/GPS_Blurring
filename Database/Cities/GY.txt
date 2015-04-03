@@ -1,0 +1,2089 @@
+Zuidwyk	6.19454	-57.56944	GY	15
+Zuid Holland	6.14408	-57.64571	GY	15
+Zorg en Vlyt	6.08791	-57.58527	GY	13
+Zorg en Vlygt	7.17593	-58.49534	GY	16
+Zorg en Vlygt	6.55629	-58.258	GY	14
+Zorg en Hoop	6.24125	-57.55382	GY	15
+Zorg	7.13385	-58.48444	GY	16
+Zorg	6.18529	-57.42185	GY	13
+Zion	6.1	-57.76667	GY	15
+Zion	5.68333	-57.85	GY	18
+Zion	6.06667	-57.76667	GY	15
+Zes Kinderen	6.5769	-57.81339	GY	15
+Zee Zight	6.30447	-57.5571	GY	15
+Zee Lust	6.32226	-57.57655	GY	15
+Zeelugt	6.85369	-58.34429	GY	14
+Fort Zeelandia	6.78333	-58.51667	GY	14
+Zeelandia	7.01146	-58.44463	GY	14
+Zeelandia	5.68333	-57.76667	GY	18
+Zeeden Rust	6.12078	-57.64175	GY	15
+Zeeburg	6.85491	-58.31303	GY	14
+Zealand	6.63211	-57.84116	GY	15
+Yuraba	5.21667	-58.16667	GY	18
+Yupukarri	3.66667	-59.35	GY	19
+Youran Itabu	5.5	-57.83333	GY	18
+Yurabo	6.57253	-58.30068	GY	14
+York	6.21667	-58.28333	GY	12
+Yepu Village	1.36667	-58.63333	GY	19
+Yepi Village	1.35	-58.66667	GY	19
+Yeovil	6.44886	-57.64211	GY	15
+Yearwood Bank	6.9	-58.56667	GY	14
+Yari-yari	5.94254	-57.68162	GY	15
+Yariwa Landing	7.08864	-58.53403	GY	16
+Yarida	6.15	-57.93333	GY	15
+Yaramba	7.68333	-59.65	GY	10
+Yarakita Portage	8.03333	-59.96667	GY	10
+Yankee Gutter	5.68333	-57.41667	GY	13
+Yakusari	6.04908	-57.26716	GY	13
+Yakishuru Mission	7.35	-59.76667	GY	10
+Yakarinta	3.9	-59.25	GY	19
+Wyngaants Rust	5.86251	-57.68616	GY	15
+Wyngaerts Lust	5.85717	-57.68206	GY	15
+Wyburg	6.16165	-57.44618	GY	13
+Woweta Village	3.98333	-59.08333	GY	19
+Wortmanville	6.80549	-58.1557	GY	12
+Worm Bank	6.71667	-58.56667	GY	14
+Woodlands	6.69971	-57.90957	GY	15
+Woodlands	6.36667	-58.3	GY	12
+Woodlands	6.3497	-57.58787	GY	15
+Wolga	6.4724	-58.61637	GY	11
+Woerden	6.7289	-58.14412	GY	12
+Wismar	6.01065	-58.31036	GY	18
+Wiribisirikanali	5.5	-58.38333	GY	18
+Wineperu	6.176	-58.58485	GY	11
+Windsor Castle	7.31095	-58.48676	GY	16
+Willis' Point	5.23333	-59.01667	GY	17
+Williamsburg	6.24483	-57.36268	GY	13
+Fort William Frederick	6.82739	-58.16514	GY	12
+Willemstad	6.3342	-57.5802	GY	15
+Wilhelmina	6.67126	-57.9111	GY	15
+Number Eighteen Wilhelmina	6.26396	-57.45629	GY	13
+Wichabai	2.86667	-59.53333	GY	19
+Wiapri	4.95	-59.98333	GY	17
+White Cliff	5.23333	-58.11667	GY	18
+Whim	6.23236	-57.31229	GY	13
+Whim	6.21858	-57.31533	GY	13
+Westminster	6.77993	-58.22769	GY	14
+Westerbeck	6.36667	-58.7	GY	11
+Westbury	7.35866	-58.51494	GY	16
+Werk-en-Rust	6.80725	-58.16375	GY	12
+Wenard	5.86667	-57.65	GY	13
+Wel te Vreeden	5.85	-57.46667	GY	13
+Welkom	5.7	-57.46667	GY	13
+Welgelegen	6.05778	-57.58435	GY	13
+Weldaad	6.49648	-57.688	GY	15
+Weldaad	6.48333	-57.7	GY	15
+Weithers Bank	6.86667	-58.55	GY	14
+Weed Shoal	6.66667	-58.6	GY	14
+Wauna-Yarikita	8.08333	-59.91667	GY	10
+Watville	6.72948	-58.14751	GY	12
+Watuka	6	-58.3	GY	18
+Waterloo Jib	6.36299	-57.57814	GY	15
+Waterloo	6.9174	-58.42249	GY	14
+Waterloo	6.63166	-57.90995	GY	12
+Waterloo	6.36996	-57.58433	GY	15
+Wastelands	7.15619	-58.48762	GY	16
+Wassai Hole Rapids	6.21917	-58.83628	GY	11
+Washington	6.48514	-57.68308	GY	15
+Wash Clothes	6.5015	-57.8145	GY	15
+Waruma	3.1	-59.9	GY	19
+Number Twenty-one Warren	6.30207	-57.44929	GY	13
+Warousi	7.01887	-58.4972	GY	16
+Warapoka Amerindian Village	7.81472	-59.25419	GY	10
+Warleigh	5.65	-57.16667	GY	13
+Wariwau	2.71667	-59.2	GY	19
+Warirud	3.06667	-59.76667	GY	19
+Warimure	2.93333	-59.48333	GY	19
+Warida	6.31561	-58.28611	GY	12
+Ward village	6.06667	-57.18333	GY	13
+Waramuri-Moruca Amerindian Village	7.58333	-58.93333	GY	10
+Waramuri Mission	7.61667	-58.86667	GY	10
+Warakabra Rapids	4.76667	-57.88333	GY	13
+Wanrana	5	-59.78333	GY	17
+Wandapa Village	4.55	-59.71667	GY	17
+Wandaik Village	4.45	-59.58333	GY	17
+Wanama	5.41667	-58.38333	GY	18
+Wanaina	7.91667	-59.85	GY	10
+Serra Wamuriaktaua	1.85	-59.66667	GY	00
+Wallers Delight	6.82631	-58.22253	GY	14
+Wallaba	5.5	-58.36667	GY	18
+Wales Sugar Factory	6.7	-58.2	GY	14
+Wales	6.7	-58.2	GY	14
+Wakapau Village	7.51667	-58.8	GY	16
+Wakapau Amerindian Village	7.45571	-58.9613	GY	16
+Wakaparu	7.63333	-59.86667	GY	10
+Wakakulud Village	1.38333	-58.75	GY	19
+Wakadanawa	1.98333	-59.71667	GY	19
+Waiwoi Village	1.43333	-58.8	GY	19
+Wai-Wai	1.58333	-58.65	GY	19
+Waipa Village	4.93333	-60	GY	17
+Waini Point	8.39781	-59.81126	GY	10
+Wailang	5.43333	-59.45	GY	17
+Waikerebi Mission	7.53333	-59.4	GY	10
+Waikerebi Amerindian Village	7.53333	-59.4	GY	10
+Waharina	8.01667	-59.96667	GY	10
+Waakzaamheid	5.99418	-57.62104	GY	13
+Vryheids Lust	6.80156	-58.08816	GY	12
+Vryheid	7.33333	-58.61667	GY	16
+Vryheid	6.3063	-58.27354	GY	12
+Vryheid	6.22555	-57.50147	GY	13
+Vryheid	5.65	-57.55	GY	13
+Vryburg	6.01667	-57.6	GY	13
+Vrouw Anna	6.89407	-58.46132	GY	14
+Vriesland	6.69113	-58.2052	GY	14
+Vriendshap	6.03727	-57.59376	GY	13
+Vrede en Vriendschap	6.78275	-58.25959	GY	14
+Vreed en Stein	6.63172	-58.2297	GY	14
+Vreed en Rust	6.73803	-58.17298	GY	12
+Vreed-en-Rust	6.4636	-58.31734	GY	14
+Vreed en Rust	5.58333	-57.91667	GY	18
+Vreed-en-Hoop	6.80927	-58.19798	GY	14
+Vreed-en-Hoop	6.32745	-58.30701	GY	14
+Vrede en Vriendschap	6.16973	-57.42085	GY	13
+Vreckenhorst	5.73893	-57.51938	GY	13
+Voorzigtigheid	6.69224	-57.93092	GY	12
+Voorburg	6.62339	-58.23195	GY	14
+Voorburg	5.77722	-57.64876	GY	18
+Volkerts Lust	6.19805	-57.42607	GY	13
+Vlissengen	5.66667	-57.81667	GY	18
+Vive La Force	6.67592	-58.20678	GY	14
+Wisselvalligheid	6.9192	-58.43528	GY	14
+Virginia	6.6276	-57.90847	GY	12
+Vilvoorden	7.04178	-58.49372	GY	16
+Vigilance	6.76657	-58.02591	GY	12
+Victoria	6.75424	-57.96481	GY	12
+Vevay	6.66578	-57.90812	GY	15
+Vertrouwen	6.93313	-58.41786	GY	14
+Versailles	6.79406	-58.20394	GY	14
+Vergenoegen	6.87824	-58.35794	GY	14
+Vergenoegen	6.86162	-58.35959	GY	14
+Vergenoegen	5.98333	-57.7	GY	13
+Vereeniging	6.66838	-57.93779	GY	12
+Velgrad	4.86667	-59.8	GY	17
+Utrecht	6.72825	-58.14054	GY	12
+Urisirima Point	6.43418	-58.59389	GY	18
+Urisirima	6.43333	-58.6	GY	18
+Upper Takutu-Upper Essequibo Region	2.91667	-59	GY	19
+Upper Simerie	5.91667	-58.33333	GY	18
+Upper Kamaria	6.43093	-58.80087	GY	11
+Upper Demerara-Berbice Region	5.5	-58.33333	GY	18
+Uplands	6.64262	-57.91296	GY	12
+Unity	6.82447	-58.45651	GY	14
+Unity	6.7088	-57.93259	GY	12
+Union	6.82021	-58.21154	GY	14
+Union	6.43485	-57.62943	GY	15
+Union	6.05	-57.586	GY	13
+Union	6.03333	-57.18333	GY	13
+Uniform	6.95711	-58.39272	GY	14
+Umeru Rapids	3.65	-57.78333	GY	13
+Ulverston	6.21094	-57.30128	GY	13
+Uitvlugt	6.88238	-58.30756	GY	14
+Uitvlugt	6.85455	-58.30566	GY	14
+Uitspa	6.3	-58.26667	GY	12
+Uitkomst	6.77736	-58.24554	GY	14
+Uitkomst	6.28333	-58.28333	GY	14
+Uit	6.45229	-58.30282	GY	12
+Uduwa Rapids	5	-58.83333	GY	18
+Tyderdryf	6.62544	-57.88451	GY	15
+Tyd en Vlygt	6.75565	-58.13547	GY	12
+Two Friends	6.77051	-58.04857	GY	12
+Two Friends	6.7301	-58.15159	GY	12
+Two Brothers	6.7821	-58.25557	GY	14
+Two Brothers	6.59401	-58.23673	GY	14
+Twee Gebroeders	6.81667	-58.45	GY	14
+Tuschen de Vrienden	6.85658	-58.35121	GY	14
+Tuschen	6.88333	-58.35	GY	14
+Turtruba Rapids	6.3	-58.7	GY	11
+Turkeyen	6.81035	-58.11977	GY	12
+Tupper Bank	6.9	-58.51667	GY	14
+Tupeku Still Water	6.16667	-58.88333	GY	11
+Tumatumari	5.36667	-59	GY	17
+Tukeit	5.2	-59.45	GY	17
+Truli Pile	6.87894	-58.54727	GY	14
+Trois Amis	6.67792	-57.90816	GY	15
+Triumph	6.7836	-58.06299	GY	12
+Number Eleven Treurniet	6.30313	-57.47497	GY	13
+Tramway Rapids	4.78333	-58.23333	GY	18
+Trafalgar	6.43	-57.62392	GY	15
+Towarwau	2.86667	-59.98333	GY	19
+Towakaima	7.31667	-60	GY	10
+Topekai Rapids	6.75606	-59.30368	GY	11
+Tonasakara	7.76667	-59.86667	GY	10
+Toka Village	3.91667	-59.38333	GY	19
+Toevlugt	6.74783	-58.21319	GY	14
+Tipuru Village	4.21667	-59.56667	GY	19
+Tipuru Inlet	5.90273	-58.58136	GY	11
+Timanda Bank	6.53333	-58.61667	GY	14
+Tiger Rapids	5.4	-58.81667	GY	18
+Tiger	4.06667	-58.03333	GY	13
+Tiboku Range	5.78333	-59.61667	GY	11
+Tibikurikuyaha	5.58333	-58.36667	GY	18
+Tibikurikuya	5.05	-58.58333	GY	18
+Three Sisters	5.51667	-57.6	GY	13
+Three Sisters	6.19681	-57.58104	GY	15
+Three Friends and Dryshore	7.02254	-58.49599	GY	16
+Three Friends	5.9	-58.3	GY	18
+Three Friends	7.23408	-58.50223	GY	16
+Thoyras	5.73333	-57.45	GY	13
+Thompson Bank	6.8	-58.56667	GY	14
+Third Point	6.44027	-57.71958	GY	15
+Third Lagunash	8.13333	-59.41667	GY	10
+Theodora	5.61667	-57.85	GY	18
+The Jib	7.34124	-58.49522	GY	16
+The Commons	6.71984	-58.25999	GY	14
+The Clip	6.38333	-58.66667	GY	11
+The Buff	6.72234	-58.27081	GY	14
+The Best	6.81351	-58.20024	GY	14
+The Bell	6.71998	-58.25346	GY	14
+The Bell	6.18085	-58.28685	GY	14
+T'Fortuyn	5.77441	-57.71601	GY	18
+T'Fortune	5.65	-57.86667	GY	18
+Tewkesbury	6.94707	-58.40497	GY	14
+Tetruba Rapids	6.4	-58.76667	GY	11
+Tenez Ferme	7.44526	-58.61031	GY	16
+Tenez Ferme	6.78309	-58.2644	GY	14
+Tenapu Village	7.61667	-59.93333	GY	10
+Tenapu Landing	7.65	-59.83333	GY	10
+Tempe	6.43998	-57.63467	GY	15
+T'Huis te Coverden	6.57561	-58.21848	GY	14
+Teddington	6.4	-58.28333	GY	14
+Taymouth Manor	7.21259	-58.4968	GY	16
+Taymouth Manor	6.59149	-57.8049	GY	15
+Taunama	5.87717	-57.65169	GY	13
+Tassawini Landing	7.51667	-59.55	GY	10
+Taruma Village	2.08333	-58.38333	GY	19
+Taruka	4.8	-59.63333	GY	17
+Tarlogie	6.18161	-57.23884	GY	13
+Tarlogie	6.15	-57.23333	GY	13
+Taradanesharu	7.35	-59.75	GY	10
+Number Twelve Tapinsburg	6.26623	-57.47184	GY	13
+Tapakuma Water Conservancy	7.26348	-58.56724	GY	16
+Tapakuma Amerindian Village	7.20254	-58.62129	GY	16
+Tandani	6.42987	-58.0094	GY	15
+Tamton	2.35	-59.71667	GY	19
+Tambikabo Inlet	4.8	-58.78333	GY	18
+Tamanua Hole	6.05	-58.95	GY	11
+Takarri Rapids	6.53333	-58.93333	GY	11
+Takama	5.56667	-57.91667	GY	18
+Tain	6.23898	-57.33632	GY	13
+Tagina Point	6.66968	-59.04181	GY	11
+Tabutata	7.33333	-59.63333	GY	10
+Switzerland	5.68333	-57.83333	GY	18
+Swarte Hoek	6.51683	-58.60643	GY	14
+Swarte Hoek Point	6.51612	-58.60463	GY	11
+Swarte Hoek Bank	6.5	-58.6	GY	00
+Swarte Hoek	6.51566	-58.6042	GY	00
+Swan en Schutz	6.81667	-58.2	GY	14
+Susannahs Rust	6.54805	-58.26467	GY	14
+Susannahs Rust	6.36202	-58.30756	GY	12
+Number Fifteen Susannah	6.30381	-57.46465	GY	13
+Surumatra	4.16667	-59.06667	GY	19
+Surapana	5.98333	-58.26667	GY	18
+Surama Village	4.16667	-59.08333	GY	19
+Support	6.62492	-58.19475	GY	12
+Supply	6.67322	-57.94107	GY	12
+Supply	6.62877	-58.19499	GY	12
+Supply	6.54727	-57.78928	GY	15
+Sunnyside	3.7	-59.65	GY	19
+Suddie	7.11377	-58.4756	GY	16
+Success	6.91315	-58.44015	GY	14
+Success	6.79504	-58.07482	GY	12
+Subryanville	6.82507	-58.13708	GY	12
+Strik en Heuvel	6.59709	-58.23432	GY	14
+Strathspey	6.76647	-58.02008	GY	12
+Strathavon	6.65399	-57.93068	GY	12
+Strangroen	6.6676	-57.88288	GY	15
+Stop-Off Rapids	6.61667	-58.98333	GY	11
+Stookie Land	5.73942	-57.53902	GY	13
+Number Seventy-four Stockholm	5.92128	-57.15396	GY	13
+Sting Ray Shoal	6.88333	-58.51667	GY	14
+Stillhorn	5.58333	-57.86667	GY	18
+Stewartville	6.84998	-58.29613	GY	14
+Stephenburg	5.73333	-57.5	GY	13
+Stena	6.37629	-58.31438	GY	14
+Saint Denny's Mission	7.23576	-58.58702	GY	16
+Stanleytown	6.73299	-58.20508	GY	14
+Stanleytown	6.23474	-57.51258	GY	13
+Standvastigheid	6.20154	-57.55168	GY	15
+Stampa	6.56229	-58.58404	GY	14
+Stamholder	6.31667	-58.31667	GY	14
+Stair	5.98333	-58.28333	GY	18
+Stadt Dantzig	5.78333	-57.65	GY	18
+Stabroek	6.8094	-58.16146	GY	12
+Spooner	6.54978	-57.789	GY	15
+Speculation	6.21024	-57.43518	GY	13
+Sparta	7.30732	-58.48683	GY	16
+Sparta	6.8325	-58.44373	GY	14
+Sparendaam	6.80454	-58.09617	GY	12
+Sophias Rust	6.30814	-58.28179	GY	14
+Sophia	6.57233	-57.80669	GY	15
+Sophiasburg	5.78333	-57.45	GY	13
+Sophia Point	6.32571	-58.58591	GY	18
+Sophia	6.81825	-58.12839	GY	12
+Somerset and Berks	7.40153	-58.56992	GY	16
+Somerset	7.4	-58.56667	GY	16
+Solitude	5.77327	-57.74053	GY	18
+Soldier Boy Reach	5.53333	-59.3	GY	17
+Soesdyke-Mackenzie Highway	6	-58.3	GY	00
+Soesdyke	6.54905	-58.22096	GY	12
+Soesdyke	6.54276	-58.20209	GY	14
+Soesdyke	6.78539	-58.28947	GY	14
+Slingleland	5.77302	-57.73705	GY	18
+Skull Point	6.3985	-58.6767	GY	11
+Skeldon Water Path	5.94493	-57.36469	GY	13
+Skeldon	5.88333	-57.13333	GY	13
+Skeldon	5.86667	-57.16667	GY	13
+Sisters	6.175	-57.5482	GY	13
+Sisipelin Village	4.65	-59.55	GY	17
+Sir James	6.28333	-57.53333	GY	15
+Sirikie	7.3	-58.66667	GY	16
+Siparuta Cliffs	5.3	-57.33333	GY	13
+Sion	5.66667	-57.83333	GY	18
+Sinking Ground	6.33932	-57.87174	GY	15
+Sinclair Landing	7.76667	-59.83333	GY	10
+Simirie	6.51667	-58.58333	GY	14
+Simirie	5.93333	-58.3	GY	18
+Simiri	7.21535	-58.67	GY	16
+Simeri	6.41112	-58.03585	GY	15
+Simeri Rapid	6.54217	-58.93747	GY	11
+Siddon's Landing	5.11667	-59.08333	GY	17
+Siberien	5.95	-58.28333	GY	18
+Shulinab	3.08333	-59.78333	GY	19
+Shudud Point	3.66667	-59.33333	GY	19
+Shimshumper Rapid	4.38333	-58.48333	GY	17
+Shelina	3.23333	-59.4	GY	19
+Lot Number One	6.2575	-57.50446	GY	13
+Shebedia	6.35856	-58.089	GY	12
+Shea Village	2.81667	-59.13333	GY	19
+Shea Landing	2.88333	-58.98333	GY	19
+Shea	2.98333	-59.01667	GY	19
+Sevenhoven	5.56667	-57.91667	GY	18
+Seons Landing	6.03492	-58.95343	GY	11
+Sehuruina	8.03333	-59.51667	GY	10
+Second Point	6.46981	-57.72596	GY	15
+Second Lagunash	8.24563	-59.57729	GY	10
+Sebastopol	6.15	-57.63333	GY	13
+Seba	5.75	-58.35	GY	18
+Seawell	6.30857	-57.50012	GY	13
+Scottsburg	5.91175	-57.13813	GY	13
+Scotland	6.19262	-57.58637	GY	15
+Schumakers Lust	6.22374	-57.55179	GY	15
+Schoonord	6.785	-58.19533	GY	14
+Scherners Vergenoegen	5.79426	-57.74367	GY	18
+Schepmoed	6.0275	-57.60244	GY	13
+Saxakalli Shoals	6.58333	-58.6	GY	14
+Saxakalli Point	6.57698	-58.60947	GY	14
+Saxakalli	6.57743	-58.6086	GY	14
+Saxakalli	6.57782	-58.61091	GY	14
+Sawariwaunawa	2.68333	-59.65	GY	19
+Sawari Rapids	5.68333	-59.65	GY	11
+Sawari Landing	6.33333	-59.5	GY	11
+Saturday Rapids	2.26667	-57.91667	GY	13
+Sarahs Rust	6.58566	-58.24048	GY	14
+Sarahs Hope	6.60165	-58.2332	GY	14
+Sarah Johanna	6.59358	-58.20878	GY	12
+Sarah	6.9678	-58.45779	GY	14
+Sarah	6.61261	-57.81983	GY	15
+Santuk Point	4.1	-58.5	GY	19
+Sant Hoek Point	6.35	-58.7	GY	11
+Santa Rosa Mission	7.65	-58.95	GY	10
+Santa Rosa Amerindian Village	7.65	-59.01667	GY	10
+Santa Maria	4.81667	-59.9	GY	17
+Santa Fe	3.78333	-59.6	GY	19
+Santa Cruz	7.65	-59.23333	GY	10
+Sans Souci	6.08215	-57.57248	GY	13
+Sans Souci	6.95514	-58.46733	GY	14
+Sans Souci	6.76207	-58.28135	GY	14
+Sans Souci	6.53824	-57.74236	GY	15
+Sans Souci	6.44146	-58.29226	GY	12
+Sandvoort	6.21222	-57.48624	GY	13
+Sanctuary	6.55257	-57.78369	GY	15
+Salu Point	3.28333	-57.6	GY	13
+Salton	6.20453	-57.28777	GY	13
+Salisbury	6.66667	-57.91667	GY	12
+Sali	5.81667	-59.7	GY	11
+Salem	6.83333	-58.435	GY	14
+Sakarara Point	6.35565	-58.60973	GY	11
+Saka	5.58333	-58.36667	GY	18
+Saints Lust	5.7	-57.81667	GY	18
+Saint Nicholas Mission	7.5	-58.95	GY	16
+Saint Monica Mission	7.23981	-58.78277	GY	16
+Saint Marys	6.24385	-58.58349	GY	11
+Saint Mary's	5.2	-59.01667	GY	17
+Saint Lawrence	6.80565	-58.4661	GY	14
+Saint John Rapid	6.81667	-59.96667	GY	11
+Saint John	6.39146	-57.6145	GY	15
+Saint Ignatius	3.33333	-59.8	GY	19
+Saint Hoke Point	6.33333	-58.7	GY	11
+Saint Gravenaage	6.17789	-57.64477	GY	15
+Saint Francis Amerindian Village	6.09273	-57.95648	GY	00
+Saint Elizabeth	5.68333	-57.76667	GY	18
+Saint Edwards Mission	6.3713	-58.69808	GY	11
+Saint Cuthberts Mission	6.36873	-58.08666	GY	12
+Saint Benedict Mission	7.81667	-59.83333	GY	10
+Saint Bede's Mission	7.56667	-59.46667	GY	10
+Saint Andrew Point	6.31667	-57.5	GY	13
+Sabrek	5.5	-59.7	GY	11
+Sabernawau Village	2.33333	-59.23333	GY	19
+Rusthoef	5.7	-57.83333	GY	18
+Rustenburg	5.63333	-57.8	GY	18
+Rushbrook	6.93468	-58.47092	GY	14
+Rupununi Savannahs	3	-59.5	GY	19
+Ruimzigt	6.82331	-58.23076	GY	14
+Ruimveldt Industrial Estate	6.79263	-58.16512	GY	12
+Ruimveldt	6.79194	-58.15472	GY	12
+Ruby	6.86063	-58.38568	GY	14
+Ross	6.45548	-57.64095	GY	15
+Rosignol	6.27095	-57.53697	GY	15
+Rosignol	6.27996	-57.54866	GY	15
+Rosetta	6.72152	-58.26506	GY	14
+Rosenburg	5.7	-57.76667	GY	18
+Rome	6.77795	-58.15111	GY	12
+Roden Rust	6.82885	-58.44818	GY	14
+Robbstown	6.81317	-58.16686	GY	12
+Rising Sun	6.08333	-57.2	GY	13
+Rising Sun	6.48178	-57.67961	GY	15
+Rising Sun	6.21093	-57.48266	GY	13
+Rising Sun	6.08333	-57.18333	GY	13
+Point Rightabout	3.41667	-57.26667	GY	13
+Richmond	7.27572	-58.49996	GY	16
+Richmond	6.23333	-58.3	GY	14
+Reynstein	6.64409	-58.22497	GY	14
+Retrieve	6.94491	-58.37233	GY	14
+Retrieve	6.56022	-57.79148	GY	15
+Retreat	5.4	-58.4	GY	18
+Retreat	6.63095	-57.91381	GY	12
+Retreat	6.01667	-57.16667	GY	13
+Number Twenty-two Retmeyer	6.26523	-57.44592	GY	13
+Resource	6.23998	-57.34091	GY	13
+Relief	6.62	-58.19361	GY	12
+Reliance	7.2456	-58.4992	GY	16
+Number Six Reliance	6.24401	-57.46946	GY	13
+Regenbach	6.63166	-57.88672	GY	15
+Red Lock	7.26667	-58.51667	GY	16
+Red Cliffs	2.36667	-57.43333	GY	13
+Recht door Zee	6.78208	-58.23375	GY	14
+Recess	6.55412	-57.75393	GY	15
+Rebeccas Lust	6.64934	-57.8609	GY	15
+Realmond	5.46667	-57.95	GY	18
+Rappu Rapid	4.18333	-58.46667	GY	19
+Ramsburg	6.75225	-58.16764	GY	12
+Rachael	6.7	-58.2	GY	14
+Raad	2.61667	-59.9	GY	19
+Quineballi	6.39283	-58.04795	GY	12
+Questina	6.23333	-58.58333	GY	11
+Queenstown	6.81548	-58.15026	GY	12
+Queenstown	7.19843	-58.48929	GY	16
+Queenstown	5.89365	-57.14949	GY	13
+Quartzstone Landing	6.75	-59.16667	GY	11
+Puwa Village	4.51667	-59.98333	GY	17
+Pukasanta Village	3.06667	-58.9	GY	19
+Cachoeira Pukalid-pawa	2.2	-59.73333	GY	00
+Puduruk	4.75	-58.71667	GY	17
+Pubu	5.23333	-58.61667	GY	18
+Providence	6.76337	-58.17608	GY	12
+Providence	6.20275	-57.51472	GY	13
+Providence	7.48604	-58.63159	GY	16
+Prosperity	6.73083	-58.15462	GY	12
+Prosperite	5.68333	-57.83333	GY	18
+Prospect	6.73174	-58.17792	GY	12
+Prospect	6.65266	-57.86441	GY	15
+Number Six Prospect	6.27288	-57.48787	GY	13
+Number Twenty Promised Land	6.26889	-57.45135	GY	13
+Profit	6.7605	-58.14798	GY	12
+Profit	6.52145	-57.72297	GY	15
+Prince William	6.18389	-57.4445	GY	13
+Princetown	5.90486	-57.13915	GY	13
+Princess Carolina	6.48931	-58.30364	GY	14
+Primos Inlet	3.88333	-58.38333	GY	19
+Present Hope	6.80213	-58.46907	GY	14
+Prashad Nagar	6.81817	-58.13148	GY	12
+Powisanau Village	2.53333	-59.45	GY	19
+Potters Hope	5.65	-57.86667	GY	18
+Potosi	6.66635	-58.21393	GY	14
+Poterima	6.28508	-58.58513	GY	11
+Potaro Landing	5.38333	-59.13333	GY	17
+Post Arinda Inlet	4.78333	-58.8	GY	17
+Post Arinda	4.76667	-58.78333	GY	17
+Port Mourant Water Path	6.08142	-57.41524	GY	13
+Port Mourant	6.24604	-57.3336	GY	13
+Port Mourant	6.24483	-57.35258	GY	13
+Port Kaituma	7.72987	-59.87514	GY	10
+Popekai Rapids	6.76634	-59.29845	GY	11
+Pomona	7.05883	-58.48241	GY	16
+Pomeroon-Supenaam Region	7.08333	-58.83333	GY	16
+Pomeroon Point	7.61667	-58.73333	GY	16
+Plegt Anker	6.1008	-57.59437	GY	13
+Pleasing Hope	6.95725	-58.38671	GY	14
+Plaisance	6.80227	-58.09484	GY	12
+Pisham-Pisham Rapids	4.43333	-58.48333	GY	17
+Piruru Cliffs	5.2	-57.28333	GY	13
+Pirara	3.61667	-59.66667	GY	19
+Pine Ground	6.41505	-57.78313	GY	15
+Pilinawa	2.76667	-59.68333	GY	19
+Pikalid-Din	3.28333	-59.45	GY	19
+Pickersgill	7.25761	-58.72194	GY	16
+Phoenix Town	6.8	-58.2	GY	14
+Phoenix	6.90348	-58.45244	GY	14
+Phoenix	6.46198	-57.64923	GY	15
+Philippi	6.18333	-57.25	GY	13
+Philand	7.01667	-58.5	GY	16
+Philadelphia	6.86091	-58.36558	GY	14
+Philadelphia	6.19011	-57.45225	GY	13
+Philadelphia	5.85	-57.66667	GY	15
+Petite Bretagne	5.73333	-57.45	GY	13
+Peters Lust	5.65	-57.81667	GY	18
+Peters Hoff	5.58333	-57.9	GY	18
+Petersburg	5.73333	-57.46667	GY	13
+Perth	6.55872	-57.80143	GY	15
+Perth	7.35323	-58.49888	GY	16
+Perth	6.562	-57.81473	GY	15
+Perseverance	7.15117	-58.48551	GY	16
+Perseverance	6.75772	-58.14057	GY	12
+Perseverance	6.62236	-57.82931	GY	15
+Peropo	4.13333	-59.11667	GY	19
+Penal Settlement	6.4	-58.65	GY	11
+Peinkamarika Rapid	6.81667	-59.78333	GY	11
+Peerboom	5.63333	-57.86667	GY	18
+Pedder Shoal	6.73333	-58.55	GY	14
+Pearl	6.58908	-58.2085	GY	12
+Pattensen	6.81573	-58.12324	GY	12
+Patientia	6.53991	-58.61853	GY	14
+Patentia	6.69847	-58.20011	GY	14
+Parishara	3.45422	-59.573	GY	19
+Paripi	5.78333	-58.36667	GY	18
+Parikaranal	3.56667	-59.58333	GY	19
+Parika	6.83712	-58.42941	GY	14
+Parapimai	7.36667	-59.66667	GY	10
+Paramakatoi	4.71667	-59.7	GY	17
+Paradise	5.56667	-57.91667	GY	18
+Paradise	7.33782	-58.48897	GY	16
+Paradise	6.75717	-58.00023	GY	12
+Paradise	6.50309	-57.69554	GY	15
+Palmyra Bank	6.9	-58.5	GY	14
+Palmyra	6.93333	-58.98333	GY	16
+Palmyra	6.61311	-57.9042	GY	12
+Palmyra	6.28333	-57.5	GY	13
+Palmyra	5.6	-58.36667	GY	18
+Palmers Point	6.38844	-58.66992	GY	11
+Pakutout Rapids	6.8	-59.95	GY	11
+Paku Rapids	6.83333	-59.95	GY	11
+Paku Rapids	4.4	-58.48333	GY	17
+Paku-Poku Rapids	6	-59.28333	GY	11
+Pakani	4.25	-58.46667	GY	19
+Pakaburi Hole	5.94247	-59.12405	GY	11
+Paiyuka Rapid	6.70425	-59.04843	GY	11
+Paiwori-Kaira Rapid	5.18333	-58.81667	GY	18
+Paiwarima Point	3.26667	-57.6	GY	13
+Ostermeer	5.8	-57.71667	GY	18
+Osterbeck	6.90986	-58.4439	GY	14
+Osterbeck	5.66667	-57.8	GY	18
+Ostend	6.78362	-58.27755	GY	14
+Oronoqueballi	6.39379	-58.03775	GY	15
+Ornik	7.75	-59.86667	GY	10
+Ormsary	6.59836	-57.81075	GY	15
+Orealla Cliffs	5.31667	-57.33333	GY	13
+Orealla	5.31667	-57.33333	GY	13
+Ordnance Fort Lands	6.30428	-57.50641	GY	13
+Orangestein	6.85933	-58.40127	GY	14
+Orange Nassau	6.71483	-57.93815	GY	12
+Orange Nassau	6.60096	-57.90002	GY	12
+Oranapai Rapids	6.06667	-59.91667	GY	11
+Oranapai Landing	6.06667	-59.91667	GY	11
+Opposite	7.38333	-58.55	GY	16
+Op Hoop van Beter	6.19684	-57.63597	GY	15
+Onverwagt	6.42095	-57.62478	GY	15
+Onderwinding	6.35	-58.28333	GY	14
+Onderneeming	7.10634	-58.48532	GY	16
+Onderneeming	6.78004	-58.23037	GY	14
+Onderneeming	6.38339	-57.61374	GY	15
+Onderneeming	5.98115	-57.62128	GY	13
+Omakwia	5.53333	-58.36667	GY	18
+Omai Landing	5.43333	-58.75	GY	11
+Oleron	5.73333	-57.48333	GY	13
+Old Virginia	5.76667	-57.66667	GY	18
+Old Vigilante	5.84908	-57.69159	GY	15
+Old Post	6.189	-57.88541	GY	15
+Old England	5.97223	-58.27464	GY	18
+Old Dageraad	5.86623	-57.68219	GY	15
+Old Alness Water Path	6.07557	-57.40194	GY	13
+Okuwa Landing	5.83333	-59.35	GY	11
+Okum	6.94121	-58.37431	GY	14
+Oko	6.41667	-59.08333	GY	11
+Okabo	7.6	-59.68333	GY	10
+Ohina	7.51667	-59.71667	GY	10
+Ogle	6.8133	-58.10198	GY	12
+Oxipau	2.28333	-59.78333	GY	00
+Nymegen	5.46667	-57.93333	GY	18
+Nurney	6.1919	-57.27318	GY	13
+Number Zero	6.28333	-57.4	GY	13
+Number Twenty-six	6.26128	-57.43541	GY	13
+Number Twenty-four	6.26487	-57.44106	GY	13
+Number Twenty-eight	6.2586	-57.42949	GY	13
+Number Twelve	6.53739	-57.79268	GY	15
+Number Twelve	6.35658	-57.58314	GY	15
+Number Thirty-two	6.25916	-57.42054	GY	13
+Number Thirty-six	6.25338	-57.40932	GY	13
+Number Thirty-four	6.25479	-57.41278	GY	13
+Number Thirty-eight	6.25394	-57.4046	GY	13
+Number Thirty	6.26015	-57.42505	GY	13
+Number Ten	6.56851	-57.88626	GY	15
+Number Ten	6.54369	-57.78833	GY	15
+Number Ten	6.22537	-57.45675	GY	13
+Number Sixty-two	5.99069	-57.16158	GY	13
+Number Sixty-six	5.9662	-57.16142	GY	13
+Number Sixty-seven	5.96328	-57.15489	GY	13
+Number Sixty-one	5.99576	-57.16126	GY	13
+Number Sixty	5.9981	-57.16707	GY	13
+Number Seventy-six	5.91667	-57.15	GY	13
+Number Seventy-seven	5.90394	-57.15116	GY	13
+Number Seventy-nine Kingston	5.88333	-57.15	GY	13
+Number Seventy-eight	5.9	-57.13333	GY	13
+Number Seven Adelphi	6.2392	-57.4664	GY	13
+Number Seven	6.29792	-57.48358	GY	13
+Number Nine Balthyock	6.24506	-57.55549	GY	15
+Number Fourteen	6.26604	-57.46662	GY	13
+Number Forty-six	6.08333	-57.2	GY	13
+Number Forty-one	6.4739	-57.67273	GY	15
+Number Forty-nine Mary's Hope	6.06667	-57.18333	GY	13
+Number Forty-five	6.1	-57.2	GY	13
+Number Forty	6.47003	-57.66929	GY	15
+Number Forty	6.25331	-57.39882	GY	13
+Number Five	6.298	-57.48905	GY	13
+Number Fifty-two	6.03333	-57.18333	GY	13
+Number Fifty-one	6.05	-57.18333	GY	13
+Number Fifty-nine	6	-57.16667	GY	13
+Number Fifty-five	6.01667	-57.16667	GY	13
+Number Eighty	5.88333	-57.15	GY	13
+Now or Never	6.61672	-57.82246	GY	15
+Novar	6.55401	-57.76333	GY	15
+Nouvelle Flanders	6.82132	-58.20563	GY	14
+Nottinghamshire	5.98333	-58.28333	GY	18
+North Fork	6.03333	-59.8	GY	11
+Nooten Zuil	6.71222	-57.96858	GY	12
+Non Pareil	6.77755	-58.01019	GY	12
+Nomen Nescio	6.17343	-57.64603	GY	15
+Noitgedacht	6	-58.3	GY	18
+Noitgedacht	6.94769	-58.45718	GY	14
+Noitgedacht	6.76184	-58.27091	GY	14
+Noitgedacht	6.65394	-57.90375	GY	15
+Nog Eens	6.77072	-58.04613	GY	12
+Nismes	6.75422	-58.20407	GY	14
+Nismes	6.75421	-58.21359	GY	14
+Nile	7.48263	-58.62659	GY	16
+Number Six Nigg	6.24775	-57.37697	GY	13
+Nieuw Hoop	6.14935	-57.64702	GY	15
+Nieu Haarden	5.91667	-58.3	GY	18
+New York	7.58333	-58.71667	GY	16
+New Vigilantie	6.06261	-57.58179	GY	13
+Newtown	6.81377	-58.14444	GY	12
+New Saint Eustatius	6.46864	-58.30074	GY	12
+New Providence	6.52276	-57.8121	GY	15
+Number Sixty-five New Market	5.97388	-57.15628	GY	13
+New Ma Retraite	6.03689	-57.60012	GY	13
+New Levant	5.61667	-57.86667	GY	18
+New Hope	6.67967	-58.17282	GY	12
+New Haven	6.08333	-58.13333	GY	12
+New Hanover	6.46667	-58.31667	GY	14
+New Guinea	3.66667	-59.68333	GY	19
+New Goed Raad	5.76667	-57.45	GY	13
+New Friendship	6.94606	-58.47398	GY	14
+New Found Out	6.37751	-58.05772	GY	15
+New Found Out	6.40584	-58.58297	GY	18
+New Dageraad	6.02229	-57.7015	GY	15
+New Caracas	5.65	-57.86667	GY	18
+Newburg	6.80577	-58.1602	GY	12
+New Belle Plaine	6.95523	-58.44562	GY	14
+New Aanlegt	6.73614	-58.26587	GY	14
+Neville	6.15	-57.21667	GY	13
+Never Expect Point	6.38333	-58.66667	GY	11
+Neufchatel	6.66243	-57.90624	GY	15
+Fort Nassau	5.7583	-57.65743	GY	18
+Nappi Village	3.41466	-59.57597	GY	19
+Nabaclis	6.75115	-57.97825	GY	12
+Nababana	8.06667	-59.83333	GY	10
+Naarstigheid	6.38234	-57.59959	GY	15
+Naamryck Shoal	6.88333	-58.43333	GY	14
+Naamryck	6.83885	-58.4359	GY	14
+Naamless	6.80493	-58.48383	GY	14
+Mutusi Hole	6.01205	-58.96798	GY	11
+Muritaro	5.83333	-58.35	GY	18
+Muraru	7.68333	-58.98333	GY	10
+Mullenburg	5.88333	-57.4	GY	13
+Mullenburg	5.88333	-57.41667	GY	13
+Mullenburg	5.70913	-57.50784	GY	13
+Mulheim	6.60833	-57.88011	GY	15
+Muhokaiha	7.96667	-59.83333	GY	10
+Muchuri Rapids	6.03195	-58.57394	GY	18
+Mubohina	7.58333	-59.13333	GY	10
+Mowassi Landing	5.16667	-58.83333	GY	18
+Mowariparu Rapids	4.46667	-58.83333	GY	17
+Moses Rapids	6.038	-58.59314	GY	18
+Moses Channel	7	-58.48333	GY	14
+Mortice	6.51763	-57.81601	GY	15
+Morison	5.75	-57.18333	GY	13
+Morgenstand	5.73333	-57.73333	GY	18
+Moreru	3.91667	-59.53333	GY	19
+Moreiru	3.9	-59.55	GY	19
+Morebo Itabu	7.88255	-59.31213	GY	10
+Morawhanna	8.27061	-59.75446	GY	10
+Morasi	6.76433	-58.49116	GY	14
+Moraru Landing	7.15675	-58.68466	GY	16
+Mora Point	6.43729	-57.77764	GY	15
+Morakaira	5.71667	-58.38333	GY	18
+Mora Itabu	5.53333	-58.36667	GY	18
+Saint Francis Mission	6.09855	-57.95084	GY	15
+Mora	6.8345	-58.44159	GY	14
+Mora	5.68333	-58.36667	GY	18
+Mora	5.65	-57.56667	GY	13
+Mora	5.53333	-58.35	GY	18
+Mopay Rapids	6.75	-59.31667	GY	11
+Montrose	6.80008	-58.08407	GY	12
+Montauban	5.45	-57.95	GY	18
+Mon Repos	6.77698	-58.06052	GY	12
+Mon Repos	5.7	-57.76667	GY	18
+Monkey Jump	6.25	-58.56667	GY	18
+Monkers	7.55489	-58.68491	GY	16
+Mongreppo	6.39768	-58.6208	GY	11
+Mon Desir	6.72091	-58.25679	GY	14
+Mon Choisi	6.31346	-57.56671	GY	15
+Mon Bijou	6.78333	-58.25	GY	14
+Mon Bijou	5.68333	-57.48333	GY	13
+Mokomoko Point	5.73333	-58.6	GY	18
+Mokamoka	6.7	-58.98333	GY	11
+Modder Bush Bank	6.85	-58.48333	GY	14
+Moco-Moco Village	3.33333	-59.66667	GY	19
+Moca Moca	6.4745	-57.78682	GY	15
+Mocha	7.19994	-58.49858	GY	16
+Mocha	6.73146	-58.15682	GY	12
+Miss Jane Itabu	5.48333	-58.38333	GY	18
+Mission Landing	7.75	-59.86667	GY	10
+Mingemama	5.55	-57.61667	GY	13
+Mid Lau Lau	6.6482	-58.58986	GY	14
+Middlesex	7.04724	-58.49247	GY	16
+Middlesex	6.74367	-58.23319	GY	14
+Middle Ground	6.9	-58.4	GY	14
+Middleburg Welvaren	6.19272	-57.63633	GY	15
+Mibikuri	6.10546	-57.2824	GY	13
+Met en Meerzorg	6.85771	-58.32324	GY	14
+Mesopotamia	5.91667	-57.7	GY	15
+Mes Delices	6.76228	-58.25588	GY	14
+Mes Delices	6.66545	-57.87964	GY	15
+Number Twenty-nine Mervil	6.28753	-57.42679	GY	13
+Meritizero	3.75	-59.58333	GY	19
+Menzies Landing	5.16667	-59.48333	GY	17
+Melville	6.96667	-58.46667	GY	14
+Melville	6.63503	-57.9119	GY	12
+Meerzorg	6.98892	-58.43056	GY	14
+Meer Zorgen	6.7802	-58.20782	GY	14
+McKenzie Rapids	4.73333	-58.18333	GY	18
+McIntyres Landing	7.61667	-59.91667	GY	10
+Mc Doom	6.78371	-58.16827	GY	12
+Mazawini Landing	7.36667	-59.95	GY	10
+Mayer Beck	5.55	-57.93333	GY	18
+Mauridai	3.05	-59.78333	GY	19
+Maurasima	5.4	-59.15	GY	17
+Number Seventy Massiah	5.94025	-57.16611	GY	13
+Massara	3.9	-59.3	GY	19
+Massara	4.03333	-58.43333	GY	19
+Massakura	5.13333	-58.61667	GY	18
+Masaetayourau Inlet	3.93333	-58.41667	GY	19
+Masabona	5.6	-58.38333	GY	18
+Maryville	6.92054	-58.41687	GY	14
+Marys Hope	6.66412	-57.93264	GY	12
+Number Thirty-five Marysburg	6.29233	-57.41109	GY	13
+Number Seventy-eight Mary and Eliza	5.89871	-57.14674	GY	13
+Mary	6.57729	-57.79804	GY	15
+Marurawaunawa Village	2.75	-59.16667	GY	19
+Martins Burial Ground	6.53156	-57.89222	GY	15
+Marowa	6.44157	-58.02642	GY	12
+Marlborough	7.49379	-58.64378	GY	16
+Mariwa Village	3.05	-59.66667	GY	19
+Maripa	6.76667	-58.48333	GY	14
+Marionville	6.965	-58.44017	GY	14
+Marienburg	5.74336	-57.5152	GY	13
+Marias Pleasure	6.97783	-58.43316	GY	14
+Marias Delight	7.39153	-58.54051	GY	16
+Marias Delight	7.31667	-58.53333	GY	16
+Maria Johanna	6.94154	-58.46233	GY	14
+Maria Isabella	5.63333	-57.85	GY	18
+Maria Henrietta	5.61667	-57.86667	GY	18
+Maria Helena	5.97716	-57.62404	GY	13
+Maria Elizabeth	6.91667	-58.43333	GY	14
+Maria and Wenard	5.83803	-57.65928	GY	13
+Maria Agnetta	5.65	-57.78333	GY	18
+Maria	6.14999	-57.62411	GY	13
+Maria	5.8	-57.73333	GY	18
+Ma Retraite	6.04022	-57.59238	GY	13
+Maramara Landing	6.3	-59.33333	GY	11
+Marakanata	3.6	-59.55	GY	19
+Macouba	6.38754	-58.3083	GY	14
+Marabishi	5.95236	-57.35752	GY	13
+Marabiakru Cliffs	5.7	-59.86667	GY	11
+Marabaka	7.91667	-59.71667	GY	10
+Mara	6.00834	-57.60221	GY	13
+Mapruka	4.88333	-60	GY	17
+Manuwau	2.55	-59.46667	GY	19
+Manilla	6.66983	-57.88534	GY	15
+Mango Tree Landing	6.28333	-58.35	GY	14
+Manchester	6.21457	-57.30507	GY	13
+Manawarin Amerindian Village	7.53333	-58.91667	GY	10
+Manawarin	7.58333	-58.86667	GY	10
+Manarowa	3.3	-58.1	GY	19
+Manari Village	7.51667	-59.83333	GY	10
+Manari Rapids	6.05	-58.58333	GY	18
+Manari	3.48333	-59.71667	GY	19
+Manari	3.43333	-59.76667	GY	19
+Manarabisi Itabu	6.39511	-58.75279	GY	11
+Manarabisi Hole	6.4	-58.75	GY	11
+Manarabisi	5.95	-57.36667	GY	13
+Manaka	6.7136	-58.60151	GY	14
+Mamir Pawa	1.96667	-59.73333	GY	19
+Mamarikuru Bank	6.61667	-58.6	GY	14
+Mamariku	6.60885	-58.59729	GY	14
+Mamakabra	6.76667	-58.6	GY	14
+Lot Forty-four	6.15504	-58.28311	GY	14
+Malouf Landing	5.63333	-59.01667	GY	11
+Malgre Tout	6.79871	-58.20573	GY	14
+Malali Rapids	5.61667	-58.36667	GY	18
+Malali	5.61667	-58.35	GY	18
+Makwakuru	6.68896	-58.59983	GY	14
+Makouria	6.47557	-58.58413	GY	14
+Makeshift	7.01413	-58.49766	GY	16
+Makasima	7.25	-58.71667	GY	16
+Makari Rapid	6.01667	-58.95	GY	11
+Makari	4.55	-58.55	GY	17
+Maipuri Landing	4.56667	-58.58333	GY	17
+Mainstay/Whyaka Amerindian Village	7.24057	-58.55539	GY	16
+Mainstay	7.24174	-58.50016	GY	16
+Maikwak	4.91667	-59.81667	GY	17
+Maida	6.18361	-57.25766	GY	13
+Mahdia	5.26667	-59.15	GY	17
+Mahaicony Village	6.57633	-57.80486	GY	15
+Mahaica Village	6.68405	-57.92181	GY	12
+Mahaica Itabu	6.41667	-58.01667	GY	15
+Mahaica-Berbice Region	6.25	-57.83333	GY	15
+Mahaicaballi	5.95	-58.33333	GY	18
+Magdalenburg	5.71667	-57.46667	GY	13
+Magdalena Maria	5.81667	-57.46667	GY	13
+Macusi Village	3.06667	-59.71667	GY	19
+Macouba	6.38111	-57.78811	GY	15
+Mackenzie Landing	4.26667	-58.3	GY	13
+Mackenzie	6.00535	-58.30457	GY	18
+Macbid-pawa	2.8	-59.98333	GY	00
+Machabo	7.05	-58.55	GY	16
+Macedonia	6.15	-57.23333	GY	13
+Macaw Trench	6.12475	-57.61812	GY	13
+Macaw	6.08333	-57.58333	GY	13
+Lust tot Rust	6.78312	-58.23717	GY	14
+Lust tot Rust	6.12641	-57.64228	GY	15
+Lustenburg	5.86667	-57.46667	GY	13
+Lusignan	6.76975	-58.04364	GY	12
+L'Union	7.19248	-58.49601	GY	16
+Lumidpau	2.4	-59.48333	GY	19
+Lukudaia Rapid	5.63333	-58.4	GY	18
+Lucky Spot	5.96525	-58.31725	GY	18
+Low Wood	6.42526	-58.28764	GY	12
+Lowlands	6.71643	-57.96386	GY	12
+Lower Simerie	5.93333	-58.31667	GY	18
+Lower Kamaria	6.4116	-58.76286	GY	11
+Lovely Lass	6.4179	-57.62177	GY	15
+Louisiana	6.9	-58.43333	GY	14
+Lot Number Three	5.97224	-57.62552	GY	13
+Lot Number Six	5.95789	-57.63288	GY	13
+Lot Number Seven	5.95431	-57.63431	GY	13
+Lot Number Four	5.96787	-57.62858	GY	13
+Lot Number Five	5.96284	-57.63046	GY	13
+Lorenza	6.7	-58.2	GY	14
+L'Oratoire	6.75875	-58.23804	GY	14
+Loo Lands	6.29337	-58.2646	GY	12
+Loo Lands	6.25428	-58.27357	GY	12
+Lookout	6.8393	-58.43112	GY	14
+Lookabu	6.80088	-58.47425	GY	14
+Lonsdale	6.17695	-57.53758	GY	13
+Long Licker Rapids	4.85	-58.23333	GY	18
+Locust Point	6.05095	-57.78606	GY	15
+Lochaber	6.23703	-57.49435	GY	13
+Lizard Point	5.13333	-59.05	GY	17
+Liverpool	6.21564	-57.30881	GY	13
+Little Wamaina	8.01667	-59.91667	GY	10
+Number Seventy-one Little Massiah	5.93559	-57.15821	GY	13
+Little Kusowe Rapid	5.95	-59.06667	GY	11
+Little Kaniaballi Amerindian Village	7.66667	-59.21667	GY	10
+Little Kaniaballi	7.68333	-59.25	GY	10
+Little Geetruydenburg	5.89166	-57.63773	GY	13
+Little Diamond	6.7275	-58.17723	GY	12
+Number Nine Little Bleyendaal	6.2314	-57.45841	GY	13
+Alliance	7.20636	-58.49871	GY	16
+Line Path	5.86667	-57.16667	GY	13
+Lindhirst	7.6	-58.73333	GY	16
+Linden	6.00809	-58.30714	GY	18
+L'Incertitude	6.62603	-58.2314	GY	14
+Limlair	6.19489	-57.27971	GY	13
+Lima	7.28891	-58.49119	GY	16
+Liliendaal	6.81692	-58.12585	GY	12
+Lilienburg	5.7	-57.78333	GY	18
+Light Town	6.16305	-57.62125	GY	13
+Leyden	6.31667	-58.3	GY	14
+Number Nine Lewis Manor	6.30277	-57.48023	GY	13
+L'Everest	6.43333	-58.28333	GY	12
+Letter Kenny	6.22195	-57.32324	GY	13
+Lethem	3.38333	-59.8	GY	19
+Less Beholding	6.05	-57.4	GY	13
+L'Esperance	6.00353	-57.62152	GY	13
+L'Esperance	6.76155	-58.27622	GY	14
+L'Esperance	6.58306	-58.24174	GY	14
+Lesbeholden	6.14633	-57.30187	GY	13
+Le Ressouvenir	6.79965	-58.07776	GY	12
+Le Repentir	6.7995	-58.15407	GY	12
+Leonora	6.8511	-58.28896	GY	14
+L'Enterprise	6.03048	-57.60034	GY	13
+L'Enterprise	6.57339	-57.80524	GY	15
+Leguan Bank	6.98333	-58.3	GY	14
+Leewenburg	5.71022	-57.52213	GY	13
+Leert Zorgen	6.59237	-58.23817	GY	14
+Leeds	6.0549	-57.1761	GY	13
+Leeds	6.05	-57.18333	GY	13
+Le Destin	6.86077	-58.39343	GY	14
+Le Desir	6.76164	-58.26244	GY	14
+Le Bon Pere	6.61789	-57.90559	GY	12
+Laurienenburg	5.68961	-57.52498	GY	13
+Laurentia Catherina	6.68555	-58.20903	GY	14
+Low Low Point	6.43909	-58.01452	GY	15
+Lau Lau	6.67655	-58.5774	GY	14
+Larimakabra	6.79404	-58.47532	GY	14
+La Retraite	6.73825	-58.21644	GY	14
+La Resource	7.38333	-58.51667	GY	16
+La Resource	6.71823	-58.24275	GY	14
+La Resource	6.33333	-58.31667	GY	12
+La Reconnaissance	6.77452	-58.03453	GY	12
+La Raisonable	6.59337	-57.8082	GY	15
+La Prudence	6.00454	-57.60966	GY	13
+La Providence	5.73333	-57.46667	GY	13
+La Penitence	6.79583	-58.15528	GY	12
+La Patience	5.73333	-57.43333	GY	13
+La Parfaite Harmonie	6.78093	-58.22313	GY	14
+La Paix	5.78333	-57.45	GY	13
+Langendaal	5.73556	-57.52294	GY	13
+Lands of Osborne	6.38333	-58.31667	GY	14
+Landskroon	5.63333	-57.88333	GY	18
+Land of Promise	7.51136	-58.64386	GY	16
+Land of Promise	6.61019	-57.90426	GY	12
+Land of Plenty	7.2379	-58.50201	GY	16
+Land of Canaan	6.60198	-58.20002	GY	12
+Land of Canaan	6.60198	-58.20002	GY	12
+Land of Canaan	6.17442	-57.44417	GY	13
+Lancaster	5.83333	-58.25	GY	18
+Lancaster	6.70601	-57.92946	GY	12
+Lancaster	6.21831	-57.31218	GY	13
+Lanaballi Point	6.59437	-58.57172	GY	14
+Lanaballi	6.61749	-58.57173	GY	14
+Lanaballi	6.61253	-58.57109	GY	14
+Lana	6.49395	-58.28784	GY	12
+L'Amitie	6.6864	-57.89927	GY	15
+Lama Stop Off	6.5349	-58.01885	GY	12
+Lamaha Gardens	6.81105	-58.13361	GY	12
+Laluni	6.36667	-57.85	GY	15
+La Jeanette	6.64318	-57.88877	GY	15
+La Jalousie	6.84974	-58.24967	GY	14
+L'Heureuse Adventure	6.75742	-58.22557	GY	14
+La Harmonie	6.61546	-58.23265	GY	14
+La Grange	6.77473	-58.20766	GY	14
+La Fraternite	6.21875	-57.55377	GY	15
+Ladys Hope Point	6.35	-58.7	GY	11
+Lacytown	6.81284	-58.16411	GY	12
+La Constance	5.73333	-57.45	GY	13
+Labradore	6	-59.8	GY	11
+La Bonne Mere	6.66069	-57.93764	GY	12
+La Bonne Intention	6.78433	-58.06741	GY	12
+La Belle Alliance	7.28438	-58.49163	GY	16
+Fort Kyk over Al	6.38333	-58.68333	GY	11
+Kwinaballi	7.38387	-58.77269	GY	16
+Kwatata	3.63333	-59.5	GY	19
+Kwakwani	5.28333	-58.05	GY	18
+Kwaimatta Village	3.81667	-59.33333	GY	19
+Kwabanna Amerindian Village	7.53333	-59.1	GY	10
+Kwabanna	7.56667	-59.15	GY	10
+Kuyuwini Landing	2.08333	-59.25	GY	19
+Kuyaliwak Rapid	4.91667	-58.81667	GY	18
+Kuterdiku	3.01667	-59.68333	GY	19
+Koetari Rivier	2.35	-56.86667	GY	00
+Kurupukari	4.66667	-58.66667	GY	18
+Kuriaro	5.96667	-59.53333	GY	11
+Kuratoka Rapids	4.6	-58.61667	GY	17
+Kurakura	5.5	-58.61667	GY	18
+Kurahara	6.25	-57.86667	GY	15
+Kumukowau	2.96667	-58.95	GY	19
+Kumiaparu	4.55	-59.75	GY	17
+Kumaru	6.71879	-58.58435	GY	14
+Kumaru	5.88333	-58.35	GY	18
+Kumaramara	6.40303	-58.03639	GY	15
+Kumaparu Rapids	5.4	-58.51667	GY	18
+Kumaka Serima	6.15307	-58.57995	GY	11
+Kumaka Serima Landing	6.15	-58.58333	GY	11
+Kumaka Point	7.05	-58.95	GY	16
+Kumakanda Landing	7.43333	-59.56667	GY	10
+Kumaka Landing	5.41667	-58.83333	GY	11
+Kumaka	8.2	-59.8	GY	10
+Kumaka	7.65	-58.95	GY	10
+Kumaka	5.58333	-57.93333	GY	18
+Kumaka	5.66667	-58.38333	GY	18
+Kumaka	3.9	-58.38333	GY	19
+Kularu	5.95	-58.33333	GY	18
+Kukui-Eng Village	4.58333	-59.66667	GY	17
+Kujarou Bank	6.45	-58.6	GY	18
+Kuiwa	5.28333	-59.8	GY	17
+Kucheran Ford	2.68333	-59.5	GY	19
+Kuanituri	7.7681	-59.07655	GY	10
+Krau Krau Itabu	6.21508	-57.90726	GY	15
+Kotoewau	2.3	-59.15	GY	19
+Kortberaad	6.17012	-57.56881	GY	13
+Koriabo	7.61591	-59.64243	GY	10
+Kopinang Mission	4.93333	-59.8	GY	17
+Kopinang	4.96667	-59.9	GY	17
+Konoramu	4.05	-59.48333	GY	19
+Konawaruk	5.26667	-59	GY	17
+Konashen Rapids	1.56667	-58.63333	GY	19
+Konashen	1.56667	-58.68333	GY	19
+Kolobia	6.41981	-58.03085	GY	12
+Kokerite Reef	6	-57.25	GY	13
+Kokerite Mission	7.51667	-58.76667	GY	16
+Kokerite Landing	7.33333	-59.56667	GY	10
+Kokerite	7.3338	-59.58998	GY	10
+Kokatara Village	6	-58.3	GY	18
+Kokali Point	8.05	-59.13333	GY	10
+Kokali Point	8.05207	-59.14791	GY	10
+Klyzenaar	6.64032	-57.89025	GY	15
+Klyn en Rhyn	6.71743	-58.2508	GY	14
+Klien Pouderoyen	6.80438	-58.21178	GY	14
+Klien Poelgeest	5.4	-57.96667	GY	18
+Klien Paris	6.31667	-58.3	GY	14
+Kitty	6.82218	-58.14198	GY	12
+Kitty	7.53904	-58.67186	GY	16
+Kitty	6.14316	-57.62058	GY	13
+Kirikiri Rapids	5.99543	-59.26669	GY	11
+Kintyre	6.30283	-57.50259	GY	13
+Kingston	6.82273	-58.16319	GY	12
+Kingston	6.94639	-58.40941	GY	14
+Kingelly	6.46033	-57.64625	GY	15
+Kiltairn	6.13333	-57.21667	GY	13
+Kilmarnock	6.60878	-58.23394	GY	14
+Kilmarnock	6.17854	-57.25207	GY	13
+Kildonan	6.18775	-57.27126	GY	13
+Number Four Kilcoy Chesney	6.25053	-57.38785	GY	13
+Kerekenama	5.84957	-57.68008	GY	15
+Keraha Landing	6.15	-57.93333	GY	15
+Keraha Itabu	6.1672	-57.93946	GY	15
+Kensington	6.69716	-57.90399	GY	15
+Number Nineteen Kendalls	6.30341	-57.45441	GY	13
+Kauyak	6.54868	-58.31351	GY	14
+Kato Village	4.66667	-59.81667	GY	17
+Kassiattae Rapids	2.33333	-58.31667	GY	19
+Kasipang	7.2	-59.28333	GY	10
+Kartabu Point	6.38639	-58.69423	GY	11
+Karo Rapids	6.08781	-58.59144	GY	18
+Karisparu Village	4.91667	-59.45	GY	17
+Karisparu Savannah	4.86667	-59.41667	GY	17
+Koirimap Amerindian Village	7.20986	-58.83311	GY	16
+Kariaku	7.37776	-59.71299	GY	10
+Kariakaria	6.83333	-58.58333	GY	14
+Karia Itabu	7.51667	-58.86667	GY	16
+Karia	6.74381	-58.60023	GY	14
+Karawarambo Still Water	5.93333	-59.1	GY	11
+Karawarambo Still Water	5.81667	-59.45	GY	11
+Karaudanawa	2.46667	-59.43333	GY	13
+Karasabai Village	4.03333	-59.53333	GY	19
+Karaparai	5.16667	-58.61667	GY	18
+Karanang	5.71667	-59.93333	GY	11
+Karanambo	3.75	-59.3	GY	19
+Karakubi	5.25	-58.6	GY	18
+Karakubai	5.43333	-58.36667	GY	18
+Karagong	5.38333	-58.43333	GY	18
+Kapashi Rapids	6.15471	-58.87586	GY	11
+Kangaruma	5.33333	-59.2	GY	17
+Kangaruma	5.33333	-59.18333	GY	17
+Kanaiyu Rapids	1.73333	-58.61667	GY	19
+Kanaimapu	5.4	-58.43333	GY	18
+Kamwatta	6.63493	-58.29796	GY	14
+Kamudikabra	5.33333	-58	GY	18
+Kamaria	6.41667	-58.76667	GY	11
+Kamana Village	4.83333	-59.93333	GY	17
+Kamakusa	5.95	-59.9	GY	11
+Kamakuru	6.70327	-58.59312	GY	14
+Kama	5	-59.55	GY	17
+Kalkuni	5.55	-57.91667	GY	18
+Kalikuri Rapids	4.61667	-58.61667	GY	18
+Kalakun	6.38842	-58.65306	GY	11
+Johanna Cornelia	6.82454	-58.45169	GY	14
+Kakabura Trench	6.55	-58.2	GY	12
+Kaikushikabra Rapid	5.61667	-58.4	GY	18
+Kabakaburi Amerindian Village	7.25661	-58.75348	GY	16
+Julian Ross Itabu	6.75	-59.83333	GY	11
+Julianenburg	6.1	-57.61667	GY	13
+Juliana	5.68333	-57.78333	GY	18
+Jordans Landing	5.16667	-59.05	GY	17
+Joppa	6.1	-57.2	GY	13
+John	6.74064	-57.97678	GY	12
+John	6.23042	-57.32924	GY	13
+Johi Village	1.85	-58.53333	GY	19
+Johanna Cecelia	7.12779	-58.4852	GY	16
+Johanna	7	-58.4	GY	14
+Johanisburg	5.71667	-57.48333	GY	13
+Joe Hook	6.54294	-57.94628	GY	12
+Joanna	6.07899	-57.26496	GY	13
+Java	6.13333	-57.2	GY	13
+Java	6.77931	-58.24154	GY	14
+Java	6.11667	-57.21667	GY	13
+Jauri Inlet	3.55	-59.83333	GY	19
+Jardin de Providence	6.74307	-58.16551	GY	12
+Jalousie	6.33333	-58.3	GY	12
+Jakaretinga	3.51667	-59.66667	GY	19
+Jagt Lust	5.61667	-57.85	GY	18
+Jacobs Rust	5.7	-57.5	GY	13
+Jacobs Lust	6.6208	-58.2322	GY	14
+Jacob Shoal	6.8	-58.6	GY	14
+Jacoba Constantia	6.76014	-58.25973	GY	14
+Jacoba	6.46088	-57.65899	GY	15
+Jacoba	6.45029	-57.67056	GY	15
+Jackson	7.47959	-58.62206	GY	16
+Ituri Itabu	5.41667	-57.8	GY	18
+Ituribisi Water Conservancy	7.05809	-58.52324	GY	16
+Ituni Railway	5.53333	-58.25	GY	18
+Ituni Itabu	5.53333	-57.93333	GY	18
+Ituni	5.53333	-58.25	GY	18
+Ithaca	6.23354	-57.55115	GY	15
+Itaki Rapids	5.96667	-59.18333	GY	11
+Itaki	5.96667	-59.18333	GY	11
+Itaka	6.57199	-58.56101	GY	14
+Itaballi Rapids	6.04043	-58.92177	GY	11
+Issano Junction	5.6	-58.93333	GY	11
+Issano	5.81667	-59.41667	GY	11
+Islington	6.21667	-57.51667	GY	13
+Isle of Ayr	6.51362	-58.28156	GY	14
+Isherton	2.31667	-59.36667	GY	19
+Ipotaikuru	7.43333	-59.6	GY	10
+Inverness	6.3379	-57.58528	GY	15
+Inkapati	4.13333	-58.46667	GY	19
+Industry	6.80859	-58.10668	GY	12
+Industry	6.58333	-57.88333	GY	15
+Number Twenty-five Industry	6.29732	-57.43846	GY	13
+Indiana	6.9	-58.7	GY	16
+Imprenza	3.13333	-59.83333	GY	19
+Illimir Village	2.26667	-59.45	GY	19
+Illimia Rapids	3.03333	-59.5	GY	19
+Igupa Village	7.4	-59.26667	GY	10
+Ida Sabina	5.6	-57.9	GY	18
+Ianna Landing	7.33333	-59.78333	GY	10
+Hydronie	6.85511	-58.41182	GY	14
+Hururu	5.36667	-58	GY	18
+Hururu	5.78333	-58.38333	GY	18
+Huntley	6.60521	-57.89915	GY	12
+Huntley	6.56719	-57.77772	GY	15
+Huis t'Dieren	7.05781	-58.49326	GY	16
+Huena	7.56667	-59.68333	GY	10
+Hubudi	5.46667	-58.38333	GY	18
+Hubu	6.81937	-58.46743	GY	14
+Houston	6.78811	-58.17124	GY	12
+Houston	6.78385	-58.14898	GY	12
+Hotohana	7.78333	-59.26667	GY	10
+Hotakwai	8.01667	-59.81667	GY	10
+Hosororo	8.17588	-59.80311	GY	10
+Horstenburg	5.73333	-57.51667	GY	13
+Hororabo	6.28333	-58.73333	GY	11
+Hororabo	6.35	-58.71667	GY	11
+Hopetown	6.53277	-58.2808	GY	14
+Hopetown	6.38739	-57.61529	GY	15
+Hopetown	6.13955	-57.61736	GY	13
+Hopes Landing	5.78333	-59.46667	GY	11
+Hope	6.75042	-57.99501	GY	12
+Hope	6.71371	-57.9608	GY	12
+Hope	6.48889	-57.68744	GY	15
+Hope	6.39227	-58.30487	GY	14
+Hope	6.37269	-57.58749	GY	15
+Hope	5.9	-58.35	GY	18
+Hoorn	6.01667	-57.71667	GY	15
+Hoogstraten	5.7	-57.78333	GY	18
+Number Seventy-two Hong Kong	5.93106	-57.15676	GY	13
+Honey Point	7.73333	-58.83333	GY	10
+Holmia	4.96667	-59.58333	GY	17
+Hollandia	5.7	-57.8	GY	18
+Hogstye	6.20298	-57.28456	GY	13
+Hofwerk	5.7721	-57.73035	GY	18
+Hoff Van Aurich	7.18481	-58.49628	GY	16
+Hobotiri	7.36667	-59.86667	GY	10
+Hobediah	7.96667	-59.81667	GY	10
+Hitia	5.8	-57.75	GY	18
+Highbury	6.1544	-57.59741	GY	13
+Higgins Landing	5.78333	-59.61667	GY	11
+Hibernia	7.02608	-58.49489	GY	16
+Hiawa	3.4	-59.63333	GY	19
+Het Princehoff	6.65863	-58.6153	GY	14
+Herstelling	6.08457	-57.60695	GY	15
+Herstelling	6.7464	-58.18668	GY	12
+Herstelling	6.61667	-58.23333	GY	14
+Hermitage	6.65201	-58.2216	GY	14
+Number Thirteen Hermitage	6.30309	-57.46976	GY	13
+Hermanstyne	6.52821	-58.27072	GY	14
+Hepzibah	5.25	-57.3	GY	13
+Hensden	6.65899	-57.90733	GY	15
+Henry	6.75939	-58.14506	GY	12
+Henrietta	7.27186	-58.4907	GY	16
+Henrietta	6.8994	-58.45665	GY	14
+Helvetia	5.78242	-57.72022	GY	18
+Helena Number Two	6.68219	-57.93317	GY	12
+Helena Number One	6.67873	-57.93472	GY	12
+Haybasina	8.01667	-59.98333	GY	10
+Hawkins Mission	3.48333	-59.55	GY	19
+Haswell	6.24074	-57.34444	GY	13
+Haslington	6.7517	-57.98555	GY	12
+Number Seventy-six Harriet	5.91007	-57.14927	GY	13
+Harowa	6.0914	-57.62081	GY	15
+Harmony	6.16483	-57.43104	GY	13
+Mary and Harlem	6.82515	-58.21638	GY	14
+Hansome Tree	6.57229	-57.89083	GY	12
+Hanover	6.18414	-57.64395	GY	15
+Hanover	6.66667	-58.21667	GY	14
+Hand-en-Veldt	6.68819	-57.92902	GY	12
+Hanaautiya	7.96667	-59.83333	GY	10
+Hampshire	6.25012	-57.36627	GY	13
+Number Twenty-seven Hammersmith	6.3051	-57.43378	GY	13
+Hamlet	6.56764	-57.80987	GY	15
+Hamel Ground	6.1388	-57.63745	GY	15
+Hamburg	7.05	-58.46667	GY	14
+Haiowa	3.91667	-59.1	GY	19
+Haiaparu	4.18333	-59.16667	GY	17
+Hague	6.8404	-58.26324	GY	14
+Hackney	7.55784	-58.68817	GY	16
+Haags Bosch	6.75863	-58.12694	GY	12
+Co-operative Republic of Guyana	5	-59	GY	00
+Gunns Strip	1.75	-58.56667	GY	19
+Guitardenburg	5.75	-57.41667	GY	13
+Guianas	4	-56	GY	00
+Groot Poelgeest	5.45	-57.95	GY	18
+Groenveldt	6.85	-58.28333	GY	14
+Grit Shoal	6.7	-58.58333	GY	14
+Greenwood	5.73333	-58.25	GY	18
+Greenheart Stream	5.36667	-59.08333	GY	17
+Great Diamond	6.71489	-58.17952	GY	12
+Gravel Bank	5.41667	-58.41667	GY	18
+Grass Hook	6.54141	-57.91628	GY	12
+Gravenland	5.73317	-57.52557	GY	13
+Graatlytes Slot	6.16838	-57.44264	GY	13
+Goway Rapids	6.06667	-58.58333	GY	18
+Governor Light	6.46456	-57.78242	GY	15
+Goshen	6.45	-58.58333	GY	18
+Gordon Table	6.39224	-57.79217	GY	15
+Gorchum	6.67308	-57.91186	GY	15
+Good Success	6.95141	-58.46896	GY	14
+Good Success	6.69453	-58.1815	GY	12
+Good Intent	6.71714	-58.2055	GY	12
+Good Intent	6.99818	-58.50405	GY	16
+Good Intent	6.95174	-58.3959	GY	14
+Good Intent	6.71726	-58.21869	GY	14
+Good Intent	6.69306	-57.92371	GY	12
+Good Hope Shoal	6.98333	-58.48333	GY	14
+Good Hope Landing	7.58333	-60	GY	10
+Good Hope	6.1	-57.2	GY	13
+Good Hope	3.86667	-59.58333	GY	19
+Good Hope	6.98541	-58.50669	GY	16
+Good Hope	6.86081	-58.38212	GY	14
+Good Hope	6.78046	-58.05222	GY	12
+Good Hope	6.68506	-57.93169	GY	12
+Good Hope	6.41675	-58.29224	GY	14
+Good Hope	6.1	-57.2	GY	13
+Good Hope	5.83333	-57.45	GY	13
+Goede Hoop	5.76667	-57.66667	GY	18
+Good Faith	6.55396	-57.75742	GY	15
+Number Eight Good Banana Land	6.23551	-57.46339	GY	13
+Gangaram	6.22152	-57.451	GY	13
+Golden Fleece	7.14237	-58.48063	GY	16
+Golden Fleece	6.5	-57.69218	GY	15
+Goedverwagting	6.80539	-58.09931	GY	12
+Goede ver Vagting	6.70788	-58.21616	GY	14
+Goed Raad	5.75	-57.43333	GY	13
+Goedlands	5.5	-57.93333	GY	18
+Goedland	6.2041	-57.43659	GY	13
+Goede Hoop	5.7655	-57.71026	GY	18
+Goed Fortuin	6.78912	-58.20505	GY	14
+Godt Zeit Alles	5.53333	-57.93333	GY	18
+GNS Kimbia	5.61895	-57.73054	GY	18
+Glendor	5.08333	-59.15	GY	17
+Glaziers Lust	6.65367	-57.86786	GY	15
+Glastulich	6.06844	-57.5783	GY	13
+Glasgow Village	6.51667	-58.28333	GY	12
+Glasgow	6.19229	-57.51514	GY	13
+Glasgow	6.49629	-58.29468	GY	14
+Number Thirty-nine Gibraltar	6.2725	-57.40008	GY	13
+Gibbs Shoal	6.75	-58.56667	GY	14
+Geruchy and Ruyters	6.61608	-57.88169	GY	15
+Germania	6.01315	-57.59926	GY	13
+Georgia	6.56104	-58.24665	GY	14
+Georgetown	6.80448	-58.15527	GY	12
+Genness	5.73333	-57.45	GY	13
+Geneve	6.76044	-58.25155	GY	14
+Gelderland	6.22863	-57.54973	GY	15
+Geertruydenburg	5.9	-57.65	GY	13
+Geertruyda	5.7589	-57.69942	GY	18
+Gedelt en Rust	6.59056	-58.23806	GY	14
+Garraway Stream	5.38333	-59.11667	GY	17
+Garraway Landing	5.35	-59.1	GY	17
+Garden of Eden	6.64044	-58.18524	GY	12
+Gaiety Rapids	5.71667	-59.63333	GY	11
+Number Three Fyrish	6.27503	-57.38683	GY	13
+Furako	1.31667	-58.48333	GY	00
+Friends Retreat	6.34713	-57.58389	GY	15
+Friendship	5.83333	-58.35	GY	18
+Friendship	6.97545	-58.45088	GY	14
+Friendship	6.76733	-58.03014	GY	12
+Friendship	6.65803	-58.17818	GY	12
+Friendship	6.19246	-57.27637	GY	13
+Number Sixty-nine Friendship	5.94592	-57.16795	GY	13
+Friends	6.17351	-57.55302	GY	13
+Two Friends	6.7075	-57.95619	GY	12
+Freetown	7.56012	-58.69362	GY	16
+Free and Easy	6.6599	-58.21735	GY	14
+Fredericksburg	6.95958	-58.44717	GY	14
+Fredericksburg	6.95	-58.45	GY	14
+Fredericka Johanna	6.62882	-57.88507	GY	15
+Fransenburg	5.95	-57.35	GY	13
+Foulis Hole	6.5	-57.73333	GY	15
+Foulis	6.75536	-57.99706	GY	12
+Foulis	6.51811	-57.71594	GY	15
+Foulis	6.51246	-57.71121	GY	15
+Catherinas Lust	6.38485	-57.60504	GY	15
+Fortitude	6.55268	-57.79262	GY	15
+Lago de Forno	3.61667	-59.73333	GY	19
+Foot Log	5.7	-58.96667	GY	11
+Floyd Ward	6.06667	-57.18333	GY	13
+Flensburg	6.57536	-58.24207	GY	14
+Flackdal	5.86667	-57.46667	GY	13
+Fish Bank	6.66667	-58.58333	GY	14
+First Savannah	6.36667	-57.8	GY	15
+First Savannah	6.36217	-57.79481	GY	15
+First Point	6.49392	-57.73461	GY	15
+First Lagunash	8.30532	-59.69197	GY	10
+Fellowship	6.83681	-58.25718	GY	14
+Fellowship	6.56667	-57.78333	GY	15
+Felicity	6.79745	-58.08191	GY	12
+Felicity	6.5404	-57.79006	GY	15
+Fear Not	7.301	-58.49104	GY	16
+Fearn	6.16052	-57.64916	GY	15
+Fairs Rust	5.98333	-58.28333	GY	18
+Lot Twenty-two Experiment	6.07228	-57.57525	GY	13
+Experience	6.40123	-58.29689	GY	14
+Experiment	6.37946	-57.58776	GY	15
+Expectation	6.3431	-57.58493	GY	15
+Exmouth	7.34846	-58.49086	GY	16
+Everton	6.18209	-57.52228	GY	13
+Eversham	6.13333	-57.21667	GY	13
+Evergreen	7.39779	-58.54891	GY	16
+Eurowa	7.38936	-58.59619	GY	16
+Essex	6.69407	-57.89845	GY	15
+Essekwabo	5.4	-58.55	GY	18
+Espanol Rapid	6.23333	-58.8	GY	11
+Essau and Jacob	6.48181	-57.79004	GY	15
+Epsom	6.11667	-57.21667	GY	13
+Epiru Marali Rapids	6.08793	-58.58057	GY	18
+Epira	5.13333	-57.33333	GY	13
+Enterprise	6.92338	-58.4025	GY	14
+Enterprise	7.52434	-58.6579	GY	16
+Enterprise	6.75522	-58.01239	GY	12
+Number Thirteen Enterprise	6.21551	-57.44295	GY	13
+Enmore Sugar Factory	6.75	-58	GY	12
+Enmore	6.76699	-57.98298	GY	12
+Enmore	6.75243	-57.98888	GY	12
+Engelenburg	5.61667	-57.88333	GY	18
+Endeavour	6.93109	-58.38572	GY	14
+Endeavour	6.7846	-58.28228	GY	14
+Endeavour	6.72188	-58.26272	GY	14
+Endeavour	6.65661	-57.90568	GY	15
+Endeavour	6.56983	-58.24508	GY	14
+Endeavour	6.33333	-58.3	GY	14
+Enaruko Village	4.56667	-59.66667	GY	17
+Elizabeth Anne	6.94731	-58.36925	GY	14
+Elizabeth Ann	6.44808	-58.29828	GY	12
+Elizabeth	6.92446	-58.43147	GY	14
+Elizabeth	6.4	-58.28333	GY	12
+Elizabeth	6.16667	-58.26667	GY	12
+Eldorado	6.50926	-57.70221	GY	15
+Ekishish-Suba	2.5	-59.9	GY	19
+Eendragt	5.76854	-57.71183	GY	18
+Edinburgh	6.85	-58.28333	GY	14
+Edinburg	6.18731	-57.51918	GY	13
+Edderton	6.3175	-57.56175	GY	15
+Eccles	6.77254	-58.15778	GY	12
+Ebini Landing	5.65	-57.78333	GY	18
+Ebini	5.66667	-57.78333	GY	18
+East Takutu	1.85	-59.7	GY	00
+Number Thirty-three Lothian	6.29032	-57.4176	GY	13
+East Demerara Water Conservancy	6.62307	-58.01555	GY	12
+East Berbice-Corentyne Region	4	-58.16667	GY	13
+Eagles Rust	6.93994	-58.47845	GY	14
+Durena	6.36009	-58.07797	GY	15
+Durban	6.32399	-58.70078	GY	11
+Durabana Rapid	6.04651	-58.59289	GY	18
+Buabanna	6.29914	-58.26609	GY	12
+Number Twenty-three Dun Robin	6.29869	-57.4422	GY	13
+Dunoon	6.44178	-58.29725	GY	14
+Dunkeld	7.35	-58.5	GY	16
+Dundee	6.56053	-57.76658	GY	15
+Dunari Rapids	4.55	-58.83333	GY	17
+Dukestown	5.90707	-57.13679	GY	13
+Dukalikabra	5.56667	-59.3	GY	17
+Dubulay	5.61667	-57.86667	GY	18
+Drysdale	6.61257	-58.23324	GY	14
+Drill	6.60775	-57.81633	GY	15
+Drie Gebroeders	5.6	-57.85	GY	18
+Dora	6.28924	-58.26423	GY	12
+Doornroos	5.61667	-57.88333	GY	18
+Doornloof	5.56667	-57.91667	GY	18
+Doorn Haag	6.94146	-58.41218	GY	14
+Doornboom	5.66667	-57.81667	GY	18
+Don Carlos	5.78333	-57.45	GY	13
+Domburg	6.96095	-58.44223	GY	14
+Doime	6.73333	-58.6	GY	14
+Dog Point	6.38087	-58.61544	GY	11
+Windsor	6.95601	-58.37937	GY	14
+Dochfour	6.7124	-57.95757	GY	12
+Disiliku Itabu	5.75	-57.93333	GY	18
+Dingwall	6.11667	-57.21667	GY	13
+Diamond Sugar Factory	6.71887	-58.1863	GY	12
+Diamond	7.5726	-58.71005	GY	16
+Diamond	6.63889	-57.91274	GY	12
+De Witte Zwaan	6.90677	-58.45067	GY	14
+De Willem	6.85508	-58.31672	GY	14
+De Vryheid	5.51667	-57.93333	GY	18
+De Vriendschap	5.78333	-57.76667	GY	18
+De Vriend	6.64553	-57.88723	GY	15
+De Vreede	5.71667	-57.78333	GY	18
+Devonshire Castle	7.32702	-58.49347	GY	16
+De Vogelsang	5.75684	-57.64899	GY	18
+De Voedster	6.17745	-57.42525	GY	13
+Devils Hole Range	6.63333	-59.85	GY	11
+Devils Hole	6.85	-59.85	GY	11
+De Velde	5.78768	-57.66664	GY	18
+Deutichem	6.16857	-57.57265	GY	13
+De Ridders Faith	6.78421	-58.27351	GY	14
+De Resolutie	6.19057	-57.64165	GY	15
+Den Heuvel	6.56078	-58.22588	GY	12
+Den Arend	5.71667	-57.85	GY	18
+Den Amstel	6.85742	-58.252	GY	14
+Demerara-Mahaica Region	6.5	-58.08333	GY	12
+De Linde Boom	5.65	-57.86667	GY	18
+De Liefde	6.13563	-57.63817	GY	15
+De Kinderen	6.63234	-57.84466	GY	15
+De Kinderen	6.8576	-58.33319	GY	14
+De Kinderen	6.78333	-58.25	GY	14
+De Kinderen	6.63685	-57.88746	GY	15
+De Kinderen	6.16771	-57.57813	GY	13
+De Jonge Rachael	6.70282	-58.22464	GY	14
+De Hoop	6.64782	-57.88917	GY	15
+De Hoop	5.84118	-57.68215	GY	15
+Lot Forty-three	6.16129	-58.28402	GY	14
+De Gezusters	6.7111	-58.20621	GY	14
+De Endragt	6.78384	-58.05511	GY	12
+D'Edward	6.28397	-57.54669	GY	13
+De Cottage	6.30169	-58.27772	GY	14
+Debora	5.5	-57.91667	GY	18
+De Agatha	5.63333	-57.85	GY	18
+Dead Tree Point	4.06667	-58.03333	GY	13
+Dawa	7.21285	-58.61035	GY	16
+Dauntless Bank	6.94974	-58.35504	GY	14
+Dauntless	6.9283	-58.38405	GY	14
+Dartmouth	7.36543	-58.49951	GY	16
+Dantzig	6.66065	-57.8736	GY	15
+Danielstown	7.3004	-58.47975	GY	16
+Dalli	6.48564	-58.58574	GY	14
+Dalgin	6.09896	-58.27393	GY	12
+Dakoura	5.98333	-58.31667	GY	18
+Dakamballi Rapids	6.09504	-58.93219	GY	11
+Dageraad	7.19676	-58.50171	GY	16
+Dadanawa	2.83333	-59.51667	GY	19
+Curricurri Point	8.34561	-59.78113	GY	10
+Cummings Rapid	5.23333	-58.81667	GY	18
+Cummingsburg	6.81757	-58.16121	GY	12
+Cumberland	6.28629	-57.50136	GY	13
+Cullen	7.16328	-58.48888	GY	16
+Cruysburg	6.20685	-57.5512	GY	15
+Cromarty	6.16667	-57.25	GY	13
+Craig Milne	6.71787	-57.9787	GY	12
+Craig	6.68765	-58.17126	GY	12
+Covent Garden	7.50641	-58.65022	GY	16
+Covent Garden	6.73431	-58.17429	GY	12
+Cove	6.73963	-57.97423	GY	12
+Courida Point	8.36301	-59.823	GY	10
+Cotton Tree	6.29529	-57.55465	GY	15
+Cottage	6.71547	-58.23331	GY	14
+Cottage	6.62328	-57.83643	GY	15
+Cottage	6.46309	-57.66025	GY	15
+Cornelia Ida	6.85	-58.26667	GY	14
+Cornelia	6.95114	-58.36796	GY	14
+Cornelia	5.81667	-57.46667	GY	13
+Corkwood Point	7.78333	-58.88333	GY	10
+Corentyne Coast	6.18333	-57.23333	GY	13
+Coomacka Lands	5.95	-58.3	GY	18
+Cook Tom	6.36667	-57.83333	GY	15
+Content	6.58911	-58.23736	GY	14
+Content	6.66201	-57.87668	GY	15
+Content	6.09532	-57.72058	GY	15
+Concordia Boven	5.73333	-57.5	GY	13
+Concordia Beneden	5.73333	-57.5	GY	13
+Concordia	6.90754	-58.49399	GY	14
+Concordia	6.61019	-58.23391	GY	14
+Concordia	5.53333	-57.93333	GY	18
+Concord	6.68976	-57.89013	GY	15
+Conception	6.07325	-58.29691	GY	18
+Columbia	7.2277	-58.50063	GY	16
+Columbia	6.65725	-57.87065	GY	15
+Coldingen	6.76519	-58.01755	GY	12
+Clonbrook	6.73378	-57.94701	GY	12
+Number Seventy-three Clonbrook	5.92352	-57.16304	GY	13
+Clifton	6.23203	-57.33276	GY	13
+Clemwood	6.25166	-58.2923	GY	14
+Clairmont	6.95527	-58.39504	GY	14
+Christinas Lust	6.11092	-57.61421	GY	13
+Christianburg	6.02128	-58.30381	GY	18
+Chinese Landing	7.51667	-59.55	GY	10
+Chinese Landing	6.68333	-59.58333	GY	11
+Number Thirty-one Cheswick	6.2885	-57.42216	GY	13
+Chester	6.4466	-57.64051	GY	15
+Chenapowu Village	4.91667	-59.56667	GY	17
+Chateau Truro	6.94787	-58.40219	GY	14
+Chateau Margot	6.79133	-58.07114	GY	12
+Charters	6.13839	-58.26333	GY	14
+Charlottenburg	5.83333	-57.45	GY	13
+Charlestown	6.80379	-58.16596	GY	12
+Charity	7.39426	-58.5943	GY	16
+Chapmans	6.61974	-57.8811	GY	15
+Chantilly	6.61834	-58.23288	GY	14
+Chance	6.53164	-57.80446	GY	15
+Champian Rapid	4.73333	-58.2	GY	18
+Champagne	6.53382	-57.77499	GY	15
+Chalmers Point	6.9	-58.48333	GY	14
+Certain Hope	6.31683	-58.29279	GY	14
+Ceres	6.66283	-57.93526	GY	12
+Catherine	6.54861	-57.74734	GY	15
+Catherina Sophia	6.62913	-58.23229	GY	14
+Catherinas Lust	6.33333	-57.58333	GY	15
+Catherinasburg	5.73333	-57.43333	GY	13
+Catherina	6.60637	-58.23372	GY	14
+Catherina	5.65	-57.78333	GY	18
+Catharinasburg	5.75	-57.45	GY	13
+Catharina	5.87801	-57.64566	GY	13
+Casa Nova	5.71667	-57.45	GY	13
+Number Sixty-eight Carnarvon	5.95682	-57.15291	GY	13
+Caradora	6.59572	-58.22637	GY	14
+Caracas	6.2262	-57.5062	GY	13
+Caracas	5.56667	-57.91667	GY	18
+Capoey	7.20838	-58.48642	GY	16
+Lago de Capivara	3.6	-59.75	GY	19
+Capelle	5.7	-57.81667	GY	18
+Cape Clear	6.5116	-57.7828	GY	15
+Cape-A-Star	5.9	-58.31667	GY	18
+Canister	4.71667	-58.41667	GY	18
+Cane Garden	6.96169	-58.38615	GY	14
+Calistro	8.31394	-59.80371	GY	10
+California	6.11978	-57.61362	GY	13
+Caledonia	7.00338	-58.44708	GY	14
+Caledonia	7.55964	-58.68984	GY	16
+Caledonia	6.58397	-58.20754	GY	12
+Calcutta	6.55026	-57.75151	GY	15
+Calabash Landing	7.32917	-59.60179	GY	10
+Cajueiro	3.8	-59.4	GY	19
+Bygeval	6.6693	-57.91141	GY	15
+Buxton	6.7744	-58.03024	GY	12
+Buxton	7.40701	-58.60371	GY	10
+Butukari	5.75	-58.61667	GY	11
+Butuba	5.78333	-58.35	GY	18
+Bush Lot Water Path	6.36134	-57.67779	GY	15
+Bush Lot	6.40629	-57.61846	GY	15
+Bush Lot	6.20719	-57.26483	GY	13
+Bush Lot	7.25666	-58.49822	GY	16
+Bush Lot	6.91321	-58.49818	GY	16
+Bush Lot	6.18547	-57.26407	GY	13
+Bush Cow Long Corner	6.2161	-57.88146	GY	15
+Buses Lust	6.16501	-57.58524	GY	13
+Buruburaru Rapids	6.09396	-58.58403	GY	18
+Buro-Burok Rapids	5.25	-58.81667	GY	18
+Burisanawa Village	2.35	-59.35	GY	19
+Buradad	6.40775	-58.02237	GY	15
+Bulletwood Rapids	4.6	-58.16667	GY	13
+Bullet Tree Reef	6.03333	-57.78333	GY	15
+Buck Canister Sands	6.11667	-60	GY	11
+Brothers	6.79927	-58.0861	GY	12
+Brothers	6.17655	-57.54194	GY	13
+Broomlands	6.56534	-57.81571	GY	15
+Broke Pot	6.59758	-57.89968	GY	12
+Broers Lust	6.19689	-57.58817	GY	15
+Broek en Waterland	6.63479	-57.88751	GY	15
+Brittania	6.4445	-57.63781	GY	15
+Brighton	6.14308	-57.21614	GY	13
+Brighton	6.15	-57.21667	GY	13
+Brickery	6.63023	-58.18906	GY	12
+Bremner Rapid	5.61667	-58.38333	GY	18
+Bremen	7.15996	-58.48973	GY	16
+Bremen	6.95	-58.46667	GY	14
+Breakfast Point	5.23333	-59.03333	GY	17
+Brathwaites Stream	5.9219	-59.33885	GY	11
+Brandwagt-Sari	5.98333	-57.63333	GY	13
+Brandenburg	6.88333	-58.73333	GY	16
+Brahan	6.45498	-57.64741	GY	15
+Bourda	6.81102	-58.1565	GY	12
+Bourda	6.56543	-58.24436	GY	14
+Bosch Lust	5.48333	-57.95	GY	18
+Number Thirty-seven Borlam	6.28102	-57.40636	GY	13
+Bordeaux	6.75881	-58.24486	GY	14
+Bon Success	3.38333	-59.8	GY	19
+Bonsall	5.58333	-57.18333	GY	13
+Bolton Acres	7.66667	-58.8	GY	16
+Boiler Rapids	5.61667	-58.38333	GY	18
+Number Seventeen Bohemia	6.30345	-57.45944	GY	13
+Boerasirie Conservancy	6.75	-58.41667	GY	14
+Boerasirie Bank	6.9	-58.3	GY	14
+Blygezight Gardens	6.82336	-58.1333	GY	12
+Blygezight	6.81669	-58.13272	GY	12
+Bluejacket Banks	6.93333	-58.25	GY	14
+Bloeyende Johanna	5.85	-57.46667	GY	13
+Bloemhof	5.98798	-57.62199	GY	13
+Bleyendaal	6.21062	-57.47703	GY	13
+Blenheim	6.93115	-58.39812	GY	14
+Blenheim	6.57475	-57.80141	GY	15
+Blenheim	6.21246	-58.30472	GY	14
+Blankenburg	6.84145	-58.25018	GY	14
+Blairmont Water Path	6.26469	-57.67401	GY	15
+Blairmont	6.25704	-57.53979	GY	15
+Black Bush Polder	6.09867	-57.29846	GY	13
+Blackbush	6.14878	-57.30872	GY	13
+Bissy	6.70083	-58.56177	GY	14
+Bissy	6.70154	-58.5615	GY	14
+Bird Point	7.59981	-58.68405	GY	10
+Biloku Rapids	1.76667	-58.56667	GY	19
+Biloku	1.76667	-58.55	GY	19
+Big Baiabu	6.55	-57.88333	GY	15
+Bien Content	5.63333	-57.85	GY	18
+Bidrabu Point	6.3886	-58.61645	GY	11
+Bidrabu	6.38333	-58.61667	GY	11
+Bicha-Dare	3.48333	-59.35	GY	19
+Biabidani	5.73333	-58.35	GY	18
+Better Success	7.37169	-58.5204	GY	16
+Better Hope	7.38187	-58.53197	GY	16
+Better Hope	6.80379	-58.09176	GY	12
+Betsy Ground	6.23183	-57.44713	GY	13
+Bethel	6.12704	-57.72764	GY	15
+Bethany Amerindian Village	6.9964	-58.63247	GY	16
+Bethany	6.96667	-58.58333	GY	16
+Bethany	6.8	-58.6	GY	14
+Beterverwagting	6.78353	-58.06527	GY	12
+Betany Rapids	6.13616	-58.57383	GY	00
+Bestendigheid	6.17054	-57.64766	GY	15
+Best Coffee Land	6.1779	-57.44366	GY	13
+Berlin	6.35316	-58.31606	GY	14
+Berlin	5.71667	-57.53333	GY	13
+Berks	7.4	-58.56667	GY	16
+Beribisiballi	6.65564	-58.56458	GY	14
+Bergendaal	6.28333	-58.3	GY	14
+Berenstein	5.63333	-57.86667	GY	18
+Berbice	5.45	-57.95	GY	18
+Bengal	6.11667	-57.21667	GY	13
+Bendorff	6.96919	-58.43778	GY	14
+Bendorff	6.78677	-58.48133	GY	14
+Number Sixty-three Benab	5.98469	-57.15906	GY	13
+Belvidere	6.67351	-57.88758	GY	15
+Belvidere	6.25024	-57.37077	GY	13
+Belmont	6.0444	-57.58705	GY	13
+Belmonte	6.67622	-57.93809	GY	12
+Belmont	6.62144	-57.83343	GY	15
+Belle Vue	6.18011	-57.52804	GY	13
+Belle Vue	6.72583	-58.22034	GY	14
+Belle Vue	6.46705	-57.66731	GY	15
+Belle Plaine Bank	6.98333	-58.46667	GY	14
+Belle Plaine	6.95955	-58.46517	GY	14
+Bellavista Macaiba	3.81667	-59.56667	GY	19
+Belladrum	6.50192	-57.70148	GY	15
+Number Sixteen Belladrum	6.26766	-57.46165	GY	13
+Bel Air Gardens	6.82568	-58.13322	GY	12
+Bel Air	6.82331	-58.13002	GY	12
+Bel Air	6.31691	-57.55641	GY	15
+Bel Air	6.39341	-57.62011	GY	15
+Bel Air	6.32852	-57.58815	GY	15
+Beehive	6.70701	-57.94802	GY	12
+Beehive	6.51451	-58.28634	GY	14
+Beau Voisin	6.7587	-58.23421	GY	14
+Beau Sejour	6.71908	-58.23643	GY	14
+Bearn	5.71667	-57.51667	GY	13
+Bath Water Path	6.31536	-57.69098	GY	15
+Bath	6.64006	-57.84991	GY	15
+Bath	6.37638	-57.59925	GY	18
+Batavia	6.68102	-57.90418	GY	15
+Basket Pimpler	6.53333	-57.81667	GY	15
+Basha Village	3.33333	-59.8	GY	19
+Banana Landing	5.81667	-59.71667	GY	11
+Banakari	6.61388	-58.62756	GY	14
+Bamboo	7.95	-59.48333	GY	10
+Bamboo	5.61667	-58.36667	GY	18
+Bamboo	6.08817	-57.74441	GY	15
+Number Eight	6.25142	-57.55621	GY	15
+Balata Landing	4.2	-59.06667	GY	17
+Bakerihana	7.96667	-59.83333	GY	10
+Mindenburg	6.76108	-58.21198	GY	14
+Bagotstown	6.77247	-58.17562	GY	12
+Bachelors Adventure	6.75309	-58.00555	GY	12
+Bachelors Adventure	6.19243	-57.42613	GY	13
+Number Sixty-four Babylon	5.9793	-57.15785	GY	13
+Baboon Hole	6.72145	-58.5307	GY	14
+Babekamaku	8.11667	-59.85	GY	10
+Awaruwaunawa	2.66667	-59.2	GY	19
+Awarra Comb	5.66667	-57.41667	GY	13
+Aurora	7.00349	-58.49957	GY	16
+Aurora	6.8	-59.75	GY	11
+Aurora	6.43003	-58.29235	GY	14
+Aurora	5.84428	-57.66857	GY	13
+Augsburg	6.21498	-57.55898	GY	15
+Augsburg	6.02067	-57.60531	GY	13
+Auchlyne	6.21911	-57.32006	GY	13
+Attai Village	5.08333	-58.51667	GY	18
+Atamadpau	3	-59.71667	GY	19
+Assura Village	5.81667	-59.65	GY	11
+Assakata Amerindian Village	7.73333	-59.06667	GY	10
+Aruka Estate	8.13333	-59.8	GY	10
+Aruka	8.18333	-59.8	GY	10
+Aru	6.38702	-58.05576	GY	15
+Arthurville	6.95366	-58.45167	GY	14
+Arnik Village	5.01667	-59.53333	GY	17
+Armadale	6.39881	-57.61917	GY	15
+Aritaka Rapids	6.11411	-58.58553	GY	18
+Aritak	6.5706	-58.31427	GY	14
+Arisika	7.53333	-59.51667	GY	10
+Arisaru	5.58333	-58.56667	GY	18
+Arisaru	5.61667	-58.6	GY	18
+Ariera	4.23333	-59.03333	GY	17
+Arenstyn	5.86667	-57.43333	GY	13
+Archipelago	5.26667	-59.01667	GY	17
+Arcadia	6.73212	-58.15888	GY	12
+Arayuwa	5.78216	-57.66631	GY	18
+Arawanapau	2.96667	-59.95	GY	00
+Ararapira	5.66667	-58.6	GY	18
+Aranaputa Valley	3.96667	-59.16667	GY	19
+Arakwa	6.65003	-58.61281	GY	14
+Arakaka Landing	7.8	-59.86667	GY	10
+Arabian Coast	7.16667	-58.5	GY	16
+Arabagai Landing	6.3	-59.71667	GY	11
+Apoteri	4.03768	-58.58643	GY	19
+Apanachi	5.65	-59.21667	GY	11
+Antonia	5.76667	-57.76667	GY	18
+Anthony Rapid	5.61667	-58.36667	GY	18
+Anthoniesburg	5.8	-57.45	GY	13
+Annas Rust	5.83333	-57.66667	GY	15
+Anna Regina	7.2681	-58.49817	GY	16
+Annandale	7.17167	-58.4922	GY	16
+Annandale	6.77684	-58.03754	GY	12
+Anna Maria	6.90841	-58.44738	GY	14
+Anna Maria	6.72701	-58.13685	GY	12
+Annai Landing	3.93333	-59.11667	GY	19
+Annai	3.95	-59.13333	GY	19
+Annai	4.01667	-59.18333	GY	19
+Anna Clementia	6.19575	-57.46766	GY	13
+Anna Catherina	6.85639	-58.27402	GY	14
+Anna Catherina	6.85	-58.28333	GY	14
+Anna Catherina	6.76056	-58.26593	GY	14
+Ankerville	6.24123	-57.34872	GY	13
+Anjou	6.56942	-57.80814	GY	15
+Andrews	7.38333	-58.53333	GY	16
+Anderson Bank	6.41667	-58.6	GY	18
+Anaripia Itabu	6.81489	-59.6319	GY	11
+Amu Rapids	6.05	-58.6	GY	18
+Lot Forty-seven	6.09505	-58.29998	GY	18
+Ampa Point	6.5	-58.58333	GY	14
+Ampa	6.50093	-58.57842	GY	14
+Ampa	5.43333	-58.38333	GY	18
+Aminge	2.55	-57.83333	GY	13
+Amersfoort	6.97257	-58.4357	GY	14
+Amelia's Ward	6.0326	-58.28961	GY	18
+Ambrose Village	3.03333	-59.76667	GY	19
+Amazon	7.38333	-58.58333	GY	16
+Amau Rapids	6.0622	-58.60046	GY	18
+Altora Village	2.48333	-59.16667	GY	19
+Altenklingen	5.66667	-57.76667	GY	18
+Alness	6.22451	-57.28862	GY	13
+Alness	6.20496	-57.2946	GY	13
+Alliance Trench	6.50105	-58.28045	GY	12
+Alliance	6.74163	-58.25015	GY	14
+Alliance	6.6559	-57.93095	GY	12
+Aliki Shoal	6.68333	-58.56667	GY	14
+Aliki	6.68708	-58.55578	GY	14
+Aliki	6.68762	-58.55338	GY	14
+Alexandria	5.68333	-57.76667	GY	18
+Alexandria	5.65	-58.26667	GY	18
+Alexanderville	6.81667	-58.13333	GY	12
+Alexander Village	6.79711	-58.16609	GY	12
+Albouystown	6.80061	-58.16371	GY	12
+Albion Water Path	6.16806	-57.40183	GY	13
+Number Five Albion	6.25222	-57.3815	GY	13
+Alberttown	6.81527	-58.15443	GY	12
+Akyma	5.88333	-58.3	GY	18
+Akwero	7.65	-58.93333	GY	10
+Akuru Point	6.18641	-58.58126	GY	11
+Aku	6.80105	-58.57245	GY	14
+Akawini Mission	7.36667	-58.73333	GY	16
+Akawini Amerindian Village	7.38126	-58.95019	GY	16
+Akaiwanna Rapids	5.03333	-58.83333	GY	18
+Aishalton	2.51667	-59.25	GY	19
+Aharu Rapids	6.01795	-58.58069	GY	18
+Agricola Village	6.46667	-58.16667	GY	12
+Agnes	5.8	-57.73333	GY	15
+Agathoven	5.58333	-57.88333	GY	18
+Agatash	6.36667	-58.61667	GY	11
+Afgunst	5.76667	-57.43333	GY	13
+Affiance	7.21986	-58.50033	GY	16
+Adventure	7.08828	-58.4818	GY	16
+Adventure	6.66073	-57.90668	GY	15
+Adventure	6.55645	-57.78861	GY	15
+Adventure	6.5335	-57.73751	GY	15
+Adventure	6.19956	-57.28167	GY	13
+Adventure	6.12862	-58.25606	GY	12
+Adelphi Water Tank	6.23205	-57.48073	GY	13
+Adelair	2.13333	-59.63333	GY	19
+Adakalaru	6.38328	-58.06114	GY	15
+Achiwib	2.3	-59.58333	GY	19
+Abuya Marali Rapids	6.06773	-58.58898	GY	18
+Abrams Zuil	7.16633	-58.48964	GY	16
+Abrahamsburg	5.73333	-57.48333	GY	13
+Abigail	5.4	-58	GY	18
+Aberdeen	7.5691	-58.70666	GY	16
+Aberdeen	7.23223	-58.50184	GY	16
+Lot Forty-five	6.14784	-58.27579	GY	14
+Yawatak Rapids	5.1	-60.01667	GY	11
+Wiawa	6.8	-60.78333	GY	11
+Werushima Range	6.63333	-60.28333	GY	11
+Watsak	6.48333	-60.55	GY	11
+Warupa	5.56667	-61.06667	GY	00
+Warrui Rapid	6.56667	-60.98333	GY	11
+Waramadon Village	5.81667	-60.75	GY	11
+Warakabang	6.08333	-60.68333	GY	11
+Wakawakapu	6.45	-60.6	GY	11
+Waioklepaluta Village	5.45	-60.15	GY	11
+Tumereng Landing	6.15	-60.03333	GY	11
+Tumareng	6.16667	-60.05	GY	11
+Toroparu	6.38333	-60.01667	GY	11
+Torauparu	6.36667	-61.1	GY	11
+Tamakay Landing	6.31667	-60.25	GY	11
+Tailing	6.11667	-61.18333	GY	11
+Sukabi	5.85	-60.81667	GY	11
+San Victor	7.98333	-60.16667	GY	10
+San San Kopai	6.23333	-60.15	GY	11
+Sadiwuk Rapids	5.88333	-60.6	GY	11
+Putareng Landing	6.25	-60.15	GY	11
+Pipillipai	5.51667	-60.43333	GY	11
+Pipillipai	5.36667	-60.36667	GY	11
+Pieropai	6.18333	-60.23333	GY	11
+Pathawaru	6.43333	-61.13333	GY	11
+Pasa	5.85	-60.65	GY	11
+Paruima Mission	5.8	-61.05	GY	11
+Pakera	7.48333	-60.15	GY	10
+Cachoeira Uranduique	4.71667	-60.01667	GY	00
+Orinduik	4.7	-60.01667	GY	17
+Opadai	5.43333	-60.58333	GY	11
+Old World	7.36667	-60.48333	GY	10
+Okoro	5.53333	-60.71667	GY	11
+Muruwawe Village	6.46667	-61.15	GY	11
+Muruwawe Landing	6.4	-60.85	GY	11
+Murubi	5.56667	-60.8	GY	11
+Muruakundi	7.16667	-60.13333	GY	11
+Morowta	5.75	-60.58333	GY	11
+Morawasinda Rapids	7.65	-60.13333	GY	10
+Moraima	5.85	-60.63333	GY	11
+Minata	5.95	-60.6	GY	11
+Meruwang	5.81667	-61	GY	11
+Maringma	5.19857	-60.58798	GY	11
+Makwaima Savannah	5.5	-60.73333	GY	11
+Le Desir	6.35	-60.36667	GY	11
+Lamotai Landing	5.83333	-60.8	GY	11
+La Juanita	7.95	-60.21667	GY	10
+La Horkweta	7.86667	-60.3	GY	10
+Labba Landing	6.28333	-60.38333	GY	11
+Kurutuku Village	6.9	-60.3	GY	11
+Kurupung Landing	6.15	-60.26667	GY	11
+Kurupung	6.23333	-60.15	GY	11
+Kuroba Rapids	5.9	-60.6	GY	11
+Kurachi	6.88333	-60.26667	GY	11
+Kunaima Itabu	6.83333	-60.23333	GY	11
+Kowaeng Village	5.65	-60.3	GY	11
+Koranatabu	5.83333	-60.76667	GY	11
+Konoro Village	7.25	-60.01667	GY	10
+Kokadai	5.75	-60.56667	GY	11
+Keweigek	5.93333	-60.63333	GY	11
+Kaurasing	6.06667	-60.35	GY	11
+Kareen Landing	6.28333	-60.36667	GY	11
+Kanapang Village	4.53333	-60.13333	GY	17
+Kamuda Village	5.63333	-60.3	GY	11
+Kamarang	5.86667	-60.61667	GY	11
+Kaikandabu	5.83333	-60.83333	GY	11
+Kaikan	6.18333	-61.13333	GY	11
+Jimbo Landing	7.58333	-60.45	GY	10
+Itabac	4.6	-60.1	GY	17
+Isseneru Village	6.46667	-60.33333	GY	11
+Ipisiau Village	4.88333	-60.01667	GY	17
+Invincible	7.6	-60.4	GY	10
+Imbaimadai	5.7	-60.28333	GY	11
+Houtipu	5.95	-61.08333	GY	11
+Haimara	6.41667	-60.33333	GY	11
+Golden City	7.33333	-60.45	GY	10
+Five Star	7.6	-60.36667	GY	10
+Eping Landing	6.1	-60.08333	GY	11
+Enachu Landing	6.15	-60.03333	GY	11
+Ekereku	6.46667	-60.83333	GY	11
+Eclipse Landing	7.61667	-60.05	GY	10
+Determination	7.33333	-60.43333	GY	10
+Chinawying Village	5.5	-60.16667	GY	11
+Chichi	5.53333	-60.15	GY	11
+Baimapai	5.73333	-60.55	GY	11
+Awarabati	6.8	-60.8	GY	11
+Aunama Village	7.15	-60.08333	GY	11
+Arawatta Stones	7.61667	-60.18333	GY	10
+Arawai Village	6.31667	-61.16667	GY	11
+Arau Village	6.41667	-61.13333	GY	11
+Arakaka Itabu	7.56667	-60.01667	GY	10
+Arakaka	7.58333	-60.01667	GY	10
+Apaikwa Landing	6.35	-60.36667	GY	11
+Amokokopai Village	5.38333	-60.3	GY	11
+Ammamuri Rapids	6.78333	-60.03333	GY	11
+Amichukpai	5.51667	-60.61667	GY	11
+Amamuri Village	6.8	-60.01667	GY	11
+Akoruwapai Landing	5.8	-61.03333	GY	11
+Akar Village	5.68333	-60.31667	GY	11
+Ajimipepai	5.9	-60.56667	GY	11
+Georgetown	6.8	-58.15	GY	
+Anna Regina	7.26439	-58.50769	GY	16
+Atkinson	6.50646	-58.25921	GY	12
+Timehri	6.50003	-58.26372	GY	12
+Noitgedacht	6.58955	-58.23918	GY	14
+Saint Eustatius	6.588	-58.23996	GY	14
+National Agricultural Research Institute	6.49898	-57.7628	GY	15
+New Haven	6.82179	-58.12978	GY	12
+Agricola	6.77996	-58.16774	GY	12
+Thomas Lands	6.82193	-58.15298	GY	12
+Tucville	6.79302	-58.14134	GY	12
+Festival City	6.7886	-58.13424	GY	12
+West Ruimveldt	6.7952	-58.15988	GY	12
+South Ruimveldt Gardens	6.78773	-58.14471	GY	12
+East Ruimveldt	6.79302	-58.14943	GY	12
+Roxanne Burnham Gardens	6.78999	-58.15329	GY	12
+North East La Penitence	6.79656	-58.14734	GY	12
+New Providence	6.75512	-58.17975	GY	12
+Eccleston Gardens	6.77337	-58.16675	GY	12
+Enmore Airstrip	6.76897	-58.01266	GY	12
+Schoonord	6.78365	-58.20529	GY	14
+Kurupung	6.46667	-59.1667	GY	11
+Maikwak	5.55	-59.2833	GY	17
+Paramakotoi	4.83333	-59.55	GY	17
+Konawaruk	5.21667	-59	GY	17
+Alliance	6.5027	-58.27923	GY	12
+Yarowkabra	6.4697	-58.22477	GY	12
+Burma	6.4738	-57.75908	GY	15
+Butenabu	6.3292	-57.87955	GY	15
+Harlem	6.83611	-58.22095	GY	14
+La Jalousie	6.82839	-58.24311	GY	14
+Margot	6.81418	-58.06271	GY	12
+Beterverwagting	6.81866	-58.08643	GY	12
+Lusignan	6.79171	-58.039	GY	12
+Success	6.81301	-58.09168	GY	12
+Number Twelve	6.21939	-57.44756	GY	13
+Number Eleven	6.22392	-57.45188	GY	13
+Dutchman Point	8.31817	-59.74293	GY	10
+Itaballi Rapids	5.99808	-59.25903	GY	11
+Tuschen	7.60177	-58.74038	GY	16
+Tuschen	7.60464	-58.7364	GY	16
+New Hope	7.60084	-58.7351	GY	16
+Enmore	7.59167	-58.72747	GY	16
+Relief	7.5907	-58.72429	GY	16
+Liberty	7.58178	-58.72126	GY	16
+Henrietta Cecelia	7.54676	-58.69279	GY	16
+Unity	7.54031	-58.68151	GY	16
+Perseverance	7.53243	-58.67635	GY	16
+Zorg	7.53054	-58.67492	GY	16
+Trybest	7.52657	-58.66895	GY	16
+Trybest	7.42064	-58.60425	GY	16
+Canigieter	7.43707	-58.60682	GY	16
+Providence	7.44294	-58.60951	GY	16
+Hope and Success	7.44824	-58.6098	GY	16
+Dublin	7.45357	-58.60945	GY	16
+Belle Vue	7.45546	-58.61112	GY	16
+Grant Calvin	7.49047	-58.63318	GY	16
+Adventure	7.48663	-58.64143	GY	16
+Burnt Bush	7.41383	-58.60608	GY	16
+Profit	7.41048	-58.60434	GY	16
+Charity	7.39997	-58.59535	GY	16
+Opposition	7.39663	-58.60326	GY	16
+Eliza	7.35031	-58.49717	GY	16
+Kabakaburi	7.25181	-58.72431	GY	16
+Mashabo Amerindian Village	7.056	-58.60404	GY	16
+Kokerite	7.36249	-59.57285	GY	10
+Three Friends	5.91767	-58.31043	GY	18
+Voorburg	6.26574	-57.50824	GY	13
+Fort Canje	6.2623	-57.50986	GY	13
+Fort Wellington	6.39087	-57.60381	GY	15
+Number Three	6.276	-57.55151	GY	15
+Number Five	6.26561	-57.55063	GY	15
+Number Six	6.26076	-57.55183	GY	15
+Number Seven	6.25601	-57.554	GY	15
+Industry	6.19263	-57.5849	GY	15
+Number Nine	6.19637	-57.55313	GY	15
+Hestelling Sluice	6.10596	-57.63018	GY	15
+Cane Hook	6.46699	-57.9586	GY	12
+Mora Point	6.42676	-57.80431	GY	15
+Low Ground	6.23531	-57.87626	GY	15
+Number Three	6.29902	-57.49565	GY	13
+Number Ten	6.26827	-57.47696	GY	13
+Albion	6.25507	-57.38046	GY	13
+Number One	6.28561	-57.39578	GY	13
+Saint Cuthberts Amerindian Village	6.26574	-58.14987	GY	00
+Saint Jan	6.27532	-58.27683	GY	14
+Lot Fifty	6.03138	-58.30614	GY	18
+Lot Fifty-one	6.01754	-58.31355	GY	18
+Lot Forty-eight	6.06264	-58.30726	GY	18
+Lot Forty-nine	6.05663	-58.30677	GY	18
+Santa Aratak Amerindian Village	6.58778	-58.3566	GY	14
+Santa Mission	6.56411	-58.331	GY	14
+Mariba	8.29004	-59.66611	GY	10
+Resource	6.74387	-58.24151	GY	14
+Stanleytown	6.73265	-58.20339	GY	14
+Maduni Lock	6.50359	-58.0339	GY	12
+Nancy Stop Off	6.71443	-58.13081	GY	12
+Saint Georges	6.81646	-58.16375	GY	12
+Margot	6.81482	-58.06598	GY	12
+Blue Jacket Light	6.95673	-58.24428	GY	00
+Maritout Rapid	6.572	-58.98513	GY	11
+Mutosse Rapid	6.54844	-58.93952	GY	11
+Huist Bock Maria	6.77654	-58.48544	GY	14
+Hubu	6.82581	-58.46762	GY	14
+Parika	6.85084	-58.41933	GY	14
+Number Nine	6.8962	-58.32498	GY	00
+Palmyra	6.92627	-58.48228	GY	14
+Caledonia	6.99562	-58.42888	GY	14
+Free and Easy	6.99162	-58.44465	GY	14
+Chalmers Beacon	6.9036	-58.47864	GY	00
+Modder Bush	6.87395	-58.47264	GY	14
+Madder Bank	6.86307	-58.47219	GY	00
+Goodmans Freetown	6.88125	-58.46849	GY	14
+Bachelors Adventure	6.91268	-58.42164	GY	14
+Leguan	6.91712	-58.39979	GY	14
+Middle Ground	6.91099	-58.36882	GY	00
+Utulight	6.87108	-58.30423	GY	14
+Krapa	6.52328	-57.92713	GY	15
+Posts	6.60285	-57.87766	GY	15
+Victoria	6.7141	-57.97565	GY	12
+Clonbrook	6.71002	-57.95105	GY	12
+Land of Lust	6.52784	-57.8089	GY	15
+Little Biabu	6.53977	-57.86779	GY	15
+Clonbrook	6.73301	-57.94513	GY	12
+Mahaicony	6.57653	-57.80662	GY	15
+Zeelandia	7.00081	-58.42605	GY	14
+Providence	6.75886	-58.16259	GY	12
+Dora	6.33623	-58.23059	GY	12
+Number Two Cumberland	6.27833	-57.49504	GY	13
+Diamond	6.71922	-58.19025	GY	12
+Enmore	6.74845	-57.99223	GY	12
+Herstelling	6.74718	-58.18716	GY	14
+St. Cuthbert's	6.36667	-58.06667	GY	12
+Sophia	6.8146	-58.1173	GY	12
+Unity Village	6.78111	-58.12833	GY	12

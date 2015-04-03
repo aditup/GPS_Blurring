@@ -1,0 +1,1072 @@
+Windsor Castle	-29.02147	29.2082	LS	00
+Upper Qeme	-29.50895	27.51199	LS	00
+Ubutsuane	-29.2	29.18333	LS	00
+Tumahole Stream	-29.70988	28.45549	LS	00
+Tumahole	-29.71667	28.43333	LS	00
+Tsupani	-29.70381	27.08733	LS	00
+Thaba Tsueu	-30.08189	27.46993	LS	00
+Thaba Tsueu	-30.0803	28.4618	LS	00
+Thabana Tsuana	-29.5322	27.35618	LS	00
+Thaba Tsuana	-29.81667	27.48333	LS	00
+Tsoloane	-30.01335	27.35988	LS	00
+Thaba Tsoeu	-29.8011	27.43647	LS	00
+Tsoelike	-30.03259	28.69723	LS	00
+Tsoelike	-30.01667	28.66667	LS	00
+Tsoana Makhulo	-29.21667	27.78333	LS	00
+Tsoaing	-29.72141	27.47805	LS	00
+Tsitsong	-30.2	28.1	LS	00
+Tsitas Nek	-29.70449	27.28514	LS	00
+Tsime	-28.78831	28.41613	LS	00
+Tsime	-28.8	28.38333	LS	00
+Tsikoane	-28.89379	27.9962	LS	00
+Tsikoane	-28.9	27.98333	LS	00
+Tsiame	-29.38849	27.45833	LS	00
+Tsiame	-29.18333	27.98333	LS	00
+Tsetsana	-29.25491	27.85476	LS	00
+Tsethe	-30.23333	28.1	LS	00
+Tsereoane	-29.2	27.61667	LS	00
+Tsepo	-30.1	27.5	LS	00
+Tsepo	-30.05003	28.24927	LS	00
+Cairntoul	-30.66667	28.08333	LS	00
+Tsenolong	-29.9	28.63333	LS	00
+Tsekong Stream	-30.53575	28.04882	LS	00
+Tsekong	-30.55	28.03333	LS	00
+Thabana Tsekanyane	-29.46882	27.80112	LS	00
+Thaba Tseka	-29.58333	28.55	LS	00
+Tseka	-29.41225	27.50984	LS	00
+Tsehlo	-29.31667	27.78333	LS	00
+Tsatsane Stream	-30.48245	28.02155	LS	00
+Tsatsane	-30.46667	28.01667	LS	00
+Tsatsalemeno	-29.95	28.93333	LS	00
+Tsana Talana	-29.70354	27.21865	LS	00
+Tsa Kholo	-29.65757	27.05466	LS	00
+Tsa Kholo	-29.66918	27.15164	LS	00
+Tsakhalo Stream	-29.7	27.21667	LS	00
+Tosing	-30.33585	27.91471	LS	00
+Toromedi Stream	-29.91667	28.66667	LS	00
+Toloane	-29.64452	27.46809	LS	00
+Tlouoe	-29.58333	27.6	LS	00
+Tlouoe	-29.56667	27.61667	LS	00
+Tlokotsing	-30	27.23333	LS	00
+Tlodiea Seloba	-28.95	28.53333	LS	00
+Tlhanyaku	-29.1	29.08333	LS	00
+Tlhakanelo	-29.71667	28.8	LS	00
+Tlhakanelo	-29.71667	28.85	LS	00
+Tlapaneng	-29.2	27.68333	LS	00
+Tlametlu Stream	-29.49391	27.43164	LS	00
+Tlametlu	-29.48791	27.52577	LS	00
+Tlametlu	-29.35	27.55	LS	00
+Tlalis	-29.58803	27.71949	LS	00
+Tlalinyane	-29.11667	27.68333	LS	00
+Tlaling	-30.21667	27.65	LS	00
+Tlading Stream	-30.25909	27.74056	LS	00
+Tikoe	-29.35656	27.46228	LS	00
+Thupa Likaka	-29.50268	27.36734	LS	00
+Thupalikaka	-29.5	27.36667	LS	00
+Thupa Kubu	-29.33149	27.66584	LS	00
+Thupa Kubu	-29.30692	27.72241	LS	00
+Thulo	-29.58907	27.26008	LS	00
+Thuatha	-29.32096	27.58032	LS	00
+Tholo	-29.04189	28.51507	LS	00
+Thokoa	-29.02975	27.7731	LS	00
+Theko	-29.41667	27.76667	LS	00
+Theetsoa	-29.71667	27.9	LS	00
+Thaka-Makena	-29.7	27.66667	LS	00
+Lehaha la Thakalatsa	-29.71667	28.55	LS	00
+Thakabannas Cattle Post	-28.75	28.65	LS	00
+Thakabannas	-28.61571	28.46443	LS	00
+Thaba-Tseka	-29.51667	28.58333	LS	19
+Thaba-Tseka	-29.56667	28.6	LS	19
+Thaba Putsoa	-29.59367	28.06095	LS	00
+Thaba Phatsoa	-29	28.15	LS	00
+Thaba Phatshwa	-30.21667	27.38333	LS	00
+Thabantso	-30.45	27.93333	LS	00
+Thabantso	-30.33634	27.78956	LS	00
+Thabantso	-30.13599	28.263	LS	00
+Thabantso	-29.93438	28.13692	LS	00
+Thaba-Ntso	-29.86396	29.08191	LS	00
+Thaba Ntso	-30.36667	27.61667	LS	00
+Thaba Ntso	-29.91667	28.15	LS	00
+Thabaneng	-29.81667	27.5	LS	00
+Thabanatsoana	-29.88333	27.18333	LS	00
+Thabana Morena Plateau	-29.94334	27.4588	LS	00
+Thabana Morena	-29.96008	27.42044	LS	00
+Thabalimpe	-29.15	28.98333	LS	00
+Thaba Lesoba	-29.03333	28.1	LS	00
+Thabakoto	-29.93333	28.81667	LS	00
+Thabadinohe	-30.17043	27.49854	LS	00
+Thabadinaked	-30.1	27.51667	LS	00
+Thaba Chitja	-30.08333	28.28333	LS	00
+Thaba Chitia	-29.21667	27.88333	LS	00
+Thaba Bosigo	-29.3451	27.67134	LS	00
+Thaabi	-29.45598	27.48303	LS	00
+Teyateyaneng	-29.14719	27.74895	LS	10
+Thaba Telle	-30.05322	27.91301	LS	00
+Thaba Telle	-29.9505	27.94871	LS	00
+Thaba Telle	-29.58333	27.66667	LS	00
+Telle	-30.01667	27.9	LS	00
+Teletele	-30.56667	27.68333	LS	00
+Tele	-30.43333	27.58333	LS	00
+Teja-Tejane	-29.1586	27.72357	LS	00
+Thaba Teele	-29.63333	28.38333	LS	00
+Tebetebeng	-29.13333	27.8	LS	00
+Teba	-29.96845	27.88103	LS	00
+Tayane	-30.6	27.8	LS	00
+Tayanatayana	-29.46515	27.92683	LS	00
+Tau	-29.01667	28.18333	LS	00
+Talewe Stream	-30.39671	27.95595	LS	00
+Tajane	-29.71058	27.48341	LS	00
+Tadiakloka	-29.4	27.8	LS	00
+Tabola	-28.96189	27.81928	LS	00
+Tabola	-28.96667	27.81667	LS	00
+Soaing	-29.35	27.9	LS	00
+Thaba Sitasi	-29.89248	27.3689	LS	00
+Sion	-29.13333	27.96667	LS	00
+Sinxondo	-30.56667	27.73333	LS	00
+Simonkong	-29.86667	28.06667	LS	00
+Silver Stream	-30.3563	27.62223	LS	00
+Siloe	-29.9541	27.28294	LS	00
+Siloe	-29.94279	27.27858	LS	00
+Sikhaming	-28.76907	28.28609	LS	00
+Sigote Stream	-30.57874	27.72138	LS	00
+Sibi Sibi	-29.89628	27.82006	LS	00
+Shalane	-30.25	27.71667	LS	00
+Seutloali	-29.16845	27.95174	LS	00
+Setshasi Stream	-29.98333	28.96667	LS	00
+Setokwani Stream	-29.66667	28.18333	LS	00
+Setleketseng	-29.664	27.7875	LS	00
+Setleketseng	-29.6	28	LS	00
+Setibing	-29.46667	27.93333	LS	00
+Seshophe	-29.03333	27.96667	LS	00
+Serutle	-28.72906	28.29942	LS	00
+Seqoing	-29.6	27.65	LS	00
+Sepechele	-29.79628	27.36526	LS	00
+Seotsa	-29.2	29.03333	LS	00
+Senqunyane	-30.03222	28.17353	LS	00
+Senqunyane	-29.8	28.16667	LS	00
+Senqunyane	-29.35	28.2	LS	00
+Senqu	-30.1	27.9	LS	00
+Ha Senekane	-29.2554	27.72765	LS	00
+Sempe	-30.3	27.83333	LS	00
+Semonkong	-29.91667	28.03333	LS	00
+Semonkong	-29.81667	28.1	LS	00
+Semenanyane Stream	-29.40513	28.63029	LS	00
+Semenanyane	-29.26667	28.7	LS	00
+Selomong	-30.41667	27.9	LS	00
+Selomas	-28.77549	28.34329	LS	00
+Lehaha La Sekonyani	-29.38333	28.38333	LS	00
+Sekokoaneng	-30.18333	28	LS	00
+Sekoati	-30.2	27.45	LS	00
+Sekoala	-29.43333	27.46667	LS	00
+Sekitsing	-29.91667	28.5	LS	00
+Sekitsing	-29.85	28.48333	LS	00
+Lehaha La Sekhonyane	-30.01388	28.28771	LS	00
+Sekameng	-29.55031	27.22154	LS	00
+Sekameng	-29.61667	27.25	LS	00
+Sekake	-30	28.35	LS	00
+Sejabatho Stream	-30.10699	28.66314	LS	00
+Sejabatho	-30.08333	28.63333	LS	00
+Sehonghong	-29.77826	28.79745	LS	00
+Sehonghong	-29.7	28.78333	LS	00
+Sehlo	-29.1	27.85	LS	00
+Sehlabathebe	-29.87509	29.05186	LS	00
+Seforong	-30.05252	28.24791	LS	00
+Sefikeng	-29.27894	27.80765	LS	00
+Sefikeng	-29.25946	27.82015	LS	00
+Sefikeng	-29.26667	27.83333	LS	00
+Sefikaning	-29.2531	27.83854	LS	00
+Sefikaneng	-29.24077	27.8366	LS	00
+Sefaha	-29.78333	28.9	LS	00
+Seetsas	-28.90035	28.17516	LS	00
+Seelane	-29.61667	29	LS	00
+Sebetia	-29.06667	28.23333	LS	00
+Sebatwani	-28.86667	28.08333	LS	00
+Sebapala Spruit	-30.27594	27.81179	LS	00
+Sebapala	-30.31667	27.85	LS	00
+Sebaki	-29.91667	27.48333	LS	00
+Seakas Drift	-30.38333	27.56667	LS	00
+Seaka	-30.35	27.6	LS	00
+Seahle	-30.05	28.68333	LS	00
+Sani Spruit	-29.61714	29.14124	LS	00
+Samaria	-29.73406	27.29157	LS	00
+Sakeng Stream	-29.35665	29.06438	LS	00
+Saint Therese	-29.01667	28.03333	LS	00
+Saint Roderique	-29.68333	27.66667	LS	00
+Saint Raphael	-29.55	27.93333	LS	00
+Saint Peter Claver	-29.56555	27.38281	LS	00
+Saint Peter	-28.73333	28.48333	LS	00
+Saint Paul	-28.76667	28.23333	LS	00
+Saint Nicolas	-29.48333	27.8	LS	00
+Saint Monica	-28.91667	27.95	LS	00
+Saint Michael	-29.42726	27.68065	LS	00
+Saint Julius	-29.88333	28.28333	LS	00
+Saint Denis	-28.88333	28.28333	LS	00
+Saint Bernard	-29.51667	27.88333	LS	00
+Saint Benedict	-29.58333	27.9	LS	00
+Saint Anne	-28.98333	27.88333	LS	00
+Saint Andrew	-29.9	28.35	LS	00
+Roma	-29.46134	27.72494	LS	00
+Roma	-29.44667	27.70806	LS	00
+Riet Vlei	-30.01667	27.33333	LS	00
+Richard	-29.88333	27.61667	LS	00
+Ribaneng	-29.86081	27.62295	LS	00
+Ribaneng	-29.84425	27.6627	LS	00
+Ribaneng	-29.85	27.66667	LS	00
+Reisi	-29.63197	27.41523	LS	00
+Redi Stream	-29.40874	29.33644	LS	00
+Ratau	-29.3611	27.73457	LS	00
+Rasekilas	-28.75	28.35	LS	00
+Rasebetsane	-29.85	27.75	LS	00
+Rapoleboea	-29.65	27.91667	LS	00
+Rapase	-30.05	28.53333	LS	00
+Ranko	-29.56713	27.23867	LS	00
+Rankakala	-30.05	28.78333	LS	00
+Ramosoeu	-29.90776	27.52446	LS	00
+Ramokotjo	-29.48333	27.58333	LS	00
+Ramokoatsi	-29.74689	27.34817	LS	00
+Ramatseliso	-30.04965	28.93315	LS	00
+Ramapepe	-28.98999	28.14915	LS	00
+Ramahleas	-29.75	27.15	LS	00
+Ramabitsa	-29.73333	27.71667	LS	00
+Raleqheka	-29.67959	27.70025	LS	00
+Ralehlatsa	-29.01667	27.88333	LS	00
+Rakotoane	-29.02743	28.55146	LS	00
+Rakhoiti	-29.55076	27.60732	LS	00
+Rafolatsane	-29.34799	29.00679	LS	00
+Rafolatsane	-29.35	29.01667	LS	00
+Qwadinyane Stream	-30.1501	28.20252	LS	00
+Quthing	-30.40001	27.70027	LS	18
+Quthing	-30.36667	28	LS	18
+Qudu Stream	-29.80135	28.797	LS	00
+Qudu	-29.8	28.78333	LS	00
+Qubushaning	-29.86667	29.01667	LS	00
+Qoqolosing	-28.87618	28.14482	LS	00
+Qoqolosing	-28.86667	28.18333	LS	00
+Qomoqomong	-30.43333	27.73333	LS	00
+Qolakwe	-28.66667	28.43333	LS	00
+Qobong	-30.08333	27.73333	LS	00
+Qoatsaneng	-29.33382	27.49392	LS	00
+Qoang	-29.87292	28.00281	LS	00
+Qoaling	-29.33798	27.49934	LS	00
+Qiloane	-29.35115	27.68291	LS	00
+Qiloane	-29.81667	27.71667	LS	00
+Qibing	-29.7	27.1	LS	00
+Qhuqhu	-29.48881	27.58141	LS	00
+Qhoqhoane	-30.0528	27.44267	LS	00
+Qhoqhoane	-29.9	27.35	LS	00
+Qhomane	-29.55	27.61667	LS	00
+Qhomane	-29.5	27.6	LS	00
+Qholaqhoe	-28.7	28.41667	LS	00
+Qhalasi	-30.0849	27.38273	LS	00
+Qhalasi	-30.1	27.38333	LS	00
+Qeme	-29.47548	27.47847	LS	00
+Qaqatu	-30.15	27.73333	LS	00
+Qaqa Stream	-29.07685	28.74079	LS	00
+Qanya Stream	-30.06	28.47299	LS	00
+Qamako	-29.78468	27.40898	LS	00
+Qalobe	-29.3	27.83333	LS	00
+Qalaheng	-29.21295	27.66212	LS	00
+Qalabane	-29.76366	27.18346	LS	00
+Qalabane	-29.76667	27.2	LS	00
+Qacha's Nek	-30.11537	28.68936	LS	17
+Qacha's Nek	-30	28.75	LS	17
+Qabane	-29.96667	28.4	LS	00
+Qabane	-29.95	28.41667	LS	00
+Qaba	-29.85897	27.59149	LS	00
+Qaba	-29.57378	27.8261	LS	00
+Thaba Putsua	-30.34888	28.03451	LS	00
+Thaba Putsua	-29.93333	28.38333	LS	00
+Thaba Putsua	-29.25714	28.25427	LS	00
+Thaba Putsoa	-29.98054	27.69954	LS	00
+Thaba Putsoa	-29.73216	27.92318	LS	00
+Thaba Putsoa	-29.61667	27.91667	LS	00
+Purumela	-29.53333	27.85	LS	00
+Pulani Stream	-30.27349	28.06199	LS	00
+Pulani	-29.23984	27.91614	LS	00
+Pulane	-29.25	27.93333	LS	00
+Potsane	-28.98333	28.21667	LS	00
+Potomane	-30.28333	27.73333	LS	00
+Pororong Stream	-29.7	28.88333	LS	00
+Popa	-29.53333	27.73333	LS	00
+Popa	-29.46707	27.69667	LS	00
+Pontmain	-29	28.18333	LS	00
+Pokane	-30.35	27.75	LS	00
+Pobane	-29.06667	27.88333	LS	00
+Phuthiatsana	-29.10797	27.6511	LS	00
+Thaba Photu	-29.90622	28.18782	LS	00
+Phororong	-29.16667	28.15	LS	00
+Phoqoane	-29.71667	27.3	LS	00
+Phoqoane	-29.71667	27.26667	LS	00
+Phoofolo	-29.0623	27.81097	LS	00
+Phokojoe Khoaba	-28.92181	28.59751	LS	00
+Phocha	-29.88333	27.73333	LS	00
+Phiring	-30.2	27.76667	LS	00
+Pheellong	-30.03333	28.61667	LS	00
+Thaba Phechela	-29.63638	27.15816	LS	00
+Thaba Phatsoa	-29.24893	27.98509	LS	00
+Phatlalla	-30.38333	27.55	LS	00
+Phapanong	-30.05	28.73333	LS	00
+Phamong	-30.24809	27.8014	LS	00
+Phamong	-30.23333	27.8	LS	00
+Phafoli	-29.80576	27.67746	LS	00
+Pering Stream	-29.35	27.76667	LS	00
+Pelatsoeu	-28.98228	28.43662	LS	00
+Peka	-28.96808	27.75004	LS	00
+Peka	-28.82911	28.21303	LS	00
+Patsi	-28.78273	28.14926	LS	00
+Patrick	-29.52606	27.74409	LS	00
+Patlong	-30.03333	28.33333	LS	00
+Paray	-29.48333	28.6	LS	00
+Pampoen Stream	-30.31667	27.45	LS	00
+Paballong	-30.13333	28.23333	LS	00
+Orange	-29.15	29.03333	LS	00
+Ongeluks Nek	-30.35	28.26667	LS	00
+Old Mohales Hoek	-30.10729	27.47549	LS	00
+Nyane	-29.58096	28.23991	LS	00
+Nyakosoba	-29.52522	27.77324	LS	00
+Numolani	-29.05	28.96667	LS	00
+Nukong	-29.05	28.06667	LS	00
+Ntsupi Stream	-29.96667	28.23333	LS	00
+Ntsupe Stream	-29.71667	27.76667	LS	00
+Ntsupe	-29.74471	27.77423	LS	00
+Ntsupe	-29.66667	27.76667	LS	00
+Ntsunyane	-29.615	27.62949	LS	00
+Thaba Ntso	-28.8508	28.38941	LS	00
+Ntsi	-29.4002	27.76366	LS	00
+Ntsane	-29.51421	27.80822	LS	00
+Ntsa	-28.96667	28.1	LS	00
+Ntloloetsane	-29.43333	28.58333	LS	00
+Thabana Ntlenyana	-29.46667	29.26667	LS	00
+Ntlasing	-29.9	28.01667	LS	00
+Ntlamas	-29.17442	27.87541	LS	00
+Ntjepeleng	-29.92718	27.56735	LS	00
+Ntjepeleng	-29.95	27.6	LS	00
+Ntja	-30.02497	28.03124	LS	00
+Ntilane	-29.96667	27.28333	LS	00
+Nthodimonate	-30.48333	27.75	LS	00
+Nthamaha	-29.98333	27.91667	LS	00
+Ntelle	-28.68872	28.51766	LS	00
+Ntaoti	-29.53333	28.58333	LS	00
+Nqechane	-29.15	28.73333	LS	00
+Nokong	-29.08333	28.06667	LS	00
+Nkoeng	-29.53333	27.71667	LS	00
+Ngope Tsoeu	-29.56667	27.7	LS	00
+Ngechane	-28.78333	28.13333	LS	00
+Neni	-30.2	28.35	LS	00
+Nazareth	-29.39883	27.8043	LS	00
+Nako	-29.61667	27.76667	LS	14
+Mvulazi	-29.33333	28.73333	LS	00
+Mutlanyane	-28.81667	28.45	LS	00
+Muela	-28.95672	27.9749	LS	00
+Mposung	-29.08333	28.3	LS	00
+Mpobong	-29.77818	27.8034	LS	00
+Mphoto	-29.44536	27.58916	LS	00
+Mphokojoane	-29.16646	29.06025	LS	00
+Mpharane	-30.01667	27.55	LS	00
+Mpharane	-28.937	27.93676	LS	00
+Mpharane	-29.98333	27.6	LS	00
+Mpharane	-29.98333	27.55	LS	00
+Mphaki	-30.19513	28.16499	LS	00
+Mpetsana Stream	-29.4781	27.36369	LS	00
+Mparani	-29.93032	29.0543	LS	00
+Mpara	-29.16667	27.81667	LS	00
+Motubatsane Stream	-29.58354	27.37206	LS	00
+Motsitseng	-29.25	29.03333	LS	00
+Motsie	-29.92015	28.28311	LS	00
+Motsiba	-29.81667	28.25	LS	00
+Motsekwa Stream	-29.9	28.26667	LS	00
+Motsekuoa	-29.70102	27.43436	LS	00
+Motsekuoa	-29.88333	28.36667	LS	00
+Motsapi	-30.36667	27.85	LS	00
+Motoboi	-29.6	27.88333	LS	00
+Motloang	-29.32236	27.64998	LS	00
+Motlejoa	-29.6929	27.67288	LS	00
+Motete	-28.96667	28.58333	LS	00
+Motebang	-29.3	27.88333	LS	00
+Motai	-28.9	28.8	LS	00
+Mosukoaperi	-29.9	28.31667	LS	00
+Mosoang	-29.67284	27.57124	LS	00
+Mosoang	-29.73333	27.56667	LS	00
+Moshebi	-29.93333	29.03333	LS	00
+Mosetlas	-30.33333	27.75	LS	00
+Mosenekeng	-29.88333	28.68333	LS	00
+Moseneke	-30.35	27.86667	LS	00
+Mosekuwa Stream	-29.69183	27.44475	LS	00
+Mosalomani	-29.21667	28.11667	LS	00
+Mosala	-29.72984	27.55707	LS	00
+Mosafeleng	-29.95	28.9	LS	00
+Morobong	-30.36204	27.49861	LS	00
+Morija	-29.62982	27.51351	LS	00
+Morifi	-30.30249	27.40383	LS	00
+Morifi	-30.27295	27.41774	LS	00
+Morifi	-30.31667	27.38333	LS	00
+Moremoholo	-29.2	29.13333	LS	00
+Morameng	-29.08004	27.72566	LS	00
+Moqetapoli	-29.69132	27.44495	LS	00
+Mopeli	-30.13333	28.05	LS	00
+Mopeli	-28.78333	28.26667	LS	00
+Monyetling	-29.68462	28.86555	LS	00
+Monyake	-29.97715	27.33949	LS	00
+Monyake	-29.98333	27.33333	LS	00
+Montmartre	-29.73333	28.35	LS	00
+Monkhoaneng	-29.71808	27.44893	LS	00
+Moniahania	-29.63333	28.05	LS	00
+Mongobong	-29.2	28.65	LS	00
+Monese	-30.1	28.16667	LS	00
+Monantsa	-28.56667	28.63333	LS	00
+Monaheng	-29.86667	27.71667	LS	00
+Molumong	-29.32551	28.98931	LS	00
+Molumong	-29.03442	27.89675	LS	00
+Molumong	-29.3	29.01667	LS	00
+Molomos Hoek	-29.71603	27.48407	LS	00
+Molikaliko	-29.4	28.11667	LS	00
+Moliboeas	-28.95	28.05	LS	00
+Moliboeas	-28.9	28.1	LS	00
+Moletsanes	-29.16667	28.05	LS	00
+Moletsane	-29.92743	27.31424	LS	00
+Molefis	-28.76667	28.28333	LS	00
+Lehaha la Molapo	-29.12622	28.34703	LS	00
+Mokunutlung	-28.96667	27.85	LS	00
+Mokotla Wa Tsuene	-30.5	27.68333	LS	00
+Mokotjomela	-30.28333	27.86667	LS	00
+Mokoroane	-29.92369	27.21481	LS	00
+Mokopo Stream	-30.35743	27.60829	LS	00
+Mokopo	-30.26539	27.58684	LS	00
+Mokonyane	-29.28832	27.85867	LS	00
+Mokomane	-28.99637	28.54508	LS	00
+Mokomahatsi	-29.0134	27.99039	LS	00
+Mokoeng	-29.24077	28.90116	LS	00
+Mokoallong	-29.26014	27.72249	LS	00
+Moklesi	-29.33333	28.08333	LS	00
+Mokibi Stream	-29.83333	28.8	LS	00
+Mokhotlong	-29.28939	29.06751	LS	16
+Mokhotlong	-29.26667	29.16667	LS	00
+Mokhotlong	-29.21667	29.03333	LS	16
+Mokhobong Stream	-30.18333	27.9	LS	00
+Mokhethoaneng	-29.23333	27.56667	LS	00
+Mokhele	-30.1	27.58333	LS	00
+Mokhele	-30.11667	27.53333	LS	00
+Mokhathis	-29.11667	27.95	LS	00
+Mokhalinyane	-29.48333	27.36667	LS	00
+Mokhalimetso	-29.93333	28.28333	LS	00
+Mokema	-29.46667	27.65	LS	00
+Mojela	-29.54875	27.88814	LS	00
+Moitsupelis	-29.58333	27.76667	LS	00
+Mohokare	-29.40877	27.43067	LS	00
+Mohoale Stream	-29.91667	28.26667	LS	00
+Thabana Mohlomi	-29.6019	27.11994	LS	00
+Mohlehli	-29.73885	27.20782	LS	00
+Mohlanapeng	-29.59308	28.66963	LS	00
+Mohlakoanas	-30.21788	27.93939	LS	00
+Mohlafateng	-29.03333	27.86667	LS	00
+Mohalinyane	-30.08333	27.35	LS	00
+Mohale's Hoek	-30.15137	27.47691	LS	15
+Mofokas	-29.50601	27.59683	LS	00
+Mofoka	-30	27.36667	LS	00
+Mofalaning Stream	-29.20082	28.88625	LS	00
+Mochawa	-29.4	27.61667	LS	00
+Mochanyane Stream	-30.45	27.6	LS	00
+Mkupa	-30.31667	27.56667	LS	00
+Minoaning	-29.428	28.93652	LS	00
+Milikane	-29.9	28.81667	LS	00
+Metsoarong	-29.36667	27.76667	LS	00
+Metolong	-29.34379	27.78338	LS	00
+Metlaeeng	-29.65	27.53333	LS	00
+Methalaneng	-29.31667	28.65	LS	00
+Meta	-29.55	28.9	LS	00
+Mesitsaneng	-30.18351	27.42547	LS	00
+Merataleng Stream	-30.4601	28.00046	LS	00
+Menkhoaneng	-28.91667	28.21667	LS	00
+Meniameng	-29.13333	28.21667	LS	00
+Thabana Li Mele	-29.6	27.8	LS	00
+Mekhokhong	-29.43333	27.7	LS	00
+Mekhading Stream	-30.31361	27.46549	LS	00
+Mekaling	-30.29135	27.48781	LS	00
+Meeling	-29.95	27.21667	LS	00
+Mechachaneng	-28.68333	28.35	LS	00
+Mechachaneng	-28.6569	28.68189	LS	00
+Mechachaneng	-28.61667	28.56667	LS	00
+Mazenod	-29.41896	27.56893	LS	00
+Mautse	-29.6	27.73333	LS	00
+Matsoko	-29.38333	28.6	LS	00
+Matsoaing	-29.38333	29.08333	LS	00
+Matsieng	-29.61715	27.56645	LS	00
+Matsieng	-29.6	27.53333	LS	00
+Matsaile	-29.81867	28.7758	LS	00
+Matsaile	-29.83333	28.8	LS	00
+Matsaba	-29.65974	27.75263	LS	00
+Matlameng	-28.96667	28.28333	LS	00
+Matlali	-29.08333	28.08333	LS	00
+Matibeng	-29.8	28.85	LS	00
+Mathokoane	-28.97246	28.02778	LS	00
+Mathokoane	-28.97434	28.04787	LS	00
+Mathebe	-29.74511	27.40376	LS	00
+Mathebe	-29.78333	27.4	LS	00
+Matelile	-29.8	27.56667	LS	00
+Matelile	-29.9	27.53333	LS	00
+Matelile	-29.81667	27.5	LS	00
+Matela	-29.37502	27.76764	LS	00
+Mateka	-29.23333	27.88333	LS	00
+Mateanong	-29.35	29.21667	LS	00
+Mate	-28.85	28.23333	LS	00
+Matateng Stream	-29.56667	28.28333	LS	00
+Massabiella	-29.53067	27.57716	LS	00
+Masitise	-30.40404	27.64556	LS	00
+Masite Nek	-29.58838	27.48914	LS	00
+Masite	-29.57281	27.45997	LS	00
+Masite	-29.56667	27.41667	LS	00
+Masiribanis Drift	-30.08333	28.03333	LS	00
+Masiepo	-30.00818	28.57227	LS	00
+Masianokeng	-29.39064	27.56061	LS	00
+Mashai	-29.64512	28.80923	LS	00
+Mashai	-29.63333	28.81667	LS	00
+Maseru	-29.3	27.46667	LS	00
+Maseru	-29.31667	27.48333	LS	14
+Maseru	-29.58333	27.83333	LS	14
+Masemouse	-29.88667	27.61353	LS	00
+Masemouse	-29.91667	27.63333	LS	00
+Masemouse	-29.91667	27.61667	LS	00
+Masemouse	-29.9	27.63333	LS	00
+Maseepho	-30.03333	28.6	LS	00
+Masapong	-29.4089	27.76361	LS	00
+Masakoane	-29.73333	28.81667	LS	00
+Maryvale	-28.81667	28.36667	LS	00
+Maris Stella	-28.75	28.36667	LS	00
+Marakabeis	-29.54498	28.14148	LS	00
+Maquho	-29.91456	28.58289	LS	00
+Maqoala	-30.05	27.5	LS	00
+Maqhogo	-30.15	27.96667	LS	00
+Maqhoane	-29.21667	27.96667	LS	00
+Maputsoe	-28.8866	27.89915	LS	12
+Maputsoe	-29.55	28.8	LS	00
+Mapotu	-29.63973	27.22512	LS	00
+Mapoteng	-29.10979	27.9741	LS	00
+Mapoteng	-29.11667	28.01667	LS	00
+Maphutseng	-30.21667	27.51667	LS	00
+Maphutseng	-30.21338	27.49108	LS	00
+Maphutsaneng	-30.3	27.45	LS	00
+Maphonkoane	-29.9	27.71667	LS	00
+Maphakeng	-28.83333	28.13333	LS	00
+Mapeeleng	-29.18333	28.01667	LS	00
+Mantsonyane	-29.56667	28.26667	LS	00
+Mantsoepa	-30.25	27.9	LS	00
+Mantsebo	-29.48333	27.51667	LS	00
+Mantsa	-29.6558	27.83799	LS	00
+Mantoetsi	-29.15	27.9	LS	00
+Mankimane	-29.85	27.35	LS	00
+Mankata	-30.06667	28.15	LS	00
+Manganeng Stream	-29.8	28.86667	LS	00
+Manganeng	-29.02674	27.7881	LS	00
+Manganeng	-29.8	28.9	LS	00
+Manganeng	-29.04274	27.77585	LS	00
+Manamaneng	-29.55	29.01667	LS	00
+Mamathes	-29.12636	27.83363	LS	00
+Mamahlowei	-30.00172	28.45415	LS	00
+Mamaebana	-29.76977	27.67684	LS	00
+Mamaebana	-29.76667	27.65	LS	00
+Malumeng	-29.84655	27.43944	LS	00
+Malubalube	-29.33333	28.91667	LS	00
+Malotoaneng	-29.12047	27.72846	LS	00
+Malingoaneng	-29.31667	28.78333	LS	00
+Malimong	-29.66347	27.40448	LS	00
+Maliele	-29.42634	27.67056	LS	00
+Malibe	-30.24886	27.93577	LS	00
+Malibamatso	-29.11667	28.48333	LS	00
+Maletsunyane	-30.08333	27.95	LS	00
+Malefiloane	-28.75	28.5	LS	00
+Malealea	-29.85	27.56667	LS	00
+Malaoaneng	-28.9	28.18333	LS	00
+Malaleng	-29.65254	27.33581	LS	00
+Makwena	-28.71667	28.2	LS	00
+Makwali Stream	-30.03333	27.48333	LS	00
+Lehaha La Makwai	-29.93333	28.25	LS	00
+Makunyapane	-29.55	28.73333	LS	00
+Makuaes	-30.28799	28.05757	LS	00
+Makong	-28.71667	28.23333	LS	00
+Makokong	-29.63333	28.15	LS	00
+Makokoane	-28.83333	28.26667	LS	00
+Makojang	-29.93333	27.73333	LS	00
+Makoaneng	-29.45453	27.40113	LS	00
+Makoaneng	-29.45	27.41667	LS	00
+Makhoathi	-29.34987	27.5998	LS	00
+Makhoas	-28.96386	28.13354	LS	00
+Makhoarane	-29.65	27.55	LS	00
+Makhoa	-28.96667	28.11667	LS	00
+Makhinas	-30.15	27.35	LS	00
+Makheka	-29.23253	29.28958	LS	00
+Makheka	-29.6	28.95	LS	00
+Makhaleng	-29.51667	27.9	LS	00
+Makhaleng	-30.08333	27.38333	LS	00
+Makhalanyane	-29.40874	27.61739	LS	00
+Makhakhe	-29.75	27.55	LS	00
+Makhaketsa	-29.00184	27.75745	LS	00
+Makaung	-29.85	27.2	LS	00
+Majoematso Stream	-30.4	27.76667	LS	00
+Majoematso	-30.48333	27.83333	LS	00
+Majoematso	-29.06667	28.11667	LS	00
+Mahuu	-29.51667	27.43333	LS	00
+Maholokoane	-29.8	27.46667	LS	00
+Maholi	-29.71226	27.39684	LS	00
+Mahoeng	-29.95	28.78333	LS	00
+Mahobong	-28.93479	28.16387	LS	00
+Mahloenyeng	-29.5689	27.55126	LS	00
+Mahlatsas Nek	-29.21667	27.98333	LS	00
+Mahlatsa	-29.17791	27.97643	LS	00
+Mahlatsa	-29.18859	27.9513	LS	00
+Mahatlanes	-29.20855	27.84178	LS	00
+Mahareng	-29.68171	27.40267	LS	00
+Mafura	-30.36667	27.95	LS	00
+Mafikalisiu	-30.05	27.81667	LS	00
+Mafikalisiu	-29.7	27.58333	LS	00
+Mafeteng	-29.82299	27.23744	LS	13
+Madingwaneng	-29.05	28.81667	LS	00
+Machekoaneng	-29.43532	27.545	LS	00
+Machache	-29.3628	27.89717	LS	00
+Machache	-29.38333	27.86667	LS	00
+Mabotse	-29.64353	27.06723	LS	00
+Maboloka	-29.86667	27.33333	LS	00
+Maboloka	-29.898	27.27292	LS	00
+Mabele	-29.41534	27.99273	LS	00
+Lower Qeme	-29.53242	27.49545	LS	00
+Loretto	-29.35003	27.49102	LS	00
+Litsoetse	-29.68333	28.73333	LS	00
+Litsoetse	-29.65	28.71667	LS	00
+Litsoeneng	-29.64162	27.04987	LS	00
+Litsoeneng	-30.01667	28.8	LS	00
+Litsoeneng	-29.68333	27.06667	LS	00
+Litsilong	-29.22257	27.70356	LS	00
+Lisolane	-29.03333	28.23333	LS	00
+Liseleng	-29.26667	28.6	LS	00
+Lirahalibonoe	-29.45	27.93333	LS	00
+Liqoabing	-29.55	27.38333	LS	00
+Liqalabeng	-29.95	28.61667	LS	00
+Liphokoaneng	-29.04712	27.93522	LS	00
+Liphofung	-30.03333	27.6	LS	00
+Liphiring	-30.15	27.35	LS	00
+Liphiring	-29.08979	27.77723	LS	00
+Liphateng	-30.03942	27.43349	LS	00
+Liphakoeng	-28.72794	28.36484	LS	00
+Lipetung Nek	-29.05	28.11667	LS	00
+Lipetung	-29.05	28.13333	LS	00
+Lipetung	-29.01667	28.15	LS	00
+Liotloaneng	-29.15	28.16667	LS	00
+Liotlaneng	-29.1	28.1	LS	00
+Linotsing	-28.90458	28.02583	LS	00
+Linokong	-28.78333	28.33333	LS	00
+Linakeng	-29.5	28.78333	LS	00
+Linakaneng	-29.52594	28.89022	LS	00
+Linakaneng	-29.5	28.9	LS	00
+Limonkaneng	-29.1	28.96667	LS	00
+Likupa	-29.7649	27.28793	LS	00
+Likotsi	-29.38	27.4531	LS	00
+Likotopong	-29.58333	27.9	LS	00
+Likomeng	-29.41667	28.8	LS	00
+Thaba Ea Likome	-29.64515	27.64805	LS	00
+Likolobeng	-29.50452	27.87856	LS	00
+Likolobeng	-29.51667	27.9	LS	00
+Likhoele	-29.80693	27.29492	LS	00
+Likhoele	-29.86926	27.26722	LS	00
+Likhoele	-29.8267	27.31588	LS	00
+Likhetleng	-29.53333	27.3	LS	00
+Likhetleng	-29.55	27.3	LS	00
+Likhameng	-29.31667	28.91667	LS	00
+Likhakeng	-29.6214	27.31949	LS	00
+Likhakeng	-28.91652	28.09762	LS	00
+Likalaneng	-29.45	28.08333	LS	00
+Lihloahloeng	-29.5	28.73333	LS	00
+Lifis Nek	-28.81667	28.15	LS	00
+Lifateng	-30.01667	27.45	LS	00
+Lifajaneng	-29.91667	27.58333	LS	00
+Libono	-28.6244	28.57097	LS	00
+Leutsoa	-29.53689	27.51626	LS	00
+Letsunyane Stream	-29.68333	27.8	LS	00
+Letsunyane	-29.68333	27.8	LS	00
+Letsikas	-28.66502	28.4229	LS	00
+Letsikas	-28.63333	28.38333	LS	00
+Letsie	-29.83333	27.31667	LS	00
+Letsie	-29.63333	27.53333	LS	00
+Letseng-la-Terae	-28.91667	28.81667	LS	00
+Letseng-la-Terae	-29.00601	28.85923	LS	00
+Letsatseng	-29.73333	28.73333	LS	00
+Letlapeng	-29.71667	27.45	LS	00
+Letibas Nek	-29.88333	28.96667	LS	00
+Thaba Lethu	-29.96667	27.81667	LS	00
+Letele	-28.96667	28.3	LS	00
+Kingdom of Lesotho	-29.5	28.25	LS	00
+Lesoiti	-29.3905	27.60336	LS	00
+Lesobeng	-29.73333	28.38333	LS	00
+Leseling	-29.91667	28.61667	LS	00
+Lersuelas	-29.03333	28.1	LS	00
+Leribe Plateau	-28.83835	28.12279	LS	00
+Leribe	-28.87185	28.04501	LS	12
+Leribe	-28.83333	28.1	LS	00
+Leqooa	-29.86667	29.06667	LS	00
+Leqooa	-29.83333	29.06667	LS	00
+Leqiliqili	-29.59303	27.90216	LS	00
+Leqheku	-30.1489	28.00498	LS	00
+Leqetsoane	-29.44781	27.59228	LS	00
+Lephaqhoa	-29.06667	28.43333	LS	00
+Lempetje	-29.8	27.31667	LS	00
+Leloaleng	-30.4	27.68333	LS	00
+Lekokoaneng	-29.16433	27.69003	LS	00
+Lekoatsa	-29.90857	27.42761	LS	00
+Lekhooa	-29.9	27.91667	LS	00
+Lekhatje	-29.88333	27.68333	LS	00
+Lekhatje	-29.86667	27.65	LS	00
+Lekhalong	-29.03333	27.9	LS	00
+Lekhalo La Makhoa	-29.06667	28.35	LS	00
+Lekhalo La Maburo	-30.18333	27.63333	LS	00
+Lejone	-29.10853	28.48807	LS	00
+Lehlohonolong	-30.2	27.55	LS	00
+Lehahaneng	-29.88333	27.55	LS	00
+Ledingwana	-29.25	28.83333	LS	00
+Lebingwanas Cattle Post	-28.91667	28.9	LS	00
+Lebaking Stream	-29.88525	28.66715	LS	00
+Laoti	-29.03333	28.51667	LS	00
+Lancers Gap	-29.3148	27.54999	LS	00
+Laghetto	-29.25	28.56667	LS	00
+Kwokwobe	-29.3	27.98333	LS	00
+Kwebung Stream	-29.86667	28.26667	LS	00
+Kueneng	-29.07472	28.00787	LS	00
+Kubutsani	-29.88375	29.08502	LS	00
+Kubung	-29.00953	27.71472	LS	00
+Kubung	-30.09404	28.01978	LS	00
+Kubung	-30.08333	28.01667	LS	00
+Kubaki Stream	-29.74115	27.7402	LS	00
+Kubaki	-30.16667	27.46667	LS	00
+Kubake	-29.73333	27.73333	LS	00
+Kotoanyane	-29.9	27.21667	LS	00
+Kota	-28.85	28.28333	LS	00
+Koro-Koro	-29.39956	27.56585	LS	00
+Koro-Koro	-29.5	27.63333	LS	00
+Kopialina	-30.03333	27.51667	LS	00
+Kopanong	-29.76667	27.25	LS	00
+Kometspruit	-30.05	27.45	LS	00
+Komakha	-30.14348	28.39949	LS	00
+Kolonyama	-29.06506	27.73308	LS	00
+Kolonyama	-29.07284	27.72748	LS	00
+Kolo la Pere	-30.13333	27.4	LS	00
+Kolojane	-28.98333	28.03333	LS	00
+Kolo	-29.59315	27.34835	LS	00
+Kolo	-29.60774	27.32515	LS	00
+Kolberg	-29.45	28.5	LS	00
+Kolbere	-29.46667	28.51667	LS	00
+Kokolia	-29.30522	27.90831	LS	00
+Kokobe	-30.15	27.83333	LS	00
+Kokobe	-29.15	29.1	LS	00
+Kokobe	-30.46667	27.71667	LS	00
+Koeneng	-29.06667	28.01667	LS	00
+Koeneng	-29.03333	28	LS	00
+Kobong	-29.23333	28.48333	LS	00
+Koali	-29.20476	27.76669	LS	00
+Thaba Khupa	-29.40504	27.63267	LS	00
+Khukuhune	-28.71667	28.41667	LS	00
+Khubetsoana	-29.68333	27.65	LS	00
+Khubelu	-29.26667	28.86667	LS	00
+Khuabaliyabohobe	-29.11667	28.28333	LS	00
+Khotso	-29.8	28.2	LS	00
+Khotsi	-29.06107	27.93539	LS	00
+Khotla	-29.75	27.58333	LS	00
+Khorobetloa	-30.15	27.61667	LS	00
+Khoro	-30.53333	27.73333	LS	00
+Khopung	-29.33333	28.6	LS	00
+Khomokwani Stream	-28.87449	27.96993	LS	00
+Khololikane	-29.61667	27.71667	LS	00
+Khokhoba	-29.18333	28.06667	LS	00
+Khojane	-29.78333	27.15	LS	00
+Khitsane	-30.09214	27.41387	LS	00
+Khilibiting Stream	-29.93333	27.53333	LS	00
+Khilibiting	-29.9	27.46667	LS	00
+Khiba	-29.91667	27.88333	LS	00
+Khetisas	-28.91667	28.16667	LS	00
+Khatleli	-29.28333	28.96667	LS	00
+Khatibe	-28.71667	28.5	LS	00
+Khanyane	-28.88418	28.10575	LS	00
+Khano	-29.18333	27.73333	LS	00
+Khamolane	-29.35	27.73333	LS	00
+Khafung	-29.10548	27.90097	LS	00
+Khabos	-28.83333	28.23333	LS	00
+Kepisi	-29.61667	28.13333	LS	00
+Kepi	-29.15648	27.77199	LS	00
+Kena	-29.76667	27.65	LS	00
+Kena	-29.75	27.68333	LS	00
+Kelechane	-29.74481	27.80467	LS	00
+Kau Stream	-29.01731	28.5528	LS	00
+Kaphe	-29.95565	27.64088	LS	00
+Kala	-28.71667	28.33333	LS	00
+Jordane	-29.38333	28.03333	LS	00
+Jonathans	-28.8016	28.10665	LS	00
+Joels Drift	-28.7	28.28333	LS	00
+Joel	-28.68333	28.28333	LS	00
+Jaele	-29.45688	27.87387	LS	00
+Ino	-29.33333	27.85	LS	00
+Holy Cross	-30.35	27.51667	LS	00
+Hololo	-28.71667	28.43333	LS	00
+Hobsons	-29.11667	27.96667	LS	00
+Hloahloeng	-30.03358	28.2005	LS	00
+Hlewing	-30.08333	27.71667	LS	00
+Hleoheng	-28.91667	27.88333	LS	00
+Hlakudi	-28.73333	28.18333	LS	00
+Hlakametsas	-28.71234	28.43679	LS	00
+Hlabeng Sa Dikhama	-29.35	28.08333	LS	00
+Hermon	-29.72529	27.11191	LS	00
+Hendriks	-28.62929	28.40448	LS	00
+Helspoort	-29.86667	27.4	LS	00
+Helehehle	-29.98333	27.5	LS	00
+Ha Nohana	-30.05371	27.85378	LS	00
+Hangers Drift	-29.2	27.56667	LS	00
+Hameeding	-28.81667	28.55	LS	00
+Haljoane	-29.06667	27.95	LS	00
+Habana Morena	-29.01667	27.8	LS	00
+Gethsemane	-29.18333	27.88333	LS	00
+George	-29.25	27.95	LS	00
+Furumela	-29.55	27.8	LS	00
+Foso	-29.26667	27.56667	LS	00
+Fosi	-29.43333	27.86667	LS	00
+Fort Hartley	-30.33333	27.75	LS	00
+Fobani Nek	-29.05	27.91667	LS	00
+Fiso Stream	-30.57558	28.02322	LS	00
+Fikalemotho Spruit	-30.05624	28.4741	LS	00
+Fikalemahloana	-30.26667	27.98333	LS	00
+Fika La Tsoene	-30.30523	27.65089	LS	00
+Fikalatsoene	-30.33333	27.61667	LS	00
+Fako	-29.28241	27.80598	LS	00
+Emmaus	-29.76667	27.55	LS	00
+Duoklaning	-29.2	28.21667	LS	00
+Ditsuming	-29.28333	28.26667	LS	00
+Ditsuening	-29.81365	28.3434	LS	00
+Ditsetsi Stream	-29.70543	28.73966	LS	00
+Ditsebi	-29.30875	28.13338	LS	00
+Ditau	-28.93333	28.11667	LS	00
+Diseleng	-29.21506	28.70554	LS	00
+Diqonong Stream	-29.72734	28.74076	LS	00
+Diqaleng Stream	-30.35327	28.08834	LS	00
+Diqaleng	-29.96667	28.85	LS	00
+Diqalaning	-29.06667	28.46667	LS	00
+Dinkung	-28.61667	28.51667	LS	00
+Dilli Dilli Stream	-30.51667	27.66667	LS	00
+Dilli Dilli	-30.52698	27.67018	LS	00
+Dikolobeng Stream	-30.38333	27.91667	LS	00
+Dikolobeng	-30.13333	27.66667	LS	00
+Diklatsaning	-28.8	28.11667	LS	00
+Dikhotopong Stream	-29.59707	27.91382	LS	00
+Dikhoileng	-29.6	28.65	LS	00
+Dikhinbaning Stream	-30.33604	28.14056	LS	00
+Dikhaleng Nek	-29.26667	27.98333	LS	00
+Dikhahling	-29.27271	28.01676	LS	00
+Dihloireng	-30.23154	27.3779	LS	00
+Digaleng Stream	-30.45	27.81667	LS	00
+Digalaning Stream	-29.71267	28.4102	LS	00
+Dibolerg Stream	-29.86667	28.71667	LS	00
+Corn Exchange	-28.98333	27.98333	LS	00
+Thaba Chicha	-30.01389	27.45891	LS	00
+Thaba Chicha	-29.60082	27.50685	LS	00
+Chere	-29.60234	27.17003	LS	00
+Central Range	-29.5	28.5	LS	00
+Cana	-29.10911	27.83507	LS	00
+Butha-Buthe	-28.76659	28.24937	LS	11
+Butha-Buthe	-28.76667	28.23333	LS	00
+Butha-Buthe	-28.8	28.56667	LS	11
+Brakfontein	-30.24178	27.43452	LS	00
+Braken Tau	-30.06667	27.83333	LS	00
+Botsoela	-29.81667	27.6	LS	00
+Botsela Stream	-29.83333	27.65	LS	00
+Botsabelo	-29.26667	27.51667	LS	00
+Thaba Bosudu	-30.04929	28.40847	LS	00
+Thaba Bosiu	-29.36667	27.68333	LS	00
+Thaba Bosigo	-29.35	27.66667	LS	00
+Boritsa Tsuene	-29.0438	28.48241	LS	00
+Boritsa	-30.05	27.73333	LS	00
+Boribeng	-28.8	28.21667	LS	00
+Boqate	-29.3549	27.5885	LS	00
+Bopeli	-29.53333	27.53333	LS	00
+Bongalla	-29.6971	27.21031	LS	00
+Bongalla	-29.7	27.23333	LS	00
+Bolula	-30.2	27.93333	LS	00
+Bolometsa	-29.53868	27.47076	LS	00
+Bolepeletsa	-30.44179	27.60256	LS	00
+Boleka	-29.69157	27.37506	LS	00
+Boleka	-29.71667	27.38333	LS	00
+Bolatella	-30.01667	28.01667	LS	00
+Bokung Stream	-29.40067	28.11393	LS	00
+Bokong	-29.33587	28.46091	LS	00
+Bokhoasa	-29.55	28.91667	LS	00
+Thaba Bodula	-30.21667	27.95	LS	00
+Bocheletsane	-29.46667	28.31667	LS	00
+Bochabela	-29.72033	27.32034	LS	00
+Bobatsi	-29.41667	28.85	LS	00
+Blue Gums	-30.33952	27.52884	LS	00
+Blokung	-28.8	28.15	LS	00
+Bitso-Lebe	-29.18333	28.08333	LS	00
+Bethel	-30.2	27.86667	LS	00
+Bethel	-30.23333	27.86667	LS	00
+Bethany	-29.30021	27.7287	LS	00
+Berente	-29.89561	27.65406	LS	00
+Berea Stream	-29.25	27.55	LS	00
+Berea	-29.28971	27.63013	LS	00
+Berea	-29.26667	27.6	LS	00
+Berea	-29.16667	27.91667	LS	10
+Belkome Nek	-29.38333	27.9	LS	00
+Bela-Bela	-29.03333	28.05	LS	00
+Thaba Basiu	-29.05	28.71667	LS	00
+Lehaha La Basadi	-28.88333	28.83333	LS	00
+Babatsi Stream	-29.37175	28.82635	LS	00
+Anone	-30.28333	27.7	LS	00
+Alwyns Kop	-30.39442	27.62072	LS	00
+Alehloana	-29.55	28.23333	LS	00
+Abele	-29.63985	27.6769	LS	00
+Thaba-Tseka	-29.52204	28.6084	LS	19
+Maseru / Moshoeshoe	-29.46226	27.5525	LS	
+Maseru-Mia	-29.30405	27.50346	LS	
+Lesobeng	-29.75778	28.3589	LS	19
+Kao	-29.01579	28.62736	LS	11
+Liqhobong	-28.9876	28.59866	LS	16
+Makhunoane	-28.62725	28.45609	LS	11
+Hleoheng	-28.92899	27.87038	LS	12
+Hleoheng Community	-28.97315	27.91805	LS	12
+Khomokhoana Community	-28.88185	27.9317	LS	12
+Fenyane Community	-29.0372	28.1395	LS	12
+Limamarela Community	-29.1727	28.41955	LS	12
+Makhunoane Community	-28.64355	28.4769	LS	11
+Linare Community	-28.85855	28.10585	LS	12
+Kao Community	-29.0251	28.5679	LS	11
+Semonkong Community	-29.8488	27.9941	LS	14
+Litjotjela Community	-28.93435	28.02335	LS	12
+Mapoteng Community	-29.11915	28.0256	LS	10
+Malaoaneng Community	-28.91983	28.2383	LS	12
+Maisa-Phoka Community	-28.7802	28.20605	LS	12
+Senekane Community	-29.2525	27.74335	LS	10
+Kanana Community	-29.1931	27.6279	LS	10
+Koeneng Community	-29.01615	27.9981	LS	10
+Qiloane Community	-29.36275	27.63195	LS	14
+Makeoana Community	-29.15565	28.1119	LS	10
+Maluba-lube Community	-29.15415	27.77305	LS	10
+Motanasela Community	-29.25965	27.8462	LS	10
+Phuthiatsana Community	-29.1255	27.88005	LS	10
+Tebe-Tebe Community	-29.2147	27.9138	LS	10
+Likila Community	-28.7243	28.406	LS	11
+Linakeng Community	-28.81	28.3977	LS	11
+Lipelaneng Community	-28.75355	28.2582	LS	11
+Moteng Community	-28.78335	28.49545	LS	11
+Liqobong Community	-28.61855	28.618	LS	11
+Ntelle Community	-28.6898	28.50945	LS	11
+Sekhobe Community	-28.92775	28.59635	LS	11
+Tsa-le-Moleka Community	-28.76135	28.3355	LS	11
+Manka Community	-28.99415	27.8215	LS	12
+Matlameng Community	-28.9796	28.3017	LS	12
+Menkhoaneng Community	-28.8858	28.29275	LS	12
+Motati Community	-28.94995	28.1044	LS	12
+Mphorosane Community	-29.1543	28.53255	LS	12
+Sephokong Community	-28.8066	28.14005	LS	12
+Serupane Community	-28.94895	28.148	LS	12
+Seshote Community	-29.21535	28.617	LS	12
+Tsoili-Tsoili Community	-29.04265	27.7438	LS	12
+Likalaneng Community	-29.4652	28.0979	LS	19
+Lilala Community	-29.53345	27.4088	LS	14
+Makheka Community	-29.66415	27.85765	LS	14
+Makhoarane Community	-29.6208	27.53445	LS	14
+Makhalaneng Community	-29.6482	27.7338	LS	14
+Ribaneng Community	-29.7557	27.719	LS	13
+Makhaleng Constituency	-29.69998	27.72572	LS	14
+Makolopetsane Community	-29.6968	28.12065	LS	14
+Manonyane Community	-29.47395	27.7325	LS	14
+Mabote Community	-29.2788	27.5243	LS	10
+Abia Community	-29.3827	27.5377	LS	14
+Lithabaneng Community	-29.3663	27.5381	LS	14
+Lithoteng Community	-29.36774	27.515	LS	14
+Motimposo Community	-29.3136	27.5216	LS	14
+Qoaling Community	-29.3358	27.498	LS	14
+Maseru Central Community	-29.30642	27.47505	LS	14
+Mazenod Community	-29.4643	27.4971	LS	14
+Nyakosoba Community	-29.5049	27.8694	LS	14
+Ratau Community	-29.383	27.78935	LS	14
+Telle Community	-29.83707	28.13187	LS	14
+Khoelenya Community	-30.29425	27.4912	LS	15
+Likhutloaneng Community	-29.9769	28.1387	LS	15
+Mashaleng Community	-30.09435	27.4191	LS	15
+Nkau Community	-29.94815	28.31815	LS	15
+Mootsinyane Community	-30.2683	27.6813	LS	15
+Phamong Community	-30.20425	27.78915	LS	15
+Qabane Community	-29.94495	28.45775	LS	15
+Qhobeng Community	-29.9275	27.84345	LS	15
+Qobong Community	-30.0796	27.78925	LS	15
+Seroto Community	-29.9752	27.9656	LS	15
+Siloe Community	-29.98375	27.2793	LS	15
+Teke Community	-30.17025	27.58835	LS	15
+Thaba-Mokhele Community	-30.02365	27.5505	LS	15
+Khalahali Community	-29.12435	29.11265	LS	16
+Khubelu Community	-29.2796	28.7778	LS	19
+Patlong Community	-30.0803	28.3105	LS	17
+Linakaneng Community	-29.4737	28.95285	LS	16
+Liphamola Community	-29.2928	29.04835	LS	16
+Mapholaneng Community	-29.1793	28.88305	LS	16
+Mateanong Community	-29.3545	29.2188	LS	16
+Matsoku Community	-29.17005	28.6572	LS	12
+Molika-Liko Community	-29.0921	28.99805	LS	16
+Moremoholo Community	-29.23825	29.12525	LS	16
+Pae-La-Itlhatsoa Community	-29.0469	28.91005	LS	16
+Popa Community	-29.2593	28.94895	LS	16
+Rafolatsane Community	-29.35485	28.91105	LS	16
+Sakeng Community	-29.3593	29.0999	LS	16
+Tekeseleng Community	-29.39665	29.06815	LS	16
+Khomo-Phatsoa Community	-29.9234	28.98245	LS	17
+Letloepe Community	-30.0954	28.66345	LS	17
+Maseepho Community	-30.0128	28.5465	LS	17
+Matebeng Community	-29.84485	28.8738	LS	19
+Ramatseliso Community	-30.04475	28.86375	LS	17
+Ratsoleli Community	-30.04855	28.6856	LS	17
+Thaba-Litsoene Community	-29.973	28.8188	LS	17
+Mosenekeng Community	-29.908	28.7526	LS	17
+Thaba-Khubelu Community	-29.88975	28.66055	LS	17
+Ha Nkoebe Community	-30.36895	27.81755	LS	18
+Likhohlong Community	-30.54748	27.7446	LS	18
+Liphakoe Community	-30.3954	27.70705	LS	18
+Matsatseng Community	-30.42395	27.66715	LS	18
+Mkhono Community	-30.16116	27.99042	LS	18
+Mokotjomela Community	-30.28505	27.9621	LS	18
+Mphaki Community	-30.22455	28.16985	LS	18
+Qomoqomong Community	-30.45455	27.80965	LS	18
+Seforong Community	-30.10285	28.18665	LS	18
+Tsatsane Community	-30.4461	27.9861	LS	18
+Bobete Community	-29.44345	28.7175	LS	19
+Bokong Community	-29.28525	28.39085	LS	19
+Khohlo-Ntso Community	-29.40895	28.5616	LS	19
+Lesobeng Community	-29.76625	28.39075	LS	19
+Malehloana Community	-29.606	28.1754	LS	19
+Mohlanapeng Community	-29.69755	28.6948	LS	19
+MonyetLeng Community	-29.6354	28.885	LS	19
+Mphe-Lebeko	-29.4259	28.2552	LS	19
+Rapoleboea Community	-29.55545	28.90415	LS	19
+Sehonghong Community	-29.7439	28.83525	LS	19
+Senotong Community	-29.31195	28.64	LS	12
+Thaba-Kholo Community	-29.71695	28.32595	LS	19
+Thaban'a Mahlanya Community	-29.5326	28.57765	LS	19
+Koti-Se-Phola Community	-29.95675	27.4237	LS	15
+Makaota Community	-29.85115	27.2378	LS	13
+Makholane Community	-29.79945	27.294	LS	13
+Malumeng Community	-29.8918	27.45	LS	13
+Mamants'O Community	-29.6331	27.33705	LS	13
+Monyake Community	-29.7626	27.6141	LS	13
+Mathula Community	-29.7827	27.4592	LS	13
+Metsi-Maholo Community	-29.6186	27.1726	LS	13
+Qibing Community	-29.77925	27.1286	LS	13
+Lancer's Gap Mediumwave Transmitter	-29.31224	27.55554	LS	10
+Ramoetsana Community	-29.8992	27.6629	LS	13
+Tajane Community	-29.69655	27.5239	LS	14
+Lancer's Gap Mediumwave Transmitter, Mast West	-29.3104	27.55443	LS	10
+Lancer's Gap Mediumwave Transmitter, Mast East	-29.31077	27.55596	LS	10
+Ramabanta	-29.66732	27.78695	LS	14
+Ha Tsolo	-29.35348	27.46342	LS	14
+Letseng-la-terae	-29.00928	28.85362	LS	16
+Mokopung	-30.0212	28.1716	LS	15
+Ha Nyenye	-28.90405	27.91677	LS	12
+Urban	-28.89535	27.93001	LS	12
+Hleoheng	-28.96004	27.90243	LS	12
+Mokomahatsi	-29.02361	27.95733	LS	10
+Mokhachane	-29.08149	28.00399	LS	10
+Mapoteng	-29.12247	27.96216	LS	10
+Makhoroana	-29.14516	28.03506	LS	10
+ha Makhoroana	-29.15881	28.03563	LS	10
+Urban	-29.13002	27.75103	LS	10
+Mamathe	-29.10645	27.84219	LS	10
+Mantsonyane	-29.53317	28.26991	LS	19

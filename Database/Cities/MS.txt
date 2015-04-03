@@ -1,0 +1,183 @@
+Yellow Hole	16.8	-62.16667	MS	03
+Woodlands Estate Yard	16.75	-62.21667	MS	03
+Woodlands	16.75	-62.21667	MS	03
+Woodlands	16.75741	-62.22433	MS	03
+White's Yard	16.71667	-62.15	MS	02
+White's Ghaut	16.71667	-62.15	MS	02
+White's Bottom Ghaut	16.73333	-62.15	MS	02
+Well Bottom Ghaut	16.66667	-62.16667	MS	01
+Weekes Estate	16.71667	-62.2	MS	01
+Weekes	16.72934	-62.21742	MS	01
+Webbs Estate	16.7	-62.2	MS	01
+Webbs	16.7	-62.21667	MS	01
+Waterwork Estate	16.73333	-62.2	MS	02
+Wash Ghaut	16.75	-62.16667	MS	02
+Victoria	16.7	-62.21667	MS	01
+Upser	16.7	-62.15	MS	02
+Underwood Estate	16.76667	-62.2	MS	03
+Underwood	16.75	-62.2	MS	02
+Tuitt's Ghaut	16.72326	-62.17142	MS	02
+Tuitt's Bottom Ghaut	16.73333	-62.16667	MS	02
+Tuitt's and Bethel Estate	16.72754	-62.16073	MS	02
+Tuitt's	16.72137	-62.16888	MS	02
+Trials	16.68333	-62.2	MS	01
+Trant's Yard	16.75076	-62.14884	MS	02
+Trant's Estate	16.75	-62.16667	MS	02
+Trant's	16.76534	-62.16408	MS	02
+Thatch Valley	16.8	-62.18333	MS	03
+Sweetwater Ghaut	16.78333	-62.18333	MS	03
+Sweeney's Yard	16.78333	-62.2	MS	03
+Sweeney's Well	16.68333	-62.15	MS	01
+Sweeney's Estate	16.78333	-62.2	MS	03
+Swana Ghaut	16.66667	-62.15	MS	01
+Streatham Old Works	16.71667	-62.18333	MS	02
+Streatham	16.71667	-62.18333	MS	02
+Spanish Point	16.73333	-62.15	MS	02
+Spanish Point	16.73333	-62.15	MS	02
+Soldier Ghaut	16.75	-62.21667	MS	03
+Soldier Ghaut	16.78333	-62.2	MS	03
+Sand Ghaut	16.7	-62.21667	MS	01
+Salem	16.75095	-62.22175	MS	03
+Saint Peters	16.7727	-62.21729	MS	03
+Parish of Saint Peter	16.78333	-62.205	MS	03
+Saint Patrick's	16.68808	-62.19764	MS	01
+Saint John's Village	16.78215	-62.19103	MS	03
+Parish of Saint Georges	16.76667	-62.2	MS	02
+Parish of Saint Anthony	16.7	-62.2	MS	01
+Ryners	16.7	-62.2	MS	01
+Ryan	16.68333	-62.16667	MS	01
+Roche's Yard	16.7	-62.15	MS	01
+Roche's Estate	16.68333	-62.15	MS	01
+Roche's	16.7	-62.16667	MS	01
+Roche's Bluff	16.69778	-62.14507	MS	01
+Riley's Yard	16.71667	-62.18333	MS	02
+Riley's Estate	16.71667	-62.18333	MS	02
+Richmond	16.7	-62.21667	MS	01
+Rendezvous Bluff	16.8	-62.2	MS	03
+Rendezvous	16.8	-62.2	MS	03
+Quashie	16.75	-62.21667	MS	03
+Providence Estate	16.7658	-62.2157	MS	03
+Plymouth	16.70555	-62.21292	MS	01
+Pelican Ghaut	16.75	-62.16667	MS	02
+Pea Ghaut	16.75117	-62.15112	MS	02
+Parsons	16.7	-62.2	MS	01
+Paradise Yard	16.72811	-62.16541	MS	02
+Paradise Ghaut	16.73333	-62.16667	MS	02
+Paradise Estate	16.72639	-62.16691	MS	02
+Olveston	16.75	-62.21667	MS	03
+Olveston	16.75433	-62.22884	MS	03
+Old Towne	16.74693	-62.23369	MS	03
+Old Quaw	16.8	-62.18333	MS	03
+Old Norwood	16.78333	-62.18333	MS	03
+Old Fort Point	16.66667	-62.18333	MS	01
+O'Garra's Estate	16.66667	-62.16667	MS	01
+O'Garney's Ghaut	16.71667	-62.15	MS	02
+North West Bluff	16.81667	-62.2	MS	03
+Nixons	16.76667	-62.2	MS	03
+New Windward Estate	16.75	-62.16667	MS	02
+Mulcares Yard	16.71667	-62.15	MS	02
+Mournful Ghaut	16.75	-62.15	MS	02
+Mosquito Ghaut	16.71667	-62.16667	MS	02
+Morris'	16.68524	-62.18193	MS	01
+Montserrat	16.75	-62.2	MS	00
+Montserrat	16.73333	-62.18333	MS	00
+Monkey	16.73333	-62.2	MS	02
+Molyneux	16.72684	-62.19712	MS	02
+Mile Ghaut	16.71667	-62.2	MS	01
+Ghaut Mefraimie	16.7	-62.15	MS	00
+Marko Bottom	16.78333	-62.2	MS	03
+Margie Ghaut	16.71667	-62.16667	MS	02
+Lookout Yard	16.78333	-62.18333	MS	03
+Long Point	16.69807	-62.14751	MS	03
+Long Ground Village (Destroyed)	16.70941	-62.16498	MS	02
+Long Ghaut	16.75	-62.16667	MS	02
+Lola	16.7	-62.15	MS	02
+Locust Valley Yard	16.75	-62.16667	MS	02
+Locust Valley	16.75	-62.16667	MS	02
+Little Redonda	16.81667	-62.18333	MS	03
+Little Mile Ghaut	16.71667	-62.18333	MS	02
+Lee's Yard	16.71667	-62.2	MS	01
+Lee's Estate	16.71667	-62.18333	MS	02
+Lee's	16.71667	-62.2	MS	02
+Lee Ghaut	16.66667	-62.16667	MS	01
+Kinsale	16.69593	-62.20858	MS	01
+Killyhawk Ghaut	16.71667	-62.15	MS	02
+Kate Howe	16.7	-62.15	MS	02
+Judy Piece	16.76667	-62.18333	MS	02
+Jubilee Town	16.7	-62.21667	MS	01
+Irish Ghaut	16.71667	-62.15	MS	02
+Hope	16.73333	-62.2	MS	03
+Hope	16.73333	-62.2	MS	03
+Hermitage Yard	16.71667	-62.15	MS	02
+Hermitage Estate	16.71667	-62.16667	MS	02
+Harris Lookout	16.74393	-62.16884	MS	02
+Harris	16.74172	-62.17124	MS	02
+Glen Mhor	16.7	-62.2	MS	01
+Gingoes Ghaut	16.68333	-62.2	MS	01
+Gingoes	16.68333	-62.2	MS	01
+Gingerground	16.75	-62.18333	MS	02
+Germans Ghaut	16.66667	-62.2	MS	01
+Gerald's Bottom	16.78333	-62.18333	MS	03
+Gerald's	16.79575	-62.19356	MS	03
+Galway's Soufriere	16.68333	-62.16667	MS	01
+Galway's Estate	16.7231	-62.23969	MS	01
+Gallows Square	16.76667	-62.2	MS	03
+Gages Upper Soufriere	16.7	-62.18333	MS	01
+Gages Lower Soufriere	16.7	-62.18333	MS	01
+Gages Estate	16.7	-62.18333	MS	01
+Gages	16.72614	-62.19678	MS	01
+Frith	16.7448	-62.21798	MS	03
+Fort Ghaut	16.7	-62.2	MS	01
+Fogarty	16.76667	-62.2	MS	03
+Fogarty	16.75	-62.2	MS	03
+Fleming	16.73333	-62.2	MS	03
+Ffryes	16.7	-62.15	MS	02
+Farrell's Yard	16.71667	-62.18333	MS	02
+Farrell's Estate	16.73333	-62.18333	MS	02
+Fairy Walk	16.75	-62.16667	MS	02
+Elberton	16.71667	-62.21667	MS	01
+Dyer's	16.71667	-62.18333	MS	02
+Dry Ghaut	16.68333	-62.15	MS	01
+Drummond's	16.78333	-62.18333	MS	03
+Dowdie	16.68333	-62.16667	MS	01
+Delvins	16.71667	-62.21667	MS	01
+Dagenham	16.7	-62.21667	MS	01
+Cudjoe Head	16.78441	-62.20819	MS	03
+Crab Hole Ghaut	16.66667	-62.16667	MS	01
+Cornell	16.73333	-62.18333	MS	02
+Coopers Point	16.76884	-62.22197	MS	03
+Cheapend	16.74203	-62.21975	MS	03
+Cedar Ghaut	16.76667	-62.16667	MS	02
+Cat Ghaut	16.78333	-62.16667	MS	03
+Castle Ghaut	16.66667	-62.16667	MS	01
+Cassava Ghaut	16.75	-62.21667	MS	03
+Carty Ghaut	16.68333	-62.15	MS	01
+Bugby Hole Estate	16.73333	-62.18333	MS	02
+Bugby Hole	16.73333	-62.16667	MS	02
+Broderick's Estate	16.68333	-62.2	MS	01
+Brimm's Ghaut	16.78333	-62.16667	MS	03
+Breakneck Point	16.78333	-62.2	MS	03
+Bransby Point	16.72326	-62.24094	MS	01
+Bramble (Destroyed)	16.71792	-62.16515	MS	02
+Brades Estate Yard	16.76667	-62.2	MS	03
+Brades Estate	16.78333	-62.2	MS	03
+Bottomless Ghaut	16.76667	-62.16667	MS	00
+Bottomless Ghaut	16.75	-62.18333	MS	02
+Blackwood Allen	16.75	-62.18333	MS	02
+Black Ghaut Basin	16.78333	-62.2	MS	03
+Black Ghaut	16.78333	-62.2	MS	03
+Bethel Yard	16.73333	-62.15	MS	02
+Bethel (Destroyed)	16.74693	-62.15464	MS	02
+Bessy Mack	16.75	-62.16667	MS	02
+Bath	16.71667	-62.2	MS	02
+Bantin Ghaut	16.8	-62.2	MS	03
+Banks	16.76667	-62.2	MS	03
+Bank Level	16.78333	-62.2	MS	03
+Aymer's Ghaut	16.71667	-62.21667	MS	03
+Amersham Estate	16.7	-62.2	MS	01
+Amersham	16.7	-62.2	MS	01
+Brades	16.79183	-62.21058	MS	03
+Old Town	16.72339	-62.23489	MS	
+Elberton	16.72511	-62.22781	MS	
+Soldier Ghaut	16.7833	-62.2	MS	
+Virgin	16.76674	-62.21671	MS	

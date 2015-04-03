@@ -1,0 +1,297 @@
+Yorks	17.08333	-61.86667	AG	05
+Woods	17.13333	-61.81667	AG	04
+Willoughby	17.03333	-61.71667	AG	08
+Willis Freemans	17.05	-61.76667	AG	06
+Willikies	17.08333	-61.7	AG	08
+William Point	17.03333	-61.71667	AG	08
+Fort William	17.03333	-61.71667	AG	08
+Wicked Will	17.05	-61.66667	AG	08
+White Cliff	17.53333	-61.73333	AG	01
+West Channel	17.15	-61.9	AG	04
+Welch Point	17.61667	-61.73333	AG	01
+Week Point	17.12102	-61.85706	AG	04
+Weatherills Point	17.16667	-61.85	AG	04
+Weatherills	17.16667	-61.83333	AG	04
+Watsons	17.05	-61.68333	AG	08
+Vernons	17.1	-61.76667	AG	07
+Urlings	17.03333	-61.86667	AG	05
+Tyrells	17.05	-61.78333	AG	06
+Tucks Point	17.00968	-61.81054	AG	05
+Tremontaine	17.01667	-61.83333	AG	05
+Tomlinson	17.11667	-61.8	AG	04
+The Garden	17.06667	-61.73333	AG	07
+The Dockyard	17	-61.76667	AG	06
+The Diamond	17.06667	-61.75	AG	07
+The Caves	17.68333	-61.78333	AG	01
+The Brook	17.06667	-61.68333	AG	08
+Swetes	17.05	-61.8	AG	06
+Sutherlands Development	17.11667	-61.81667	AG	04
+Sutherland	17.1	-61.88333	AG	04
+Stony Horn	17.08333	-61.9	AG	04
+Standfast Point	16.98333	-61.76667	AG	06
+Spencers	17.08333	-61.7	AG	08
+Spanish Well Point	17.56667	-61.8	AG	01
+Spanish Point	17.55	-61.73333	AG	01
+South Point	16.93333	-62.35	AG	00
+South Channel	17.1	-61.7	AG	00
+Soldier Point	17.16667	-61.83333	AG	04
+Soldier Point	17.03333	-61.68333	AG	08
+Snapper Point	17.0011	-61.7702	AG	06
+Snapper Hole	17	-61.76667	AG	06
+The Sisters	17.15	-61.88333	AG	04
+Sign	17.08333	-61.7	AG	08
+Shoal Point	17.16667	-61.78333	AG	03
+Shirley Heights	17	-61.75	AG	06
+Shirley Heights	17	-61.75	AG	06
+Cape Shirley	17	-61.75	AG	06
+Shipstern Point	17.12879	-61.89114	AG	04
+Seatons	17.08333	-61.71667	AG	08
+Seaforths	17.1	-61.86667	AG	05
+Sawcolts	17.05	-61.81667	AG	05
+Savannah	17.01667	-61.73333	AG	06
+Sandersons	17.06667	-61.76667	AG	07
+Saint Philips	17.05	-61.71667	AG	08
+Parish of Saint Philip	17.05	-61.71667	AG	08
+Parish of Saint Peter	17.1	-61.76667	AG	07
+Parish of Saint Paul	17.03333	-61.76667	AG	06
+Parish of Saint Mary	17.05	-61.85	AG	05
+Saint Lukes	17.06667	-61.83333	AG	04
+Saint Johnston Village	17.11667	-61.83333	AG	04
+Saint John's Harbour	17.12615	-61.86208	AG	04
+Saint John's	17.11717	-61.84573	AG	04
+Parish of Saint John	17.1	-61.85	AG	04
+Parish of Saint George	17.11667	-61.8	AG	03
+Rooms	17.1	-61.7	AG	08
+Ricketts Harbour	17.06667	-61.66667	AG	08
+Renfrew	17.08333	-61.8	AG	04
+Reeds Point	17.07145	-61.89534	AG	05
+Redonda	16.92956	-62.34741	AG	09
+Red Cliff	17.08333	-61.9	AG	05
+Procters Point	17	-61.78333	AG	06
+Potters Village	17.08333	-61.81667	AG	04
+Pig Point	17.06667	-61.68333	AG	08
+Piggotts	17.11667	-61.8	AG	03
+Pigeon Cliff	17.65	-61.75	AG	01
+Piccadilly	17.03333	-61.75	AG	06
+Pelican Point	17.56667	-61.73333	AG	01
+Pearns Point	17.08025	-61.90568	AG	05
+Paynters	17.11667	-61.8	AG	03
+Pattersons	17.01667	-61.78333	AG	06
+Parrys	17.06667	-61.76667	AG	07
+Parham Harbour	17.11667	-61.76667	AG	07
+Parham	17.09682	-61.77046	AG	07
+Pares	17.08333	-61.75	AG	07
+Paradise View	17.13333	-61.85	AG	04
+Palmetto Point	17.58333	-61.86667	AG	01
+Palaster Reef	17.53333	-61.75	AG	01
+Ottos Estate	17.11667	-61.83333	AG	04
+Osbourn	17.13333	-61.8	AG	03
+Olivers	17.06667	-61.8	AG	04
+Old Fort Point	17.01667	-61.83333	AG	05
+Old Battery	17.1	-61.9	AG	04
+North West Channel	17.16667	-61.88333	AG	04
+North Sound Point	17.13333	-61.75	AG	07
+North Sound	17.08333	-61.78333	AG	00
+North Sound	17.11667	-61.75	AG	07
+North Channnel	17.11667	-61.7	AG	00
+New Winthorpes	17.15	-61.8	AG	03
+The Narrows	17.08333	-61.75	AG	07
+Nanton Point	17	-61.75	AG	06
+Musgrave Point	17.01667	-61.78333	AG	06
+Mosquito Cove	17.07734	-61.89264	AG	05
+Morris Loobys	17.03333	-61.75	AG	06
+Montpelier	17.05	-61.71667	AG	08
+Monocle Point	17.13333	-61.71667	AG	07
+Fort Monk	17.03333	-61.76667	AG	06
+Middle Reef	17.01432	-61.87187	AG	05
+Mayers	17.08333	-61.7	AG	08
+Matthews	17.06667	-61.8	AG	06
+Man of War Point	17.06667	-61.65	AG	08
+Mannings	17.03333	-61.68333	AG	08
+Mamora Reef	17.01667	-61.73333	AG	06
+Lyons	17.05	-61.73333	AG	08
+Lynch Point	17.03333	-61.71667	AG	08
+Lower Lyons	17.05	-61.73333	AG	08
+Long Lane	17.06667	-61.73333	AG	08
+Loblolly Point	17.12061	-61.8627	AG	04
+Little Duers	17.06667	-61.75	AG	07
+Little Cove	17.03333	-61.68333	AG	08
+Lightfoots	17.1	-61.8	AG	04
+Liberta	17.03333	-61.78333	AG	06
+Leonards Point	17.08333	-61.88333	AG	05
+Ledwell Point	17.15	-61.86667	AG	04
+Ledeatt Cove	17.08333	-61.68333	AG	08
+Lavingtons	17.05	-61.73333	AG	08
+Kettle Bottom Shoals	17.15	-61.76667	AG	03
+Johnsons Point	17.02673	-61.89011	AG	05
+Johnsons Point	17.02985	-61.88885	AG	05
+John Hughes	17.05	-61.81667	AG	05
+Jennings	17.07779	-61.86582	AG	08
+James Point	17.1	-61.7	AG	08
+James Ground	17.13333	-61.86667	AG	04
+Fort James	17.13025	-61.8638	AG	04
+Isaac Point	17.01667	-61.73333	AG	06
+Isaac Channel	17.01667	-61.71667	AG	00
+Indian Town Point	17.1	-61.66667	AG	08
+Hughes Point	17.06667	-61.7	AG	08
+Hudson Point	17.03333	-61.68333	AG	08
+Horse Shoe Reef	17.01667	-61.71667	AG	00
+Horse Shoe Channel	17	-61.73333	AG	00
+Horse Channel	17.16667	-61.8	AG	03
+Hog Point	17.68333	-61.78333	AG	01
+Hog Hole	17.1	-61.68333	AG	08
+Hog Hole	17.71667	-61.78333	AG	01
+Hog Cliffs	17.65	-61.75	AG	01
+High Point	17.15	-61.78333	AG	03
+The Highlands	17.63333	-61.78333	AG	01
+Hermitage	17.08333	-61.86667	AG	05
+Herberts	17.08333	-61.8	AG	04
+Harveys	17.03333	-61.86667	AG	05
+Harman Point	17.00108	-61.76093	AG	06
+Hamiltons	17.05	-61.83333	AG	04
+Gunthorpes	17.11667	-61.8	AG	03
+Gun Shop Cliff	17.66667	-61.76667	AG	01
+Gulf Point	17.1	-61.9	AG	04
+Guard Point	17.13333	-61.75	AG	07
+Guard Point	17.11667	-61.9	AG	04
+Guard Point	17.11667	-61.71667	AG	08
+Guard Point	17.1	-61.71667	AG	08
+Guard Point	17.08333	-61.7	AG	08
+Grays Point	17.08333	-61.7	AG	08
+Grays	17.08333	-61.7	AG	08
+Grants	17.08333	-61.71667	AG	08
+Goat Reef	17.75	-61.86667	AG	01
+Goat Point	17.73333	-61.85	AG	01
+Goat Head	17.01785	-61.8571	AG	05
+Glanvilles	17.08333	-61.71667	AG	08
+Gilberts	17.08333	-61.73333	AG	07
+Gaynors	17.06667	-61.7	AG	08
+Gaulding Point	17	-61.78333	AG	06
+Gambles	17.11667	-61.83333	AG	04
+Fullerton Point	17.1	-61.9	AG	04
+Friars Head	17.05	-61.66667	AG	08
+Freetown	17.05	-61.7	AG	08
+Freemans	17.05	-61.78333	AG	07
+Freeman Point	17	-61.76667	AG	06
+Fort Harman Point	17.06667	-61.68333	AG	08
+The Flashes	17.08333	-61.86667	AG	04
+Ffryes Point	17.05162	-61.89775	AG	05
+Ffryes	17.05	-61.73333	AG	08
+Fannys Cove	17.1	-61.68333	AG	08
+Falmouth Harbour	17.01667	-61.76667	AG	06
+Falmouth	17.02741	-61.78136	AG	06
+English Point	17.0026	-61.77378	AG	06
+English Harbour Town	17.01667	-61.76667	AG	06
+English Harbour	17.00274	-61.76374	AG	06
+Emanuel	17.06667	-61.83333	AG	04
+Ebenezer	17.08333	-61.86667	AG	05
+Dunnings	17.06667	-61.86667	AG	05
+Dums Point	17.1	-61.68333	AG	08
+Dulcina	17.58333	-61.81667	AG	01
+Doigs	17.01667	-61.8	AG	06
+Dodington Bank	17.5	-61.75	AG	01
+Devils Hole	17.06667	-61.68333	AG	08
+Delaps	17.05	-61.73333	AG	06
+Dark Wood	17.03333	-61.88333	AG	05
+Fort Cuyler	17	-61.76667	AG	06
+Curtain Bluff	17.01667	-61.83333	AG	05
+Crumps Point	17.1	-61.73333	AG	07
+Crosbies	17.16667	-61.81667	AG	04
+Crawl Point	17.03333	-61.73333	AG	06
+Crabs Peninsula	17.11667	-61.75	AG	07
+Crab Point	17.03333	-61.88333	AG	05
+The Cove	17.12964	-61.85715	AG	04
+Corbison Point	17.15	-61.85	AG	04
+Cooks	17.1	-61.85	AG	04
+Conk Point	17.06667	-61.66667	AG	08
+Collins	17.08333	-61.73333	AG	08
+Codrington Shoals	17.48333	-61.83333	AG	01
+Codrington Lagoon	17.65	-61.83333	AG	01
+Codrington	17.63333	-61.83333	AG	01
+Cocoa Point	17.55	-61.76667	AG	01
+Cocoa Point	17.55	-61.75	AG	01
+Cochranes	17.06667	-61.76667	AG	07
+Cobbs Cross	17.01667	-61.76667	AG	06
+Cobb Reef	17.73333	-61.81667	AG	01
+Cobb Cove	17.7	-61.81667	AG	01
+Claremont	17.02527	-61.83586	AG	05
+Christian Valley	17.05	-61.85	AG	05
+Christian Point	17.03333	-61.73333	AG	06
+Christian Cove	17.03333	-61.73333	AG	00
+Point Charlotte	17	-61.76667	AG	06
+Fort Charlotte	17	-61.75	AG	06
+Cedar Tree Point	17.7	-61.88333	AG	01
+Cassada Gardens	17.11667	-61.8	AG	03
+Carlisle	17.13333	-61.8	AG	03
+Cades Reef	17.00705	-61.87363	AG	05
+Byham Point	17.13333	-61.71667	AG	07
+Fort Byham	17.15	-61.8	AG	03
+Burkes	17.05	-61.76667	AG	06
+Buckleys	17.07221	-61.81337	AG	04
+Branns Hamlet	17.11667	-61.83333	AG	04
+Boon Point	17.16667	-61.83333	AG	04
+Boon Channel	17.15	-61.85	AG	00
+Bolands	17.06565	-61.87466	AG	05
+Blubber Valley	17.06667	-61.86667	AG	05
+Blacks Point	17	-61.78333	AG	06
+Blackmans Point	17.13333	-61.78333	AG	03
+Bishops	17.03333	-61.81667	AG	05
+Billy Point	17.73333	-61.86667	AG	01
+Big Duers	17.06667	-61.76667	AG	07
+Betty's Hope	17.06667	-61.73333	AG	07
+Bethesda	17.05	-61.75	AG	06
+Bendals	17.06667	-61.83333	AG	04
+Belmont	17.1	-61.81667	AG	04
+Bellevue Heights	17.1	-61.81667	AG	04
+Beggars Point	17.16667	-61.8	AG	00
+Bats Cave	17.01667	-61.75	AG	06
+Ballast Bluff	17.12291	-61.86835	AG	04
+Bakers Cellar	17.08333	-61.9	AG	05
+All Saints	17.06671	-61.79303	AG	07
+Aberdeen	17.06667	-61.81667	AG	04
+Havers Shoal	16.81667	-62.41667	AG	00
+Pigeon Cliff	17.6	-61.73333	AG	01
+Martello Tower	17.59417	-61.82917	AG	01
+Hudson Landing	17.61111	-61.84083	AG	01
+Castle Landing	17.63944	-61.82833	AG	01
+York Bank	17.06111	-61.66667	AG	08
+Ward Shoal	17.18333	-61.78333	AG	03
+Horse Shoe	17.19167	-61.79167	AG	03
+Jarvis Shoal	17.19167	-61.81667	AG	04
+Scott Shoal	17.16667	-61.78333	AG	03
+Salt Fish Tail	17.175	-61.85	AG	04
+Diamond Bank	17.2	-61.88333	AG	04
+Bannister Bank	17.18333	-61.88333	AG	04
+Pelican Shoal	17.1	-61.91667	AG	04
+Cook Shoal	17.1	-61.9	AG	00
+Irish Bank	17.06667	-61.925	AG	05
+Warrington Bank	17.14583	-61.88333	AG	04
+Codrington Bank	17.45	-61.78333	AG	01
+Keeves Landing	17.09583	-61.71389	AG	08
+North Whelk	17.15833	-61.72917	AG	00
+Hand Point	17.11667	-61.75167	AG	07
+Crabs Point	17.1375	-61.75333	AG	07
+Fellingo Shoal	17.13583	-61.76944	AG	03
+Yam Piece Shoals	17.15833	-61.76944	AG	03
+Addison Shoal	17.17083	-61.77083	AG	03
+Harney Shoal	17.19722	-61.80333	AG	04
+Diamond Channel	17.2	-61.87222	AG	00
+Little Sister	17.1625	-61.865	AG	04
+Great Sister	17.16167	-61.86806	AG	04
+Middle Ground	17.14444	-61.88194	AG	04
+Weymouth Reef	17.13222	-61.93111	AG	04
+Hurst Shoals	17.10556	-61.91667	AG	04
+Blue Waters Antigua	17.172	-61.8295	AG	04
+Yepton Estate Cottages	17.1213	-61.8887	AG	04
+ANTIGUA VILLAGE CONDOMINIUM	17.1166	-61.8333	AG	
+JOLLY HARBOUR VILLAS	17.0675	-61.8843	AG	
+GRAND ROYAL ANTIGUAN	17.1275	-61.88015	AG	04
+THE VERANDAH	17.0946	-61.7083	AG	
+Guadeloupe	16.99597	-62.06764	AG	05
+English Harbour	17.00787	-61.76282	AG	06
+Jolly Harbour	17.06622	-61.88646	AG	05
+Freemans Village	17.08021	-61.79273	AG	07
+Charli's Cafe	17.13732	-61.83571	AG	
+Camino Real Antigua	17.07466	-61.81752	AG	
+The Catamaran	17.02444	-61.77905	AG	
+Halcyon Cove All Inclusive	17.1605	-61.8463	AG	

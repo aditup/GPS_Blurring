@@ -1,0 +1,954 @@
+Embassy of Portugal	38.91844	-77.0497	US	DC
+122nd New York Volunteer Mounment	38.97094	-77.02664	US	DC
+Gala Hispanic Theater	38.92011	-77.04414	US	DC
+25th New York Volunteer Cavelry Monument	38.97094	-77.02664	US	DC
+98th Pennsylvania Volunteer Monument	38.97094	-77.02664	US	DC
+Abraham Lincoln Statue	38.89511	-77.0172	US	DC
+Abraham Lincoln/Emancipation Monument	38.89011	-76.9897	US	DC
+Acacia Griffins Sculpture	38.894	-77.01081	US	DC
+Adas Israel Synagogue	38.89861	-77.01583	US	DC
+Admiral David G Farragut Statue	38.90206	-77.03859	US	DC
+150th Ohio National Guard Monument	38.97094	-77.02664	US	DC
+Agriculture Grounds	38.88928	-77.03025	US	DC
+Air Mail Marker	38.88178	-77.04359	US	DC
+Albert Einstein Planetarium	38.88817	-77.0197	US	DC
+Albert Einstein Statue	38.89233	-77.04859	US	DC
+Albert Gallatin Statue	38.89845	-77.03387	US	DC
+Alden, Babcock, Calvert Apartments	38.92428	-77.0297	US	DC
+Alexander Pushkin Statue	38.89956	-77.04498	US	DC
+Alexander Robey Shepherd Statue	38.89567	-77.03192	US	DC
+Alexandria Aqueduct	38.904	-77.06942	US	DC
+Alighieri Dan`te Statue	38.91956	-77.03609	US	DC
+Almas Temple	38.90278	-77.03056	US	DC
+Alexander Hamilton Statue	38.8965	-77.03414	US	DC
+American Film Institute National Film Theater	38.89595	-77.05553	US	DC
+American Institute of Pharmacy	38.89306	-77.04944	US	DC
+American Legion Freedom Bell	38.89678	-77.00637	US	DC
+American Pharmaceutical Institute	38.89289	-77.04942	US	DC
+Amidon-Greenleaf Playground	38.88067	-77.01831	US	DC
+Anacostia	38.8665	-76.98386	US	DC
+Anacostia Annex	38.82845	-77.02053	US	DC
+Anacostia Marina	38.87817	-76.97581	US	DC
+Andrew Jackson Downing Urn	38.88872	-77.02553	US	DC
+Anna Cooper Circle	38.91583	-77.01611	US	DC
+Apollo Statue	38.89706	-77.00664	US	DC
+Apostolic Nunciature - The Holy See	38.92372	-77.06498	US	DC
+Archimedes Statue	38.89706	-77.00664	US	DC
+Anderson Cottage	38.93594	-77.00998	US	DC
+Armenian Earthquake Statue	38.89539	-77.03942	US	DC
+Armory Square	38.89039	-77.02275	US	DC
+Arsenal Monument	38.8815	-76.9797	US	DC
+Arthur M Sackler Gallery	38.88817	-77.02609	US	DC
+Arthur Vining Downing Statue	38.88845	-77.02498	US	DC
+Arts of Peace Statues	38.89011	-77.05164	US	DC
+Arts of War Statue	38.88845	-77.05164	US	DC
+Ascension Sculpture	38.89872	-77.04664	US	DC
+Asylum Square	38.88622	-76.9747	US	DC
+Atonement Seminary	38.93983	-77.00498	US	DC
+Authority of Law Sculpture	38.88983	-77.00581	US	DC
+Avalon Playground	38.86345	-76.97859	US	DC
+Avalon Theater	38.96539	-77.07581	US	DC
+Aztec Fountain	38.89261	-77.04081	US	DC
+Bancroft Playground	38.93456	-77.03998	US	DC
+Basilica of the National Shrine of the Immaculate Conception	38.93344	-77.00053	US	DC
+Bellevue	38.82678	-77.0197	US	DC
+Benjamin Franklin Statue	38.89389	-77.02611	US	DC
+Benning	38.89511	-76.94886	US	DC
+Benning Heights	38.88178	-76.93609	US	DC
+Bernardo de Galvez Statue	38.89539	-77.04831	US	DC
+Beth Sholom Temple	38.93956	-77.02359	US	DC
+Bethel Penecostal Tabernacle of the Assemblies of God	38.87872	-77.01275	US	DC
+Bex Eagle Statue	38.8965	-77.03359	US	DC
+Bishop Asbury Statue	38.92733	-77.03664	US	DC
+Bishop John Carroll Statue	38.90761	-77.07192	US	DC
+Bishops Garden	38.92983	-77.07053	US	DC
+Blaine Mansion	38.91011	-77.04525	US	DC
+Bloomingdale	38.91678	-77.01137	US	DC
+Blue Plains	38.81567	-77.0247	US	DC
+Bolling Anacostia Tract	38.8515	-77.01359	US	DC
+Boundary Channel	38.88039	-77.05526	US	DC
+Bragadier General James B McPherson Statue	38.90178	-77.03331	US	DC
+Brentwood Village	38.92094	-76.98442	US	DC
+Brentwood Village Playground	38.92039	-76.98275	US	DC
+Brigadier General Count Casimer Pulaski Statue	38.89595	-77.02998	US	DC
+Brigadier General Albert Pike Statue	38.89483	-77.01387	US	DC
+Brightwood	38.96122	-77.02748	US	DC
+Brigadier General Thaddeus Kosciuszko Statue	38.9	-77.03528	US	DC
+Brodhead-Bell-Morton Mansion	38.90761	-77.0347	US	DC
+Brookland	38.93289	-76.98414	US	DC
+Brooks Mansion	38.93344	-76.99414	US	DC
+Buena Vista	38.85706	-76.97942	US	DC
+Buffaloes Statue	38.91122	-77.05053	US	DC
+Bulter Pavilion	38.9375	-77.08944	US	DC
+Bundy Playground	38.90928	-77.01775	US	DC
+Burleith	38.91539	-77.07248	US	DC
+Buzzard Point	38.864	-77.01275	US	DC
+Buzzard Point	38.87233	-77.01081	US	DC
+Buzzard Point Marina	38.86372	-77.01109	US	DC
+Captain Nathan Hale Sculpture	38.89222	-77.02556	US	DC
+Cardinal James Gibbons Statue	38.9315	-77.03581	US	DC
+Cardoza Playground	38.91178	-77.02525	US	DC
+Carnegie Endowment for International Peace	38.899	-77.03803	US	DC
+Cathedral Heights	38.92567	-77.07748	US	DC
+Cathedral Mansions	38.92983	-77.05609	US	DC
+Central National Bank	38.89345	-77.02053	US	DC
+Central Northeast	38.89595	-76.94136	US	DC
+Centurion Statue	38.89733	-77.00664	US	DC
+Ceres Statue	38.89706	-77.00664	US	DC
+Chancery of Iraq	38.91011	-77.04164	US	DC
+Chapin Bear Cub Sculpture	38.929	-77.04664	US	DC
+Chevy Chase	38.964	-77.06776	US	DC
+Chevy Chase Arcade	38.96261	-77.0747	US	DC
+Chevy Chase Heights	38.95956	-77.07748	US	DC
+Chevy Chase Playground	38.96344	-77.08053	US	DC
+Chevy Chase Theater	38.96372	-77.07498	US	DC
+Chinatown	38.90095	-77.02275	US	DC
+Clendenen Gymnasium	38.93761	-77.08887	US	DC
+Cloisters	38.91122	-77.06637	US	DC
+Cloverdale	38.93983	-77.05609	US	DC
+Colonial Apartments	38.90706	-77.05942	US	DC
+Colonial Village	38.99261	-77.03998	US	DC
+Columbia Heights	38.92567	-77.02942	US	DC
+Congress Heights	38.84289	-77.00025	US	DC
+Congress Heights Playground	38.84233	-76.99636	US	DC
+Constitution Gardens	38.89094	-77.04409	US	DC
+Convent of the Visitation Monastery	38.90956	-77.06942	US	DC
+Cooke's Row	38.91067	-77.05998	US	DC
+Corcoran Gallery of Art	38.89567	-77.03998	US	DC
+Convent of Mercy	38.90789	-77.06914	US	DC
+Corcoran Square Market	38.90928	-77.02109	US	DC
+Cordell Hull Statue	38.89261	-77.04053	US	DC
+Count Jean Baptiste Rochambeau Statue	38.89956	-77.03581	US	DC
+Cox's Row	38.90678	-77.06637	US	DC
+Crestwood	38.94178	-77.04053	US	DC
+Cuban American Friendship Urn	38.87817	-77.03775	US	DC
+Cubi XI Sculpture	38.91428	-77.04525	US	DC
+Dakota Playground	38.9215	-76.96109	US	DC
+Daniel Webster Statue	38.90733	-77.03692	US	DC
+Dante Statue	38.92011	-77.03553	US	DC
+Deanwood	38.89845	-76.92942	US	DC
+Deanwood Kiosk	38.90233	-76.94331	US	DC
+Delegation of the Commission of the European Communities	38.91372	-77.0472	US	DC
+Discobolos Statue	38.89511	-77.04609	US	DC
+Doctor Benjamin Rush Statue	38.89595	-77.05026	US	DC
+Don Quixote Statue	38.89678	-77.05387	US	DC
+Douglass Dwellings	38.84845	-76.97775	US	DC
+Tete Du Pont	38.89011	-76.96136	US	DC
+Dupont Circle	38.90844	-77.04414	US	DC
+Dupont Circle	38.90944	-77.04333	US	DC
+Dupont Circle Fountain	38.90956	-77.04331	US	DC
+Duvall Foundry	38.9015	-77.05803	US	DC
+Easby Point	38.89428	-77.05637	US	DC
+East Central	38.90011	-77.0122	US	DC
+East Corner	38.89289	-76.90914	US	DC
+East End	38.89595	-77.01081	US	DC
+East Front Fountains	38.88983	-77.00664	US	DC
+East Washington Heights	38.89206	-76.94359	US	DC
+Eastern Market	38.88622	-76.99609	US	DC
+Eastland Gardens	38.90845	-76.94275	US	DC
+Eckington	38.91261	-77.00914	US	DC
+Edgewater Mouting Horse Stable	38.92067	-77.04859	US	DC
+Edgewater Stables	38.91928	-77.04942	US	DC
+Edgewood	38.92261	-77.00053	US	DC
+Edgewood Playground	38.92456	-77.00248	US	DC
+Edmund Burke Statue	38.90389	-77.0275	US	DC
+Egg Head Row	38.90844	-77.04025	US	DC
+Eisenhower Theatre	38.89595	-77.05553	US	DC
+Ellicott Circle	38.87567	-76.97414	US	DC
+Ellipse Grounds South	38.894	-77.03664	US	DC
+Ellipse Visitor Pavilion	38.89511	-77.03442	US	DC
+Emancipation Monument	38.88983	-76.98998	US	DC
+Embassy of Australia	38.90761	-77.0372	US	DC
+Embassy of Austria	38.91344	-77.0522	US	DC
+Embassy of Belgium	38.92789	-77.06692	US	DC
+Embassy of Belize	38.94261	-77.06776	US	DC
+Embassy of Bolivia	38.92011	-77.06164	US	DC
+Embassy of Brazil	38.91872	-77.06081	US	DC
+Embassy of Burkina Faso	38.91178	-77.04942	US	DC
+Embassy of Canada	38.89261	-77.01914	US	DC
+Embassy of Chile	38.90817	-77.0397	US	DC
+Embassy of Colombia	38.91539	-77.04748	US	DC
+Embassy of Costa Rica	38.91539	-77.04637	US	DC
+Embassy of Ecuador	38.92233	-77.03525	US	DC
+Embassy of El Salvador	38.91539	-77.05137	US	DC
+Embassy of Ethiopia	38.91789	-77.0497	US	DC
+Embassy of Finland	38.93539	-77.08748	US	DC
+Embassy of France	38.91817	-77.04998	US	DC
+Embassy of Ghana	38.94483	-77.06776	US	DC
+Embassy of Granada	38.91344	-77.04025	US	DC
+Embassy of Greece	38.91178	-77.04998	US	DC
+Embassy of Guatemala	38.91178	-77.04942	US	DC
+Embassy of Guyana	38.91622	-77.05498	US	DC
+Embassy of Haiti	38.91317	-77.0522	US	DC
+Embassy of Honduras	38.94094	-77.06359	US	DC
+Embassy of Iceland	38.91706	-77.0472	US	DC
+Embassy of India	38.91122	-77.04775	US	DC
+Embassy of Indonesia	38.91039	-77.04609	US	DC
+Embassy of Ireland	38.9115	-77.04998	US	DC
+Embassy of Israel	38.94539	-77.06776	US	DC
+Embassy of Italy	38.92539	-77.03692	US	DC
+Embassy of Jamaica	38.90261	-77.04275	US	DC
+Embassy of Japan	38.91594	-77.05664	US	DC
+Embassy of Kenya	38.91289	-77.04998	US	DC
+Embassy of Korea	38.91317	-77.05276	US	DC
+Embassy of Lebanon	38.92261	-77.05553	US	DC
+Embassy of Luxembourg	38.9115	-77.04887	US	DC
+Embassy of Malaysia	38.91483	-77.05387	US	DC
+Embassy of Malta	38.91733	-77.04664	US	DC
+Embassy of Mauritius	38.94094	-77.0647	US	DC
+Embassy of Mexico	38.92594	-77.03609	US	DC
+Embassy of Morocco	38.91122	-77.04914	US	DC
+Embassy of New Zealand	38.91956	-77.06387	US	DC
+Embassy of Nicaragua	38.91206	-77.04081	US	DC
+Embassy of Pakistan	38.91317	-77.05164	US	DC
+Embassy of Panama	38.92261	-77.0572	US	DC
+Embassy of Papau New Guinea	38.91261	-77.04914	US	DC
+Embassy of Paraguay	38.914	-77.05414	US	DC
+Embassy of Peru	38.90789	-77.03859	US	DC
+Embassy of Romania	38.91122	-77.05053	US	DC
+Embassy of Saint Kitts and Nevis	38.90539	-77.0472	US	DC
+Embassy of Saint Lucia	38.91372	-77.0472	US	DC
+Embassy of Saudi Arabia	38.89928	-77.05331	US	DC
+Embassy of Sierra Leone	38.91289	-77.04303	US	DC
+Embassy of Singapore	38.91289	-77.0422	US	DC
+Embassy of South Africa	38.92067	-77.06137	US	DC
+Embassy of Spain	38.92511	-77.03609	US	DC
+Embassy of Sweden	38.89983	-77.05609	US	DC
+Embassy of Switzerland	38.929	-77.05776	US	DC
+Embassy of Thailand	38.91761	-77.05109	US	DC
+Embassy of Trinidad and Tobago	38.90817	-77.03942	US	DC
+Embassy of Tunisia	38.90733	-77.03137	US	DC
+Embassy of Uruguay	38.89706	-77.04387	US	DC
+Embassy of Venezuela	38.90456	-77.05914	US	DC
+Embassy of Western Samoa	38.90594	-77.03498	US	DC
+Embassy of Zimbabwe	38.91233	-77.04109	US	DC
+Embassy of the Arab Republic of Eygpt	38.91289	-77.05081	US	DC
+Embassy of the Argentine Republic	38.9115	-77.0422	US	DC
+Embassy of the Central African Republic	38.91206	-77.04887	US	DC
+Embassy of the Commonwealth of the Bahamas	38.91206	-77.04998	US	DC
+Embassy of the Democratic Republic of Madagascar	38.914	-77.05303	US	DC
+Embassy of the Czech and Slovak Federal Republic	38.94011	-77.0547	US	DC
+Embassy of the Democratic Socialist Republic of Sri Lanka	38.91733	-77.04831	US	DC
+Embassy of the Democratic and Popular Republic of Algeria	38.91789	-77.04914	US	DC
+Embassy of the Dominican Republic	38.91344	-77.04859	US	DC
+Embassy of the Federal Republic of Germany	38.90706	-77.03414	US	DC
+Embassy of the Federal Republic of Nigeria	38.90539	-77.04914	US	DC
+Embassy of the Federated States of Micronesia	38.90733	-77.04053	US	DC
+Embassy of the Gabonese Republic	38.91817	-77.04581	US	DC
+Embassy of the Hashemite Kingdom of Jordan	38.94428	-77.06776	US	DC
+Embassy of the Gambia	38.90428	-77.0347	US	DC
+Embassy of the Islamic Republic of Mauritania	38.91594	-77.04775	US	DC
+Embassy of the Kingdom of Lesotho	38.91733	-77.05776	US	DC
+Embassy of the Lao Peoples Democratic Republic	38.91372	-77.04942	US	DC
+Embassy of the Kingdom of Swaziland	38.94261	-77.06776	US	DC
+Embassy of the Peoples Republic of Bangladesh	38.92094	-77.07192	US	DC
+Embassy of the Netherlands	38.94456	-77.05609	US	DC
+Embassy of the Peoples Republic of Mozambique	38.90567	-77.0447	US	DC
+Embassy of the Peoples Republic of China	38.91872	-77.04914	US	DC
+Embassy of the Peoples Republic of the Congo	38.95122	-77.03831	US	DC
+Embassy of the Philippines	38.90761	-77.03748	US	DC
+Embassy of the Republic of Benin	38.92456	-77.04998	US	DC
+Embassy of the Republic of Botswana	38.94261	-77.06776	US	DC
+Embassy of the Republic of Bulgaria	38.92483	-77.06692	US	DC
+Embassy of the Republic of Cameroon	38.91372	-77.05192	US	DC
+Embassy of the Republic of Cape Verde	38.92456	-77.06692	US	DC
+Embassy of the Republic of Chad	38.91261	-77.04498	US	DC
+Embassy of the Republic of Cote d'Ivoire	38.91428	-77.05359	US	DC
+Embassy of the Republic of Cyprus	38.91261	-77.04914	US	DC
+Embassy of the Republic of Djibouti	38.90594	-77.0347	US	DC
+Embassy of the Republic of Fiji	38.91956	-77.07109	US	DC
+Embassy of the Republic of Guinea	38.91539	-77.04692	US	DC
+Embassy of the Republic of Hungary	38.94039	-77.05276	US	DC
+Embassy of the Republic of Indonesia	38.91039	-77.04609	US	DC
+Embassy of the Republic of Liberia	38.954	-77.03609	US	DC
+Embassy of the Republic of Mali	38.914	-77.0472	US	DC
+Embassy of the Republic of Namibia	38.90261	-77.03442	US	DC
+Embassy of the Republic of Niger	38.91289	-77.04887	US	DC
+Embassy of the Republic of Poland	38.92483	-77.03692	US	DC
+Embassy of the Republic of Rwanda	38.91317	-77.03998	US	DC
+Embassy of the Republic of Senegal	38.91761	-77.04748	US	DC
+Embassy of the Republic of Sudan	38.91122	-77.04914	US	DC
+Embassy of the Republic of Suriname	38.94678	-77.06442	US	DC
+Embassy of the Republic of Togo	38.91122	-77.0497	US	DC
+Embassy of the Republic of Turkey	38.90844	-77.0397	US	DC
+Embassy of the Republic of Yemen	38.89928	-77.05637	US	DC
+Embassy of the Republic of Zaire	38.91456	-77.03914	US	DC
+Embassy of the Republic of Zambia	38.91511	-77.05442	US	DC
+Embassy of the Republic of Afghanistan	38.91706	-77.05248	US	DC
+Embassy of the Socialist Federal Republic of Yugoslavia	38.91567	-77.05331	US	DC
+Embassy of the Somali Democratic Republic	38.89928	-77.0547	US	DC
+Embassy of the State of Bahrain	38.94372	-77.06776	US	DC
+Embassy of the State of Qatar	38.89845	-77.0547	US	DC
+Embassy of the Sultanate of Oman	38.91317	-77.05248	US	DC
+Embassy of the Syrian Republic	38.91733	-77.05026	US	DC
+Embassy of the Union of Myanmar	38.91428	-77.04831	US	DC
+Embassy of the State of Kuwait	38.94122	-77.06137	US	DC
+Embassy of the United Republic of Tanzania	38.91289	-77.04831	US	DC
+Embassy of the United Arab Emirates	38.89928	-77.05637	US	DC
+English Renaissance Sculpture	38.89428	-77.02609	US	DC
+Enid A Haupt Garden	38.88956	-77.02609	US	DC
+Environmental Protection Agency	38.87733	-77.01775	US	DC
+Evans Point	38.879	-76.97442	US	DC
+Ezras Israel Temple	38.9015	-76.9947	US	DC
+Fairlawn	38.87095	-76.97886	US	DC
+Fala Statue	38.88678	-77.04998	US	DC
+Family Tree of Hope Sculpture	38.95094	-77.04164	US	DC
+Farragut Square	38.90289	-77.04414	US	DC
+Farragut Square	38.90205	-77.03866	US	DC
+Federal - American National Bank	38.89817	-77.03109	US	DC
+Fairfax Village	38.86206	-76.95109	US	DC
+Fishing Shore	38.91122	-77.09692	US	DC
+Flamingo Fountain	38.89011	-77.01137	US	DC
+Fletcher Johnson Education Complex	38.88402	-76.93366	US	DC
+Foggy Bottom	38.9015	-77.0622	US	DC
+Folger Theatre	38.88956	-77.0022	US	DC
+Ford's Theatre National Historic Site	38.89668	-77.02578	US	DC
+Foreign Mission Seminary of Holy Cross	38.94206	-77.00664	US	DC
+Fort Davis	38.86678	-76.94609	US	DC
+Fort Davis	38.86699	-76.95102	US	DC
+Fort Dupont	38.87261	-76.93859	US	DC
+Fort Dupont Maintenance Yard	38.88122	-76.95553	US	DC
+Fort Dupont Playground	38.87733	-76.95081	US	DC
+Fort Dupont Summer Theater	38.88039	-76.95664	US	DC
+Fort Lincoln New Town	38.92233	-76.95636	US	DC
+Fort Lincoln Promenade	38.91956	-76.95247	US	DC
+Fort Stevens Monument and Marker	38.96483	-77.02831	US	DC
+Founders of the Daughters of the American Revolution Statue	38.89333	-77.03528	US	DC
+Fountain Four	38.87983	-77.03887	US	DC
+Francis Asbury Statue	38.92789	-77.03637	US	DC
+Francis Playground	38.9065	-77.05081	US	DC
+Franklin McPherson Square	38.9015	-77.03303	US	DC
+Franz Bader Gallery	38.89845	-77.03998	US	DC
+Fraser Mansion	38.91344	-77.04637	US	DC
+Freedom Statue	38.89011	-77.00998	US	DC
+Freer Gallery	38.89095	-77.02609	US	DC
+Friendship Archway	38.89983	-77.02164	US	DC
+Friendship Heights	38.95706	-77.07887	US	DC
+Friendship Playground	38.94344	-77.08526	US	DC
+Future Statue	38.89317	-77.02248	US	DC
+G A R Monument	38.89428	-77.02109	US	DC
+Gage Eckington Elementary	38.91688	-77.01564	US	DC
+Gallaudet Thomas Hopkins and Alice Cogswell Statue	38.90567	-76.9947	US	DC
+Gallery Row	38.8965	-77.0222	US	DC
+Gangplank Marina	38.87539	-77.02164	US	DC
+Garth Fountain	38.92872	-77.07303	US	DC
+Gearing Bungalow	38.93539	-77.05109	US	DC
+General Artemas Ward Statue	38.93706	-77.08581	US	DC
+General Hancock Statue	38.89372	-77.02192	US	DC
+General John J. Pershing Statue	38.89678	-77.0297	US	DC
+General Jose Artigas Statue	38.89233	-77.04109	US	DC
+General Jose Gervasio Artigas Statue	38.89233	-77.04164	US	DC
+General Meade Statue	38.89233	-77.01637	US	DC
+General Philip H Sheridan Statue	38.91206	-77.05053	US	DC
+General Scott Statue	38.93817	-77.01331	US	DC
+General William Tecumseh Sherman Monument	38.8965	-77.03442	US	DC
+George Washington Equestrian Statue	38.92956	-77.0697	US	DC
+Georgetown Channel	38.8515	-77.02331	US	DC
+Georgetown Heights	38.91456	-77.07914	US	DC
+Georgetown Market	38.90483	-77.06526	US	DC
+Georgetown Playground	38.91039	-77.0672	US	DC
+Georgetown	38.90483	-77.06248	US	DC
+Germuiller Row	38.89983	-77.01498	US	DC
+Giant Anteater Sculpture	38.92956	-77.04581	US	DC
+Giesboro	38.84456	-77.01637	US	DC
+Giesboro Point	38.84789	-77.0197	US	DC
+Gloria Point	38.94983	-77.08109	US	DC
+Godey Lime Kilns	38.90278	-77.05611	US	DC
+Good Hope	38.86261	-76.96386	US	DC
+Grant Circle	38.94678	-77.01137	US	DC
+Grant Row	38.889	-77.00386	US	DC
+Gravel Point	38.88956	-77.06359	US	DC
+Greek Vases Sculpture	38.90372	-77.01053	US	DC
+Greenleaf Point	38.86178	-77.01748	US	DC
+Greenway	38.88761	-76.9547	US	DC
+Greystone	38.93483	-77.04998	US	DC
+Guardianship Sculpture	38.89261	-77.02248	US	DC
+Guglielmo Marconi Statue	38.93122	-77.03637	US	DC
+Habitat Sculpture	38.91733	-77.0472	US	DC
+Hains Point	38.85733	-77.02164	US	DC
+Hampshire Knolls	38.96122	-77.00387	US	DC
+Happy Hollow Playground	38.91928	-77.04137	US	DC
+Hardy Playground	38.90956	-77.08414	US	DC
+Harris and Ewing Photographic Studio	38.89789	-77.03025	US	DC
+Harrison Playground	38.91789	-77.02998	US	DC
+Hash Row	38.89317	-77.01914	US	DC
+Hawthorne	38.98039	-77.0547	US	DC
+Haupt Fountains	38.89261	-77.03637	US	DC
+Hearst Playground	38.939	-77.07164	US	DC
+Henry Wadsworth Longfellow Statue	38.90594	-77.04109	US	DC
+Heritage Statue	38.89261	-77.02414	US	DC
+Heurich Mansion	38.90817	-77.04442	US	DC
+Highlands	38.93317	-77.07192	US	DC
+Holy Trinity Theatre	38.90733	-77.07053	US	DC
+Hoover Playground	38.87372	-77.01414	US	DC
+Horizons Theatre	38.90372	-77.06248	US	DC
+Howard Playground	38.92011	-77.01609	US	DC
+Howard Theater	38.91539	-77.02081	US	DC
+Immaculata Seminary	38.94594	-77.07914	US	DC
+Infinity Sculpture	38.89039	-77.03025	US	DC
+Ingleside	38.934	-77.04248	US	DC
+International Square	38.90206	-77.04248	US	DC
+International Eastern Star Temple	38.91233	-77.04109	US	DC
+Isherwood	38.89456	-76.97886	US	DC
+Ivy City	38.91122	-76.9847	US	DC
+James Cardinal Gibbons Statue	38.93178	-77.03637	US	DC
+Japanese Lantern	38.88678	-77.04053	US	DC
+Jean Monnet Plaque	38.89595	-77.03275	US	DC
+Jefferson Davis Residence	38.90067	-77.04081	US	DC
+Jefferson Pier Marker	38.88983	-77.03637	US	DC
+John Wesley Statue	38.93928	-77.09026	US	DC
+John Witherspoon Statue	38.90733	-77.04137	US	DC
+Jose Cecilio del Valle Statue	38.89345	-77.04081	US	DC
+Joseph Darlington Fountain	38.89539	-77.01831	US	DC
+Judiciary Square	38.89872	-77.01637	US	DC
+Judiciary Square	38.89622	-77.01692	US	DC
+Junior League of Washington	38.90539	-77.05914	US	DC
+Junior Village	38.81678	-77.0122	US	DC
+Justice William O Douglas Statue	38.90428	-77.05914	US	DC
+Kalorama Circle	38.91844	-77.04831	US	DC
+Kalorama Heights	38.91678	-77.05248	US	DC
+Kalorama Triangle	38.91678	-77.04137	US	DC
+Kemeys Bear Cub Sculpture	38.929	-77.04637	US	DC
+Kenilworth	38.90595	-76.94025	US	DC
+Kent	38.93372	-77.10359	US	DC
+Kesher Israel Georgetown Synagogue	38.90701	-77.05727	US	DC
+Kimball Playground	38.88289	-76.9572	US	DC
+Kings Picture Gallery	38.8965	-77.02775	US	DC
+Klingle Mansion	38.93594	-77.0497	US	DC
+Klingle Valley	38.93344	-77.05081	US	DC
+Kreeger Theatre	38.87706	-77.01887	US	DC
+L'Enfant Square	38.87372	-76.97081	US	DC
+Lafayette Square	38.89928	-77.03609	US	DC
+Lafayette Statue	38.899	-77.03775	US	DC
+Lamond Playground	38.96789	-77.00775	US	DC
+Lamond Riggs	38.9665	-77.00748	US	DC
+Langston Playground	38.90095	-76.96942	US	DC
+Lanier Heights	38.9265	-77.03998	US	DC
+Legation of Latvia	38.91428	-77.05442	US	DC
+Legation of Lithuania	38.92344	-77.03692	US	DC
+Licking Banks	38.91261	-76.9547	US	DC
+Lieutenant General George Washington Statue	38.90261	-77.0497	US	DC
+Langdon	38.92317	-76.97386	US	DC
+Lieutenant Joseph P Kennedy Junior Institute	38.94526	-76.99574	US	DC
+Life Cycle Institute	38.93817	-76.99942	US	DC
+Lincoln Heights	38.89456	-76.92886	US	DC
+Lincoln Playground	38.87789	-76.99831	US	DC
+Little Rome	38.93761	-76.98386	US	DC
+Living Stage	38.91594	-77.03192	US	DC
+Lock 1	38.90382	-77.05727	US	DC
+Lock 2	38.90397	-77.05836	US	DC
+Lock 3	38.90407	-77.05944	US	DC
+Lock 4	38.90411	-77.06049	US	DC
+Loeflers Gardens	38.9065	-77.01331	US	DC
+Logan Circle	38.91261	-77.03164	US	DC
+Logan Circle	38.90956	-77.02942	US	DC
+Lone Sailor Statue	38.89428	-77.02275	US	DC
+Longs Tavern	38.89039	-77.00136	US	DC
+Lothrop Mansion	38.91733	-77.04609	US	DC
+Luther Statue	38.90622	-77.03081	US	DC
+Mackall Square	38.91233	-77.05831	US	DC
+Macomb Playground	38.93372	-77.0672	US	DC
+Maine Avenue Fish Market	38.88095	-77.02775	US	DC
+Major General Comte Jean De Rochambreau Statue	38.899	-77.0372	US	DC
+Major General Friedrich Wilhelm von Steuben Statue	38.899	-77.03637	US	DC
+Major General George Thomas Statue	38.90594	-77.03192	US	DC
+Major General John A Logan Statue	38.90983	-77.02942	US	DC
+Major General John A Rawlins Statue	38.89567	-77.04275	US	DC
+Major General Marquis Gilbert De Lafayette Statue	38.899	-77.03498	US	DC
+Major General George B McClellan Statue	38.91678	-77.04637	US	DC
+Malawi Embassy	38.91511	-77.05498	US	DC
+Man Controlling Trade Sculpture	38.89206	-77.01887	US	DC
+Man Pushing the Door Sculpture	38.88872	-77.02331	US	DC
+Marbury Point	38.81539	-77.02831	US	DC
+Marian Scholasticate	38.93789	-77.00081	US	DC
+Major General Nathanael Green Statue	38.89345	-76.99998	US	DC
+Marist Annex	38.939	-77.00053	US	DC
+Marist Seminary	38.94122	-77.00387	US	DC
+Market Square	38.89372	-77.02303	US	DC
+Market Square	38.89983	-77.04275	US	DC
+Martha Washington Seminary	38.93622	-77.03775	US	DC
+Martin Luther Statue	38.90567	-77.03192	US	DC
+Mary McLeod Bethune Statue	38.88983	-76.98886	US	DC
+Massachusetts Avenue Heights	38.9265	-77.06498	US	DC
+Mayfair Mansions	38.90095	-76.94359	US	DC
+Mazza Gallerie	38.95844	-77.08498	US	DC
+McClellan Circle	38.91678	-77.00664	US	DC
+McLean Gardens	38.93733	-77.07526	US	DC
+McLean Playground	38.93483	-77.07609	US	DC
+McPherson Square	38.90203	-77.0338	US	DC
+Meade Circle	38.92622	-77.03664	US	DC
+Mercantile Savings Bank	38.89928	-77.02525	US	DC
+Meridian Mansions	38.9215	-77.03664	US	DC
+Metropolis View	38.92789	-77.00025	US	DC
+Mexican Cultural Institute	38.92567	-77.03553	US	DC
+Minute Man Statue	38.89817	-77.0097	US	DC
+Mohandas K Gandhi Statue	38.91122	-77.04664	US	DC
+The Mole	38.90011	-77.05776	US	DC
+Montgomery Blair Portal	38.98928	-77.03998	US	DC
+Monument Grounds	38.889	-77.03581	US	DC
+Mormon Temple	38.92594	-77.03692	US	DC
+Nathanael Greene Statue	38.89333	-77.00028	US	DC
+National Arboretum	38.91039	-76.96609	US	DC
+National Bank of Washington	38.89345	-77.02192	US	DC
+National Christmas Tree	38.89456	-77.03637	US	DC
+National Council of Negro Womens Headquaters	38.91067	-77.02914	US	DC
+National Fairgrounds	38.92094	-76.9872	US	DC
+National Gallery of Art	38.89122	-77.01998	US	DC
+National Guard Heritage Gallery	38.89789	-77.00942	US	DC
+National Portrait Gallery	38.89789	-77.02275	US	DC
+National Sculpture Garden and Ice Rink	38.89122	-77.02275	US	DC
+National Theatre	38.89622	-77.03081	US	DC
+National Trust for Historic Preservation	38.90928	-77.04192	US	DC
+Navy Art Gallery	38.874	-76.99442	US	DC
+Navy Bureau of Medicine and Science	38.89428	-77.05164	US	DC
+Navy Magazine	38.88095	-76.97331	US	DC
+Navy Yard Channel	38.87622	-76.98386	US	DC
+Navy Yard Pier 1	38.8715	-76.99525	US	DC
+Navy Yard Pier 2	38.87178	-76.99581	US	DC
+Navy Yard Pier 3	38.87206	-76.99748	US	DC
+Navy Yard Pier 4	38.87233	-76.99859	US	DC
+Naylor Gardens	38.85678	-76.96664	US	DC
+New Playwrights Theatre	38.91011	-77.03998	US	DC
+New York Avenue Playground	38.9065	-77.01248	US	DC
+North Corner	38.99594	-77.03998	US	DC
+Northeast Boundary	38.89261	-76.91636	US	DC
+Northeast Quadrant	38.91261	-76.97581	US	DC
+Northumberland Apartments	38.91789	-77.03525	US	DC
+Northwest Quadrant	38.93261	-77.04248	US	DC
+Northwest Rectangle	38.89456	-77.04498	US	DC
+Noyes Playground	38.92483	-76.99164	US	DC
+Observatory Circle	38.924	-77.06498	US	DC
+Old French Embassy	38.92261	-77.03637	US	DC
+Old Naval Observatory	38.89528	-77.05194	US	DC
+Olive Risley Seward Statue	38.8865	-76.99775	US	DC
+Orbit Sculpture	38.92872	-77.06192	US	DC
+Organization of American States Annex	38.89261	-77.04275	US	DC
+Oswego and Exeter Apartments	38.91678	-77.03053	US	DC
+Palisades Playground	38.92483	-77.1047	US	DC
+Pan American Health Organization	38.89622	-77.0497	US	DC
+Pan American Union	38.89289	-77.04025	US	DC
+Parrotts Woods	38.91289	-77.05637	US	DC
+Past Sculpture	38.89317	-77.02359	US	DC
+Payne Playground	38.88539	-76.98359	US	DC
+Peace Monument	38.89067	-77.01248	US	DC
+Peace Statue	38.93011	-77.07248	US	DC
+Pebble Garden Fountain	38.91372	-77.06414	US	DC
+Pegasus and Bellerophon Sculpture	38.89789	-77.02303	US	DC
+Pennsylvania Avenue Hights	38.86817	-76.95803	US	DC
+Pentagon Lagoon Yacht Basin	38.87317	-77.04887	US	DC
+Perry Lions Sculpture	38.92094	-77.05053	US	DC
+Peter Square	38.90289	-77.0622	US	DC
+Peters Point	38.89178	-77.05553	US	DC
+Petworth	38.94594	-77.02498	US	DC
+Petworth Playground	38.94122	-77.02414	US	DC
+Philadelphia Row	38.88845	-76.99136	US	DC
+Phyllis Wheatley YMCA	38.91206	-77.02414	US	DC
+Peirce Distillery	38.94039	-77.05248	US	DC
+Penguin Fountain	38.97455	-77.0297	US	DC
+Pine Crest Manor	38.93483	-77.05276	US	DC
+Pinehurst Circle	38.97567	-77.06498	US	DC
+Pinehurst Circle	38.97094	-77.08026	US	DC
+Plymouth Circle	38.98789	-77.04692	US	DC
+Poplar Point	38.86983	-77.00164	US	DC
+The Potomac Gorge	38.90733	-77.09414	US	DC
+Potomac Heights	38.92761	-77.10776	US	DC
+Prodigal Son Statue	38.92928	-77.07248	US	DC
+Professor Joseph Henry Statue	38.88928	-77.02581	US	DC
+Prometheus Statue	38.89706	-77.00664	US	DC
+Protestant Episcopal Cathedral Foundation	38.93067	-77.06914	US	DC
+Psychiatric Institute of Washington	38.94384	-77.0779	US	DC
+Puck Fountain	38.89761	-77.00275	US	DC
+Quarters A - Washington Navy Yard	38.87622	-76.9947	US	DC
+Quarters B - Washington Navy Yard	38.87567	-76.9972	US	DC
+Queen Isabella I Statue	38.89261	-77.0397	US	DC
+Randle Circle	38.87789	-76.96136	US	DC
+Randle Highlands	38.87039	-76.96636	US	DC
+Randle Highlands Elementary	38.87024	-76.96441	US	DC
+Raymond Playground	38.93678	-77.02609	US	DC
+Red Lion Row	38.90122	-77.04525	US	DC
+Reflecting Pool	38.89345	-77.04414	US	DC
+Regency Row	38.90539	-77.06803	US	DC
+Reno	38.95289	-77.07831	US	DC
+Renwick Gallery	38.899	-77.04025	US	DC
+Riggs-LaSalle Playground	38.95983	-77.00053	US	DC
+Robert Emmet Statue	38.914	-77.05248	US	DC
+Roosevelt Mansion	38.90761	-77.04359	US	DC
+Rosedale	38.89733	-76.97886	US	DC
+Rosedale	38.93456	-77.06887	US	DC
+Rosedale Playground	38.89706	-76.97886	US	DC
+Royal Danish Embassy	38.91844	-77.06164	US	DC
+Royal Nepalese Embassy	38.91594	-77.04831	US	DC
+Royal Norwegian Embassy	38.92428	-77.06664	US	DC
+Ruben Dario Sculpture	38.89261	-77.04109	US	DC
+Rudolph Playground	38.95372	-77.01498	US	DC
+Rum Row	38.89595	-77.03025	US	DC
+Russian Embassy	38.92483	-77.07526	US	DC
+Ryan Gymnasium	38.90789	-77.07331	US	DC
+Ryders Castle	38.89539	-77.01109	US	DC
+SIS Annex	38.93611	-77.09028	US	DC
+Sacred Heart Seminary	38.94844	-76.99331	US	DC
+Saint Bernadette Statue	38.93706	-76.98636	US	DC
+Saint Bonaventures Convent	38.93261	-76.99664	US	DC
+Saint Christopher Statue	38.93733	-76.98636	US	DC
+Saint Dominic Statue	38.93206	-76.99831	US	DC
+Saint Francis and the Turtledoves Statue	38.9365	-76.98525	US	DC
+Saint Jerome the Priest Statue	38.93289	-76.98664	US	DC
+Saint Josephs Seminary	38.94372	-76.98886	US	DC
+Saint Philip and Jacob Tract	38.93067	-77.10248	US	DC
+Saint Sophia Greek Orthodox Cathedral	38.92733	-77.07053	US	DC
+Saint Vincent De Paul Statue	38.94317	-76.99053	US	DC
+Samuel P Langley IMAX Theater	38.88817	-77.0197	US	DC
+Savoy Playground	38.86317	-76.99275	US	DC
+Scenes From Shakespeare Sculpture	38.89761	-77.00303	US	DC
+Schneider Triangle	38.90289	-77.04775	US	DC
+Scotch Row	38.90483	-77.04942	US	DC
+Scott Circle	38.90706	-77.03637	US	DC
+Seafairers Marina	38.87872	-76.97386	US	DC
+Seaton Playground	38.90122	-77.01498	US	DC
+Second National Bank	38.89845	-77.03053	US	DC
+Securities and Exchange Commission	38.89872	-77.04137	US	DC
+Sedgwick Garden Architectural Sculpture	38.939	-77.06081	US	DC
+Senate Heights	38.91539	-77.08942	US	DC
+Senator Francis Newlands Statue	38.96761	-77.07692	US	DC
+Serenity Statue	38.92317	-77.03637	US	DC
+Seton Wing	38.93539	-77.00053	US	DC
+Seward Square	38.88595	-76.99942	US	DC
+Shakespeare Theater	38.89567	-77.02192	US	DC
+Shaw	38.91206	-77.02137	US	DC
+Shepherd Playground	38.98483	-77.03525	US	DC
+Shepherd Statue	38.89567	-77.03137	US	DC
+Shepherds Landing	38.81595	-77.02775	US	DC
+Shepherds Row	38.90289	-77.03942	US	DC
+Sheridan Circle	38.91206	-77.05026	US	DC
+Sheridan Statue	38.91206	-77.04775	US	DC
+Sheridan-Kalorama	38.91456	-77.0497	US	DC
+Sherman Circle	38.94706	-77.02137	US	DC
+Sherwood Playground	38.89817	-76.99331	US	DC
+Shrine of the Immaculate Conception	38.93344	-77.00025	US	DC
+Single Oak	38.92789	-77.05887	US	DC
+Sir William Blackstone Statue	38.89261	-77.01553	US	DC
+Smith Row	38.90678	-77.06553	US	DC
+Smithsonian Grounds	38.88983	-77.02609	US	DC
+Smithsonian Institution	38.88872	-77.02581	US	DC
+Soapstone Valley	38.94761	-77.0647	US	DC
+Sonny Bono Statue	38.90844	-77.04442	US	DC
+Source Main Stage	38.91456	-77.03192	US	DC
+Southeast	38.88067	-76.98998	US	DC
+Southeast Hebrew Temple	38.88289	-76.99414	US	DC
+Southeast Quadrant	38.86372	-76.97442	US	DC
+Southwest	38.88122	-77.01637	US	DC
+Southwest Quadrant	38.8565	-77.01081	US	DC
+Stan Saloon	38.8965	-77.02525	US	DC
+Stead Playground	38.91039	-77.03748	US	DC
+Stevens Playground	38.97094	-77.03053	US	DC
+Stoddert Playground	38.92289	-77.07803	US	DC
+Studio Theater	38.91067	-77.03248	US	DC
+Sulpician Seminary	38.9309	-76.99999	US	DC
+Sylvan Theatre	38.88845	-77.03414	US	DC
+Taft Stable	38.92067	-77.04914	US	DC
+Takoma Playground	38.904	-77.0172	US	DC
+Taras Shevchenko Statue	38.90983	-77.04887	US	DC
+Temperance Fountain Sculpture	38.89345	-77.02164	US	DC
+Tenley Circle	38.94622	-77.07803	US	DC
+Tenleytown	38.94956	-77.08581	US	DC
+Tennallys Tavern	38.949	-77.07998	US	DC
+Tennallys Tavern	38.949	-77.08026	US	DC
+Terra Cotta	38.95372	-76.99831	US	DC
+Thales Statue	38.89706	-77.00664	US	DC
+The Arts of Peace Statue	38.88983	-77.05164	US	DC
+The Arts of War Statue	38.88872	-77.05164	US	DC
+The Brookings Institute	38.90928	-77.04109	US	DC
+The Burghers of Calais Sculpture	38.88872	-77.02331	US	DC
+The Causeway	38.93233	-77.0597	US	DC
+The Cloisters	38.92789	-77.00525	US	DC
+The Contemplation of Justice Sculpture	38.89095	-77.00498	US	DC
+The Ellipse	38.894	-77.03637	US	DC
+The Expanding Universe Fountain	38.89428	-77.04775	US	DC
+The Houpyard	38.89011	-76.9872	US	DC
+The Lindens	38.91833	-77.05333	US	DC
+The Majesty of Law Sculpture	38.88733	-77.01081	US	DC
+The Palisades	38.92511	-77.10137	US	DC
+The Prophet Daniel Statue	38.89261	-77.04081	US	DC
+The Rest	38.94594	-77.07637	US	DC
+The Slashes	38.90983	-77.04359	US	DC
+The World Bank	38.89956	-77.0422	US	DC
+Themis Statue	38.89706	-77.00664	US	DC
+Thomas Circle	38.90622	-77.02887	US	DC
+Thomas Circle	38.90567	-77.03192	US	DC
+Thomas Hopkins Gallaudet Statue	38.9065	-76.98942	US	DC
+Thomas Sim Lee Corner	38.90817	-77.05942	US	DC
+The Common	38.9865	-77.04498	US	DC
+Tidewater Lock	38.89956	-77.05748	US	DC
+Tifereth Israel Temple	38.92372	-77.03248	US	DC
+Tivoli Theatre	38.93039	-77.03275	US	DC
+Torch of Learning Sculpture	38.889	-77.00525	US	DC
+Toutorsky Mansion	38.91289	-77.03692	US	DC
+Towpath Row	38.90428	-77.06053	US	DC
+Treasury Annex	38.90011	-77.03442	US	DC
+Tregaron	38.9315	-77.06053	US	DC
+Trinidad	38.90567	-76.98442	US	DC
+Trinidad Playground	38.90678	-76.98192	US	DC
+Tidal Basin	38.88372	-77.03887	US	DC
+Truxton Circle	38.90983	-77.01498	US	DC
+Turkey Thicket Playground	38.93761	-76.99248	US	DC
+Twin Oaks	38.92594	-77.05164	US	DC
+Twin Oaks Playground	38.94067	-77.03248	US	DC
+Twining	38.87178	-76.96581	US	DC
+Tyler Vision Program	38.88095	-76.9922	US	DC
+Turner Playground	38.84928	-76.98053	US	DC
+US National Arboretum	38.91261	-76.9697	US	DC
+Uncle Beazley Sculpture	38.89039	-77.02581	US	DC
+Union Market	38.90789	-76.99831	US	DC
+Union Square	38.88956	-77.01442	US	DC
+United States Botanic Garden	38.8665	-76.99803	US	DC
+United States Botanic Garden - Poplar Point Nursery	38.86761	-76.99748	US	DC
+United States Information Agency	38.899	-77.04137	US	DC
+United States Naval Observatory	38.9215	-77.06637	US	DC
+Vaquero Statue	38.89817	-77.02192	US	DC
+Varnum	38.94317	-77.00525	US	DC
+Venilation Towers	38.88817	-77.0097	US	DC
+Venilation Towers	38.8915	-77.0097	US	DC
+Uplands	38.91178	-77.08526	US	DC
+Von Steuben Statue	38.89983	-77.0372	US	DC
+W J Bryan Statue	38.89372	-77.05553	US	DC
+W W Corcoran Store	38.90706	-77.06303	US	DC
+WOOK	38.95483	-77.00387	US	DC
+WRC	38.924	-77.05498	US	DC
+Waggaman - Ray Commercial Row	38.90511	-77.04109	US	DC
+Walsh Stable	38.89678	-77.04859	US	DC
+Viatorian Seminary	38.93483	-76.9897	US	DC
+Ward Circle	38.93789	-77.08526	US	DC
+Wardman Row	38.91261	-77.03303	US	DC
+Warner Theatre	38.8965	-77.0297	US	DC
+Washington, D.C.	38.89511	-77.03637	US	DC
+Washington Aqueduct	38.93789	-77.11248	US	DC
+Washington Board of Trade	38.8965	-77.02359	US	DC
+Washington Cathedral	38.93067	-77.0697	US	DC
+Washington Channel	38.87178	-77.01998	US	DC
+Washington Circle	38.90233	-77.04998	US	DC
+Washington City	38.90011	-77.01637	US	DC
+Washington Coliseum	38.90483	-77.00275	US	DC
+Washington Harbour	38.90206	-77.05998	US	DC
+Washington Highlands	38.83206	-76.9947	US	DC
+Washington Marina	38.88206	-77.03081	US	DC
+Washington National Cathedral	38.93067	-77.07053	US	DC
+Washington Square	38.904	-77.04025	US	DC
+Washington Monument	38.88956	-77.03525	US	DC
+Wayland Seminary	38.9215	-77.03525	US	DC
+Weightmans Row	38.89289	-77.02081	US	DC
+Wesley Circle	38.94122	-77.09081	US	DC
+Wesley Heights	38.93122	-77.08803	US	DC
+West End	38.90706	-77.0497	US	DC
+West Over View	38.86817	-76.96359	US	DC
+Westchester	38.92594	-77.0797	US	DC
+Westminster	38.91483	-77.02137	US	DC
+Wheat Row	38.874	-77.01775	US	DC
+Wheatley Playground	38.90372	-76.98831	US	DC
+White Haven Tract	38.90844	-77.08581	US	DC
+William F Allen Statue	38.89733	-77.00609	US	DC
+Woodland	38.86178	-76.97053	US	DC
+Woodward Apartments	38.91928	-77.04831	US	DC
+Woolly Mammoth Theatre	38.89845	-77.02998	US	DC
+World Bank	38.899	-77.0422	US	DC
+World's Largest Chair	38.86539	-76.98942	US	DC
+Wrestling Bears Sculpture	38.92928	-77.04581	US	DC
+Wyoming Apartments	38.91761	-77.04498	US	DC
+Xochipilli Statue	38.89345	-77.04053	US	DC
+Yale Steam Laundry	38.90483	-77.01775	US	DC
+Yellow Tavern	38.90956	-77.06609	US	DC
+Woodley Playground	38.92956	-77.05137	US	DC
+Zero Milestone	38.89511	-77.03637	US	DC
+Twining Square	38.874	-76.97053	US	DC
+Fletchers Cove	38.9186	-77.103	US	DC
+Effingham Apartments	38.925	-77.0225	US	DC
+John Burr Gymnasium	38.92639	-77.0225	US	DC
+Alumni Square	38.90722	-77.07167	US	DC
+Burr Annex	38.92583	-77.02222	US	DC
+Lloyd Gymnasium	38.91667	-77.09028	US	DC
+The West End	38.9003	-77.0481	US	DC
+Henle Village	38.91028	-77.07361	US	DC
+Institute of Diplomacy	38.9075	-77.07083	US	DC
+McDonough Gymnasium	38.9075	-77.07778	US	DC
+Medical and Dental Annex	38.91194	-77.0775	US	DC
+New South	38.90611	-77.07444	US	DC
+Reed Alumni Residence	38.90778	-77.07083	US	DC
+Village A	38.90611	-77.07333	US	DC
+Village C	38.90694	-77.07472	US	DC
+Academic Administration	38.90667	-77.07083	US	DC
+Alumni Square (Village B)	38.90722	-77.07167	US	DC
+Ballard North	38.90944	-76.9925	US	DC
+Ballard West	38.90889	-76.99306	US	DC
+Central Receiving	38.90944	-76.99167	US	DC
+Lincoln Theater	38.91761	-77.02859	US	DC
+McCormick Apartments	38.90956	-77.04109	US	DC
+Brazilian Embassy	38.919	-77.06053	US	DC
+Commercial National Bank	38.89872	-77.03192	US	DC
+William H Greene Stadium	38.92556	-77.02111	US	DC
+Bison Sculpture	38.90556	-76.99333	US	DC
+Contrapposto Sculpture	38.9075	-76.99361	US	DC
+Mary Livingston Ripley Garden	38.88817	-77.02359	US	DC
+Corcoran Lions Statue	38.89678	-77.03887	US	DC
+Louis Daguerre Statue	38.89733	-77.0222	US	DC
+Civil War Sailors Statue	38.88983	-77.01275	US	DC
+The Sailors Tavern	38.90278	-77.06306	US	DC
+Southwest Quadrangle	38.90667	-77.07583	US	DC
+Dahlgren Quadrangle	38.90722	-77.07333	US	DC
+Healy Lawn	38.90722	-77.0725	US	DC
+Harriett Tubman Quadrangle	38.92194	-77.01778	US	DC
+Lower Quadrangle	38.92167	-77.02	US	DC
+Upper Quadrangle	38.92333	-77.02028	US	DC
+Helix	38.92493	-76.98518	US	DC
+Sofitel Washington Lafayette Square	38.9004	-77.0335	US	DC
+Washington Grand	38.90453	-77.03179	US	DC
+Fairmont Washington DC	38.90526	-77.05152	US	DC
+Rouge	38.9084	-77.03638	US	DC
+Wyndham Washington, DC	38.9056	-77.0328	US	DC
+St. Regis Washington, D.C.	38.9019	-77.0364	US	DC
+The Fairmont Washington D.C.	38.9053	-77.0514	US	DC
+aka Korman Communities Washingt	38.9001	-77.0397	US	DC
+Mandarin Oriental, Washington D.C.	38.9189	-77.0258	US	DC
+RESIDENCE WASH DC DUPONT CIRCLE	38.9095	-77.0471	US	DC
+FOUR SEASONS WASHINGTON	38.9049	-77.0572	US	DC
+THE QUINCY	38.9038	-77.0428	US	DC
+Saint Anselms Abbey	38.94583	-76.985	US	DC
+G-Dub Java	38.9175	-77.08972	US	DC
+Ivory Towers	38.89778	-77.05083	US	DC
+The Dakota	38.89722	-77.04694	US	DC
+Unversity Garage	38.9	-77.04917	US	DC
+United Cerebral Palsy of Washington and Northern Virginia	38.95145	-76.99755	US	DC
+Adolescent Day Program	38.88303	-76.9767	US	DC
+Learning Book Scholastic Shop	38.97103	-77.02743	US	DC
+Newseum	38.89278	-77.01944	US	DC
+Loving Care Day Nursery	38.9006	-76.9979	US	DC
+Loving Care Day Nursery	38.9564	-77.0123	US	DC
+Lutheran Volunteer Corporation	38.90703	-77.03159	US	DC
+MacArthur Theater	38.9167	-77.0955	US	DC
+Medstar Manor at Lamond Riggs	38.9637	-77.0059	US	DC
+Meridian Manor	38.9213	-77.0333	US	DC
+National Headquarters of the United States Daughters of 1812	38.9084	-77.0341	US	DC
+Adventureland Day Nursery	38.9402	-77.0268	US	DC
+Apple Tree Institute For Education	38.8789	-77.0219	US	DC
+Atlas Theater	38.9	-76.9872	US	DC
+Bellair	38.9328	-76.9933	US	DC
+Bread for the City	38.8663	-76.9811	US	DC
+Bread for the City	38.9103	-77.0217	US	DC
+Convent Carmelite Sisters	38.94272	-76.99486	US	DC
+Convent of Bon Secours	38.9466	-77.0807	US	DC
+Dumblane Garage	38.9445	-77.0817	US	DC
+Glen Hurst	38.921	-77.0981	US	DC
+Immaculate Conception Convent	38.9078	-77.0227	US	DC
+Immaculate Conception Rectory	38.9077	-77.0226	US	DC
+Issac Tiny Tots	38.9118	-76.934	US	DC
+Kiddies Kollege	38.8367	-76.9881	US	DC
+Kinderhaus	38.9594	-77.072	US	DC
+Missionaries of Africa	38.91173	-77.04695	US	DC
+Owls Nest	38.951	-77.0635	US	DC
+Planned Parenthood	38.904	-77.037	US	DC
+Plymouth Theater	38.8999	-76.9862	US	DC
+Senator Theater	38.8945	-76.9499	US	DC
+Shiloh Day Nursery	38.91	-77.0237	US	DC
+Square 38	38.9031	-77.0509	US	DC
+The Chamberlain	38.9088	-77.033	US	DC
+The Olympia	38.9235	-77.0317	US	DC
+The Plymouth	38.9067	-77.0274	US	DC
+Tiny Tots Day Care Nursery	38.9368	-77.0233	US	DC
+Triangle Tots	38.8949	-77.0302	US	DC
+United Planning Organization Number 1	38.9151	-77.0164	US	DC
+United Planning Organization Number 5	38.9444	-77.0643	US	DC
+Casa Del Alfarero Asambleas de Dios	38.94105	-77.02952	US	DC
+Christian Science Reading Room	38.92756	-77.02654	US	DC
+Christian Science Reading Room	38.8955	-77.02929	US	DC
+Christian Science Reading Room	38.90534	-77.06105	US	DC
+Christian Science Reading Room	38.93045	-77.03294	US	DC
+Deliverance Miracle Temple	38.90395	-76.98106	US	DC
+Greater Faith Temple	38.90373	-76.92879	US	DC
+Harvest Life Fellowship	38.9257	-77.02637	US	DC
+Iglesia Bautista de Washington	38.9271	-77.0358	US	DC
+Iglesia de DIOS El Jardin Del Eden	38.94911	-77.02678	US	DC
+Iglesia Luterana Santa Maria	38.91833	-77.0357	US	DC
+Iglesia Pentecostal Emmanuel	38.94374	-77.03601	US	DC
+Imani Temple	38.89367	-76.99823	US	DC
+Ukranian Catholic National Shrine	38.93963	-77.00344	US	DC
+Comte de Rochambeau Monument	38.899	-77.0377	US	DC
+Douglass Pool	38.8526	-76.9773	US	DC
+East Potomac Pool	38.8748	-77.0272	US	DC
+Fort Dupont Pool	38.876	-76.9403	US	DC
+Fort Stanton Pool	38.8576	-76.9783	US	DC
+Francis Pool	38.9074	-77.0534	US	DC
+Langdon Pool	38.927	-76.9737	US	DC
+Lincoln Capper Walk to Learn Pool	38.8771	-76.9984	US	DC
+Abundant Life Clinic	38.8806	-76.9952	US	DC
+Blair Shelter Clinic	38.9012	-76.9971	US	DC
+Central Union Mission Clinic	38.9125	-77.0316	US	DC
+Congress Heights Clinic	38.837	-77.0062	US	DC
+Emery Shelter Clinic	38.9132	-77.0081	US	DC
+Federal City Shelter Clinic	38.8959	-77.0133	US	DC
+Health Care Institute	38.8372	-76.9838	US	DC
+La Clinica Del Pueblo	38.9284	-77.0354	US	DC
+Walker Jones Clinic	38.9033	-77.0127	US	DC
+Whitman Walker-Elizabeth Taylor Clinic	38.9129	-77.0316	US	DC
+Whitman-Walker Clinic	38.9142	-77.0323	US	DC
+Muhammads Mosque	38.90404	-76.98062	US	DC
+Kamit Institute for Magnificent Achievers	38.9622	-77.0129	US	DC
+Our Lady of Lebanon Maronite Seminary	38.9774	-77.0344	US	DC
+Randall Pool	38.8799	-77.0103	US	DC
+Upshur Pool	38.9442	-77.0317	US	DC
+Wilson Pool	38.9502	-77.0778	US	DC
+Cornell in Washington	38.9084	-77.0484	US	DC
+Stanford in Washington	38.9253	-77.0521	US	DC
+Ukranian Catholic Seminary	38.9404	-77.004	US	DC
+Point Reno	38.95194	-77.07611	US	DC
+Mosque of the American Fazl	38.9155	-77.04819	US	DC
+Muhammed Mosque	38.86985	-76.96077	US	DC
+Sixth and I Synagogue	38.9006	-77.02026	US	DC
+Anacostia Annex	38.85529	-77.01084	US	DC
+Fort Lesley J McNair	38.86677	-77.0166	US	DC
+United States Naval Observatory	38.92151	-77.06687	US	DC
+Washington Navy Yard	38.87382	-76.995	US	DC
+Bolling Air Force Base	38.83989	-77.01727	US	DC
+One Washington Circle	38.90333	-77.05	US	DC
+Kaz Sushi Bistro	38.90127	-77.03712	US	DC
+Teatro Goldoni	38.90262	-77.04402	US	DC
+Bobby Van's Grill	38.90098	-77.02858	US	DC
+Bistro D'OC	38.89684	-77.02629	US	DC
+Mar De Plata	38.90665	-77.04278	US	DC
+Mourayo Restaurant	38.91364	-77.04617	US	DC
+Peacock Cafe	38.90601	-77.06458	US	DC
+Evolve	38.92195	-77.04365	US	DC
+Sushi Taro	38.90977	-77.03847	US	DC
+Daily Grill	38.90713	-77.06372	US	DC
+Taste of India	38.92414	-77.05148	US	DC
+Murphy's of DC	38.92384	-77.05241	US	DC
+Open City	38.9237	-77.05237	US	DC
+The Prime Rib - Washington D.C	38.90212	-77.04599	US	DC
+Whitehaven	38.9166	-77.0986	US	DC
+Battery Ricketts	38.85789	-76.97515	US	DC
+Buzzard Point	38.86433	-77.01125	US	DC
+Frederick Douglass National Historic Site	38.86298	-76.98508	US	DC
+Pennsylvania Avenue National Historic Site	38.89282	-77.01776	US	DC
+Sherman Circle	38.94744	-77.02158	US	DC
+Ward Circle	38.93803	-77.0856	US	DC
+Tenley Circle	38.94647	-77.07819	US	DC
+Scott Circle	38.90736	-77.03623	US	DC
+Thomas Circle	38.90577	-77.03165	US	DC
+Randle Circle	38.87815	-76.96111	US	DC
+Logan Circle	38.90976	-77.02932	US	DC
+Chevy Chase Circle	38.96763	-77.07667	US	DC
+Sheridan Circle	38.91226	-77.05035	US	DC
+Grant Circle	38.94323	-77.01897	US	DC
+Westmoreland Circle	38.94897	-77.10059	US	DC
+Pan American Annex	38.89274	-77.04244	US	DC
+Sofitel Washington Dc Lafayett	38.9005	-77.03385	US	DC
+Intercontinental The Willard Washington D.C.	38.8961	-77.03194	US	DC
+Renaissance Dupont Cir N50162	38.90451	-77.04828	US	DC
+Renaissance Washington Dc Dupont Circle	38.90477	-77.04753	US	DC
+The Fairfax At Embassy Row	38.91074	-77.04664	US	DC
+The St Regis Washington Dc	38.90207	-77.03612	US	DC
+Renaissance Was Dc N50162	38.90177	-77.02367	US	DC
+Loews Madison Luxury	38.90533	-77.03422	US	DC
+Capella Washington D.C.. Georg	38.904	-77.061	US	DC
+Capella Washington Dc Georgetown	38.90394	-77.06133	US	DC
+W Washington D.C.	38.89662	-77.03351	US	DC
+Pajama	38.92512	-76.98447	US	DC
+Embassy Square	38.90734	-77.0449	US	DC
+Sofitel Lafayette Square (Double Room)	38.90048	-77.03377	US	DC

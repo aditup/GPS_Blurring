@@ -1,0 +1,61 @@
+Windward Point	18.26667	-62.96667	AI	00
+West Point	18.26667	-62.95	AI	00
+West End Village	18.16667	-63.15	AI	00
+West Cay	18.26667	-63.28333	AI	00
+Wattices	18.21667	-63.03333	AI	00
+Warner Point	18.58333	-63.41667	AI	00
+Upper Maunday's Point	18.15	-63.13333	AI	00
+The Valley	18.21704	-63.05783	AI	00
+The Quarter	18.2	-63.03333	AI	00
+The Fountain	18.23333	-63.03333	AI	00
+The Farrington	18.2	-63.03333	AI	00
+The Copse	18.21667	-62.98333	AI	00
+Stoney Ground	18.21667	-63.03333	AI	00
+Stoney Cove	18.28333	-62.95	AI	00
+South Wager	18.16667	-63.16667	AI	00
+Sombrero	18.58996	-63.42579	AI	00
+Snake Point	18.28333	-62.96667	AI	00
+Sherricks High Point	18.16667	-63.15	AI	00
+Shaddick Point	18.16667	-63.1	AI	00
+Scilly Cay	18.26027	-63.00204	AI	00
+Sandy Point	18.16667	-63.08333	AI	00
+Sandy Ground Village	18.2	-63.08333	AI	00
+Prickly Pear Cays	18.26667	-63.18333	AI	00
+North Wager	18.26667	-63.16667	AI	00
+North Side	18.21667	-63.05	AI	00
+Mid Cay	18.28333	-63.26667	AI	00
+Mead Point	18.18333	-63.13333	AI	00
+Mahogany Tree	18.2	-63.03333	AI	00
+Lower West End Point	18.15	-63.16667	AI	00
+Lower Maunday's Point	18.15	-63.15	AI	00
+Long Path	18.21667	-63.01667	AI	00
+Long Ground	18.2	-63.05	AI	00
+Little Harbour	18.18333	-63.06667	AI	00
+Little Dix	18.23333	-63.03333	AI	00
+Junks Hole	18.25	-62.98333	AI	00
+High Cliff	18.2	-63	AI	00
+Graften's Point	18.28333	-62.91667	AI	00
+Goat Cave	18.25	-62.96667	AI	00
+Gibbons Point	18.16667	-63.06667	AI	00
+Gibbon Point	18.23333	-63	AI	00
+Ebenezer	18.21667	-63.06667	AI	00
+East End Village	18.23333	-63	AI	00
+East Cay	18.28333	-63.25	AI	00
+Dowling Shoal	18.21667	-63.13333	AI	00
+Deep Waters	18.23333	-63.01667	AI	00
+Deadman's Cay	18.28333	-62.91667	AI	00
+Coral Point	18.28333	-62.95	AI	00
+Chalvilles	18.23333	-63	AI	00
+Cauls Bottom	18.21667	-63.03333	AI	00
+Cannifist	18.23333	-63.01667	AI	00
+Bungalows	18.18333	-63.1	AI	00
+Blowing Point Village	18.16667	-63.08333	AI	00
+Blowing Point Harbour	18.16667	-63.08333	AI	00
+Blowing Point	18.18333	-63.1	AI	00
+Blowing Point	18.18333	-63.1	AI	00
+Bethel	18.2	-63.1	AI	00
+Bailey's Cove	18.26667	-63.25	AI	00
+Anguilla	18.21667	-63.05	AI	00
+Anguilla	18.21667	-63.05	AI	00
+CAP JULUCA	18.16461	-63.14701	AI	
+COVECASTLES	18.2	-63.0667	AI	

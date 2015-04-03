@@ -1,0 +1,202 @@
+William's Point	32.30667	-64.80389	BM	05
+White Point	32.31833	-64.71333	BM	09
+Watlington Point	32.3	-64.75	BM	01
+Warwick Parish	32.26583	-64.80722	BM	11
+Walsingham Caves	32.34806	-64.71028	BM	07
+Waller's Point	32.33611	-64.68167	BM	07
+Fort Victoria	32.38667	-64.67583	BM	06
+Two Way Shoal	32.30861	-64.80167	BM	05
+Turn-Up Breaker	32.33333	-64.63333	BM	07
+Tucker's Town	32.33278	-64.68806	BM	07
+Town Cut	32.37806	-64.66417	BM	07
+Timlin's Narrows	32.28444	-64.80694	BM	11
+The Chimneys	32.41667	-64.81667	BM	00
+Tepping Shoals	32.35222	-64.73167	BM	02
+Taylor's Point	32.33167	-64.73528	BM	02
+Tatem Point	32.29389	-64.86278	BM	08
+Sunnyside	32.32639	-64.74111	BM	02
+Sugar Cane Point	32.30472	-64.86083	BM	08
+Stokes Point	32.3725	-64.68861	BM	07
+Stocks Harbour	32.37056	-64.68861	BM	07
+The Stags	32.33417	-64.74361	BM	09
+Spencer's Point	32.30833	-64.72917	BM	09
+Spanish Point	32.305	-64.81111	BM	05
+Southampton Parish	32.25083	-64.85639	BM	10
+Somerset	32.29833	-64.86833	BM	08
+Smith's Sound	32.36861	-64.66139	BM	07
+Smith's Parish	32.31528	-64.73528	BM	09
+Ship Point	32.37083	-64.675	BM	07
+Shark Hole	32.33667	-64.70639	BM	02
+Point Shares	32.29361	-64.80472	BM	05
+Seon Point	32.34	-64.73861	BM	02
+Sea Venture Shoals	32.38139	-64.63639	BM	07
+Scaur Fort	32.285	-64.87222	BM	08
+The Scaur	32.27972	-64.8775	BM	08
+Sandys Parish	32.29345	-64.86828	BM	08
+Sandy Hole	32.34556	-64.73194	BM	02
+Sam's Point	32.36028	-64.66833	BM	07
+Salt Kettle	32.28451	-64.79318	BM	04
+Saint George's Parish	32.3726	-64.69437	BM	07
+Saint George's Harbour	32.37556	-64.67889	BM	07
+Saint George's Channel	32.37361	-64.66306	BM	07
+Saint George	32.38167	-64.67806	BM	06
+Saint George	32.38417	-64.67639	BM	06
+Saint David's Head	32.36667	-64.63333	BM	07
+Saint Catherine Point	32.39056	-64.67444	BM	06
+Fort Saint Catherine	32.39056	-64.675	BM	06
+Ruth's Point	32.35972	-64.6525	BM	07
+Robert's Point	32.37056	-64.67306	BM	07
+Red Hole	32.36667	-64.63333	BM	07
+Red Hole	32.29611	-64.86083	BM	08
+Red Hole	32.29028	-64.77611	BM	04
+Red Hole	32.37	-64.64972	BM	07
+The Quintons	32.31333	-64.85417	BM	08
+Fort Prospect	32.29917	-64.76556	BM	01
+Plaice's Point	32.30417	-64.81806	BM	05
+Plaice's Point	32.29667	-64.85944	BM	08
+Pembroke Parish	32.29944	-64.79278	BM	05
+Patton's Point	32.3225	-64.72194	BM	09
+Paget Parish	32.27833	-64.78167	BM	04
+Old Shoal	32.32861	-64.72083	BM	09
+Charles' Fort	32.33333	-64.66667	BM	07
+North's Point	32.31278	-64.72194	BM	09
+North Shore Village	32.30639	-64.77361	BM	01
+Nearon's Cut	32.37806	-64.69417	BM	07
+The Narrows	32.37806	-64.64944	BM	07
+The Narrows	32.37	-64.665	BM	07
+Murray's Anchorage	32.38482	-64.6996	BM	07
+Moresby's Plain	32.32333	-64.83944	BM	08
+Monkey Hole	32.26222	-64.86472	BM	10
+Melrose	32.36845	-64.67739	BM	07
+Long Point	32.29694	-64.85778	BM	08
+Little Sound	32.26222	-64.84667	BM	10
+Little Scaur	32.35611	-64.65556	BM	07
+Little Head	32.36667	-64.63333	BM	08
+Knight's Hole	32.29361	-64.86417	BM	08
+King's Point	32.30972	-64.86528	BM	08
+King's Point	32.26972	-64.84806	BM	10
+King Charles Hole	32.29806	-64.87639	BM	08
+Jobson's Point	32.28917	-64.87667	BM	08
+Jobson's Cove	32.25556	-64.8125	BM	11
+Jenkin's Boiler Channel	32.36667	-64.63333	BM	07
+Jeffrey's Hole	32.30972	-64.72583	BM	09
+Hogfish Cut	32.25	-64.87278	BM	10
+High Point	32.24806	-64.85556	BM	10
+Head of the Lane	32.28861	-64.81528	BM	11
+Harrington Sound	32.33056	-64.72194	BM	00
+Hamilton	32.34222	-64.72833	BM	02
+Hamilton Harbour	32.28806	-64.79111	BM	03
+Hamilton	32.2949	-64.78303	BM	03
+Hamilton	32.29326	-64.78063	BM	03
+Great Sound	32.29361	-64.83667	BM	08
+Great Scaur	32.35861	-64.65333	BM	07
+Great Head	32.36667	-64.63333	BM	07
+Granaway Deep	32.27806	-64.81	BM	11
+Gibb's Point	32.28111	-64.87861	BM	08
+Fort George	32.38028	-64.68278	BM	06
+Frith's Point	32.28418	-64.79154	BM	04
+Fowles's Point	32.28111	-64.86972	BM	08
+Flora Point	32.30833	-64.87028	BM	08
+Five Fathom Hole	32.38333	-64.63333	BM	07
+Ferry Reach	32.36694	-64.70167	BM	07
+Ferry Point	32.36194	-64.71639	BM	07
+Ely's Harbour	32.28306	-64.88056	BM	08
+Ducking Stool	32.30639	-64.78361	BM	05
+Devonshire Parish	32.30278	-64.75583	BM	01
+The Devil's Hole	32.32167	-64.71722	BM	09
+Davis' Hole	32.37889	-64.69222	BM	07
+Daniel's Head	32.305	-64.88056	BM	08
+Fort Cunningham	32.37417	-64.65917	BM	07
+Crawl Point	32.34333	-64.7375	BM	02
+The Crawl	32.34083	-64.73861	BM	02
+Cox's Point	32.31	-64.76389	BM	01
+Cove Point	32.36278	-64.65028	BM	07
+Commonland Point	32.33028	-64.73639	BM	02
+Commissioner's Point	32.32972	-64.83278	BM	08
+Cockburn's Cut	32.32028	-64.84167	BM	08
+Clarence Cove	32.30639	-64.80528	BM	05
+Chelston	32.28361	-64.77056	BM	04
+Charles' Fort	32.33833	-64.67167	BM	07
+The Camber	32.3256	-64.83311	BM	08
+The Causeway	32.35556	-64.70806	BM	07
+Castle Point	32.33889	-64.675	BM	07
+Castle Harbour	32.34861	-64.68917	BM	07
+Cashew City	32.37028	-64.65444	BM	07
+Canton Point	32.31833	-64.71333	BM	09
+Camden	32.29417	-64.76056	BM	04
+Burgess Point	32.365	-64.71472	BM	07
+Burgess Point	32.26639	-64.83139	BM	10
+Bremen Cut	32.37083	-64.6575	BM	07
+Brangman's Fort	32.34222	-64.66778	BM	07
+Bowen's Point	32.33306	-64.74222	BM	02
+Boss's Cove	32.30167	-64.81	BM	05
+Boiling Hole	32.28389	-64.87056	BM	08
+Blue Hole	32.35028	-64.70972	BM	07
+Bluck Point	32.29917	-64.81444	BM	05
+Bethaven	32.28333	-64.75	BM	01
+Bermuda Great Reef	32.33333	-64.83333	BM	08
+Bermuda	32.33022	-64.74003	BM	00
+Albuoy's Point	32.29056	-64.78694	BM	03
+Fort Albert	32.38667	-64.67333	BM	06
+Albuoy's Point	32.31472	-64.71583	BM	09
+Abbot's Cliff	32.34056	-64.72361	BM	02
+Sea Venture Channel	32.39278	-64.65472	BM	07
+North Channel	32.4	-64.74306	BM	00
+Southwest Breaker	32.23333	-64.85	BM	01
+South Channel	32.35361	-64.75139	BM	00
+Abbot's Cliff	32.33333	-64.73333	BM	02
+North Basin	32.32417	-64.83389	BM	08
+South Basin	32.32083	-64.83639	BM	08
+Casemates Prison	32.32472	-64.83639	BM	08
+Devil's Hole	32.32528	-64.83778	BM	08
+Devil's Kitchen	32.32278	-64.84028	BM	08
+The Lagoon	32.31389	-64.84528	BM	08
+Camber	32.3075	-64.85528	BM	08
+Ferry Point	32.30417	-64.85917	BM	08
+Great Harbour's Mouth	32.28444	-64.88111	BM	08
+Little Harbour's Mouth	32.28889	-64.87722	BM	08
+Saint David's Head	32.36917	-64.64889	BM	07
+Saint David's Battery	32.36806	-64.64944	BM	07
+Stocks Point	32.37139	-64.68611	BM	07
+Crystal Caves	32.35	-64.71333	BM	02
+Leamington Caves	32.34278	-64.70861	BM	02
+Fort Hamilton	32.29472	-64.7775	BM	05
+Foot of the Lane	32.29306	-64.77361	BM	05
+Harrington Hundreds	32.31861	-64.72889	BM	09
+Navy Channel	32.26944	-64.84139	BM	10
+Alexandra's Battery	32.38028	-64.66472	BM	07
+Castle Cut	32.33972	-64.67389	BM	07
+Nonsuch Cut	32.34583	-64.66611	BM	07
+Nonsuch Scaur	32.34833	-64.66056	BM	07
+Soldier Point	32.34694	-64.65417	BM	07
+Gurnet Head	32.34639	-64.65333	BM	07
+The Cove	32.3625	-64.65028	BM	07
+Great Head	32.3675	-64.64778	BM	07
+Little Head	32.37139	-64.64972	BM	07
+Jacob's Point	32.37	-64.67	BM	07
+Cockle Point	32.29083	-64.79611	BM	05
+Blue Hole	32.285	-64.78361	BM	04
+Great Whale Point	32.24778	-64.83111	BM	10
+Ned's Hole	32.24972	-64.82444	BM	10
+Port Royal Cove	32.25028	-64.82361	BM	10
+Elephant Head	32.25472	-64.81417	BM	11
+Jobson's Point	32.25583	-64.81222	BM	11
+East Point	32.325	-64.73944	BM	02
+Devil Head	32.34111	-64.72167	BM	02
+Dingle Point	32.34417	-64.71306	BM	02
+White Shoal	32.33917	-64.71528	BM	02
+Gill Licker Shoal	32.335	-64.71639	BM	02
+Powder Hole	32.37528	-64.67389	BM	07
+Devonshire Dock	32.30778	-64.77222	BM	01
+Dockyard Point	32.30611	-64.78361	BM	05
+Cobbler's Cut	32.30778	-64.81722	BM	05
+Lapstone	32.30861	-64.82056	BM	05
+The Fairmont Hamilton Princess	32.3023	-64.7974	BM	05
+Coco Reef Bermuda	32.2904	-64.7703	BM	
+ROSEMONT APARTMENTS	32.3333	-64.75	BM	01
+HORIZONS AND COTTAGES	31.7679	-64.4837	BM	10
+SANDPIPER APARTMENTS	32.1228	-64.7908	BM	10
+Upper Crust	32.27616	-64.79255	BM	
+Pembroke Parish	32.30019	-64.79204	BM	05
+Hogfish Beacon	32.31071	-64.82277	BM	
+Rosewood Tuckers Point	32.33938	-64.70006	BM	

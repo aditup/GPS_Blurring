@@ -1,0 +1,149 @@
+Babit Point	18.05361	-63.01108	MF	00
+Caye Verte	18.08823	-63.01119	MF	00
+Ile Tintamarre	18.11667	-62.98333	MF	
+Peninsule des Terres Basses	18.06667	-63.13333	MF	00
+Colline du Soldat	18.11667	-62.98333	MF	
+Saint-Martin	18.06667	-63.06667	MF	00
+Saint Martin	18.06688	-63.04916	MF	00
+Saint-James	18.06449	-63.08479	MF	00
+Anse des Sables	18.06896	-63.11545	MF	00
+Baie Rouge	18.06906	-63.12634	MF	00
+Morne Rond	18.06667	-63.1	MF	00
+Rambaud	18.08066	-63.06674	MF	00
+Colombier	18.07221	-63.06069	MF	00
+Quartier d'Orleans	18.06912	-63.03542	MF	00
+Quartier de Grand' Case	18.08333	-63.06667	MF	00
+Baie de la Potence	18.07716	-63.08432	MF	00
+Etang aux Poissons	18.07177	-63.02525	MF	00
+Pointe Plum	18.07128	-63.14832	MF	00
+Ilet Pinel	18.10641	-63.01483	MF	00
+Petites Cayes	18.13333	-63.05	MF	00
+Pic du Paradis	18.077	-63.04994	MF	00
+Baie Orientale	18.09192	-63.02007	MF	00
+Salines d'Orient	18.08114	-63.01958	MF	00
+Mont O'Reilly	18.09045	-63.0534	MF	00
+North Curve	18.11667	-62.98333	MF	
+Pointe Nord	18.11667	-63.03333	MF	00
+Colline Nettle	18.05764	-63.10827	MF	00
+Pointe Molly Smith	18.10302	-63.06931	MF	00
+Banc de Medee	18.1	-63.11667	MF	00
+Fort de Marigot	18.06667	-63.1	MF	00
+Marigot	18.06667	-63.08333	MF	00
+Baie Maria	18.1	-63.08333	MF	00
+Anse Marcel	18.11566	-63.04143	MF	00
+Baie Lucas	18.06192	-63.01261	MF	00
+Baie Longue	18.05897	-63.14642	MF	00
+La Selle	18.05	-63.13333	MF	00
+La Lagune	18.1	-62.96667	MF	00
+Pointe La Cale	18.05	-63.01667	MF	00
+Anse Heureuse	18.1	-63.08333	MF	00
+Hameau du Pont	18.06667	-63.06667	MF	00
+Anse Guichard	18.09779	-63.07499	MF	00
+Grandes Cayes	18.11514	-63.01934	MF	00
+Baie Grande Case	18.10125	-63.06316	MF	00
+Salines de Grand'Case	18.10017	-63.0532	MF	00
+Grand-Case	18.10476	-63.05358	MF	00
+Pointe des Froussards	18.12393	-63.03854	MF	00
+Anse des Peres	18.08889	-63.08222	MF	00
+Montagne France	18.08216	-63.04282	MF	00
+Mont Fortune	18.04972	-63.09371	MF	00
+Baie Flamand	18.08333	-63.03333	MF	00
+Flagstaff	18.05	-63.05	MF	00
+Mont du Fief	18.05	-63.03333	MF	00
+Colline du Fief	18.05	-63.01667	MF	00
+Pointe Falaise	18.06667	-63.11667	MF	00
+Basse Espagnole	18.13333	-63.01667	MF	00
+Baie de l'Embouchure	18.0733	-63.01743	MF	00
+Eastern Point	18.12205	-63.01969	MF	00
+Cul de Sac	18.10122	-63.02805	MF	00
+Pointe de la Coste	18.11667	-63.06667	MF	00
+Etang Chevrise	18.09511	-63.02883	MF	00
+Mont Chambord	18.06667	-63.05	MF	00
+Pointe du Canonnier	18.06279	-63.15361	MF	00
+Baie Blanche	18.11667	-63	MF	00
+Bell Point	18.11858	-63.05219	MF	00
+Pointe Arago	18.08625	-63.08535	MF	00
+Anguilla Channel	18.15	-63.06667	MF	00
+Pointe des Pierres a Chaux	18.07167	-63.11361	MF	00
+Petite Baie	18.07389	-63.11444	MF	00
+Baie aux Cailles	18.075	-63.11806	MF	00
+Trou de David	18.07278	-63.11944	MF	00
+Morne aux Cabris	18.07083	-63.11972	MF	00
+Morne Valois	18.07639	-63.07389	MF	00
+La Batterie	18.09361	-63.07694	MF	00
+Etang Guichard	18.09306	-63.06667	MF	00
+Baie Nettle	18.06417	-63.10694	MF	00
+Baie du Marigot	18.0666	-63.09518	MF	00
+Baie de Friar	18.09583	-63.07639	MF	00
+Mont de Marigot	18.06222	-63.08083	MF	00
+La Samanna	18.0713	-63.1449	MF	
+Green Cay Villas	18.0932	-63.0257	MF	
+Le Domaine de Lonvilliers	18.1214	-63.0397	MF	
+L'Habitation de Lonvilliers	18.1214	-63.0397	MF	
+LE MERIDIEN ST MARTIN	18.1173	-63.0452	MF	
+Grand Etang	18.0611	-63.14266	MF	00
+Petit Etang	18.06276	-63.14536	MF	00
+Terres Basses	18.06337	-63.14081	MF	00
+Falaise des Oiseaux	18.07359	-63.14053	MF	00
+Pointe Noire	18.06063	-63.12821	MF	00
+Anse aux Acajoux	18.06184	-63.12821	MF	00
+Pointe du Bluff	18.0771	-63.11299	MF	00
+Baie Nettle	18.06191	-63.11178	MF	00
+Sandy Ground	18.05868	-63.10011	MF	00
+Bellevue	18.05843	-63.08414	MF	00
+Grand Ilet	18.05055	-63.10281	MF	00
+Saint Jean	18.05173	-63.08748	MF	00
+Diamant	18.05762	-63.07793	MF	00
+Mont des Accords	18.05588	-63.0746	MF	00
+La Colombe	18.05996	-63.06977	MF	00
+Concordia	18.064	-63.07782	MF	00
+Les Village de St. Martin	18.06954	-63.07932	MF	00
+Marina Fort-Louis	18.0695	-63.08769	MF	00
+Agrement	18.07273	-63.07619	MF	00
+Valois	18.07898	-63.07765	MF	00
+Morne Valois	18.07909	-63.07442	MF	00
+Helligard	18.07429	-63.06814	MF	00
+Bienvenue	18.08388	-63.08272	MF	00
+La Batterie	18.08888	-63.07768	MF	00
+Saint Louis	18.08437	-63.07158	MF	00
+Morne Emile	18.08618	-63.06101	MF	00
+Jardin des Dains	18.08132	-63.06317	MF	00
+Etang Guichard	18.09261	-63.07208	MF	00
+La Savane	18.09623	-63.06459	MF	00
+Montagne Careta	18.08402	-63.05025	MF	00
+Paradis	18.07855	-63.05369	MF	00
+Petite Plage	18.10992	-63.0532	MF	00
+Industrie	18.10361	-63.04479	MF	00
+Rocher de l'Anse Marcel	18.12014	-63.04521	MF	00
+Petite Clef	18.10421	-63.01899	MF	00
+Anse Marcel	18.11049	-63.03751	MF	00
+Port de Lonvilliers	18.11258	-63.03723	MF	00
+Mont Vernon	18.09814	-63.02403	MF	00
+Cocksies	18.098	-63.03318	MF	00
+Esperance	18.0953	-63.0367	MF	00
+Mont Vernon	18.09658	-63.02547	MF	00
+Griselle	18.08955	-63.02612	MF	00
+Parc de la Baie Orientale	18.08643	-63.02552	MF	00
+Petit Fond	18.0831	-63.03545	MF	00
+Quartier D'Orleans Ouest	18.07014	-63.03606	MF	00
+Quartier D'Orleans Sud	18.06911	-63.03354	MF	00
+Quartier D'Orleans Est	18.07518	-63.02921	MF	00
+Montagne Boeuf	18.07646	-63.03602	MF	00
+Fond Mahaut	18.07075	-63.04645	MF	00
+Grand Fond Nord	18.06606	-63.03964	MF	00
+Grand Fond	18.06099	-63.04333	MF	00
+Bloomingdale	18.06322	-63.03833	MF	00
+Mont Saline	18.06613	-63.03066	MF	00
+Embouchure	18.06443	-63.01931	MF	00
+Belle Plaine	18.05939	-63.04074	MF	00
+Flagstaff	18.06482	-63.05298	MF	00
+Le Gallon	18.07877	-63.01356	MF	00
+Caye Chateau	18.06847	-63.01072	MF	00
+Marina Captain Oliver	18.05556	-63.01494	MF	00
+Sandy Ground Port-Levis	18.06099	-63.09482	MF	00
+Port la Royale Marina	18.0645	-63.08698	MF	00
+Marigot Sea Plane Base	18.06884	-63.09101	MF	
+Mercure St Martin And Marina	18.0607	-63.11132	MF	
+Flamboyant	18.06025	-63.11135	MF	
+Flamboyant Le Village	18.06052	-63.11161	MF	
+Mercure St Martin & Marina	18.06186	-63.11334	MF	

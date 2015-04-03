@@ -1,0 +1,1078 @@
+Yemen	-20.335	57.40056	MU	12
+Wolmar	-20.29556	57.36694	MU	12
+The Window	-20.18194	57.52083	MU	18
+Fort William	-20.15222	57.47694	MU	18
+Walhala	-20.32944	57.42361	MU	12
+Virginia	-20.46778	57.65583	MU	14
+Mont Virer	-20.04944	57.56556	MU	16
+Ruisseau Vinay	-20.48333	57.62083	MU	14
+Ville Valio	-20.09389	57.50389	MU	16
+Ville d'Apray	-20.33639	57.56306	MU	17
+Ville Bague	-20.14472	57.62111	MU	16
+Ville Bague	-20.13944	57.61	MU	16
+Mont Villars	-20.31056	57.74972	MU	00
+Vieux Grand Port	-20.37444	57.71899	MU	14
+Fort Victoria	-20.15972	57.47083	MU	18
+Verronge	-16.68333	59.6	MU	00
+Verdun	-20.22833	57.54389	MU	15
+Riviere Vaquoas	-20.31667	57.66667	MU	00
+Valton	-20.15194	57.56278	MU	16
+Valetta	-20.25194	57.56139	MU	15
+Pointe Vacoas	-20.45361	57.69306	MU	14
+Pointe d'Azur	-19.98556	57.58306	MU	19
+Mare aux Vacoas	-20.37111	57.49583	MU	17
+Ilot Vacoas	-20.395	57.76361	MU	14
+Vacoas	-20.29806	57.47833	MU	17
+Union Vale	-20.44389	57.655	MU	14
+Reunion Maurel	-20.01917	57.63083	MU	19
+Twelve Mile Post	-20.09972	57.64194	MU	19
+Truble	-20.19389	57.42	MU	12
+Trou d'Eau Douce	-20.23722	57.7775	MU	13
+Trou Chenilles	-20.45	57.31667	MU	12
+Trou aux Biches	-20.045	57.54611	MU	16
+Trois Mamelles	-20.30722	57.44083	MU	00
+Trois Ilots	-20.2925	57.69889	MU	13
+Trois Ilots	-20.26667	57.73806	MU	13
+Trois Cavernes	-20.27861	57.40194	MU	12
+Riviere Triton	-20.25167	57.74222	MU	13
+Triolet	-20.05472	57.54528	MU	16
+Trio	-20.0475	57.535	MU	16
+Trianon	-20.24778	57.48667	MU	17
+Pointe des Treize Cantons	-20.375	57.7075	MU	14
+Riviere Train	-20.315	57.64389	MU	15
+Tourelle du Tamarin	-20.345	57.36917	MU	12
+Tombeau Point	-20.11667	57.5	MU	16
+Trou Thomy	-20.38333	57.68333	MU	14
+The Vale	-20.02833	57.58778	MU	19
+Riviere Terre Rouge	-20.13722	57.5025	MU	00
+Terre Rouge	-20.12611	57.52444	MU	16
+Pointe du Tamarin	-20.33111	57.35861	MU	12
+Baie du Tamarin	-20.32194	57.36556	MU	12
+Tamarin	-20.32556	57.37056	MU	12
+Takamaka Point	-10.45	56.7	MU	00
+Taillevent Point	-10.46667	56.68333	MU	00
+Mont Table a Perrot	-20.32444	57.64278	MU	00
+Mont Surinam	-20.4625	57.48056	MU	20
+Surinam	-20.50972	57.50528	MU	20
+Pointe Sud Ouest	-20.46417	57.30194	MU	12
+Pointe Sud Flic en Flac	-20.31278	57.36139	MU	12
+Suase	-20.31667	57.41667	MU	12
+South Entrance	-20.39778	57.75556	MU	14
+Souillac	-20.51667	57.51667	MU	20
+Souffleur Point	-20.48167	57.6525	MU	14
+Souffleur	-20.48167	57.63889	MU	14
+Sottise	-20.02083	57.57222	MU	00
+Ruisseau Songes	-20.45	57.55	MU	20
+Solitude	-20.07694	57.53861	MU	16
+Solferino	-20.29083	57.46722	MU	17
+Ruisseau des Soldats	-20.47222	57.57611	MU	20
+Ile aux Singes	-20.38341	57.71423	MU	14
+Simonet	-20.34111	57.44333	MU	00
+Shoulder	-20.26667	57.45	MU	00
+Sebastopol	-20.28889	57.6875	MU	13
+Schoenfeld	-20.08056	57.66556	MU	19
+Savinia	-20.47444	57.63306	MU	14
+Savannah	-20.485	57.60889	MU	20
+Riviere Satamaka	-20.25	57.56667	MU	15
+Riviere Sarcettes	-20.2	57.71667	MU	13
+Mare Sarcelle	-20.12194	57.74417	MU	13
+Sans Souci	-20.29583	57.65139	MU	00
+Sandringham Reef	-19.89167	57.66806	MU	19
+Ilot Sancho	-20.50083	57.44139	MU	20
+Mare Samson	-20.17139	57.44167	MU	12
+Pointe La Saline	-20.27167	57.78694	MU	13
+Plaine Saint Pierre	-20.23139	57.40667	MU	12
+Mont Saint Pierre	-20.26389	57.42556	MU	12
+Saint Pierre	-20.2175	57.52083	MU	15
+Saint-Martin Point	-20.5	57.38333	MU	20
+Riviere Saint Martin	-20.49722	57.38972	MU	20
+Riviere Saint Martin	-20.36333	57.70222	MU	14
+Anse Saint Martin	-20.49917	57.38806	MU	20
+Saint Martin	-20.49639	57.38833	MU	20
+Saint Louis Stream	-20.16833	57.4675	MU	18
+Riviere Saint Louis	-20.27167	57.73306	MU	13
+Riviere Saint-Louis	-20.2	57.68333	MU	13
+Pointe Saint Lain	-20.30056	57.77389	MU	13
+Saint Julien	-20.22639	57.63639	MU	13
+Saint-Joseph	-20.1	57.53333	MU	16
+Saint James Anchorage	-10.33333	56.56667	MU	00
+Saint Hubert	-20.36417	57.63833	MU	14
+Saint Francois	-20.00444	57.63417	MU	19
+Saint Felix	-20.48667	57.56639	MU	20
+Sainte Philomene	-20.35833	57.65972	MU	14
+Frederica	-20.48361	57.425	MU	20
+Sainte Croix	-20.145	57.52139	MU	18
+Saint Cloud	-20.14778	57.63417	MU	16
+Saint Aubin	-20.496	57.55	MU	20
+Saint Antoine	-20.04167	57.65361	MU	19
+Morcellemont Saint Andre	-20.07306	57.55806	MU	16
+Pointe aux Sables	-20.17194	57.42472	MU	12
+Baie du Sable	-20.08333	57.70056	MU	19
+Ruisseau Creole	-20.48333	57.38333	MU	20
+Ruisseau Copeaux	-20.41861	57.65722	MU	14
+Rouge Terre	-20.04333	57.56833	MU	16
+Roselyn Cottage	-20.21028	57.51722	MU	15
+Rose Belle	-20.40028	57.59667	MU	14
+Ruisseau Rose	-20.11667	57.56667	MU	16
+Bras de Mer la Rose	-19.98333	57.63333	MU	19
+Roche Terre	-20.01861	57.64472	MU	19
+Pointe aux Roches	-20.5125	57.46472	MU	20
+Pointe aux Roches	-20.32472	57.76472	MU	14
+Pointe aux Roches	-19.99778	57.65583	MU	19
+Plaine des Roches	-20.13333	57.68333	MU	00
+Ilot de Roches	-20.28333	57.81667	MU	13
+Pointe de Roche Noire	-20.10583	57.74028	MU	00
+Pointe Roche Noire	-20.12306	57.48972	MU	16
+Roches Noire	-20.11111	57.71222	MU	19
+Roche Bois	-20.13639	57.50472	MU	16
+Roche Bois	-20.14278	57.50028	MU	18
+Grande Riviere Noire	-20.36028	57.36611	MU	12
+Riviere du Rempart	-20.10306	57.68472	MU	19
+Riviere du Poste	-20.42417	57.56694	MU	00
+Riviere Dragon	-20.44611	57.56	MU	20
+Riviere des Anguilles	-20.48528	57.55083	MU	20
+Riviere des Creoles	-20.39009	57.69655	MU	14
+Riviere Baptiste	-20.20611	57.52778	MU	15
+Baie La Riviere	-20.08806	57.70611	MU	19
+Rip Bank	-19.9	57.68333	MU	00
+Ripailles	-20.19361	57.57222	MU	15
+Rich Fund	-20.20889	57.66583	MU	13
+Richeterre	-20.11667	57.5	MU	16
+Riche en Eau	-20.38472	57.65556	MU	14
+Riche Bois	-20.45639	57.57694	MU	20
+Reunion	-20.30917	57.48806	MU	17
+Bras de Mer des Requins	-20.1625	57.74889	MU	13
+Bassins Requins	-20.16972	57.75056	MU	13
+Anse des Requins	-20.09972	57.71111	MU	19
+Riviere du Rempart	-20.08889	57.6975	MU	00
+Montagne du Rempart	-20.30056	57.42111	MU	12
+Riviere Ravin	-20.27611	57.78194	MU	13
+Ravin	-20.1	57.68333	MU	19
+Mont Ravat	-20.26972	57.715	MU	13
+Ile Raphael	-16.45	59.61667	MU	00
+Pointe Radeau	-20.135	57.74778	MU	13
+Quoin Channel	-19.91667	57.5	MU	00
+Quoin Bluff	-20.17639	57.48833	MU	00
+Quinze Cantons	-20.30083	57.4725	MU	17
+Queen Victoria	-20.22	57.7075	MU	13
+Quatre Soeurs	-20.29917	57.77056	MU	13
+Pointe Quatre Cocos	-20.23389	57.79694	MU	13
+Quatre Cocos	-20.2	57.75833	MU	13
+Quatre Bornes	-20.26381	57.4791	MU	17
+Quartier Militaire	-20.24389	57.58917	MU	15
+Quartier Militaire	-20.28472	57.615	MU	15
+Pointe du Puits des Hollandais	-20.19639	57.77639	MU	13
+Pointe des Puits	-20.18278	57.76833	MU	13
+Mare du Puits	-20.19861	57.76639	MU	13
+Providence	-20.24472	57.61222	MU	15
+Riviere Profonde	-20.21667	57.46667	MU	00
+Vallee des Pretres	-20.165	57.53611	MU	18
+Poudre d'Or	-20.06	57.67667	MU	19
+Poudre d'Or	-20.05056	57.66639	MU	19
+Pouce Valley	-20.18583	57.51333	MU	18
+Pouce Stream	-20.15833	57.49083	MU	18
+Riviere du Poste de Flacq	-20.16222	57.7375	MU	00
+Poste de Flacq	-20.16306	57.73056	MU	13
+Poste de Flacq	-20.15472	57.74361	MU	13
+Port Sainte Rita	-10.48333	56.7	MU	21
+Port Louis	-20.16194	57.49889	MU	18
+Pont Praslin	-20.14944	57.6325	MU	16
+Pont Colville	-20.38278	57.55806	MU	14
+Pont Bondieu	-20.18472	57.63444	MU	15
+Riviere Pont Blanc	-20.16611	57.70472	MU	13
+Pont Blanc	-20.16667	57.70444	MU	13
+Pointe de la Riviere Seche	-20.25028	57.79111	MU	13
+Pointe aux Canonniers	-20.00833	57.56	MU	16
+Riviere Plateau	-20.3	57.56667	MU	00
+Plaisance	-20.43031	57.66097	MU	14
+Plaine Sophie	-20.36667	57.48333	MU	17
+Plaine Noel	-20.33194	57.53611	MU	17
+Plaine Magnien	-20.42967	57.66968	MU	14
+Plaine des Papayes	-20.065	57.5725	MU	16
+Plaine Champagne	-20.415	57.44111	MU	00
+Ruisseau Pipe	-20.44917	57.54167	MU	20
+Pointe Piments	-20.08028	57.50639	MU	16
+Pieter Both	-20.19318	57.55604	MU	00
+Phoenix	-20.28667	57.50222	MU	17
+Petit Verger	-20.21722	57.51139	MU	15
+Anse du Petit Sable	-20.32889	57.76361	MU	14
+Petit Raffray	-20.01333	57.61194	MU	19
+Petit Paquet	-20.00139	57.62917	MU	19
+Petit Morne	-20.23333	57.71667	MU	13
+Petit Verger	-20.17556	57.43361	MU	12
+Petite Riviere Noire	-20.38889	57.36944	MU	12
+Pointe Petite Riviere	-20.20075	57.40215	MU	12
+Petite Riviere	-20.19551	57.44592	MU	12
+Petite Riviere	-20.19528	57.42667	MU	12
+Petite Pointe	-20.01389	57.67611	MU	19
+Petite Case Noyale	-20.39306	57.365	MU	12
+Mont Perruche	-20.38472	57.51028	MU	17
+Riviere Perichon	-20.33333	57.46667	MU	00
+Pearl Breaker	-16.51667	59.53333	MU	00
+Pavillon du Grand Port	-20.37111	57.7175	MU	14
+Mont Pauline	-20.36694	57.59139	MU	14
+Riviere Patates	-20.50333	57.50806	MU	20
+Butte aux Papayes	-20.06028	57.59917	MU	16
+Ruisseau Paniers	-20.47222	57.605	MU	20
+Pamplemousses	-20.10389	57.57028	MU	16
+Palmyre	-20.28222	57.38444	MU	12
+Palma	-20.27917	57.44417	MU	00
+Pailles	-20.19271	57.48826	MU	15
+Pointe Oscorne	-20.00694	57.67583	MU	19
+Riviere Ory	-20.21333	57.47444	MU	15
+Mont Ory	-20.21111	57.4775	MU	15
+Pointe Orientale	-20.0375	57.70306	MU	19
+Olivia	-20.2975	57.72556	MU	13
+Rocher des Oiseaux	-20.37694	57.78333	MU	14
+Ile aux Oiseaux	-20.32472	57.80722	MU	14
+Nouvelle France	-20.37056	57.56111	MU	14
+Mont Nouvelle Decouverte	-20.17583	57.62556	MU	00
+Nouvelle Decouverte	-20.18333	57.61667	MU	00
+Bassin Nosaic	-20.16194	57.74194	MU	13
+North West Point	-10.35	56.56667	MU	00
+North Entrance	-20.3125	57.80444	MU	00
+Roches Noires	-20.10444	57.73972	MU	19
+The Narrows	-20.35	57.78333	MU	14
+Nab Reef	-19.81639	57.77667	MU	19
+Pointe Moyenne	-20.23861	57.37444	MU	12
+Trou Mouton	-20.4	57.71667	MU	14
+Mouchoir Rouge	-20.40554	57.71208	MU	14
+Motte a Therese	-20.20472	57.65806	MU	00
+Mortar Point	-20.08833	57.50222	MU	16
+Ilot du Mort	-20.09056	57.70556	MU	19
+The Morne	-20.16667	57.55	MU	00
+Mon Vallon	-20.3	57.4	MU	12
+Riviere Mon Tresor	-20.45	57.51667	MU	20
+Mon Tresor	-20.44667	57.67167	MU	14
+Mont Ida	-20.23889	57.63083	MU	00
+Mont Fleury	-20.21694	57.53444	MU	15
+Mont Choisy	-20.01519	57.55646	MU	16
+Mont Blanc	-20.47889	57.47444	MU	20
+Montagne Blanche	-20.28278	57.65444	MU	00
+Mon Rocher	-20.09056	57.57389	MU	16
+Mon Repos	-20.26667	57.4	MU	12
+Riviere Monneron	-20.26667	57.6	MU	15
+Mon Loisir	-20.03278	57.61917	MU	18
+Mon Gout	-20.1175	57.58972	MU	16
+Mon Desert	-20.44722	57.67167	MU	14
+Mon Desert	-20.22222	57.52639	MU	15
+Moka	-20.44778	57.35444	MU	12
+Moka	-20.21889	57.49583	MU	15
+Minissy	-20.2375	57.50667	MU	15
+Midlands	-20.3325	57.55833	MU	17
+Midlands	-20.31667	57.6	MU	15
+Riviere Michel	-20.50972	57.50861	MU	20
+Mer Rouge	-20.14306	57.49167	MU	18
+Melville	-20.01944	57.67444	MU	19
+Melrose	-20.26972	57.63194	MU	15
+Medine	-20.26028	57.38889	MU	12
+Medine	-20.24222	57.6425	MU	13
+Republic of Mauritius	-20.3	57.58333	MU	00
+Mauritius	-20.3	57.58333	MU	00
+Montagne Maurice	-20.30056	57.67167	MU	13
+Matson Point	-20	57.58333	MU	19
+Pointe Masulipatan	-20.3525	57.73861	MU	14
+Riviere Marrou	-20.31194	57.63861	MU	15
+Pointe Marron	-20.43306	57.31778	MU	12
+Ruisseau des Marres	-20.45	57.66667	MU	14
+Ile Marianne	-20.3775	57.78028	MU	14
+Mare Tabac	-20.43583	57.58861	MU	14
+Mare Seche	-20.00556	57.61139	MU	19
+Mare Jacot	-20.24778	57.67639	MU	13
+Mare d'Albert	-20.41861	57.62278	MU	14
+Mare Carree	-20.23861	57.73444	MU	13
+Mapu Patch	-19.98333	57.66667	MU	00
+Riviere Mapou	-20.38556	57.60806	MU	14
+Mapare	-16.6	59.7	MU	00
+Riviere Mangrapoute	-20.25	57.56667	MU	15
+Ile Malno	-20.1475	57.74556	MU	13
+Cap Malheureux	-19.98194	57.60389	MU	19
+Malartic Point	-20.00167	57.56444	MU	16
+Maison Blanche	-20.10806	57.57472	MU	16
+Trou Maho	-20.23333	57.78333	MU	13
+Mahebourg	-20.40806	57.7	MU	14
+Magenta	-20.26	57.64722	MU	00
+Magenta	-20.32278	57.42083	MU	12
+Riviere Mafurier	-20.25	57.55	MU	15
+Pointe Madras	-19.98944	57.62972	MU	19
+L'Unite	-20.23278	57.66722	MU	13
+L'Union	-20.505	57.53861	MU	20
+L'Union	-20.5	57.46667	MU	00
+Luchon	-20.46667	57.45	MU	20
+Ile aux Lubines	-20.26417	57.7975	MU	13
+Pointe Loustreau	-20.51667	57.5	MU	20
+Le Val	-20.35472	57.62083	MU	14
+L'Etoile	-20.30444	57.70306	MU	13
+Lesur	-20.28944	57.675	MU	13
+Le Souffleur	-20.48722	57.6425	MU	14
+Les Marres	-20.45	57.66083	MU	14
+L'Escalier	-20.47	57.61222	MU	14
+L'Escalier	-20.19	57.58222	MU	15
+Les Benitiers	-20.4	57.33333	MU	12
+Le Reduit	-20.2275	57.4925	MU	15
+Le Pouce	-20.19857	57.52875	MU	00
+Le Plessis	-20.11472	57.5975	MU	16
+Le Petrin	-20.40583	57.46583	MU	17
+Le Petit Cap	-20.49028	57.36917	MU	20
+Leonbourg	-20.11361	57.49722	MU	16
+Le Morne Brabant	-20.45331	57.32597	MU	12
+Le Morne	-20.45	57.31667	MU	12
+Le Marres	-20.42528	57.46806	MU	20
+Le Gris Gris	-20.52222	57.52361	MU	20
+Le Grand Cap	-20.48333	57.36667	MU	00
+Le Cheval de Pierre	-20.34722	57.66139	MU	14
+Le Chaland	-20.44472	57.69861	MU	14
+Le Cap	-20.46194	57.36694	MU	00
+Leboeuf	-20.45944	57.68333	MU	14
+Le Bocage	-20.21611	57.50389	MU	15
+Lavilleon	-20.4425	57.35611	MU	12
+Pointe Laverdure	-20.41083	57.75528	MU	14
+La Terre Rouge	-20.38397	57.70264	MU	14
+La Terre Rouge	-20.30833	57.58333	MU	15
+Mont La Terre	-20.2675	57.58833	MU	15
+Riviere Lataniers	-20.15	57.49222	MU	18
+Mont Laselle	-20.33278	57.60694	MU	00
+Pointe Lascars	-20.08361	57.70389	MU	19
+La Saline	-20.27333	57.78639	MU	13
+La Russie	-20.24361	57.59667	MU	15
+La Rotraite	-20.2	57.46667	MU	00
+La Rosa	-20.41361	57.61694	MU	14
+La Rampe - Le Moirt	-20.42583	57.63167	MU	14
+Mont Laporte	-20.44583	57.35056	MU	12
+La Paix Stream	-20.15	57.49278	MU	18
+La Nourrice	-20.28722	57.73806	MU	13
+La Nicoliere	-20.15611	57.60833	MU	16
+La Morue	-20.13333	57.65	MU	19
+La Mecque	-20.24861	57.38944	MU	12
+La Marre	-20.15667	57.64194	MU	13
+La Marie	-20.335	57.485	MU	17
+La Lucie	-20.25972	57.73556	MU	13
+Lalmatie	-20.18972	57.66111	MU	13
+La Laura	-20.20028	57.54556	MU	15
+L'Agrement	-20.21417	57.52278	MU	15
+Lagrave Range	-20.33333	57.61667	MU	00
+Montagne Lagrave	-20.33222	57.59472	MU	00
+La Gaiete	-20.21361	57.72444	MU	13
+Ilot Lafond	-20.47528	57.66667	MU	14
+Pointe Lafayette	-20.12528	57.75111	MU	13
+La Digue Point	-10.48333	56.66667	MU	00
+La Dagotiere	-20.24444	57.55417	MU	15
+La Croisee	-20.31861	57.47833	MU	17
+La Crete	-20.41944	57.37944	MU	12
+La Cocoterie	-20.13028	57.49139	MU	16
+La Chaumiere	-20.2425	57.44194	MU	00
+La Caverne	-20.29389	57.47389	MU	17
+La Cambuse	-20.45583	57.68611	MU	14
+La Caille Bank	-19.90028	57.77472	MU	19
+Labourdonnais	-20.06833	57.61	MU	19
+Labonte	-20.43333	57.31667	MU	12
+La Bergerie	-20.11333	57.52528	MU	16
+Ruisseau Kennel	-20.48389	57.62083	MU	14
+Kanaka Crater	-20.40306	57.51167	MU	20
+Cascade Kanaka	-20.4	57.5	MU	00
+Ka Hine	-20.18722	57.42722	MU	12
+Jurancon	-20.49167	57.50472	MU	20
+Anse Jonchee	-20.35083	57.74222	MU	14
+Joli Bois	-20.44111	57.58	MU	14
+Pointe Jerome	-20.41444	57.71167	MU	14
+Ruisseau Jamblong	-20.15	57.63333	MU	00
+Riviere Jacquard	-20.23333	57.58333	MU	15
+Mont Jacos	-20.17972	57.41806	MU	12
+Ile d'Ambre	-20.07417	57.68028	MU	19
+Bassin Humbert	-20.05889	57.68278	MU	19
+Pointe l'Hortal	-19.97944	57.60417	MU	19
+Horseshoe Bight	-20.38333	57.76667	MU	14
+Highlands	-20.27472	57.51111	MU	17
+Herve	-20.26667	57.6	MU	15
+Hermitage	-20.26083	57.7025	MU	13
+Hermitage	-20.27222	57.53083	MU	15
+Hermitage	-20.25	57.55	MU	15
+Anse d'Hercule	-20.37111	57.72361	MU	14
+Butte a L'Herbe	-19.99528	57.64778	MU	19
+Henrietta	-20.33556	57.46639	MU	17
+Helvetia	-20.22139	57.51667	MU	15
+The Head	-20.25	57.45	MU	00
+Hawkins Point	-10.43333	56.65	MU	00
+Mont d'Hauvillard	-20.32222	57.55972	MU	00
+Haute Rive	-20.09694	57.69806	MU	19
+Haut de Flacq	-20.20278	57.66806	MU	13
+Pointe du Hangard	-20.40667	57.705	MU	14
+Ile du Hangard	-20.41833	57.71865	MU	14
+Gunner's Quoin	-19.93917	57.61361	MU	00
+Pointe de la Guerite	-20.4	57.75	MU	14
+Gros Ruisseau	-20.5	57.55	MU	20
+Gros Bois	-20.43778	57.60722	MU	14
+Gros Billot	-20.41639	57.60306	MU	14
+Anse du Grand Sable	-20.31722	57.76694	MU	14
+Grand Sable	-20.31417	57.76444	MU	14
+Grand Port	-20.35194	57.76194	MU	14
+Grand Mouillage	-20.38333	57.75	MU	14
+Riviere Grand Marais	-20.07139	57.68389	MU	19
+Pic Grand Fond	-20.32417	57.67528	MU	00
+Grande Savanne	-20.45	57.55	MU	20
+Grande Rosalie	-20.13139	57.60472	MU	16
+Grande Riviere Sud Est	-20.28611	57.77583	MU	13
+Grande Riviere Noire	-20.36389	57.36833	MU	12
+Grande Retraite	-20.16556	57.67667	MU	13
+Grand Gaube	-20.00639	57.66083	MU	19
+Grande Case Noyale	-20.41	57.36194	MU	12
+Grand Baie	-20.01816	57.58015	MU	19
+Grand Baie	-20.00806	57.56806	MU	00
+Grand Baie	-20.025	57.575	MU	00
+Grand Bois	-20.41889	57.54417	MU	20
+Grand Bassin	-20.41556	57.48528	MU	20
+Goodlands	-20.035	57.64306	MU	19
+Gingembre	-20.32111	57.66861	MU	00
+Fort George	-20.14417	57.48361	MU	18
+Riviere des Galets	-20.25861	57.37139	MU	12
+Gokoola	-20.10417	57.64694	MU	19
+Ile aux Fous	-20.37944	57.78056	MU	14
+Ilot Fourneau	-20.46833	57.33	MU	12
+Ile aux Fouquets	-20.39278	57.77111	MU	14
+Ilot Fortier	-20.38514	57.36958	MU	12
+Ile Forency	-20.2725	57.80056	MU	13
+Forbach	-20.06444	57.62583	MU	19
+Pointe La Fontaine	-20.08722	57.70111	MU	19
+Fond du Sac	-20.04306	57.57861	MU	16
+Floreal	-20.30944	57.50083	MU	17
+Flic-en-Flacq	-20.26889	57.36417	MU	12
+Flic en Flac	-20.27417	57.36306	MU	12
+Ilot Flamants	-20.32028	57.81472	MU	14
+Flacq Point	-20.16667	57.76472	MU	13
+Pointe aux Feuilles	-20.31111	57.77361	MU	00
+Feeder Ravnal	-20.31361	57.61417	MU	15
+Anse Fauverel	-20.3952	57.69513	MU	14
+Fantaisie	-20.46611	57.39722	MU	20
+Trou Fanfaron	-20.15639	57.49194	MU	18
+Ile de L'Est	-20.25778	57.79889	MU	13
+Esperance Trebuchet	-20.06972	57.64194	MU	19
+Trou d'Esny	-20.51667	57.5	MU	20
+Pointe d' Esny	-20.42681	57.72749	MU	14
+Pointe d'Esny	-20.14583	57.74194	MU	13
+Pointe Eglise Paresseuse	-19.99278	57.57639	MU	19
+Mont Ebene	-20.31917	57.55167	MU	00
+Trou d'Eau Douce	-20.23806	57.78667	MU	13
+Eau Coulee	-20.28333	57.5	MU	00
+Eau Bleue	-20.37361	57.62361	MU	14
+Riviere Dubois	-20.31528	57.64417	MU	15
+Riviere Dragon	-20.255	57.37306	MU	12
+Riviere Douay	-20.31667	57.6	MU	00
+Riviere Dimanche	-20.33333	57.45	MU	00
+Riviere Dickson	-20.23333	57.53333	MU	15
+Diamant Reef	-20.33333	57.78333	MU	14
+Cascade Diamamouve	-20.3075	57.66389	MU	13
+Pointe du Diable	-20.33361	57.77167	MU	14
+Mont Deux Mamelles	-20.19444	57.56139	MU	00
+Pointe des Deux Cocos	-20.43222	57.72028	MU	14
+Ile des Deux Cocos	-20.44639	57.70417	MU	14
+Deux Bras	-20.40139	57.63111	MU	14
+Riviere Delices	-20.4	57.7	MU	14
+Danish Entrance	-20.32889	57.80861	MU	14
+Dalais	-20.39722	57.68528	MU	14
+Curepipe Point	-20.35361	57.53111	MU	17
+Curepipe	-20.31472	57.52028	MU	17
+Anse Cunat	-20.2925	57.77194	MU	13
+Creve Coeur	-20.18333	57.55	MU	00
+Creve Coeur	-20.19111	57.55722	MU	16
+Creve Coeur	-20.19167	57.54583	MU	00
+Mont des Creoles	-20.38139	57.67472	MU	14
+Mont Couve	-20.27472	57.70778	MU	13
+Anse des Courants	-20.41361	57.70611	MU	14
+Cote d'Or	-20.24472	57.52722	MU	15
+Coteau Raffin	-20.43389	57.34528	MU	12
+Pointe Corps de Garde	-20.44167	57.71056	MU	14
+Corps de Garde	-20.25694	57.44556	MU	00
+Coral Point	-10.45	56.7	MU	00
+Pointe Corail de la Prairie	-20.48306	57.34694	MU	12
+Pointe Corail	-20.33806	57.75889	MU	14
+Coquinbourg	-20.23778	57.63806	MU	13
+Riviere Copeaux	-20.41667	57.66528	MU	14
+Constance	-20.17778	57.70861	MU	13
+Ruisseau Combo	-20.49528	57.53583	MU	20
+Pointe de La Colonie	-20.39889	57.69722	MU	14
+Anse Colas	-20.36778	57.7	MU	14
+Mont Cocotte	-20.43694	57.46111	MU	20
+Riviere Coacoud	-20.26667	57.53333	MU	00
+Clemencia	-20.26389	57.70611	MU	13
+Clarence	-20.29778	57.3925	MU	12
+Riviere Clair de la Pompe	-20.38333	57.605	MU	14
+Riviere Citronniers	-20.06667	57.68333	MU	19
+Pointe Citronniers	-20.50861	57.41	MU	20
+Mont Citronniers	-20.35306	57.62833	MU	14
+Bras de Mer des Citronniers	-20.50278	57.40583	MU	20
+Riviere des Citron	-20.40083	57.55528	MU	00
+Circonstance	-20.22056	57.53806	MU	15
+Choisy	-20.47944	57.37306	MU	20
+Ruisseau Chevrettes	-20.31667	57.63333	MU	00
+Riviere Chevrettes	-20.3	57.58333	MU	15
+Riviere Chevrettes	-20.13333	57.65	MU	00
+Chemin Grenier	-20.48722	57.46556	MU	20
+Chebel	-20.19806	57.45139	MU	17
+Pointe de Chazal	-20.03333	57.71667	MU	00
+Butte Chaumon	-20.30333	57.54167	MU	15
+Ile aux Chats	-20.28139	57.78639	MU	13
+Mont Chat	-20.30083	57.75306	MU	13
+Ile Chat	-20.38	57.70778	MU	14
+Pointe Chaour	-20.48333	57.64917	MU	14
+Chantenuy	-20.21194	57.51389	MU	15
+Chamouny	-20.48222	57.46611	MU	20
+Cascade Chamarel	-20.44056	57.37833	MU	00
+Chamarel	-20.4225	57.38389	MU	12
+Bras de Mer du Chaland	-20.43333	57.7	MU	00
+Trou aux Cerfs	-20.315	57.505	MU	17
+Ile aux Cerfs	-20.27111	57.7975	MU	13
+Riviere Cere	-20.18333	57.71667	MU	13
+Centre de Flacq	-20.18972	57.71444	MU	13
+Central Plateau	-20.33333	57.53333	MU	17
+Cent Gaulettes	-20.37167	57.64472	MU	14
+Cent Gaulettes	-20.35972	57.62056	MU	14
+Cazela	-20.29472	57.39472	MU	12
+Pointe aux Caves	-20.18722	57.40556	MU	12
+Riviere Cauel	-20.23333	57.53333	MU	15
+Caudan Basin	-20.15722	57.48528	MU	18
+Cassis	-20.15889	57.48083	MU	18
+Case Noyale	-20.4	57.36667	MU	12
+Case Noyale	-20.39889	57.38	MU	12
+Cascavelle	-20.28694	57.40722	MU	12
+The Carpenters	-19.94778	57.61861	MU	19
+Cargados Carajos Shoals	-16.63333	59.63333	MU	00
+Cap Malheureux	-19.98417	57.61417	MU	19
+Baie du Cap	-20.48444	57.36389	MU	12
+Canonniers Point	-19.99778	57.54556	MU	16
+Riviere Canara	-20.31667	57.66667	MU	00
+Camisard Point	-20.28667	57.78611	MU	13
+Ile Camisard	-20.28778	57.78972	MU	13
+Mont Camizard	-20.33028	57.70222	MU	00
+Riviere des Calebasses	-20.11639	57.54167	MU	16
+Mont Calebasses	-20.17806	57.57694	MU	00
+Cachette	-20.42889	57.38306	MU	12
+Pointe Butte aux Sables	-19.98528	57.62722	MU	19
+Pointe Brocus	-20.39379	57.69947	MU	14
+Brisee Verdiere	-20.16389	57.64667	MU	13
+Mont Brise	-20.34222	57.74611	MU	14
+Bras d'Eau	-20.14389	57.72083	MU	13
+Bras de Mer du Bouchon	-20.46944	57.67278	MU	14
+Le Bouchon	-20.465	57.66972	MU	14
+Anse Bonserjent	-20.02917	57.67528	MU	19
+Bonne Veine	-20.23806	57.58778	MU	15
+Pointe Bonhomme	-20.09194	57.70306	MU	19
+Bon Espoir	-20.08611	57.62028	MU	19
+Bon Courage	-20.48361	57.4175	MU	20
+Mont Bonamour	-20.1425	57.57611	MU	16
+Bon Air	-20.06194	57.56194	MU	16
+Bon Accueil	-20.17083	57.65639	MU	13
+Bois Sec	-20.44139	57.51028	MU	20
+Bois Rouge	-20.08139	57.58306	MU	16
+Bois Rouge	-20.0525	57.58778	MU	00
+Bois Marchand	-20.12333	57.53306	MU	16
+Bois Mangue	-20.06417	57.5825	MU	16
+Bois Mangue	-20.1	57.63333	MU	00
+Bois d'Oiseaux	-20.41306	57.6	MU	14
+Bois d'Oiseaux	-20.29778	57.735	MU	13
+Bois d'Oiseaux	-20.1625	57.685	MU	13
+Riviere Bois des Amourettes	-20.36278	57.73306	MU	14
+Bois des Amourettes	-20.36306	57.73111	MU	14
+Riviere Bois de Natte	-20.30917	57.655	MU	00
+Bois Clair	-20.30222	57.64361	MU	15
+Bois Cheri	-20.41944	57.5325	MU	20
+Pointe aux Boeufs	-20.20278	57.78306	MU	13
+The Bluff	-20.18333	57.53333	MU	18
+The Blinder	-19.84222	57.77056	MU	19
+Mont Blanche	-20.26722	57.66139	MU	00
+Bassin Blanc	-20.45056	57.46917	MU	20
+The Blacksmiths	-19.93389	57.61944	MU	19
+Trou aux Biches	-20.03694	57.53444	MU	16
+Riviere Bety	-20.31667	57.6	MU	00
+Morne Bestel	-20.36389	57.71556	MU	14
+Pointe Bernard	-20.01028	57.67639	MU	19
+Bassin Bernard	-20.01722	57.67361	MU	19
+Pointe Bernache	-20.02083	57.69361	MU	19
+Ile aux Benitiers	-20.41611	57.33722	MU	12
+Benares	-20.49694	57.58306	MU	20
+Belvedere	-20.19611	57.66389	MU	13
+Trou Beloute	-20.38833	57.69389	MU	14
+Bel Ombre	-20.50222	57.40611	MU	20
+Bel Ombre	-20.50667	57.3875	MU	20
+Belmont	-20.045	57.65861	MU	19
+Bell Village	-20.1675	57.47944	MU	18
+Belle Vue Pilot	-20.05	57.58333	MU	16
+Belle Vue Harel	-20.06583	57.59417	MU	16
+Belle Vue	-20.36917	57.72222	MU	14
+Belle Vue	-20.195	57.41167	MU	12
+Belle Vue Maurel	-20.12028	57.66361	MU	19
+Belle Rose	-20.26167	57.72639	MU	13
+Belle Rose	-20.215	57.51833	MU	15
+Belle Rive	-20.30917	57.71972	MU	13
+Riviere Belle Isle	-20.25	57.38333	MU	00
+Belle Isle	-20.25	57.38333	MU	12
+Bel Etang	-20.23972	57.65639	MU	13
+Bel Air	-20.50056	57.57056	MU	20
+Grand Bel Air	-20.40936	57.68011	MU	14
+Bel Air Riviere Seche	-20.25777	57.74976	MU	13
+Riviere Bee Varangue	-20.39833	57.6025	MU	14
+Beau Vallon	-20.41889	57.69528	MU	14
+Beau Vallon	-20.35	57.68333	MU	14
+Beau Site	-20.36778	57.66333	MU	14
+Beau Sejour	-20.09472	57.62861	MU	00
+Beau Port	-20.14667	57.73417	MU	13
+Beau Plan	-20.09417	57.56833	MU	16
+Beau Manguier	-19.98389	57.60111	MU	19
+Beau Fond	-20.445	57.64333	MU	14
+Mont Beau Champ	-20.28556	57.76444	MU	13
+Beau Champ	-20.49806	57.43361	MU	20
+Beau Champ	-20.27139	57.76639	MU	13
+Beau Bois	-20.20472	57.55972	MU	15
+Beau Bassin	-20.21944	57.45833	MU	17
+Batimarais	-20.48139	57.5675	MU	20
+Pointe de La Batterie	-20.29083	57.7825	MU	13
+Riviere Bati Bontemps	-20.48056	57.58556	MU	20
+Riviere Bassin Sale	-20.32472	57.41333	MU	12
+Robinson	-20.17111	57.56139	MU	16
+Riviere Baptiste	-20.20944	57.51917	MU	15
+Bambous	-20.25667	57.40611	MU	12
+Pointe Bambou	-20.34556	57.75778	MU	14
+Mont Bambou	-20.31667	57.74306	MU	00
+Anse Bambou	-20.33639	57.75833	MU	14
+Anse du Bain	-20.08278	57.69861	MU	19
+Baie Mannioc	-20.29139	57.73	MU	13
+Ruisseau Aubert	-20.23333	57.53333	MU	15
+Astroea	-20.39083	57.62889	MU	14
+Baie aux Tortues	-20.08389	57.50667	MU	16
+Pointe Riambel	-20.51583	57.47806	MU	20
+Argy	-20.19806	57.72944	MU	13
+Arcade Point	-20.51667	57.58333	MU	20
+Antoinette	-20.12167	57.63417	MU	19
+Anse Jonchee	-20.34917	57.74028	MU	14
+Medine Anna	-20.26361	57.38361	MU	12
+Riviere des Anguilles	-20.51278	57.54556	MU	20
+Trou Anglais	-20.03639	57.70333	MU	19
+Amitie	-20.15	57.56667	MU	16
+Amitie	-20.10944	57.66389	MU	19
+Ile d'Ambre	-20.03361	57.695	MU	19
+Alma	-20.23972	57.56639	MU	15
+Albion	-20.21167	57.40083	MU	12
+Fort Albert	-20.12333	57.49028	MU	16
+Ile aux Aigrettes	-20.41957	57.73273	MU	14
+Abercrombie	-20.14806	57.51611	MU	18
+Abbe Bank	-19.91667	57.76667	MU	19
+Cargados Carajos	-16.63333	59.63333	MU	22
+Laventure	-20.14583	57.67667	MU	13
+Baie du Cap	-20.48833	57.37056	MU	20
+Mon Tresor - Mon Desert	-20.4475	57.67167	MU	14
+Cluny	-20.36694	57.60389	MU	14
+Providence	-20.355	57.73639	MU	14
+Petite Rosalie	-20.12028	57.6025	MU	16
+L'Esperance	-20.08639	57.63556	MU	19
+Poudre d'Or Hamlet	-20.07694	57.64778	MU	19
+Cottage	-20.05972	57.62917	MU	19
+Germain	-20.01583	57.66639	MU	19
+Mamzelle Jeanne	-20.03028	57.64972	MU	19
+Mapou	-20.00278	57.61611	MU	19
+Anse La Raie	-19.98861	57.62667	MU	19
+Pavillon	-19.98972	57.60889	MU	19
+Bassin Paquet	-19.99556	57.63917	MU	19
+Grande Pointe	-20.03583	57.70444	MU	19
+Ilot Maunick	-20.03972	57.68361	MU	19
+Bassin Goemons	-20.0475	57.6775	MU	19
+Pereybere	-19.99056	57.58556	MU	19
+Pointe Baignoire	-20.005	57.57139	MU	19
+Grande Pointe aux Piments	-20.06278	57.51306	MU	16
+Petit Gamin	-20.10389	57.5175	MU	16
+Baie du Tombeau	-20.11944	57.49139	MU	16
+Bois Pignolet	-20.13056	57.53861	MU	16
+Baillache	-20.14528	57.56417	MU	16
+Ruisseau Rose	-20.15278	57.56778	MU	16
+Belvedere	-20.14833	57.58333	MU	16
+Congomah	-20.14889	57.59083	MU	16
+Les Mariannes	-20.16417	57.58361	MU	16
+Ilot	-20.13	57.5725	MU	16
+Calebasses	-20.13361	57.57056	MU	16
+D'Epinay	-20.12694	57.58917	MU	16
+Petite Julie	-20.13861	57.61833	MU	16
+Mon Songe	-20.13611	57.63444	MU	19
+Bois Jacot	-20.13583	57.665	MU	00
+Amaury	-20.13083	57.65917	MU	19
+Plaines des Roches	-20.11167	57.69083	MU	19
+Mare d'Australia	-20.15278	57.64056	MU	13
+La Clemence	-20.10278	57.67639	MU	19
+Hermitage	-20.08111	57.68472	MU	19
+Providence	-20.17889	57.72806	MU	13
+Mare La Chaux	-20.19806	57.74944	MU	13
+Mare Casse Ghoon	-20.185	57.76	MU	13
+Mare du Verger	-20.19167	57.76194	MU	13
+Mare aux Troix Ilots	-20.20444	57.76972	MU	13
+Belle Mare	-20.195	57.76833	MU	13
+Quatre Cocos	-20.20778	57.7625	MU	13
+Isidore Rose	-20.20778	57.74806	MU	13
+Bramsthan	-20.20972	57.73056	MU	13
+Saint Remy	-20.18722	57.71194	MU	13
+Mare Tatos	-20.21278	57.77278	MU	13
+Mare Planche	-20.21917	57.78	MU	13
+Palmar	-20.21722	57.76889	MU	13
+Ile Vacoas	-20.22833	57.80083	MU	13
+Ile de La Batterie	-20.24167	57.78444	MU	13
+Ilot Levrettes	-20.24611	57.78944	MU	13
+Ilot Lievres	-20.24806	57.79194	MU	13
+Ilot Mangenie	-20.25472	57.79472	MU	13
+Pointe Grand Vacoas	-20.27194	57.80306	MU	13
+La Commune	-20.30833	57.72083	MU	13
+Ecroignard	-20.22611	57.73611	MU	13
+Petit Bois	-20.24139	57.755	MU	13
+La Caroline	-20.24583	57.74667	MU	13
+Ernest Florent	-20.26417	57.75917	MU	13
+Marie Jeanne	-20.30389	57.76083	MU	13
+Pointe aux Feuilles	-20.30583	57.77333	MU	13
+Deux Freres	-20.28667	57.77111	MU	13
+Clavet	-20.29861	57.69778	MU	13
+Pellegrin	-20.2775	57.67917	MU	13
+Petite Cabane	-20.25194	57.66889	MU	13
+Union Flacq	-20.20444	57.68556	MU	13
+Belle Vue Allendy	-20.18833	57.69861	MU	13
+Grand dans Fond	-20.18111	57.66667	MU	13
+Belvedere	-20.17847	57.6596	MU	13
+Pointe aux Roches	-20.32333	57.7625	MU	14
+Petit Sable	-20.32861	57.76	MU	14
+Bambous Virieux	-20.34278	57.7575	MU	14
+Anse Jonchee	-20.3475	57.74528	MU	14
+Ferney	-20.36808	57.69783	MU	14
+Le Vallon	-20.36194	57.6825	MU	14
+Bestel	-20.34028	57.67833	MU	14
+Petit Bel Air	-20.39986	57.69513	MU	14
+Ville Noire	-20.40835	57.6962	MU	14
+Pointe d'Esny	-20.43035	57.72693	MU	14
+Plaisance	-20.43472	57.67833	MU	14
+Pont Naturel	-20.47944	57.65806	MU	14
+Trois Boutiques	-20.44889	57.64111	MU	14
+Plein Bois	-20.4575	57.62111	MU	14
+La Sourdine	-20.47833	57.61278	MU	14
+Butte aux Sables	-20.49194	57.62556	MU	14
+Balisson	-20.39278	57.58194	MU	14
+Marie Jeanie	-20.39611	57.58806	MU	14
+Astroea	-20.39556	57.62611	MU	14
+Bemanique	-20.37278	57.58639	MU	14
+Mare Chicose	-20.37944	57.6275	MU	14
+Saint Hilaire	-20.37361	57.64083	MU	14
+Sainte Madeleine	-20.36056	57.63417	MU	14
+Metheline	-20.34417	57.64056	MU	14
+Britannia	-20.45028	57.5575	MU	20
+Saint Avold	-20.4375	57.55083	MU	20
+Senneville	-20.50111	57.55	MU	20
+Beau Bois	-20.46056	57.53694	MU	20
+Tyack	-20.47611	57.55194	MU	20
+Terracine	-20.50611	57.51444	MU	20
+Riambel	-20.515	57.5	MU	20
+Pomponnette	-20.50944	57.48028	MU	20
+Fontenelle	-20.49861	57.53528	MU	20
+Saint Felix	-20.50167	57.46056	MU	20
+Valruche	-20.45806	57.43667	MU	20
+Valentina	-20.49083	57.45833	MU	20
+L'Embrasure	-20.46417	57.33639	MU	12
+Pointe Pecheurs	-20.43111	57.315	MU	12
+Ilot du Morne	-20.435	57.31389	MU	12
+La Gaulette	-20.42472	57.35278	MU	12
+Ilot Malais	-20.39472	57.35778	MU	12
+La Flora	-20.41028	57.55361	MU	20
+Lapeyre	-20.35556	57.55556	MU	00
+Bananes	-20.34667	57.58861	MU	14
+Ferrette	-20.32806	57.56722	MU	00
+Wooten	-20.30528	57.52667	MU	17
+Engrais Cathan	-20.29917	57.51861	MU	17
+Engrais Martial	-20.30028	57.50944	MU	17
+Curepipe	-20.33222	57.50222	MU	17
+Mesnil	-20.29028	57.51167	MU	17
+Saint Antoine	-20.28139	57.52389	MU	17
+Belle Terre	-20.26083	57.51722	MU	17
+Cinq Arpents	-20.26806	57.52389	MU	17
+Valentina	-20.27194	57.49556	MU	17
+Holyrood	-20.30972	57.4675	MU	17
+Les Casernes	-20.32611	57.49861	MU	17
+Carreau La Liane	-20.28056	57.47639	MU	17
+La Source	-20.2675	57.45667	MU	17
+Stanley	-20.24694	57.45	MU	17
+Ebene	-20.24494	57.49163	MU	17
+Plaisance	-20.23778	57.45056	MU	17
+Belle Etoile	-20.20167	57.46417	MU	17
+Beaux Songes	-20.27806	57.41944	MU	12
+Eau Bonne	-20.25889	57.41194	MU	12
+Tamarin Estate	-20.32222	57.40056	MU	12
+La Mivoie	-20.34139	57.35667	MU	12
+Martello Tower	-20.35056	57.35417	MU	12
+Martello Tower	-20.37	57.35306	MU	12
+Les Salines	-20.37306	57.36667	MU	12
+Petite Riviere Noire	-20.38972	57.37222	MU	12
+Canot	-20.2175	57.42167	MU	12
+Gros Cailloux	-20.20722	57.43	MU	12
+Pointe aux Sables	-20.16556	57.45111	MU	12
+Koenig's Tower	-20.17333	57.46278	MU	00
+Martello Tower	-20.16528	57.46528	MU	18
+Plaine Lauzun Industrial Zone	-20.17194	57.47333	MU	18
+Cite La Cure	-20.15583	57.52778	MU	18
+Melotte	-20.1875	57.55972	MU	16
+Caroline	-20.17972	57.55833	MU	16
+Mapou	-20.07583	57.60139	MU	19
+Nouvelle Decouverte	-20.18722	57.58194	MU	15
+Salazie	-20.17444	57.61	MU	15
+L'Avenir	-20.215	57.54528	MU	15
+Telfair	-20.22639	57.49917	MU	15
+L'Assurance	-20.24972	57.54722	MU	15
+Esperance	-20.225	57.58722	MU	15
+Vuillemin	-20.255	57.58472	MU	15
+Petit Paquet	-20.27472	57.65528	MU	15
+Riviere du Bois	-20.31972	57.63083	MU	15
+Bety	-20.31833	57.60806	MU	15
+Dubreuil	-20.2975	57.595	MU	15
+Riviere Noire	-20.39694	57.42028	MU	12
+Malherbes	-20.30917	57.52472	MU	17
+Eaux Coulee	-20.30417	57.5175	MU	17
+Bonne Terre	-20.28778	57.47556	MU	17
+La Louise	-20.26833	57.46583	MU	17
+Pellegrin	-20.25583	57.48333	MU	17
+Beau Sejour	-20.24778	57.47306	MU	17
+Vuillemain	-20.215	57.46639	MU	17
+Montebello	-20.19917	57.47528	MU	15
+Les Guibies	-20.18694	57.4875	MU	15
+Champ de Mars	-20.16444	57.50722	MU	18
+Plaine Verte	-20.15361	57.50778	MU	18
+Le Hochet	-20.135	57.52111	MU	16
+Khoyratty	-20.12056	57.5475	MU	16
+Calebasses	-20.11167	57.55389	MU	16
+L'Espoir	-20.11111	57.54972	MU	16
+Arsenal	-20.10556	57.53528	MU	16
+Le Goulet	-20.10083	57.51056	MU	16
+Vallee des Pretres	-20.16694	57.53056	MU	18
+Saint Martin	-20.22722	57.42444	MU	12
+Coromandel	-20.18222	57.45722	MU	12
+Carreau Lalo	-20.15361	57.52028	MU	18
+Robert E. Hart Garden	-20.15361	57.47889	MU	18
+Citadel	-20.16139	57.50417	MU	18
+Fort Adelaide	-20.16139	57.50417	MU	18
+Saint Jean	-20.25028	57.48	MU	17
+Balfour Garden	-20.22722	57.46917	MU	17
+Candos	-20.27694	57.47194	MU	17
+Saint Paul	-20.28778	57.50444	MU	17
+Anna	-20.265	57.37833	MU	12
+M'ma Conde	-20.48806	57.36417	MU	00
+Poste La Fayette	-20.13056	57.74778	MU	13
+English Channel	-20.1375	57.48528	MU	18
+Cite Valijee	-20.16444	57.47472	MU	18
+Chagos Archipelago	-6	72	MU	00
+Maraweli	-2.9	73.56667	MU	00
+Ile Longue	-5.25	71.86667	MU	00
+Leconte Point	-7.26667	72.46667	MU	00
+Jennifer Shoal	-7.28333	72.43333	MU	00
+Horsburgh Point	-7.38333	72.48333	MU	00
+Centurion Bank	-7.65	70.83333	MU	00
+Benares Shoal	-5.25	71.66667	MU	00
+Vainqueur	-19.66667	63.46667	MU	00
+Trefles	-19.68333	63.46667	MU	00
+Baie Topaze	-19.73333	63.35	MU	23
+Riviere Tamarin	-19.73333	63.41667	MU	00
+Pointe au Sel	-19.66667	63.48333	MU	23
+Saint Gabriel	-19.7	63.43333	MU	23
+Ile aux Sables	-19.7	63.31667	MU	23
+Ile Rodrigues	-19.7	63.41667	MU	23
+Quatre Vents	-19.7	63.4	MU	23
+Port Sud-Est	-19.75	63.45	MU	23
+Port Mathurin	-19.68333	63.41667	MU	23
+Mont Piments	-19.71667	63.38333	MU	00
+Petit Gabriel	-19.71667	63.41667	MU	23
+Petit Brule	-19.71111	63.4625	MU	23
+Paves	-19.68333	63.45	MU	00
+Baie aux Huitres	-19.68333	63.41667	MU	23
+Nouvelle Decouverte	-19.71111	63.46944	MU	23
+Baie du Nord	-19.7	63.38333	MU	23
+Pointe Manioc	-19.71667	63.35	MU	23
+Pointe Mangues	-19.71667	63.33333	MU	00
+Baie Malgache	-19.68333	63.4	MU	23
+Pointe Malgache	-19.68333	63.4	MU	23
+Pointe Longue	-19.68333	63.5	MU	00
+Mont Limon	-19.7	63.43333	MU	23
+Lataniers	-19.71389	63.44722	MU	23
+La Ferme	-19.7	63.38333	MU	23
+Pointe L'Herbe	-19.75417	63.35278	MU	23
+Riviere Gravier	-19.73333	63.46667	MU	23
+Anse Grand Var	-19.75	63.4	MU	23
+Grande Montagne	-19.7	63.46667	MU	23
+Grande Baie	-19.66667	63.45	MU	23
+Pointe La Fouche	-19.71667	63.33333	MU	23
+Baie de L'Est	-19.7	63.5	MU	23
+Baie Diamant	-19.68611	63.4	MU	23
+Pointe du Diable	-19.7	63.38333	MU	23
+Mont Croupier	-19.71667	63.35	MU	23
+Creve Coeur	-19.68056	63.43056	MU	23
+Pointe Cotton	-19.68333	63.5	MU	23
+Coromandel	-19.71389	63.475	MU	23
+Point Corail	-19.76667	63.38333	MU	00
+Riviere Bouteille	-19.66667	63.46667	MU	00
+Bambou	-19.68333	63.45	MU	00
+Riviere Baleine	-19.73333	63.41667	MU	23
+Anse Baleine	-19.73333	63.41667	MU	23
+Trou d'Argent	-19.71667	63.48333	MU	00
+Mont Adonis	-19.71667	63.4	MU	00
+Rodrigues	-19.7	63.41667	MU	23
+Ile Cocos	-19.72222	63.29722	MU	23
+Pointe Mapou	-19.74167	63.33056	MU	23
+Pointe Afine	-19.725	63.33333	MU	23
+Pointe Palmiste	-19.75	63.34306	MU	23
+Mont Lascars	-19.72917	63.34306	MU	23
+Pointe Pistache	-19.70972	63.3625	MU	23
+Pointe Nicolas	-19.70833	63.37083	MU	23
+La Fouche	-19.73889	63.38194	MU	23
+Mont Cabris	-19.73333	63.38333	MU	23
+Petite Butte	-19.75	63.38333	MU	23
+Anse Quittor	-19.76667	63.38333	MU	23
+Bengelique	-19.76667	63.36667	MU	23
+Pointe Raffin	-19.74444	63.42222	MU	23
+Riviere Cocos	-19.74028	63.41111	MU	23
+Mangue	-19.71667	63.39167	MU	23
+Mont du Nord	-19.71667	63.37639	MU	23
+Mont du Sable	-19.71111	63.38333	MU	23
+Mont Kali	-19.68333	63.38333	MU	23
+Baie aux Huitres	-19.69444	63.40833	MU	23
+Marechal	-19.73333	63.39444	MU	23
+Pointe Monnier	-19.68333	63.41528	MU	23
+Pointe Venus	-19.67778	63.425	MU	23
+Anse aux Caves	-19.67222	63.45	MU	23
+Grand Baie	-19.67778	63.44861	MU	23
+Pointe aux Cornes	-19.66667	63.45556	MU	23
+Pointe Source	-19.67361	63.46667	MU	23
+Mont Grenade	-19.69028	63.475	MU	23
+Anse aux Anglais	-19.675	63.43056	MU	23
+Roche Bon Dieu	-19.69167	63.47083	MU	23
+Mont Persil	-19.69167	63.45	MU	23
+Grande Montagne	-19.7125	63.46667	MU	23
+Patate Theophile	-19.7	63.48333	MU	23
+Pointe Tasman	-19.70417	63.5	MU	23
+Mont Cabris	-19.71111	63.49167	MU	23
+Pointe Roche Noire	-19.71667	63.5	MU	23
+Petit Gravier	-19.72778	63.48333	MU	23
+Mont Cheri	-19.73333	63.46667	MU	23
+Pate Reynieux	-19.74028	63.46667	MU	23
+Citronelle	-19.7	63.44167	MU	23
+Mont Lubin	-19.70833	63.44167	MU	23
+Mont Malartic	-19.7125	63.43611	MU	23
+Riviere Sygangue	-19.675	63.45	MU	23
+Riviere Anse aux Anglais	-19.675	63.43333	MU	23
+Riviere Acacia	-19.69167	63.41667	MU	23
+Riviere Baie aux Huitres	-19.69444	63.40833	MU	23
+Riviere Malgache	-19.69861	63.39028	MU	23
+Riviere Pistache	-19.71667	63.36111	MU	23
+Riviere Cocos	-19.74306	63.40833	MU	23
+Riviere Anse Raffin	-19.74583	63.42222	MU	23
+Riviere du Sel	-19.74167	63.42917	MU	23
+Riviere Cascade Victoire	-19.74028	63.45	MU	23
+Riviere Cascade Graviers	-19.73333	63.47778	MU	23
+Riviere Mourouk	-19.73611	63.45972	MU	23
+Plaine Corail	-19.75833	63.35833	MU	23
+Plaine Corail	-19.75833	63.35972	MU	23
+Mont Topaze	-19.73889	63.36667	MU	23
+Citron Donis	-19.72917	63.41667	MU	23
+Quatre Vingt Brisans	-19.825	63.35	MU	23
+Pointe Matourin	-19.74861	63.33611	MU	23
+Mont Plate	-19.72778	63.35	MU	23
+Baie Topaze	-19.72917	63.36111	MU	23
+Mont Tonnerre	-19.70417	63.40556	MU	23
+Mont Quatre Vents	-19.71667	63.40972	MU	23
+Mont Cimetiere	-19.71111	63.425	MU	23
+Mont Borne	-19.69167	63.45972	MU	23
+Chameaux	-19.70278	63.45417	MU	23
+Brule	-19.70278	63.46667	MU	23
+Palissade Ternel	-19.71111	63.45417	MU	23
+Saint Louis	-19.71667	63.475	MU	23
+Mont Bois Noir	-19.71667	63.45417	MU	23
+Eau Vannee	-19.73194	63.42222	MU	23
+Riviere Banane	-19.675	63.47361	MU	23
+Anse Ally	-19.69167	63.5	MU	23
+Anse Mourouk	-19.74028	63.45833	MU	23
+Songe	-19.73889	63.44167	MU	23
+Bassin Cabri	-19.73611	63.46667	MU	23
+Anse Raffin	-19.74444	63.425	MU	23
+Riviere Anse Quittor	-19.76667	63.375	MU	23
+Diamond Point	-19.68333	63.40417	MU	23
+Solitude	-19.68611	63.4375	MU	23
+Soupir	-19.70556	63.42917	MU	23
+Rodrigues	-19.75766	63.36098	MU	
+The Oberoi Mauritius	-20.0794	57.5072	MU	
+Sofitel Imperial Mauritius	-20.1658	57.4967	MU	
+Pointe aux Biches	-20.047	57.5292	MU	
+Belle Mare Plage The Villas	-20.171	57.7621	MU	
+Legends	-20.0168	57.65	MU	
+Le Prince Maurice	-20.149	57.7398	MU	
+Le Meridien Ile Maurice	-20.1031	57.5111	MU	
+Beau Rivage	-20.1982	57.7747	MU	
+PARADISE COVE	-20.2833	57.55	MU	
+ONE AND ONLY LE TOUESSROK	-20.2833	57.55	MU	
+ROYAL PALM	-20.0666	57.6833	MU	
+ONE AND ONLY LE SAINT GERAN	-20.1666	57.7166	MU	
+SHANTI ANANDA MAURICE	-20.2833	57.55	MU	
+OCEAN VILLAS	-20.2833	57.55	MU	
+Ganga Talao Grand Basin	-20.41806	57.49194	MU	
+Le Morne	-20.44535	57.31653	MU	
+Balaclava	-20.08326	57.51566	MU	
+Malherbes Mediumwave Transmitter	-20.31295	57.53392	MU	
+Monte Marlatic transmitter	-19.71293	63.43345	MU	
+Port Louis Mediumwave Transmitter	-20.16546	57.47836	MU	
+Le Morne	-20.44621	57.33318	MU	
+Cargados Carajos	-16.60329	59.65851	MU	22
+La Nicoliere	-20.15757	57.61699	MU	
+Belle Rive	-20.34786	57.55244	MU	
+Saint-Joseph	-20.32021	57.52322	MU	
+Mauritius Racecourse	-20.16863	57.511	MU	
+Newton Tower	-20.16301	57.50457	MU	
+The Chateau of Reduit	-20.22869	57.48757	MU	
+Champs de Mars	-20.16895	57.51031	MU	
+St Jean	-20.25614	57.48688	MU	
+Grewals Lane	-20.19443	57.48339	MU	
+Soreze	-20.20619	57.48553	MU	
+Poste Lafayette	-20.13823	57.75212	MU	
+Bain Boeuf	-19.98767	57.60617	MU	
+Calodyne	-20.00215	57.64249	MU	19
+Ilot Bacouas	-20.23152	57.8079	MU	
+La Pointe Villas	-20.00545	57.55222	MU	
+Casa Del Sol	-20.01803	57.54982	MU	
+Villas Mont Choisy	-20.01493	57.54858	MU	
+Residence Capri	-20.01368	57.54776	MU	
+Le Palmiste	-20.05432	57.52956	MU	
+Le Recif	-20.09543	57.51085	MU	
+Veranda Pointe Aux Biches	-20.04664	57.52878	MU	
+Le Victoria	-20.07589	57.51299	MU	
+Ti Fleur Soleil	-20.00806	57.56177	MU	
+Acacia Holiday	-20.00021	57.58175	MU	
+20 Degrees Sud	-20.0055	57.571	MU	
+Le Mauricia	-20.00917	57.58163	MU	
+Villa Narmada	-20.013	57.584	MU	
+Orchidee Residence	-20.21758	57.39738	MU	
+Cape Garden	-20.00029	57.59857	MU	
+The Residence Mauritius	-20.20582	57.77744	MU	
+Heritage Le Telfair	-20.50598	57.40906	MU	
+Tamassa	-20.509	57.413	MU	
+Sofitel So Mauritius Bel Ombre	-20.50649	57.40892	MU	
+Villas Mon Plaisir	-20.03223	57.55183	MU	
+Lux Le Morne	-20.44397	57.3184	MU	
+Le Tropical Attitude	-20.23704	57.80051	MU	
+Tamarina	-20.41726	57.7046	MU	
+De Conti	-20.0444	57.53652	MU	
+Veranda Pointe Aux Biches Hote	-20.04649	57.52889	MU	
+St Regis Mauritius	-20.46015	57.31063	MU	
+Stylia Villas	-20.23403	57.80356	MU	
+20 Degres Sud	-20.00538	57.57087	MU	
+Lux Belle Mare	-20.19843	57.78001	MU	
+One & Only Le Saint Geran	-20.16014	57.757	MU	
+Lux Grand Gaube	-20.00214	57.65979	MU	
+Gardens Retreat	-20.3484	57.55215	MU	
+Des 2 Mondes	-20.01932	57.55676	MU	
+Zilwa Attitude	-20.00193	57.64529	MU	
+Manisa	-20.28461	57.36487	MU	
+Le Shandrani	-20.4463	57.70367	MU	
+La Pirogue	-20.29878	57.3637	MU	
+La Colombiere	-20.14621	57.73521	MU	
+Klondike	-20.27189	57.37204	MU	
+Constance Le Prince Maurice	-20.14883	57.74574	MU	
+Constance Belle Mare Plage	-20.19616	57.77813	MU	
+Angsana Balaclava	-20.08298	57.52081	MU	
+Calodyne Sur Mer Mru	-20.00188	57.6446	MU	
+Recif Attitude Le Recif	-20.09543	57.51085	MU	
+Trou Aux Biches	-20.03279	57.54733	MU	
+Friday Attitude	-20.23293	57.80423	MU	
+Ambre	-20.17787	57.77185	MU	
+Anse La Raie	-19.99057	57.63202	MU	

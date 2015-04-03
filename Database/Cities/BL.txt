@@ -1,0 +1,82 @@
+Morne du Vitet	17.88333	-62.8	BL	00
+Pointe a Toigny	17.88333	-62.78333	BL	00
+Anse a Toigny	17.86667	-62.8	BL	00
+Toiny	17.9	-62.8	BL	00
+Ile Toc Vers	17.94264	-62.81845	BL	00
+Baie de Saint-Jean	17.9	-62.83333	BL	00
+Saint-Jean	17.89871	-62.83699	BL	00
+Roches Rouges	17.85	-62.78333	BL	00
+Anse Reine	17.91333	-62.86444	BL	00
+Quartier du Roi	17.9	-62.85	BL	00
+Quartier de Lorient	17.90516	-62.82257	BL	00
+Anse du Public	17.9	-62.85	BL	00
+Public	17.9	-62.85	BL	00
+Ile de la Pointe	17.91667	-62.88333	BL	00
+Anse de Petit Jean	17.91667	-62.88333	BL	00
+Anse du Petit Galet	17.88333	-62.85	BL	00
+Petit Cul de Sac	17.9	-62.78333	BL	00
+Petit Cul-de-Sac	17.9	-62.78333	BL	00
+Ile Pele	17.96667	-62.86667	BL	00
+Anse Paschal	17.91667	-62.86667	BL	00
+Le Pain de Sucre	17.88333	-62.86667	BL	00
+Fort Oscar	17.9	-62.85	BL	00
+Pointe Negre	17.86667	-62.83333	BL	00
+Anse de Marigot	17.91667	-62.8	BL	00
+Marigot	17.91667	-62.81667	BL	00
+Morne Lurin	17.88333	-62.83333	BL	00
+Lurin	17.88333	-62.83333	BL	00
+Pointe Lorient	17.91667	-62.81667	BL	00
+Anse de Lorient	17.9	-62.81667	BL	00
+Pointe Lezarde	17.91667	-62.85	BL	00
+Les Saintes	17.88333	-62.85	BL	00
+Les Gros Ilets	17.9	-62.85	BL	00
+Les Grenadins	17.91667	-62.78333	BL	00
+Les Baleines	17.9	-62.86667	BL	00
+Le Gouverneur	17.86667	-62.83333	BL	00
+La Tortue	17.91667	-62.78333	BL	00
+La Saline	17.88333	-62.81667	BL	00
+La Petite Anse	17.91667	-62.86667	BL	00
+La Baleine	17.9	-62.86667	BL	00
+Fort Karl	17.88333	-62.85	BL	00
+Fort Gustavia	17.9	-62.85	BL	00
+Gustavia	17.89618	-62.84978	BL	00
+Groupers	17.95	-62.95	BL	00
+Anse de Gros Jean	17.91667	-62.86667	BL	00
+Morne de Grand Fond	17.88333	-62.81667	BL	00
+Anse du Grand Fond	17.88333	-62.8	BL	00
+Grand Fond	17.88333	-62.8	BL	00
+Anse de Grande Saline	17.86667	-62.81667	BL	00
+Grande Saline	17.88333	-62.81667	BL	00
+Grande Pointe	17.86667	-62.83333	BL	00
+Anse du Grand Cul-de-Sac	17.9	-62.8	BL	00
+Grand Cul-de-Sac	17.90962	-62.80427	BL	00
+Pointe du Gouvernour	17.86667	-62.81667	BL	00
+Anse du Gouverneur	17.86667	-62.83333	BL	00
+Anse Gascon	17.91667	-62.86667	BL	00
+Anse a Galets	17.91667	-62.85	BL	00
+Fourmis	17.86667	-62.8	BL	00
+Ile Fourchue	17.95836	-62.90362	BL	00
+Anse des Flamands	17.91667	-62.85	BL	00
+Pointe a Etages	17.93333	-62.85	BL	00
+Anse Corossol	17.9	-62.86667	BL	00
+Corossol	17.9	-62.85	BL	00
+Pointe a Colombier	17.93333	-62.86667	BL	00
+Anse du Colombier	17.91667	-62.86667	BL	00
+Colombier	17.91667	-62.85	BL	00
+Ile Coco	17.86667	-62.8	BL	00
+Ile Chevreau	17.93333	-62.85	BL	00
+Anse de Chauvette	17.88333	-62.83333	BL	00
+Anse des Cayes	17.91667	-62.83333	BL	00
+Ile le Boulanger	17.96667	-62.86667	BL	00
+Roche le Boeuf	17.93333	-62.88333	BL	00
+Anse des Flamands	17.91774	-62.8575	BL	00
+Anse des Cayes	17.91667	-62.85	BL	00
+Pointe du Precipice	17.91	-62.85778	BL	00
+Pointe a Corossol	17.91167	-62.8625	BL	00
+L'Ane Rouge	17.92444	-62.88111	BL	00
+Manapany Cottage	17.921	-62.8532	BL	
+LE SERENO	17.9138	-62.804	BL	
+Pointe Milou	17.9161	-62.8091	BL	
+Baie des Flamands	17.92023	-62.85729	BL	
+Le Toiny	17.89942	-62.79731	BL	
+Guanahani & Spa	17.91241	-62.80382	BL	

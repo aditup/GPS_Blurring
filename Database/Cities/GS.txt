@@ -1,0 +1,247 @@
+South Georgia	-54.25	-36.75	GS	00
+Wordie Point	-56.73333	-27.25	GS	00
+Windy Cove	-54.06667	-36.96667	GS	00
+Wilson Harbour	-54.11944	-37.68917	GS	00
+Cape Wilson	-54.04222	-37.17389	GS	00
+West Skerry	-54.25	-36.33333	GS	00
+Weddell Point	-54.05361	-37.80833	GS	00
+Weddell Glacier	-54.60056	-36	GS	00
+Vulcan Point	-57.03333	-26.71667	GS	00
+Cape Vakop	-54.38083	-36.17278	GS	00
+Cape Vahsel	-54.76194	-35.79806	GS	00
+Undine South Harbour	-54.52722	-36.53556	GS	00
+Undine Harbour	-54.03389	-37.96972	GS	00
+Twitcher Glacier	-54.72167	-35.94944	GS	00
+Trulla Bluff	-59.03333	-26.4	GS	00
+Tortula Cove	-54.23333	-36.5	GS	00
+Tonsberg Point	-54.16472	-36.67111	GS	00
+Tijuca Point	-54.34667	-36.21972	GS	00
+Three Brothers	-54.29028	-36.8025	GS	00
+Swell Point	-59.45	-27.1	GS	00
+Susa Point	-54.28333	-36.5	GS	00
+Sunset Fjord	-54.05	-37.45	GS	00
+Sulphur Point	-56.7	-27.26667	GS	00
+Stromness Harbour	-54.15	-36.68333	GS	00
+Storer Reef	-54.36194	-37.06694	GS	00
+Stewart Strait	-54.00722	-38.105	GS	00
+Stench Point	-56.3	-27.6	GS	00
+South West Point	-54.51139	-37.08889	GS	00
+Southern Thule	-59.43333	-27.2	GS	00
+Sorn and Bernt	-53.98889	-37.92	GS	00
+Smoky Wall	-54.58917	-36.19889	GS	00
+Smaaland Cove	-54.87333	-36.05167	GS	00
+Skrap Skerries	-54.25194	-36.30972	GS	00
+Shrove Point	-57.06667	-26.65	GS	00
+Shelter Point	-54.06667	-37.01667	GS	00
+Sheep Point	-54.06667	-37.13333	GS	00
+Shannon Point	-54.86611	-35.965	GS	00
+The Sentinels	-54.26667	-36.26667	GS	00
+Sea Serpent Cove	-57.03333	-26.7	GS	00
+Sea Leopard Fjord	-54.06667	-37.25	GS	00
+Scotia Sea	-57.5	-40	GS	00
+Schrader Glacier	-54.11556	-37.64611	GS	00
+Scarlett Point	-58.46667	-26.33333	GS	00
+Cape Saunders	-54.12639	-36.63917	GS	00
+Sappho Point	-54.24444	-36.47389	GS	00
+Salvesen Range	-54.69222	-36.12028	GS	00
+Sacramento Bight	-54.48194	-36.02667	GS	00
+Ryan Reef	-54.44028	-36.13806	GS	00
+Rumbolds Point	-54.87611	-35.985	GS	00
+Ross Glacier	-54.55111	-36.10917	GS	00
+Rosita Harbour	-54.0125	-37.44472	GS	00
+Cape Rosa	-54.18806	-37.4125	GS	00
+Romerof Head	-54.05222	-37.87639	GS	00
+Robertson Point	-54.1	-36.76667	GS	00
+Restitution Point	-54.06667	-37.15	GS	00
+Resolution Point	-59.43333	-27.11667	GS	00
+Reef Point	-59.45	-27.21667	GS	00
+Purvis Glacier	-54.09944	-37.16778	GS	00
+Cape Pride	-54	-37.96667	GS	00
+Poa Cove	-54.25	-36.5	GS	00
+Pirner Point	-54.52611	-36.08306	GS	00
+Pig Point	-54.06667	-37.15	GS	00
+Philippi Glacier	-54.81694	-36.05583	GS	00
+Pearson Point	-54.01667	-38.08333	GS	00
+Cape Paryadin	-54.01667	-38.07917	GS	00
+Paget Glacier	-54.41694	-36.50583	GS	00
+Pacific Point	-56.31667	-27.6	GS	00
+Ocean Harbour	-54.33417	-36.24694	GS	00
+Cape Nunez	-54.26889	-37.41222	GS	00
+Novosilski Glacier	-54.6675	-36.33028	GS	00
+Cape North	-53.975	-37.74222	GS	00
+Nordenskjold Glacier	-54.37833	-36.37528	GS	00
+Nobby	-55.03333	-34.63333	GS	00
+Neumayer Glacier	-54.24444	-36.71	GS	00
+Nelson Channel	-57.05	-26.71667	GS	00
+Nattriss Point	-57.8	-26.36667	GS	00
+Nattriss Head	-54.85	-35.94111	GS	00
+Nansen Reef	-54.26667	-36.15	GS	00
+Nameless Point	-53.98556	-37.68444	GS	00
+Morse Point	-54.0825	-36.94639	GS	00
+Morris Glacier	-54.08417	-37.24083	GS	00
+Moraine Fjord	-54.33861	-36.48361	GS	00
+Moltke Harbour	-54.51639	-36.07222	GS	00
+Milward Patch	-53.97417	-38.04806	GS	00
+Mikhaylov Point	-56.73333	-27.2	GS	00
+Maurice Channel	-59.43333	-27.08333	GS	00
+Matthews Point	-54.03333	-37.96667	GS	00
+Maiviken	-54.23944	-36.5075	GS	00
+Mai Point	-54.23333	-36.5	GS	00
+Lyell Glacier	-54.29861	-36.61722	GS	00
+Luck Point	-54.05389	-37.27389	GS	00
+Lucas Glacier	-54.06972	-37.30639	GS	00
+Long Point	-54.26667	-36.28333	GS	00
+Little Moltke Harbour	-54.53333	-36.09139	GS	00
+Little Jason Lagoon	-54.18333	-36.6	GS	00
+Leon Head	-54.55361	-36.48667	GS	00
+Leith Harbour	-54.14243	-36.67871	GS	00
+Larsen Point	-54.19111	-36.49778	GS	00
+Larsen Harbour	-54.83583	-36.00611	GS	00
+Koppervik	-54	-37.41667	GS	00
+Koppen Point	-54.5	-36.03333	GS	00
+Konig Glacier	-54.16306	-36.80472	GS	00
+Kohl Plateau	-54.23472	-36.95111	GS	00
+Knob Point	-57.06667	-26.78333	GS	00
+The Knob	-54.01667	-37.96667	GS	00
+Klutschak Point	-54.17139	-37.68889	GS	00
+King Edward Point	-54.28362	-36.49607	GS	00
+King Edward Cove	-54.28277	-36.5025	GS	00
+Kelp Point	-54.16667	-36.63333	GS	00
+Kanin Point	-54.18333	-36.7	GS	00
+Kade Point	-54.10917	-37.73	GS	00
+Jumbo Cove	-54.16667	-36.55	GS	00
+Jomfruene	-54.06278	-38.04639	GS	00
+Johannsen Loch	-54.31611	-36.25778	GS	00
+Johannesen Point	-54.01417	-38.24	GS	00
+Jeffries Point	-59.46667	-27.16667	GS	00
+Jason Harbour	-54.19611	-36.58139	GS	00
+Isaacson Point	-59.43333	-27.05	GS	00
+Irving Point	-56.71667	-27.11667	GS	00
+Ice Fjord	-54.06	-37.69361	GS	00
+Husvik Harbour	-54.16667	-36.66667	GS	00
+Husvik	-54.17722	-36.715	GS	00
+Horse Head	-54.28333	-36.5	GS	00
+Horsburgh Point	-58.43333	-26.43333	GS	00
+Hope Point	-54.28333	-36.48333	GS	00
+Hewison Point	-59.46667	-27.25	GS	00
+Herd Point	-59.46667	-27.28333	GS	00
+Hercules Point	-54.11667	-36.66667	GS	00
+Heaney Glacier	-54.42444	-36.20583	GS	00
+Hauge Reef	-54.47333	-36.97056	GS	00
+Harrison Point	-54.16667	-36.6	GS	00
+Harper Point	-57.75	-26.48333	GS	00
+Harker Point	-59.06667	-26.51667	GS	00
+Harker Glacier	-54.36667	-36.51667	GS	00
+Hardy Point	-59.41667	-27.06667	GS	00
+Harbour Point	-54.15	-36.68333	GS	00
+Hamberg Glacier	-54.35111	-36.52083	GS	00
+The Guides	-54.07722	-36.85861	GS	00
+Grytviken	-54.28111	-36.5092	GS	00
+Grassholm	-54.05833	-37.94389	GS	00
+Grace Glacier	-54.06667	-37.38333	GS	00
+Gold Harbour	-54.62528	-35.93056	GS	00
+Godthul	-54.28861	-36.29472	GS	00
+Cape George	-54.28528	-36.25694	GS	00
+Geikie Glacier	-54.29944	-36.69389	GS	00
+Fryer Point	-58.98333	-26.5	GS	00
+Frida Hole	-54.03333	-37.93333	GS	00
+Framnaes Point	-54.13333	-36.65	GS	00
+Fortuna Glacier	-54.1	-36.85	GS	00
+Cape Flannery	-59.45	-27.35	GS	00
+First Point	-54.47361	-37.12361	GS	00
+First Milestone	-54.1075	-36.6775	GS	00
+Finger Point	-56.68333	-27.21667	GS	00
+Farewell Point	-54	-38.01667	GS	00
+Factory Point	-54.13333	-36.68333	GS	00
+Elsehul	-54.01778	-37.97611	GS	00
+Elephant Lagoon	-54.06667	-37.13333	GS	00
+Elephant Cove	-54.15972	-37.69222	GS	00
+East Skerry	-54.25	-36.3	GS	00
+Ducloz Head	-54.51083	-36.63833	GS	00
+Drygalski Fjord	-54.80583	-36.01722	GS	00
+Douglas Strait	-59.45	-27.23333	GS	00
+Discovery Point	-54.3	-36.48333	GS	00
+Cape Disappointment	-54.87556	-36.12167	GS	00
+Diaz Cove	-54.75	-36.3	GS	00
+Demon Point	-57.05	-26.66667	GS	00
+Cape Demidov	-54.14333	-37.72861	GS	00
+Dartmouth Point	-54.3	-36.45	GS	00
+Cape Darnley	-54.45611	-36.81444	GS	00
+Daisy Point	-54.05	-37.18333	GS	00
+The Cut	-54.26667	-36.3	GS	00
+The Crutch	-54.18333	-36.53333	GS	00
+Crosscut Point	-57.06667	-26.76667	GS	00
+Cape Crewe	-54.0425	-37.13583	GS	00
+Craigie Point	-54.00667	-37.6575	GS	00
+Cooper Sound	-54.79389	-35.80639	GS	00
+Cook Glacier	-54.44611	-36.19056	GS	00
+Cape Constance	-54.05361	-37.00194	GS	00
+Coffin Top	-54.5	-36.1	GS	00
+Cobblers Cove	-54.26667	-36.3	GS	00
+Coal Harbour	-54.03333	-37.95	GS	00
+Chinstrap Point	-57.11667	-26.76667	GS	00
+Cape Charlotte	-54.54694	-35.89917	GS	00
+Carey Point	-57.78333	-26.53333	GS	00
+Calf Head	-54.46528	-36.04694	GS	00
+Busen Point	-54.16278	-36.55722	GS	00
+Burnet Cove	-54.23333	-36.5	GS	00
+Cape Buller	-53.98861	-37.37528	GS	00
+Brogger Glacier	-54.53944	-36.44556	GS	00
+Braces Point	-57.1	-26.76667	GS	00
+Borley Point	-58.38333	-26.46667	GS	00
+Bore Valley	-54.26667	-36.51667	GS	00
+Blue Whale Harbour	-54.06861	-37.02361	GS	00
+Reef Point	-54	-37.7	GS	00
+Black Head	-54.06611	-37.11917	GS	00
+Bird Sound	-54.00778	-38.025	GS	00
+Cape Best	-54.09417	-36.82139	GS	00
+Bertrab Glacier	-54.62333	-35.96028	GS	00
+Bellingshausen Point	-54.05	-37.23333	GS	00
+Beckmann Fjord	-54.05	-37.2	GS	00
+Aspasia Point	-54.31972	-37.10611	GS	00
+Anvil Stacks	-54.17472	-37.71	GS	00
+Antarctic Point	-54.06667	-36.96667	GS	00
+Allen Point	-58.48333	-26.25	GS	00
+Allardyce Range	-54.41667	-36.55139	GS	00
+Cape Alexandra	-54	-38	GS	00
+Point Abrahamsen	-54.05	-37.13333	GS	00
+Owen Shoals	-53.95944	-38.12528	GS	00
+Wales Head	-54.00917	-37.5825	GS	00
+Ryan Glacier	-54.04528	-37.60194	GS	00
+Ram Head	-54.01972	-37.44028	GS	00
+Kelp Bank	-54.01556	-37.10222	GS	00
+Shag Point	-54.03667	-37.44611	GS	00
+Start Point	-54.04722	-37.35639	GS	00
+Hammerstad Reef	-54.20861	-37.42556	GS	00
+Semla Reef	-54.25028	-37.45417	GS	00
+Nunez Peninsula	-54.25361	-37.33639	GS	00
+Esmark Glacier	-54.23583	-37.24056	GS	00
+Jossac Bight	-54.27861	-37.17972	GS	00
+Keilhau Glacier	-54.29333	-37.08778	GS	00
+Low Reef	-54.49611	-37.01111	GS	00
+Second Milestone	-54.09528	-36.73583	GS	00
+Stromness	-54.15611	-36.71611	GS	00
+West Point	-54.20194	-36.58444	GS	00
+Lancing Glacier	-54.33722	-36.92083	GS	00
+Kjerulf Glacier	-54.34667	-36.86278	GS	00
+Larvik	-54.37611	-36.90222	GS	00
+Jacobsen Bight	-54.41417	-36.84972	GS	00
+Christophersen Glacier	-54.40722	-36.79306	GS	00
+Hauge Strait	-54.46222	-36.8875	GS	00
+Henningsen Glacier	-54.4625	-36.73556	GS	00
+Helland Glacier	-54.47861	-36.65278	GS	00
+Reusch Glacier	-54.50278	-36.50278	GS	00
+Austin Head	-54.51417	-36.51056	GS	00
+Greene Peninsula	-54.35	-36.43972	GS	00
+Will Point	-54.55972	-36.02222	GS	00
+Wheeler Glacier	-54.60139	-36.40167	GS	00
+Hindle Glacier	-54.60167	-36.09667	GS	00
+Harmer Glacier	-54.77556	-36.25722	GS	00
+Ranvik	-54.79583	-36.25194	GS	00
+Trollhul	-54.82	-36.19667	GS	00
+Jenkins Glacier	-54.77778	-36.10139	GS	00
+Risting Glacier	-54.76917	-36.09972	GS	00
+Muller Point	-54.69167	-35.92028	GS	00
+Herz Glacier	-54.69472	-35.965	GS	00
+Salomon Glacier	-54.77333	-35.92417	GS	00
+Price Glacier	-54.15	-37.46667	GS	00

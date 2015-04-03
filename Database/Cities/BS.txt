@@ -1,0 +1,1259 @@
+Palacca Point	21.25	-73.43333	BS	13
+Zonicles	24.15357	-75.36243	BS	06
+Young Sound	24.68333	-77.75	BS	47
+Yellow Cay	24.21709	-77.95015	BS	38
+Yellow Bank	24.88333	-77.1	BS	10
+Woolen Dean Cay	26.56667	-77.4	BS	37
+Wood Cay Sound	26.36667	-77.26667	BS	37
+Wood Cay Point	24.41667	-77.7	BS	38
+Wood Cay	26.9	-77.73333	BS	46
+Wood Cay	26.74216	-79.01642	BS	54
+Wood Cay	24.25067	-78.00153	BS	38
+Wood Cay	22.45	-74.21667	BS	40
+Witch Point	26.5	-77.03333	BS	37
+Winton Heights	25.03333	-77.26667	BS	23
+Winton	25.05	-77.28333	BS	23
+Windsor Point	22.53333	-74.38333	BS	40
+Wilson Point	22.18333	-75.75	BS	18
+Wilson City	26.36667	-77.03333	BS	37
+Willis Cay	26.56667	-77.23333	BS	37
+Williams Town	26.48333	-78.66667	BS	25
+William's Town	23.41667	-75.55	BS	10
+William Cay	23.75	-76.06667	BS	10
+Wide Opening	24.41667	-78.18333	BS	26
+Wide Opening	24.41667	-76.68333	BS	10
+White Point	24.03333	-76.35	BS	36
+White Horses	24.11667	-76.38333	BS	36
+White Cliff	23.06667	-73.71667	BS	40
+White Cay	25.61667	-77.73333	BS	32
+White Cay	24.16667	-74.46667	BS	35
+White Cay	23.41667	-75.45	BS	10
+White Cay	23.06667	-73.66667	BS	40
+White Bluff	21.05	-73.15	BS	13
+White Bluff	25.2	-76.25	BS	27
+White Bank	24.86667	-77.26667	BS	10
+Whale Point	25.46667	-76.63333	BS	48
+Whale Point	25.38333	-77.78333	BS	32
+Whale Head	23.4	-75.21667	BS	15
+Whale Cay Channel	26.75	-77.31667	BS	43
+Whale Cay	26.71667	-77.23333	BS	43
+Whale Cay	25.40304	-77.79402	BS	32
+Wet Cay	23.15	-75.45	BS	18
+Wet Cay	23.68333	-77.66667	BS	51
+West Shroud Cay	24.4	-76.65	BS	10
+West Point	24.58333	-75.96667	BS	06
+West Indies	20	-70	BS	00
+West Entrance	21.96667	-74.73333	BS	00
+West End Point	26.88333	-77.95	BS	46
+West End Point	26.69225	-78.99685	BS	54
+West End Point	26.61667	-77.01667	BS	43
+West End	26.68711	-78.97702	BS	54
+West Cay	23.86667	-75.13333	BS	49
+West Brother	26.03333	-79.03333	BS	05
+Wemyss Bight	24.75	-76.25	BS	52
+Wemyss Bight	24.70855	-76.21323	BS	23
+Wemyss Bight	23.41667	-75.21667	BS	15
+Wemyss	23.41667	-75.18333	BS	15
+Well Cay	23.73333	-77.85	BS	51
+Wedge Point	23.8	-75.11667	BS	49
+Wax Cut	25	-77.95	BS	47
+Wax Cay Cut	24.56667	-76.78333	BS	10
+Wax Cay	24.58381	-76.80044	BS	10
+Waterloo	25.03333	-77.53333	BS	23
+Waterford	24.75	-76.23333	BS	52
+Water Cays	23.98931	-80.2732	BS	05
+Water Cays	23.66667	-77.75	BS	51
+Water Cay	25.2	-78.13333	BS	47
+Water Cay	26.75	-78.5	BS	54
+Water Cay	26.9	-77.83333	BS	46
+Water Cay	26.76667	-78.5	BS	54
+Water Cay	26.45	-77.76667	BS	41
+Water Cay	25.69657	-77.82118	BS	32
+Water Cay	23	-75.73333	BS	18
+Washerwomans Cut	23.66667	-77.35	BS	51
+Warren Harbour	24.25	-75.33333	BS	06
+Walker's Cay	27.26112	-78.40264	BS	42
+Walkers Cay	25.08333	-78.01667	BS	47
+Walker Cay Channel	27.31667	-78.46667	BS	29
+Waderick Wells Cay	24.36667	-76.6	BS	10
+Vincent Town	26.66667	-78.95	BS	54
+Vigilant Cay	25.43333	-77.76667	BS	32
+Victory Cays	25.5	-79.26667	BS	05
+Victoria Village	23.08333	-74.95	BS	15
+Cay Verde	22.03333	-75.2	BS	18
+Upper Wreck Point	25.11667	-76.1	BS	39
+Upper Sandy Harbour	26.81667	-78.5	BS	54
+Upper Samphire Cay	25.2	-76.96667	BS	23
+Upper Point	22.41667	-72.96667	BS	16
+Upper Cut	26.55	-77.06667	BS	37
+Upper Conch Point	26.53333	-78.56667	BS	54
+Upper Bogue	25.45	-76.66667	BS	48
+Umbrella Cay	24.4	-77.7	BS	38
+Umbrella Cay	27.01667	-77.71667	BS	43
+Twin Cay	24.2	-76.5	BS	36
+Tusculum	25.06667	-77.48333	BS	23
+Turtle Sound	22.78333	-74.28333	BS	40
+Turtle Reef	26.6	-78.35	BS	41
+Turtle Cove	23.06667	-75.1	BS	15
+Turner Sound	24.43333	-78.03333	BS	38
+Turner Cay	25.68918	-77.83771	BS	32
+Turnbull	23.08333	-75.01667	BS	15
+Point Tucker	24.25	-75.4	BS	06
+True Blue	22.06667	-74.06667	BS	24
+Treasure Cay	26.66667	-77.26667	BS	37
+Top Cay	27.08333	-78.03333	BS	43
+Top Cay	26.2267	-77.56806	BS	45
+Top Cay	23.68333	-77.61667	BS	51
+Tilloo Cay	26.4478	-76.98809	BS	43
+Thunder Channel	23.33333	-76.75	BS	51
+Thompsons Cay	25.41667	-77.83333	BS	32
+Thomas Town	26.65	-78.96667	BS	54
+Thomas George Point	25.21667	-76.23333	BS	27
+Thomas Cay	26.23333	-77.55	BS	45
+Thomas Cay	24.23333	-76.48333	BS	36
+The Village	24.25	-75.4	BS	06
+The Lot	24.63333	-75.68333	BS	06
+The Ferry Settlement	23.45	-75.56667	BS	10
+The Bluff	25.49907	-76.72337	BS	48
+The Bluff	24.11667	-77.55	BS	51
+The Bight	26.3	-77.55	BS	45
+The Bight	24.28961	-75.41522	BS	06
+Thatch Point Sound	26.33333	-77.23333	BS	37
+Thatch Point	26.31667	-77.25	BS	37
+Tee Cay	24.56667	-75.88333	BS	06
+Tear Coat Cay	25.21667	-76.23333	BS	27
+Tatnall	23.48333	-75.2	BS	15
+Tarzan Cay	22.93333	-75.83333	BS	18
+Tarpum Head	24.98333	-76.25	BS	52
+Taits	22.98333	-74.88333	BS	15
+Symonette Cay	26.66667	-78.63333	BS	54
+Sweetings Village	26.35	-77.03333	BS	37
+Sweeting Cay	26.6	-77.88333	BS	41
+Sumner Point	23.63544	-74.8326	BS	49
+Sugar Loaf Cay	26.55	-77.03333	BS	37
+Sugar Loaf	23.65	-74.51667	BS	35
+Sugar Loaf	25.05	-76.18333	BS	39
+Stuart Manor	23.63333	-76	BS	10
+Strangers Cay Channel	27.15	-78.21667	BS	43
+Strangers Cay	27.10408	-78.10007	BS	42
+Stranger Cay Banks	27.1	-78.16667	BS	29
+Strachan Cay	23.11667	-74.96667	BS	15
+Stoney Cay	23.11667	-75.56667	BS	18
+Steventon	23.65	-75.95	BS	10
+Stevens	23.08333	-75.01667	BS	15
+Stephenson	24.43333	-75.53333	BS	06
+Stella Maris	23.59199	-75.2651	BS	15
+Steamer Cay	24.03333	-77.75	BS	51
+Statira Shoal	20.91667	-73.1	BS	13
+Stapleton Gardens	25.05	-77.36667	BS	23
+Staniel Cay	24.17307	-76.4421	BS	36
+Spencer Bight	26.36667	-77.03333	BS	37
+Spanish Wells	25.54717	-76.76405	BS	53
+Spanish Wells	24.2	-77.91667	BS	38
+Spanish Cay	26.93361	-77.55015	BS	43
+Southwest Reef	25.45	-76.88333	BS	53
+Southwest Reef	24.93333	-77.48333	BS	23
+Southwest Point	26.49139	-78.74999	BS	54
+Southwest Point	25.84892	-77.19639	BS	50
+Southwest Point	23.94312	-74.56944	BS	35
+South West Point	22.16667	-74.28333	BS	24
+South West Point	20.91326	-73.64655	BS	13
+South Stirrup Cay	25.43333	-77.93333	BS	32
+South Point	22.86667	-74.85	BS	15
+South Palmetto Point	25.15	-76.18333	BS	39
+South Head	22.03333	-76.38333	BS	18
+Southern End Point	22.3	-76.85	BS	00
+Southern Cay	26.21667	-77.55	BS	45
+Southern Bight	24.1008	-77.63787	BS	51
+South Point	22.85	-74.85	BS	15
+South East Point	26.93333	-78.21667	BS	41
+South East Point	26.56667	-77.53333	BS	28
+Southeast Point	22.26667	-72.78333	BS	16
+South East Point	20.96667	-73.16667	BS	13
+Southeast Cay	21.66667	-73.81667	BS	13
+South Dog	24.9	-76.8	BS	10
+South Channel Cay	22.5	-75.83333	BS	18
+South Cay	23.58333	-77.33333	BS	51
+South Cay	22.41667	-74.23333	BS	40
+South Cay	22.08333	-74.53333	BS	24
+South Cat Cay	25.53333	-79.26667	BS	05
+South Bluff	22.2	-74.23333	BS	24
+South Bimini	25.6795	-79.27098	BS	05
+Southampton Reef	23.91667	-75.13333	BS	49
+Sound Point	24.85	-76.2	BS	52
+Soldier Cays	25.67619	-77.77586	BS	32
+Soldier Cay	25.67441	-77.77458	BS	32
+Soldier Cay	24.33333	-76.55	BS	10
+Snug Corner	22.55501	-73.87829	BS	24
+Snapper Cay	26.66667	-77.41667	BS	46
+Snake Cay	26.45	-77.05	BS	37
+Snake Cay	26.45	-77.05	BS	37
+Smith Sloop Point	21.1	-73.61667	BS	13
+Smith Point	26.5	-78.61667	BS	25
+Smith Cay	26.9	-77.81667	BS	46
+Slaughter Harbour	25.81667	-77.93333	BS	32
+Sisters Cays	22.56667	-75.9	BS	18
+Point Simon	25	-78.16667	BS	47
+Simms Point	25.02368	-77.52569	BS	23
+Simms	23.48333	-75.21667	BS	15
+Silver Point	26.48333	-78.65	BS	25
+Silver Cay	25.1	-77.38333	BS	23
+Shroud Cays	24.38333	-76.61667	BS	10
+Shroud Cay	24.53635	-76.78293	BS	36
+Ship Channel Cay	24.81774	-76.82362	BS	36
+Ship Channel	24.85	-76.83333	BS	10
+Sheep Cay	25.18956	-78.2177	BS	47
+Sheep Cay	25.13333	-76.18333	BS	39
+Sheep Cay	25.70279	-77.82861	BS	32
+Sheep Cay	21.11667	-73.58333	BS	13
+Seymour's	23.65	-75.31667	BS	15
+Settlement Point	26.68333	-78.98333	BS	54
+Seaview Settlement	22.81667	-74.28333	BS	40
+Seal Cay	27.26667	-78.36667	BS	42
+Seal Cay	22.61667	-75.88333	BS	18
+Sea Grape	26.53333	-78.81667	BS	54
+Scrub Cays	24.14441	-76.86852	BS	51
+Scotland Cay	26.64293	-77.07769	BS	43
+Scorpion Cay	26.65	-78.81667	BS	54
+Schooner Cays	24.95	-76.41667	BS	52
+Sawyer Bluff	25.23333	-76.28333	BS	48
+Savannah Sound	25.09143	-76.12362	BS	39
+Savannah Sound	25.08416	-76.13714	BS	39
+Sapodilla Cay	24.28333	-77.95	BS	38
+Cay Santo Domingo	21.7	-75.76667	BS	00
+Santaren Channel	27.00028	-79.23361	BS	05
+Cape Santa Maria	23.68333	-75.31667	BS	15
+Sandy Point	26.03333	-77.4	BS	50
+Sandy Point	24.31667	-75.4	BS	06
+Sandy Point	23.65	-74.95	BS	49
+Sandy Point	20.93333	-73.38333	BS	13
+Sandy Point	26.02052	-77.39	BS	50
+Sandy Harbour	26.81667	-78.5	BS	54
+Sandy Cay	25.41667	-79.2	BS	05
+Sandy Cay	24.33333	-77.81667	BS	38
+Sandy Cay	24.18333	-76.48333	BS	36
+Sandy Cay	23.31667	-75.11667	BS	15
+Sandy Cay	26.86667	-77.51667	BS	46
+Sandy Cay	26.81667	-79.03333	BS	54
+Sandy Cay	26.58333	-77.01667	BS	43
+Sandy Cay	25.5	-77.8	BS	32
+Sandy Cay	25.11667	-77.25	BS	23
+Sandy Cay	23.65	-77.68333	BS	51
+Sandy Cay	23.43333	-75.8	BS	10
+Sandy Cay	23.4	-75.43333	BS	10
+Sandy Cay	23.2	-75.28333	BS	15
+Sandilands Village	25.05	-77.31667	BS	23
+Sand Bank Cays	26.7	-77.26667	BS	28
+San Andros	25.06667	-78.05	BS	47
+Sampson Cay	24.21667	-76.46667	BS	36
+Samphire Cays	25.48333	-77.8	BS	32
+Samphire Cay	25.18333	-77.01667	BS	23
+Samana Cay	23.1	-73.7	BS	40
+Samama Cays	23.08333	-73.68333	BS	40
+Salvador Point	24.47974	-77.67505	BS	38
+Salt Cay Anchorage	25.16667	-77.3	BS	23
+Salt Cay	25.1	-77.3	BS	23
+Salt Cay	23.83333	-76.18333	BS	36
+Salina Point	22.21667	-74.3	BS	24
+Salina Point	22.2	-74.25	BS	24
+Cay Sal	23.7	-80.4	BS	05
+Sailor's Choice	26.5	-77.31667	BS	37
+Rum Cay	25.45	-78.03333	BS	32
+Rudder Cut Cay	23.88333	-73.25	BS	00
+Rudder Cut Cay	23.86667	-76.23333	BS	36
+Rudder Cut	23.85	-76.2	BS	36
+Round Cay	25.13333	-76.18333	BS	39
+Round Bush	24.76667	-78.3	BS	47
+Roses	22.98333	-74.88333	BS	15
+Rompidas	23.76667	-80.45	BS	05
+Rolleville	23.68333	-76	BS	10
+Rolletown	23.46667	-75.7	BS	10
+Rokers Point Settlement	23.61667	-75.91667	BS	10
+Roker's Cay	22.26667	-74.2	BS	24
+Roker's	24.51667	-75.58333	BS	06
+Roberts Town	26.66667	-78.95	BS	54
+Riding Point	26.73333	-78.16667	BS	41
+Riding Point	26.6	-78.23333	BS	41
+Riding Point	26.68333	-78.15	BS	41
+Richmond	22.8	-74.33333	BS	40
+Reids Cay	24.3	-77.9	BS	38
+Red Shank Cay	26.5	-77.73333	BS	41
+Red Shank Cay	24.4	-77.76667	BS	38
+Red Shank Cay	23.98333	-77.83333	BS	51
+Red Hole	22.25	-76.48333	BS	18
+Ratman Cays	23.7	-77.63333	BS	51
+Rat Cay	24.98333	-77.93333	BS	47
+Rat Cay	24.21667	-76.48333	BS	36
+Rat Cay	23.73333	-76.03333	BS	10
+Rat Cay	22.66667	-74.28333	BS	40
+Rat and Goat Cays	22.66667	-74.28333	BS	40
+Randall's Cay	26.68333	-77.53333	BS	28
+Ramsey	23.56667	-75.86667	BS	10
+Raineys Point	24.66792	-76.19362	BS	23
+Racoon Cut	22.33333	-75.8	BS	18
+Raccoon Cay	22.35	-75.81667	BS	18
+Queen's Cove	26.55	-78.71667	BS	54
+Queens Channel	23.33333	-77	BS	51
+Quarters	24.10382	-74.51899	BS	35
+Pyes Harbour	24.45	-77.6	BS	38
+Pye Point	25.08333	-77.98333	BS	47
+Pure Gold	23.96667	-77.53333	BS	51
+Pumpion Cay	24.7	-78.31667	BS	47
+Pudding Cut	23.73333	-76.11667	BS	10
+Powell Point	24.83364	-76.34219	BS	52
+Powell Cay	26.89685	-77.49322	BS	46
+Potter Cay	25.08333	-77.35	BS	23
+Pot Cay	24.36667	-77.81667	BS	38
+Port Royal	24.65	-75.73333	BS	06
+Port Nelson	23.64967	-74.84157	BS	49
+Portland Harbour	22.85	-74.35	BS	40
+Port Howe	24.15	-75.31667	BS	06
+Port Boyd	23.7	-74.85	BS	49
+Poison Point	24.81667	-76.2	BS	52
+Plum Cays	24.68333	-77.71667	BS	47
+Plana Cays	22.61667	-73.55	BS	24
+Pirates Well	22.43333	-73.06667	BS	16
+Pipe Cay	24.23333	-76.51667	BS	36
+Pinewood Gardens Estate	25.03333	-77	BS	23
+Pine Tree Cay	24.31667	-77.91667	BS	38
+Pine Cay	25.18333	-78.2	BS	47
+Pine Cay	24.33333	-77.85	BS	38
+Pinders Point	26.48333	-78.68333	BS	25
+Pinders	23.28333	-75.1	BS	15
+Pinder Point	26.5	-78.73333	BS	54
+Pimlico Cays	23.8	-76.18333	BS	36
+Pigeon Cays	24.88333	-77.9	BS	47
+Pigeon Cays	23.46667	-75.61667	BS	10
+Pigeon Cay	22.2	-75.75	BS	18
+Pigeon Cay	25.71667	-79.26667	BS	05
+Pigeon Cay	25.65398	-77.83058	BS	32
+Pigeon Cay	25.40975	-77.79277	BS	32
+Pigeon Cay	25.18333	-76.25	BS	39
+Pigeon Cay	23.7	-77.38333	BS	51
+Pigeon Cay	23.46667	-75.61667	BS	10
+Pierre Reef	25.56667	-76.78333	BS	22
+Petit Cay	25.76871	-77.83401	BS	32
+Peterson Cay	26.55	-78.51667	BS	54
+Perpall's Cay	23.46667	-75.83333	BS	10
+Pensacola Cays	26.97399	-77.69293	BS	46
+Pelican Point	26.38333	-77	BS	37
+Pelican Point	26.65	-78.08333	BS	41
+Pelican Harbour	26.38333	-77.01667	BS	37
+Pelican Harbour	26.38333	-77	BS	37
+Pelican Cays	26.4	-76.96667	BS	43
+Pelican Cay	25.27738	-76.33884	BS	48
+Pee Wee Point	23.68333	-74.91667	BS	49
+Pearson Cay	22.33333	-74.08333	BS	24
+Pear Cay	23.11667	-75.51667	BS	18
+Pear Cay	24.56667	-77.75	BS	38
+Pawpaw Cays	27.03333	-77.9	BS	43
+Paw Paw Cay	27.03333	-77.9	BS	43
+Paw Paw Cay	25	-77.95	BS	47
+Patton Cays	26.86667	-77.75	BS	46
+Parrot Cays	26.53333	-76.98333	BS	43
+Paradise Point	25.75	-79.26667	BS	05
+Palmetto Point	25.12462	-76.11783	BS	39
+Palmetto Point	25.16667	-76.16667	BS	39
+Palacca Point	21.41667	-73.43333	BS	13
+Palacca Bight	21.25	-73.25	BS	13
+Oyster Cay	24.71667	-76.81667	BS	10
+Owens Town	24.88333	-78.03333	BS	47
+Over Yonder Cay	24.21667	-76.46667	BS	36
+Outer Point Cay	26.55	-77.06667	BS	37
+Orange Cay	24.92752	-79.11833	BS	05
+O'Neils	23.5	-75.21667	BS	15
+Old Yankee Land	27.93333	-78.01667	BS	29
+Old Grays	23.21667	-75.08333	BS	15
+Old Fort Point	25.05	-77.48333	BS	23
+Old Culmers Point	24.82102	-76.15431	BS	52
+Old Bight Landing	24.21667	-75.38333	BS	06
+Old Bight	24.23037	-75.3796	BS	06
+Okra Cross Point	23.3	-75.11667	BS	15
+Ocean Point	26.28333	-77.01667	BS	37
+Ocean Cay	25.41667	-79.21667	BS	05
+Ocean Bight	23.58333	-75.85	BS	10
+Ocean Bight	21.25	-73.25	BS	13
+O'Brien Cay	24.33333	-76.55	BS	10
+Nurse Channel	22.51944	-75.84722	BS	18
+Nurse Cay	22.46667	-75.83333	BS	18
+Nunjack Channel	26.88333	-77.45	BS	43
+Nun Jack Cay	26.82407	-77.37096	BS	43
+Northwest Providence Channel	26.00833	-77.84347	BS	25
+Northwest Point	25.06667	-77.51667	BS	23
+Northwest Point	22.45613	-73.12951	BS	16
+North West Point	21.13333	-73.66667	BS	13
+North West Harbour	26.96667	-78.21667	BS	41
+Northwest Channel	25.45	-78.15	BS	32
+Northwest Cay	26.55	-77.83333	BS	41
+Northwest Cay	21.69386	-73.84739	BS	13
+North Shore	24.68333	-75.73333	BS	06
+North Palmetto Point	25.16667	-76.18333	BS	39
+Northern Bight	24.45	-77.7	BS	38
+North End Point	24.7	-75.73333	BS	06
+North End	23.68333	-75.33333	BS	15
+Northeast Providence Channel	25.73502	-76.95352	BS	00
+North East Point	24.65	-75.61667	BS	06
+Northeast Point	24.12136	-74.44939	BS	35
+Northeast Point	22.71667	-73.83333	BS	24
+Northeast Point	22.33333	-72.73333	BS	16
+North East Point	21.33333	-73.01667	BS	13
+Northeast Breaker	22.71667	-73.76667	BS	24
+North Dog	24.9	-76.8	BS	10
+North Channel Cay	22.53333	-75.85	BS	18
+North Cay	25.1	-77.43333	BS	23
+North Cay	22.55	-74.28333	BS	40
+North Cat Cay	25.56323	-79.29562	BS	05
+North Bimini	25.73554	-79.24646	BS	05
+Normans Castle	26.7	-77.43333	BS	46
+Noname Cay	26.75	-77.28333	BS	43
+No Bush Cay	23.13333	-75.5	BS	18
+Noah Bethel Cays	26.3	-77.06667	BS	37
+Nixon's Harbour	25.7	-79.3	BS	05
+Nicholls Town	25.12832	-77.97898	BS	47
+Nicholas Channel	23.41667	-80.08333	BS	25
+New Zealand Point	24.08333	-77.91667	BS	44
+Newton's Cay	23.66667	-75.31667	BS	15
+New Found Harbour	23.16667	-75.23333	BS	15
+New Cay	23.71667	-76.16667	BS	10
+New Bight	24.32078	-75.47002	BS	06
+Nesbitt Point	23.65	-74.88333	BS	49
+Nassau Harbour	25.1	-77.36667	BS	23
+Nassau Estate	25.03333	-77.28333	BS	23
+Nassau	25.05823	-77.34306	BS	23
+Mutton Fish Point	25.4	-76.58333	BS	48
+Mutton Fish Point	21.18333	-73.53333	BS	13
+Musha Cay	23.88333	-76.25	BS	36
+Murphy Town	26.55	-77.1	BS	37
+Munnings Knoll	25.15	-79.05	BS	05
+Muertos Cays	24.01667	-80.08333	BS	05
+Mudian Harbour	22.12727	-74.31667	BS	24
+Muddy Point	23.93333	-77.81667	BS	51
+Mucaras Reef	22.2	-77.26667	BS	00
+Moxey Town	24.2954	-77.67995	BS	44
+Mouth of Harbour Cay	26.53333	-76.96667	BS	43
+Moss Town	24.24618	-75.38681	BS	06
+Moss Town	23.51667	-75.83333	BS	10
+Moss Town	22.8	-74.25	BS	40
+Moselle Bank	25.81667	-79.28333	BS	05
+Mortimers	22.9	-74.86667	BS	15
+Moriah Harbour Cay	23.46667	-75.66667	BS	10
+Morgan's Bluff	25.16667	-78.03333	BS	47
+Morgan's Bluff	25.16667	-78.03333	BS	47
+Moraine Cay Channel	27.05	-77.73333	BS	43
+Moraine Cay	27.05	-77.76667	BS	43
+Montreal	23.95637	-74.49443	BS	35
+Fort Montague	25.08333	-77.31667	BS	23
+Money Point	25.16667	-78.05	BS	47
+Money Cay	26.8	-78.51667	BS	54
+Money Cay	25.65	-77.81667	BS	32
+Mira Por Vos	22.06667	-74.63333	BS	24
+Middle Isaac	25.95	-78.86667	BS	05
+Middle Ground	24.93333	-77	BS	10
+Middle Cay	23.93333	-74.46667	BS	35
+Middle Bight Cay	24.31073	-77.65969	BS	44
+Middle Bight Cay	24.16054	-77.7396	BS	44
+Middle Bight	24.31355	-77.70278	BS	38
+Michelson	23.49052	-75.7658	BS	10
+Melita Cay	22.98333	-75.75	BS	18
+McQueens	24.16667	-75.46667	BS	06
+McLeans Town	26.6	-77.95	BS	41
+McKenzie	23.13333	-75.06667	BS	15
+McKenzie	23.01667	-74.88333	BS	15
+McKay's Bluff	22.75	-74.16667	BS	40
+McKanns	23.36667	-75.16667	BS	15
+Maycock Cay	22.31389	-75.75556	BS	18
+Mayaguana	22.36667	-73.01667	BS	16
+Matt Lowe's Cay	26.56667	-77.01667	BS	37
+Mattis Point	26.56667	-77.26667	BS	37
+Matthew Town	20.94982	-73.67346	BS	13
+Mather Town	26.55	-78.58333	BS	54
+Matanilla Shoal	27.35	-79.06667	BS	00
+Matanilla Reef	27.36667	-78.68333	BS	29
+Mastic Point	26.38333	-77.3	BS	37
+Mastic Point	25.05843	-77.95881	BS	47
+Mastic Point	25.06729	-77.96937	BS	47
+Mastic Cay	24.62496	-77.69805	BS	47
+Mastic Cay	24.3	-77.8	BS	38
+Mary Cays	21.98333	-72.03333	BS	00
+Martin Town	26.53333	-78.8	BS	54
+The Marls	26.5	-77.25	BS	37
+Market Fish Cays	25.66667	-77.75	BS	32
+Market Fish Cay	25.66447	-77.75668	BS	32
+Marions Bluff	25.01667	-76.13333	BS	23
+Margaret Cay	22.32	-75.775	BS	18
+Man o' War Point	24.66667	-75.41667	BS	06
+Man of War Cay	24.53333	-77.71667	BS	38
+Man o' War Cay	26.68333	-78.91667	BS	54
+Man of War Sound	24.55	-77.75	BS	38
+Man-of-War Channel	22.76667	-75.88333	BS	18
+Man of War Channel	26.61667	-77.01667	BS	43
+Man of War Cays	25.3	-78.18333	BS	47
+Man of War Cay	26.59749	-77.01309	BS	43
+Man of War Cay	26.59749	-77.01309	BS	43
+Man of War Cay	23.46667	-75.68333	BS	10
+Man-of-War Cay	22.8	-75.88333	BS	18
+Man-of-War Cay	22.31667	-74.11667	BS	24
+Man-of-War Bush	26.06667	-77.35	BS	50
+Man Head Cay	25.11667	-74.43333	BS	00
+Major's Spot	24.18333	-76.45	BS	36
+Majors	22.68333	-74.11667	BS	40
+Major Cay Harbour	22.73333	-74.13333	BS	40
+Magallanes Bank	22	-76.13333	BS	18
+Madioca Point	26.48333	-78.68333	BS	25
+Madiera Cay	24.32082	-77.73025	BS	00
+Mackie Shoal	25.63333	-78.73333	BS	05
+Mackie Bank	25.55	-78.78333	BS	05
+Mackerel Point	25.21667	-76.25	BS	27
+Macbride	25.06667	-77.46667	BS	23
+Lynyard Cay	26.36667	-76.96667	BS	43
+Lyford Cay	25.03333	-77.56667	BS	23
+Lydia Point	21.25	-73.11667	BS	13
+Lucretia Point	22.2	-75.73333	BS	18
+Lucian Cay	22.66667	-74.28333	BS	40
+Lucaya	26.53333	-78.66667	BS	25
+Lubbers Quarters	26.5	-77	BS	43
+Low Water Harbour Cay	22.41667	-75.81667	BS	18
+Low Point	22.4	-72.88333	BS	16
+Low Point	22.33333	-73.05	BS	16
+Lowe Sound	25.15	-78.11667	BS	47
+Lowe Sound	25.15	-78.06667	BS	47
+Lower Wreck Point	25.11667	-76.1	BS	39
+Lower Deadman's Cay	23.1664	-75.09602	BS	15
+Lower Crisby Swash	26.8	-78.56667	BS	54
+Lower Chub Point	25.4	-77.91667	BS	32
+Lower Bogue	25.46667	-76.71667	BS	48
+Low Cay	23.93333	-74.46667	BS	35
+Low Cay	22.31487	-72.66284	BS	16
+Low Born Cay	24.68333	-76.8	BS	10
+Love	25.06667	-77.5	BS	23
+Louis Town	25.55	-79.28333	BS	05
+Long Point	25.18333	-76.23333	BS	39
+Long Point	25.10107	-76.12088	BS	23
+Long Point	25.01667	-77.33333	BS	23
+Long Cay	26.53333	-77.81667	BS	41
+Long Cay	25.22533	-78.10954	BS	47
+Long Cay	25.1	-77.4	BS	23
+Long Cay	24.67307	-76.80834	BS	10
+Long Cay	22.60244	-74.33161	BS	40
+Long Cay	26.21667	-77.15	BS	50
+Lone Pine Cay	24.11667	-77.71667	BS	44
+Loggerhead Point	25.01327	-78.1381	BS	47
+Lockhart Cay	26.58333	-77.35	BS	37
+Lobster Cay	24.68333	-76.81667	BS	10
+Cay Lobos	22.37944	-77.58631	BS	51
+Loafers Seat	26.55	-77.06667	BS	37
+Little Whale Cay	26.66667	-78.83333	BS	54
+Little Whale Cay	25.44843	-77.76003	BS	32
+Little Wax Cay	24.56523	-76.78774	BS	10
+Little Walker Cay	27.26667	-78.4	BS	42
+Little Stirrup Cay	25.81667	-77.93333	BS	32
+Little San Salvador	24.58333	-75.91667	BS	06
+Little Sale Cay	27.05	-78.16667	BS	29
+Little Romers Cay	27.15	-78.18333	BS	43
+Little Petit Cay	25.77253	-77.83487	BS	32
+Little Nurse Cay	22.45	-75.83333	BS	18
+Little Major's Spot	24.18333	-76.45	BS	36
+Little Lloyd Cay	24.36667	-77.83333	BS	38
+Little Joe Downer Cay	26.65	-77.45	BS	37
+Little Isaac	25.98333	-78.9	BS	05
+Little High Cay	26.78333	-78.6	BS	54
+Little Harbour Cay	25.56667	-77.71667	BS	32
+Little Harbour	26.31667	-76.98333	BS	31
+Little Harbour	22.98333	-74.85	BS	15
+Little Grand Cay	27.21667	-78.31667	BS	42
+Little Crab Cay	26.58333	-78.7	BS	54
+Little Cistern Cay	24.45949	-76.74105	BS	10
+Little Cay	25.15	-76.11667	BS	39
+Little Cave Cay	26.88333	-77.88333	BS	46
+Little Carters Cay	27.06667	-77.98333	BS	43
+Little Bersus Cay	26.6	-77.76667	BS	41
+Little Bell Cay	24.3	-76.53333	BS	36
+Linder Cay	24.18333	-77.66667	BS	44
+Lily Bank	27.25	-78.65	BS	29
+Lilly Cay	26.3	-77.66667	BS	45
+Lignumvitae Cay	25.79568	-77.89568	BS	32
+Lignumvitae Cay	23.83333	-76.2	BS	36
+Lightbourn's Cay	26.58333	-77.86667	BS	41
+Laughing Bird Cay	25.18333	-76.25	BS	39
+Larks Nest	23.08333	-77.43333	BS	51
+Lark Channel	23.33333	-76.66667	BS	51
+Large Hole	22.31667	-76.4	BS	18
+Lanzadera Cay	22.96667	-75.78333	BS	18
+Lanthorn Head	25.88333	-77.18333	BS	50
+Lantern Head Harbour	20.95631	-73.28259	BS	13
+Lantern Head	20.96667	-73.33333	BS	13
+Landrail Point	22.83333	-74.35	BS	40
+Landrail Point	22.8	-74.35	BS	40
+Labanderas Reef	22.3	-77.5	BS	00
+Knowles Village	24.4	-75.48333	BS	06
+Kits Cay	24.56667	-77.73333	BS	38
+Killarney	25.05	-77.41667	BS	23
+Kidds Cove	23.5	-75.76667	BS	10
+Kemp Cay	25.7	-77.81667	BS	32
+Kemp Cay	24.23333	-76.5	BS	36
+Junker's Landing	23.15	-75.08333	BS	15
+Jumentos Cays	22.7	-75.91667	BS	18
+Joulter Cays	25.28048	-78.0984	BS	47
+Josephs Cay	24.9442	-76.15105	BS	23
+Johnson Cay	22.34278	-75.77472	BS	18
+Johnny's Cay	26.56667	-76.96667	BS	43
+John Cash Point	26.55	-77.01667	BS	37
+Joe Downer Cays	26.63333	-77.43333	BS	37
+Joe Cays	27.1	-78.05	BS	43
+Joe Cay	24.25	-76.5	BS	36
+Jim Point	22.23333	-74.21667	BS	24
+Jewfish Cay	23.45	-75.93333	BS	10
+James Point	25.35	-76.4	BS	48
+James Cistern	25.31667	-76.36667	BS	48
+James Cay	22.33472	-75.79222	BS	18
+Jamaica Well Point	22.23333	-74.25	BS	24
+Jamaica Cay	22.73333	-75.9	BS	18
+Jamaica Cay	22.38333	-74.11667	BS	24
+Jacob Cay	26.56667	-77.78333	BS	41
+Jacks Bluff	24.78333	-76.18333	BS	23
+Jack Fish Channel	23.68333	-77.66667	BS	51
+Iron Cay	26.41667	-77.03333	BS	37
+Indian Hole	23.38333	-75.18333	BS	15
+Indian Head Point	23.36667	-75.16667	BS	15
+Indian Cay	26.71211	-78.99745	BS	54
+Inagua	21.07694	-73.31167	BS	13
+Iguana Cay	24.03333	-77.71667	BS	30
+Hut Point	25.23333	-76.26667	BS	48
+Hurricane Hole	26.33333	-77.01667	BS	37
+Hurricane Hole	23.71667	-77.58333	BS	51
+Hunters	26.48333	-78.71667	BS	54
+Hose Point	24.13333	-77.68333	BS	44
+Hope Town	26.54339	-76.96077	BS	31
+Hope Estate	26.66667	-78.93333	BS	54
+Holm Cays	25.6	-79.33333	BS	05
+Hole in the Wall	25.85	-77.16667	BS	50
+Holdiday Track	24.01667	-74.45	BS	35
+Hogsty Reef	21.68333	-73.81667	BS	13
+Hog Point	25.1	-77.35	BS	23
+Hog Point	22.23333	-75.76667	BS	18
+Hog Cays	26.95	-77.6	BS	43
+Hog Cay Airstrip	23.60135	-75.339	BS	15
+Hog Cay Cut	23.4	-75.53333	BS	10
+Hog Cay	25.2	-78.06667	BS	47
+Hog Cay	23.59821	-75.34055	BS	15
+Hog Cay	23.46667	-75.85	BS	10
+Hog Cay	23.4	-75.46667	BS	10
+Hog Cay	22.25	-75.76667	BS	18
+Hoffmans Cay	25.63333	-77.73333	BS	32
+Hobson Breaker	22.11806	-75.69472	BS	18
+High Point Cay	23.9	-77.5	BS	51
+High Point	23.9	-77.51667	BS	51
+High Cay	23.95	-74.46667	BS	35
+High Cay	26.9	-77.41667	BS	43
+High Cay	25.68333	-77.76667	BS	32
+High Cay	25.55	-77.7	BS	32
+High Cay	24.65	-77.7	BS	47
+Highbourn Cut	24.73333	-76.81667	BS	10
+Highbourn Cay	24.72189	-76.82035	BS	36
+Hermitage	23.51667	-75.83333	BS	10
+Head of Harbour	26.58333	-77	BS	43
+Hawks Nest Point	24.14938	-75.53156	BS	06
+Hawksnest Cay	24.3	-74.46667	BS	35
+Hawk's Nest Cay	25.74555	-77.81925	BS	32
+Hawks Nest	24.15881	-75.50938	BS	06
+Hawks Nest	24.15	-75.51667	BS	06
+Hawksbill Cays	26.93333	-77.78333	BS	46
+Hawksbill Cay	24.47637	-76.76783	BS	36
+Hawksbill	26.5	-78.73333	BS	54
+Hawk Point	25.54964	-76.66732	BS	48
+Hatchet Point	25.35	-76.48333	BS	48
+Harvey Cays	24.15	-76.48333	BS	36
+Harvey Cay	24.15	-76.46667	BS	36
+Hartswell	23.43333	-75.66667	BS	10
+Harry Point	22.5	-73.05	BS	16
+Harbour Estate	24.1	-74.51667	BS	35
+Hanover Sound	25.1	-77.28333	BS	23
+Haines Channel	24.76667	-77.81667	BS	47
+Haines Cay	25.71667	-77.81667	BS	32
+Haines Bluff	25.7229	-77.82801	BS	32
+Gun Point	22.68333	-74.26667	BS	40
+Gun Point	20.95	-73.21667	BS	13
+Gun Cay	25.58333	-79.33333	BS	05
+Gun Bluff	22.83333	-74.31667	BS	40
+Guinchos Cay	22.75	-78.1	BS	00
+Guano Point	22.35	-72.96667	BS	16
+Guano Cay	25.56667	-77.73333	BS	32
+Guana Cay	24.13333	-75.31667	BS	06
+Guana Cay	24.98333	-77.45	BS	23
+Guana Cay	24.07679	-74.4946	BS	35
+Guana Cay	24.08333	-76.38333	BS	36
+Guana Cay	26.01667	-77.38333	BS	50
+Guana Cay	22.46667	-74.23333	BS	40
+Ground Corn Point	24.87569	-76.13508	BS	23
+Grindstone Point	24.96667	-76.13333	BS	10
+Griffins Cay	23.6	-76.01667	BS	10
+Gregory Town	25.4	-76.55	BS	48
+Green Turtle Village	26.81667	-77.45	BS	46
+Green Turtle Cay	26.75818	-77.32482	BS	43
+Green Turtle Cay	26.76799	-77.33079	BS	43
+Green's Harbour	24.05548	-74.43769	BS	00
+Green Cay	25.11667	-77.2	BS	23
+Green Cay	24.58333	-77.7	BS	38
+Green Cay	24.1397	-74.50799	BS	35
+Green Cay	24.03785	-77.10918	BS	51
+Green Castle	24.79834	-76.27378	BS	52
+Green Bush	25.48333	-77.95	BS	32
+Great Stirrup Cay	25.83333	-77.9	BS	32
+Great Sale Cay	26.97979	-78.21638	BS	42
+Great Isaac	26.01527	-79.08342	BS	05
+Great Harbour Cay	25.7287	-77.84028	BS	32
+Great Harbour	23.11667	-74.98333	BS	15
+Great Guana Cay	26.66623	-77.11795	BS	43
+Great Guana Cay	26.67251	-77.13016	BS	43
+Great Guana Cay	24	-76.33333	BS	36
+Great Cay	25.1529	-76.13113	BS	39
+Great Bersus Cay	26.41667	-77.78333	BS	41
+Grays	23.25	-75.1	BS	15
+Grape Tree	26.03333	-77.18333	BS	50
+Grape Point	24.68333	-75.71667	BS	06
+Grand Pa's Channel	23.16667	-75.15	BS	15
+Grand Lucayan Waterway	26.55	-78.55	BS	54
+Grand Cays	27.23333	-78.31667	BS	42
+Grand Cay	27.21667	-78.33333	BS	42
+Grand Bahama Auxiliary Air Force	26.62789	-78.36496	BS	41
+Graham's Harbour	24.14187	-74.48185	BS	35
+Governor's Harbour	25.16667	-76.23333	BS	39
+Goulding Cay	24.05277	-74.43349	BS	35
+Goulding Cay	25.03333	-77.6	BS	23
+Gordon's Bluff	22.83333	-74.3	BS	40
+Gordon's	22.86667	-74.85	BS	15
+Gorda Cay	26.08216	-77.52202	BS	50
+Gorda Cay	26.09123	-77.54065	BS	34
+Goole Cay	26.35	-76.98333	BS	43
+Goodwill	22.53678	-73.87533	BS	24
+Golding Cays	25.2	-78.05	BS	47
+Golding Cay	24.22818	-77.6224	BS	44
+Goat Cay	24.73333	-77.78333	BS	47
+Goat Cay	24.6	-75.9	BS	06
+Goat Cay	22.68333	-74.28333	BS	40
+Glintons	23.63333	-75.3	BS	15
+Glenton Sound	23.6	-75.31667	BS	15
+Glass Window	25.43333	-76.61667	BS	48
+Glass Cay	23.7	-75.98333	BS	10
+Gingerbread Ground	25.9	-78.66667	BS	05
+Gilpin Point	26.1	-77.16667	BS	50
+Gilbert Grant	23.6	-75.91667	BS	10
+Gibson Cay	24.32864	-77.68218	BS	38
+Georgetown Harbour	23.49871	-75.76262	BS	10
+George Town	23.51616	-75.78665	BS	10
+Gaulin Cay	24.11667	-76.4	BS	36
+Gaulding Cay	25.03664	-76.11635	BS	23
+Garden Cay	26.58333	-77.01667	BS	43
+Gambier Village	25.06667	-77.5	BS	23
+Galloway Landing	23.08333	-75.05	BS	15
+Galloway Landing	23.06667	-74.96667	BS	15
+Galliot Cut	23.91667	-76.25	BS	36
+Galliot Cay	23.9	-76.26667	BS	36
+Galliot Cay	23.63333	-75.33333	BS	15
+Galliot Bank	23.88333	-76.26667	BS	36
+Gaitor's	24.46667	-75.55	BS	06
+French Wells	22.68333	-74.28333	BS	40
+French Wells	22.68333	-74.3	BS	40
+French Cay	21.5	-72.21667	BS	00
+Freetown	26.56667	-78.45	BS	54
+Freetown	24.3033	-75.43058	BS	06
+Freeport Harbour	26.5	-78.76667	BS	54
+Freeport	26.53333	-78.7	BS	25
+Frazer's Hog Cay	25.41397	-77.8571	BS	32
+Frankfort Point	24.13641	-75.40483	BS	06
+Fox Town	26.91667	-77.8	BS	46
+Fowl Cay	26.63333	-77.05	BS	43
+Fowl Cay	24.1935	-76.46399	BS	36
+Fowl Cay	24.26667	-76.53333	BS	36
+Ford	22.91667	-74.86667	BS	15
+Foots Cay	26.65	-77.11667	BS	43
+Fleeming Point	24.98333	-77.5	BS	23
+Fleeming Channel	25.26667	-76.93333	BS	48
+Flamingo Point	26.68333	-77.41667	BS	46
+Flamingo Point	24.68333	-75.68333	BS	06
+Flamingo Point	24.51667	-77.71667	BS	38
+Flamingo Cay	22.9	-75.86667	BS	18
+Fish Point	26.78333	-77.45	BS	46
+Fishing Cays	24.98333	-77.46667	BS	23
+Fish Hawk Cay	26.61667	-77.03333	BS	43
+Fish Cays	27.06667	-77.81667	BS	43
+Fish Cays	26.63333	-77.15	BS	31
+Fish Cays	25.45	-77.83333	BS	32
+Fish Cays	25.25	-78.18333	BS	47
+Fish Cay	25.48333	-77.83333	BS	32
+Fish Cay	22.5	-74.26667	BS	40
+Finley Cay	25.1271	-76.745	BS	10
+Fort Fincastle	25.08333	-77.36667	BS	23
+Fifteen Feet Cay	24.08333	-77.53333	BS	51
+Fiddle Cay	26.80392	-77.34461	BS	43
+Fernandez Cay	24.35	-75.5	BS	06
+Ferguson Point	23.49253	-75.25738	BS	15
+Fat Turtle Sound	24.4	-77.73333	BS	38
+Farquharson	24	-74.46667	BS	35
+Fanny Cay	25.6847	-77.83779	BS	32
+Exuma Sound	24.25	-76	BS	06
+Exuma Harbour	23.56667	-75.8	BS	10
+Exuma Cays	24.25	-76.5	BS	36
+Exuma Bank	23.58333	-76.16667	BS	10
+Entrance Point	25.71667	-79.28333	BS	05
+Englerston	25.05	-77.33333	BS	23
+Elizabeth Harbour	23.50796	-75.73009	BS	10
+Cape Eleuthera	24.84252	-76.34056	BS	52
+Elbow Cays	23.93333	-80.45	BS	05
+Elbow Cay	26.48688	-76.98707	BS	43
+Elbow Cay	24.51667	-76.81667	BS	10
+Elbow Cay	23.95	-80.48333	BS	05
+Elbow Bank	25.38333	-78.86667	BS	05
+Egg Reef	25.56667	-76.81667	BS	22
+East Wells	25.73333	-77.23333	BS	05
+East Reef	22.3	-72.68333	BS	16
+East Isaac	25.95	-78.85	BS	05
+Eastern Point	25.03333	-77.25	BS	23
+Eastern Channel	25.06667	-77.3	BS	23
+East Entrance	22	-74.33333	BS	24
+East End Point	26.58333	-77	BS	43
+East End Point	26.53333	-77.83333	BS	41
+East End Point	25.05	-77.26667	BS	23
+East End Point	24.61815	-76.14676	BS	52
+East Brother	26.03333	-79.01667	BS	05
+Dunmore Town	25.50216	-76.63633	BS	22
+Dunmore	23.05	-74.9	BS	15
+Dundas Town	26.55	-77.08333	BS	37
+Dunc Cays	26.51667	-77.36667	BS	37
+Duncan Town	22.19083	-75.72583	BS	18
+Duncanson Point	23.23333	-75.13333	BS	15
+Duncan Point	24.1	-77.53333	BS	51
+Dumfries	24.63333	-75.66667	BS	06
+Duck Cays	23.45	-75.98333	BS	10
+Duck Cay	26.28333	-77.08333	BS	37
+Duck Cay	23.45	-76.03333	BS	10
+Dry Cay	26.55	-77.16667	BS	37
+Dove Cay	23.56667	-75.33333	BS	15
+Douglas Channel	25.13333	-77.11667	BS	23
+Douds	24.28006	-75.40741	BS	06
+Double Headed Shot Cays	23.93333	-80.46667	BS	05
+Double Breaster Cays	27.2	-78.26667	BS	42
+Double Breasted Cay	27.18333	-78.26667	BS	42
+Double Breasted Cay	22.32889	-75.76056	BS	18
+Dolly's Cut	23.65	-77.36667	BS	51
+Dolly's Cay	23.65	-77.36667	BS	51
+Dollar Harbour	25.51667	-79.26667	BS	05
+Doghead Point	21.1	-73.06667	BS	13
+Dixons	24.1	-74.45	BS	35
+Dilly Cay	26.6	-77.01667	BS	43
+Dicks Point	25.06667	-77.3	BS	23
+Dickies Cay	26.6	-77.01667	BS	43
+Diana Bank	22.51667	-74.78333	BS	24
+Diamond Point	22.16667	-77.33333	BS	00
+Diamond Crystal	23.03333	-74.93333	BS	15
+Diamond Cay	25.4	-77.88333	BS	32
+Devils Point	24.11605	-75.46303	BS	06
+Devil's Point	22.36667	-73.16667	BS	16
+Devil's Point	21.0241	-73.69886	BS	13
+Devil's Point	24.11667	-75.46667	BS	06
+Devils Cay	25.6	-77.73333	BS	32
+Delaport Point	25.08333	-77.45	BS	23
+Delancey Town	24.76667	-76.26667	BS	52
+Deep Water Cay	26.61701	-77.92748	BS	41
+Deals Point	24.78333	-76.15	BS	52
+Deadman's Reef Point	26.5	-78.88333	BS	54
+Deadmans Reef	26.58333	-78.86667	BS	54
+Deadman's Cays	24.03333	-80.18333	BS	05
+Deadman's Cay	23.17919	-75.1131	BS	15
+Upper Channel Cay	23.23333	-75.23333	BS	15
+Davis Point	26.71667	-77.45	BS	46
+Darvill Cay	22.28333	-75.78333	BS	18
+Daniels Cay	26.88333	-77.86667	BS	46
+Dangerous Shoals	23.75	-79.71667	BS	05
+Danger Cay	24.41667	-76.68333	BS	10
+Cut Cay	24.12933	-74.45812	BS	35
+Curtis	23.63333	-75.96667	BS	10
+Curry Mury Point	24.5	-75.58333	BS	06
+Current Cut	25.41667	-76.8	BS	48
+Current	25.42171	-76.76291	BS	48
+Curley Cut Cays	23.65	-77.68333	BS	51
+Cupids Cay	25.19167	-76.25	BS	39
+Cunningham	25.08333	-77.43333	BS	23
+Culmer's Cay	23.45	-75.91667	BS	10
+Culberts Point	25.03333	-77.25	BS	23
+Crown Point	24.93291	-76.14959	BS	23
+Crown Haven	26.9	-77.81667	BS	46
+Cross Harbour Point	25.91948	-77.2639	BS	50
+Cross Harbour	25.96667	-77.3	BS	50
+Cross Cays	26.79493	-77.90883	BS	46
+Cross Cays	25.12978	-78.2045	BS	47
+Cross Cay	26.58333	-78.71667	BS	54
+Cristophe Point	21.2	-73	BS	13
+Crisby Swash	26.83333	-78.58333	BS	54
+Crab Cay	26.93333	-77.6	BS	46
+Crab Cay	26.81312	-77.35753	BS	43
+Crab Cay	26.6	-78.66667	BS	25
+Crab Cay	25.42049	-77.9074	BS	32
+Crab Cay	25.2	-78.21667	BS	47
+Crab Cay	23.503	-75.75108	BS	10
+Cow and Bull	25.43333	-76.6	BS	48
+Covery Bight	22.58333	-73.93333	BS	24
+Cove Point	22.71667	-74	BS	40
+Coventry Bight	22.63333	-74.06667	BS	24
+Cove	24.41667	-75.53333	BS	06
+Cotton Point	24.78346	-76.16929	BS	23
+Corry Sound	25	-77.5	BS	23
+Cornwall Point	26.63333	-77.05	BS	43
+Cornwall Point	26.2	-77.25	BS	50
+Cornishtown	26.86289	-77.52717	BS	46
+Cornish Cay	26.4	-77	BS	43
+Cormorant Point	26.71667	-78.63333	BS	54
+Cormorant Point	23.86667	-77.81667	BS	51
+Cormorant Cay	26.46667	-77.05	BS	37
+Cormorant Cay	25.5	-77.81667	BS	32
+Coral Heights	25	-77.45	BS	23
+Coral Harbour	24.96667	-77.46667	BS	23
+Cooper's Town	26.86667	-77.51667	BS	46
+Cook's Cay	23.73333	-76.16667	BS	10
+Congo Town	24.16614	-77.58425	BS	51
+Conch Sound	25.11667	-77.98333	BS	47
+Conch Sound	25.1	-77.98333	BS	47
+Conch Shell Point	20.95	-73.48333	BS	13
+Conchshell Cay	27.23333	-78.33333	BS	42
+Conch Cut	24.3	-76.55	BS	10
+Conch Cay	23.55	-75.8	BS	10
+Comfort Cay	25.48333	-76.76667	BS	48
+Comfort Cay	25.58333	-77.73333	BS	32
+Columbus Point	24.13333	-75.26667	BS	06
+Columbus Bank	22.1	-75.41667	BS	18
+Colebrooke Dale	25.2	-76.25	BS	27
+Coconut Point	25.11667	-77.98333	BS	47
+Coco Cay	22.14806	-75.69333	BS	18
+Cocoa Plum Cay	24.65	-77.71667	BS	47
+Cockroach Cay	25.46075	-77.79333	BS	32
+Cockburn Town	24.05179	-74.53138	BS	35
+Cochrane Anchorage	25.08333	-77.11667	BS	23
+Cochinos Banks	22.41667	-76.25	BS	18
+Coakley Town	24.72625	-77.79488	BS	47
+Coakley Cay	23.43333	-76	BS	10
+Cluffs Cay	23.68333	-76.08333	BS	10
+Clifton Point	25.01667	-77.56667	BS	23
+Clifton Bluff	25.01667	-77.56667	BS	23
+Clifton	25.01667	-77.56667	BS	23
+Clem Cay	23.08333	-74.93333	BS	15
+Clarion Bank	20.83333	-74	BS	13
+Claret Cove	22.4	-73.93333	BS	24
+Clarence Town	23.1	-74.98333	BS	15
+Cistern Point	23.71667	-77.58333	BS	51
+Cistern Cay	26.56667	-77.11667	BS	37
+Cistern Cay	25.77361	-77.88573	BS	32
+Cistern Cay	24.43333	-76.71667	BS	10
+Chub Cay	25.41254	-77.90264	BS	32
+Chesters	22.7	-73.91667	BS	24
+Cherokee Sound	26.27729	-77.06197	BS	37
+Cherokee Sound	26.28333	-77.03333	BS	37
+Cherokee Point	26.26667	-77.05	BS	37
+Fort Charlotte	25.08333	-77.38333	BS	23
+Channel Cays	23.43333	-75.83333	BS	10
+Channel Cay	26.41667	-77	BS	43
+Channel Cay	22.51667	-75.85	BS	18
+Chalk Sound	26.13333	-77.21667	BS	50
+Cedar Harbour	26.91667	-77.63333	BS	46
+Cays to Eleuthera	25.16667	-77	BS	23
+Cay Point	24.98333	-77.41667	BS	23
+The Cay	25.2	-76.25	BS	27
+Cave Point	25.06667	-77.46667	BS	23
+Cave Cay	26.85648	-77.8853	BS	46
+Cave Cay	23.9	-76.28333	BS	36
+Catto Cay	24.14078	-74.47177	BS	35
+Cat Cays	25.53333	-79.28333	BS	05
+Cat Cay	25.41328	-77.81028	BS	32
+Cashs Cay	26.86667	-77.86667	BS	46
+Cartwright	23.13333	-75.06667	BS	15
+Carter's Cays	27.06757	-78.03104	BS	42
+Carrion Crow Harbour	26.63333	-77.88333	BS	41
+Carmichael Village	25.01667	-77.43333	BS	23
+Carmichael	23.65	-74.95	BS	49
+Cargill Cay	24.46667	-77.71667	BS	38
+Cape Santa Maria	23.64885	-75.32304	BS	15
+Calm Cove	21.31667	-73.06667	BS	13
+California Sound	26.25	-77.21667	BS	31
+Calabash Cay	24.88333	-77.91667	BS	47
+Cairey's	24.48333	-75.56667	BS	06
+Caeser Cay	25.68333	-77.81667	BS	32
+Cabbage Point	22.91667	-74.88333	BS	15
+Cabbage Cay	25.56667	-77.71667	BS	32
+Bushes	25.45	-78	BS	32
+Burrows Harbour	22.91667	-74.83333	BS	15
+Burnt Ground	23.61126	-75.28682	BS	15
+Burnside Cove	26.58333	-78.43333	BS	54
+Burnside Cay	25.06667	-77.41667	BS	23
+Bullocks Harbour	25.75205	-77.86895	BS	32
+Buena Vista Cay	22.43333	-75.83333	BS	18
+Buckley's Point	23.13333	-75.08333	BS	15
+Buckleys	23.15	-75.08333	BS	15
+Buckle Cut	25.40196	-77.8044	BS	32
+Brush Cays	26.85	-77.8	BS	46
+Brush Cay	26.63333	-77.05	BS	43
+Brush Cay	24.6	-77.73333	BS	26
+Browns Point	25.08333	-77.4	BS	23
+Browns Channel	25.38333	-79.21667	BS	05
+Brown's Cay	25.4	-79.21667	BS	05
+Browns	22.71667	-74.03333	BS	40
+Brown Bank	21.5	-74.73333	BS	00
+The Brothers	22.06667	-75.71667	BS	18
+The Brothers	22.01667	-75.76667	BS	18
+Broth Cay	24.41667	-77.75	BS	38
+Bristol Galley	24.51667	-77.7	BS	38
+Brigantine Cays	23.7	-76.13333	BS	10
+Breezy Point	21.18333	-73.46667	BS	13
+Braudies Point	26.53333	-78.73333	BS	54
+Braudie Point	26.53333	-78.81667	BS	54
+Bradford	25.06667	-77.51667	BS	23
+Bowe's Sound	24.6	-77.75	BS	26
+Bowers	23.25	-75.08333	BS	15
+Bowen Sound	24.58333	-77.73333	BS	38
+Bowe Cay	23.45	-75.95	BS	10
+Booby Cay	23.83333	-75.1	BS	49
+Booby Cay	22.32467	-72.71986	BS	16
+Bonefish Point	24.29485	-75.45955	BS	06
+Bonefish Cay	23.45	-75.78333	BS	10
+Bonds Cay	25.48333	-77.71667	BS	32
+Bock Cay	23.81667	-76.16667	BS	36
+Bob's Nose	22.43333	-73.91667	BS	24
+Bob Cay	23.66667	-75.95	BS	10
+Boat Harbour Point	26.55	-77.05	BS	37
+Boat Harbour	24.98333	-77.41667	BS	23
+Boat Channel	24.71269	-77.75728	BS	47
+Boar Hog Point	27.11667	-78.1	BS	43
+Bluff Cay	24.85	-76.8	BS	10
+Bluff Cay	25.21667	-76.23333	BS	27
+The Bluff	23.5	-75.83333	BS	10
+Bluff	25.78333	-79.31667	BS	05
+Bluff	24.51667	-75.58333	BS	06
+Blue Hole	22.16667	-76.46667	BS	18
+Blossom Channel	23.33333	-76.91667	BS	51
+Blanket Sound	24.85	-77.9	BS	47
+Blackwood Village	26.8	-77.43333	BS	46
+Blackwood Point	26.65	-78.05	BS	41
+Blackwood Point	22.43333	-73.06667	BS	16
+Black Wood Point	21.11667	-73.58333	BS	13
+Blackwood Bush	25.45	-78.03333	BS	32
+Blacksmith Landing	22.73333	-74.23333	BS	40
+Black Point	26.85	-77.61667	BS	46
+Black Point	26.7	-77.3	BS	37
+Black Point	24.08333	-76.4	BS	36
+Black Point	24.1	-76.38333	BS	36
+Black Point	23.98333	-77.55	BS	51
+Bitter Guana Cay	24.13333	-76.4	BS	36
+Bird Point	24.55	-75.56667	BS	06
+Bird Cay	25.13333	-76.18333	BS	39
+Bird Cay	25.6	-77.73333	BS	32
+Bird Cay	25.4	-77.81667	BS	32
+Big Wood Cay	24.35082	-77.71394	BS	38
+Big Wood	24.33333	-77.68333	BS	38
+Big Whale Cay	26.65	-78.83333	BS	54
+Big Thrift Harbour Cay	26.53333	-77.85	BS	41
+Big Romers Cay	27.16667	-78.2	BS	43
+Big Pigeon Cay	23.53333	-75.86667	BS	10
+Big Pelican	26.64347	-78.11331	BS	41
+Big Lloyd Cay	24.35	-77.85	BS	38
+Big Joe Downer Cay	26.61667	-77.43333	BS	37
+Big Jerry Cay	26.78333	-77.91667	BS	41
+Bight Point	25.36667	-76.8	BS	48
+The Bight	26.05	-77.33333	BS	50
+Big Hog Cay	26.95	-77.61667	BS	43
+Bighead Cay	26.83333	-78.55	BS	54
+Big Harbour Cay	26.65	-77.88333	BS	41
+Big Grand Cay	27.21667	-78.3	BS	42
+Big Fish Cay	27.03333	-77.83333	BS	43
+Big Cross Cay	26.81667	-77.93333	BS	46
+Big Cross Cay	26.56667	-77.81667	BS	41
+Big Crab Cay	26.46667	-77.26667	BS	37
+Big Cay	26.55	-77.06667	BS	37
+Big Carters Cay	27.08333	-78	BS	43
+Big Bluff	24.48333	-75.56667	BS	06
+Bevans Town	26.6	-78.31667	BS	41
+Bethel Channel	25.13333	-77.98333	BS	47
+Berrys	22.95	-74.88333	BS	15
+Ben's Landing	22.21667	-74.18333	BS	24
+Bennett's Harbour	24.58333	-75.63333	BS	06
+Ben Bluff	24.45	-75.53333	BS	06
+Behring Point	24.48004	-77.72355	BS	38
+Beacon Cay	24.9	-76.83333	BS	10
+Bastian Point	24.18333	-77.61667	BS	51
+Bastian Point	24.23461	-77.62529	BS	44
+Bassett Cove	26.61667	-78.31667	BS	41
+Base Line Cay	24.06667	-77.68333	BS	51
+Bannerman Town	24.66055	-76.18396	BS	23
+Bamboo Point	24.81667	-76.33333	BS	52
+Bamboo Point	24.03333	-74.51667	BS	35
+Bamboo Cay	26.81667	-77.5	BS	46
+Bamboo Cay	25.75015	-77.87092	BS	32
+Bakers Bluff	25.16667	-76.21667	BS	39
+Bain Town	24.15	-75.38333	BS	06
+Bain Town	26.51667	-78.78333	BS	54
+Bain Town	24.65	-75.71667	BS	06
+Bains Bluff	23.43553	-75.22545	BS	15
+Bains	23.45	-75.21667	BS	15
+Bailey Town	25.73333	-79.3	BS	05
+Bailey Town	24.15	-75.31667	BS	06
+Commonwealth of The Bahamas	25.04082	-77.37122	BS	00
+Back Cay	23.8	-76.16667	BS	36
+August Town	25.03333	-77.98333	BS	47
+August Cay	26.65	-77.9	BS	41
+Atwood Harbour	22.71667	-73.91667	BS	24
+Arthur's Town	24.6224	-75.67151	BS	06
+Archers Cay	26.6	-77.16667	BS	37
+Arawak Cay	25.08333	-77.36667	BS	23
+Anne's Tract Settlement	23.68333	-76.05	BS	10
+Anna Cay	26.55	-76.96667	BS	43
+Anguilla Cays	23.52716	-79.54556	BS	05
+Angel Fish Point	26.91667	-77.58333	BS	46
+Angel Cays	26.45	-77.05	BS	37
+Andros Town	24.7	-77.76667	BS	47
+Andros Central	24.72524	-77.98473	BS	47
+Andersons	23.21667	-75.08333	BS	15
+Anderson Cay	25.69398	-77.8299	BS	32
+Anderson	23.53333	-75.23333	BS	15
+Anderson	22.61667	-73.86667	BS	24
+Ambergris Cays	25.66667	-77.83333	BS	32
+Ambergris Cay	26.86667	-77.43333	BS	43
+Ambergris Cay	25.66946	-77.83599	BS	32
+Allon Cay	26.98333	-77.66667	BS	43
+Alligator Point	24.55	-75.68333	BS	06
+Allen	23.95	-74.51667	BS	35
+Allan Cays	24.75	-76.83333	BS	10
+Alice Town	25.71667	-79.3	BS	05
+Alice Town	25.33333	-76.43333	BS	48
+Alfred Sound	21.16667	-73.6	BS	13
+Alexander	23.65	-76.01667	BS	10
+Alder's Cay	25.53333	-77.7	BS	32
+Alboy Hole	20.93333	-73.58333	BS	13
+Albert Town	22.6	-74.35	BS	24
+Adeline Cay	22.17861	-75.70917	BS	18
+Adelaide	25.00264	-77.51783	BS	23
+Adderly	23.58059	-75.2542	BS	15
+Adderley Cay	23.78333	-76.11667	BS	10
+The Bight of Acklins	22.5	-74.25	BS	40
+Acklins	22.65	-73.86667	BS	24
+Abner Cay	25.68333	-77.78333	BS	32
+Abercorn	22.36667	-73.95	BS	24
+Middle Ground	29.51667	-75.875	BS	00
+Middle Knoll	29.51667	-75.88333	BS	00
+Knife Cay	29.36806	-75.84444	BS	00
+Frog Cay	29.375	-75.84222	BS	00
+Sister Cays	29.54722	-75.86806	BS	00
+Upper Ending Point	26.61667	-78.23333	BS	41
+Bell Channel	26.51111	-78.63611	BS	25
+Russell Town	26.51667	-78.7	BS	54
+Pinder Point Shoal	26.48333	-78.68333	BS	25
+Henry Bank	25.70417	-79.30833	BS	05
+Cat Point	25.52083	-79.25833	BS	05
+Goat Cay	25.81667	-77.90417	BS	32
+Sal Bank	23.75	-80	BS	05
+Nairn Cay	22.34944	-75.79	BS	18
+Ben Cay	22.34278	-75.79083	BS	18
+Twin Cays	22.33611	-75.78	BS	18
+Loggerhead Cay	22.3325	-75.76806	BS	18
+Golding Cay	22.32806	-75.76861	BS	18
+Fowl Cay	22.31528	-75.77	BS	18
+Salt Cay	22.21667	-75.75611	BS	18
+Bacchus Point	22.20944	-75.75528	BS	18
+Long Point	22.19667	-75.74861	BS	18
+Point Wilson	22.17	-75.73306	BS	18
+Indian Hole	22.17361	-75.73944	BS	18
+Limestone Bluff	22.19389	-75.72194	BS	18
+Lovers Leap	22.16833	-75.70111	BS	18
+West Point	22.16194	-75.71639	BS	18
+Middle Ground	22.85	-76.05	BS	18
+Jumentos Cays	23.13333	-75.5	BS	18
+Little Turtle	23.24778	-75.3	BS	15
+Channel Cay	23.56667	-75.81667	BS	10
+Allen Cay	23.71667	-76.16667	BS	10
+Cave Cay Cut	23.9	-76.25	BS	36
+Pigeon Cay	23.73056	-76.05	BS	10
+Tartar Bank	24.04167	-75.4675	BS	06
+Dolphin Head Bluff	24.1556	-75.5295	BS	06
+Sand Point	24.5	-75.75	BS	06
+Deep Hole	24.78333	-76.23056	BS	52
+Pineapple Cays	25.13333	-76.18333	BS	39
+Harbour Point	23.1025	-74.96	BS	15
+Sandy Point	23.10556	-74.94889	BS	15
+Lark Point	23.10667	-74.95306	BS	15
+South Palmetto Point	25.15	-76.17222	BS	39
+Pineapple Cays	25.15	-76.17778	BS	39
+Rainbow Cay	25.33333	-76.45	BS	48
+Hawksnest Cay	24.14583	-74.47083	BS	35
+Man Head Cay	24.12584	-74.4492	BS	35
+Sugar Loaf	24.0017	-74.53516	BS	35
+Sand Point	24.675	-75.75	BS	06
+Reef Harbour	24.15145	-75.33428	BS	06
+Dolphin Head	24.125	-75.41667	BS	06
+Signal Point	23.64303	-74.8084	BS	49
+The Bight of Acklins	22.5	-74.11667	BS	24
+Plana Cays	22.58333	-73.6	BS	24
+Red Shank Point	23.98333	-77.83333	BS	51
+Deep Hole	24	-77.9	BS	30
+Brown Cove	26.52528	-78.78722	BS	54
+Candle Cays	25.26528	-78.13194	BS	47
+New Town	25.0526	-77.98499	BS	47
+Scotts Cays	25.09639	-77.95861	BS	47
+Markey	24.48806	-77.72111	BS	38
+Lyford Cay Harbour	25.03778	-77.515	BS	23
+Little Pigeon Cay	24.51	-76.79333	BS	10
+The Hook	25.10972	-77.03333	BS	23
+Bush Cays	24.85194	-76.83917	BS	10
+Chalk Sound	24.18972	-77.98833	BS	38
+Victoria Point	24.23655	-77.62199	BS	44
+Alcorine Cay	24.09333	-77.8325	BS	44
+Leaf Cay	23.75417	-77.88444	BS	51
+Fish Cay	23.59778	-77.75556	BS	51
+Croton Cay	23.57028	-77.79333	BS	51
+Alabaster Bluff	25.25673	-76.32142	BS	48
+Sandy Cay	24.85361	-76.31972	BS	52
+Kemps Point	24.90639	-76.18333	BS	52
+Eva's Cay	23.32639	-75.12917	BS	15
+Leaf Cay	23.38694	-75.44389	BS	10
+Guana Cay	23.50088	-75.71134	BS	10
+Duck Cay	23.58361	-75.85694	BS	10
+Soldier Cay	23.66611	-75.9175	BS	10
+Green Turtle Cut	23.41889	-75.825	BS	10
+Tommy Young's Cay	23.48278	-75.91306	BS	10
+Jewfish Cut	23.47556	-75.9725	BS	10
+Clove Cay	23.68889	-76.09611	BS	10
+Simon's Point	23.50917	-75.82639	BS	10
+The Bluff	23.51444	-75.84611	BS	10
+Davy Cay	23.44167	-75.87139	BS	10
+Bock Cat Cay	23.73917	-76.20139	BS	10
+West Pimblico Cays	23.81917	-76.24806	BS	36
+East Pimblico Cays	23.80667	-76.21667	BS	36
+Lansing Cays	23.88028	-76.29472	BS	36
+Castle Bluff	24.14667	-75.50472	BS	06
+Hog Cay	24.37111	-76.60611	BS	10
+Dotham Cut	24.11111	-76.37417	BS	36
+Breezes Bahamas	25.07082	-77.39284	BS	
+Royal Towers	25.08436	-77.32377	BS	23
+The Cove Atlantis	25.0861	-77.327	BS	23
+Guanahani Village	25.0734	-77.408	BS	
+Kamalame Cay	24.648	-77.7267	BS	26
+RED APPLE BED AND BREAKFAST	25.4333	-76.7833	BS	22
+Treasure Cay	26.67691	-77.28581	BS	
+Eleuthera	25.136	-76.15023	BS	
+Highborne Cay	24.7096	-76.82278	BS	
+Alen cay	24.66987	-76.81061	BS	
+Rum Cay	23.67806	-74.85667	BS	49
+South Andros	23.92361	-77.64889	BS	51
+South Eleuthera	24.80083	-76.18306	BS	52
+Folw Cay	23.49588	-75.70408	BS	
+North Point	24.12747	-74.45736	BS	
+Three Sisters	24.12243	-74.44619	BS	
+Graham's Harbour	24.11903	-74.46438	BS	
+Potters Cay	25.07852	-77.31963	BS	
+Sandy Cay	25.09462	-76.14598	BS	
+Grand Bahama	26.66219	-78.54332	BS	54
+Unique Village	25.16997	-76.16805	BS	
+The Sugar Apple Bed And Breakfast	25.5	-76.6499	BS	
+Atlantis Royal Tower	25.08468	-77.32391	BS	
+Atlantis Coral Tower	25.0843	-77.3181	BS	
+Our Lucaya Reef Village	26.51004	-78.64209	BS	
+Hideaways Exuma	23.56913	-75.84545	BS	
+Atlantis The Reef	25.08265	-77.31808	BS	
+Oceanfrontier Hideaway	26.6687	-77.109	BS	
+The Reef At Atlantis	25.08395	-77.32289	BS	
+Pink Sand Villas	25.5035	-76.6344	BS	

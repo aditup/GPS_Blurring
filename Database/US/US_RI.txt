@@ -1,0 +1,1498 @@
+Wayland	41.77649	-71.46673	US	RI
+McGowan Corners	41.37899	-71.76173	US	RI
+Scrabbletown	41.59371	-71.48978	US	RI
+Rogers Lot	41.67677	-71.49173	US	RI
+Sweet Lot	41.54343	-71.55312	US	RI
+Indian Brook	42.00732	-71.39895	US	RI
+Aguntang Brook	41.38399	-71.4995	US	RI
+Albert Sweet Lot	41.54538	-71.55312	US	RI
+Albion	41.95121	-71.4545	US	RI
+Aldrich Tower	41.68316	-71.37783	US	RI
+Alewife Brook	41.42899	-71.56895	US	RI
+Allan Richard Brook	41.8576	-71.71923	US	RI
+Allen Cove	41.36982	-71.62312	US	RI
+Allen Cove	41.37232	-71.62673	US	RI
+Allen Ledge	41.73232	-71.34977	US	RI
+Allen Lot	41.59288	-71.56256	US	RI
+Allen Neck	41.74593	-71.35005	US	RI
+Allendale	41.8501	-71.47061	US	RI
+Allens Corner	41.62871	-71.48423	US	RI
+Allenton	41.54399	-71.46784	US	RI
+Almy Brook	41.54288	-71.20699	US	RI
+Almy Point	41.62899	-71.21921	US	RI
+Alton	41.4376	-71.71729	US	RI
+Ambrose Taylor Lot	41.69121	-71.43839	US	RI
+America Ledge	41.54843	-71.38839	US	RI
+American Legion Post Number 14	41.91593	-71.4045	US	RI
+Amos Whitford Lot	41.58093	-71.59256	US	RI
+Angell Brook	41.88704	-71.47367	US	RI
+Annaquatucket	41.55149	-71.44811	US	RI
+Annawomscutt Brook	41.74621	-71.34589	US	RI
+Annawomscutt	41.74038	-71.34394	US	RI
+Anthony	41.6951	-71.54923	US	RI
+Anthony Point	41.63482	-71.21227	US	RI
+Anthony-Arnold Lot	41.5551	-71.60479	US	RI
+Antushantuck Neck	41.79927	-71.46367	US	RI
+Apple Valley	41.90732	-71.57201	US	RI
+Apponaug	41.70038	-71.45978	US	RI
+Apponaug Cove	41.69371	-71.44867	US	RI
+Arcadia	41.55566	-71.69673	US	RI
+Arctic	41.70316	-71.52839	US	RI
+Arkwright	41.72871	-71.5484	US	RI
+Armington Corner	41.79816	-71.36339	US	RI
+Army and Naval YMCA	41.49094	-71.31311	US	RI
+Arnold Burying Ground	41.48594	-71.312	US	RI
+Arnold Lot	41.74705	-71.39422	US	RI
+Arnold Lounge	41.82427	-71.40311	US	RI
+Arnold Neck	41.69121	-71.45034	US	RI
+Arnold Point	41.62399	-71.27199	US	RI
+Arnold-Shearman Lot	41.50316	-71.51395	US	RI
+Asa Messer Annex	41.80927	-71.43756	US	RI
+Ashaway	41.42343	-71.78562	US	RI
+Ashton	41.93899	-71.43061	US	RI
+Ashton Viaduct	41.93871	-71.43284	US	RI
+Assapumpset Brook	41.84371	-71.47978	US	RI
+Athenaeum Row	41.82454	-71.40506	US	RI
+Auburn	41.77399	-71.42783	US	RI
+Austin	41.59066	-71.65507	US	RI
+Austin Hollow	41.46594	-71.39644	US	RI
+Avondale	41.33454	-71.83535	US	RI
+Babcock Cove	41.33788	-71.82701	US	RI
+Babcock Family Lot	41.42677	-71.75396	US	RI
+Bahia Corner	41.49455	-71.16171	US	RI
+Bailey Brook	41.50566	-71.29088	US	RI
+Baileys Butts	41.84871	-71.39506	US	RI
+Baileys Lower Cove	41.8376	-71.37867	US	RI
+Baileys Upper Cove	41.84066	-71.37839	US	RI
+Baker Brook	41.54204	-71.69673	US	RI
+Balls Cove	41.2101	-71.55533	US	RI
+Balls North Point	41.21288	-71.55422	US	RI
+Balls Point	41.20816	-71.55561	US	RI
+Balm of Gilead Corner	41.66316	-71.54284	US	RI
+Bates Lot	41.53316	-71.59034	US	RI
+Bear Brook	41.66343	-71.62062	US	RI
+Bear Point	41.6576	-71.33755	US	RI
+Bear Tree Brook	41.78232	-71.6734	US	RI
+Beaverhead	41.49371	-71.39728	US	RI
+Beavertail Point	41.44899	-71.3995	US	RI
+Belcher Cove	41.73705	-71.28033	US	RI
+Belleville	41.55399	-71.46867	US	RI
+Beavertail Light	41.44955	-71.39894	US	RI
+Benjamin Lockwood Lot	41.71149	-71.40367	US	RI
+Bennett-Spencer Lot	41.68316	-71.47645	US	RI
+Bensley Point	41.86288	-71.37922	US	RI
+Berkeley	41.92982	-71.42284	US	RI
+Bethel	41.42871	-71.79062	US	RI
+Bethesda Christian Fellowship	41.71038	-71.52006	US	RI
+Betty Hull Point	41.4176	-71.50034	US	RI
+Beverage Brook	41.85454	-71.37589	US	RI
+Benefit Square	41.8301	-71.41006	US	RI
+Bigelow Lounge	41.82427	-71.40311	US	RI
+Billington Cove	41.42149	-71.50311	US	RI
+Bishop Cove	41.85343	-71.36978	US	RI
+Bishop Heights	41.82649	-71.55756	US	RI
+Bishop Point	41.85732	-71.37478	US	RI
+Bissel Cove	41.54732	-71.43145	US	RI
+Bitgood Lot	41.53927	-71.69951	US	RI
+Black Plain	41.58454	-71.65229	US	RI
+Black Point	41.5301	-71.22894	US	RI
+Black Point	41.3951	-71.46506	US	RI
+Blackstone Gorge	42.01538	-71.55173	US	RI
+Blessed Sacrament Rectory	41.82954	-71.44311	US	RI
+Bliss Corners	41.62649	-71.14477	US	RI
+Blithewold Mansion and Gardens	41.64982	-71.26699	US	RI
+Bliven Burial Ground	41.5601	-71.72812	US	RI
+Bloody Brook	41.60038	-71.25894	US	RI
+Bluff Head	41.16038	-71.61228	US	RI
+Bluff Point	41.65371	-71.41617	US	RI
+The Bluff	41.48399	-71.26949	US	RI
+The Blunders	41.9401	-71.54895	US	RI
+Boiling Lot Cove	41.41899	-71.492	US	RI
+Bold Point	41.81566	-71.39144	US	RI
+Bonnet Point	41.4701	-71.42089	US	RI
+Bonnet Shores	41.4826	-71.42144	US	RI
+The Bonnet	41.47816	-71.4195	US	RI
+Boone Family Lot	41.58982	-71.67562	US	RI
+Borden Brook	41.56816	-71.19032	US	RI
+Blue Bill Cove	41.62677	-71.22477	US	RI
+Boss Lot	41.43899	-71.73451	US	RI
+Boston Neck	41.45705	-71.437	US	RI
+Boyd Brook	41.71288	-71.63173	US	RI
+Bradford	41.39899	-71.73701	US	RI
+Brainard Lot	41.57704	-71.76618	US	RI
+Braman Lot	41.51816	-71.56534	US	RI
+Bramen Lot	41.49871	-71.7234	US	RI
+Boyden Heights	41.78899	-71.37033	US	RI
+Brandy Brook	41.81927	-71.58645	US	RI
+Brandy Brook	41.92621	-71.71923	US	RI
+Breakheart Brook	41.58454	-71.71562	US	RI
+The Breachway	41.37621	-71.51339	US	RI
+Breakwater Point	41.46455	-71.19643	US	RI
+Brenton Cove	41.47482	-71.33311	US	RI
+Brenton Point	41.44871	-71.35505	US	RI
+Brenton Reef	41.44455	-71.35839	US	RI
+Brenton Reef Light Ship	41.42788	-71.37727	US	RI
+Brenton Village	41.47455	-71.33866	US	RI
+Brewers Sakonnet Marina	41.64649	-71.21921	US	RI
+Brick Market	41.49316	-71.322	US	RI
+Brig Ledge	41.57677	-71.40867	US	RI
+Briggs Corner	41.60788	-71.49284	US	RI
+Briggs Point	41.47649	-71.1506	US	RI
+Brightman Family Lot	41.48927	-71.75618	US	RI
+Bristol	41.67705	-71.26616	US	RI
+Bristol Ferry	41.63732	-71.25366	US	RI
+Bristol Ferry	41.6326	-71.25366	US	RI
+Bristol Highlands	41.69621	-71.28727	US	RI
+Bristol Narrows	41.69816	-71.24421	US	RI
+Bristol Neck	41.66094	-71.25977	US	RI
+Bristol Neck	41.67982	-71.24227	US	RI
+Bristol Playground	41.67066	-71.27227	US	RI
+Bristol Point	41.64316	-71.26199	US	RI
+Bristol Town Common	41.67066	-71.27227	US	RI
+Bristol Township	41.68399	-71.26394	US	RI
+Town of Bristol	41.67613	-71.27329	US	RI
+The Brothers	41.69732	-71.29283	US	RI
+The Brothers	41.52788	-71.39172	US	RI
+The Brothers	41.66677	-71.34811	US	RI
+The Brothers	41.40038	-71.45922	US	RI
+Brown Point	41.51983	-71.20532	US	RI
+Brown Stadium	41.84232	-71.39394	US	RI
+Browning Point	41.36955	-71.60867	US	RI
+Browns Brook	41.42149	-71.51867	US	RI
+Brudickville	41.41788	-71.72979	US	RI
+Brush Neck	41.69149	-71.41089	US	RI
+Brush Neck Cove	41.69232	-71.40561	US	RI
+Brushy Brook	41.50538	-71.71534	US	RI
+Bryer Point	41.50232	-71.36061	US	RI
+Buckeye Brook	41.70816	-71.38005	US	RI
+Bucklin Point	41.84982	-71.36978	US	RI
+Bucklin-Eddy Block	41.8201	-71.402	US	RI
+Bucks Horn Brook	41.69454	-71.76479	US	RI
+Bull Point	41.48066	-71.35505	US	RI
+Bullhead Brook	41.81871	-71.60229	US	RI
+Bullock Cove	41.75621	-71.3545	US	RI
+Bullock Neck	41.75593	-71.36061	US	RI
+Bullock Point	41.7451	-71.35894	US	RI
+Bullock Point Reach	41.74232	-71.3695	US	RI
+Burdick Lot	41.52232	-71.75007	US	RI
+Burdickville	41.41816	-71.73284	US	RI
+Burges Cove	41.80621	-71.39839	US	RI
+Burlingame Brook	41.73121	-71.56562	US	RI
+Bullock Cove	41.58288	-71.31727	US	RI
+Burlingame Brook	41.5176	-71.60034	US	RI
+Town of Burrillville	41.97055	-71.69819	US	RI
+Burton Lot	41.46954	-71.78174	US	RI
+Buttonwood Corner	41.52788	-71.66618	US	RI
+Buttonwood Point	41.41427	-71.50784	US	RI
+Buttonwoods	41.68538	-71.41867	US	RI
+Buttonwoods Cove	41.68649	-71.40728	US	RI
+Calf Neck	41.58343	-71.44839	US	RI
+Calf Pasture Point	41.62566	-71.40256	US	RI
+Canonchet	41.4901	-71.73285	US	RI
+Canonchet Brook	41.46316	-71.72007	US	RI
+Captain Joseph Spencer Lot	41.64427	-71.45561	US	RI
+Captain Randall Holden Junior Lot	41.69899	-71.38561	US	RI
+Captain Samuel Green Lot	41.7001	-71.46534	US	RI
+Card Lot	41.55538	-71.59895	US	RI
+Card Machine Brook	42.01704	-71.62173	US	RI
+Carmelite Monastery	41.72732	-71.31894	US	RI
+Carolina	41.45704	-71.6634	US	RI
+Carousel Nursery	41.73093	-71.28366	US	RI
+Carpenter Lot	41.50204	-71.72173	US	RI
+Carpenters Corner	41.82177	-71.35617	US	RI
+Carr Point	41.57149	-71.29422	US	RI
+Carrie Tower	41.82704	-71.40394	US	RI
+Case Point	41.44343	-71.58562	US	RI
+Casey Point	41.51288	-71.41478	US	RI
+Caswell Lot	41.54843	-71.75229	US	RI
+Catamint Brook	41.99982	-71.42756	US	RI
+Cathedral Square	41.81954	-71.41617	US	RI
+Cathedral of Saint John the Episcopal	41.83149	-71.41006	US	RI
+Cedar Brook	41.6951	-71.50395	US	RI
+Cedar Point	41.47927	-71.37783	US	RI
+Cedar Point	41.40427	-71.49339	US	RI
+Cedar Tree Point	41.68788	-71.44311	US	RI
+Cedar Tree Point	41.57677	-71.45228	US	RI
+Cezar Onion Lot	41.59288	-71.67896	US	RI
+Chafee Lot	41.65093	-71.44033	US	RI
+Champlin Lot	41.52677	-71.54978	US	RI
+Champlin Lot	41.5026	-71.51839	US	RI
+Champlin-Greene Burial Ground	41.5776	-71.54395	US	RI
+Champlins Dock	41.18427	-71.58172	US	RI
+Charlestown	41.38316	-71.64173	US	RI
+Charlestown Breachway	41.35677	-71.63923	US	RI
+Charlestown Driving Range	41.3601	-71.68923	US	RI
+Town of Charlestown	41.37303	-71.67415	US	RI
+Chase Cove	41.70399	-71.23977	US	RI
+Chase Point	41.48371	-71.13949	US	RI
+Chateau Sur-Mer Mansion	41.47121	-71.30588	US	RI
+Chepachet	41.9151	-71.67146	US	RI
+Chepiwanoxet	41.67288	-71.44811	US	RI
+Chepiwanoxet Point	41.67343	-71.44172	US	RI
+Cherry Brook	42.00121	-71.52312	US	RI
+Cherry Valley	41.87093	-71.67451	US	RI
+Chickasheen Brook	41.46177	-71.59673	US	RI
+Cherry Neck	41.45621	-71.33088	US	RI
+Children Cove	41.37121	-71.64478	US	RI
+Child Care Connection	41.65149	-71.45728	US	RI
+Chopmist	41.82538	-71.67034	US	RI
+Christ Temple	41.80593	-71.43534	US	RI
+Christadelthian Ecclesia	41.77066	-71.47228	US	RI
+Christines Landing	41.48399	-71.31755	US	RI
+Christopher Green Lot	41.73149	-71.39533	US	RI
+Clarke Brook	41.73454	-71.54951	US	RI
+Clark Point	41.60066	-71.41478	US	RI
+Clarks Village	41.4626	-71.39061	US	RI
+Clarkville	41.92232	-71.79118	US	RI
+Clay Head	41.21677	-71.55533	US	RI
+Clayville	41.77788	-71.67562	US	RI
+Clifford-Allen-Nightingale Block	41.82038	-71.402	US	RI
+The Clump	41.54982	-71.42033	US	RI
+Clyde	41.71927	-71.52284	US	RI
+Cocumcussoc	41.58593	-71.45811	US	RI
+Cocumcussoc Brook	41.58288	-71.45784	US	RI
+Coddington Cove	41.52344	-71.31616	US	RI
+Coddington Point	41.52344	-71.32366	US	RI
+Cogswell Tower	41.88816	-71.38839	US	RI
+Cold Brook	41.51955	-71.13727	US	RI
+Colonel John Waterman Lot	41.72177	-71.39644	US	RI
+Colonel Willie Cove	41.32593	-71.84201	US	RI
+Columbia Heights	41.44232	-71.63812	US	RI
+Columbus Square	41.79649	-71.42589	US	RI
+Colvin Brook	41.74093	-71.57367	US	RI
+Coles	41.72927	-71.39339	US	RI
+Colvintown	41.71816	-71.57173	US	RI
+Common Fence Point	41.65538	-71.2206	US	RI
+Common Fence Point	41.64399	-71.22338	US	RI
+Comstock Block	41.8201	-71.402	US	RI
+Comstock Gardens	41.7776	-71.52284	US	RI
+Conanicut Point	41.57399	-71.372	US	RI
+Concord Gulf Cove	41.47649	-71.37033	US	RI
+Coney Brook	41.6326	-71.77035	US	RI
+Congdon Cove	41.41955	-71.50784	US	RI
+Conimicut	41.72427	-71.38283	US	RI
+Conimicut Point	41.71732	-71.357	US	RI
+Conimicut Point Reach	41.72316	-71.35339	US	RI
+Conrad Cove	41.47455	-71.29783	US	RI
+Cooks Corner	41.60455	-71.52145	US	RI
+Coon Cove	41.35899	-71.66673	US	RI
+Copps Cave	41.77538	-71.39061	US	RI
+Copps Cove	41.78149	-71.39172	US	RI
+Cork Brook	41.79232	-71.64507	US	RI
+Corliss Cove	41.80149	-71.39894	US	RI
+Cormorant Cove	41.19038	-71.58978	US	RI
+Cormorant Point	41.19121	-71.58811	US	RI
+Cormorant Point	41.4401	-71.43922	US	RI
+Cormorant Reef	41.45566	-71.24116	US	RI
+Corn Cove	41.15121	-71.55644	US	RI
+Corn Neck	41.21344	-71.56394	US	RI
+The Cove	41.63121	-71.22588	US	RI
+Coventry	41.7001	-71.68284	US	RI
+Town of Coventry	41.6933	-71.66097	US	RI
+Covill Lot	41.7201	-71.45256	US	RI
+Cow Cove	41.22677	-71.572	US	RI
+Cowesett	41.68121	-71.46117	US	RI
+Cowpen Point	41.81788	-71.40394	US	RI
+Cranberry Bog	41.75198	-71.42192	US	RI
+Cranberry Brook	41.7351	-71.55673	US	RI
+Crandall Lot	41.57093	-71.75674	US	RI
+Cranston	41.77982	-71.43728	US	RI
+Cranston Cove	41.54038	-71.3645	US	RI
+Cranston Print Works	41.78899	-71.45506	US	RI
+Cranston Stadium	41.78427	-71.44561	US	RI
+City of Cranston	41.76604	-71.48235	US	RI
+Crazy Corners	41.79399	-71.65895	US	RI
+Crook Point	41.82316	-71.38339	US	RI
+Crooked Brook	41.44205	-71.46256	US	RI
+Crompton	41.68482	-71.51367	US	RI
+Crown Point	41.40955	-71.50645	US	RI
+Crying Bog	41.43816	-71.48311	US	RI
+Cumberland	41.96677	-71.43284	US	RI
+Town of Cumberland	41.97029	-71.41977	US	RI
+Curtis Corner	41.45399	-71.52839	US	RI
+Curtis Maine Lot	41.46288	-71.78951	US	RI
+Cutler Brook	41.88399	-71.59645	US	RI
+Daniel Lewis Lot	41.43454	-71.76896	US	RI
+Daniel Peckham Lot	41.43371	-71.77396	US	RI
+Dark Entry Brook	41.65705	-71.4645	US	RI
+Darlington	41.8851	-71.36311	US	RI
+David Bennett Lot	41.68066	-71.48006	US	RI
+David Winton Bell Gallery	41.82566	-71.40339	US	RI
+Davisville, North Kingston	41.61304	-71.47546	US	RI
+Davisville Depot	41.61316	-71.41117	US	RI
+Dawley Brook	41.99954	-71.57006	US	RI
+Dawley Lot	41.5651	-71.55034	US	RI
+Dawley-Brown Lot	41.56066	-71.57645	US	RI
+Dawley-Straight Lot	41.55177	-71.58979	US	RI
+Dead Man Brook	41.40288	-71.4595	US	RI
+Dawley Lot	41.54871	-71.5834	US	RI
+Deep Hole	41.37149	-71.53061	US	RI
+Dees Tug Hole	41.20038	-71.56561	US	RI
+Deep Hole	41.65843	-71.37478	US	RI
+Devils Foot	41.6001	-71.45645	US	RI
+Dexter Asylum	41.83093	-71.3845	US	RI
+Dexter Training Ground	41.81427	-71.42506	US	RI
+Dexters Ledge	41.88843	-71.38922	US	RI
+Diamond Brook	41.47788	-71.7134	US	RI
+Dickens Point	41.15121	-71.60922	US	RI
+Dickens Reef	41.45427	-71.4245	US	RI
+Doctor Isaac Collins Lot	41.46732	-71.72257	US	RI
+Dolly Cole Brook	41.81593	-71.69979	US	RI
+Dories Cove	41.17371	-71.60783	US	RI
+Dowley Lot	41.55204	-71.5759	US	RI
+Drown Cove	41.74427	-71.347	US	RI
+Dry Arm Brook	41.9751	-71.74146	US	RI
+Dry Brook	41.80788	-71.48978	US	RI
+Duck Cove	41.5601	-71.43783	US	RI
+The Dumplings	41.47982	-71.35866	US	RI
+Dundery Brook	41.48427	-71.16671	US	RI
+Dunn Corner	41.35149	-71.76868	US	RI
+Dunn Landing	41.18149	-71.60645	US	RI
+Dyer Avenue Playground	41.79566	-71.45867	US	RI
+Dyer Point	41.49649	-71.32227	US	RI
+Dyerville	41.82593	-71.45811	US	RI
+Eagleville	41.65788	-71.15227	US	RI
+Earles Block	41.82038	-71.40228	US	RI
+East Burial Ground	41.67038	-71.26977	US	RI
+East Greenwich	41.66038	-71.45589	US	RI
+Town of East Greenwich	41.63606	-71.50603	US	RI
+East Natick	41.71871	-71.482	US	RI
+East Providence	41.81371	-71.37005	US	RI
+City of East Providence	41.80052	-71.35815	US	RI
+East Sneech Brook	41.98343	-71.4095	US	RI
+Easton Point	41.47955	-71.27422	US	RI
+Ebenezer Knight Dexter Statue	41.81538	-71.44867	US	RI
+Edgewood	41.78149	-71.39756	US	RI
+Elbow Ledge	41.46399	-71.25921	US	RI
+East Warren	41.73066	-71.26005	US	RI
+Eleazer Slocum Lot	41.59982	-71.61395	US	RI
+Elias Lewis Lot	41.42899	-71.75618	US	RI
+Elisha Ledge	41.44455	-71.15838	US	RI
+Elisha Ledge	41.44372	-71.1581	US	RI
+Elmwood	41.79788	-71.42617	US	RI
+Emile Reuker Wildlife Refuge	41.59232	-71.20032	US	RI
+Enos-Crandall Lot	41.47871	-71.75257	US	RI
+Entrance Channel	41.65205	-71.3095	US	RI
+Ericson Athletic Complex	41.83066	-71.39756	US	RI
+Escoheag	41.60371	-71.76479	US	RI
+Esmond	41.87232	-71.4945	US	RI
+Exeter	41.5776	-71.53756	US	RI
+Town of Exeter	41.56584	-71.63118	US	RI
+Factory Brook	41.61177	-71.7209	US	RI
+Fairbanks Corner	41.70788	-71.75674	US	RI
+Fairlawn	41.87621	-71.41283	US	RI
+Fenner Lot	41.49788	-71.73146	US	RI
+Ferry Cliff	41.6476	-71.2581	US	RI
+Fisherville	41.56482	-71.56228	US	RI
+Fisherville Brook	41.56816	-71.5659	US	RI
+Fishing Cove	41.58121	-71.44283	US	RI
+Fiskeville	41.73427	-71.54812	US	RI
+Fisherville Brook Wildlife Refuge	41.58427	-71.57534	US	RI
+Flint Point	41.48594	-71.23699	US	RI
+Flint Point Ledge	41.49149	-71.23227	US	RI
+Flying Horse Carousel	41.30843	-71.85757	US	RI
+Flynn Annex	41.80927	-71.41561	US	RI
+Flynn Annex II	41.81093	-71.41617	US	RI
+Fogland	41.56121	-71.21338	US	RI
+Fogland Point	41.56232	-71.22032	US	RI
+Folly Landing	41.68121	-71.44867	US	RI
+Fones Palmer Lot	41.45982	-71.73701	US	RI
+Fort Butts	41.61566	-71.25116	US	RI
+Fort Cove	41.47899	-71.35755	US	RI
+Fort Neck	41.38066	-71.64673	US	RI
+Fort Ninigret	41.38066	-71.64923	US	RI
+Fort Wetherill	41.47782	-71.35855	US	RI
+Forty Steps	41.47594	-71.29727	US	RI
+Forys Playground	41.81149	-71.44311	US	RI
+Foster	41.85371	-71.75812	US	RI
+Foster Cove	41.31621	-71.85674	US	RI
+Foster Cove	41.3626	-71.67506	US	RI
+Foster Kenyon Lot	41.69705	-71.48756	US	RI
+Foster Ledge	41.69871	-71.65479	US	RI
+Town of Foster	41.78911	-71.73569	US	RI
+Foster-Spencer Lot	41.48371	-71.76007	US	RI
+Founders Brook	41.63871	-71.24533	US	RI
+Fox Point	41.81454	-71.39894	US	RI
+Fox Point Observatory	41.81566	-71.40033	US	RI
+Fox Point Reach	41.8051	-71.39367	US	RI
+Francis Tanner Lot	41.4976	-71.75285	US	RI
+Franciscan Convent	41.81899	-71.43589	US	RI
+Franciscan Missionaries of Mary	41.84788	-71.46395	US	RI
+Frank Licht Judicial Complex	41.82066	-71.41256	US	RI
+Frank Point	41.39316	-71.49533	US	RI
+Franklin Square	41.81482	-71.407	US	RI
+Frenchtown	41.62732	-71.49256	US	RI
+Frenchtown Brook	41.62677	-71.47867	US	RI
+Friends Burial Ground	41.46565	-71.79035	US	RI
+Frosty Drew Observatory	41.38093	-71.6484	US	RI
+Fry Brook	41.62955	-71.47923	US	RI
+Frys Corner	41.64566	-71.49534	US	RI
+Galilee	41.3772	-71.51027	US	RI
+Galilee	41.37705	-71.51145	US	RI
+Galilee Bird Sanctuary	41.37927	-71.50117	US	RI
+Garden City	41.76232	-71.45172	US	RI
+Gardiner Lot	41.55204	-71.61673	US	RI
+Gardiner-Green Lot	41.40843	-71.74368	US	RI
+Gardner Lot	41.58566	-71.5759	US	RI
+Gardner Lot	41.54371	-71.52534	US	RI
+Gardner Lot	41.54843	-71.56284	US	RI
+Gardners Corner	41.54732	-71.53339	US	RI
+Garrahy Judicial Complex	41.82121	-71.40895	US	RI
+Garvy Ledges	41.9501	-71.7009	US	RI
+Gaspee Point	41.7426	-71.37617	US	RI
+Gazzaville	41.93982	-71.64673	US	RI
+General George Thurston Lot	41.45566	-71.78562	US	RI
+General Stanton Monument	41.35454	-71.71423	US	RI
+General Thomas Westcott Lot	41.71093	-71.502	US	RI
+Genesee Brook	41.46177	-71.55589	US	RI
+Genesee Woods	41.45566	-71.54534	US	RI
+Geneva	41.85732	-71.44284	US	RI
+George Babcock Lot	41.42982	-71.72896	US	RI
+Georgiaville	41.88704	-71.50839	US	RI
+The Glen	41.5576	-71.2431	US	RI
+Glendale	41.97621	-71.63257	US	RI
+Globe	41.99038	-71.52367	US	RI
+Town of Glocester	41.89342	-71.6892	US	RI
+Goose Neck	41.45566	-71.33561	US	RI
+Goose Neck Cove	41.45732	-71.33311	US	RI
+Goose Point	41.84177	-71.37783	US	RI
+Gorton Lot	41.70093	-71.43033	US	RI
+Gorton-Wing Lot	41.68427	-71.49645	US	RI
+Gortons Corner	41.68177	-71.66757	US	RI
+Gould	41.45843	-71.52034	US	RI
+Gould Ledge	41.66538	-71.38005	US	RI
+Gould Neck	41.42427	-71.62617	US	RI
+Governor Green Lot	41.66621	-71.45978	US	RI
+Governor Samuel Gorton Lot	41.69955	-71.3795	US	RI
+Governors Graveyard	41.49288	-71.3145	US	RI
+Grace Cove	41.18705	-71.59728	US	RI
+Grace Point	41.18288	-71.60506	US	RI
+Grace Square	41.82149	-71.41422	US	RI
+Graniteville	41.96815	-71.68007	US	RI
+Grassy Point	41.37677	-71.65506	US	RI
+Grassy Point	41.36066	-71.65312	US	RI
+Graves Neck	41.32843	-71.84396	US	RI
+Graves Point	41.4501	-71.35144	US	RI
+Grayville	41.57927	-71.19116	US	RI
+Great Ledge	41.53482	-71.38978	US	RI
+Great Neck	41.45566	-71.58978	US	RI
+Great Point	41.14871	-71.56589	US	RI
+Greater Providence Convention and Visitors Bureau	41.82427	-71.41283	US	RI
+Greater Woonsocket Catholic Regional Schol	42.00454	-71.51034	US	RI
+Green Animals Topiary Garden	41.60344	-71.27394	US	RI
+Green End Fort	41.50232	-71.29227	US	RI
+Green Jacket Shoal	41.81399	-71.39533	US	RI
+Greene	41.69121	-71.7459	US	RI
+Greene Point	41.53566	-71.41811	US	RI
+Greenvale Vineyards	41.53594	-71.24783	US	RI
+Greenville	41.87121	-71.55201	US	RI
+Greenwich Cove	41.65732	-71.44422	US	RI
+Greenwood	41.70843	-71.44422	US	RI
+Greenwood Point	41.83927	-71.37033	US	RI
+Greystone	41.86649	-71.49034	US	RI
+Gull Point	41.64288	-71.33311	US	RI
+The Gut	41.51149	-71.12838	US	RI
+The Gut	41.61804	-71.20359	US	RI
+H K Jenks Forge	41.62566	-71.48867	US	RI
+Halfway Ledge	41.55371	-71.40728	US	RI
+Hamilton	41.54843	-71.44117	US	RI
+Hamiltons Corner	41.60843	-71.51034	US	RI
+Hamlet	42.00093	-71.50478	US	RI
+Hannah Brook	41.85149	-71.72173	US	RI
+Hannah Robinson Obeservation Tower	41.5301	-71.46784	US	RI
+Happy Hollow	41.90371	-71.38867	US	RI
+Hardig Brook	41.69732	-71.45784	US	RI
+Harmony	41.88788	-71.59673	US	RI
+Harris	41.72454	-71.53256	US	RI
+Harris Brook	41.89704	-71.51173	US	RI
+Harris Point	41.19066	-71.57367	US	RI
+Harrisdale	41.84954	-71.60201	US	RI
+Harrisville	41.96565	-71.67451	US	RI
+Haversham	41.34732	-71.73673	US	RI
+Hawkins Brook	41.87371	-71.50062	US	RI
+Hawkinson Brook	41.68121	-71.52673	US	RI
+Haycock Ledge	41.44316	-71.337	US	RI
+Hazard Sherman Lot	41.52899	-71.54423	US	RI
+Heath Brook	41.74343	-71.25616	US	RI
+Hemlock Brook	41.79065	-71.68284	US	RI
+Hemlock Brook	42.01954	-71.72646	US	RI
+Hemlock Ledges	41.90954	-71.7909	US	RI
+Henry Family Lot	41.51038	-71.5245	US	RI
+Henry Maryott Lot	41.51843	-71.7609	US	RI
+Herring Brook	41.96565	-71.66257	US	RI
+Hezekiah Collins Lot	41.4501	-71.73812	US	RI
+High Neck	41.37427	-71.61506	US	RI
+High Point	41.37344	-71.51533	US	RI
+Hope	41.73343	-71.56256	US	RI
+Hope Valley	41.5076	-71.71618	US	RI
+Hopkins Hollow	41.66982	-71.75285	US	RI
+Hopkinton	41.46121	-71.77757	US	RI
+Town of Hopkinton	41.47803	-71.75373	US	RI
+Horse Neck	41.69093	-71.39839	US	RI
+Horseshoe Point	41.39871	-71.49756	US	RI
+Horseshoe Point	41.36816	-71.62034	US	RI
+Howard	41.74232	-71.45422	US	RI
+Howard-Remington Lot	41.71066	-71.442	US	RI
+Howlands Ferry	41.63816	-71.21477	US	RI
+Hoxie Family Lot	41.48732	-71.74673	US	RI
+Hoxsie	41.73316	-71.41089	US	RI
+Hoxsie-Cayer Lot	41.43482	-71.72368	US	RI
+Hoyle Square	41.81704	-71.42228	US	RI
+Hoyle Tavern	41.81732	-71.42228	US	RI
+Hughesdale	41.80816	-71.49367	US	RI
+Hulings Corner	41.58343	-71.49812	US	RI
+Hull Cove	41.46482	-71.38866	US	RI
+Hull Ledge	41.56038	-71.3845	US	RI
+Hummock Point	41.63066	-71.21921	US	RI
+The Hummocks	41.63594	-71.21921	US	RI
+The Hummocks	41.36982	-71.65062	US	RI
+The Hummocks	41.55066	-71.42895	US	RI
+Hundred Acre Cove	41.7626	-71.30616	US	RI
+Hunt Brook	41.88038	-71.62312	US	RI
+Hessians Hole	41.60467	-71.26394	US	RI
+Hunt Ledge	41.65482	-71.38839	US	RI
+Huntington Brook	41.83871	-71.75674	US	RI
+Hyde Hole	41.71982	-71.30783	US	RI
+Iglesia Pentecostal Calvario	41.82204	-71.44811	US	RI
+Ike Shippee Corner	41.64316	-71.51478	US	RI
+India Point	41.81704	-71.3895	US	RI
+Indian Head Neck	41.18788	-71.56867	US	RI
+Huntsville	41.96399	-71.71257	US	RI
+Ingrams Corner	41.81482	-71.36978	US	RI
+Interchange 1	41.60205	-71.25838	US	RI
+Interchange 1	41.73954	-71.47867	US	RI
+Interchange 1	41.81704	-71.41311	US	RI
+Interchange 1	41.44871	-71.78618	US	RI
+Interchange 10	41.69732	-71.47534	US	RI
+Interchange 10	41.94482	-71.43673	US	RI
+Interchange 11	41.70232	-71.47367	US	RI
+Interchange 11	41.95038	-71.40228	US	RI
+Interchange 12	41.71593	-71.47311	US	RI
+Interchange 12	41.73899	-71.47784	US	RI
+Interchange 13	41.72427	-71.45839	US	RI
+Interchange 14	41.74788	-71.44256	US	RI
+Interchange 15	41.75427	-71.437	US	RI
+Interchange 17	41.78204	-71.41895	US	RI
+Interchange 17	41.78788	-71.42089	US	RI
+Interchange 19	41.81177	-71.40645	US	RI
+Interchange 2	41.61705	-71.25255	US	RI
+Interchange 2	41.81899	-71.40172	US	RI
+Interchange 2	41.75288	-71.46478	US	RI
+Interchange 2	41.48566	-71.73285	US	RI
+Interchange 20	41.81649	-71.41339	US	RI
+Interchange 21	41.82204	-71.42006	US	RI
+Interchange 22	41.8276	-71.41783	US	RI
+Interchange 28	41.87232	-71.38144	US	RI
+Interchange 3	41.62871	-71.24366	US	RI
+Interchange 3	41.81899	-71.3895	US	RI
+Interchange 3	41.75566	-71.48034	US	RI
+Interchange 3	41.51204	-71.69257	US	RI
+Interchange 4	41.63844	-71.21032	US	RI
+Interchange 4	41.78899	-71.50645	US	RI
+Interchange 4	41.53788	-71.67868	US	RI
+Interchange 5	41.60288	-71.65784	US	RI
+Interchange 5	41.63955	-71.20421	US	RI
+Interchange 5	41.82066	-71.52978	US	RI
+Interchange 5	41.58343	-71.50089	US	RI
+Interchange 6	41.65093	-71.6059	US	RI
+Interchange 6	41.64121	-71.18755	US	RI
+Interchange 6	41.80649	-71.3695	US	RI
+Interchange 6	41.82899	-71.51728	US	RI
+Interchange 7	41.62843	-71.487	US	RI
+Interchange 7	41.86927	-71.51478	US	RI
+Interchange 8	41.66677	-71.50228	US	RI
+Interchange 8	41.90815	-71.51201	US	RI
+Interchange 9	41.66677	-71.49006	US	RI
+Interchange 9	41.94371	-71.4595	US	RI
+Interchange Eighteen	41.80093	-71.40367	US	RI
+Interchange Sixteen	41.7851	-71.42311	US	RI
+Interchange Twenty five	41.8551	-71.40478	US	RI
+Interchange Twenty four	41.84427	-71.40895	US	RI
+Interchange Twenty seven	41.87288	-71.38728	US	RI
+Interchange Twenty six	41.87038	-71.38256	US	RI
+Interchange Twenty-three	41.83593	-71.41589	US	RI
+Interchanges Twenty-one and Twenty-two	41.8226	-71.41839	US	RI
+Isaacs Corner	41.16427	-71.58006	US	RI
+Isaiahs Gully	41.22038	-71.55867	US	RI
+Ives Row	41.82427	-71.40478	US	RI
+Jackson	41.73871	-71.54951	US	RI
+Jacobs Point	41.71232	-71.29088	US	RI
+James Lot	41.57732	-71.64284	US	RI
+Jamestown	41.49705	-71.36728	US	RI
+Jamestown Brook	41.50899	-71.38311	US	RI
+Jamestown Shores	41.52982	-71.38922	US	RI
+Town of Jamestown	41.52259	-71.3691	US	RI
+Jerauld-Gerald Lot	41.69871	-71.48117	US	RI
+Jerrys Point	41.20371	-71.55811	US	RI
+Jerusalem	41.37677	-71.51756	US	RI
+Jesus Marie Convent	42.00176	-71.50951	US	RI
+Job Kenyon Lot	41.56815	-71.74174	US	RI
+John Browning Lot	41.69899	-71.46311	US	RI
+John Budlong Lot	41.69177	-71.42922	US	RI
+John H Holden Lot	41.70927	-71.46395	US	RI
+Johnson Ledge	41.62705	-71.34783	US	RI
+Town of Johnston	41.82736	-71.52009	US	RI
+Jones Ledge	41.4626	-71.42006	US	RI
+Joseph Bennett Lot	41.71843	-71.45034	US	RI
+Joseph Briggs Lot	41.68482	-71.462	US	RI
+Joseph Burdick Lot	41.4176	-71.73118	US	RI
+Keeney Quad	41.82427	-71.40394	US	RI
+Kelley Brook	41.60399	-71.7509	US	RI
+Kent Brook	41.76843	-71.57562	US	RI
+Kelleys Ferry	41.7376	-71.28949	US	RI
+Kent Heights	41.80288	-71.36367	US	RI
+Kenyon	41.44705	-71.62562	US	RI
+Kenyon Lot	41.51982	-71.74062	US	RI
+Kettle Corner	41.7076	-71.39839	US	RI
+Kettle Point	41.79205	-71.38117	US	RI
+Kent Corner	41.77205	-71.35116	US	RI
+Killy Brook	41.85149	-71.72173	US	RI
+Kimball Wildlife Refuge	41.37593	-71.67562	US	RI
+Kingscote Mansion	41.48177	-71.30922	US	RI
+Kingston	41.48038	-71.52256	US	RI
+Kingston Fairgrounds	41.48343	-71.56895	US	RI
+Kitts Corner	41.64316	-71.62395	US	RI
+Knowles Brook	41.70427	-71.3845	US	RI
+Knightsville	41.78149	-71.46228	US	RI
+LaSalle Square	41.82177	-71.41756	US	RI
+Ladd Observatory	41.83954	-71.39867	US	RI
+Lafayette	41.57066	-71.47728	US	RI
+Lafayette State Trout Hatchery	41.56621	-71.507	US	RI
+Lands End	41.45149	-71.31255	US	RI
+Langworthy Corner	41.34204	-71.76868	US	RI
+Larkin Lot	41.53927	-71.74896	US	RI
+Latham Brook	41.91454	-71.55701	US	RI
+Knowles Point	41.44038	-71.56423	US	RI
+Lawton Foster Lot	41.4776	-71.75924	US	RI
+Lawton Valley	41.56566	-71.28311	US	RI
+Lawtons	41.55677	-71.30227	US	RI
+Lederer Theater	41.82149	-71.41617	US	RI
+Leeson Brook	41.98288	-71.78063	US	RI
+Leland Brook	41.96621	-71.73035	US	RI
+Leonard Corner	41.81093	-71.35922	US	RI
+Lewis City	41.5976	-71.71062	US	RI
+Lewis Lot	41.59093	-71.66784	US	RI
+Lewis Point	41.14733	-71.5995	US	RI
+Lewis-Himes-Tillinghast Lot	41.5926	-71.70507	US	RI
+Liberty	41.5401	-71.5734	US	RI
+Limber Point	41.37371	-71.60895	US	RI
+Lincoln Christian Fellowship	41.90649	-71.40311	US	RI
+Town of Lincoln	41.91694	-71.45048	US	RI
+Lion Head	41.45566	-71.39005	US	RI
+Lippett Lot	41.71621	-71.45756	US	RI
+Little Compton	41.5101	-71.17116	US	RI
+Town of Little Compton	41.50866	-71.16799	US	RI
+Little Neck	41.70288	-71.23977	US	RI
+Little Neck	41.4401	-71.45533	US	RI
+Little Peoples Nursery	41.66677	-71.26005	US	RI
+Little Tree Point	41.56177	-71.43395	US	RI
+Little Whale	41.44538	-71.42311	US	RI
+Locke Brook	41.52482	-71.5834	US	RI
+Locke Point	41.39788	-71.4945	US	RI
+Lockwood Brook	41.71205	-71.37672	US	RI
+Lockwood Lot	41.57066	-71.6234	US	RI
+Locustville	41.5101	-71.71201	US	RI
+Lockwood Corner	41.7126	-71.39811	US	RI
+Lone Tree Point	41.56121	-71.43478	US	RI
+Long Brook	41.98204	-71.41311	US	RI
+Logwood Cove	41.22121	-71.57728	US	RI
+Long Neck Cove	41.63732	-71.22366	US	RI
+Long Neck Goose	41.63621	-71.2281	US	RI
+Long Point	41.66677	-71.44033	US	RI
+Long Point	41.65316	-71.34727	US	RI
+Long Point	41.57788	-71.45228	US	RI
+Lonsdale	41.90732	-71.40367	US	RI
+Lowes State Theatre	41.82121	-71.412	US	RI
+Luthers Corners	41.80843	-71.33922	US	RI
+Lymansville	41.84149	-71.47256	US	RI
+Mackerel Cove	41.47844	-71.38061	US	RI
+Long Cove	41.4151	-71.49283	US	RI
+Major General George Sears Green Lot	41.69955	-71.46228	US	RI
+Manton	41.83649	-71.46839	US	RI
+Manville	41.96982	-71.47367	US	RI
+Mapleville	41.94815	-71.64868	US	RI
+Marble Lot	41.69288	-71.43339	US	RI
+Marieville	41.86843	-71.43395	US	RI
+Market Square	41.99871	-71.51867	US	RI
+Market Square	41.82399	-71.40672	US	RI
+Martins Point	41.17177	-71.61006	US	RI
+Mary Brown Brook	41.92204	-71.82507	US	RI
+Mary Lewis Lot	41.44982	-71.77868	US	RI
+Marys Seat	41.48399	-71.29672	US	RI
+Mashapaug Brook	41.77788	-71.41617	US	RI
+Masonic Temple	41.82982	-71.40033	US	RI
+Mastuxet Brook	41.34371	-71.8234	US	RI
+Mastuxet Cove	41.34288	-71.82479	US	RI
+Matunuck	41.37844	-71.54589	US	RI
+Matunuck Point	41.37316	-71.53672	US	RI
+Mauran-Balch Block	41.82482	-71.40589	US	RI
+Mawney Brook	41.62816	-71.52034	US	RI
+McCoy Stadium	41.87288	-71.37033	US	RI
+McCuster Brook	41.71566	-71.67201	US	RI
+McCorrie Point	41.57649	-71.23505	US	RI
+McGowan Brook	41.38704	-71.77896	US	RI
+Melville	41.58705	-71.28338	US	RI
+Merino	41.82121	-71.46478	US	RI
+Meshanticut	41.76677	-71.46895	US	RI
+Meshanticut Brook	41.7251	-71.48367	US	RI
+Metacomet Brook	41.80454	-71.37589	US	RI
+Middle Ground	41.65566	-71.28172	US	RI
+Middletown	41.54566	-71.29144	US	RI
+Middletown Square	41.17177	-71.57811	US	RI
+Town of Middletown	41.52069	-71.28092	US	RI
+Mile Brook	41.41482	-71.79618	US	RI
+Mile End Cove	41.81621	-71.40117	US	RI
+Mink Brook	41.43455	-71.56478	US	RI
+Misquamicut	41.32232	-71.81618	US	RI
+Mohegan	41.98593	-71.62257	US	RI
+Mohegan Bluffs	41.15177	-71.55672	US	RI
+Monastery Brook	41.94315	-71.41478	US	RI
+Moosehorn Corner	41.65343	-71.54256	US	RI
+Moosup Valley	41.73704	-71.76063	US	RI
+Moscow	41.52288	-71.74146	US	RI
+Moscow Brook	41.52427	-71.73035	US	RI
+Monastery Heights	41.93621	-71.39867	US	RI
+Moshassuck	41.83788	-71.397	US	RI
+Mosquitohawk Brook	41.89038	-71.65368	US	RI
+Mowry Brook	41.96732	-71.69896	US	RI
+Mowry Paine Brook	41.93204	-71.61312	US	RI
+Mowrys Corners	41.87038	-71.53062	US	RI
+Mud Bottom Brook	41.64371	-71.5984	US	RI
+Mowry-Knight-Mott Lot	41.69843	-71.45034	US	RI
+Mud Brook	41.50538	-71.5659	US	RI
+Murre Lot	41.48315	-71.75757	US	RI
+Mussey Brook	41.9576	-71.462	US	RI
+Musselbed Shoals	41.63538	-71.25838	US	RI
+Nannaquaket Neck	41.60538	-71.20588	US	RI
+Napatree Point	41.30649	-71.88563	US	RI
+Napatree Point Ledge	41.3001	-71.8884	US	RI
+The Naps	41.31149	-71.86868	US	RI
+Narragansett	41.4501	-71.4495	US	RI
+Narragansett Indian Monument	41.43371	-71.46645	US	RI
+Narragansett Reservation	41.40945	-71.66757	US	RI
+Narragansett Marine Lab	41.49399	-71.42283	US	RI
+Narragansett Pier	41.43232	-71.45644	US	RI
+Town of Narragansett	41.3958	-71.48232	US	RI
+The Narrows	41.54593	-71.42644	US	RI
+The Narrows	41.41788	-71.49839	US	RI
+The Narrows	41.44344	-71.44672	US	RI
+Nasonville	41.98177	-71.61673	US	RI
+Nathan Collins Lot	41.47454	-71.73062	US	RI
+Nathan Kinyon Lot	41.4501	-71.72868	US	RI
+Nathaniel Arnold Lot	41.68843	-71.47506	US	RI
+Nathaniel Cook Lot	41.41288	-71.76229	US	RI
+Natick	41.7201	-71.49173	US	RI
+Nausauket	41.69038	-71.43811	US	RI
+Nayatt	41.72705	-71.33589	US	RI
+Nayatt Landing	41.7301	-71.34116	US	RI
+Nayatt Point	41.7251	-71.33894	US	RI
+Nebraska Shoal	41.3501	-71.5745	US	RI
+New England Institute of Technology	41.7151	-71.44478	US	RI
+New Shoreham	41.17233	-71.55783	US	RI
+Town of New Shoreham	41.18812	-71.57494	US	RI
+Newport	41.4901	-71.31283	US	RI
+Newport Casino	41.48288	-71.30838	US	RI
+Newport Neck	41.46482	-71.327	US	RI
+Newport Restoration Foundation	41.49066	-71.31311	US	RI
+Newport Ship Yard	41.4901	-71.32172	US	RI
+City of Newport	41.48199	-71.32292	US	RI
+Nichols Corner	41.64788	-71.4745	US	RI
+Nichols Lot	41.49482	-71.73201	US	RI
+Nine Foot Brook	41.8826	-71.58006	US	RI
+Ninigret National Wildlife Refuge	41.36264	-71.66606	US	RI
+Ninigret Statue	41.31093	-71.85729	US	RI
+Nooseneck	41.62093	-71.63562	US	RI
+Norman Bird Sanctuary	41.49844	-71.25588	US	RI
+North Burial Ground	41.84871	-71.407	US	RI
+North Foster	41.83149	-71.75062	US	RI
+North Kingstown	41.5501	-71.46617	US	RI
+North Kingstown Assembly of God	41.61788	-71.47784	US	RI
+North Kingstown Emergency Operations Pad	41.57649	-71.4595	US	RI
+Town of North Kingstown	41.57175	-71.45044	US	RI
+North Point	41.68149	-71.30255	US	RI
+North Providence	41.8501	-71.46617	US	RI
+Town of North Providence	41.86147	-71.45748	US	RI
+North Quidnessett	41.63871	-71.41894	US	RI
+North Scituate	41.83177	-71.58729	US	RI
+North Tiverton	41.66482	-71.19143	US	RI
+Northeast Point	41.63094	-71.317	US	RI
+Northwest Point	41.6601	-71.36589	US	RI
+Norwood	41.75205	-71.42811	US	RI
+Noyes-Wells Lot	41.42621	-71.75396	US	RI
+Oak Valley	41.96815	-71.6009	US	RI
+Oak Valley	41.96565	-71.59979	US	RI
+Oakland	41.95732	-71.64784	US	RI
+Oaklawn	41.75204	-71.47728	US	RI
+Oatley Lot	41.47593	-71.78757	US	RI
+Occupessatuxet Cove	41.73566	-71.38533	US	RI
+Ochre Point	41.46927	-71.29644	US	RI
+Ohio Ledge	41.68205	-71.32477	US	RI
+Old Antgonio	41.43927	-71.43506	US	RI
+Old Breach Cut	41.19955	-71.582	US	RI
+Old Burying Ground	41.50927	-71.17199	US	RI
+Old Forge Burial Ground	41.64177	-71.44811	US	RI
+Old Friends Burial Ground	41.52594	-71.38367	US	RI
+Old Hickory Brook	41.67454	-71.58312	US	RI
+Old Howard Plot	41.75899	-71.71979	US	RI
+Old Orchard Cove	41.63066	-71.23227	US	RI
+Old Sergeant	41.53427	-71.41422	US	RI
+Olneyville	41.81482	-71.44645	US	RI
+One Mile Corner	41.50649	-71.30199	US	RI
+Outreach Ministries	41.79566	-71.4245	US	RI
+Pachet Brook	41.55121	-71.19643	US	RI
+Packer State Fishing Access	41.46343	-71.64534	US	RI
+Paine Brook	41.80482	-71.72423	US	RI
+Palmer Family Lot	41.47704	-71.72868	US	RI
+Palace Garden	41.74232	-71.40089	US	RI
+Paquantuck Brook	41.88288	-71.75229	US	RI
+Palmer-Burdick-Appley Lot	41.54482	-71.76757	US	RI
+Paradise Brook	41.49121	-71.26144	US	RI
+Parmenter Brook	41.44454	-71.7959	US	RI
+Parris Brook	41.56677	-71.71479	US	RI
+Pascoag	41.95565	-71.70229	US	RI
+Pasquiset Brook	41.44788	-71.62506	US	RI
+Pawtucket	41.87871	-71.38256	US	RI
+City of Pawtucket	41.87427	-71.37443	US	RI
+Pawtuxet	41.76288	-71.39005	US	RI
+Pawtuxet Cove	41.76149	-71.38783	US	RI
+Pawtuxet Neck	41.76399	-71.38561	US	RI
+Pawtuxet Reservation	41.76899	-71.39061	US	RI
+Pawtuxet Valley	41.71954	-71.47728	US	RI
+Peace Dale	41.45121	-71.49867	US	RI
+Peck Corner	41.75788	-71.34033	US	RI
+Peckham Brook	41.87371	-71.69146	US	RI
+Peeptoad Brook	41.84677	-71.60479	US	RI
+Pendock Brook	41.59454	-71.57867	US	RI
+Perch Cove	41.39788	-71.54034	US	RI
+Perkins Family Lot	41.59732	-71.74646	US	RI
+Perkins Lot	41.57316	-71.65368	US	RI
+Perkins Lot	41.59121	-71.76646	US	RI
+Perry Healy Brook	41.38038	-71.70368	US	RI
+Perryville	41.39982	-71.56117	US	RI
+Perryville State Trout Hatchery	41.39455	-71.57173	US	RI
+Peter Davis Lot	41.43649	-71.76951	US	RI
+Perry Lot	41.7201	-71.44978	US	RI
+Pettaquamscutt Cove National Wildlife Refuge	41.50121	-71.42728	US	RI
+Pettaquamscutt Cove	41.44594	-71.45811	US	RI
+Phebes Neck	41.74455	-71.33061	US	RI
+Phenix	41.71982	-71.53256	US	RI
+Pickerel Point	41.4501	-71.49672	US	RI
+Pierce Brook	41.71621	-71.64507	US	RI
+Pine Tree Point	41.41538	-71.50228	US	RI
+Pirate Cave	41.45677	-71.35866	US	RI
+Pirate Cove Marina	41.63038	-71.21977	US	RI
+The Plains	41.1576	-71.5545	US	RI
+Plum Point	41.53066	-71.42228	US	RI
+Pocasset	41.75538	-71.44061	US	RI
+Pocasset Heights	41.6301	-71.2506	US	RI
+Point Judith	41.36538	-71.48672	US	RI
+Point Judith	41.36121	-71.48061	US	RI
+Point Judith Neck	41.39649	-71.48339	US	RI
+Point of Trees	41.46955	-71.35311	US	RI
+Pojac Point	41.65177	-71.40783	US	RI
+Bullocks Point Light	41.73788	-71.36422	US	RI
+Pontiac	41.73121	-71.47867	US	RI
+Popasquash Point	41.64955	-71.29949	US	RI
+Poplar Point	41.57093	-71.43867	US	RI
+Poquiant Brook	41.39788	-71.72645	US	RI
+Popasquash Neck	41.6701	-71.29699	US	RI
+Portsmouth	41.60232	-71.25033	US	RI
+Town of Portsmouth	41.60451	-71.29088	US	RI
+Potato Point	41.37232	-71.64534	US	RI
+Potowomut	41.66399	-71.422	US	RI
+Potowomut Neck	41.65566	-71.43589	US	RI
+The Pots	41.41871	-71.51117	US	RI
+Potter Cove	41.51371	-71.36311	US	RI
+Potter Cove	41.64232	-71.34144	US	RI
+Potter Cove	41.32038	-71.85146	US	RI
+Potter Lot	41.52038	-71.56228	US	RI
+Potter Lot	41.51593	-71.54701	US	RI
+Pottersville	41.5251	-71.13282	US	RI
+Potterville	41.71871	-71.66951	US	RI
+Potterville Brook	41.75538	-71.65757	US	RI
+Preacher Smart Burial Yard	41.54288	-71.55284	US	RI
+Price Neck	41.45316	-71.3395	US	RI
+Primrose	41.95427	-71.55645	US	RI
+Prophet-Babcock-Holden Lot	41.70788	-71.44672	US	RI
+Providence	41.82399	-71.41283	US	RI
+Providence Athenaeum	41.81732	-71.40561	US	RI
+Providence Point	41.66649	-71.3445	US	RI
+Providence Preservation Society	41.81982	-71.40033	US	RI
+City of Providence	41.82288	-71.4186	US	RI
+Pulaski Square	42.00593	-71.5184	US	RI
+Purgatory	41.48649	-71.26755	US	RI
+Purgatory	41.48399	-71.2756	US	RI
+Quahaug Point	41.33454	-71.74451	US	RI
+Quaker Burying Ground	41.97427	-71.39867	US	RI
+Quanduck Brook	41.71954	-71.8459	US	RI
+Queen Anne Square	41.48733	-71.31444	US	RI
+Queens Fort Brook	41.54955	-71.55728	US	RI
+Quidnessett	41.62732	-71.45339	US	RI
+Quidnick	41.69649	-71.53701	US	RI
+Quidnick Brook	41.68982	-71.64951	US	RI
+Quonochontaug	41.33566	-71.7084	US	RI
+Quonochontaug Breachway	41.33149	-71.71812	US	RI
+Quonochontaug Neck	41.34705	-71.7034	US	RI
+Quonopaug Brook	41.79871	-71.58951	US	RI
+Quonset Point	41.5901	-71.40422	US	RI
+Raccoon Brook	41.63232	-71.64701	US	RI
+Ragged Point	41.46149	-71.36255	US	RI
+Rake Factory Brook	41.51788	-71.59812	US	RI
+Ram Point	41.3376	-71.82896	US	RI
+Ram Point	41.38121	-71.53672	US	RI
+Ram Point	41.42649	-71.497	US	RI
+Rams Head	41.46371	-71.36311	US	RI
+Rankin Brook	41.96315	-71.58923	US	RI
+Ray Lot	41.51705	-71.55478	US	RI
+Raymonds Point	41.69732	-71.60756	US	RI
+Reaper Brook	41.87871	-71.53617	US	RI
+Reeds Point	41.35316	-71.69395	US	RI
+Reel Point	41.40399	-71.50922	US	RI
+Refuge Deliverance Tabernacle	41.89427	-71.40839	US	RI
+Remington-Arnold Lot	41.68704	-71.497	US	RI
+Reuben Brown Brook	41.58093	-71.52728	US	RI
+Reverend Solomon Sprague Lot	41.54677	-71.58201	US	RI
+Reynolds Lot	41.57566	-71.55034	US	RI
+Reynolds-Johnson Lot	41.44038	-71.79285	US	RI
+Rhodes on the Pawtuxet	41.76343	-71.39005	US	RI
+Rice Burial Yard	41.72677	-71.47784	US	RI
+Rice City	41.71399	-71.75368	US	RI
+Richmond Family Lot	41.57177	-71.74118	US	RI
+Richmond Grange	41.50316	-71.59479	US	RI
+Richmond Lot	41.58704	-71.76757	US	RI
+Richmond Point	41.75649	-71.35394	US	RI
+Town of Richmond	41.49826	-71.66074	US	RI
+Roaring Brook	41.68927	-71.77035	US	RI
+Rhodes Point	41.3201	-71.85535	US	RI
+Roaring Brook	41.54927	-71.70507	US	RI
+Roaring Bull	41.45066	-71.33283	US	RI
+Robert Browning Lot	41.51288	-71.7334	US	RI
+Robert Edmonds Burial Ground	41.71316	-71.46589	US	RI
+Robin Hollow	41.61954	-71.65507	US	RI
+Rochambeau Statue and Monument	41.47732	-71.31838	US	RI
+Rodman Hollow	41.15594	-71.58644	US	RI
+Roger Williams Square	41.8151	-71.39033	US	RI
+Rome Point	41.54843	-71.42367	US	RI
+Rose Lot	41.5901	-71.56006	US	RI
+Rosecliff Mansion	41.4651	-71.30505	US	RI
+Rough Point	41.45455	-71.30449	US	RI
+Round Cove	41.82232	-71.38228	US	RI
+Round Top	41.99982	-71.70035	US	RI
+Round Top Brook	41.99538	-71.68979	US	RI
+Royal Indian Burial Ground	41.40843	-71.65867	US	RI
+Rumford	41.84538	-71.352	US	RI
+Rumstick Ledge	41.70482	-71.30894	US	RI
+Rumstick Neck	41.71732	-71.30172	US	RI
+Rumstick Neck Reach	41.70288	-71.32783	US	RI
+Rumstick Point	41.70621	-71.30227	US	RI
+Rumstick Shoal	41.69871	-71.30561	US	RI
+Rush Brook	41.83927	-71.61006	US	RI
+Russo Playground	41.79343	-71.45728	US	RI
+Rye Point	41.39455	-71.49172	US	RI
+Sabin Point	41.76538	-71.36978	US	RI
+Sabin Point Reach	41.76982	-71.37394	US	RI
+Sachuest	41.48038	-71.24144	US	RI
+Sachuest Point	41.47233	-71.24755	US	RI
+Sachuest Point National Wildlife Refuge	41.48159	-71.24396	US	RI
+Sacred Heart Rectory	41.81982	-71.37728	US	RI
+Sacred Heart Rectory	41.87566	-71.38672	US	RI
+Saint Aidans Rectory	41.93621	-71.39867	US	RI
+Saint Anns Rectory	41.85121	-71.42117	US	RI
+Saint Columbans Seminary	41.65149	-71.26588	US	RI
+Saint Edwards Rectory	41.87649	-71.40033	US	RI
+Saint Francis Orphanage	41.99732	-71.50534	US	RI
+Saint Johns Rectory	41.8251	-71.40728	US	RI
+Saint Josephs Rectory	41.8776	-71.37339	US	RI
+Saint Judes Rectory	41.90343	-71.412	US	RI
+Saint Michaels Convent	41.80204	-71.41506	US	RI
+Saint Patricks Convent	41.90704	-71.39283	US	RI
+Saint Paul Nursery	41.57205	-71.44867	US	RI
+Saint Sebastians Rectory	41.83538	-71.38756	US	RI
+Saints Peter and Paul Cathedral	41.81899	-71.41645	US	RI
+Sakannet Vineyards	41.53288	-71.19782	US	RI
+Sakonnet	41.4626	-71.19449	US	RI
+Sakonnet Light	41.45399	-71.20227	US	RI
+Sakonnet Point	41.45427	-71.19477	US	RI
+Salvation Army	41.48344	-71.30727	US	RI
+Samuel Arnold Lot	41.56677	-71.52423	US	RI
+Sand Bank Cove	41.15316	-71.54811	US	RI
+Sand Point	41.67288	-71.37339	US	RI
+Sand Point	41.55788	-71.38478	US	RI
+Salem Gosel Mission	41.80232	-71.41839	US	RI
+Sandy Point	41.66288	-71.40894	US	RI
+Sandy Point	41.60594	-71.30255	US	RI
+Sandy Point	41.55232	-71.23394	US	RI
+Sandy Point	41.2326	-71.57756	US	RI
+Sandy Point	41.32899	-71.89174	US	RI
+Sanford-Covell Villa Marina	41.49427	-71.32172	US	RI
+Sapowet Cove	41.58066	-71.21005	US	RI
+Sapowet Point	41.58621	-71.21477	US	RI
+Sarah Larkin Lot	41.46399	-71.78701	US	RI
+Sassafras Cove	41.80066	-71.39506	US	RI
+Sassafras Point	41.8001	-71.39283	US	RI
+Sauga Point	41.57705	-71.43811	US	RI
+Saunders Brook	41.88565	-71.69618	US	RI
+Saundersville	41.81566	-71.57423	US	RI
+Sawdy Woods	41.61344	-71.14866	US	RI
+Sayles Bleachery	41.8951	-71.41422	US	RI
+Sayles Gym	41.82954	-71.40228	US	RI
+Saylesville	41.89871	-71.41311	US	RI
+Saylesville Highlands	41.89093	-71.42089	US	RI
+Schooner Point	41.15371	-71.61256	US	RI
+Schyler Ledge	41.44177	-71.19505	US	RI
+Town of Scituate	41.79252	-71.62025	US	RI
+Scott Brook	41.93621	-71.43145	US	RI
+Saunderstown	41.50788	-71.4245	US	RI
+Scrabbletown Brook	41.59371	-71.49589	US	RI
+Scott Hollow	41.70482	-71.68562	US	RI
+Sea Side Nursery	41.69482	-71.2781	US	RI
+Seal Ledge	41.43483	-71.34672	US	RI
+Seaweed Cove	41.37705	-71.53922	US	RI
+Second Point	41.69316	-71.392	US	RI
+Segar Cove	41.38149	-71.5395	US	RI
+Seminary of Our Lady of Providence	41.68149	-71.37728	US	RI
+Shady Lea	41.53566	-71.46478	US	RI
+Shady Oak Brook	41.89843	-71.79924	US	RI
+Shannock	41.44843	-71.63673	US	RI
+Sharpe Refectory	41.8251	-71.40033	US	RI
+Shawomet	41.71705	-71.37561	US	RI
+Sheep Pen Cove	41.64927	-71.34839	US	RI
+Sheep Point	41.4601	-71.30227	US	RI
+Sheep Point Cove	41.46371	-71.30061	US	RI
+Sheldon Lot	41.59343	-71.68034	US	RI
+Sherman Brook	41.51704	-71.60451	US	RI
+Sherman Lot	41.54538	-71.57173	US	RI
+Sherman Lot	41.51427	-71.51395	US	RI
+Shinscot Brook	41.89454	-71.58173	US	RI
+Sherman Burial Ground	41.54593	-71.56006	US	RI
+Shippee Brook	41.83482	-71.73507	US	RI
+Shippee Burial Yard	41.64677	-71.52145	US	RI
+Shore Acres	41.5826	-71.43617	US	RI
+Short Point	41.46455	-71.38394	US	RI
+Short Point	41.41955	-71.49811	US	RI
+Shippee Corner	41.64316	-71.52173	US	RI
+Silver Hook	41.7701	-71.40172	US	RI
+Simmons Brook	41.79788	-71.48117	US	RI
+Silver Hook	41.76149	-71.41783	US	RI
+Simmonsville	41.80121	-71.50145	US	RI
+Sin and Flesh Brook	41.61955	-71.20338	US	RI
+Simmons Corner	41.8151	-71.73396	US	RI
+Sisson Brook	41.49927	-71.1431	US	RI
+Six Corners	41.82038	-71.36811	US	RI
+Slatersville	42.00038	-71.57979	US	RI
+Slatersville Village Green	42.00121	-71.57867	US	RI
+Slocum	41.53066	-71.51617	US	RI
+Slocum Ledge	41.52566	-71.39644	US	RI
+Smelt Brook	41.41371	-71.51256	US	RI
+Smith Cove	41.71927	-71.29672	US	RI
+Smith Lot	41.52177	-71.72062	US	RI
+Smith Swimming Pool	41.8301	-71.39728	US	RI
+Smiths Castle	41.58788	-71.45811	US	RI
+Smithville Seminary	41.83399	-71.58673	US	RI
+Snake Den	41.84732	-71.52534	US	RI
+Soakhide Brook	41.83204	-71.62201	US	RI
+Smelt Brook Cove	41.4126	-71.51061	US	RI
+Sockanosset	41.75288	-71.46423	US	RI
+Sodom Brook	41.5551	-71.55312	US	RI
+Social	42.00399	-71.50839	US	RI
+Sons of Jacob Synagogue	41.83482	-71.417	US	RI
+South Ferry	41.49232	-71.42117	US	RI
+South Foster	41.82288	-71.70368	US	RI
+South Hopkinton	41.41204	-71.75868	US	RI
+South Jerry Cove	41.39649	-71.51534	US	RI
+Town of South Kingstown	41.4237	-71.55454	US	RI
+South Point	41.60482	-71.33144	US	RI
+South Portsmouth	41.54482	-71.26116	US	RI
+Southeast Ledge	41.66482	-71.37644	US	RI
+Southeast Point	41.15427	-71.54617	US	RI
+South Burial Grounds	41.72316	-71.27727	US	RI
+Southwest Point	41.4751	-71.37311	US	RI
+Southwest Point	41.15983	-71.61339	US	RI
+Sowans Playground	41.75732	-71.29422	US	RI
+Spar Point	41.14816	-71.5845	US	RI
+Spencers Corner	41.65732	-71.52673	US	RI
+Spicer Lot	41.46538	-71.77729	US	RI
+Spink Neck	41.61899	-71.41033	US	RI
+Sprague Playground	41.75677	-71.40867	US	RI
+Spragueville	41.89065	-71.54117	US	RI
+Southwest Point	41.63732	-71.28533	US	RI
+Spruce Brook	41.78593	-71.61951	US	RI
+Squally Point	41.37788	-71.537	US	RI
+Squantum Point	41.7901	-71.37311	US	RI
+Stafford Lot	41.72149	-71.37922	US	RI
+Stallion Cove	41.39066	-71.50756	US	RI
+State Pier Number 5	41.43094	-71.45394	US	RI
+Stevens Cove	41.1676	-71.61145	US	RI
+Stillmanville	41.39149	-71.82285	US	RI
+Stillwater	41.90788	-71.52256	US	RI
+Stingo Brook	41.90704	-71.67784	US	RI
+Stone Plot	41.80371	-71.7159	US	RI
+Stony Point	41.4626	-71.1856	US	RI
+Stony Point	41.49455	-71.13532	US	RI
+Stony Point	41.85732	-71.37894	US	RI
+Stony Point	41.44371	-71.57784	US	RI
+Straight Lot	41.59343	-71.65923	US	RI
+Succotash Point	41.38038	-71.52256	US	RI
+Sucker Brook	41.67316	-71.14199	US	RI
+Stone Castle Lot	41.70121	-71.39394	US	RI
+Sucker Brook	41.92093	-71.66007	US	RI
+Summit	41.69121	-71.69951	US	RI
+Sunderland-Tarbox Lot	41.58093	-71.55701	US	RI
+Swan Point	41.84871	-71.37672	US	RI
+Sweet Lot	41.53982	-71.51923	US	RI
+Sweet-Tripp Lot	41.5426	-71.55367	US	RI
+Sycamore Cove	41.38344	-71.53534	US	RI
+Sylvys Brook	41.98288	-71.41117	US	RI
+Taney Brook	41.45593	-71.64923	US	RI
+Tanyard Brook	41.37788	-71.70701	US	RI
+Tarkiln	41.9551	-71.60618	US	RI
+Tarkiln Brook	41.97565	-71.59979	US	RI
+Tarbox Corner	41.64177	-71.54645	US	RI
+Tautog Cove	41.37705	-71.64256	US	RI
+Taylor Point	41.51094	-71.3595	US	RI
+Ted Hood Marine Complex	41.59038	-71.28311	US	RI
+Temple Beth El	41.84121	-71.39561	US	RI
+Temple Shalom	41.5101	-71.29922	US	RI
+The Astors Beechwood Mansion	41.46344	-71.30561	US	RI
+The Breakers	41.4701	-71.29866	US	RI
+The Elms Mansion	41.47788	-71.30922	US	RI
+The Point	41.49371	-71.31533	US	RI
+The Red Brick Nursery	41.75788	-71.33005	US	RI
+The Shrine	41.98343	-71.61618	US	RI
+Theater by the Sea	41.37149	-71.56534	US	RI
+Thomas Holden Lot	41.6901	-71.38117	US	RI
+Thomas Point	41.39594	-71.50367	US	RI
+Thomas Rice Lot	41.7026	-71.48089	US	RI
+Thomas Taylor Lot	41.69205	-71.45617	US	RI
+Thomas Wilbur Lot	41.42954	-71.77618	US	RI
+Thomas Wilcox Lot	41.58649	-71.70396	US	RI
+Thompson Cove	41.34843	-71.82646	US	RI
+Thompson Wells Lot	41.4376	-71.78701	US	RI
+Thornton	41.79427	-71.47839	US	RI
+Thule Cove	41.44094	-71.43811	US	RI
+Three Sisters	41.57649	-71.44533	US	RI
+Tillinghast Lot	41.57816	-71.522	US	RI
+Tillinghast Lot	41.58149	-71.60395	US	RI
+Tillinghast Lot	41.52982	-71.55006	US	RI
+Tilson Cove	41.15955	-71.54422	US	RI
+Tinkerville Brook	42.01038	-71.70868	US	RI
+Tisdale Lot	41.52732	-71.52673	US	RI
+Tiverton	41.62594	-71.21338	US	RI
+Tiverton Four Corners	41.57094	-71.18782	US	RI
+Town of Tiverton	41.61038	-71.17987	US	RI
+Tobey Neck	41.45121	-71.55367	US	RI
+Toby Point	41.4101	-71.50006	US	RI
+Tomaquag Brook	41.4001	-71.76757	US	RI
+Toms Point	41.14733	-71.58922	US	RI
+The Tongue	41.76232	-71.31311	US	RI
+Touisset Highlands	41.70982	-71.24116	US	RI
+Touisset Wildlife Refuge	41.71316	-71.23894	US	RI
+Touro Synagogue	41.4901	-71.32838	US	RI
+Toweset Point	41.70205	-71.23283	US	RI
+Trinity Square	41.81316	-71.42256	US	RI
+Tripp Family Lot	41.54538	-71.59479	US	RI
+Tripps Corner	41.5426	-71.6009	US	RI
+Trout Brook	41.99232	-71.5834	US	RI
+Tuck Point	41.37427	-71.61367	US	RI
+Tucker Brook	41.98621	-71.62562	US	RI
+Tuckertown	41.43038	-71.54256	US	RI
+Tuckertown Four Corners	41.42843	-71.55923	US	RI
+Tug Hollow	41.55982	-71.64506	US	RI
+Turner Cove	41.40566	-71.51117	US	RI
+Turner Point	41.4076	-71.5095	US	RI
+Tuscatucket Brook	41.69927	-71.41617	US	RI
+Turks Head	41.82454	-71.4095	US	RI
+Twomile Corner	41.51649	-71.30088	US	RI
+Tyler Point	41.73371	-71.29199	US	RI
+Union Village	41.99121	-71.53923	US	RI
+United Brothers Synagogue	41.66899	-71.27338	US	RI
+United States Navay Pier 2	41.52788	-71.31505	US	RI
+United States Navy Pier 1	41.53066	-71.31616	US	RI
+Upper Deep Hole	41.61749	-71.77037	US	RI
+Upper Middle Ground	41.71899	-71.29144	US	RI
+Usher Cove	41.66038	-71.29616	US	RI
+Usher Point	41.66121	-71.29338	US	RI
+Usquepaug	41.50316	-71.60895	US	RI
+Utter-Arnold-Rhodes Lot	41.74149	-71.41144	US	RI
+Van Zandt Pier	41.49844	-71.32255	US	RI
+Vartan Gregorian Quad	41.82316	-71.41533	US	RI
+Vaughn Hollow	41.71954	-71.7559	US	RI
+Veazie Annex Number One	41.85427	-71.43422	US	RI
+Veazie Annex Number Two	41.85371	-71.42867	US	RI
+Vernon	41.71927	-71.71729	US	RI
+Vincent Gardner Lot	41.74177	-71.42867	US	RI
+Vue de l'eau	41.78788	-71.36922	US	RI
+WKFD	41.56649	-71.45228	US	RI
+WKFD	41.5701	-71.45784	US	RI
+Waldron Corners	41.87399	-71.60284	US	RI
+Walker Cove	41.65955	-71.26838	US	RI
+Walker Lot	41.54066	-71.58728	US	RI
+Walker Point	41.83371	-71.37228	US	RI
+Wannuchecomecut Brook	41.54427	-71.43339	US	RI
+Warner Brook	41.70788	-71.38033	US	RI
+Wanskuck	41.85343	-71.43672	US	RI
+Warren Common	41.72927	-71.28422	US	RI
+Warren Point	41.46122	-71.16866	US	RI
+Warren	41.73038	-71.28255	US	RI
+Town of Warren	41.72423	-71.25767	US	RI
+Warwick	41.7001	-71.41617	US	RI
+Warwick Brook	41.71121	-71.7309	US	RI
+Warwick Cove	41.68399	-71.39117	US	RI
+Warwick Light	41.66705	-71.37867	US	RI
+Warwick Musical Theatre	41.68177	-71.50034	US	RI
+Warwick Neck	41.68038	-71.38228	US	RI
+Warwick Point	41.66677	-71.37867	US	RI
+City of Warwick	41.70207	-71.42028	US	RI
+Washington	41.68843	-71.56673	US	RI
+Washington Square	41.48955	-71.31311	US	RI
+Washington Square	41.48982	-71.31338	US	RI
+Watchemoket Cove	41.79955	-71.37561	US	RI
+Watchemoket Point	41.81677	-71.38922	US	RI
+Waterford	42.0126	-71.5384	US	RI
+Waterman Four Corners	41.7851	-71.57812	US	RI
+Watson Institute	41.82982	-71.39756	US	RI
+Watson Pier	41.46066	-71.42811	US	RI
+Waybaussett Neck	41.82371	-71.40783	US	RI
+Weaver Cove	41.5776	-71.28644	US	RI
+Weekapaug	41.33093	-71.75507	US	RI
+Weekapaug Breachway	41.32927	-71.76284	US	RI
+Weekapaug Point	41.32538	-71.75201	US	RI
+Weetamoo Woods	41.56677	-71.17366	US	RI
+Welcome Cove	41.39705	-71.49228	US	RI
+Wells Lot	41.44121	-71.79201	US	RI
+West Cove	41.47732	-71.36033	US	RI
+West Glocester	41.91676	-71.79229	US	RI
+West Greenville	41.8776	-71.57145	US	RI
+Town of West Greenwich	41.63343	-71.61618	US	RI
+West Kingston	41.48316	-71.55145	US	RI
+West Sneech Brook	41.94843	-71.4445	US	RI
+Town of West Warwick	41.67938	-71.50899	US	RI
+Westconnaug Brook	41.78566	-71.66146	US	RI
+West Warwick	41.69689	-71.52194	US	RI
+Westcott	41.71482	-71.49562	US	RI
+Westcott-Brown Lot	41.71288	-71.46561	US	RI
+Westerly	41.3776	-71.82729	US	RI
+Town of Westerly	41.31652	-71.80306	US	RI
+Whaleboat Point	41.3951	-71.53561	US	RI
+Whaley Brook	41.71649	-71.66257	US	RI
+Wheat Point	41.33482	-71.73701	US	RI
+Whipple	41.96426	-71.65701	US	RI
+White Brook	41.45899	-71.67284	US	RI
+White Horn Brook	41.4626	-71.55339	US	RI
+White Wine Brook	41.6126	-71.19699	US	RI
+Whitford Lot	41.5801	-71.58701	US	RI
+Whitford Lot	41.5776	-71.6034	US	RI
+Whitman-Thurston Lot	41.57982	-71.54006	US	RI
+Wickford	41.57399	-71.46145	US	RI
+Wickford Cove	41.56899	-71.45145	US	RI
+Wickford Junction	41.57927	-71.49145	US	RI
+Wightmans Corner	41.6201	-71.53589	US	RI
+Wilbours Woods	41.48871	-71.17366	US	RI
+Wilbur Hollow Brook	41.76954	-71.63034	US	RI
+Wilbur Lot	41.44927	-71.75146	US	RI
+Wilcox Arboretum	41.37871	-71.82812	US	RI
+Wilcox Lot	41.53788	-71.58895	US	RI
+Wilcox-Durfee Lot	41.53427	-71.58895	US	RI
+Wild Goose Ledge	41.55816	-71.427	US	RI
+Wild Goose Point	41.55843	-71.43033	US	RI
+Wildes Corner	41.70593	-71.41783	US	RI
+Willcox Lot	41.54093	-71.59506	US	RI
+Willcox-Tate Lot	41.59121	-71.67979	US	RI
+William J Cole Lot	41.70927	-71.43756	US	RI
+William Jenison Lot	41.72288	-71.38394	US	RI
+Dutemple Brook	41.57343	-71.56784	US	RI
+Wine Brook	41.45566	-71.78562	US	RI
+Winsor Brook	41.8301	-71.7184	US	RI
+Witter Lot	41.43788	-71.75229	US	RI
+Woodlawn	41.86677	-71.39922	US	RI
+Woodmansee Lot	41.52538	-71.70173	US	RI
+Woods Castle	41.49927	-71.24171	US	RI
+Woods Corner	41.62371	-71.54395	US	RI
+Woods-Gerry Gallery	41.82843	-71.40478	US	RI
+Woods-Gerry Mansion	41.82843	-71.40478	US	RI
+Woodville	41.86232	-71.44589	US	RI
+Woodville	41.45954	-71.71868	US	RI
+Woonsocket	42.00288	-71.51478	US	RI
+City of Woonsocket	42.001	-71.49931	US	RI
+Worden Lot	41.47899	-71.73701	US	RI
+Wriston Quad	41.82427	-71.40033	US	RI
+Wyoming	41.51538	-71.70146	US	RI
+YMCA	41.37093	-71.82812	US	RI
+Yawgunsk Brook	41.38038	-71.64395	US	RI
+Birds Nest	41.50649	-71.30199	US	RI
+Charlestown Indian Burying Ground	41.38232	-71.64034	US	RI
+Mud Cove	41.36038	-71.68562	US	RI
+Sherman Lot	41.54232	-71.60645	US	RI
+Dolce Villa	41.8239	-71.4269	US	RI
+The Chanler at Cliff Walk	41.485	-71.298	US	RI
+ESA PROVIDENCE-EAST PROVIDENCE	41.8079	-71.3457	US	RI
+Waterfire Providence	41.83027	-71.43758	US	RI
+	41.89153	-71.45434	US	RI
+Temple Torat Yisrael	41.77208	-71.41198	US	RI
+Vendata Society of Providence	41.82787	-71.39857	US	RI
+Naval Health Clinic New England	41.50466	-71.32168	US	RI
+Action Based Enterprises	42.0012	-71.5154	US	RI
+Ashaway Volunteer Fire Association	41.42525	-71.78482	US	RI
+Carter Day Nursery	41.8072	-71.4087	US	RI
+Child Care Connection of East Providence	41.8601	-71.3425	US	RI
+Child Care Connection of East Providence Part II	41.8609	-71.3658	US	RI
+Child Care Connection of Lincoln	41.938	-71.4567	US	RI
+Child Care Connection of Warren	41.729	-71.2672	US	RI
+Child Care Connection of Warwick	41.7293	-71.4689	US	RI
+Childrens Centre of New England	41.6605	-71.5526	US	RI
+Cranston YMCA	41.7846	-71.4526	US	RI
+Diocese of Providence	41.8198	-71.41767	US	RI
+Exeter Town Constable	41.58	-71.5778	US	RI
+First Step at Kingston	41.4832	-71.5397	US	RI
+First Ward Wardroom	41.8844	-71.3779	US	RI
+Just For Kids Day Care	41.933	-71.5025	US	RI
+Kinder-Care at Work	41.8091	-71.4926	US	RI
+Leroy Theater	41.8802	-71.3869	US	RI
+Peleg Arnold Tavern	41.9896	-71.5337	US	RI
+Primary Colors Childrens Centre of New England	41.6617	-71.5471	US	RI
+The Neighborhood Nursery	41.9586	-71.4012	US	RI
+Waterman Tavern	41.7194	-71.6598	US	RI
+Woonsocket YMCA	42.0049	-71.5124	US	RI
+YMCA Annex	41.6665	-71.2747	US	RI
+Centro Cristiano de Adoracion	41.77821	-71.42034	US	RI
+Congregation Beth Sholom	41.84667	-71.40111	US	RI
+Esperanza de Vida	41.82634	-71.43579	US	RI
+Iglesia de Cristo Mi-el	41.83417	-71.4289	US	RI
+Iglesia Evangelica el Mesias	41.85022	-71.44244	US	RI
+Iglesia Evangelica Emmanuel	41.8191	-71.47017	US	RI
+La Iglesia de Dios	41.80348	-71.43615	US	RI
+Movimiento Pentecostal Monte Sinai	41.79351	-71.404	US	RI
+Shalom Ministries	41.81911	-71.44421	US	RI
+Temple Sinai Suburban Reform Temple	41.85644	-71.42276	US	RI
+Greenwich Village Nursery and Kindergarten	41.6285	-71.6292	US	RI
+Montessori Toddlers Plus	41.5638	-71.4638	US	RI
+Gould Brook	41.89424	-71.50754	US	RI
+Whipple Brook	41.88637	-71.50525	US	RI
+Hanton Brook	41.90997	-71.52782	US	RI
+Pleasant Valley Stream	41.8288	-71.42864	US	RI
+Sprague Brook	41.88475	-71.54149	US	RI
+Bristol	41.67617	-71.2733	US	RI
+Newport East	41.51579	-71.28752	US	RI
+West Warwick	41.67964	-71.52178	US	RI
+Interchange 1	41.7169	-71.4745	US	RI
+Interchange 10A	41.6969	-71.4759	US	RI
+Interchange 10B	41.701	-71.4745	US	RI
+Interchange 12A	41.7157	-71.4715	US	RI
+Interchange 12B	41.7198	-71.4694	US	RI
+Interchange 14A	41.7453	-71.4437	US	RI
+Interchange 14B	41.7499	-71.4414	US	RI
+Interchange 1A	41.7552	-71.4824	US	RI
+Interchange 1B	41.7567	-71.4757	US	RI
+Interchange 2	41.72361	-71.48111	US	RI
+Interchange 22A	41.8247	-71.4189	US	RI
+Interchange 22B	41.8267	-71.4199	US	RI
+Interchange 22C	41.8262	-71.4228	US	RI
+Interchange 29	41.8825	-71.3772	US	RI
+Interchange 2A	41.7535	-71.4646	US	RI
+Interchange 2B	41.7525	-71.4633	US	RI
+Interchange 3	41.3945	-71.826	US	RI
+Interchange 3A	41.7537	-71.4819	US	RI
+Interchange 3A	41.5117	-71.6928	US	RI
+Interchange 3B	41.757	-71.4798	US	RI
+Interchange 3B	41.5132	-71.6917	US	RI
+Interchange 4	41.8188	-71.3837	US	RI
+Interchange 4	41.3908	-71.8067	US	RI
+Interchange 4A	41.7484	-71.4447	US	RI
+Interchange 4B	41.7477	-71.4415	US	RI
+Interchange 5	41.8187	-71.3823	US	RI
+Interchange 5	41.3831	-71.8044	US	RI
+Interchange 5A	41.6032	-71.6577	US	RI
+Interchange 5A	41.7439	-71.4332	US	RI
+Interchange 5A	41.8176	-71.5109	US	RI
+Interchange 5A	41.5804	-71.5029	US	RI
+Interchange 5B	41.743	-71.4323	US	RI
+Interchange 5B	41.6032	-71.6571	US	RI
+Interchange 5B	41.8215	-71.5128	US	RI
+Interchange 5B	41.5847	-71.5046	US	RI
+Interchange 6	41.612	-71.4938	US	RI
+Interchange 7	41.6583	-71.54833	US	RI
+Interchange 7	41.8118	-71.357	US	RI
+Interchange 7A	41.8681	-71.5153	US	RI
+Interchange 7B	41.8702	-71.5146	US	RI
+Interchange 8	41.811	-71.3532	US	RI
+Interchange 8A	41.6664	-71.5019	US	RI
+Interchange 8A	41.6605	-71.4897	US	RI
+Interchange 8A	41.9079	-71.5127	US	RI
+Interchange 8B	41.6665	-71.4982	US	RI
+Interchange 8B	41.6633	-71.4901	US	RI
+Interchange 8B	41.9092	-71.5098	US	RI
+Interchange 9A	41.9435	-71.4796	US	RI
+Interchange 9B	41.9426	-71.4726	US	RI
+Quonset Air Guard Base	41.59273	-71.42917	US	RI
+Cowesett Pound	41.6858	-71.4615	US	RI
+Appleland Orchard	41.86417	-71.57528	US	RI
+Blanchard Orchards	41.8525	-71.57917	US	RI
+Christiansens Orchards	42.00361	-71.58778	US	RI
+Dermksien Orchard	41.76306	-71.54306	US	RI
+Hazard Brothers Orchard	41.73944	-71.6	US	RI
+Old Stone Orchard	41.55389	-71.13639	US	RI
+Steere Orchard	41.88694	-71.5725	US	RI
+Sunset Orchards	41.84333	-71.64111	US	RI
+Martin Point	41.74861	-71.31111	US	RI
+Old Warwick	41.70139	-71.38611	US	RI
+Greene Ledge	41.60694	-71.37083	US	RI
+Quoquasset Inlet	41.47083	-71.16806	US	RI
+Stanton Reef	41.45694	-71.30444	US	RI
+Stony Reef	41.45778	-71.30083	US	RI
+Lincoln Woods	41.89851	-71.43064	US	RI
+Quinsnicket Ledge	41.90556	-71.43583	US	RI
+Arnolda	41.38141	-71.65601	US	RI
+Horn Heap	41.58333	-71.53333	US	RI
+Stub Point	41.37778	-71.65	US	RI
+Sugarloaf Cove	41.21444	-71.55417	US	RI
+Newport On-Shore Marina	41.48293	-71.31685	US	RI
+Westerly Ambulance Corps	41.37443	-71.82642	US	RI
+MedTech Ambulance	41.8811	-71.36419	US	RI
+West Greenwich Rescue 2	41.61457	-71.66908	US	RI
+Hope Valley Ambulance Squad	41.51217	-71.71171	US	RI
+Ashaway Ambulance Association	41.4314	-71.79157	US	RI
+Bristol Rescue Squad	41.67396	-71.27521	US	RI
+Med Care Ambulance	41.74114	-71.44148	US	RI
+Scituate Ambulance and Rescue Corps	41.82566	-71.66616	US	RI
+Exeter Rescue Corps	41.58013	-71.5774	US	RI
+Foster Ambulance Corps	41.82149	-71.74445	US	RI
+Beaver Neck	41.47412	-71.39122	US	RI
+Coon Ledge	41.58014	-71.41302	US	RI
+East Ground Shoal	41.16677	-71.48563	US	RI
+Happy Islet	41.77778	-71.36972	US	RI
+James Ledge	41.56364	-71.41414	US	RI
+Ladd Cove	41.41583	-71.50833	US	RI
+Little Orchard Brook	41.89552	-71.43607	US	RI
+Pettaconsett	41.75833	-71.44444	US	RI
+Ragged Limb Ledge	41.4774	-71.39886	US	RI
+Regatta Point	41.83278	-71.37833	US	RI
+Sachuest Peninsula	41.48028	-71.24194	US	RI
+Sassafras Point	41.40278	-71.50083	US	RI
+Stone Water Fence Cove	41.42778	-71.49389	US	RI
+Tracey Ledge	41.49861	-71.33389	US	RI
+Wanton Cove	41.61944	-71.20833	US	RI
+Tunk Brook	41.76528	-71.61111	US	RI
+Wolcott Cove	41.39917	-71.49389	US	RI
+West Greenwich	41.637	-71.66004	US	RI
+South Kingstown	41.44718	-71.52494	US	RI
+Temple Emanuel	41.84115	-71.39613	US	RI
+Pleasant View	41.88889	-71.37778	US	RI
+Squantum	41.79222	-71.37222	US	RI
+Summit	41.69111	-71.7	US	RI
+Watchemoket	41.82917	-71.37917	US	RI
+Champlin Cove	41.40842	-71.49121	US	RI
+Lincoln	41.92111	-71.435	US	RI
+Johnston	41.82186	-71.50675	US	RI
+Southwest Ledge	41.10768	-71.68734	US	RI
+Ram Head Point	41.39028	-71.49806	US	RI
+Wyndhamvr Newport Onshore	41.48237	-71.3145	US	RI
+Wyndham Garden Providence	41.81817	-71.39157	US	RI
+Wyndham Vr Newport Onshore	41.48244	-71.31448	US	RI
+Wyndham Vr Newport Overlook	41.56844	-71.36311	US	RI
+Vanderbilt Grace	41.48823	-71.31347	US	RI
+Wyndhamvr Newport Overlook	41.50787	-71.3602	US	RI
+Wyndham Garden Providence	41.81817	-71.39157	US	RI
+Wynstone	41.48465	-71.31306	US	RI
+Hmewd Ste Providence Warwick	41.72529	-71.45646	US	RI
+The Vanderbilt Grace	41.48826	-71.31359	US	RI
+Ort	41.491	-71.327	US	RI

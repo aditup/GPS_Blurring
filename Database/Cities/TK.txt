@@ -1,0 +1,78 @@
+Te Atu Motu Chain	-9.39889	-171.19785	TK	F
+Tokelau	-9.167	-171.83	TK	00
+Ahaga Loa Closed Reef Awash	-9.35283	-171.25252	TK	F
+Puka i Mua	-9.21688	-171.83477	TK	N
+Vini	-9.33263	-171.20296	TK	F
+Palea	-9.36454	-171.18843	TK	F
+Nukunonu Atoll	-9.169	-171.829	TK	N
+Nukunonu	-9.169	-171.83	TK	N
+Nukumatau	-9.39505	-171.23773	TK	F
+Nukulakia	-9.41867	-171.21631	TK	F
+Fakanava	-9.11786	-171.86065	TK	N
+Te Tu Fa Motu Chain	-9.37571	-171.19484	TK	F
+Matagi	-9.35831	-171.18285	TK	F
+Mulifenua	-9.32653	-171.21192	TK	F
+Fenua Loa	-9.44303	-171.20661	TK	F
+Fenua Fala	-9.37573	-171.26953	TK	F
+Fale old settlement	-9.38516	-171.24675	TK	F
+Fakaofo Atoll	-9.376	-171.232	TK	F
+Fakaofo	-9.376	-171.233	TK	F
+Te Loto	-9.41784	-171.19493	TK	F
+Atafu Atoll	-8.558	-172.496	TK	A
+Atafu	-8.558	-172.497	TK	A
+Fale	-9.38574	-171.24732	TK	F
+Polynesia	-9.167	-171.828	TK	00
+Nukunonu	-9.20045	-171.84804	TK	N
+Atafu Village	-8.54212	-172.51591	TK	A
+Nukunonu Lagoon	-9.169	-171.828	TK	N
+Fakaofo Lagoon	-9.376	-171.231	TK	F
+Atafu Lagoon	-8.558	-172.495	TK	A
+Vessel Ai Sokula Wreck	-9.32511	-171.21483	TK	F
+Fenua Fala New Settlement	-9.37387	-171.26536	TK	F
+Atafu	-8.53464	-172.51947	TK	A
+Kokoloa	-8.53426	-172.49544	TK	A
+Fogalaki	-8.53453	-172.51069	TK	A
+Fogalaki i Lalo	-8.53559	-172.50814	TK	A
+Fogalaki i Matagi	-8.53591	-172.5032	TK	A
+Hakatagu Motu Chain	-8.54612	-172.48441	TK	A
+Te Lafu	-8.5653	-172.46767	TK	A
+Te Atu Hakea Motu Chain	-8.57688	-172.48926	TK	A
+Fenualoa	-8.58393	-172.50743	TK	A
+Alofi	-8.56846	-172.50938	TK	A
+Alofi Lahi	-8.573	-172.50844	TK	A
+Motuhaga	-9.20311	-171.84591	TK	N
+Motuhaga	-9.20462	-171.84528	TK	N
+Nokunonu	-9.19425	-171.85531	TK	N
+Kamu	-9.15796	-171.85943	TK	N
+Puka i Muli	-9.14216	-171.85849	TK	N
+Tokelau	-9.10438	-171.78184	TK	N
+Kavakava Motu Chain	-9.12498	-171.78832	TK	N
+Na Taulaga	-9.19955	-171.7709	TK	N
+Te Tawha Motu Chain	-9.22647	-171.80918	TK	N
+Nokunonu Landing	-9.20028	-171.84958	TK	N
+Fenua Fala Landing	-9.37295	-171.26923	TK	F
+Fale Landing	-9.38592	-171.24857	TK	F
+Blasted Boat Channel	-8.54316	-172.5188	TK	A
+Atafu Landing	-8.54279	-172.51742	TK	A
+Highwater Lighter Channel	-8.54329	-172.51561	TK	A
+Te Alofi Reef Awash	-8.55598	-172.51299	TK	A
+New Lotala	-8.54153	-172.51667	TK	A
+Atafu Taupulaga	-8.54151	-172.51654	TK	A
+Motu Fala	-9.22035	-171.77296	TK	N
+Motu Akea	-9.22926	-171.78991	TK	N
+Nukunonu Taupulaga	-9.19872	-171.84947	TK	N
+Haumagalu	-9.12818	-171.78904	TK	N
+Coconuts	-9.15883	-171.85947	TK	N
+Highest Water Channel	-9.20134	-171.84602	TK	N
+Fishing Pigs of Fakaofo	-9.38416	-171.24941	TK	F
+Te Afua Tau Tahi	-9.37856	-171.25364	TK	F
+Te Afua Tau Lua	-9.37675	-171.25838	TK	F
+Fenua Loa Lagoon	-9.44062	-171.20536	TK	F
+Fataliga	-9.39656	-171.23581	TK	F
+Hatea	-9.4373	-171.20141	TK	F
+Hakea	-9.4365	-171.20029	TK	F
+Makea	-9.43517	-171.19973	TK	F
+Metu	-9.42988	-171.19648	TK	F
+Falefono	-9.38606	-171.24777	TK	F
+Hakava	-9.38496	-171.24626	TK	F
+Teletok	-9.37631	-171.26757	TK	F

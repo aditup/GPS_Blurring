@@ -1,0 +1,309 @@
+Violet Channel	49.15	-1.95	JE	00
+Violet Bank	49.15	-2.03333	JE	00
+Vinchelez de Haut	49.24583	-2.21833	JE	00
+Vinchelez de Bas	49.24667	-2.21806	JE	00
+Ville des Quennevais	49.20194	-2.20028	JE	00
+Vicard Point	49.24806	-2.085	JE	00
+Verclut Point	49.22444	-2.02028	JE	00
+Vallee des Vaux	49.2	-2.1	JE	00
+Tour de Rozel	49.24333	-2.05194	JE	00
+Sorel Point	49.26139	-2.16056	JE	00
+Six Rues	49.23333	-2.15	JE	00
+Saint Helier	49.18804	-2.10491	JE	3237864
+Saint Aubin	49.1875	-2.17056	JE	00
+Rozel	49.23639	-2.04611	JE	00
+Rouge Nez Point	49.25528	-2.25139	JE	00
+Rouge Nez	49.24972	-2.19417	JE	00
+Ronez Point	49.26167	-2.1525	JE	00
+Les Quennevais	49.1975	-2.20694	JE	00
+Plemont Point	49.26083	-2.2275	JE	00
+Plat Roque Point	49.16667	-2.03333	JE	00
+Petit Port	49.25	-2.09	JE	00
+Petit Port	49.18472	-2.23556	JE	00
+Ile Percee	49.16694	-2.1725	JE	00
+Noirmont Point	49.16583	-2.16778	JE	00
+Lower Blanc Pignon	49.19472	-2.16222	JE	00
+Longueville	49.18333	-2.08333	JE	00
+L'Etacq	49.23611	-2.23389	JE	00
+Les Sambues	49.25611	-2.09083	JE	00
+Les Mouriers	49.25361	-2.17	JE	00
+Les Landes	49.25056	-2.2475	JE	00
+Les Kaines	49.17361	-2.215	JE	00
+Les Ecrehou	49.3	-1.91667	JE	00
+Le Nez Point	49.16667	-2.06667	JE	00
+Le Hocq Point	49.16669	-2.06182	JE	00
+Point Le Fret	49.16917	-2.18944	JE	00
+Point Le Croc	49.16372	-2.07826	JE	00
+Pierres de Lecq	49.29389	-2.20556	JE	00
+Le Couperon	49.235	-2.03528	JE	00
+La Thiebaut	49.23444	-2.22972	JE	00
+La Rocque Point	49.16667	-2.03333	JE	00
+L'Ane	49.24972	-2.18667	JE	00
+Point La Moye	49.17472	-2.22472	JE	00
+La Motte	49.16074	-2.07723	JE	00
+La Hougue Boete	49.23639	-2.1425	JE	00
+La Hougue Bie	49.2	-2.06667	JE	00
+La Hougue	49.21667	-2.21667	JE	00
+La Haule	49.18333	-2.18333	JE	00
+La Crete Point	49.25139	-2.11222	JE	00
+La Crete Point	49.21667	-2.01667	JE	00
+La Coupe Point	49.23278	-2.025	JE	00
+La Cotte Point	49.17556	-2.18861	JE	00
+La Corbiere	49.17972	-2.24972	JE	00
+La Conchiere	49.13333	-2	JE	00
+La Colombiere	49.25472	-2.09361	JE	00
+Bailiwick of Jersey	49.21667	-2.11667	JE	00
+Jersey	49.2167	-2.13753	JE	00
+Ile au Guerdain	49.16972	-2.1775	JE	00
+Grosnez Point	49.25806	-2.24806	JE	00
+Greve de Lecq	49.24806	-2.20139	JE	00
+Greve au Lancon	49.25722	-2.23278	JE	00
+Grand Chemins	49.2	-2.06667	JE	00
+Gorey	49.19937	-2.02826	JE	00
+Fremont Point	49.25361	-2.12139	JE	00
+Douet de la Mer	49.23528	-2.03667	JE	00
+Les Dirouilles	49.3	-2.03333	JE	00
+Corbiere Point	49.18139	-2.24528	JE	00
+Bouilly Port	49.18083	-2.20306	JE	00
+Bel Royal	49.19806	-2.14722	JE	00
+Belle Vue	49.19139	-2.17306	JE	00
+Belle Hougue Point	49.255	-2.10083	JE	00
+Beaumont	49.19639	-2.15861	JE	00
+La Greve d' Azette	49.16824	-2.08457	JE	00
+Anne Port	49.20493	-2.02217	JE	00
+Aiguillon	49.17333	-2.21889	JE	00
+Plateau des Minquiers	48.96667	-2.08333	JE	00
+Icho Bank	49.11444	-2.07167	JE	00
+Plateau de la Frouquie	49.1	-1.96667	JE	00
+La Rousse Platte	49.12222	-1.96667	JE	00
+L'Echiquelez	49.14222	-2.04056	JE	00
+La Longy	49.14444	-2.02556	JE	00
+Gros Etacs	49.14806	-2.03833	JE	00
+La Grande Frouquie	49.14583	-2.05167	JE	00
+La Rousse	49.15111	-2.04722	JE	00
+La Frouquie	49.14944	-2.08889	JE	00
+Demie de Pas	49.15	-2.1025	JE	00
+Little Demie	49.15083	-2.09972	JE	00
+La Coniere	49.15833	-2.03083	JE	00
+L'teton	49.16222	-2.03806	JE	00
+Rocque Herbeuse	49.16444	-2.05972	JE	00
+Rocque Larron	49.16056	-2.06389	JE	00
+Havre de Fontaines	49.16667	-2.06444	JE	00
+La Sambue	49.15472	-2.08111	JE	00
+La Trouee	49.16111	-2.06972	JE	00
+Fort Henry	49.18722	-2.03306	JE	00
+Fort William	49.18602	-2.0347	JE	00
+Round Rouget	49.15417	-2.08917	JE	00
+Bailhache	49.15694	-2.09944	JE	00
+La Ronde	49.16583	-2.09028	JE	00
+Tas de Pois	49.15667	-2.10528	JE	00
+Mondine	49.16528	-2.10806	JE	00
+Havre des Pas	49.17583	-2.10417	JE	00
+Point des Pas	49.17444	-2.10694	JE	00
+East La Cloche	49.16444	-2.1225	JE	00
+West La Cloche	49.16444	-2.12556	JE	00
+South Reef	49.16528	-2.11694	JE	00
+Petite Mangeuse	49.17222	-2.11278	JE	00
+Grande Mangeuse	49.17278	-2.11472	JE	00
+Crapaud of the Mangeuse	49.17194	-2.11639	JE	00
+Hermitage Breakwater	49.17167	-2.12389	JE	00
+Hinguette	49.15444	-2.12583	JE	00
+Saint Helier Harbour	49.17861	-2.11333	JE	00
+Crapaud of the Castle	49.17417	-2.11972	JE	00
+Old Harbour	49.17917	-2.11056	JE	00
+French Harbour	49.1775	-2.11083	JE	00
+English Harbour	49.17861	-2.10972	JE	00
+Saint Helier Marina	49.18167	-2.11111	JE	00
+New North Quay	49.18	-2.11083	JE	00
+Albert Pier	49.18083	-2.11306	JE	00
+South Pier	49.17833	-2.10972	JE	00
+Victoria Pier	49.17528	-2.11417	JE	00
+East Pier	49.17889	-2.115	JE	00
+West Breakwater	49.17861	-2.11611	JE	00
+Les Buts	49.17361	-2.12639	JE	00
+Fort Elizabeth	49.17611	-2.12556	JE	00
+Elizabeth Castle	49.17611	-2.12528	JE	00
+Fort Charles	49.17778	-2.12417	JE	00
+Gros du Chateau	49.17583	-2.13028	JE	00
+Rocquemin	49.17722	-2.1325	JE	00
+La Vrachiere	49.18139	-2.12639	JE	00
+Baleine	49.17361	-2.13611	JE	00
+La Collette Yacht Basin	49.17444	-2.11444	JE	00
+Saint Clement	49.16565	-2.07659	JE	3237072
+Saint Saviour	49.19517	-2.09238	JE	3237073
+Les Tetards	49.1475	-2.12028	JE	00
+Frouquie	49.15417	-2.14972	JE	00
+Les Junees	49.17083	-2.15806	JE	00
+Saint Aubin's Fort	49.18417	-2.16139	JE	00
+Les Poches a Suie	49.14694	-2.16194	JE	00
+Grande Vaudin	49.14639	-2.16917	JE	00
+Les Vracheres	49.14417	-2.20222	JE	00
+Frouquie des Vracheres	49.14222	-2.19861	JE	00
+Les Vraicquieres	49.14917	-2.2025	JE	00
+Hubaut	49.15222	-2.19472	JE	00
+Banc Le Fret	49.16278	-2.18917	JE	00
+Sillette	49.1525	-2.16222	JE	00
+Noirs Hommes	49.15833	-2.16111	JE	00
+Petit Four	49.15694	-2.16333	JE	00
+Grand Four	49.1575	-2.17	JE	00
+Pignonet	49.16472	-2.16194	JE	00
+Portelet Ledge	49.16611	-2.17889	JE	00
+Point de But	49.17472	-2.16444	JE	00
+Banc de Saint Brelade	49.16583	-2.20889	JE	00
+Frouquie	49.17194	-2.19417	JE	00
+Fourche	49.17361	-2.19806	JE	00
+Fournier du Havre	49.17778	-2.20028	JE	00
+Rocquet	49.18194	-2.19972	JE	00
+Point Le Grouin	49.18167	-2.18944	JE	00
+Beau Port	49.1775	-2.20722	JE	00
+Les Creux	49.18056	-2.20556	JE	00
+Mont Fiquet	49.17972	-2.21417	JE	00
+La Moye	49.18222	-2.22222	JE	00
+Saint Brelade	49.19056	-2.20056	JE	3237200
+Ville es Nouaux	49.19472	-2.12861	JE	00
+Grouville	49.18472	-2.04917	JE	3237203
+Fort Regent	49.18109	-2.10637	JE	00
+Saint Mary	49.23583	-2.17222	JE	3237212
+Saint Lawrence	49.21528	-2.14	JE	3237214
+Saint Peter	49.21333	-2.18194	JE	3237221
+Saint Ouen	49.22667	-2.20556	JE	3237229
+Les Blanches Banques	49.19722	-2.21111	JE	00
+La Fosse	49.17472	-2.18056	JE	00
+Grosse Tete	49.17556	-2.21056	JE	00
+Noirmontaise Reef	49.17833	-2.25639	JE	00
+Les Boiteaux	49.18111	-2.26167	JE	00
+La Boue	49.18278	-2.25917	JE	00
+La Frouquie	49.1875	-2.25444	JE	00
+Great Bank	49.19389	-2.27083	JE	00
+Rigdon Bank	49.23944	-2.28806	JE	00
+Petit Etaquerel	49.23944	-2.25056	JE	00
+Grand Etaquerel	49.2425	-2.25083	JE	00
+Swashway Channel	49.23806	-2.28333	JE	00
+Ville au Bas	49.22639	-2.21222	JE	00
+La Villaise	49.24083	-2.23667	JE	00
+Banc Desormes	49.3125	-2.275	JE	00
+North West Head	49.31556	-2.28389	JE	00
+East Reef	49.3	-2.195	JE	00
+North West Reef	49.29528	-2.22083	JE	00
+Portinfer	49.25111	-2.22583	JE	00
+Plemont Deep	49.27167	-2.20139	JE	00
+Grand Becquet	49.25417	-2.21167	JE	00
+The Demies	49.25167	-2.19917	JE	00
+Ville Bagot	49.24361	-2.2075	JE	00
+Le Rondin	49.23889	-2.18111	JE	00
+Isle Agois	49.24889	-2.1825	JE	00
+Crabbe	49.24889	-2.18389	JE	00
+Le Col de la Rocque	49.25056	-2.18	JE	00
+Les Reuses	49.25028	-2.17611	JE	00
+La Falaise	49.24944	-2.16889	JE	00
+La Plaine Point	49.25833	-2.16556	JE	00
+Le Fosse Vicq	49.25917	-2.16306	JE	00
+La Houle	49.26167	-2.15528	JE	00
+Grand Mourier	49.25528	-2.14833	JE	00
+La Lipende Point	49.25556	-2.14194	JE	00
+Perruque	49.25167	-2.14417	JE	00
+Saint John	49.24694	-2.1375	JE	3237497
+Cotil Point	49.25333	-2.13472	JE	00
+Mont Mado	49.24694	-2.12417	JE	00
+Long Echet	49.25389	-2.10444	JE	00
+Vicard Harbour	49.24833	-2.08694	JE	00
+L'Islet	49.23833	-2.07861	JE	00
+Trinity	49.23472	-2.09	JE	3237530
+L'Etaquerel	49.23833	-2.06694	JE	00
+Les Troupeurs	49.24611	-2.06528	JE	00
+Demie de la Tour	49.24472	-2.05111	JE	00
+Nez du Guet	49.24	-2.04361	JE	00
+Hiaux	49.24056	-2.04194	JE	00
+Le Graveur	49.22111	-2.01889	JE	00
+Eureka	49.22083	-2.00417	JE	00
+Belval Cove	49.22111	-2.02611	JE	00
+Le Ruau	49.26667	-2.03333	JE	00
+La Hau	49.285	-2.05	JE	00
+Joli	49.29083	-2.04861	JE	00
+Le Foret	49.29611	-2.04667	JE	00
+Le But	49.29611	-2.0525	JE	00
+Frouquie	49.29556	-2.04028	JE	00
+Les Burons	49.29861	-2.03528	JE	00
+La Platte	49.29444	-2.01639	JE	00
+Frouquie	49.29778	-2.01306	JE	00
+La Grese	49.3025	-2.02028	JE	00
+Noire Roque	49.30306	-2.03278	JE	00
+La Joie	49.30972	-2.03306	JE	00
+Le Fierco	49.30583	-1.98972	JE	00
+L'Etoc	49.30167	-1.99417	JE	00
+Le Ruquet	49.30583	-1.97472	JE	00
+Grande Rousse	49.29222	-1.98306	JE	00
+Petite Rousse	49.29028	-1.96833	JE	00
+Marmotier	49.29167	-1.92778	JE	00
+Ile Maitre	49.28333	-1.92778	JE	00
+Ecreviere Bank	49.275	-1.89917	JE	00
+Saint Martin	49.21944	-2.04972	JE	3237716
+Banc du Chateau	49.19167	-1.98333	JE	00
+Le Giffard	49.17556	-1.98194	JE	00
+La Grande Arconie	49.12639	-1.89778	JE	00
+Saint Helier	49.18333	-2.1	JE	3237864
+Grosnez Castle	49.25722	-2.24694	JE	00
+Le Pinacle	49.2475	-2.25389	JE	00
+Les Laveurs	49.23	-2.23222	JE	00
+Lewis Tower	49.22972	-2.235	JE	00
+Kempt Tower	49.22111	-2.22806	JE	00
+Le Val Rouget	49.24667	-2.19583	JE	00
+Meulet Point	49.23889	-2.06389	JE	00
+Le Sauchet	49.24139	-2.04861	JE	00
+L'Ouziere	49.21806	-2.22944	JE	00
+Square Fort	49.21694	-2.22611	JE	00
+La Rocco Tower	49.19833	-2.23417	JE	00
+Le Vermeux	49.19861	-2.24111	JE	00
+La Rosiere	49.17861	-2.23694	JE	00
+La Moye	49.18417	-2.21944	JE	00
+St Aubin	49.18754	-2.17087	JE	
+THE SAVOY	49.19069	-2.1094	JE	
+Les Platons	49.2462	-2.1044	JE	
+Trinity	49.23408	-2.09272	JE	00
+St Mary's Village	49.23646	-2.17628	JE	
+St Brelade	49.19146	-2.20482	JE	
+St Lawrence	49.21583	-2.14139	JE	
+Grouville	49.18395	-2.05032	JE	
+beausite	49.187	-2.041	JE	
+grand jersey	49.1874	-2.116	JE	
+hampshire	49.19052	-2.10397	JE	
+l horizon	49.19103	-2.19997	JE	
+longueville manor	49.18122	-2.0795	JE	
+mayfair	49.18532	-2.0991	JE	
+metropole	49.17957	-2.10104	JE	
+shakespeare coast	49.17441	-2.08386	JE	
+somerville	49.18532	-2.17063	JE	
+stafford	49.18778	-2.11348	JE	
+waters edge	49.24	-2.052	JE	
+Saint Clements	49.17404	-2.05715	JE	
+Fliquet	49.2278	-2.02869	JE	3237716
+La Greve de Lecq	49.24542	-2.20287	JE	3237229
+St Martin	49.21917	-2.04989	JE	3237716
+Jersey Racecourse	49.25299	-2.24589	JE	
+Five Oaks	49.19828	-2.08139	JE	
+Apollo Jersey	49.18412	-2.09908	JE	
+Cri	49.20036	-2.13937	JE	
+De France	49.19083	-2.09573	JE	
+De Normandie	49.17683	-2.0953	JE	
+Gol	49.18526	-2.1967	JE	
+De Vere Grand Jersey	49.18738	-2.11608	JE	
+Monterey	49.19009	-2.09726	JE	
+Ommaroo	49.17755	-2.09912	JE	
+The Fort D'Auvergne	49.17721	-2.1013	JE	
+The Monterey	49.184	-2.078	JE	
+Uplands Apartments	49.196	-2.113	JE	
+Samares Coast	49.167	-2.081	JE	
+St. Peter	49.21479	-2.18263	JE	3237221
+St Peters Village	49.21294	-2.18353	JE	3237221
+La Presse	49.21423	-2.19422	JE	3237221
+Jubilee	49.21064	-2.204	JE	
+St. Ouens Manor	49.22499	-2.20014	JE	3237229
+St. Peters Arsenal	49.20204	-2.1822	JE	3237221
+La Fontaine	49.20742	-2.17546	JE	
+The Grand Jersey	49.2068	-2.1057	JE	
+Jersey Port	49.18131	-2.11452	JE	
+Queens (Jersey)	49.194	-2.109	JE	
+Portelet	49.1755	-2.1775	JE	
+Chateau La Chaire	49.23508	-2.0475	JE	
+Radisson Blu Waterfront St Helier	49.18426	-2.11556	JE	
+The Water's Edge	49.2392	-2.08278	JE	

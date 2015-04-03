@@ -1,0 +1,3285 @@
+Vayland	44.49359	-98.79899	US	SD
+Township of Turney	43.39306	-99.20732	US	SD
+Alsville	44.58663	-97.12812	US	SD
+Hayti	44.65719	-97.20507	US	SD
+Township of Ryan	45.38471	-99.88179	US	SD
+Aberdeen	45.4647	-98.48648	US	SD
+City of Aberdeen	45.46472	-98.46784	US	SD
+Township of Aberdeen	45.4571	-98.51994	US	SD
+Abigail Gardner Rescue Site	44.91192	-98.51259	US	SD
+Township of Adrian	45.5493	-99.1536	US	SD
+Township of Afton	44.41226	-96.70756	US	SD
+Township of Afton	44.15316	-97.91001	US	SD
+Ahnberg	44.30414	-97.05701	US	SD
+Alamo	45.47137	-99.79012	US	SD
+Township of Alban	45.19444	-96.54357	US	SD
+Albee	45.05219	-96.55339	US	SD
+Town of Albee	45.05129	-96.55354	US	SD
+Township of Albion	42.95194	-97.93146	US	SD
+Alcester	43.02138	-96.63087	US	SD
+City of Alcester	43.02308	-96.62818	US	SD
+Township of Alcester	43.04044	-96.62806	US	SD
+Alcester-Wakonda Interchange	43.01082	-96.7956	US	SD
+Township of Alden	44.67807	-99.1302	US	SD
+Alexandria	43.65359	-97.78285	US	SD
+City of Alexandria	43.65404	-97.77992	US	SD
+Township of Allen	44.5021	-98.51909	US	SD
+Township of Alliance	43.89136	-96.49022	US	SD
+Township of Allison	45.80843	-98.66274	US	SD
+Alpena	44.18138	-98.36565	US	SD
+Town of Alpena	44.18295	-98.36835	US	SD
+Township of Alpena	44.15278	-98.39335	US	SD
+Township of Alpha	44.59093	-99.00896	US	SD
+Alsen	42.9611	-96.8056	US	SD
+Alsen Interchange	42.95388	-96.79504	US	SD
+Altamont	44.83969	-96.6895	US	SD
+Town of Altamont	44.84078	-96.69015	US	SD
+Township of Altamont	44.84749	-96.67247	US	SD
+Township of Alto	45.42797	-97.16502	US	SD
+Township of Alton	44.3257	-96.58608	US	SD
+Township of Altoona	44.58918	-98.40239	US	SD
+Township of America	43.54589	-99.22991	US	SD
+Township of Agency	45.51471	-97.04101	US	SD
+Ames	44.26915	-99.08482	US	SD
+Amherst	45.73801	-97.92122	US	SD
+Anderson Private Airstrip	43.91638	-99.84095	US	SD
+Andover	45.41023	-97.9026	US	SD
+Town of Andover	45.41022	-97.90371	US	SD
+Township of Andover	45.4139	-97.91912	US	SD
+Andys Acres	43.62942	-96.69005	US	SD
+Township of Anina	43.97962	-98.62942	US	SD
+Township of Antelope	43.91331	-97.09923	US	SD
+Antelope Valley	45.12996	-96.93063	US	SD
+Township of Antelope Valley	44.93353	-96.48442	US	SD
+Township of Antelope	44.67572	-98.15988	US	SD
+Appleby	44.81691	-97.05063	US	SD
+Township of Arcade	44.94059	-99.02221	US	SD
+Township of Argo	44.49991	-96.70618	US	SD
+Argonne	44.07331	-97.63868	US	SD
+Arlington	44.36441	-97.13312	US	SD
+Township of Arlington	44.1361	-99.21427	US	SD
+City of Arlington	44.36354	-97.13436	US	SD
+Township of Armadale	45.19303	-98.31926	US	SD
+Armour	43.3186	-98.34675	US	SD
+Armour Landing Strip	43.32943	-98.33647	US	SD
+City of Armour	43.31899	-98.34485	US	SD
+Township of Artas	45.87498	-99.82123	US	SD
+Town of Artas	45.88723	-99.8068	US	SD
+Artesian	44.00915	-97.92091	US	SD
+Town of Artesian	44.00789	-97.92371	US	SD
+Township of Asa	44.14581	-97.48118	US	SD
+Artas	45.88804	-99.80651	US	SD
+Township of Ash	45.0224	-97.9217	US	SD
+Ashton	44.99497	-98.49787	US	SD
+Township of Ashton	45.00525	-98.44204	US	SD
+City of Ashton	44.99306	-98.49911	US	SD
+Astoria	44.5583	-96.54727	US	SD
+Town of Astoria	44.55773	-96.5465	US	SD
+Athol	45.00886	-98.59649	US	SD
+Township of Athol	45.02803	-98.63559	US	SD
+Aurora	44.28413	-96.68561	US	SD
+Aurora Prairie	44.26386	-96.7045	US	SD
+Town of Aurora	44.28214	-96.68656	US	SD
+Township of Aurora	43.54218	-98.38134	US	SD
+Township of Aurora	44.32732	-96.70344	US	SD
+Avon	43.005	-98.0598	US	SD
+City of Avon	43.00516	-98.0593	US	SD
+Township of Avon	43.03916	-98.0498	US	SD
+Badger	44.48524	-97.20479	US	SD
+Town of Badger	44.4855	-97.20787	US	SD
+Township of Badger	43.80571	-98.14592	US	SD
+Township of Badger	44.49493	-97.22252	US	SD
+Badlands	43.75027	-99.39621	US	SD
+Township of Badus	44.1529	-97.18943	US	SD
+Township of Bailey	43.79321	-99.68553	US	SD
+Township of Baker	43.54229	-98.26347	US	SD
+Township of Baker	44.37074	-97.37831	US	SD
+Baltic	43.76136	-96.74033	US	SD
+City of Baltic	43.76031	-96.73698	US	SD
+Bancroft	44.48803	-97.75008	US	SD
+Town of Bancroft	44.48937	-97.7505	US	SD
+Township of Bangor	44.32556	-97.06756	US	SD
+Township of Banner	44.41217	-97.913	US	SD
+Township of Banner	44.84442	-99.36289	US	SD
+Township of Banner	43.46489	-99.94886	US	SD
+Township of Bates	45.28418	-98.04233	US	SD
+Township of Bates	44.24014	-98.76192	US	SD
+Bath	45.4683	-98.32371	US	SD
+Bath Corner	45.45914	-98.32954	US	SD
+Township of Bath	45.45892	-98.3397	US	SD
+Township of Bauer	45.72359	-99.65595	US	SD
+Beardsley	43.29832	-97.98229	US	SD
+Township of Beaulah	43.55832	-97.80451	US	SD
+Township of Beaver	43.8932	-97.79088	US	SD
+Township of Becker	45.5356	-96.83697	US	SD
+Beebe	45.44803	-99.19539	US	SD
+Township of Belford	43.89384	-98.39159	US	SD
+Township of Belle Plaine	44.84976	-98.16009	US	SD
+Township of Belle Prairie	44.23832	-97.9138	US	SD
+Township of Belle	45.54905	-98.90453	US	SD
+Township of Belleview	44.15229	-97.43041	US	SD
+Township of Belmont	43.29755	-98.16883	US	SD
+Township of Belmont	44.67633	-98.40245	US	SD
+Bemis	44.83496	-96.8484	US	SD
+Benclare	43.50553	-96.47893	US	SD
+Township of Benedict	44.06774	-97.91072	US	SD
+Township of Benton	43.71714	-97.54779	US	SD
+Township of Benton	43.63219	-96.83443	US	SD
+Township of Benton	45.11141	-98.16606	US	SD
+Township of Bentz	43.06055	-98.75481	US	SD
+Township of Beotia	45.19797	-98.16545	US	SD
+Township of Berea	45.02053	-98.88955	US	SD
+Beresford	43.08054	-96.77366	US	SD
+City of Beresford	43.07965	-96.78022	US	SD
+Township of Bergdorf	45.8972	-99.28373	US	SD
+Township of Berlin	43.47082	-98.17397	US	SD
+Bess Point	43.96386	-97.03228	US	SD
+Township of Bethel	42.95311	-97.10156	US	SD
+Betts	43.70637	-98.14619	US	SD
+Township of Beulah	43.71672	-98.14618	US	SD
+Township of Beulah	43.54326	-97.78643	US	SD
+Bieglers First Addition	45.55025	-98.61371	US	SD
+Big Bend	44.18749	-99.67539	US	SD
+Big Bend	44.08332	-99.54205	US	SD
+Big Bend Landing Strip	44.06999	-99.46455	US	SD
+The Big Bend of the Missouri	44.18832	-99.70261	US	SD
+Big Coulee	45.47274	-97.02897	US	SD
+Big Mound	44.05507	-98.08755	US	SD
+Big Sioux Conifer Nursery	44.97358	-97.1523	US	SD
+Township of Big Sioux	42.52312	-96.50872	US	SD
+Big Stone City	45.29163	-96.46283	US	SD
+Township of Big Stone	45.28186	-96.51756	US	SD
+Bishop Hare Statue	43.53609	-96.72922	US	SD
+Township of Bix Sioux	42.55416	-96.53781	US	SD
+Township of Black Dog	43.68333	-99.574	US	SD
+Unorganized Territory of Black Dog	43.62185	-99.57872	US	SD
+Township of Blaine	45.10837	-97.55544	US	SD
+Township of Blaine	43.98087	-98.39163	US	SD
+Township of Blaine	45.63609	-99.28373	US	SD
+Township of Blaine	44.67137	-99.96956	US	SD
+Township of Blendon	43.80617	-98.2656	US	SD
+Township of Blessing	45.63888	-99.90317	US	SD
+Township of Blinsmon	43.89151	-96.58741	US	SD
+Township of Blom	44.58725	-96.70345	US	SD
+Township of Black	43.38636	-99.94894	US	SD
+Blooming Valley	43.48054	-98.32119	US	SD
+Township of Blooming Valley	45.25364	-97.16454	US	SD
+Bloomingdale	42.92444	-96.95671	US	SD
+Blue Cloud Abbey	45.25274	-96.89063	US	SD
+Blue Dog Grave	45.42802	-97.2837	US	SD
+Blunt	44.5122	-99.99207	US	SD
+City of Blunt	44.51594	-99.98856	US	SD
+Township of Blunt	44.49026	-99.95707	US	SD
+Bon Homme Colony	42.86417	-97.70701	US	SD
+Township of Bon Homme	42.88611	-97.76284	US	SD
+Bond Bottom	43.55361	-99.28788	US	SD
+Bonesteel	43.07639	-98.94453	US	SD
+Township of Bonesteel	43.11861	-98.93231	US	SD
+City of Bonesteel	43.07759	-98.94677	US	SD
+Bonilla	44.58276	-98.49926	US	SD
+Township of Bonilla	44.58992	-98.52379	US	SD
+Booge	43.64581	-96.46004	US	SD
+Township of Bossko	45.77557	-97.16536	US	SD
+Bovee	43.32333	-98.76897	US	SD
+Bowdle	45.45304	-99.65401	US	SD
+City of Bowdle	45.45127	-99.65648	US	SD
+Township of Bowdle	45.46326	-99.64667	US	SD
+Township of Bradland	44.38332	-98.3962	US	SD
+Bradley	45.09052	-97.6437	US	SD
+Town of Bradley	45.09041	-97.64194	US	SD
+Bradleyon Butte	43.48639	-99.76067	US	SD
+Township of Brainard	45.72186	-98.37883	US	SD
+Brandon	43.5947	-96.57199	US	SD
+City of Brandon	43.59279	-96.57986	US	SD
+Township of Brandon	43.63484	-96.5935	US	SD
+Brandt	44.66358	-96.62422	US	SD
+Town of Brandt	44.66693	-96.62516	US	SD
+Township of Brandt	44.67406	-96.70298	US	SD
+Township of Brantford	44.76059	-97.40062	US	SD
+Brens Corner	44.88996	-96.85173	US	SD
+Brentford	45.16025	-98.32287	US	SD
+Town of Brentford	45.1592	-98.32256	US	SD
+Township of Bretton	44.49026	-99.83567	US	SD
+Bristol	45.34468	-97.74843	US	SD
+City of Bristol	45.34666	-97.7485	US	SD
+Township of Bristol	43.8931	-98.51085	US	SD
+Township of Bristol	45.37045	-97.79726	US	SD
+Britton	45.79162	-97.75094	US	SD
+City of Britton	45.79237	-97.75288	US	SD
+Brookings	44.31136	-96.79839	US	SD
+City of Brookings	44.30265	-96.78501	US	SD
+Township of Brookings	44.33466	-96.8394	US	SD
+Township of Brooklyn	43.12723	-96.86485	US	SD
+Brooks Corner	45.32524	-97.10452	US	SD
+Brown Landing Strip	43.37694	-99.87734	US	SD
+Bruce	44.43802	-96.89006	US	SD
+City of Bruce	44.43789	-96.89009	US	SD
+Township of Brule	43.71312	-99.3498	US	SD
+Township of Brule	42.77908	-96.74719	US	SD
+Township of Bryan	45.83332	-99.99623	US	SD
+Township of Bryan	43.12599	-98.28789	US	SD
+Bryant	44.59052	-97.4673	US	SD
+City of Bryant	44.5899	-97.46728	US	SD
+Township of Bryant	45.46277	-99.27666	US	SD
+Township of Bryant	45.02789	-99.26701	US	SD
+Township of Bryant	45.70012	-96.79738	US	SD
+Buffalo Buttes	43.45667	-99.51066	US	SD
+Buffalo Trading Post	43.79053	-97.06895	US	SD
+Township of Buffalo	45.602	-97.28928	US	SD
+Township of Buffalo	43.80479	-97.06922	US	SD
+Township of Buffalo	44.67731	-98.64515	US	SD
+Township of Buffalo	44.67137	-99.84845	US	SD
+Burbank	42.74528	-96.82921	US	SD
+Burdette	44.70498	-98.80038	US	SD
+Township of Burdette	44.67805	-98.76581	US	SD
+Township of Burk	43.80466	-96.83086	US	SD
+Burke	43.1825	-99.29205	US	SD
+City of Burke	43.18282	-99.2923	US	SD
+Township of Burke	43.20555	-99.22788	US	SD
+Burkmere	45.04859	-99.31178	US	SD
+Township of Burr Oak	44.24033	-98.64001	US	SD
+Bushnell	44.32858	-96.64255	US	SD
+Town of Bushnell	44.3277	-96.6422	US	SD
+Butler	45.25884	-97.71231	US	SD
+Town of Butler	45.26199	-97.71161	US	SD
+Township of Butler	45.28329	-97.67335	US	SD
+Township of Butler	43.89448	-98.03104	US	SD
+Township of Butte	44.3161	-99.71428	US	SD
+Township of Butte	43.80499	-99.56427	US	SD
+Cactus Heights	43.56025	-96.66727	US	SD
+Township of Cambria	45.54549	-98.28876	US	SD
+Canistota	43.59776	-97.29062	US	SD
+City of Canistota	43.59776	-97.29258	US	SD
+Township of Canistota	43.63065	-97.30838	US	SD
+Canova	43.88109	-97.50451	US	SD
+Town of Canova	43.88126	-97.50396	US	SD
+Township of Canova	43.89242	-97.55068	US	SD
+Canton	43.30081	-96.59282	US	SD
+Canton Exit	43.30137	-96.79644	US	SD
+Canton Mounds	43.32986	-96.55165	US	SD
+City of Canton	43.30333	-96.58478	US	SD
+Township of Canton	43.30104	-96.64677	US	SD
+Township of Canton	45.02053	-99.624	US	SD
+Township of Carl	45.80924	-98.78549	US	SD
+Township of Carlisle	45.63442	-98.66299	US	SD
+Carlock	43.08195	-99.43483	US	SD
+Township of Carlton	44.76548	-98.88657	US	SD
+Township of Carlyle	44.24017	-98.39676	US	SD
+Carpenter	44.63747	-97.91676	US	SD
+Township of Carr	45.10804	-99.74623	US	SD
+Township of Carroll	43.4636	-98.76607	US	SD
+Carthage	44.17109	-97.71647	US	SD
+City of Carthage	44.1686	-97.71496	US	SD
+Township of Carthage	44.15193	-97.6679	US	SD
+Castalia	43.37361	-98.96426	US	SD
+Township of Castalia	43.38472	-99.00315	US	SD
+Unorganized Territory of Castalia	43.38417	-99.00315	US	SD
+Castlewood	44.72274	-97.03007	US	SD
+City of Castlewood	44.72416	-97.03092	US	SD
+Township of Castlewood	44.76148	-97.06778	US	SD
+Cavour	44.36998	-98.03787	US	SD
+Town of Cavour	44.36933	-98.0421	US	SD
+Township of Cavour	44.41302	-98.03302	US	SD
+Township of Cedar	44.32596	-99.24272	US	SD
+Unorganized Territory of Central Hyde	44.45712	-99.48438	US	SD
+Unorganized Territory of Central McPherson	45.74198	-99.11069	US	SD
+Township of Central Point	45.2828	-97.29603	US	SD
+Unorganized Territory of Central Potter	45.0713	-99.94807	US	SD
+Central Speedway	44.50248	-98.98066	US	SD
+Township of Central	43.04638	-97.43117	US	SD
+Chamberlain	43.81083	-99.33066	US	SD
+City of Chamberlain	43.78574	-99.32645	US	SD
+Township of Chamberlain	43.82034	-99.29781	US	SD
+Chancellor	43.3722	-96.987	US	SD
+Town of Chancellor	43.37187	-96.98729	US	SD
+Chautauqua	43.98025	-97.06006	US	SD
+Town of Chelsea	45.16756	-98.74338	US	SD
+Township of Chery	44.15361	-98.63049	US	SD
+Chester	43.89497	-96.92645	US	SD
+Township of Chester	43.31707	-98.42284	US	SD
+Township of Chester	43.8918	-96.94873	US	SD
+Township of Childstown	43.29966	-97.34003	US	SD
+Chelsea	45.16859	-98.73955	US	SD
+Township of Civil Bend	42.59697	-96.64697	US	SD
+Claire City	45.85718	-97.1037	US	SD
+Town of Claire City	45.85662	-97.10353	US	SD
+Township of Clare	44.06557	-96.70855	US	SD
+Claremont	45.6719	-98.01566	US	SD
+Town of Claremont	45.67186	-98.01565	US	SD
+Township of Claremont	45.62813	-98.07521	US	SD
+Clark	44.87774	-97.73314	US	SD
+Clark Colony	44.78942	-97.98037	US	SD
+City of Clark	44.88136	-97.73482	US	SD
+Township of Clark	43.39339	-98.64176	US	SD
+Township of Clark	45.20187	-99.38905	US	SD
+Township of Clarno	43.89193	-97.30929	US	SD
+Clay Point	42.90972	-96.9031	US	SD
+Clayton	43.4436	-97.65784	US	SD
+Township of Clayton	43.44065	-97.69315	US	SD
+Township of Clearwater	43.979	-97.43001	US	SD
+Township of Cleveland	42.95194	-97.81285	US	SD
+Township of Cleveland	43.80354	-99.09335	US	SD
+Township of Cleveland	45.37566	-99.15409	US	SD
+Township of Cleveland	44.58681	-97.30999	US	SD
+Township of Cleveland	45.63609	-99.40734	US	SD
+Township of Clifton	44.23977	-98.15394	US	SD
+Township of Clifton	45.02544	-98.30924	US	SD
+Township of Clinton	43.08194	-98.04841	US	SD
+Township of Clinton	43.98018	-97.79075	US	SD
+Cloverleaf Colony	44.18247	-97.53702	US	SD
+Township of Cloyd Valley	45.37603	-99.52378	US	SD
+Township of Clyde	44.32439	-98.28008	US	SD
+Colfax Corner	43.0111	-97.02227	US	SD
+Township of Collins	44.5872	-97.67481	US	SD
+Colman	43.98247	-96.8145	US	SD
+City of Colman	43.98354	-96.81474	US	SD
+Township of Colman	43.97853	-96.8296	US	SD
+Colome	43.26056	-99.71511	US	SD
+City of Colome	43.25967	-99.71687	US	SD
+Township of Colome	43.29955	-99.71184	US	SD
+Colton	43.78609	-96.92756	US	SD
+Columbia	45.61302	-98.3126	US	SD
+City of Columbia	45.61482	-98.31064	US	SD
+Township of Columbia	45.63482	-98.24797	US	SD
+Township of Como	44.239	-99.24291	US	SD
+Township of Concord	44.06603	-97.30961	US	SD
+Conde	45.15719	-98.09759	US	SD
+City of Conde	45.1573	-98.09544	US	SD
+Township of Conde	45.19757	-98.042	US	SD
+Township of Condon	43.54329	-99.68319	US	SD
+Township of Convent	44.22943	-99.35066	US	SD
+City of Colton	43.78707	-96.92804	US	SD
+Township of Cooper	43.80434	-98.61923	US	SD
+Township of Cora	44.84498	-99.72539	US	SD
+Corn Palace	43.71471	-98.02508	US	SD
+Township of Cornwall	44.67602	-98.2811	US	SD
+Corona	45.33385	-96.76312	US	SD
+Town of Corona	45.33523	-96.76458	US	SD
+Corsica	43.42527	-98.4073	US	SD
+City of Corsica	43.42235	-98.40734	US	SD
+Corson	43.61636	-96.57171	US	SD
+Township of Corson	45.48554	-99.88373	US	SD
+Township of Cortlandt	45.46151	-98.78288	US	SD
+Coteau des Prairies	43.54166	-98.7337	US	SD
+Coteau des Prairies	44.33361	-96.80472	US	SD
+The Coteaus	44.72385	-97.13785	US	SD
+Township of Cottonwood	45.10868	-97.67802	US	SD
+Country Acres	43.50053	-96.8895	US	SD
+Crandall	45.15524	-97.95565	US	SD
+Crandon	44.7747	-98.45815	US	SD
+Township of Crandon	44.76309	-98.40233	US	SD
+Craven	45.4422	-98.92511	US	SD
+Craven Corner	45.44775	-98.92594	US	SD
+Crooks	43.6647	-96.81089	US	SD
+City of Crooks	43.65945	-96.8092	US	SD
+Township of Cross Plains	43.46328	-97.93738	US	SD
+Township of Cunningham	45.02081	-99.86873	US	SD
+Township of Custer	44.32321	-98.14999	US	SD
+Cuthbert	43.96776	-98.22397	US	SD
+Dahlberg	45.85579	-97.18537	US	SD
+Dakota Dunes	42.48749	-96.48642	US	SD
+Township of Dale	44.15277	-98.51148	US	SD
+Dalesburg	42.97694	-96.90421	US	SD
+Dallas	43.23611	-99.51705	US	SD
+Town of Dallas	43.23783	-99.51751	US	SD
+Daly Corners	45.64663	-98.20704	US	SD
+Township of Daneville	43.12673	-97.10125	US	SD
+Danforth	44.25415	-98.88343	US	SD
+Dante	43.03861	-98.18424	US	SD
+Town of Dante	43.0399	-98.18555	US	SD
+Township of Darlington	43.38208	-98.76104	US	SD
+Township of Darlington	44.76152	-97.79561	US	SD
+Davis	43.25748	-96.99561	US	SD
+Davis Exit	43.25776	-96.79644	US	SD
+Town of Davis	43.25953	-96.99451	US	SD
+Township of Crow	44.06464	-98.86701	US	SD
+Township of Day	44.84747	-97.67324	US	SD
+Township of Dayton	43.3852	-96.6126	US	SD
+Township of Dayton	45.89264	-97.91656	US	SD
+De Grey	44.28582	-99.9179	US	SD
+Township of De Grey	44.31665	-99.95679	US	SD
+De Smet	44.38747	-97.55035	US	SD
+Township of De Smet	44.37698	-97.52698	US	SD
+City of De Smet	44.38615	-97.54969	US	SD
+Township of Dearborn	44.32818	-98.39622	US	SD
+Deiter Landing Strip	44.87914	-98.39204	US	SD
+Township of Delapre	43.46315	-96.84602	US	SD
+Township of Delaware	43.21432	-96.86516	US	SD
+Dell Rapids	43.82608	-96.70616	US	SD
+City of Dell Rapids	43.82518	-96.71523	US	SD
+Township of Dell Rapids	43.80386	-96.71064	US	SD
+Delmont	43.26749	-98.1623	US	SD
+City of Delmont	43.26664	-98.15915	US	SD
+Dempster	44.63191	-96.95173	US	SD
+Township of Dempster	44.67394	-96.94572	US	SD
+Township of Denver	44.38594	-97.20391	US	SD
+Township of Detmold	45.89581	-99.53234	US	SD
+Deevaan Villa Development	45.50498	-98.45759	US	SD
+Devoe	45.09164	-98.87872	US	SD
+Township of Devoe	45.11442	-98.8991	US	SD
+Township of Dewey	45.70277	-99.99623	US	SD
+Township of Dewey	44.31665	-99.47178	US	SD
+Township of Dewey	45.63609	-99.15872	US	SD
+Township of Dexter	45.10812	-97.26789	US	SD
+Dezera	43.16527	-98.50175	US	SD
+Diamond	45.73718	-96.69146	US	SD
+Township of Diana	43.98023	-97.91055	US	SD
+Township of Dickens	43.11833	-99.46483	US	SD
+Dimock	43.47415	-97.98563	US	SD
+Town of Dimock	43.47601	-97.98793	US	SD
+Dixon	43.38333	-99.47316	US	SD
+Township of Dixon	43.42112	-99.47465	US	SD
+Township of Dixon	44.67383	-97.43113	US	SD
+Dog Ear Buttes	43.25691	-99.93027	US	SD
+Township of Dog Ear	43.21274	-99.949	US	SD
+Doland	44.8958	-98.10065	US	SD
+Township of Doland	44.88469	-98.08926	US	SD
+City of Doland	44.89449	-98.09985	US	SD
+Dolton	43.49082	-97.38562	US	SD
+Town of Dolton	43.49109	-97.3848	US	SD
+Township of Dolton	43.4646	-97.34045	US	SD
+Donegans Draw	43.88193	-98.46259	US	SD
+Township of Dorman	44.97776	-99.82595	US	SD
+Township of Douglas	44.67165	-99.48317	US	SD
+Township of Dudley	43.62989	-98.3836	US	SD
+Township of Dumarce	45.7796	-97.40766	US	SD
+Eagle	43.57194	-99.09093	US	SD
+Township of Eagle	43.54269	-99.09191	US	SD
+Township of Eagle	44.40387	-99.4715	US	SD
+Township of Earling	44.89054	-99.94484	US	SD
+Duxbury	45.24109	-98.49509	US	SD
+Township of East Choteau	43.23309	-98.15909	US	SD
+Township of East Hanson	45.37078	-98.04225	US	SD
+Unorganized Territory of East Potter	45.07167	-99.70403	US	SD
+Township of East Rondell	45.28456	-98.28931	US	SD
+Unorganized Territory of East Sully	44.72315	-99.87774	US	SD
+Unorganized Territory of East Gregory	43.15385	-99.04715	US	SD
+Unorganized Territory of East Walworth	45.41998	-99.87933	US	SD
+Township of Easter	45.60342	-96.92025	US	SD
+Easterly	45.04857	-97.19202	US	SD
+Township of Eatondale	45.02025	-98.7676	US	SD
+Eden	45.61662	-97.41982	US	SD
+Town of Eden	45.61677	-97.41971	US	SD
+Township of Eden	44.14305	-98.75037	US	SD
+Township of Eden	44.93452	-97.55498	US	SD
+Township of Eden	45.10852	-97.4326	US	SD
+Township of Eden	44.75859	-99.36372	US	SD
+Township of Eden	43.12608	-96.51111	US	SD
+Township of Eden	45.62496	-97.42029	US	SD
+Township of Edens	43.29905	-99.47475	US	SD
+Township of Edison	43.71758	-96.59124	US	SD
+Township of Edna	43.73055	-99.91151	US	SD
+Egan	43.99914	-96.64894	US	SD
+Egan Mounds	43.97552	-96.61699	US	SD
+City of Egan	44.00033	-96.64854	US	SD
+Township of Egan	43.97842	-96.70951	US	SD
+Township of Egeland	45.19551	-97.29869	US	SD
+Township of El Dorado	43.98611	-99.01704	US	SD
+Township of Elaine	45.09163	-97.55453	US	SD
+Township of Edgerton	43.71687	-97.66764	US	SD
+Township of Elida	44.93387	-99.86901	US	SD
+Elk Point	42.68333	-96.68365	US	SD
+City of Elk Point	42.68166	-96.68012	US	SD
+Township of Elk Point	42.6924	-96.69088	US	SD
+Township of Elk	44.58443	-99.72678	US	SD
+Elkton	44.23608	-96.48115	US	SD
+City of Elkton	44.23533	-96.47915	US	SD
+Township of Elkton	44.23986	-96.49039	US	SD
+Township of Elliott	43.8947	-98.2714	US	SD
+Ellis	43.56248	-96.83061	US	SD
+Ellis Corner	43.60164	-96.83089	US	SD
+Township of Elliston	43.21234	-99.59325	US	SD
+Township of Ellisville	44.9408	-99.51175	US	SD
+Township of Ellston	43.03194	-99.10954	US	SD
+Township of Elmira	44.93917	-97.05857	US	SD
+Elmwood Acres	45.48331	-98.48787	US	SD
+Elrod	44.88635	-97.57369	US	SD
+Township of Elrod	44.84777	-97.5525	US	SD
+Township of Elroy	45.10776	-99.5015	US	SD
+Township of Elvira	44.06083	-99.0089	US	SD
+Township of Emanuel	43.12638	-97.9309	US	SD
+Township of Emerson	45.20157	-99.02129	US	SD
+Emery	43.60165	-97.62257	US	SD
+City of Emery	43.602	-97.61949	US	SD
+Township of Emery	43.63019	-97.42825	US	SD
+Emmet	42.98277	-96.74615	US	SD
+Township of Emmet	42.95337	-96.74632	US	SD
+Township of Enterprise	45.20176	-99.26675	US	SD
+Township of Enterprise	43.89134	-96.7098	US	SD
+Township of Enterprise	45.77588	-97.04108	US	SD
+Epiphany	43.84914	-97.66174	US	SD
+Township of Erva	45.8986	-99.90317	US	SD
+Erwin	44.48747	-97.44508	US	SD
+Town of Erwin	44.48802	-97.44086	US	SD
+Esmond	44.2622	-97.77147	US	SD
+Township of Esmond	44.25892	-97.76119	US	SD
+Estelline	44.57469	-96.90228	US	SD
+City of Estelline	44.57677	-96.90108	US	SD
+Township of Estelline	44.5872	-96.97774	US	SD
+Ethan	43.54776	-97.98813	US	SD
+Town of Ethan	43.54633	-97.98304	US	SD
+Eureka	45.76943	-99.61956	US	SD
+City of Eureka	45.77071	-99.62067	US	SD
+Township of Eureka	43.71504	-98.61709	US	SD
+Township of Eureka	44.50017	-96.82729	US	SD
+Township of Exline	44.8525	-98.6448	US	SD
+Township of Fair	43.21168	-97.93209	US	SD
+Fairfax	43.0275	-98.88842	US	SD
+Town of Fairfax	43.02805	-98.88895	US	SD
+Township of Fairfax	43.03871	-98.88028	US	SD
+Township of Fairland	43.8836	-99.4576	US	SD
+Fairview	43.22165	-96.49004	US	SD
+Fairview Heights	42.86722	-97.52534	US	SD
+Fairview Interchange	43.21415	-96.79588	US	SD
+Town of Fairview	43.22202	-96.48741	US	SD
+Township of Fairview	42.76976	-96.85295	US	SD
+Township of Fairview	45.20169	-98.89769	US	SD
+Township of Fairview	44.75831	-99.11927	US	SD
+Township of Fairview	43.80506	-97.78871	US	SD
+Township of Fairview	43.19667	-96.52151	US	SD
+Township of Fairview	45.10748	-99.62428	US	SD
+Township of Fairview	44.75832	-99.84762	US	SD
+Farwell	43.85054	-97.91147	US	SD
+Faulkton	45.03497	-99.124	US	SD
+Township of Faulkton	45.02053	-99.13428	US	SD
+City of Faulkton	45.03415	-99.12673	US	SD
+Fedora	44.00887	-97.79091	US	SD
+Ferney	45.33052	-98.09787	US	SD
+Township of Finlay	43.38054	-97.03394	US	SD
+Township of Firesteel	43.80444	-98.50502	US	SD
+Fischer Landing Strip	44.90692	-99.7265	US	SD
+Fishers Point	43.9622	-97.01673	US	SD
+Flandreau	44.04942	-96.59532	US	SD
+City of Flandreau	44.04651	-96.59829	US	SD
+Township of Flandreau	44.06674	-96.58657	US	SD
+Fleetwood	43.7772	-96.84228	US	SD
+Florence	45.05468	-97.3298	US	SD
+Town of Florence	45.05479	-97.32631	US	SD
+Township of Florence	44.67341	-97.06718	US	SD
+Township of Florence	44.67808	-99.00832	US	SD
+Township of Floyd	44.15357	-98.0305	US	SD
+Foley	44.83941	-97.14757	US	SD
+Township of Forbes	43.46359	-98.88478	US	SD
+Township of Fordham	44.76184	-97.91665	US	SD
+Fort Randall	43.02444	-98.62425	US	SD
+Fort Randall Eagle Roost	43.05555	-98.53786	US	SD
+Fort Randall Historic Site	43.05027	-98.56036	US	SD
+Fort Thompson	44.0686	-99.43788	US	SD
+Fort Yankton Historic Site	42.87305	-97.49979	US	SD
+Township of Fort	45.63111	-97.54601	US	SD
+Township of Foster	44.49999	-97.91255	US	SD
+Township of Foster	43.4639	-97.81881	US	SD
+Township of Fountain	45.46217	-98.90542	US	SD
+Township of Foxton	44.76082	-97.553	US	SD
+Frankfort	44.87664	-98.30537	US	SD
+City of Frankfort	44.87766	-98.30924	US	SD
+Township of Frankfort	44.84977	-98.28054	US	SD
+Franklin	43.89164	-97.06895	US	SD
+Township of Franklin	44.84498	-99.60262	US	SD
+Township of Franklin	43.04305	-97.93146	US	SD
+Township of Franklin	44.06803	-98.39138	US	SD
+Township of Franklin	43.89152	-97.06891	US	SD
+Township of Franklyn	45.72149	-98.66305	US	SD
+Frederick	45.83247	-98.50621	US	SD
+Town of Frederick	45.83199	-98.50691	US	SD
+Township of Frederick	45.80731	-98.53884	US	SD
+Township of Freedom	45.20163	-99.14426	US	SD
+Freeman	43.35249	-97.43729	US	SD
+Township of Freeman	43.36443	-97.45034	US	SD
+City of Freeman	43.34993	-97.42947	US	SD
+Township of Fremont	44.15243	-96.82891	US	SD
+Froelich Addition	43.58386	-96.71644	US	SD
+Township of Fuller	45.02074	-97.27242	US	SD
+Fulton	43.7247	-97.82368	US	SD
+Town of Fulton	43.72883	-97.82263	US	SD
+Township of Gair	45.15192	-98.62621	US	SD
+Township of Gales	43.62896	-98.73439	US	SD
+Gallup	45.07053	-98.49537	US	SD
+Gannvalley	44.03333	-98.98787	US	SD
+Garden City	44.9583	-97.58147	US	SD
+Town of Garden City	44.95926	-97.58041	US	SD
+Township of Garden Prairie	45.28424	-98.16595	US	SD
+Township of Garland	45.64285	-98.3936	US	SD
+Garretson	43.71747	-96.50282	US	SD
+City of Garretson	43.71475	-96.5028	US	SD
+Gary	44.79246	-96.45589	US	SD
+City of Gary	44.79488	-96.4577	US	SD
+Township of Gassman	43.72444	-99.67317	US	SD
+Township of Gaughen	43.20555	-98.99148	US	SD
+Gavins Point	42.85667	-97.55173	US	SD
+Gavins Point National Fish Hatchery	42.86972	-97.47506	US	SD
+Gayville	42.88805	-97.17227	US	SD
+Town of Gayville	42.88893	-97.17373	US	SD
+Township of Gayville	42.86598	-97.21061	US	SD
+Geddes	43.2536	-98.69536	US	SD
+City of Geddes	43.25405	-98.69737	US	SD
+Township of Gem	45.37183	-98.34048	US	SD
+Genes Spray Strip	43.71666	-98.5837	US	SD
+Township of Geneseo	45.36887	-96.67893	US	SD
+Township of Georgia	45.01969	-96.69978	US	SD
+Gerkin State Wildlife Refuge	45.00581	-98.93566	US	SD
+Township of German	43.2981	-97.9343	US	SD
+Township of Germantown	45.10763	-97.08493	US	SD
+Township of Germantown	43.38822	-96.98363	US	SD
+Gettysburg	45.01165	-99.95567	US	SD
+City of Gettysburg	45.00586	-99.9537	US	SD
+Township of Gettysburg	45.02081	-99.98984	US	SD
+Township of Gilbert	44.5909	-98.76612	US	SD
+Township of Glen	45.46296	-99.40022	US	SD
+Glendale Colony	44.79942	-98.28759	US	SD
+Township of Glendale	44.32699	-99.12485	US	SD
+Township of Glenn	45.36887	-99.75817	US	SD
+Township of Glenwood	43.04017	-96.86481	US	SD
+Township of Glenwood	44.8474	-96.527	US	SD
+Township of Glover	45.37581	-99.40055	US	SD
+Township of Glucksthal	45.81054	-99.65595	US	SD
+Goodwill	45.5669	-97.07008	US	SD
+Township of Goodwill	45.60184	-97.04086	US	SD
+Goodwin	44.87913	-96.84868	US	SD
+Town of Goodwin	44.87751	-96.8497	US	SD
+Township of Goodwin	44.84689	-96.81361	US	SD
+Township of Graceland	44.93461	-97.43287	US	SD
+Graceville Colony	43.92886	-97.28617	US	SD
+Township of Grafton	44.15231	-97.55018	US	SD
+Township of Grand	44.50241	-98.76224	US	SD
+Grandview	43.64389	-99.29704	US	SD
+Township of Grandview	43.63555	-99.30871	US	SD
+Township of Grandview	43.38373	-98.40698	US	SD
+Township of Grandview	43.38713	-97.46137	US	SD
+Unorganized Territory of Grandview	43.63901	-99.33386	US	SD
+Township of Grange	44.58718	-96.82466	US	SD
+Township of Grant	44.13749	-99.10871	US	SD
+Township of Grant	44.24016	-98.27473	US	SD
+Township of Grant	45.70138	-99.87123	US	SD
+Township of Grant	43.30115	-96.8653	US	SD
+Township of Grant	43.5433	-97.30804	US	SD
+Township of Grant	45.68873	-96.91635	US	SD
+Township of Great Bend	44.93939	-98.41099	US	SD
+Township of Green Valley	44.06671	-97.67043	US	SD
+Township of Greenland	43.6302	-97.1885	US	SD
+Township of Greenleaf	44.59096	-99.1305	US	SD
+Greenway	45.9097	-99.71095	US	SD
+Greenwood	42.92305	-98.38841	US	SD
+Greenwood Colony	43.21332	-98.15119	US	SD
+Gregory	43.23222	-99.43038	US	SD
+City of Gregory	43.22999	-99.42086	US	SD
+Grenville	45.4669	-97.3937	US	SD
+Town of Grenville	45.46699	-97.39023	US	SD
+Township of Grenville	45.45876	-97.42075	US	SD
+Gretna	45.45053	-99.51484	US	SD
+Grosse	43.92722	-99.28649	US	SD
+Groton	45.44746	-98.09871	US	SD
+City of Groton	45.45168	-98.10008	US	SD
+Township of Groton	45.45803	-98.06086	US	SD
+Gunny Sack Bottom	43.68777	-99.89429	US	SD
+Township of Hague	44.67461	-97.79566	US	SD
+Township of Hamilton	43.30604	-98.99163	US	SD
+Township of Hamilton	45.71795	-97.54536	US	SD
+Township of Hamlin	44.76085	-96.94534	US	SD
+Hammer	45.85524	-97.02119	US	SD
+Township of Hancock	42.86555	-98.05924	US	SD
+Township of Hanson	45.37079	-98.10371	US	SD
+Township of Hanson	43.7172	-97.90792	US	SD
+Harlin Addition	45.4822	-98.51704	US	SD
+Township of Harmon	45.77861	-96.74122	US	SD
+Township of Harmony	45.37553	-99.03036	US	SD
+Township of Harmony	44.15267	-98.74882	US	SD
+Township of Harmony	44.93809	-98.28877	US	SD
+Harrisburg	43.43137	-96.69727	US	SD
+City of Harrisburg	43.4317	-96.70336	US	SD
+Harrison	43.42971	-98.5273	US	SD
+Township of Harrison	44.84581	-99.24205	US	SD
+Township of Harrison	45.8972	-99.16011	US	SD
+Township of Harrison	44.76262	-98.1599	US	SD
+Township of Harrison	44.84581	-99.96929	US	SD
+Harrold	44.52443	-99.73928	US	SD
+Town of Harrold	44.52349	-99.73927	US	SD
+Township of Harrold	44.49026	-99.71373	US	SD
+Township of Hart	45.77595	-96.91682	US	SD
+Hartford	43.62303	-96.94255	US	SD
+Township of Hartford	45.85746	-97.90622	US	SD
+City of Hartford	43.6208	-96.94471	US	SD
+Township of Hartford	43.6314	-96.95055	US	SD
+Township of Hartland	44.41412	-98.39733	US	SD
+Township of Hartland	44.4924	-97.40041	US	SD
+Township of Havana	44.761	-96.81413	US	SD
+Hawkeye Valley	43.9111	-98.6512	US	SD
+Town of Hayti	44.65712	-97.20453	US	SD
+Township of Hayti	44.67361	-97.18822	US	SD
+Hayward Addition	43.53803	-96.79339	US	SD
+Hazel	44.75969	-97.37952	US	SD
+Town of Hazel	44.75822	-97.38099	US	SD
+Hecla	45.88302	-98.15205	US	SD
+City of Hecla	45.88214	-98.15189	US	SD
+Township of Hecla	45.88923	-98.14751	US	SD
+Heller Landing Strip	43.59166	-99.88845	US	SD
+Township of Henden	44.0661	-97.43024	US	SD
+Henry	44.87719	-97.46647	US	SD
+Town of Henry	44.88086	-97.46156	US	SD
+Township of Henry	45.45817	-98.20625	US	SD
+Township of Henry	44.84616	-97.42943	US	SD
+Township of Herman	43.97844	-97.1894	US	SD
+Town of Herrick	43.11502	-99.18821	US	SD
+Township of Herrick	44.76085	-96.52794	US	SD
+Hetland	44.37802	-97.23507	US	SD
+Town of Hetland	44.37723	-97.23467	US	SD
+Township of Hezel	45.78888	-99.99623	US	SD
+Township of Hickman	45.6318	-97.79311	US	SD
+Township of Hidewood	44.67403	-96.82427	US	SD
+Hidewoods	44.38885	-96.54699	US	SD
+Township of Highland	45.37368	-98.66032	US	SD
+Township of Highland	43.6292	-98.97301	US	SD
+Township of Highland	43.03829	-98.40763	US	SD
+Township of Highland	45.19559	-97.55574	US	SD
+Township of Highland	43.21478	-96.62704	US	SD
+Township of Highland	45.8097	-99.16011	US	SD
+Township of Highland	43.80491	-96.49248	US	SD
+Township of Highland	45.54388	-99.88373	US	SD
+Highmore	44.52137	-99.4415	US	SD
+City of Highmore	44.52137	-99.43933	US	SD
+Township of Highmore	44.49054	-99.47122	US	SD
+Township of Hiland	44.32695	-98.88342	US	SD
+Newdale Colony	44.29219	-96.5206	US	SD
+Hitchcock	44.6297	-98.40954	US	SD
+Town of Hitchcock	44.62937	-98.40821	US	SD
+Hobus Landing Strip	44.95165	-99.69456	US	SD
+Township of Hoffman	45.80983	-99.03548	US	SD
+Township of Hoffnungsfeld	45.83332	-99.77956	US	SD
+Holabird	44.52304	-99.59817	US	SD
+Township of Holabird	44.49026	-99.59261	US	SD
+Township of Holden	44.6783	-98.88681	US	SD
+Township of Holland	43.4631	-98.52978	US	SD
+Holmquist	45.3394	-97.65315	US	SD
+Hooker	43.19999	-97.02477	US	SD
+Township of Hooker	43.1486	-96.97283	US	SD
+Township of Hope	44.93331	-98.88955	US	SD
+Township of Hopper	43.71697	-98.38523	US	SD
+Horseshoe Bend	43.73416	-99.78484	US	SD
+The Horseshoe	44.03914	-97.40896	US	SD
+Hosmer	45.57887	-99.47484	US	SD
+City of Hosmer	45.57879	-99.47364	US	SD
+Township of Hosmer	45.54887	-99.5245	US	SD
+Houghton	45.76302	-98.21038	US	SD
+Hoven	45.24359	-99.77706	US	SD
+Town of Hoven	45.24162	-99.77752	US	SD
+Township of Hoven	45.26804	-99.78039	US	SD
+Howard	44.01081	-97.52674	US	SD
+City of Howard	44.01174	-97.52463	US	SD
+Township of Howard	43.22933	-98.40983	US	SD
+Township of Howard	45.63609	-99.03511	US	SD
+Township of Howard	43.97625	-97.54782	US	SD
+Township of Howell	44.75831	-98.99649	US	SD
+Hub City	42.9536	-96.90449	US	SD
+Hudson	43.13026	-96.4542	US	SD
+Town of Hudson	43.1301	-96.45562	US	SD
+Township of Hudson	45.28908	-99.64718	US	SD
+Huffton	45.61635	-98.09316	US	SD
+Township of Hulbert	44.4139	-98.76255	US	SD
+Humboldt	43.64526	-97.07395	US	SD
+Town of Humboldt	43.64483	-97.07446	US	SD
+Township of Humboldt	43.63036	-97.06941	US	SD
+Huntimer	43.83414	-96.93006	US	SD
+Township of Huntley	45.46264	-99.15386	US	SD
+Hurley	43.28304	-97.08922	US	SD
+Township of Hurley	43.30084	-97.10221	US	SD
+Huron	44.36332	-98.21426	US	SD
+Township of Huron	44.37498	-98.25176	US	SD
+Huron Colony	44.56442	-98.20676	US	SD
+Fordham Colony	44.76858	-97.90926	US	SD
+City of Huron	44.3622	-98.21021	US	SD
+Township of Huston	43.31943	-98.1698	US	SD
+Township of Huston	43.29194	-99.34649	US	SD
+Township of Hyland	44.14525	-97.09978	US	SD
+Ideal	43.54333	-99.92151	US	SD
+Township of Ideal	43.54341	-99.92172	US	SD
+Township of Illinois	44.75832	-99.4815	US	SD
+Township of Independence	45.54411	-97.67208	US	SD
+Township of Independence	43.29469	-98.28141	US	SD
+City of Hurley	43.27933	-97.08944	US	SD
+Ingberg Tracts	43.55886	-96.64616	US	SD
+Iona	43.54306	-99.42482	US	SD
+Township of Iona	43.59584	-99.44032	US	SD
+Township of Iowa	44.50132	-98.15355	US	SD
+Township of Iowa	43.3843	-98.52568	US	SD
+Ipswich	45.44442	-99.02928	US	SD
+City of Ipswich	45.44346	-99.03	US	SD
+Township of Ipswich	45.4632	-99.02969	US	SD
+Irene	43.08305	-97.16061	US	SD
+City of Irene	43.0837	-97.15759	US	SD
+Irene-Beresford Interchange	43.0836	-96.79588	US	SD
+Iroquois	44.36692	-97.85092	US	SD
+City of Iroquois	44.36786	-97.84953	US	SD
+Township of Iroquois	44.37984	-97.8043	US	SD
+Township of Irving	44.9407	-99.267	US	SD
+Township of Irwin	43.29909	-99.59328	US	SD
+Township of Jackson	43.03916	-97.81312	US	SD
+Township of Jackson	43.18409	-98.74312	US	SD
+Township of Jackson	45.63609	-99.65595	US	SD
+Township of Jackson	44.15418	-98.15031	US	SD
+James	45.46608	-98.2126	US	SD
+James Valley Junction	44.38054	-98.29565	US	SD
+Jamesville	43.10277	-97.48368	US	SD
+Township of Jamesville	43.12576	-97.45868	US	SD
+Township of Jasper	43.71668	-97.78734	US	SD
+Java	45.50332	-99.88651	US	SD
+Town of Java	45.50382	-99.88388	US	SD
+Jefferson	42.6025	-96.5592	US	SD
+City of Jefferson	42.60429	-96.56599	US	SD
+Township of Jefferson	42.95194	-98.05035	US	SD
+Township of Jefferson	43.62984	-97.54742	US	SD
+Township of Jefferson	44.06574	-96.82873	US	SD
+Township of Jefferson	45.02755	-98.47238	US	SD
+Township of Jefferson	42.58516	-96.5618	US	SD
+Township of Jerrerson	43.64998	-97.54201	US	SD
+Jobee Acres	45.44608	-98.39426	US	SD
+Johnson Point	43.97247	-97.03895	US	SD
+Johnsons Addition	43.65859	-96.80894	US	SD
+Johnsonville	44.54441	-96.78561	US	SD
+Johnsonville Corner	44.55885	-96.80284	US	SD
+Township of Jones	43.1256	-99.35616	US	SD
+Jorgensen State Wildlife Refuge	43.78333	-99.18843	US	SD
+Joubert	43.42749	-98.66675	US	SD
+Township of Joubert	43.46328	-98.64799	US	SD
+Junius	44.00636	-97.24423	US	SD
+KPLO Radio Tower	43.96555	-99.60539	US	SD
+KTSD Radio Tower	43.96832	-99.59483	US	SD
+KWYR Radio Tower	43.38556	-99.91095	US	SD
+Kampeska	44.87996	-97.26869	US	SD
+Township of Kampeska	44.84748	-97.30934	US	SD
+Township of Kassel	43.2991	-97.5792	US	SD
+Township of Kassel	45.72359	-99.40734	US	SD
+Kasuske Public Access Point	45.4008	-96.61617	US	SD
+Kaylor	43.18805	-97.83868	US	SD
+Township of Kaylor	43.21265	-97.81529	US	SD
+Township of Kellogg	44.24018	-98.51842	US	SD
+Kennebec	43.9036	-99.86178	US	SD
+Town of Kennebec	43.90348	-99.862	US	SD
+Township of Kennebec	44.89054	-99.82595	US	SD
+Township of Kennedy	43.21098	-98.29206	US	SD
+Township of Kent	45.28824	-98.90735	US	SD
+Township of Keyapaha	43.04	-99.71173	US	SD
+Kidder	45.88301	-97.71344	US	SD
+Township of Kidder	45.36991	-97.67368	US	SD
+Township of Kilborn	45.28281	-96.80119	US	SD
+Kimball	43.74667	-98.95843	US	SD
+City of Kimball	43.74686	-98.95692	US	SD
+Township of Kimball	43.71294	-98.97473	US	SD
+Township of King	43.54335	-99.80242	US	SD
+Kingsburg	42.91444	-97.93118	US	SD
+Kones Corner	44.73135	-97.10757	US	SD
+Township of Kosciusko	45.50968	-97.28832	US	SD
+Township of Koto	45.8097	-98.90872	US	SD
+Kranzburg	44.89246	-96.91896	US	SD
+Town of Kranzburg	44.88885	-96.90935	US	SD
+Township of Kranzburg	44.8787	-96.94357	US	SD
+Krueger Landing Strip	45.57081	-98.75705	US	SD
+Township of Kulm	43.29754	-98.05157	US	SD
+Township of La Belle	45.88079	-97.40809	US	SD
+Town of La Bolt	45.04904	-96.67516	US	SD
+Township of La Prairie	45.19886	-98.31398	US	SD
+Township of La Roche	43.44733	-99.15607	US	SD
+Township of La Valley	43.38685	-96.74869	US	SD
+Junction City	42.78666	-96.78615	US	SD
+LaBolt	45.0508	-96.67673	US	SD
+LaDelle	44.67525	-98.11898	US	SD
+Township of LaDelle	44.71164	-98.06842	US	SD
+Township of Lafayette	44.97776	-99.58595	US	SD
+Township of Lafoon	45.02751	-99.02202	US	SD
+Township of Lamro	43.38691	-99.82878	US	SD
+Lane	44.06971	-98.42509	US	SD
+Town of Lane	44.06969	-98.42462	US	SD
+Langford	45.60245	-97.83038	US	SD
+Town of Langford	45.60244	-97.83024	US	SD
+Township of Lansing	45.80624	-98.16583	US	SD
+Township of Latham	45.02109	-99.37956	US	SD
+Township of Lawrence	43.03654	-98.2891	US	SD
+Township of Lawrence	45.51844	-96.93986	US	SD
+Township of Le Roy	44.06558	-97.06921	US	SD
+Township of Le Sueur	44.49267	-97.76325	US	SD
+Lebanon	45.0697	-99.76984	US	SD
+Town of Lebanon	45.06878	-99.76638	US	SD
+Township of Lee	45.45019	-96.91475	US	SD
+Lees Corner	44.07749	-99.32538	US	SD
+Lennox	43.35415	-96.892	US	SD
+City of Lennox	43.35051	-96.89464	US	SD
+Lennox-Worthing Exit	43.33026	-96.79644	US	SD
+Leola	45.72275	-98.94094	US	SD
+City of Leola	45.72105	-98.93889	US	SD
+Township of Leola	45.10713	-96.94465	US	SD
+Township of Leola	45.72303	-98.91011	US	SD
+Lesterville	43.03944	-97.59562	US	SD
+Town of Lesterville	43.0386	-97.59061	US	SD
+Township of Lesterville	43.04666	-97.56673	US	SD
+Letcher	43.89721	-98.13869	US	SD
+Town of Letcher	43.89955	-98.14421	US	SD
+Township of Letcher	43.8946	-98.15146	US	SD
+Township of Liberty	44.50068	-98.03244	US	SD
+Township of Liberty	45.89499	-98.26953	US	SD
+Township of Liberty	45.54395	-97.54991	US	SD
+Township of Liberty	45.28827	-99.15365	US	SD
+Township of Liberty	43.38417	-97.93477	US	SD
+Township of Lien	45.87781	-96.91659	US	SD
+Lily	45.18135	-97.68342	US	SD
+Town of Lily	45.18175	-97.68348	US	SD
+Township of Lincoln	44.13108	-96.95922	US	SD
+Township of Lincoln	43.88525	-97.47951	US	SD
+Township of Lincoln	43.03916	-97.69534	US	SD
+Township of Lincoln	45.56125	-98.53682	US	SD
+Township of Lincoln	45.73749	-99.87262	US	SD
+Township of Lincoln	44.84787	-97.79653	US	SD
+Township of Lincoln	43.38392	-98.17047	US	SD
+Township of Lincoln	44.58415	-99.48372	US	SD
+Township of Lincoln	43.21425	-96.74679	US	SD
+Township of Lincoln	45.63553	-98.78732	US	SD
+Township of Lincoln	45.10748	-99.99067	US	SD
+Township of Lincoln	44.76288	-98.28115	US	SD
+Township of Lincoln	44.5847	-99.96957	US	SD
+Township of Lincoln	43.12549	-99.59319	US	SD
+Township of Lisbon	43.62943	-98.14606	US	SD
+Lodi	42.98249	-96.98394	US	SD
+Township of Lodi	44.85111	-98.4023	US	SD
+Township of Logan	44.32523	-97.91342	US	SD
+Township of Logan	44.84875	-97.91659	US	SD
+Township of Logan	44.41402	-99.00362	US	SD
+Township of Logan	43.97827	-98.8672	US	SD
+Township of Logan	43.80461	-96.59167	US	SD
+Township of Logan	45.19415	-99.62373	US	SD
+Township of Logan	43.98177	-98.15102	US	SD
+Township of Lone Star	43.03167	-99.34621	US	SD
+Township of Lone Star	43.63017	-99.8026	US	SD
+Lone Tree	43.97886	-96.72922	US	SD
+Township of Lockwood	45.35632	-96.55875	US	SD
+Township of Lone Tree	43.03871	-98.16841	US	SD
+Long Hollow	45.68579	-97.10008	US	SD
+Long Hollow Housing	45.68718	-97.15342	US	SD
+Township of Long Hollow	45.68877	-97.16498	US	SD
+Loomis	43.79387	-98.10452	US	SD
+Township of Loomis	44.58415	-99.60539	US	SD
+Township of Lowe	44.93348	-96.57779	US	SD
+Township of Lowell	45.71869	-97.79272	US	SD
+Township of Lowell	45.19415	-99.99095	US	SD
+Lower Brule	44.07888	-99.5815	US	SD
+Lower Brule Reservation	44.08965	-99.77152	US	SD
+Lowry	45.3161	-99.98262	US	SD
+Town of Lowry	45.31558	-99.98115	US	SD
+Loyalton	45.28636	-99.27956	US	SD
+Lucas	43.28972	-99.21649	US	SD
+Township of Lucas	43.29194	-99.22788	US	SD
+Township of Lucas	45.10804	-99.86706	US	SD
+Township of Lura	45.18156	-97.14472	US	SD
+Lyman	43.8811	-99.73956	US	SD
+Township of Lynn	45.45692	-97.67323	US	SD
+Township of Lynn	43.30075	-96.7467	US	SD
+Township of Lynn	43.89182	-96.82864	US	SD
+Township of Lyon	43.89186	-98.9873	US	SD
+Lyons	43.72303	-96.86783	US	SD
+Township of Lyons	43.71762	-96.83104	US	SD
+Lyonville	43.87777	-98.97065	US	SD
+Macs Corner	44.25193	-99.4415	US	SD
+Madison	44.00608	-97.11395	US	SD
+City of Madison	44.00622	-97.10848	US	SD
+Township of Madison	45.28884	-99.52412	US	SD
+Township of Madison	45.1065	-96.70044	US	SD
+Madra	45.92998	-99.71651	US	SD
+Manchester	44.36914	-97.72064	US	SD
+Township of Manchester	44.38313	-97.68233	US	SD
+Township of Mapleton	43.63914	-96.71044	US	SD
+Township of Marindahl	43.03949	-97.2198	US	SD
+Marion	43.42304	-97.26062	US	SD
+City of Marion	43.42357	-97.26055	US	SD
+Township of Marion	43.38585	-97.21992	US	SD
+Township of Marlar	44.15232	-98.86694	US	SD
+Marlow	45.92079	-97.38565	US	SD
+Martindale Addition	43.58859	-96.76561	US	SD
+Marty	42.9925	-98.42508	US	SD
+Marvin	45.26135	-96.91257	US	SD
+Town of Marvin	45.26051	-96.91539	US	SD
+Township of Mathews	44.25752	-97.57121	US	SD
+Maxwell Colony	43.18221	-97.63451	US	SD
+Township of Maydell	45.02163	-97.55518	US	SD
+Mayer Landing Strip	43.96027	-99.11288	US	SD
+Township of Mazeppa	45.19338	-96.97056	US	SD
+McCroskey Addition	43.64886	-96.69172	US	SD
+Township of McKinley	45.77598	-97.28958	US	SD
+McLeod	43.65303	-96.98033	US	SD
+Township of McNeely	43.21257	-99.83045	US	SD
+Meckling	42.8425	-97.06949	US	SD
+Township of Meckling	42.86614	-97.10148	US	SD
+Medary	44.20969	-96.78672	US	SD
+Medary Monument	44.20886	-96.78755	US	SD
+Township of Medary	44.23723	-96.83012	US	SD
+Township of Media	44.06249	-98.6337	US	SD
+Medicine Butte	43.96521	-99.60458	US	SD
+Melham	44.55747	-97.68647	US	SD
+Mellette	45.15442	-98.49759	US	SD
+City of Mellette	45.15435	-98.49834	US	SD
+Township of Mellette	45.16201	-98.47893	US	SD
+Melrose Addition	45.45331	-98.46287	US	SD
+Township of Melrose	45.28308	-96.65789	US	SD
+Menno	43.23971	-97.57784	US	SD
+Township of Menno	43.2486	-97.5684	US	SD
+City of Menno	43.23859	-97.57809	US	SD
+Township of Mercier	45.46067	-98.66034	US	SD
+Township of Merton	44.76113	-97.67453	US	SD
+Metzgerville	43.54193	-98.26258	US	SD
+Township of Middleton	43.30145	-96.98342	US	SD
+Township of Midland	44.5024	-99.12497	US	SD
+Midway	43.70331	-96.71144	US	SD
+Midway	42.86638	-96.78643	US	SD
+Midway	43.12583	-97.39923	US	SD
+Milbank	45.21913	-96.63562	US	SD
+City of Milbank	45.21936	-96.63414	US	SD
+Township of Milford	44.58839	-98.03843	US	SD
+Mina	45.43331	-98.75871	US	SD
+Miranda	44.97192	-98.96427	US	SD
+Mitchell	43.70943	-98.0298	US	SD
+City of Mitchell	43.72947	-98.03362	US	SD
+Township of Mitchell	43.74165	-98.03369	US	SD
+Moe	43.1561	-96.60893	US	SD
+Township of Molan	43.21259	-97.45895	US	SD
+Monroe	43.48637	-97.21506	US	SD
+Town of Monroe	43.48653	-97.21667	US	SD
+Township of Monroe	43.12638	-98.04063	US	SD
+Township of Monroe	43.46467	-97.22122	US	SD
+Township of Montpelier	45.37576	-99.27738	US	SD
+Montrose	43.69859	-97.18367	US	SD
+City of Montrose	43.70005	-97.18434	US	SD
+Township of Montrose	43.71737	-97.18919	US	SD
+Monty Harer Airstrip	45.20137	-99.83623	US	SD
+Township of Moore	43.30083	-98.58699	US	SD
+Morningside	44.36582	-98.18842	US	SD
+Township of Morningside	43.56667	-99.574	US	SD
+Township of Morton	45.28297	-97.4276	US	SD
+Township of Morton	44.84581	-99.84762	US	SD
+Township of Moscow	45.72359	-99.28373	US	SD
+Township of Modena	45.54991	-99.6465	US	SD
+Motts Draw	43.96249	-98.46731	US	SD
+Township of Myron	45.11447	-99.02189	US	SD
+Nahon	45.38553	-98.40648	US	SD
+Naomi	43.33054	-96.9245	US	SD
+Napa Junction	42.94111	-97.45367	US	SD
+Naples	44.77163	-97.51175	US	SD
+Town of Naples	44.77164	-97.51304	US	SD
+Township of Nance	44.59044	-98.6451	US	SD
+New Effington	45.85635	-96.92036	US	SD
+Town of New Effington	45.85586	-96.91732	US	SD
+New Holland	43.42721	-98.60925	US	SD
+Township of New Hope	45.28681	-98.66046	US	SD
+Newark	45.92941	-97.79149	US	SD
+Township of Newark	45.89244	-97.79196	US	SD
+Township of Newport	45.63182	-97.91752	US	SD
+Nora	42.93916	-96.70698	US	SD
+Norbeck	45.18414	-99.21261	US	SD
+Township of Norden	44.67447	-96.54508	US	SD
+Township of Norden	44.58662	-97.15746	US	SD
+Township of Nordland	45.82764	-97.52312	US	SD
+Township of Norfolk	44.75832	-99.72539	US	SD
+Township of North Bryant	45.54941	-99.27656	US	SD
+Unorganized Territory of North Buffalo	44.14271	-99.11361	US	SD
+Township of North Detroit	45.80613	-98.04128	US	SD
+Unorganized Territory of North Hughes	44.44331	-99.8451	US	SD
+Unorganized Territory of North Hyde	44.79616	-99.4862	US	SD
+Unorganized Territory of North Gregory	43.30193	-99.28549	US	SD
+North Shore	44.94858	-97.20674	US	SD
+North Sioux City	42.52722	-96.48309	US	SD
+City of North Sioux City	42.53542	-96.49979	US	SD
+Unorganized Territory of Northeast Bon Homme	43.08215	-97.75426	US	SD
+Northshore Development	42.86667	-97.52812	US	SD
+Northville	45.15553	-98.57926	US	SD
+Town of Northville	45.15538	-98.57933	US	SD
+Township of Northville	45.15707	-98.63186	US	SD
+Unorganized Territory of Northwest Bon Homme	43.08065	-97.98661	US	SD
+Unorganized Territory of Northwest Hand	44.80949	-99.13	US	SD
+Norton Acres	43.5772	-96.70449	US	SD
+Township of Norway	42.79638	-97.07474	US	SD
+Township of Norway	43.12714	-96.62818	US	SD
+Township of Norway	45.87734	-97.16599	US	SD
+Township of Norway	43.29994	-97.22059	US	SD
+Township of Norwich	45.7269	-97.90622	US	SD
+Nunda	44.16219	-97.01895	US	SD
+Town of Nunda	44.15985	-97.01939	US	SD
+Township of Nunda	44.1522	-97.07089	US	SD
+Township of Nutley	45.5426	-97.42451	US	SD
+Township of O'Neil	45.11495	-99.38894	US	SD
+Oacoma	43.79611	-99.39566	US	SD
+Town of Oacoma	43.80377	-99.37207	US	SD
+Township of Oacoma	43.81112	-99.42077	US	SD
+Oak Hollow	43.24916	-98.1148	US	SD
+Township of Oak Hollow	43.21412	-98.04667	US	SD
+Township of Oakland	45.02109	-99.37956	US	SD
+Township of Oakwood	44.41263	-96.9475	US	SD
+Township of Odessa	45.89859	-99.77956	US	SD
+Township of Odessa	45.37608	-99.64692	US	SD
+Township of Odessa	45.81053	-99.40734	US	SD
+Township of Odessa	43.13277	-97.56757	US	SD
+Township of Ohio	44.32713	-99.00375	US	SD
+Ola	43.60083	-99.21065	US	SD
+Township of Ola	43.62939	-99.21158	US	SD
+Old Sisseton Indian Agency	45.54968	-97.05341	US	SD
+Oldham	44.22747	-97.30785	US	SD
+City of Oldham	44.2282	-97.30953	US	SD
+Township of Olean	45.11012	-98.04332	US	SD
+Olivet	43.24082	-97.67534	US	SD
+Township of Olivet	43.2486	-97.68673	US	SD
+Town of Olivet	43.24121	-97.67432	US	SD
+Onaka	45.19276	-99.46623	US	SD
+Town of Onaka	45.19129	-99.4659	US	SD
+Township of Oneida	44.06833	-98.03047	US	SD
+Township of Oneota	45.72068	-98.53873	US	SD
+Township of Ontario	44.76533	-99.25151	US	SD
+Township of Opdahl	44.67363	-97.30956	US	SD
+Ordway	45.57858	-98.41204	US	SD
+Township of Ordway	45.55385	-98.4129	US	SD
+Orient	44.90025	-99.08927	US	SD
+Town of Orient	44.90166	-99.08887	US	SD
+Township of Orient	44.94103	-99.14519	US	SD
+Orland	43.89164	-97.18923	US	SD
+Township of Orland	43.89164	-97.189	US	SD
+Ortley	45.33218	-97.19564	US	SD
+Town of Ortley	45.33495	-97.20495	US	SD
+Township of Ortley	45.34128	-97.16216	US	SD
+Ortman Landing Strip	43.59998	-97.30034	US	SD
+Osceola	44.46747	-97.8387	US	SD
+Township of Osceola	45.89422	-98.53842	US	SD
+Township of Osceola	45.28146	-96.93898	US	SD
+Township of Oslo	44.23925	-96.94863	US	SD
+Ott Landing Strip	45.24996	-98.16704	US	SD
+Township of Owattonna	44.93415	-99.99123	US	SD
+Township of Oxford	44.76048	-97.21854	US	SD
+Township of Palatine	43.80566	-98.38552	US	SD
+Township of Palisade	43.71434	-96.47299	US	SD
+The Palisades	43.69053	-96.5231	US	SD
+Township of Palmyra	45.89511	-98.66249	US	SD
+Township of Parnell	44.23895	-96.5865	US	SD
+Township of Patrick	44.93387	-99.37956	US	SD
+Township of Patten	43.89203	-98.74762	US	SD
+Paxton	43.08195	-99.53233	US	SD
+Township of Pearl	44.41405	-98.88316	US	SD
+Township of Pearl	43.80479	-97.54913	US	SD
+Pearsons Corner	43.16944	-97.31839	US	SD
+Peever	45.54302	-96.9548	US	SD
+Town of Peever	45.54224	-96.95612	US	SD
+Township of Pelican	44.84548	-97.18931	US	SD
+Pembrook Colony	45.37636	-99.00067	US	SD
+Township of Pembrook	45.54834	-98.78238	US	SD
+Township of Peno	44.31693	-99.35122	US	SD
+Perkins	42.86555	-98.01035	US	SD
+Township of Perry	43.38963	-96.86454	US	SD
+Township of Pershing	43.98611	-99.01704	US	SD
+Township of Petersburg	45.8972	-99.40734	US	SD
+Peterson Bottoms	43.70666	-99.39982	US	SD
+Township of Perry	43.80847	-98.02593	US	SD
+Township of Phipps	45.02151	-97.43267	US	SD
+Pickstown	43.06722	-98.53203	US	SD
+Town of Pickstown	43.06701	-98.5296	US	SD
+Pierpont	45.49551	-97.83121	US	SD
+Town of Pierpont	45.49533	-97.83209	US	SD
+Piersons Draw	43.92166	-98.46842	US	SD
+Township of Pioneer	45.02723	-98.77749	US	SD
+Plainview Colony	45.58164	-99.0065	US	SD
+Plainview Colony Number Two	45.5872	-98.90372	US	SD
+Township of Plainview	43.38605	-99.71179	US	SD
+Plana	45.51914	-98.30926	US	SD
+Plankinton	43.71555	-98.48509	US	SD
+City of Plankinton	43.71541	-98.48373	US	SD
+Township of Plankinton	43.71672	-98.50297	US	SD
+Plano	43.80609	-97.92258	US	SD
+Township of Plano	43.80582	-97.90836	US	SD
+Township of Plato	44.85281	-98.76531	US	SD
+Platte	43.38694	-98.84453	US	SD
+Platte Colony	43.46972	-99.12593	US	SD
+City of Platte	43.38695	-98.84362	US	SD
+Township of Platte	43.38423	-98.88527	US	SD
+Township of Pleasant Valley	44.01497	-97.41979	US	SD
+Township of Pleasant Valley	43.89254	-98.62916	US	SD
+Township of Pleasant Valley	42.95319	-96.98314	US	SD
+Township of Pleasant Valley	43.04149	-98.99823	US	SD
+Township of Pleasant Valley	44.24006	-99.00384	US	SD
+Township of Pleasant Valley	44.40332	-99.83567	US	SD
+Township of Pleasant Valley	45.80538	-97.66782	US	SD
+Township of Pleasant Valley	43.46461	-99.7117	US	SD
+Pleasant Vally Development	45.51887	-98.57982	US	SD
+Township of Pleasant View	44.58918	-98.28111	US	SD
+Township of Pleasant View	44.93359	-99.62373	US	SD
+Township of Pleasant View	43.21243	-99.71186	US	SD
+Township of Pleasant	44.67344	-97.55428	US	SD
+Township of Pleasant	43.63028	-97.66722	US	SD
+Township of Pleasant	43.4645	-97.57936	US	SD
+Township of Pleasant	44.06539	-98.74819	US	SD
+Township of Pleasant	43.12777	-96.74607	US	SD
+Township of Pleasant	43.97399	-99.70567	US	SD
+Township of Pleasant	44.67137	-99.72734	US	SD
+Township of Plummer	43.8917	-98.86735	US	SD
+Poinsett Colony	44.64163	-96.90173	US	SD
+Point Comfort	45.38496	-96.57506	US	SD
+Polo	44.77942	-99.10955	US	SD
+Township of Portage	45.89269	-98.04088	US	SD
+Township of Portland	44.93343	-96.69946	US	SD
+Township of Posthal	45.76804	-99.77956	US	SD
+Powell	45.28858	-99.03095	US	SD
+Township of Powell	45.28873	-99.03045	US	SD
+Prairie Village	44.00609	-97.16756	US	SD
+Prairie Wood Village Addition	45.51108	-98.42676	US	SD
+Township of Prairie	43.03886	-96.7452	US	SD
+Township of Prairiewood	45.50938	-98.4194	US	SD
+Township of Pratt	44.31665	-99.59345	US	SD
+Township of Preston	44.49971	-96.94789	US	SD
+Priebe Landing Strip	43.77139	-99.20871	US	SD
+Township of Prosper	43.62965	-98.02638	US	SD
+Township of Providence	43.4211	-97.98757	US	SD
+Pukwana	43.77805	-99.18149	US	SD
+Town of Pukwana	43.77918	-99.18427	US	SD
+Township of Pukwana	43.80371	-99.21429	US	SD
+Township of Pulaski	45.10803	-99.13428	US	SD
+Unorganized Territory of Pulaski	45.11471	-99.14468	US	SD
+Punished Womans Mound	45.07049	-96.93295	US	SD
+Putney	45.56024	-98.17538	US	SD
+Township of Putney	45.54516	-98.16466	US	SD
+Township of Raber	44.30313	-99.84486	US	SD
+Township of Racine	45.36991	-97.42761	US	SD
+Township of Rames	43.04009	-99.83045	US	SD
+Ramona	44.11942	-97.21645	US	SD
+Town of Ramona	44.11987	-97.21541	US	SD
+Township of Ramsey	43.80423	-97.18919	US	SD
+Township of Randall	43.03166	-98.61619	US	SD
+Randolph	45.24274	-98.20982	US	SD
+Township of Raritan	45.45644	-97.55082	US	SD
+Rattlesnake Butte	43.45194	-99.6565	US	SD
+Rauville	44.97969	-97.10591	US	SD
+Township of Rauville	45.02053	-97.08936	US	SD
+Township of Ravenna	43.89375	-97.91098	US	SD
+Ravinia	43.13666	-98.42675	US	SD
+Town of Ravinia	43.1365	-98.42683	US	SD
+Township of Ravinia	45.54752	-98.66021	US	SD
+Raymond	44.91247	-97.93898	US	SD
+Town of Raymond	44.91055	-97.93726	US	SD
+Township of Raymond	44.93571	-97.92174	US	SD
+Red Butte	43.84875	-99.71548	US	SD
+Township of Redstone	44.15294	-97.79009	US	SD
+Ree Heights	44.47943	-99.18538	US	SD
+Town of Ree Heights	44.51582	-99.20052	US	SD
+Township of Ree Heights	44.49276	-99.23594	US	SD
+Township of Ree	42.9363	-98.28655	US	SD
+Ree Heights	44.51859	-99.20011	US	SD
+Reliance	43.87888	-99.60316	US	SD
+Reliance State Game Refuge	43.88916	-99.59733	US	SD
+Town of Reliance	43.87999	-99.60173	US	SD
+Township of Reliance	44.89054	-99.58595	US	SD
+Renner	43.64553	-96.72838	US	SD
+Renner Corner	43.64525	-96.71144	US	SD
+Reppert Addition	43.57359	-96.79477	US	SD
+Restlawn Memory Garden	44.31665	-98.21703	US	SD
+Revillo	45.01663	-96.57117	US	SD
+Town of Revillo	45.01531	-96.5711	US	SD
+Township of Rex	43.89084	-99.70565	US	SD
+Township of Rhoades	43.20556	-99.34621	US	SD
+Township of Rhoda	43.29803	-98.75272	US	SD
+Township of Rich Valley	44.75832	-99.96929	US	SD
+Richland	42.75944	-96.65281	US	SD
+Township of Richland	44.32557	-98.03341	US	SD
+Township of Richland	44.34737	-96.48942	US	SD
+Township of Richland	45.80691	-98.41427	US	SD
+Township of Richland	43.62893	-99.09209	US	SD
+Township of Richland	44.67485	-97.91681	US	SD
+Township of Richland	44.93437	-97.31056	US	SD
+Township of Richland	45.37452	-98.78348	US	SD
+Township of Richland	43.7169	-97.30879	US	SD
+Unorganized Territory of Richland	42.78444	-96.64889	US	SD
+Richmond	45.52275	-98.61899	US	SD
+Richmond Heights	45.50525	-98.57287	US	SD
+Robin Landing Strip	43.53527	-98.85842	US	SD
+Township of Rome	43.54251	-98.02534	US	SD
+Township of Rome	44.93348	-96.82144	US	SD
+Roscoe	45.44859	-99.33873	US	SD
+City of Roscoe	45.45014	-99.33697	US	SD
+Township of Rose	43.80396	-99.92164	US	SD
+Rosedale Colony	43.62526	-97.87285	US	SD
+Township of Rosedale	44.58776	-97.79565	US	SD
+Township of Rosedale	43.62995	-97.90667	US	SD
+Township of Roseland	43.63021	-99.68314	US	SD
+Township of Rosenthal	45.81053	-99.53178	US	SD
+Township of Rosette	45.54916	-99.02929	US	SD
+Rosholt	45.86663	-96.73146	US	SD
+Town of Rosholt	45.8662	-96.73175	US	SD
+Roslyn	45.49523	-97.49093	US	SD
+Town of Roslyn	45.49652	-97.4932	US	SD
+Roswell	44.0072	-97.69591	US	SD
+Town of Roswell	44.00125	-97.69715	US	SD
+Township of Roswell	43.97884	-97.66942	US	SD
+Township of Rouse	42.92474	-98.17042	US	SD
+Rowena	43.52025	-96.55588	US	SD
+Township of Roy	45.02081	-99.74623	US	SD
+Rudebusch Corner	45.42829	-97.15453	US	SD
+Rudolph	45.34803	-98.53621	US	SD
+Township of Rusk	45.28295	-97.55069	US	SD
+Rutland	44.08942	-96.96728	US	SD
+Township of Rutland	44.06583	-96.94889	US	SD
+Saint Charles	43.08694	-99.09537	US	SD
+Township of Saint Charles	43.11833	-99.0512	US	SD
+Saint Lawrence	44.51776	-98.93788	US	SD
+Town of Saint Lawrence	44.51661	-98.93788	US	SD
+Township of Saint Lawrence	44.50236	-98.88264	US	SD
+Saint Peters Mission	43.99305	-99.13121	US	SD
+Salem	43.72415	-97.38895	US	SD
+City of Salem	43.72283	-97.38931	US	SD
+Township of Salem	43.21285	-97.33925	US	SD
+Township of Salem	43.71698	-97.43037	US	SD
+Township of Sangamon	45.54964	-99.39976	US	SD
+Township of Saratoga	45.11497	-99.26676	US	SD
+Township of Savo	45.89347	-98.41426	US	SD
+Township of Scandinavia	44.58737	-96.54674	US	SD
+Township of Scatterwood	45.19359	-98.76899	US	SD
+Township of Schley	45.74582	-99.99623	US	SD
+Schmidt Landing	45.37969	-96.56089	US	SD
+Township of Schriever	43.12035	-98.95978	US	SD
+Township of Scissons	43.29194	-99.10982	US	SD
+Scotland	43.14972	-97.71757	US	SD
+City of Scotland	43.14833	-97.72037	US	SD
+Township of Scotland	43.12638	-97.69618	US	SD
+Township of Scotland	45.28339	-97.91979	US	SD
+Seneca	45.06164	-99.51206	US	SD
+Town of Seneca	45.0608	-99.50917	US	SD
+Township of Seneca	45.02081	-99.50178	US	SD
+Township of Shank	43.46748	-97.03394	US	SD
+Township of Sharon	43.29909	-97.81635	US	SD
+Shelby	43.94805	-99.18732	US	SD
+Township of Shelby	45.71704	-98.19442	US	SD
+Township of Sheridan	44.84359	-97.06391	US	SD
+Sherman	43.75914	-96.47615	US	SD
+Town of Sherman	43.75773	-96.47624	US	SD
+Township of Sherman	44.4124	-96.58535	US	SD
+Township of Sherman	45.74443	-99.93373	US	SD
+Township of Sherman	45.2019	-99.51234	US	SD
+Shindler	43.47498	-96.64866	US	SD
+Sieche Hollow	45.77968	-97.17842	US	SD
+Township of Signal	43.26641	-98.87398	US	SD
+Silver Valley Addition	43.53359	-96.80755	US	SD
+Sinai	44.24441	-97.04089	US	SD
+Town of Sinai	44.24449	-97.04403	US	SD
+Sioux Council Boy Scout Reservation	42.87222	-97.60173	US	SD
+Sioux Valley Landing Strip	43.98331	-96.78366	US	SD
+Township of Sioux Valley	42.86774	-96.61724	US	SD
+Sisseton	45.66468	-97.0498	US	SD
+Sisseton City Wells	45.65829	-96.98869	US	SD
+City of Sisseton	45.6625	-97.04529	US	SD
+Township of Sisseton	45.63134	-97.66954	US	SD
+Township of Sisseton	45.69012	-97.0403	US	SD
+Sittig Airstrip	43.62664	-96.64755	US	SD
+Skyline Heights	43.60692	-96.76172	US	SD
+Township of Smith	43.71574	-99.09237	US	SD
+Township of Snake Butte	44.3161	-99.71428	US	SD
+Sorum Heights	43.65414	-96.70894	US	SD
+Sorum Addition	43.65109	-96.71338	US	SD
+Township of South Detroit	45.7191	-98.04159	US	SD
+South End	45.47579	-97.26703	US	SD
+Unorganized Territory of Central Lyman	43.87297	-99.85253	US	SD
+South Shore	45.1058	-96.92868	US	SD
+Town of South Shore	45.10151	-96.93011	US	SD
+Unorganized Territory of Southeast Bon Homme	42.92678	-97.74095	US	SD
+Unorganized Territory of Southeast Buffalo	43.9778	-99.01692	US	SD
+Unorganized Territory of Southeast Gregory	43.03249	-98.61606	US	SD
+Unorganized Territory of Southeast Yankton	42.88412	-97.32576	US	SD
+Unorganized Territory of Southwest Bon Homme	42.88595	-97.98933	US	SD
+Unorganized Territory of Southwest Faulk	45.02773	-99.45029	US	SD
+Spain	45.70301	-97.78594	US	SD
+Spencer	43.72748	-97.59312	US	SD
+City of Spencer	43.72747	-97.59111	US	SD
+Spink	42.85194	-96.74698	US	SD
+Spink Colony	44.74664	-98.29204	US	SD
+Township of Spink	42.86631	-96.74664	US	SD
+Spirit Mound	42.8745	-96.95885	US	SD
+Spottswood	44.6522	-98.50565	US	SD
+Township of Spirit Mound	42.86629	-96.98351	US	SD
+Stanley Corner	43.54332	-97.38784	US	SD
+Township of Star Valley	43.06654	-98.77068	US	SD
+Township of Star Valley	43.63873	-99.92306	US	SD
+Township of Star	43.04005	-97.10116	US	SD
+Township of Starr	43.46317	-98.05519	US	SD
+Township of Stena	45.8059	-97.91675	US	SD
+Stephan	44.24804	-99.45316	US	SD
+Township of Sterling	44.41289	-96.82688	US	SD
+Township of Stewart	43.12559	-99.71175	US	SD
+Township of Stickel	45.72359	-99.53234	US	SD
+Stickney	43.58916	-98.4373	US	SD
+Town of Stickney	43.5893	-98.43764	US	SD
+Stockholm	45.09969	-96.80201	US	SD
+Town of Stockholm	45.10181	-96.79977	US	SD
+Township of Stockholm	45.10673	-96.82272	US	SD
+Storla	43.8636	-98.35147	US	SD
+Strandburg	45.04413	-96.76062	US	SD
+Town of Strandburg	45.04407	-96.76044	US	SD
+Stratford	45.31636	-98.30482	US	SD
+Town of Stratford	45.31745	-98.30434	US	SD
+Township of Sully	43.3858	-99.59325	US	SD
+Summit	45.30441	-97.03647	US	SD
+Town of Summit	45.3057	-97.03938	US	SD
+Township of Summit	44.1525	-96.94917	US	SD
+Township of Summit	45.34308	-97.04594	US	SD
+Township of Sumner	45.02424	-98.16632	US	SD
+Township of Sun Prairie	43.80469	-97.42898	US	SD
+Sunnyview	44.34469	-96.78533	US	SD
+Township of Susquehanna	43.3841	-98.05375	US	SD
+Svatos Point	43.09361	-98.57536	US	SD
+Township of Sverdrup	43.71726	-96.71098	US	SD
+Township of Sweet	43.21194	-97.57841	US	SD
+Tabor	42.94861	-97.65895	US	SD
+Town of Tabor	42.94766	-97.6594	US	SD
+Township of Tabor	42.9375	-97.68562	US	SD
+Township of Tamworth	45.02748	-99.14523	US	SD
+Township of Taopi	43.80516	-96.95032	US	SD
+Township of Taylor	43.54326	-97.66688	US	SD
+Tea	43.44637	-96.83588	US	SD
+City of Tea	43.45144	-96.83467	US	SD
+Township of Tetonka	45.11193	-98.32753	US	SD
+Township of Theodore	45.3261	-99.88234	US	SD
+Township of Theresa	44.41628	-98.2785	US	SD
+Thomas	44.7608	-97.20952	US	SD
+Thomas Brothers Landing Strip	43.93332	-99.86706	US	SD
+Township of Thompson	45.6361	-99.77817	US	SD
+Township of Thorp	45.02181	-97.67745	US	SD
+Thunder Valley Drag Strip	43.41471	-97.21284	US	SD
+Tobacco Bottom	42.96194	-98.30063	US	SD
+Tolstoy	45.20804	-99.61428	US	SD
+Town of Tolstoy	45.20815	-99.61399	US	SD
+Toronto	44.57302	-96.64255	US	SD
+Town of Toronto	44.5724	-96.64137	US	SD
+Trent	43.90636	-96.65394	US	SD
+Trent Mounds	43.87831	-96.65338	US	SD
+Town of Trent	43.90626	-96.65781	US	SD
+Township of Trenton	44.23814	-96.70665	US	SD
+Tripp	43.22555	-97.96591	US	SD
+Township of Tripp	43.20555	-97.92146	US	SD
+City of Tripp	43.22529	-97.96566	US	SD
+Troy	45.03746	-96.86535	US	SD
+Township of Troy	45.19609	-97.80047	US	SD
+Township of Troy	45.02018	-96.8218	US	SD
+Township of Tobin	43.54201	-98.14429	US	SD
+Township of Truro	43.54166	-98.49808	US	SD
+Tschetter Colony	43.37026	-97.68618	US	SD
+Tulare	44.73803	-98.50982	US	SD
+Town of Tulare	44.73822	-98.50893	US	SD
+Township of Tulare	44.76382	-98.52396	US	SD
+Tunerville	44.89024	-96.68117	US	SD
+Township of Turgeon	43.205	-99.10954	US	SD
+Township of Turkey Valley	43.12641	-97.21963	US	SD
+Township of Turner	43.21394	-96.98323	US	SD
+Turtle Butte	43.06059	-99.8416	US	SD
+Turton	45.04969	-98.09565	US	SD
+Town of Turton	45.04896	-98.0974	US	SD
+Township of Turton	45.02283	-98.04312	US	SD
+Twin Brooks	45.2058	-96.77951	US	SD
+Town of Twin Brooks	45.20897	-96.78551	US	SD
+Township of Twin Brooks	45.19458	-96.82311	US	SD
+Twin Butte	43.51498	-99.25763	US	SD
+Tyndall	42.99333	-97.86285	US	SD
+City of Tyndall	42.98987	-97.86422	US	SD
+Uncle John Coulee	45.78635	-97.20676	US	SD
+Twilight Butte	43.50444	-99.45983	US	SD
+Township of Union	43.89089	-99.10732	US	SD
+Township of Union	43.6297	-98.26556	US	SD
+Township of Union	45.45694	-97.79594	US	SD
+Township of Union	45.37516	-98.90645	US	SD
+Township of Union	45.20114	-98.77763	US	SD
+Township of Union	43.11889	-99.22788	US	SD
+Township of Union	44.84554	-99.48011	US	SD
+Township of Union	43.54327	-97.42784	US	SD
+Township of Union	44.06695	-96.48969	US	SD
+Township of Union	43.98132	-98.03078	US	SD
+Township of Union	44.67535	-98.03823	US	SD
+Unityville	43.80137	-97.45257	US	SD
+Utica	42.98111	-97.49645	US	SD
+Town of Utica	42.98109	-97.49666	US	SD
+Township of Utica	42.95215	-97.4571	US	SD
+Valley	43.38471	-98.27119	US	SD
+Township of Valley	44.41455	-98.15278	US	SD
+Township of Valley	45.28323	-97.79664	US	SD
+Township of Valley	43.38411	-98.28825	US	SD
+Township of Valley	44.40415	-99.95679	US	SD
+Township of Valley	43.29925	-97.45998	US	SD
+Township of Valley	44.67831	-99.61443	US	SD
+Township of Valley	43.04002	-99.59329	US	SD
+Valleyview	42.96722	-97.27894	US	SD
+Township of Van Order	44.40443	-99.35094	US	SD
+Veblen	45.86301	-97.28759	US	SD
+City of Veblen	45.86199	-97.28691	US	SD
+Township of Veblen	45.87785	-97.29032	US	SD
+Vedin Corner	43.08249	-97.39895	US	SD
+Verdon	45.24385	-98.09759	US	SD
+Town of Verdon	45.24419	-98.09919	US	SD
+Township of Vermont	45.28872	-99.27737	US	SD
+Township of Vernon	44.32721	-98.51857	US	SD
+Township of Vernon	45.1073	-96.54588	US	SD
+Viborg	43.17027	-97.08144	US	SD
+Viborg Interchange	43.17082	-96.7956	US	SD
+City of Viborg	43.17139	-97.07985	US	SD
+Victor	45.86885	-96.83286	US	SD
+Township of Victor	45.89135	-97.53785	US	SD
+Township of Victor	45.87764	-96.79224	US	SD
+Township of Vielhauer	43.0075	-97.90868	US	SD
+Vienna	44.70302	-97.50147	US	SD
+Town of Vienna	44.70316	-97.50002	US	SD
+Vilas	44.01053	-97.59729	US	SD
+Town of Vilas	44.00832	-97.59594	US	SD
+Village Square	44.31247	-96.77394	US	SD
+Township of Viola	43.98031	-98.51111	US	SD
+Virgil	44.29082	-98.42426	US	SD
+Town of Virgil	44.29094	-98.4276	US	SD
+Township of Virginia	43.01081	-96.53253	US	SD
+Vogeler Draw	45.02081	-99.24956	US	SD
+Volga	44.32358	-96.92645	US	SD
+City of Volga	44.32392	-96.92253	US	SD
+Township of Volga	44.32404	-96.94826	US	SD
+Volin	42.95722	-97.18033	US	SD
+Town of Volin	42.95862	-97.18119	US	SD
+Township of Volin	42.95282	-97.21979	US	SD
+Township of Wachter	45.89586	-98.78501	US	SD
+Township of Wacker	45.89653	-99.03566	US	SD
+Wagner	43.07972	-98.29313	US	SD
+Wagner Draw	43.76222	-99.57538	US	SD
+City of Wagner	43.07684	-98.29338	US	SD
+Township of Wahehe	42.9585	-98.40189	US	SD
+Wakonda	43.00833	-97.10672	US	SD
+Town of Wakonda	43.00812	-97.10597	US	SD
+Township of Waldro	43.80401	-98.97339	US	SD
+Walkers Point	43.96108	-97.02839	US	SD
+Wallace	45.08607	-97.47592	US	SD
+Wallace Jewett Airstrip	44.99302	-96.477	US	SD
+Town of Wallace	45.08446	-97.47813	US	SD
+Township of Walshtown	43.03929	-97.33884	US	SD
+Ward	44.15469	-96.46032	US	SD
+Town of Ward	44.15481	-96.46259	US	SD
+Township of Ward	44.15397	-96.49115	US	SD
+Warner	45.32581	-98.49537	US	SD
+Town of Warner	45.32517	-98.49524	US	SD
+Township of Warner	45.33226	-98.52943	US	SD
+Township of Warren	45.1093	-97.9218	US	SD
+Township of Warren	44.1545	-98.2712	US	SD
+Township of Washington	43.27832	-98.41702	US	SD
+Township of Washington	43.54233	-98.73494	US	SD
+Township of Washington	43.12638	-97.81312	US	SD
+Township of Washington	44.58736	-97.55302	US	SD
+Township of Washington	43.46279	-98.17238	US	SD
+Township of Washington	44.67137	-99.36289	US	SD
+Township of Washington	45.63609	-98.91094	US	SD
+Watertown	44.89941	-97.11507	US	SD
+City of Watertown	44.90965	-97.15448	US	SD
+Township of Waverly	45.00798	-96.94509	US	SD
+Township of Waverly	45.71831	-97.66854	US	SD
+Township of Wayne	43.62968	-97.78689	US	SD
+Township of Wayne	44.1526	-97.3099	US	SD
+Township of Wayne	43.54883	-96.85087	US	SD
+Township of Weaver	43.29954	-99.94887	US	SD
+Township of Weber	45.89636	-98.90975	US	SD
+Webster	45.33218	-97.52009	US	SD
+City of Webster	45.33544	-97.52161	US	SD
+Township of Webster	45.37122	-97.55191	US	SD
+Township of Webster	44.40332	-99.71428	US	SD
+Wecota	45.17247	-99.11761	US	SD
+Township of Wellington	43.54337	-97.06955	US	SD
+Wentworth	43.99719	-96.96422	US	SD
+Township of Wentworth	43.97869	-96.94881	US	SD
+Village of Wentworth	43.99695	-96.96455	US	SD
+Township of Wesley	45.11412	-98.77755	US	SD
+Wessington	44.45415	-98.69704	US	SD
+City of Wessington	44.45511	-98.69679	US	SD
+Township of Wessington	44.41387	-98.6399	US	SD
+West Acres Development	43.54609	-96.86644	US	SD
+Waverly	44.99858	-96.97174	US	SD
+West Britton	45.79218	-97.83788	US	SD
+Township of West Hanson	45.37107	-98.16543	US	SD
+Unorganized Territory of West McPherson	45.7606	-99.55994	US	SD
+Township of West Minster	44.49026	-99.71428	US	SD
+Township of West Point	43.89325	-99.25457	US	SD
+Township of West Rondell	45.28347	-98.41003	US	SD
+Unorganized Territory of West Yankton	43.00236	-97.54226	US	SD
+Township of Weston	45.71887	-97.9171	US	SD
+Westport	45.64886	-98.49704	US	SD
+Town of Westport	45.64781	-98.49812	US	SD
+Township of Westport	45.64696	-98.5267	US	SD
+Westreville	42.92416	-97.02338	US	SD
+Wetonka	45.62525	-98.76788	US	SD
+Town of Wetonka	45.62422	-98.77174	US	SD
+Wewela	43.01056	-99.78095	US	SD
+Township of Wheatland	45.19564	-97.43294	US	SD
+Township of Wheaton	44.76511	-98.76564	US	SD
+White	44.43469	-96.64977	US	SD
+Township of Whetstone	43.20555	-98.97203	US	SD
+City of White	44.43674	-96.64638	US	SD
+Township of White	45.89219	-97.66716	US	SD
+Township of Whiteside	44.50237	-98.64051	US	SD
+Township of Whitewood	44.2483	-97.37917	US	SD
+Township of Wilbur	43.62942	-98.85383	US	SD
+Township of White Swan	43.10223	-98.55751	US	SD
+Township of William Hamilton	44.59103	-99.37282	US	SD
+Township of Willow	45.7222	-98.78649	US	SD
+Wilmot	45.40857	-96.85785	US	SD
+City of Wilmot	45.4092	-96.85689	US	SD
+Township of Wilson	43.29948	-99.83039	US	SD
+Winans	45.79163	-96.75507	US	SD
+Winfred	43.9972	-97.36229	US	SD
+Township of Winfred	43.97891	-97.30941	US	SD
+Winship	45.92275	-98.51871	US	SD
+Township of Winsor	44.41274	-97.06799	US	SD
+Township of Wismer	45.78318	-97.54482	US	SD
+Township of Wittenberg	43.32181	-97.70311	US	SD
+Wolsey	44.40776	-98.47482	US	SD
+Town of Wolsey	44.41053	-98.47381	US	SD
+Township of Wolsey	44.41446	-98.52194	US	SD
+Township of Woodland	45.02201	-97.79986	US	SD
+Township of Woodworth	44.01581	-97.66174	US	SD
+Woonsocket	44.0536	-98.27564	US	SD
+City of Woonsocket	44.05405	-98.27236	US	SD
+Township of Woonsocket	44.06903	-98.27115	US	SD
+Township of Worms	45.8111	-99.90317	US	SD
+Township of Worthen	43.54291	-97.90584	US	SD
+Worthing	43.32915	-96.76283	US	SD
+City of Worthing	43.33005	-96.76825	US	SD
+Yale	44.43387	-97.99009	US	SD
+Town of Yale	44.43395	-97.98852	US	SD
+Yankton	42.87111	-97.39728	US	SD
+Yankton Reservation	43.10863	-98.37606	US	SD
+City of Yankton	42.88993	-97.39229	US	SD
+Township of York	45.19607	-97.67788	US	SD
+Township of York	44.59118	-98.88741	US	SD
+Zell	44.89692	-98.72843	US	SD
+Township of Zell	44.94088	-98.7769	US	SD
+Township of Ziskov	43.95914	-97.56535	US	SD
+Herrick	43.115	-99.18788	US	SD
+Dick Deal Landing Strip	44.67109	-100.77765	US	SD
+Lonesome Butte	45.76944	-100.56486	US	SD
+Wolfram Lode	43.92693	-103.5838	US	SD
+Watson Draw	44.99165	-103.95632	US	SD
+Township of Ada	45.34265	-102.40601	US	SD
+Agar	44.83832	-100.07457	US	SD
+Town of Agar	44.83916	-100.07338	US	SD
+Ajax	43.89749	-103.18185	US	SD
+Akaska	45.33249	-100.12068	US	SD
+Town of Akaska	45.33103	-100.12086	US	SD
+Allen	43.28083	-101.92432	US	SD
+Alto	44.32998	-100.12735	US	SD
+Anderson Draw	43.95693	-102.50017	US	SD
+Township of Annin	44.97776	-100.06568	US	SD
+Antelope	43.30306	-100.6293	US	SD
+Antelope Butte	44.99179	-103.78973	US	SD
+Antelope Draw	43.92359	-103.98993	US	SD
+Antelope Hollow	43.16192	-103.23103	US	SD
+Township of Antelope	45.3431	-102.77436	US	SD
+Township of Antelope	44.23109	-100.31513	US	SD
+Township of Appomattox	45.10832	-100.11318	US	SD
+Ardmore	43.01941	-103.65631	US	SD
+Township of Argentine	43.43485	-103.99534	US	SD
+Argyle	43.53498	-103.64797	US	SD
+Armstrong Landing Strip	44.23749	-101.2632	US	SD
+Arpan	44.78832	-103.64909	US	SD
+Arrowhead Butte	45.15109	-102.05988	US	SD
+Artichoke Butte	44.85248	-100.35094	US	SD
+Arnold Bottoms	44.68471	-101.33209	US	SD
+Township of Artichoke	44.93443	-100.11346	US	SD
+Township of Ash	44.90054	-102.03488	US	SD
+Ash Coulee	45.20777	-103.69742	US	SD
+Township of Ash	44.22437	-102.20242	US	SD
+Ashcroft Butte	45.76284	-103.29904	US	SD
+Ashland Heights	44.12971	-103.12518	US	SD
+Athboy	45.57415	-101.92264	US	SD
+Ash Draw	44.03026	-100.84236	US	SD
+Township of Auburn	45.72499	-100.15179	US	SD
+Township of Avance	44.90026	-102.27794	US	SD
+Township of Bad Nation	43.60856	-100.35057	US	SD
+Bad Wound	43.30028	-101.75987	US	SD
+Badnation	43.65166	-100.36986	US	SD
+Bams Butte	45.46325	-103.33337	US	SD
+Township of Bangor	45.45638	-100.00706	US	SD
+Township of Banner	44.1186	-100.6168	US	SD
+Batesland	43.12944	-102.1021	US	SD
+Town of Batesland	43.12782	-102.1017	US	SD
+Bear Butte	44.47443	-103.30741	US	SD
+Bear Butte	44.47582	-103.42685	US	SD
+Bear Butte National Wildlife Refuge	44.4536	-103.44519	US	SD
+Township of Beaver	43.4272	-103.27159	US	SD
+Beaver Valley	43.60915	-103.58686	US	SD
+Bee Draw	44.12998	-103.8677	US	SD
+Beef Draw	44.85276	-101.10932	US	SD
+Belcher Draw	44.04277	-101.5782	US	SD
+Belle Fourche	44.67137	-103.85215	US	SD
+Belle Fourche National Wildlife Refuge	44.72693	-103.70298	US	SD
+Bell Butte	43.36332	-102.3249	US	SD
+Unorganized Territory of Belle Fourche-Cheyenne Valleys	44.45648	-102.76755	US	SD
+Belvidere	43.83194	-101.27153	US	SD
+Town of Belvidere	43.83208	-101.27107	US	SD
+Township of Belvidere	43.85833	-101.29236	US	SD
+Benchmark	44.22526	-103.57825	US	SD
+Bend	44.22776	-103.01018	US	SD
+City of Belle Fourche	44.6636	-103.85619	US	SD
+Bennett Well	43.46942	-103.92631	US	SD
+Berne	43.81748	-103.63881	US	SD
+Berry Draw	44.29471	-100.02873	US	SD
+Bessie Butte	44.9336	-101.90571	US	SD
+Bethlehem	44.28749	-103.50269	US	SD
+Big Bend	44.06554	-103.41463	US	SD
+Township of Big Buffalo	43.85721	-101.83015	US	SD
+Big Corral Draw	43.73249	-102.76324	US	SD
+Big Draw	44.56082	-101.59876	US	SD
+Big Draw	44.84443	-102.66711	US	SD
+Big Negro Draw	43.96971	-101.38125	US	SD
+Big Two Top Butte	45.74805	-103.22351	US	SD
+Billings Draw	44.19332	-103.84826	US	SD
+Billsburg	44.40054	-101.68015	US	SD
+Bison	45.52026	-102.46127	US	SD
+Town of Bison	45.52355	-102.46772	US	SD
+Township of Bison	45.51598	-102.52056	US	SD
+Bixby	45.14832	-102.56183	US	SD
+Bjornland Draw	44.06637	-103.91243	US	SD
+Black Bull Draw	44.58332	-101.69737	US	SD
+Black Butte	44.65165	-100.97154	US	SD
+Black Eyes	43.26166	-101.69709	US	SD
+Black Gap	43.97138	-103.18463	US	SD
+Black Horse	45.71583	-101.38069	US	SD
+Black Horse Butte	45.61916	-101.88403	US	SD
+Township of Black Hawk	44.29165	-101.45598	US	SD
+Blackfoot Community	45.35777	-100.40208	US	SD
+Blackhawk	44.1511	-103.30796	US	SD
+Blackpipe	43.34389	-101.27459	US	SD
+Blacktail	44.36998	-103.7602	US	SD
+Township of Blackpipe	43.43277	-101.09825	US	SD
+Bleak Butte	45.79194	-103.95104	US	SD
+Blacktail Well	43.76026	-103.87159	US	SD
+Blindman Table	43.60871	-102.84873	US	SD
+Bloom Basin	43.90721	-102.1796	US	SD
+Blue Bell	43.71665	-103.48242	US	SD
+Township of Blue Blanket	45.54444	-100.15096	US	SD
+Blue Draw	44.19249	-103.5188	US	SD
+Boggy Draw	45.34692	-102.13738	US	SD
+Boone Draw	44.01193	-103.42852	US	SD
+Bouquet Table	43.68194	-102.2985	US	SD
+Bourne Draw	44.42776	-102.0671	US	SD
+Township of Bovine	44.11804	-100.85653	US	SD
+Bowman Draw	43.62054	-103.56019	US	SD
+Box Butte	43.59643	-101.24395	US	SD
+Box Elder	44.11249	-103.06823	US	SD
+City of Box Elder	44.1127	-103.08071	US	SD
+Boxcar Buttes	45.55277	-102.35627	US	SD
+Boydson Draw	44.32665	-102.94517	US	SD
+Bradley Draw	44.36971	-102.46267	US	SD
+Township of Brady	43.94527	-101.59209	US	SD
+Brekke Draw	44.39054	-100.05485	US	SD
+Brewer Butte	45.43637	-101.2282	US	SD
+Township of Brown	44.11804	-101.69764	US	SD
+Brown Jug Draw	44.08193	-103.72881	US	SD
+Browns Draw	44.5536	-102.93823	US	SD
+Township of Brown	45.36943	-100.13096	US	SD
+Township of Brule	44.06388	-100.06457	US	SD
+Brushy Butte	43.3509	-101.43782	US	SD
+Brushy Draw	43.96498	-103.64325	US	SD
+Township of Brushy	45.28332	-102.53655	US	SD
+Buck Draw	43.15108	-103.96409	US	SD
+Buck Williams Draw	44.61665	-100.87265	US	SD
+Township of Buena Vista	44.5536	-102.65239	US	SD
+Buffalo	45.58416	-103.54603	US	SD
+Township of Buckeye	44.40359	-100.31958	US	SD
+Buffalo Gap	43.51943	-103.3477	US	SD
+Buffalo Gap National Grassland	43.06561	-103.64549	US	SD
+Town of Buffalo Gap	43.49216	-103.31529	US	SD
+Buffalo Gap	43.49165	-103.31297	US	SD
+Town of Buffalo	45.58638	-103.54345	US	SD
+Township of Buffalo	45.59583	-103.55603	US	SD
+Township of Buffalo	43.86467	-100.64603	US	SD
+Bullock Lookout Tower	44.04276	-103.5263	US	SD
+Township of Burdick	45.77595	-102.38347	US	SD
+Burdock	43.45303	-103.99326	US	SD
+Bullhead	45.76555	-101.08069	US	SD
+Burnt Fork	43.9611	-103.6038	US	SD
+Bus Butte	43.56946	-101.18191	US	SD
+Bushnell Draw	43.97027	-101.54098	US	SD
+Township of Butte	44.20415	-101.81737	US	SD
+Butte Draw	43.96082	-101.5432	US	SD
+Township of Butte	43.43435	-100.39232	US	SD
+Buzzard Butte	43.43912	-101.53925	US	SD
+Township of Byron	44.49776	-100.20041	US	SD
+Buzzards Roost	44.0523	-103.38809	US	SD
+Township of Cadillac	45.90833	-101.04208	US	SD
+Township of Calmar	45.885	-103.36629	US	SD
+Cameron Draw	43.8897	-103.89881	US	SD
+Township of Cameron	45.63916	-103.37129	US	SD
+Township of Canning	44.40359	-100.0779	US	SD
+Capa	44.10887	-100.97819	US	SD
+Township of Capa	44.11832	-100.97764	US	SD
+Caputa	43.99388	-102.98212	US	SD
+Carley Draw	44.4261	-102.05543	US	SD
+Canning	44.39637	-100.03207	US	SD
+Carlin Bottoms	44.68471	-101.29626	US	SD
+Carlin Draw	44.69221	-101.30904	US	SD
+Carlson Draw	44.29998	-100.04262	US	SD
+Caroline Butte	45.65593	-103.89144	US	SD
+Carter	43.38722	-100.20263	US	SD
+Township of Carter	43.38645	-100.17031	US	SD
+Casey Draw	44.42081	-100.67931	US	SD
+Township of Cash	45.60318	-102.64218	US	SD
+Castle Butte	45.93902	-102.52555	US	SD
+Township of Castle Butte	43.75849	-102.07878	US	SD
+The Castle	43.78055	-102.08377	US	SD
+The Castle	43.78333	-102.02543	US	SD
+The Castles	45.52749	-103.17101	US	SD
+Cathedral Spires	43.84943	-103.53242	US	SD
+Township of Cattron	44.93443	-100.23596	US	SD
+Cave Draw	44.13915	-103.84992	US	SD
+Township of Cedar	43.85721	-101.95515	US	SD
+Township of Cedar	44.98749	-102.88767	US	SD
+Cedar Bluffs	43.29665	-102.91436	US	SD
+Cedar Butte	43.57694	-101.01848	US	SD
+Cedar Butte	44.08471	-102.31544	US	SD
+Cedar Butte	43.5211	-102.55462	US	SD
+Cedar Butte	43.66388	-102.58129	US	SD
+Cedar Butte	44.64722	-100.93713	US	SD
+Township of Cedar Butte	43.60055	-101.1257	US	SD
+Township of Cedar Butte	44.12465	-102.30767	US	SD
+Cedar Butte	43.61932	-101.29594	US	SD
+Unorganized Territory of Cedarbutte	43.56324	-101.14428	US	SD
+Township of Ceder	45.54165	-101.54347	US	SD
+City of Central City	44.36858	-103.77051	US	SD
+Central City	44.36582	-103.77242	US	SD
+Unorganized Territory of East Corson	45.73084	-100.80372	US	SD
+Unorganized Territory of Central Jones	43.92645	-100.72711	US	SD
+Unorganized Territory of Central Mellette	43.58152	-100.74141	US	SD
+Unorganized Territory of Central Pennington	44.13322	-103.15701	US	SD
+Chalk Butte Draw	45.40277	-103.65103	US	SD
+Centennial Prairie	44.45665	-103.74214	US	SD
+Chance	45.40998	-102.28127	US	SD
+Township of Chance	45.38646	-102.2777	US	SD
+Chapman Draw	44.48304	-102.12821	US	SD
+Charles Draw	43.83805	-102.96518	US	SD
+Chase	44.94109	-101.62849	US	SD
+Chasing Hawk Draw	44.75999	-101.92655	US	SD
+Township of Chaudoin	45.25609	-102.40602	US	SD
+Township of Cherry	44.1186	-101.45709	US	SD
+Township of Cheyenne	44.37943	-102.29155	US	SD
+Cheyenne Feeders Landing Strip	43.17497	-103.85048	US	SD
+Chief Sitting Bulls Grave Monument	43.52111	-100.5193	US	SD
+Chimney Butte	45.76237	-103.84342	US	SD
+Chimney Butte	45.4561	-102.80655	US	SD
+Chimney Butte	43.4611	-102.49295	US	SD
+Chinatown	44.37915	-103.72131	US	SD
+Clark Landing Strip	44.11554	-102.07627	US	SD
+Township of Clark	45.60288	-102.14842	US	SD
+Clay Butte	45.66971	-101.45514	US	SD
+Clarkson Addition	44.0086	-103.32685	US	SD
+Clayton Draw	44.5336	-101.8696	US	SD
+Clayton Draw	44.20804	-103.91882	US	SD
+Clayton Willow Exclosure	44.21221	-103.92465	US	SD
+Township of Clear	43.57499	-102.16294	US	SD
+Township of Clifton	44.67082	-100.21291	US	SD
+Township of Clough	44.55415	-102.77351	US	SD
+Clough	44.57915	-102.80462	US	SD
+Township of Cody	43.65482	-100.53238	US	SD
+Coffee Butte	45.2223	-100.48952	US	SD
+Cold Brook	43.44276	-103.48186	US	SD
+Cole Draw	43.8686	-102.69073	US	SD
+Point Comfort	45.45194	-103.01017	US	SD
+Conata	43.7286	-102.18877	US	SD
+Conata Basin	43.78249	-102.24016	US	SD
+Conata Picnic Ground	43.83332	-102.20238	US	SD
+Township of Conata	43.79906	-102.19936	US	SD
+Commissary Point	44.0336	-103.37824	US	SD
+Coon Hollow	43.96749	-103.3763	US	SD
+Cooper Draw	45.85861	-103.70492	US	SD
+Township of Cooper	44.81304	-102.27794	US	SD
+Corey Butte	45.89917	-103.34657	US	SD
+Corsaurt Draw	44.8661	-102.72822	US	SD
+Costello Point	44.30304	-103.09768	US	SD
+Cottonwood Basin	43.60805	-101.26709	US	SD
+Cottonwood	43.96693	-101.90598	US	SD
+Cottonwood Draw	44.36971	-103.14018	US	SD
+Township of Cottonwood Valley	43.615	-100.87736	US	SD
+Town of Cottonwood	43.96571	-101.90205	US	SD
+Township of Cottonwood	45.17499	-103.03656	US	SD
+Township of Cottonwood	43.25358	-103.8677	US	SD
+Coulsen Hughes Draw	43.99387	-103.89187	US	SD
+Council Bear Draw	44.51804	-101.85987	US	SD
+Cowboy Draw	44.68555	-102.21183	US	SD
+Township of Cox	45.88528	-103.49047	US	SD
+Coyote Draw	43.15386	-104.01132	US	SD
+Coyote Draw	43.96832	-103.14185	US	SD
+Coyote Lookout	43.5625	-101.24681	US	SD
+Township of Craven	43.25275	-103.74908	US	SD
+Crazy Horse Carving	43.83637	-103.62242	US	SD
+Creighton	44.25499	-102.20794	US	SD
+Creston	43.91054	-102.69878	US	SD
+Crook City	44.44137	-103.63353	US	SD
+Cross Butte	43.56	-101.17598	US	SD
+Township of Cross	44.42332	-102.89406	US	SD
+Crow Buttes	45.22666	-103.55491	US	SD
+Crooks Tower	44.15601	-103.91858	US	SD
+Cuny Table	43.52388	-102.77991	US	SD
+Curiosity Butte	45.32933	-102.13155	US	SD
+Township of Curlew	43.54343	-100.16545	US	SD
+Curtis Draw	44.56387	-101.5457	US	SD
+Custer	43.76665	-103.59881	US	SD
+Custer Gap	44.13415	-103.41046	US	SD
+Custer Lookout Tower	44.24443	-103.7352	US	SD
+City of Custer	43.76657	-103.60084	US	SD
+Township of Custer	45.88119	-101.7627	US	SD
+Township of Dakota	44.52991	-102.1767	US	SD
+Dalzell	44.3436	-102.39655	US	SD
+Davis Buttes	45.30666	-103.43352	US	SD
+Davis Draw	45.80778	-103.49463	US	SD
+Davis Draw	44.25304	-102.56878	US	SD
+Daviston	45.45832	-102.66294	US	SD
+Day Brown Draw	43.91249	-102.65489	US	SD
+Township of De Witt	45.77563	-102.09893	US	SD
+Dead Horse Butte	45.88222	-103.64214	US	SD
+Dead Horse Draw	43.97138	-101.39959	US	SD
+Dead Horse Draw	44.76332	-101.95238	US	SD
+Deadwood	44.37665	-103.72964	US	SD
+Deal Landing Strip	44.61581	-100.79348	US	SD
+City of Deadwood	44.38149	-103.724	US	SD
+Deep Draw	45.2961	-103.13434	US	SD
+Deer Draw	45.37805	-103.16462	US	SD
+Deers Ears Butte	44.99846	-103.1854	US	SD
+Township of Delaney	45.58332	-101.91848	US	SD
+Denby	43.06082	-102.33766	US	SD
+Dennis	43.26136	-103.86687	US	SD
+Dehart Draw	44.40137	-100.0079	US	SD
+The Devils Backbone	43.5375	-101.12098	US	SD
+Devils Half Acre	45.82028	-103.75187	US	SD
+Dewey	43.53081	-104.04104	US	SD
+Dillon Draw	45.14943	-102.73239	US	SD
+Dipping Vat Draw	43.91749	-102.69545	US	SD
+Doc Hodge Draw	45.54083	-103.13573	US	SD
+Dodge Draw	45.41388	-103.81965	US	SD
+Dog Butte	45.43074	-100.96594	US	SD
+Dogie Butte	45.88257	-103.77971	US	SD
+Dolphus Peninsula	45.05304	-100.27346	US	SD
+Dome Butte	45.30342	-103.42875	US	SD
+Dorian Buttes	43.17325	-100.16407	US	SD
+Dover Draw	44.2536	-102.53128	US	SD
+Township of Dowling	44.37915	-101.93071	US	SD
+Draper	43.9261	-100.54041	US	SD
+Town of Draper	43.92616	-100.53718	US	SD
+Township of Draper	43.95202	-100.52648	US	SD
+The Drips	44.34332	-100.06096	US	SD
+Township of Dryden	43.16636	-103.27825	US	SD
+Dubuque Claim	43.74304	-103.69575	US	SD
+Dudley	43.31136	-103.81825	US	SD
+Township of Duell	45.34291	-102.65135	US	SD
+Township of Dudley	43.38331	-103.80686	US	SD
+Dugout Draw	43.90332	-101.7632	US	SD
+Dumont	44.2386	-103.79881	US	SD
+Dump Draw	44.13387	-103.75214	US	SD
+Duncan Butte	45.33753	-102.15781	US	SD
+Dunn Draw	44.46554	-101.98793	US	SD
+Township of Dunkel	43.8645	-100.52669	US	SD
+Dunn Well	45.33333	-103.71381	US	SD
+Dupree	45.04748	-101.60099	US	SD
+City of Dupree	45.04948	-101.60132	US	SD
+Unorganized Territory of Dupree	45.04358	-101.58049	US	SD
+E Six Butte	45.34365	-103.49218	US	SD
+Eagle Butte	45.00248	-101.23349	US	SD
+Eagle Butte	43.58812	-101.22977	US	SD
+Eagle Butte	43.58417	-101.23376	US	SD
+Eagle Butte	44.96609	-101.21876	US	SD
+City of Eagle Butte	44.99075	-101.22762	US	SD
+Eagle Chasing Draw	44.58304	-101.52848	US	SD
+Eagle Nest Butte	43.46417	-101.6557	US	SD
+Eagle Mans Butte	43.32316	-101.21633	US	SD
+Eagles Nest Butte	45.92378	-103.48994	US	SD
+Township of Eagle	44.99484	-102.77605	US	SD
+Eakin	44.61554	-100.03318	US	SD
+Unorganized Territory of East Bennett	43.19254	-101.47079	US	SD
+Unorganized Territory of East Central Pennington	43.93733	-102.6819	US	SD
+Unorganized Territory of East Butte	44.89242	-103.22865	US	SD
+East Clarkson Well	45.77278	-103.55908	US	SD
+Unorganized Territory of East Custer	43.68897	-103.16002	US	SD
+Unorganized Territory of East Haakon	44.31834	-101.3681	US	SD
+Unorganized Territory of Northeast Jackson	43.88989	-101.38472	US	SD
+Unorganized Territory of Northeast Perkins	45.6892	-102.25035	US	SD
+Unorganized Territory of East Shannon	43.34802	-102.2982	US	SD
+Unorganized Territory of East Todd	43.1908	-100.47489	US	SD
+Echo Valley	43.68748	-103.60686	US	SD
+Edgemont	43.30108	-103.82548	US	SD
+City of Edgemont	43.29822	-103.82719	US	SD
+Township of Eflle Fourche	44.91665	-103.83521	US	SD
+Eckard	43.00469	-103.96437	US	SD
+Elbon	44.28082	-101.68848	US	SD
+Eldrige Draw	43.1508	-104.0466	US	SD
+Eightmile Divide	44.52138	-102.96323	US	SD
+Elk Butte	45.70437	-100.7898	US	SD
+Elevenmile Corner	44.19721	-101.66764	US	SD
+Elk Knob	43.56402	-103.51638	US	SD
+Elkhorn Draw	43.92304	-102.78712	US	SD
+Elm Butte	44.62705	-102.93338	US	SD
+Elm Butte Divide	44.61554	-102.93129	US	SD
+Elm Draw	44.32971	-100.0629	US	SD
+Elm Tree Draw	44.46193	-101.9371	US	SD
+Elmore	44.31554	-103.88743	US	SD
+Empire	44.61749	-103.3213	US	SD
+Engalls Landing Strip	44.95332	-102.69017	US	SD
+Englewood	44.29693	-103.78464	US	SD
+Township of Englewood	45.25632	-102.11042	US	SD
+Englishman Butte	44.56832	-103.06684	US	SD
+Enning	44.57554	-102.56322	US	SD
+Township of Enterprise	44.81388	-102.40044	US	SD
+Erskine	43.43303	-103.56492	US	SD
+Township of Fairbank	44.75832	-100.49653	US	SD
+Town of Fairburn	43.68694	-103.20869	US	SD
+Fairpoint	44.74832	-102.79656	US	SD
+Township of Fairview	45.63749	-100.15179	US	SD
+Township of Fairview	45.54165	-101.5032	US	SD
+Township of Fairview	43.4347	-100.51235	US	SD
+Township of Fairview	43.94978	-102.19698	US	SD
+Faith	45.02304	-102.03599	US	SD
+City of Faith	45.02578	-102.03634	US	SD
+Fairburn	43.6861	-103.21158	US	SD
+Farnum Draw	43.92027	-102.55934	US	SD
+Township of Fayette	45.19443	-100.1129	US	SD
+Feeney Draw	44.68193	-101.2657	US	SD
+Ferguson Buttes	45.29471	-103.45324	US	SD
+Ferguson Draw	45.40388	-104.00771	US	SD
+Ferguson Landing Strip	44.48971	-101.81181	US	SD
+Ferguson Landing Strip	44.29193	-101.82765	US	SD
+Township of Filmore	45.76972	-103.05656	US	SD
+Fine Weather Draw	44.7997	-100.86126	US	SD
+Firesteel	45.42471	-101.28515	US	SD
+Finger Butte	45.38823	-103.10508	US	SD
+Township of Firesteel	45.39165	-101.29209	US	SD
+Fish Draw	45.18721	-103.01295	US	SD
+Five Points	43.97138	-103.55047	US	SD
+Fivemile Draw	44.12193	-102.39822	US	SD
+Flint Butte	45.84405	-103.36877	US	SD
+Township of Flora	45.54416	-100.39791	US	SD
+Flowing Well	44.71471	-103.73381	US	SD
+Folsom	43.82527	-102.8699	US	SD
+Township of Forney	43.25276	-103.0402	US	SD
+Fort George Butte	44.20919	-100.01951	US	SD
+Fort Meade Veterans Administration Watershed	44.37026	-103.56075	US	SD
+Fort Pierre	44.35359	-100.37374	US	SD
+Fort Pierre National Grassland	44.14085	-100.27904	US	SD
+City of Fort Pierre	44.36791	-100.38313	US	SD
+Fossil Cycad National Monument	43.39497	-103.72631	US	SD
+Township of Foster	45.34286	-102.11057	US	SD
+Four Corners Well	43.91554	-103.82687	US	SD
+Fourmile	43.73276	-103.67547	US	SD
+Fourmile Butte	45.12759	-103.78857	US	SD
+Fourmile Draw	44.32137	-102.12766	US	SD
+Fox Well	45.35222	-103.68131	US	SD
+Township of Fredlund	45.68958	-102.64186	US	SD
+Freeland Well	43.64276	-103.79964	US	SD
+Township of Freeman	44.91666	-103.29213	US	SD
+Township of Fremont	45.8986	-100.02817	US	SD
+Township of Franklin	45.63749	-100.26429	US	SD
+Frink Draw	43.96776	-103.71909	US	SD
+Fruitdale	44.66832	-103.69714	US	SD
+Town of Fruitdale	44.66921	-103.69547	US	SD
+Fulton Draw	44.05831	-103.89715	US	SD
+Galena	44.3336	-103.64103	US	SD
+Galigo Table	43.58909	-102.66556	US	SD
+Gallager Draw	45.82889	-103.66297	US	SD
+Township of Gallup	45.65389	-103.80187	US	SD
+Township of Garner	44.75832	-100.09096	US	SD
+Township of Gas Belt	44.24582	-100.17096	US	SD
+Gayville	44.37082	-103.7602	US	SD
+Gene Armstrong Landing Strip	44.29582	-101.18931	US	SD
+Gilam Draw	44.3586	-102.61739	US	SD
+Gilbert Draw	45.40472	-103.81215	US	SD
+Gillette Prairie	43.95915	-103.74909	US	SD
+Gillette Well	43.91665	-103.84326	US	SD
+Gingrass Draw	44.15249	-103.53686	US	SD
+Glad Valley	45.39915	-101.77764	US	SD
+Gladson Draw	45.10638	-103.01739	US	SD
+Glencross	45.44832	-100.92125	US	SD
+Township of Glendo	45.68995	-102.88877	US	SD
+Glenham	45.53277	-100.27152	US	SD
+Town of Glenham	45.53299	-100.27112	US	SD
+Gobbler Knob	43.9511	-103.24657	US	SD
+Township of Golden	44.6411	-102.77378	US	SD
+Township of Good Water	44.58443	-100.21263	US	SD
+Goose Pasture Draw	44.08249	-103.5813	US	SD
+Gooseberry Draw	43.98693	-103.70075	US	SD
+Gorman	44.92693	-100.07484	US	SD
+Government Draw	44.3147	-100.70875	US	SD
+Township of Grand Valley	45.66666	-101.91709	US	SD
+Township of Grand View	45.59638	-102.9985	US	SD
+Township of Grand View	44.66998	-100.49764	US	SD
+Grand Vista Draw	43.89665	-103.78214	US	SD
+Grandma Schang Draw	45.52166	-103.98132	US	SD
+Township of Grandview II	43.96291	-101.73098	US	SD
+Township of Grandview	43.87249	-100.99431	US	SD
+Grandmas Butte	45.62194	-102.65377	US	SD
+Township of Granger	45.74055	-103.9241	US	SD
+Gray Butte	45.09238	-100.46609	US	SD
+Gray Buttes	44.75665	-101.05154	US	SD
+Gray Butte	45.24546	-101.59884	US	SD
+Greasewood Draw	45.07193	-103.97855	US	SD
+Gray Goose	44.5047	-100.35069	US	SD
+Green Draw	44.21943	-103.52186	US	SD
+Green Grass	45.17109	-101.24599	US	SD
+Green Draw	44.45999	-102.10405	US	SD
+Green Top	44.22374	-103.52934	US	SD
+Green Valley	44.03554	-103.11129	US	SD
+Township of Greenwood	43.64158	-100.03968	US	SD
+Greenwood	44.22026	-103.56158	US	SD
+Grindstone	44.13915	-101.96737	US	SD
+Township of Grindstone	44.11832	-101.93682	US	SD
+Grindstone Butte	44.19816	-101.79889	US	SD
+Griffis Well	43.66887	-103.73464	US	SD
+Grizzly Bear Picnic Ground	43.8686	-103.43964	US	SD
+Gustave	45.2811	-103.97521	US	SD
+Gustave Butte	45.23205	-103.90058	US	SD
+Half Dome	43.60032	-101.39166	US	SD
+Hamilton Airstrip	44.62609	-101.30348	US	SD
+Hanna	44.26165	-103.84576	US	SD
+Township of Hanover	44.46665	-101.3257	US	SD
+Haney Landing Strop	45.54721	-102.78461	US	SD
+Harding	45.39833	-103.8327	US	SD
+Township of Harding	45.37916	-103.74214	US	SD
+Township of Harding	44.7261	-102.27905	US	SD
+Township of Harmony	43.07914	-103.27686	US	SD
+Harney	43.89249	-103.38797	US	SD
+Harrington	43.17111	-101.25459	US	SD
+Hart Table	43.79749	-102.63879	US	SD
+Township of Hartford	44.75832	-100.21291	US	SD
+Hartley	44.4011	-101.81043	US	SD
+Hawks Nest Draw	45.03749	-103.86271	US	SD
+Haxby Draw	44.41721	-101.89209	US	SD
+Hay Butte	44.94832	-102.36627	US	SD
+Hay Draw	43.73498	-103.96993	US	SD
+Hay Draw	43.14191	-103.8427	US	SD
+Hay Draw	44.0461	-101.3082	US	SD
+Hay Draw	44.24637	-102.52517	US	SD
+Hay Draw	43.91471	-103.51936	US	SD
+Hay Draw	44.10665	-103.56436	US	SD
+Hay Draw	43.91748	-103.81076	US	SD
+Haydraw	44.44499	-102.72184	US	SD
+Hayes	44.37026	-101.02153	US	SD
+Hayes Emergency Airstrip	44.37296	-101.0116	US	SD
+Township of Hayes	44.37915	-100.96403	US	SD
+Haystack Butte	45.06288	-103.4516	US	SD
+Haystack Butte	45.63694	-103.10517	US	SD
+Haystack Butte	45.35646	-102.8534	US	SD
+Haystack Butte	43.31767	-100.53597	US	SD
+Haystack Buttes	44.64582	-103.73325	US	SD
+Heck Table	43.73527	-102.51128	US	SD
+Heinrich Airstrip	43.85332	-102.62795	US	SD
+Helster Draw	44.56443	-101.59681	US	SD
+Heppner	43.24692	-103.54992	US	SD
+Hereford	44.38721	-102.89545	US	SD
+Town of Hermosa	43.83969	-103.19296	US	SD
+Herreid	45.83471	-100.06928	US	SD
+City of Herreid	45.83764	-100.07493	US	SD
+Township of Herreid	45.83332	-100.05873	US	SD
+Hibbs Draw	43.83027	-102.88351	US	SD
+Hermosa	43.83971	-103.19102	US	SD
+Hidden Timber	43.22945	-100.42152	US	SD
+Township of Hiddenwood	45.54388	-100.0279	US	SD
+High Hawks Village Historic Site	43.28111	-101.09515	US	SD
+Township of Highland	43.94415	-100.75514	US	SD
+Township of Highland	44.55443	-103.37602	US	SD
+Highview Prospect	43.75193	-103.71436	US	SD
+Township of Hilde	45.45638	-100.1304	US	SD
+Highland Lode	43.76637	-103.67853	US	SD
+Township of Hilmoe	43.8111	-100.16846	US	SD
+Hisega	44.05332	-103.40185	US	SD
+Hisle	43.40583	-101.75181	US	SD
+Hoffman Landing Strip	44.0611	-102.12293	US	SD
+Hollens Draw	44.24526	-103.86993	US	SD
+Hollingsworth Draw	43.16275	-104.01187	US	SD
+Township of Holsclaw	43.12811	-100.16671	US	SD
+Hollow Horn Bear Village Historic Site	43.2625	-101.10432	US	SD
+Hoover	45.11249	-103.26712	US	SD
+Hop Draw	43.75553	-103.99576	US	SD
+Township of Hope	44.97776	-100.30596	US	SD
+Horn Draw	44.66498	-101.58959	US	SD
+Horse Butte	44.9561	-102.67878	US	SD
+Township of Horse Butte	44.98749	-102.64461	US	SD
+Horse Tooth	44.19201	-102.05928	US	SD
+Horseshoe Bend	43.3097	-103.53686	US	SD
+Horseshoe Butte	43.74154	-101.14655	US	SD
+Hot Brook	43.44276	-103.48158	US	SD
+Township of Howard	44.64694	-102.06047	US	SD
+Howes	44.61943	-102.05183	US	SD
+Huckfeldt Draw	44.41942	-100.6132	US	SD
+Huddleston Draw	44.34721	-102.52517	US	SD
+Huddle Landing Strip	43.05056	-100.15207	US	SD
+Township of Huggins	43.04042	-100.06764	US	SD
+Hughes Draw	44.04804	-103.87104	US	SD
+Township of Hudgins	45.70833	-102.05459	US	SD
+Hump Butte	45.88361	-101.44541	US	SD
+Hurley Butte	43.72211	-102.14972	US	SD
+Township of Huron	44.12471	-102.18786	US	SD
+Hutmacher Table	43.73305	-102.68573	US	SD
+Hunt Table	43.71388	-102.45795	US	SD
+Igloo	43.20247	-103.85687	US	SD
+Ike John Landing Strip	45.39999	-102.79627	US	SD
+Imlay	43.71944	-102.39739	US	SD
+Township of Imlay	43.78248	-102.33937	US	SD
+Imogene	45.14054	-102.71294	US	SD
+Township of Independence	45.57499	-102.28655	US	SD
+Indian Butte	45.14134	-103.96641	US	SD
+Township of Indian	43.06608	-103.86715	US	SD
+Indian Village Landing Strip	43.91666	-102.23655	US	SD
+Town of Interior	43.72685	-101.98366	US	SD
+Township of Interior	43.75912	-101.89706	US	SD
+Township of Iowa	44.20415	-101.33653	US	SD
+Township of Iowa	44.58387	-100.3343	US	SD
+Irish Butte	45.3447	-103.17113	US	SD
+Interior	43.72694	-101.98404	US	SD
+Iron Draw	43.45637	-103.1602	US	SD
+Iron Post Buttes	44.6947	-100.69653	US	SD
+Isabel	45.39415	-101.42959	US	SD
+Town of Isabel	45.39384	-101.43247	US	SD
+J K Butte	45.4627	-103.93161	US	SD
+Iron Lightning	45.1797	-101.84626	US	SD
+Jackrabbit Draw	43.91888	-101.88265	US	SD
+Jackson Draw	44.54721	-101.79237	US	SD
+Jackson Narrows	43.27664	-103.51964	US	SD
+Jenks Draw	44.00081	-103.97687	US	SD
+Jewel Cave National Monument	43.73103	-103.82999	US	SD
+Township of Jewett	43.95149	-101.48225	US	SD
+Johnny Butte	45.34276	-102.3796	US	SD
+Johnnys Pocket	45.75528	-103.54352	US	SD
+Johnson Butte	45.59277	-103.89743	US	SD
+Johnson Draw	45.46222	-103.87854	US	SD
+Johnson Draw	43.595	-101.19737	US	SD
+Jolly	44.62137	-103.8252	US	SD
+Jolly Dump	44.5936	-103.86798	US	SD
+Jordan Junction	43.385	-100.02929	US	SD
+Township of Jordan	43.38643	-100.06718	US	SD
+Joshua Butte	44.71577	-101.37948	US	SD
+Jumpoff Divide	45.58722	-103.80159	US	SD
+The Jumpoff	45.48361	-103.76937	US	SD
+K and R Well	45.80278	-103.42963	US	SD
+Kadoka	43.83388	-101.50987	US	SD
+Kadoka Junction	43.83583	-101.52237	US	SD
+City of Kadoka	43.83251	-101.50807	US	SD
+Township of Kadoka	43.85805	-101.53153	US	SD
+Karinen	45.90056	-103.67492	US	SD
+Keester Table	43.71721	-102.42295	US	SD
+Keldron	45.93195	-101.80958	US	SD
+Kelier Butte	43.70083	-102.18071	US	SD
+Kenel	45.85833	-100.45985	US	SD
+Township of Kennedy	45.45694	-100.27457	US	SD
+Kennedyville	43.92304	-103.52408	US	SD
+Keough Draw	44.25526	-103.83103	US	SD
+Kerrington Draw	43.97971	-101.54098	US	SD
+Ketchum Well	45.83056	-103.44769	US	SD
+Ketterlings Point	45.75777	-102.23016	US	SD
+Keyapaha	43.10945	-100.1379	US	SD
+Keystone	43.89554	-103.41825	US	SD
+Town of Keystone	43.89554	-103.42666	US	SD
+Kid Rich Butte	45.90745	-102.61585	US	SD
+Killdeer Draw	44.37749	-102.50183	US	SD
+Kirk	44.34304	-103.79353	US	SD
+Kirk Landing Strip	45.08332	-103.10045	US	SD
+Kirley	44.52359	-101.31181	US	SD
+Kirley Draw	44.32359	-100.09179	US	SD
+Kline Buttes	45.81139	-100.53347	US	SD
+Klinking Beard Draw	43.5675	-101.04487	US	SD
+Township of Kiser	44.20443	-101.21709	US	SD
+Kodak Point	43.66833	-101.54015	US	SD
+Township of Kolls	44.03817	-100.62618	US	SD
+Kube Table	43.85582	-102.6124	US	SD
+Kyle	43.42499	-102.17655	US	SD
+L Seven Draw	43.78221	-103.07908	US	SD
+Township of LaGrace	45.90694	-100.3879	US	SD
+Lacy	44.49554	-100.70125	US	SD
+Ladner	45.82722	-103.72798	US	SD
+Lahti Butte	45.67281	-103.63174	US	SD
+Township of Lanesboro	45.88556	-103.24212	US	SD
+Larue Draw	45.39833	-104.02133	US	SD
+Lantry	45.01443	-101.43154	US	SD
+Laundreaux Butte	45.41777	-100.59125	US	SD
+Layton Well	43.66359	-103.75575	US	SD
+Township of Le Beau	45.31193	-100.25235	US	SD
+Lead	44.35221	-103.7652	US	SD
+Lead Draw	43.88193	-103.33963	US	SD
+City of Lead	44.35276	-103.76711	US	SD
+Leavenworth Monument	45.67944	-100.3768	US	SD
+Lemming Draw	43.81192	-103.8077	US	SD
+Lemmon	45.94083	-102.15932	US	SD
+Lemmon Butte	44.9536	-102.36266	US	SD
+Lemming Well	43.82415	-103.82409	US	SD
+City of Lemmon	45.93848	-102.15892	US	SD
+Unorganized Territory of Lemmon	45.88171	-101.91232	US	SD
+Lessering Draw	44.12221	-103.79103	US	SD
+Township of Liberty	45.5861	-101.41709	US	SD
+Township of Liberty	43.80332	-100.04151	US	SD
+Township of Liberty	45.86283	-102.38352	US	SD
+Township of Liberty	45.28249	-100.12985	US	SD
+Lightning Draw	43.13469	-103.60603	US	SD
+Limestone Butte	43.17348	-103.18495	US	SD
+Limestone Plateau	44.27498	-103.96049	US	SD
+Township of Limestone	43.16637	-103.15936	US	SD
+Township of Lincoln	44.20443	-101.93765	US	SD
+Township of Lincoln	43.33998	-103.27353	US	SD
+Township of Lincoln	45.72611	-103.24768	US	SD
+Township of Lincoln	43.94527	-100.63597	US	SD
+Township of Lincoln	45.88112	-102.09796	US	SD
+Lindsay Butte	44.67193	-100.94237	US	SD
+Lindsey Draw	43.92582	-102.82712	US	SD
+Township of Lithia	43.25275	-103.39631	US	SD
+Little Badlands	43.54305	-100.64653	US	SD
+Little Bend	44.83054	-100.70876	US	SD
+Township of Little Bend	44.78554	-100.68126	US	SD
+Little Bend	44.7522	-100.68153	US	SD
+Township of Little Buffalo	43.85721	-101.71153	US	SD
+Little Corral Draw	43.74249	-102.75657	US	SD
+Little Devils Tower	43.85193	-103.53936	US	SD
+Little Dog Draw	44.66221	-101.62209	US	SD
+Little Eagle	45.67583	-100.8043	US	SD
+Township of Little Oak	45.53471	-101.16987	US	SD
+Little Squaw-Humper Table	43.56907	-102.91919	US	SD
+Little Thompson Draw	43.96471	-103.67825	US	SD
+Little Two Top Butte	45.74568	-103.19005	US	SD
+Littleburg	43.04501	-100.45208	US	SD
+Township of Logan	44.49387	-100.07762	US	SD
+Lola Butte	45.80778	-103.83798	US	SD
+Lone Butte	43.12041	-103.08064	US	SD
+Lone Tree Draw	45.21888	-103.44574	US	SD
+Township of Lone Tree	44.11804	-101.09653	US	SD
+Township of Lone Tree	45.25055	-103.62408	US	SD
+Township of Lone Tree	45.42935	-102.39548	US	SD
+Township of Lone Tree	43.54337	-100.04067	US	SD
+Township of Lonetree	44.06082	-102.95962	US	SD
+Township of Lonewell	43.16608	-103.39575	US	SD
+Long Draw	43.63665	-103.72936	US	SD
+Long Draw	44.24582	-103.84798	US	SD
+Long Draw	43.89693	-103.78464	US	SD
+Long Draw	44.12498	-103.78964	US	SD
+Long Draw	43.90415	-103.68214	US	SD
+Long Valley	44.38054	-103.90854	US	SD
+Long Valley	43.46167	-101.49487	US	SD
+Lookout Butte	44.95499	-103.18768	US	SD
+Lookout Butte	44.83834	-102.7159	US	SD
+Lookout Point	43.57637	-103.47103	US	SD
+Lookout Point	44.31748	-101.02292	US	SD
+Township of Loomer	43.02081	-103.10075	US	SD
+Lost Draw	43.98166	-101.96626	US	SD
+Lotties Butte	45.45259	-102.64535	US	SD
+Lucerne	44.23915	-101.52625	US	SD
+Ludlow	45.83445	-103.37657	US	SD
+Township of Lund	44.97776	-100.18651	US	SD
+Lyman Draw	43.62692	-103.88242	US	SD
+Lyons Draw	44.06804	-103.86937	US	SD
+Maco Sica Picnic Ground	43.92277	-102.2371	US	SD
+Macy Butte	45.17373	-103.60077	US	SD
+Maddox Draw	44.37332	-102.61711	US	SD
+Madison Draw	44.06999	-102.52711	US	SD
+Mahto	45.75861	-100.67624	US	SD
+Township of Mahto	45.79167	-100.66847	US	SD
+Maitland Draw	44.12082	-103.79492	US	SD
+Maitland	44.39748	-103.80159	US	SD
+Manderson	43.23526	-102.47072	US	SD
+Manganese Draw	44.08915	-103.95771	US	SD
+Township of Maltby	45.42966	-102.76597	US	SD
+Maple Leaf	45.92472	-100.89069	US	SD
+Marietta	43.39192	-103.91937	US	SD
+Township of Marietta	44.38082	-101.81015	US	SD
+Marksville	45.06943	-100.37736	US	SD
+Marple Butte	44.95554	-101.58146	US	SD
+Marcus	44.65805	-102.27322	US	SD
+Martin	43.1725	-101.73265	US	SD
+Martin Draw	43.59331	-103.72964	US	SD
+Martin Valley	43.52526	-103.38297	US	SD
+City of Martin	43.17484	-101.7323	US	SD
+Township of Martin	45.16934	-102.40602	US	SD
+Marvin Butte	44.3396	-102.29089	US	SD
+Township of Mattison	44.29165	-101.33737	US	SD
+Maurice	44.39776	-103.8977	US	SD
+Maverick Junction	43.3997	-103.39547	US	SD
+Township of Maximilian	44.29137	-101.21709	US	SD
+McCall Well	43.47859	-103.62769	US	SD
+Maurine	45.02304	-102.5935	US	SD
+Township of McClure	44.15137	-100.18652	US	SD
+McDaniel Landing Strip	45.00526	-101.4271	US	SD
+McGee	44.03804	-103.38408	US	SD
+McIntosh	45.92139	-101.34958	US	SD
+City of McIntosh	45.92132	-101.34907	US	SD
+McKenzie Butte	45.68083	-103.54408	US	SD
+Township of McKinley	45.78888	-100.05873	US	SD
+McLaughlin	45.81444	-100.81041	US	SD
+City of McLaughlin	45.81331	-100.81068	US	SD
+Township of McLaughlin	45.79167	-100.91708	US	SD
+McLeod	44.81249	-104.00854	US	SD
+McNenny Fish Hatchery	44.55887	-104.00965	US	SD
+Medicine Knoll	44.47387	-100.03429	US	SD
+Township of Mentor	44.49748	-100.32069	US	SD
+Township of Meers	44.37915	-100.72209	US	SD
+Merritt	44.14082	-103.56853	US	SD
+Township of Mess	43.25331	-103.27798	US	SD
+Meyer Landing Strip	45.45444	-102.94572	US	SD
+Middle Draw	44.43082	-101.52542	US	SD
+Middle Kneebone Draw	43.22498	-103.02964	US	SD
+Midget Butte	43.60394	-101.24725	US	SD
+Town of Midland	44.07107	-101.15544	US	SD
+Midland	44.07165	-101.15542	US	SD
+Township of Mildrew	45.05832	-102.68378	US	SD
+Milesville	44.45804	-101.67931	US	SD
+Township of Milesville	44.46665	-101.6882	US	SD
+Township of Milford	44.84582	-100.09151	US	SD
+Miscol	45.67694	-101.16236	US	SD
+Mission	43.30584	-100.65819	US	SD
+City of Mission	43.30627	-100.66091	US	SD
+Mitchell Draw	45.60805	-103.16101	US	SD
+Moenville	44.47637	-101.25542	US	SD
+Moon	43.94637	-104.00826	US	SD
+Moon Draw	44.61082	-101.86904	US	SD
+Mooquit Valley	45.64861	-100.42958	US	SD
+Township of Moore	44.89054	-100.18652	US	SD
+Moreau	45.35582	-100.39791	US	SD
+Township of Moreau	45.21296	-102.2826	US	SD
+Township of Morgan	43.94416	-100.99486	US	SD
+Township of Morreau	45.02499	-103.91715	US	SD
+Morristown	45.93861	-101.72319	US	SD
+Town of Morristown	45.93862	-101.71883	US	SD
+Mosher	43.46833	-100.29819	US	SD
+Township of Mosher	43.43418	-100.27354	US	SD
+Mosteller Draw	44.32665	-100.12707	US	SD
+Mossman	45.02359	-100.92598	US	SD
+Mound City	45.72527	-100.06845	US	SD
+Town of Mound City	45.72618	-100.06884	US	SD
+Township of Mound City	45.7236	-100.05873	US	SD
+Mud Butte	45.72801	-103.64071	US	SD
+Mud Butte	45.78286	-103.70343	US	SD
+Mud Butte	45.8325	-103.00128	US	SD
+Mud Butte	45.00471	-102.87767	US	SD
+Mud Butte	44.96955	-102.42009	US	SD
+Mud Butte	44.88137	-101.87155	US	SD
+Mud Butte	44.88079	-101.88313	US	SD
+Mud Buttes	44.86804	-103.81604	US	SD
+Mud Draw	44.45999	-102.23016	US	SD
+Murchison	45.3861	-103.26796	US	SD
+Murdo	43.88832	-100.71291	US	SD
+City of Murdo	43.88936	-100.71415	US	SD
+Township of Murdo	43.85832	-100.75514	US	SD
+Murphy	44.04443	-103.12712	US	SD
+Township of Mullen	43.77581	-100.75933	US	SD
+Murray Butte	44.28276	-100.74375	US	SD
+Murray Draw	44.41832	-101.55098	US	SD
+Murray Draw	44.6611	-102.29072	US	SD
+Township of Mussman	43.95154	-100.41684	US	SD
+Myersville	44.10332	-103.73909	US	SD
+Mystic	44.07693	-103.64158	US	SD
+Nahant	44.17665	-103.75548	US	SD
+National Grasslands Visitors Cnter	43.98971	-102.24155	US	SD
+Needle Eye	43.84165	-103.54603	US	SD
+The Needles	43.83693	-103.54936	US	SD
+The Needles	44.41304	-104.01632	US	SD
+Nelson Airstrip	45.43165	-102.1271	US	SD
+Nelson Butte	45.87588	-103.61395	US	SD
+Nelson Landing Strip	44.70415	-100.10874	US	SD
+Nemo	44.19415	-103.50491	US	SD
+Nevis Draw	43.69166	-102.79157	US	SD
+Township of New Surprise Valley	43.51982	-101.00046	US	SD
+New Underwood	44.09332	-102.83628	US	SD
+City of New Underwood	44.0991	-102.83614	US	SD
+Town of New Witten	43.44063	-100.08195	US	SD
+Newell	44.71471	-103.42074	US	SD
+City of Newell	44.71746	-103.41832	US	SD
+Newton Fork	43.93443	-103.56797	US	SD
+Nihart	43.65637	-103.59103	US	SD
+Township of Nine Mile	44.55415	-103.25657	US	SD
+Ninemile Draw	43.68581	-103.6977	US	SD
+No Heart Butte	44.91063	-100.69068	US	SD
+Nipple Butte	44.05692	-103.83147	US	SD
+Norbeck Draw	43.80582	-103.45241	US	SD
+Norris	43.47333	-101.19626	US	SD
+Township of Norris	43.43279	-101.19299	US	SD
+North Clarkson Well	45.78472	-103.57186	US	SD
+Unorganized Territory of North Dewey	45.2873	-101.15121	US	SD
+North Eagle Butte	45.00415	-101.23376	US	SD
+North Fork Fish Draw	45.18777	-103.02823	US	SD
+Unorganized Territory of North Harding	45.73921	-103.50162	US	SD
+Unorganized Territory of North Jones	44.10197	-100.76585	US	SD
+Unorganized Territory of North Lawrence	44.47731	-103.93389	US	SD
+North Marty Well	45.3361	-103.02267	US	SD
+Unorganized Territory of North Meade	44.8743	-102.44503	US	SD
+North Spearfish	44.50665	-103.89215	US	SD
+Unorganized Territory of North Stanley	44.55134	-100.84746	US	SD
+Unorganized Territory of Northeast Pennington	44.32532	-102.06128	US	SD
+Unorganized Territory of Northwest Jackson	43.90257	-101.88075	US	SD
+Novak	44.21637	-103.55186	US	SD
+Nowlin	44.04971	-101.30264	US	SD
+Unorganized Territory of North Ziebach	45.27132	-101.75152	US	SD
+Nursery Draw	45.88778	-103.50491	US	SD
+Oahe	44.45776	-100.53097	US	SD
+Oelrichs	43.17886	-103.23075	US	SD
+Town of Oelrichs	43.18218	-103.23392	US	SD
+Oglala	43.18859	-102.73962	US	SD
+Okaton	43.8861	-100.89181	US	SD
+Township of Okaton	43.8505	-100.87854	US	SD
+Okobojo	44.64915	-100.39569	US	SD
+Township of Okobojo	44.67082	-100.3343	US	SD
+Okreek	43.36222	-100.38624	US	SD
+Olson Draw	44.79332	-101.09237	US	SD
+Olsonville	43.12778	-100.60903	US	SD
+Onida	44.70804	-100.05984	US	SD
+City of Onida	44.70447	-100.06766	US	SD
+Township of Onida	44.67165	-100.09068	US	SD
+Opal	44.89165	-102.45044	US	SD
+Opossum Hollow	44.91471	-103.82576	US	SD
+Oral	43.40498	-103.26909	US	SD
+Oreville	43.86748	-103.62297	US	SD
+Orton	44.71026	-100.84209	US	SD
+Ottumwa	44.2336	-101.34709	US	SD
+Our Lady of Lourdes Mission	43.24471	-102.33711	US	SD
+Owanka	44.02221	-102.58739	US	SD
+Township of Owanka	44.03788	-102.57317	US	SD
+Owl Butte	44.80499	-103.22518	US	SD
+Township of Pactola	44.06027	-103.44213	US	SD
+Palmer Draw	45.08527	-103.08129	US	SD
+Parade	45.02387	-101.10459	US	SD
+Parmelee	43.32306	-101.02654	US	SD
+Patch Skin Buttes	45.1836	-100.40903	US	SD
+Patricia	43.28722	-101.51209	US	SD
+Pats Draw	44.03749	-102.47155	US	SD
+Township of Pearl	44.75832	-100.33458	US	SD
+Pedro	44.41999	-102.11905	US	SD
+Township of Peno	44.12484	-102.06752	US	SD
+Penttila Butte	45.69361	-103.58242	US	SD
+Township of Peoria	44.49581	-100.48125	US	SD
+Philip	44.03943	-101.66514	US	SD
+Philip Junction	43.96582	-101.66126	US	SD
+City of Philip	44.0407	-101.66472	US	SD
+Piedmont	44.23165	-103.38908	US	SD
+Piedmont Butte	44.23149	-103.36819	US	SD
+Pierce Draw	44.25554	-102.51322	US	SD
+Pierre	44.36832	-100.35097	US	SD
+City of Pierre	44.37479	-100.32053	US	SD
+Pilot Knob	44.14529	-103.57198	US	SD
+Township of Pine	44.90027	-102.52155	US	SD
+Pine Draw	45.56389	-103.87965	US	SD
+Township of Pioneer	45.90834	-101.67541	US	SD
+Township of Plain	43.16636	-103.74909	US	SD
+Plains Valley	43.13469	-103.6902	US	SD
+Plainview	44.60221	-102.16155	US	SD
+Township of Plateau	45.51658	-102.88908	US	SD
+Pleasant Valley	43.5847	-103.7252	US	SD
+Township of Pleasant Valley	44.20415	-101.6982	US	SD
+Township of Pleasant Valley	45.84195	-103.73853	US	SD
+Township of Pleasant Valley	45.72499	-102.0407	US	SD
+Township of Pleasant View	44.11749	-101.33764	US	SD
+Plenty Bears	43.27305	-101.8421	US	SD
+Plenty Star Table	43.64176	-102.7807	US	SD
+Plum Draw	44.48165	-102.24405	US	SD
+Pluma	44.3586	-103.73825	US	SD
+Pocasse National Wildlife Refuge	45.90833	-100.2754	US	SD
+Poison Weed Draw	44.43638	-102.21433	US	SD
+Pointed Butte	45.76448	-103.6541	US	SD
+Town of Pollock	45.90052	-100.28853	US	SD
+Township of Pollock	45.89861	-100.2754	US	SD
+Pollock	45.90138	-100.28846	US	SD
+Porcupine	43.23971	-102.33099	US	SD
+Porcupine Butte	43.1799	-102.32372	US	SD
+Porcupine Draw	45.44888	-103.88826	US	SD
+Post Draw	44.08221	-103.59103	US	SD
+Potato Butte	43.93606	-103.20507	US	SD
+Powell	44.04416	-101.4907	US	SD
+Poverty Point	44.38721	-102.34554	US	SD
+Prairie Chicken Draw	43.97693	-103.23018	US	SD
+Prairie City	45.52971	-102.80433	US	SD
+Township of Prairie View	45.86233	-101.51431	US	SD
+Township of Pratt	43.72892	-100.1598	US	SD
+Presho	43.90971	-100.05873	US	SD
+Township of Presho	44.89054	-100.06568	US	SD
+City of Presho	43.90716	-100.05837	US	SD
+Preston	44.35776	-103.8877	US	SD
+Preacher Smith Monument	44.4061	-103.71797	US	SD
+Pringle	43.60859	-103.59381	US	SD
+Town of Pringle	43.60899	-103.59458	US	SD
+Profile Butte	45.77514	-103.97643	US	SD
+Township of Progressive	43.48055	-100.17541	US	SD
+Promise	45.33277	-100.60375	US	SD
+Township of Prospect	43.69354	-101.08453	US	SD
+Provo	43.19108	-103.82492	US	SD
+Township of Provo	43.17364	-103.87732	US	SD
+Township of Pure Water	43.44111	-100.62236	US	SD
+Quaal Landing Strip	45.48249	-102.8185	US	SD
+Rabbit Butte	45.36339	-102.58786	US	SD
+Racetrack Butte	43.67498	-103.37491	US	SD
+Township of Rainbow	45.51617	-102.39576	US	SD
+Ralph Draw	43.76249	-102.72823	US	SD
+Ralph	45.77667	-103.066	US	SD
+Ranger Draw	44.32915	-103.9741	US	SD
+Township of Rapid	44.06054	-103.20046	US	SD
+Rapid City	44.08054	-103.23101	US	SD
+City of Rapid City	44.07527	-103.23324	US	SD
+Unorganized Territory of Rapid City East	43.97847	-103.00239	US	SD
+Rapid City Fairgrounds	44.07749	-103.19574	US	SD
+Rapid City KOA	44.07027	-103.16712	US	SD
+Rapid Valley	44.06249	-103.14629	US	SD
+Rattlesnake Butte	45.70611	-100.5918	US	SD
+Rattlesnake Butte	44.761	-102.8795	US	SD
+Rattlesnake Butte	43.43793	-100.42036	US	SD
+Rattlesnake Butte	44.94987	-101.85848	US	SD
+Red Bull Draw	44.64554	-101.66515	US	SD
+Red Butte	45.38945	-103.23694	US	SD
+Red Butte	45.66222	-103.55464	US	SD
+Red Butte	45.66924	-103.751	US	SD
+Red Butte	43.76776	-103.9666	US	SD
+Red Cross Draw	45.53555	-103.15045	US	SD
+Red Dog Table	43.39133	-102.72251	US	SD
+Township of Red Fish	43.7904	-101.00699	US	SD
+Red Elm	45.05526	-101.78405	US	SD
+Red Horse Draw	44.53887	-101.9396	US	SD
+Township of Red Owl	44.72666	-102.52183	US	SD
+Red Point	43.6022	-104.00132	US	SD
+Red Scaffold	44.76693	-101.84377	US	SD
+Red Shirt	43.66749	-102.8988	US	SD
+Red Stone Basin	43.6625	-101.3632	US	SD
+Red Shirt Table	43.53523	-102.87417	US	SD
+Red Valley	43.55248	-103.3852	US	SD
+Redbird Draw	43.89998	-103.95326	US	SD
+Township of Redelm	45.08331	-101.7921	US	SD
+Redfern	44.00248	-103.64492	US	SD
+Redig	45.2711	-103.54825	US	SD
+Redowl	44.69777	-102.55322	US	SD
+Reed Draw	43.76916	-103.03241	US	SD
+Reno	43.91471	-103.61742	US	SD
+Reva	45.54527	-103.08434	US	SD
+Reva Gap	45.53249	-103.17684	US	SD
+Reynolds Prairie	44.05582	-103.79825	US	SD
+Rhoads Fork	44.14526	-103.84381	US	SD
+Township of Rich Valley	44.03138	-100.37597	US	SD
+Unorganized Territory of Rich Valley	44.08362	-100.40811	US	SD
+Richard Draw	44.19193	-103.5138	US	SD
+Richardson Well	43.60525	-103.76853	US	SD
+Township of Richland	44.11776	-100.37597	US	SD
+Township of Riffle	44.20415	-101.09681	US	SD
+Rileys Butte	45.84861	-103.42157	US	SD
+Township of Ring Thunder	43.43379	-100.86819	US	SD
+Robbs Draw	44.64526	-101.36126	US	SD
+Roberts Draw	44.17888	-103.50213	US	SD
+Rochford	44.12443	-103.71964	US	SD
+Township of Rochford	44.06026	-103.68381	US	SD
+Township of Rolling Green	45.77531	-101.91258	US	SD
+Township of Rolling Green	44.20443	-100.97708	US	SD
+Rosebud	43.23278	-100.85348	US	SD
+Rosebud Butte	43.22977	-100.84389	US	SD
+Rosebud Rodeo Grounds	43.2525	-100.84209	US	SD
+Township of Rosebud	43.52176	-100.35062	US	SD
+Township of Rosedale	43.29949	-100.06748	US	SD
+Roubaix	44.27582	-103.66631	US	SD
+Round Top	44.31776	-101.03736	US	SD
+Rosebud Indian Reservation	43.29436	-100.65598	US	SD
+Roundup Butte	45.28249	-103.37935	US	SD
+Rousseau	44.31637	-100.07151	US	SD
+Township of Roundup	43.72861	-100.89292	US	SD
+Township of Rousseau	44.34498	-100.07707	US	SD
+Township of Rowe	44.15137	-100.30735	US	SD
+Township of Royal	44.90054	-102.64461	US	SD
+Rumford	43.12664	-103.69798	US	SD
+Sagebrush Draw	45.45305	-104.03105	US	SD
+Saint Francis	43.14445	-100.90515	US	SD
+Town of Saint Francis	43.1426	-100.90279	US	SD
+Saint Onge	44.54665	-103.72103	US	SD
+Township of Saint Onge	44.56124	-103.7489	US	SD
+Saint Patrick Butte	45.24303	-101.51265	US	SD
+Sakakawea Monument	45.51583	-100.48792	US	SD
+Salmen Ford	45.77444	-103.88882	US	SD
+Sanator	43.69665	-103.60575	US	SD
+Sand Coulee	45.40777	-103.8027	US	SD
+Sand Draw	44.11888	-102.4135	US	SD
+Sand Draw	45.20442	-101.98043	US	SD
+Sanders Corral	44.10554	-104.01688	US	SD
+Township of Sanner	45.02082	-100.11346	US	SD
+Sansarc	44.50665	-101.03487	US	SD
+Savoy	44.35248	-103.93132	US	SD
+Sawbuck Draw	44.08415	-103.77103	US	SD
+Township of Sansarc	44.46665	-101.08431	US	SD
+Scarborough Airstrip	44.65943	-101.14154	US	SD
+Scenic Basin	43.76666	-102.5524	US	SD
+Township of Scenic	43.82329	-102.51226	US	SD
+Schaeferville	44.12138	-103.29546	US	SD
+Scenic	43.77971	-102.5549	US	SD
+Schlaiker Landing Strip	43.45555	-100.19069	US	SD
+Schleichart Draw	45.81583	-103.5038	US	SD
+Scotch Cap Butte	45.51471	-102.61428	US	SD
+Township of Scotch Cap	45.5163	-102.64251	US	SD
+Township of Scovil	43.95167	-100.88497	US	SD
+Township of Scranton	45.28249	-100.23319	US	SD
+Seal Draw	45.82194	-103.9416	US	SD
+The Seeps	43.8382	-103.88631	US	SD
+Township of Seim	45.8	-102.28932	US	SD
+Selby	45.50638	-100.03207	US	SD
+City of Selby	45.50579	-100.03291	US	SD
+Seth Bullock Grave	44.37637	-103.72186	US	SD
+Seven D Draw	44.27637	-102.1171	US	SD
+Seven Sisters Range	43.39442	-103.48436	US	SD
+Sevenmile Corner	43.83583	-101.66042	US	SD
+Seventyone Table	43.79796	-102.47081	US	SD
+Seventysix Draw	44.1486	-102.38739	US	SD
+Township of Shaner	44.46665	-100.72125	US	SD
+Sharps Corner	43.38971	-102.3985	US	SD
+Sheep Draw	43.75888	-103.46019	US	SD
+Sheep Draw	43.13636	-104.0416	US	SD
+Sheep Draw	45.36471	-103.97243	US	SD
+Sheep Pen Draw	45.67361	-103.31046	US	SD
+Township of Sheldon	44.11804	-101.57653	US	SD
+Township of Sherman	45.77542	-101.76251	US	SD
+Short Fork	43.76026	-103.81742	US	SD
+Shorty Draw	43.66193	-103.01547	US	SD
+Township of Shyne	44.11502	-102.42321	US	SD
+Township of Sidney	45.68967	-102.76535	US	SD
+Signal Butte	45.03587	-102.4238	US	SD
+Signal Knob	44.02054	-103.72881	US	SD
+Silver City	44.08443	-103.5638	US	SD
+Simkins Draw	43.86943	-103.66075	US	SD
+Sioux Sanitorium	44.07665	-103.27157	US	SD
+Sioux Village	44.11443	-103.21768	US	SD
+Township of Sioux	43.77443	-100.27958	US	SD
+Sitka	45.51694	-100.18624	US	SD
+Sitting Bulls Grave	45.51694	-100.48514	US	SD
+Sixmile Draw	43.91554	-103.82603	US	SD
+Skull Butte	45.77408	-101.67332	US	SD
+Slate Prairie	44.02582	-103.73797	US	SD
+Slim Butte	43.07609	-102.82073	US	SD
+Slim Butte	43.08768	-102.92297	US	SD
+Township of Slim Butte	43.07886	-103.15936	US	SD
+Slim Buttes	45.48916	-103.19018	US	SD
+Township of Slim Buttes	45.42249	-103.18629	US	SD
+Slim Butte Monument	45.54361	-103.12462	US	SD
+Smith Draw	45.41472	-103.90326	US	SD
+Smith Draw	43.88887	-103.86298	US	SD
+Township of Smithville	44.20178	-102.43409	US	SD
+Smithwick	43.30137	-103.21825	US	SD
+Township of Smithwick	43.3397	-103.15436	US	SD
+Smith Landing Strip	43.78749	-100.01568	US	SD
+Snake Butte	44.98249	-103.21046	US	SD
+Snake Butte	44.42748	-100.36291	US	SD
+Snake Butte	43.43511	-101.90017	US	SD
+Snake Bench	44.49498	-103.54158	US	SD
+Township of Soft Water	44.72721	-102.88767	US	SD
+Soft Water Draw	45.3286	-103.4463	US	SD
+Soholt Draw	44.06081	-103.89437	US	SD
+Sorum	45.44971	-102.92933	US	SD
+Sourdough Draw	43.77498	-103.79825	US	SD
+Unorganized Territory of South Dewey	45.07907	-100.70602	US	SD
+South Dakota	44.50026	-100.25069	US	SD
+Unorganized Territory of South Harding	45.37397	-103.48809	US	SD
+Unorganized Territory of South Lawrence	44.24986	-103.7743	US	SD
+Unorganized Territory of South Perkins	45.14664	-102.51703	US	SD
+South Mary Well	45.31249	-103.0185	US	SD
+Unorganized Territory of South Stanley	44.26993	-100.66332	US	SD
+Unorganized Territory of South Ziebach	44.80264	-101.62131	US	SD
+Unorganized Territory of Southwest Jackson	43.54819	-101.81273	US	SD
+Unorganized Territory of Southwest Meade	44.35372	-103.36888	US	SD
+Unorganized Territory of Southeast Jackson	43.58813	-101.36781	US	SD
+Spearfish	44.49082	-103.85937	US	SD
+City of Spearfish	44.491	-103.81619	US	SD
+Spokane	43.84138	-103.37991	US	SD
+Square Top Butte	45.40916	-103.16823	US	SD
+Vig Buttes	44.90221	-102.73267	US	SD
+Square Top Butte	45.5739	-102.56943	US	SD
+Squaw-Humper Table	43.50885	-102.97382	US	SD
+Staben Strip	44.52082	-101.59292	US	SD
+Standing Butte	44.57748	-100.78459	US	SD
+Staple M Cliffs	44.85749	-101.8221	US	SD
+Township of Star Prairie	43.21277	-100.06757	US	SD
+Stirk Table	43.54429	-102.51802	US	SD
+Stockade Draw	45.32666	-103.43852	US	SD
+Stone Draw	43.98054	-103.77992	US	SD
+Stoneville	44.7336	-102.65461	US	SD
+Stony Butte	44.52992	-101.41555	US	SD
+Stony Butte	44.03693	-100.28735	US	SD
+Stony Butte	44.91554	-102.17127	US	SD
+Stony Butte	45.20493	-102.5372	US	SD
+Township of Stony Butte	44.89999	-102.15655	US	SD
+Stony Butte Draw	44.54804	-101.43265	US	SD
+Stony Buttes	44.30082	-102.07543	US	SD
+Stony Buttes Draw	44.2936	-102.10571	US	SD
+Township of Stony Butte	44.06388	-100.30596	US	SD
+Stony Point	44.30859	-100.10235	US	SD
+Straighthead Draw	44.63776	-101.54487	US	SD
+Stratosphere Bowl	43.97665	-103.34574	US	SD
+Stronghold Table	43.58332	-102.69074	US	SD
+Strool	45.50055	-102.80488	US	SD
+Township of Strool	45.51658	-102.76563	US	SD
+Sturgis	44.40971	-103.50908	US	SD
+City of Sturgis	44.40923	-103.51828	US	SD
+Sugar Loaf Butte	43.27033	-100.85516	US	SD
+Sully Buttes	44.70443	-100.49069	US	SD
+Township of Sulpher	44.90054	-102.88767	US	SD
+Sulphur	44.87666	-102.91351	US	SD
+Sulphur Butte	44.97407	-103.2693	US	SD
+Summerville	45.77388	-102.17738	US	SD
+Township of Summit	44.5847	-100.09096	US	SD
+Township of Sunnyside	44.20886	-102.31417	US	SD
+Sunrise Butte	45.30844	-102.35039	US	SD
+Township of Surprise Valley	43.43331	-100.98284	US	SD
+Township of Surrey	45.36943	-100.00707	US	SD
+Swallow Draw	45.32749	-103.36213	US	SD
+Swan Draw	45.17221	-102.40683	US	SD
+Swan Draw	44.57804	-101.58543	US	SD
+Sweetwater Draw	45.18499	-103.01184	US	SD
+Swett	43.17194	-101.95154	US	SD
+Swinehart Draw	43.91749	-102.73517	US	SD
+Township of Sylvia	43.71055	-100.03235	US	SD
+T-M Draw	44.08832	-101.10708	US	SD
+Table Top Butte	44.85824	-102.96599	US	SD
+Tailor Butte	45.40063	-102.33533	US	SD
+Tailor Draw	45.41526	-102.33933	US	SD
+Table Butte	43.37236	-100.74006	US	SD
+Talcut Draw	44.82082	-101.09543	US	SD
+Township of Tama	44.81277	-102.52128	US	SD
+Taylor Draw	44.33498	-100.17929	US	SD
+Township of Taylor	43.29979	-100.17048	US	SD
+Teat Butte	43.59153	-101.2462	US	SD
+Telegraph Draw	44.14499	-102.40989	US	SD
+Tepee Buttes	45.89139	-103.29712	US	SD
+Terraville	44.36221	-103.76464	US	SD
+Terry	44.3336	-103.81687	US	SD
+Teton	44.28693	-100.50791	US	SD
+Thatcher	45.02193	-100.92765	US	SD
+Thompson Butte	43.91793	-102.98541	US	SD
+Thompson Draw	43.96498	-103.67658	US	SD
+Three Tree Draw	44.3361	-102.13266	US	SD
+Thumb Butte	45.69778	-103.58297	US	SD
+Thunder Butte	45.31988	-101.88075	US	SD
+Thunder Butte	45.21276	-101.67015	US	SD
+Thunder Hawk Butte	45.92127	-101.96151	US	SD
+Thunder Hawk	45.93833	-101.97487	US	SD
+Thybo Well	45.59444	-103.16295	US	SD
+Tigerville	43.97665	-103.63992	US	SD
+Tilford	44.30026	-103.42991	US	SD
+Timber Draw	43.9486	-102.54434	US	SD
+Tinton	44.38054	-104.04854	US	SD
+Tobin Draw	44.28554	-100.01234	US	SD
+Tomaha Point	44.04638	-103.40685	US	SD
+Tomahawk	44.21193	-103.52852	US	SD
+Tomato Can Buttes	45.01971	-103.1099	US	SD
+Township of Tracy	44.06388	-100.18652	US	SD
+Trebor Draw	44.15887	-103.87993	US	SD
+Tree Draw	43.94859	-103.68408	US	SD
+Township of Troy	44.84359	-100.35569	US	SD
+True Draw	44.41192	-100.59208	US	SD
+Trumbo Draw	44.32276	-100.0779	US	SD
+Trussman Draw	44.36332	-102.54072	US	SD
+Township of Tucker Smith	44.20415	-101.57764	US	SD
+Turner Draw	44.36526	-102.57517	US	SD
+Twin Butte	45.52189	-101.86641	US	SD
+Township of Twin Butte	45.53332	-101.9282	US	SD
+Township of Twin Butte	44.20415	-100.85597	US	SD
+Twin Buttes	44.65749	-103.55769	US	SD
+Twin Buttes	43.6065	-104.01952	US	SD
+Twin Buttes	45.36638	-101.02542	US	SD
+Twin Buttes	45.24003	-100.41927	US	SD
+Twin Buttes	45.26526	-102.45627	US	SD
+Twin Sisters	43.7138	-103.70602	US	SD
+Twin Sisters	44.02054	-103.46269	US	SD
+Twin Sisters Range	43.57276	-103.52658	US	SD
+Township of Twin	45.88556	-102.9935	US	SD
+Two Buttes	45.34721	-102.40794	US	SD
+Two Strike	43.21306	-100.8757	US	SD
+Two Top Butte	44.97705	-103.64253	US	SD
+Tyree Basin	43.84694	-102.32989	US	SD
+Township of Underwood	44.0311	-102.7785	US	SD
+Township of Union	44.95192	-103.01843	US	SD
+Township of Union	45.88556	-103.92326	US	SD
+Township of Union	44.0311	-100.73625	US	SD
+Township of Union	44.64691	-102.18077	US	SD
+Township of Upper Red Owl	44.73356	-102.65428	US	SD
+Usta	45.22026	-102.16294	US	SD
+V-Tail Draw	43.57305	-102.60684	US	SD
+Township of Vail	45.60339	-102.76557	US	SD
+Vale	44.62026	-103.40213	US	SD
+Township of Vale	44.61952	-103.4006	US	SD
+Township of Valley	45.63749	-101.51153	US	SD
+Van Lone Draw	43.91721	-102.72406	US	SD
+Township of Van Metre	44.1186	-100.73597	US	SD
+Van Offern Butte	45.70359	-103.54303	US	SD
+Van Metre	44.15943	-100.79375	US	SD
+Township of Vessey	45.88556	-103.11712	US	SD
+Vetal	43.21444	-101.37682	US	SD
+Veteran Lookout Tower	44.33276	-103.53908	US	SD
+Township of Vick	45.28332	-100.00512	US	SD
+Township of Vickers	45.44165	-102.5296	US	SD
+Victoria	44.39498	-103.90771	US	SD
+Township of Viking	45.88236	-102.75583	US	SD
+Township of Virgil	44.03839	-100.50613	US	SD
+Virginia	45.24248	-100.56792	US	SD
+Vivian	43.92693	-100.29208	US	SD
+Vivian Landing Strip	43.93138	-100.31513	US	SD
+Township of Vivian	43.89071	-100.30632	US	SD
+Volunteer	44.51193	-103.13296	US	SD
+Township of Vrooman	45.08241	-102.77411	US	SD
+W G Draw	43.44471	-103.19686	US	SD
+Wakpala	45.65722	-100.53514	US	SD
+Township of Wakpala	45.68918	-100.57046	US	SD
+Wakpamani	43.12166	-102.14821	US	SD
+Walker	45.91028	-101.09041	US	SD
+Wall	43.99249	-102.24155	US	SD
+Town of Wall	43.99137	-102.24211	US	SD
+Township of Wall	43.77968	-101.60486	US	SD
+Township of Wallace	45.8111	-100.15179	US	SD
+Walsh Well	43.54942	-103.97687	US	SD
+Wall Electronic Site	43.95666	-102.23905	US	SD
+Township of Walworth	45.54416	-100.27485	US	SD
+Wanblee	43.56944	-101.66042	US	SD
+Warbonnet	43.99916	-103.13323	US	SD
+Ward Draw	44.25887	-103.84131	US	SD
+Township of Washington	44.03138	-100.8568	US	SD
+Wasta	44.0686	-102.44572	US	SD
+Town of Wasta	44.06953	-102.44637	US	SD
+Township of Wasta	44.03763	-102.42781	US	SD
+Watauga	45.92278	-101.54291	US	SD
+Township of Watauga	45.92492	-101.5145	US	SD
+Water Draw	43.67664	-103.84409	US	SD
+Webb Draw	44.47193	-102.05182	US	SD
+Wedgetent Butte	45.29665	-102.13655	US	SD
+Township of Wells	45.34289	-102.89647	US	SD
+Wendte	44.24443	-100.66514	US	SD
+Township of Wendte	44.20443	-100.6168	US	SD
+Unorganized Territory of West Bennett	43.19794	-101.90676	US	SD
+Unorganized Territory of West Corson	45.67161	-101.54071	US	SD
+Unorganized Territory of West Butte	44.91152	-103.74444	US	SD
+Unorganized Territory of West Custer	43.66502	-103.76751	US	SD
+West Fork	44.44582	-101.54848	US	SD
+Unorganized Territory of West Haakon	44.25784	-101.80542	US	SD
+West Kneebone Draw	43.22081	-103.02964	US	SD
+Unorganized Territory of West Hughes	44.42999	-100.21693	US	SD
+Unorganized Territory of West Pennington	43.99858	-103.78149	US	SD
+Unorganized Territory of West Potter	45.05222	-100.20597	US	SD
+Unorganized Territory of West Shannon	43.32657	-102.736	US	SD
+Unorganized Territory of West Sully	44.70936	-100.34049	US	SD
+Unorganized Territory of West Todd	43.1961	-100.98419	US	SD
+Unorganized Territory of West Walworth	45.44081	-100.20603	US	SD
+Westbrook Draw	44.68359	-101.21376	US	SD
+Westover	43.74777	-100.66625	US	SD
+Township of Westover	43.77082	-100.63486	US	SD
+Township of Weta	43.75957	-101.72157	US	SD
+Weta	43.77444	-101.71681	US	SD
+Township of Wheeler	43.16775	-103.98465	US	SD
+Whimmer Whammer Draw	44.5011	-102.07738	US	SD
+White Butte	45.75755	-103.66281	US	SD
+White Butte	43.89506	-102.37942	US	SD
+White Butte	45.94056	-102.36238	US	SD
+White Butte	45.84972	-102.39932	US	SD
+Township of White Butte	45.9256	-102.38318	US	SD
+White Cap	45.41591	-103.91412	US	SD
+White Clay Butte	43.93804	-100.67875	US	SD
+White Draw	43.33581	-103.78936	US	SD
+White Horse	43.30834	-100.59653	US	SD
+White Mansion	44.22943	-103.52019	US	SD
+White Owl	44.59221	-102.43072	US	SD
+White Thunder Bottom	44.56721	-101.59265	US	SD
+Whitehorse	45.27054	-100.88653	US	SD
+Whiteman Draw	44.75637	-100.86987	US	SD
+Whitetail Summit	44.34118	-103.77261	US	SD
+Whitewood	44.4611	-103.63853	US	SD
+City of Whitewood	44.46176	-103.6381	US	SD
+Wicksville	44.0961	-102.5885	US	SD
+Township of Whitney	45.54165	-102.06293	US	SD
+Wildcat Draw	43.85331	-103.91882	US	SD
+Willard Gap	45.35221	-103.11267	US	SD
+Wildwood Addition	44.03527	-103.2749	US	SD
+Williams Draw	43.91692	-103.81909	US	SD
+Township of Wilson	45.77631	-102.88047	US	SD
+Wilson Draw	44.22887	-103.52658	US	SD
+Windy Point	43.54859	-103.49714	US	SD
+Winter Draw	45.58166	-103.12156	US	SD
+Windy Butte	43.24248	-103.1902	US	SD
+Township of Witten	43.46518	-100.06693	US	SD
+Wolf Butte	45.91466	-102.59419	US	SD
+Witten	43.43944	-100.07957	US	SD
+Wolf Draw	43.84915	-103.91659	US	SD
+Wood	43.49694	-100.47736	US	SD
+Town of Wood	43.49706	-100.48016	US	SD
+Township of Wood	45.52499	-100.71847	US	SD
+Woodville	44.2911	-103.7552	US	SD
+Township of Wortman	43.12593	-100.06768	US	SD
+Wounded Knee	43.14054	-102.36571	US	SD
+Township of Wyandotte	45.28332	-102.90878	US	SD
+Township of Wright	43.21282	-100.17047	US	SD
+Y-4 Well	43.70637	-103.75242	US	SD
+Yellow Butte	43.77675	-103.97135	US	SD
+Yellow Draw	43.89666	-101.76042	US	SD
+Yellowhorse Ford	45.28026	-100.79709	US	SD
+Zebell Table	43.73848	-102.72146	US	SD
+Zeff Butte	44.9182	-102.71667	US	SD
+Zeona	45.19332	-102.91239	US	SD
+Township of Zickrick	43.78059	-100.52229	US	SD
+Zurcher Draw	45.06971	-103.03934	US	SD
+Badlands	45.22082	-102.731	US	SD
+Date	45.36721	-102.67961	US	SD
+Township of Logan	45.89721	-100.15317	US	SD
+Stamford	43.89499	-101.08903	US	SD
+Trojan	44.34221	-103.83798	US	SD
+Buffalo	45.60444	-103.54639	US	SD
+Faith	45.03194	-102.01917	US	SD
+Ellsworth Air Force Base	44.14504	-103.10357	US	SD
+Summerset	44.18998	-103.34384	US	SD
+Alex Johnson	44.0808	-103.227	US	SD
+Super8 Rapid City Lacross St	44.1066	-103.2035	US	SD
+S8 Mtl Keystone Mt Rushmore	43.8875	-103.4285	US	SD
+MICROTEL RAPID CITY	44.1028	-103.2018	US	SD
+RUSHMORE EXPRESS KEYSTONE	43.8854	-103.4145	US	SD
+City of Summerset	44.19752	-103.34549	US	SD
+Township of Arrowhead	45.16925	-102.1107	US	SD
+Township of Bixby	45.11147	-102.48785	US	SD
+Township of Dillon	45.16908	-102.77444	US	SD
+Township of Easter	45.42931	-102.10491	US	SD
+Township of Grand Central	45.51608	-102.14865	US	SD
+Township of Jones	45.42962	-102.88898	US	SD
+Township of Richland	45.42934	-102.64254	US	SD
+He Dog Segment	43.28658	-101.16023	US	SD
+Ideal Segment	43.67029	-99.99681	US	SD
+Okreek Segment	43.20787	-100.3345	US	SD
+Parmelee Segment	43.3421	-101.03945	US	SD
+Ring Thunder Segment	43.34193	-100.81432	US	SD
+Rosebud Segment	43.25921	-100.8385	US	SD
+Saint Francis Segment	43.08624	-100.87938	US	SD
+Antelope Segment	43.18703	-100.60575	US	SD
+Black Pipe Segment	43.46199	-101.13393	US	SD
+Swift Bear Segment	43.67022	-100.96211	US	SD
+Two Strike Segment	43.20407	-100.85829	US	SD
+Upper Cut Meat Segment	43.21601	-101.09663	US	SD
+Township of Beck-Highland	45.21285	-102.65151	US	SD
+City of Piedmont	44.21943	-103.37675	US	SD
+Ellsworth Air Force Base	44.14395	-103.07507	US	SD
+North Spearfish	44.51222	-103.8939	US	SD
+Ellsworth Air Force Base	44.15098	-103.09488	US	SD
+Unorganized Territory of Dale	44.15391	-98.51171	US	SD
+Unorganized Territory of East Lyman	43.88105	-99.55556	US	SD
+Unorganized Territory of Gassman	43.70473	-99.71597	US	SD
+Unorganized Territory of Grandview	43.91662	-101.00201	US	SD
+Unorganized Territory of Jones	45.42963	-102.88899	US	SD
+Unorganized Territory of Lower Brule	44.06861	-99.73691	US	SD
+Unorganized Territory of Lower Brule	44.23656	-100.0023	US	SD
+Unorganized Territory of Media	44.06637	-98.63125	US	SD
+Unorganized Territory of Mitchell	43.68025	-98.02652	US	SD
+Unorganized Territory of West Lyman	43.94194	-100.16629	US	SD
+Unorganized Territory of Pleasant Valley	45.68953	-102.51854	US	SD
+Unorganized Territory of Progressive	43.46626	-100.17316	US	SD
+Unorganized Territory of Richland	45.42936	-102.58072	US	SD
+Unorganized Territory of West Gregory	43.04022	-99.34989	US	SD
+Unorganized Territory of Westover	43.77859	-100.65289	US	SD
+Unorganized Territory of Ree Heights	44.50197	-99.24353	US	SD
+Unorganized Territory of Wyandotte	45.25619	-102.8348	US	SD
+Flandreau Reservation	44.08045	-96.58729	US	SD
+City of Big Stone City	45.29854	-96.46569	US	SD
+Watertown Fire and Rescue	44.90264	-97.11711	US	SD
+South Dakota Air National Guard 114th Fighter Wing	43.57365	-96.74763	US	SD
+Lesterville Fire and Rescue	43.03862	-97.59373	US	SD
+Wakonda Fire and Rescue	43.00896	-97.10612	US	SD
+Sisseton - Wahpeton - Oyate Wildland Firefighters	45.66778	-97.04729	US	SD
+Veblen Fire and Rescue	45.86371	-97.28746	US	SD
+Renner Fire Rescue	43.64504	-96.7255	US	SD
+Town and Country Fire and Rescue	44.05111	-98.27601	US	SD
+MJ Aviation I	43.90478	-98.10996	US	SD
+Chris Hofer Landing Strip	43.46323	-96.86191	US	SD
+MJ Aviation II	42.68399	-96.69905	US	SD
+Jefferson Volunteer Ambulance	42.60321	-96.56181	US	SD
+Alcester Community Volunteer Ambulance	43.01995	-96.6286	US	SD
+Huron Ambulance	44.34134	-98.20844	US	SD
+Elk Point Community Ambulance	42.68488	-96.68247	US	SD
+Garretson Community Ambulance	43.71766	-96.49601	US	SD
+Gregory Ambulance	43.23251	-99.43196	US	SD
+American Medical Response	44.35991	-100.33341	US	SD
+Plankinton Ambulance	43.71634	-98.4847	US	SD
+Huron Ambulance	44.38341	-98.21476	US	SD
+Desmet Emergency Rescue Unit	44.38442	-97.55002	US	SD
+Med - Star Paramedic Ambulance	43.60225	-96.57729	US	SD
+Oelrichs Emergency Medical Care	43.18097	-103.23015	US	SD
+Rural / Metro Ambulance	43.54625	-96.75978	US	SD
+Lemmon Emergency Medical Technician Association	45.94239	-102.16135	US	SD
+McLaughlin Ambulance	45.81233	-100.81249	US	SD
+Mother of God Monastery	44.9068	-97.1614	US	SD
+Gautsch Child Grave	45.07779	-97.31129	US	SD
+Spooner Children Graves	44.88959	-96.91759	US	SD
+Jellis Grave	45.015	-96.99501	US	SD
+Strange Graves	44.81833	-97.35001	US	SD
+Swanson's Tracts	43.61557	-96.75275	US	SD
+South Dakota State Archives	44.37313	-100.33799	US	SD
+Blumengard Colony	45.24404	-99.16909	US	SD
+Brentwood Colony	45.15229	-99.30103	US	SD
+Cameron Colony	43.18897	-97.26294	US	SD
+Claremont Colony	44.71286	-96.95271	US	SD
+Evergreen Colony	45.12308	-99.04479	US	SD
+Golden View Colony	43.69084	-97.44367	US	SD
+Grassland Colony	45.6662	-98.79149	US	SD
+Hutterville Colony	45.26531	-98.20949	US	SD
+Newport Colony	45.67902	-97.93294	US	SD
+Oak Lane Colony	43.51028	-97.7439	US	SD
+Pleasant Valley Colony	44.06005	-96.46831	US	SD
+Red Willow Colony	44.52992	-96.73449	US	SD
+Roland Colony	44.34082	-96.59002	US	SD
+Rustic Acres Colony	43.87177	-97.09084	US	SD
+Shannon Colony	43.98078	-97.42387	US	SD
+Thunderbird Colony	45.19044	-99.26624	US	SD
+Upland Colony	43.87729	-97.97588	US	SD
+Westwood Colony	45.88672	-97.78189	US	SD
+Norfeld Colony	44.42453	-96.56084	US	SD
+Camrose Colony	44.9326	-98.21827	US	SD
+Interchange 9	42.6052	-96.57677	US	SD
+Interchange 15	42.66774	-96.66524	US	SD
+Interchange 18	42.69095	-96.69754	US	SD
+Interchange 26	42.78629	-96.79138	US	SD
+Interchange 31	42.85178	-96.79602	US	SD
+Interchange 68	43.38834	-96.79636	US	SD
+Interchange 71	43.43246	-96.79626	US	SD
+Interchange 73	43.46097	-96.79751	US	SD
+Interchange 75	43.48793	-96.7945	US	SD
+Interchange 77	43.51507	-96.78043	US	SD
+Interchange 78	43.52689	-96.78047	US	SD
+Interchange 79	43.54411	-96.78025	US	SD
+Interchange 80	43.55846	-96.77959	US	SD
+Interchange 81	43.57258	-96.77474	US	SD
+Interchange 82	43.58729	-96.77107	US	SD
+Interchange 83	43.60069	-96.7714	US	SD
+Interchange 396	43.6128	-96.77033	US	SD
+Interchange 86	43.64531	-96.77143	US	SD
+Interchange 94	43.76111	-96.78129	US	SD
+Interchange 98	43.8191	-96.78046	US	SD
+Interchange 114	44.6128	-96.77033	US	SD
+Interchange 121	44.15248	-96.75968	US	SD
+Interchange 127	44.23906	-96.75711	US	SD
+Interchange 132	44.31152	-96.75856	US	SD
+Interchange 84	43.6128	-96.77033	US	SD
+Interchange 133	44.32581	-96.75833	US	SD
+Interchange 140	44.42721	-96.75668	US	SD
+Interchange 150	44.57274	-96.76264	US	SD
+Interchange 157	44.65963	-96.81581	US	SD
+Interchange 164	44.74649	-96.88479	US	SD
+Interchange 177	44.89006	-97.05684	US	SD
+Interchange 180	44.93377	-97.05585	US	SD
+Interchange 185	45.00591	-97.05428	US	SD
+Interchange 193	45.10786	-97.05642	US	SD
+Interchange 201	45.22417	-97.05111	US	SD
+Interchange 207	45.31485	-97.0516	US	SD
+Interchange 213	45.40334	-97.02073	US	SD
+Interchange 224	45.54386	-96.98938	US	SD
+Interchange 232	45.66	-96.98535	US	SD
+Interchange 242	45.79054	-96.89452	US	SD
+Interchange 246	45.84954	-96.8652	US	SD
+Interchange 2	44.54624	-104.01189	US	SD
+Interchange 8	44.52226	-103.8902	US	SD
+Interchange 10	44.51986	-103.86429	US	SD
+Interchange 12	44.49332	-103.84801	US	SD
+Interchange 14	44.47736	-103.81473	US	SD
+Interchange 17	44.47856	-103.74106	US	SD
+Interchange 23	44.47092	-103.63693	US	SD
+Interchange 30	44.41884	-103.53232	US	SD
+Interchange 32	44.39659	-103.50851	US	SD
+Interchange 34	44.37128	-103.47305	US	SD
+Interchange 37	44.34407	-103.44754	US	SD
+Interchange 40	44.30009	-103.43372	US	SD
+Interchange 44	44.24211	-103.39665	US	SD
+Interchange 368	43.6666	-97.30782	US	SD
+Interchange 374	43.66632	-97.18891	US	SD
+Interchange 379	43.64402	-97.08958	US	SD
+Interchange 387	43.60899	-96.9502	US	SD
+Interchange 390	43.60928	-96.89153	US	SD
+Interchange 104	43.9064	-96.75857	US	SD
+Interchange 109	43.97894	-96.75852	US	SD
+Interchange 399	43.60571	-96.71134	US	SD
+Interchange 400	43.60672	-96.69076	US	SD
+Interchange 402	43.60862	-96.65179	US	SD
+Interchange 406	43.60858	-96.57205	US	SD
+Interchange 1	43.49506	-96.7702	US	SD
+Interchange 2	43.50329	-96.74917	US	SD
+Interchange 3	43.51015	-96.73086	US	SD
+Interchange 4	43.51555	-96.73123	US	SD
+Interchange 5	43.52635	-96.70263	US	SD
+Interchange 6	43.54733	-96.69403	US	SD
+Interchange 9	43.5873	-96.69212	US	SD
+Interchange 1C	44.09195	-103.23283	US	SD
+Interchange 46	44.22393	-103.37772	US	SD
+Interchange 48	44.19841	-103.34894	US	SD
+Interchange 51	44.16572	-103.31569	US	SD
+Interchange 55	44.11432	-103.27164	US	SD
+Interchange 57	44.10555	-103.23441	US	SD
+Interchange 58	44.10441	-103.22168	US	SD
+Interchange 59	44.10434	-103.20346	US	SD
+Interchange 60	44.09968	-103.17973	US	SD
+Interchange 61	44.10057	-103.15119	US	SD
+Interchange 63	44.11435	-103.11888	US	SD
+Interchange 67	44.11763	-103.04981	US	SD
+Interchange 78	44.10368	-102.82907	US	SD
+Interchange 84	44.10359	-102.70888	US	SD
+Interchange 88	44.10672	-102.62999	US	SD
+Interchange 90	44.10338	-102.58845	US	SD
+Interchange 99	44.0662	-102.45189	US	SD
+Interchange 101	44.06722	-102.39139	US	SD
+Interchange 107	44.01516	-102.28792	US	SD
+Interchange 109	43.99453	-102.25878	US	SD
+Interchange 110	43.98644	-102.2392	US	SD
+Interchange 112	43.98622	-102.20933	US	SD
+Interchange 116	43.93658	-102.15161	US	SD
+Interchange 121	43.90905	-102.05933	US	SD
+Interchange 127	43.86766	-101.95977	US	SD
+Interchange 131	43.84043	-101.89969	US	SD
+Interchange 143	43.83609	-101.66119	US	SD
+Interchange 150	43.84088	-101.52431	US	SD
+Interchange 152	43.85089	-101.48262	US	SD
+Interchange 163	43.84278	-101.27134	US	SD
+Interchange 170	43.88119	-101.14095	US	SD
+Interchange 172	43.89778	-101.10417	US	SD
+Interchange 177	43.90107	-101.0047	US	SD
+Interchange 183	43.88879	-100.88864	US	SD
+Interchange 191	43.88483	-100.73506	US	SD
+Interchange 192	43.88311	-100.70574	US	SD
+Interchange 201	43.90872	-100.54696	US	SD
+Interchange 208	43.9096	-100.40716	US	SD
+Interchange 212	43.91237	-100.31293	US	SD
+Interchange 214	43.91237	-100.28641	US	SD
+Interchange 220	43.90379	-100.16621	US	SD
+Interchange 225	43.89862	-100.06597	US	SD
+Interchange 226	43.89814	-100.04572	US	SD
+Interchange 235	43.89531	-99.86568	US	SD
+Interchange 241	43.87601	-99.74095	US	SD
+Interchange 248	43.86435	-99.60615	US	SD
+Interchange 251	43.84993	-99.56438	US	SD
+Interchange 260	43.80099	-99.39513	US	SD
+Interchange 263	43.79509	-99.3434	US	SD
+Interchange 264	43.78431	-99.33396	US	SD
+Interchange 265	43.77093	-99.31243	US	SD
+Interchange 272	43.75325	-99.18285	US	SD
+Interchange 284	43.73804	-98.95824	US	SD
+Interchange 289	43.73792	-98.85467	US	SD
+Interchange 296	43.71749	-98.71399	US	SD
+Interchange 308	43.70462	-98.48597	US	SD
+Interchange 310	43.69484	-98.44428	US	SD
+Interchange 319	43.69539	-98.26576	US	SD
+Interchange 325	43.69531	-98.14627	US	SD
+Interchange 330	43.69154	-98.04676	US	SD
+Interchange 332	43.69191	-98.01204	US	SD
+Interchange 335	43.69485	-97.94721	US	SD
+Interchange 344	43.66471	-97.78682	US	SD
+Interchange 350	43.66562	-97.6665	US	SD
+Interchange 353	43.66529	-97.58832	US	SD
+Interchange 357	43.66425	-97.50837	US	SD
+Interchange 364	43.66624	-97.38839	US	SD
+Interchange 395	43.61072	-96.79104	US	SD
+Southeast Technical Institute	43.56808	-96.78204	US	SD
+Western Dakota Technical Institute	44.07599	-103.17947	US	SD
+Morrison Commons	43.52547	-96.73834	US	SD
+Huether Tennis Centre	43.52374	-96.74074	US	SD
+Schoeneman Apartments	43.52189	-96.74309	US	SD
+Collins Colony	44.54895	-97.6976	US	SD
+Patten-Wing Theatre	43.69805	-98.0323	US	SD
+Sacred Heart Monastery	42.872	-97.40951	US	SD
+Fishback Studio Theater	44.31944	-96.77694	US	SD
+Animal Research Wing	44.3225	-96.78628	US	SD
+Animal Science Complex	44.32176	-96.78687	US	SD
+Wecota Annex	44.31772	-96.78938	US	SD
+Medary Commons	44.31843	-96.78893	US	SD
+Woodbine Cottage	44.31708	-96.7888	US	SD
+State Village Family Housing	44.31377	-96.77744	US	SD
+Larson Commons	44.31521	-96.77916	US	SD
+Sylvan Theatre	44.31538	-96.78724	US	SD
+Volstorff Ballroom	44.31771	-96.78151	US	SD
+Bailey Rotunda	44.31663	-96.7838	US	SD
+New Technology High	43.56851	-96.78206	US	SD
+Coyote Village	42.7889	-96.92594	US	SD
+Mike Durfee State Prison	42.86106	-97.90084	US	SD
+Orpheum Theater	43.55036	-96.72705	US	SD
+Koch Complex	44.89954	-97.14375	US	SD
+Evergreen	43.31203	-102.36125	US	SD
+Missouri Region - 2-digit Hydrologic Unit Code - 10	43.54708	-102.02618	US	SD
+Orland Colony	43.82049	-97.20152	US	SD
+Interchange 1	42.50501	-96.49028	US	SD
+Interchange 2	42.52503	-96.49941	US	SD
+Interchange 4	42.55019	-96.50881	US	SD
+Interchange 410	43.60874	-96.49227	US	SD
+Minuteman Missile National Historic Site	43.84458	-101.90043	US	SD
+South Dakota State Penitentiary	43.5668	-96.72496	US	SD
+South Dakota State Penitentiary Jameson Annex	43.56911	-96.72566	US	SD
+South Dakota Women's Prison	44.35732	-100.3079	US	SD

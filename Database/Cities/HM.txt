@@ -1,0 +1,33 @@
+Winston Lagoon	-53.15	73.65	HM	00
+West Cape	-53.03333	73.28333	HM	00
+Vanhoeffen Bluff	-53	73.35	HM	00
+Vahsel Glacier	-53.06667	73.38333	HM	00
+Sydney Cove	-52.96667	73.3	HM	00
+The Sentinel	-52.98333	73.31667	HM	00
+Schmidt Glacier	-53.05	73.4	HM	00
+Rogers Head	-53	73.4	HM	00
+North West Cornice	-53.06667	73.41667	HM	00
+Melbourne Bluff	-53.03333	73.53333	HM	00
+Macey Cone	-52.98333	73.25	HM	00
+Cape Lockyer	-53.18333	73.63333	HM	00
+Little Matterhorn	-53.06667	73.48333	HM	00
+Cape Lavett	-53.2	73.5	HM	00
+Laurens Peninsula	-53	73.3	HM	00
+Cape Laurens	-52.98333	73.25	HM	00
+Cape Lambeth	-53.18333	73.6	HM	00
+Cape Labuan	-53.18333	73.46667	HM	00
+Jacka Glacier	-53	73.33333	HM	00
+Gotley Glacier	-53.16667	73.45	HM	00
+Cape Gazert	-53.08333	73.35	HM	00
+Erractic Point	-53.05	73.36667	HM	00
+Dovers Moraine	-53.11667	73.7	HM	00
+Dome	-53.08333	73.5	HM	00
+Corinth Head	-53	73.41667	HM	00
+Compton Glacier	-53.05	73.61667	HM	00
+Black Cliffs	-52.98333	73.33333	HM	00
+Big Ben	-53.10833	73.525	HM	00
+Cape Bidlingmaier	-53.01667	73.53333	HM	00
+Baudissin Glacier	-53.03333	73.43333	HM	00
+Atlas Cove	-53.01667	73.36667	HM	00
+Cape Arkona	-53.16667	73.43333	HM	00
+Abbotsmith Glacier	-53.1	73.4	HM	00

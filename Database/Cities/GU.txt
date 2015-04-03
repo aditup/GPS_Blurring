@@ -1,0 +1,466 @@
+Santa Rosa Reef	12.817	144.425	GU	00
+Galvez Banks	13.06667	144.45	GU	00
+Malaguana-Gadao Rise	12.93972	143.63194	GU	00
+Pelagi Islets	13.40153	144.66018	GU	AT
+Perez Acres	13.52431	144.8869	GU	YG
+old Seaplane Ramp - US built WW2	13.46355	144.66009	GU	PI
+Mobil Tanker Pier	13.46319	144.65851	GU	PI
+Dog Leg Pier D	13.46312	144.64854	GU	PI
+Piga	13.26409	144.67421	GU	ME
+Pinay Point	13.32211	144.65089	GU	UM
+Polaris Point	13.4458	144.66937	GU	PI
+Potts Junction Route3 - Route3A - Route9	13.58973	144.86499	GU	DD
+Pugua Point	13.5922	144.83967	GU	DD
+Ritidian Point	13.65062	144.86285	GU	YG
+Ritidian National Wildlife Refuge	13.65237	144.86165	GU	YG
+Togcha Cliff	13.37874	144.76677	GU	YN
+Salinas	13.39144	144.66278	GU	AT
+Salisbury Junction Route1 - Route9 - AFB	13.56437	144.89949	GU	YG
+San Antonio	13.46633	144.80286	GU	BA
+San Luis Point	13.44223	144.64773	GU	SR
+San Vicente	13.39273	144.66903	GU	SR
+Santa Rita Village	13.38608	144.67226	GU	SR
+Santa Rita Municipality	13.38609	144.67208	GU	SR
+Santa Rosa	13.39797	144.67311	GU	SR
+Santo Papa As Juan Pablo Dos Monument	13.47471	144.75163	GU	AN
+Dededo Flea Market	13.51355	144.8339	GU	DD
+Saupon Point	13.50609	144.77505	GU	TM
+Schroeder Junction	13.4628	144.691	GU	PI
+Sella	13.47156	144.73402	GU	AS
+Seventh Day Adventist Clinic	13.49883	144.78967	GU	TM
+Sinajana Village	13.46334	144.75406	GU	SJ
+Sinajana Municipality	13.46334	144.75381	GU	SJ
+Socio	13.48946	144.78989	GU	TM
+South Tipalao - DoD Naval Housing	13.41734	144.65134	GU	SR
+Destroyed Sumay Village WW2	13.43636	144.65306	GU	SR
+Tagachang	13.40828	144.78096	GU	YN
+Tagachang Point	13.40222	144.78188	GU	YN
+Tagua Point	13.60136	144.93186	GU	YG
+Taguan Point	13.46805	144.85328	GU	MA
+Talisay	13.39098	144.71335	GU	SR
+Talofofo Village	13.35513	144.75835	GU	TF
+Talofofo Municipality	13.35522	144.7588	GU	TF
+Tamuning-Tumon-Harmon Village	13.48773	144.78138	GU	TM
+Tamuning-Tumon-Harmon Municipality	13.48759	144.78094	GU	TM
+Tanguisson Point	13.55099	144.81283	GU	DD
+Tantapalo Point	13.41768	144.64383	GU	SR
+Taogam Point	13.42715	144.80056	GU	MA
+Tartuguan Point	13.36206	144.77176	GU	TF
+Tepungan Channel - US built 1933	13.46697	144.69316	GU	PI
+Togcha Point	13.37188	144.77234	GU	YN
+Toto	13.46609	144.78257	GU	MT
+Pulantat	13.41283	144.75526	GU	YN
+Tumon	13.50694	144.80139	GU	TM
+Tinaga	13.28637	144.75363	GU	IN
+Tumon Heights	13.49768	144.7874	GU	TM
+Tumon Maui Well	13.51011	144.80917	GU	TM
+Taigigao	13.45902	144.7467	GU	AH
+Umatac Village	13.2976	144.6605	GU	UM
+Umatac Municipality	13.2976	144.659	GU	UM
+Ungaguan	13.471	144.80542	GU	BA
+Kaiser	13.52593	144.84615	GU	DD
+Utan	13.46841	144.76531	GU	MT
+US Navy Anchorages	13.44769	144.64703	GU	SR
+Western Shoal	13.45123	144.65539	GU	PI
+Wettengel Junction Route 1 - Route 3	13.52363	144.82355	GU	DD
+Polaris Point Landfill WW2 - before Coral Patches	13.44411	144.6725	GU	PI
+Navy Supply Ship Pier Delta	13.45784	144.66644	GU	PI
+Navy Supply Ship Pier Echo	13.45834	144.66849	GU	PI
+Aratama Maru - JP 134m-Frighter Vessel WW2	13.33643	144.77015	GU	TF
+Witek Junction - Routes 4-17	13.38684	144.77237	GU	YN
+Malojloj	13.3064	144.76105	GU	IN
+Yigo Village	13.53605	144.88855	GU	YG
+Yigo Municipality	13.53603	144.88913	GU	YG
+Ylig Plateau	13.38917	144.76694	GU	YN
+Ylig Point	13.38759	144.77748	GU	YN
+Yona Village	13.40974	144.77697	GU	YN
+Yona Municipality	13.40972	144.77714	GU	YN
+Yona Islet	13.37972	144.6513	GU	AT
+Ypan	13.35363	144.76873	GU	TF
+Ypao Point	13.507	144.78271	GU	TM
+Perezville	13.50403	144.77878	GU	TM
+Guam Geomagnetic Observatory	13.58923	144.86821	GU	DD
+Pago Point	13.41375	144.78853	GU	YN
+Pagat Point	13.498	144.89064	GU	YG
+Double Reef	13.59786	144.83272	GU	DD
+Ordot	13.44786	144.7612	GU	CP
+Oka Point	13.49986	144.76949	GU	TM
+Nomna Point	13.30494	144.77285	GU	IN
+Mongmong	13.47429	144.76277	GU	MT
+General Vessel Anchorages	13.45891	144.64269	GU	PI
+Merizo Municipality	13.27125	144.67464	GU	ME
+Merizo Conbento - built 1856	13.26594	144.66838	GU	ME
+Merizo Village	13.26584	144.66908	GU	ME
+Belen	13.2823	144.74805	GU	IN
+Mati Point	13.53336	144.93168	GU	YG
+Mangilao Municipality	13.44766	144.80071	GU	MA
+Manell Point	13.25387	144.68361	GU	ME
+Manell Channel	13.24128	144.69217	GU	ME
+Manaca	13.45975	144.80285	GU	BA
+Mamaon Channel	13.27021	144.65894	GU	ME
+Malilog Point	13.24617	144.72389	GU	IN
+Maite	13.47798	144.76671	GU	MT
+Magellan Monument - Landing Site 1521	13.29914	144.66253	GU	UM
+Machaute	13.46949	144.79047	GU	BA
+Lupog	13.54825	144.91413	GU	YG
+Lujuna Point	13.51475	144.91233	GU	YG
+Leyan	13.45554	144.8041	GU	MA
+Leary Junction Route1 - Route4	13.47698	144.75446	GU	AN
+Latte Point	13.58359	144.94902	GU	YG
+Alutom Communication Antennas	13.43285	144.71276	GU	YN
+Julog	13.25711	144.68865	GU	ME
+Jaotan Point	13.2545	144.67797	GU	ME
+Jade Shoals	13.4539	144.66183	GU	PI
+Inarajan Village	13.27363	144.74845	GU	IN
+Iates Point	13.43048	144.8058	GU	MA
+Cape Iates	13.42684	144.80446	GU	MA
+Hilaan Point	13.55811	144.81918	GU	DD
+Harmon Garden	13.50878	144.8236	GU	DD
+Agana Heights Municipality	13.46559	144.74773	GU	AH
+Agana Heights Village	13.46559	144.74795	GU	AH
+Guam Premier Outlets	13.48954	144.78176	GU	TM
+Guam Congress	13.47567	144.74872	GU	AN
+Guaifan Point	13.27508	144.75459	GU	IN
+Gayloup Point	13.33797	144.7632	GU	IN
+Spanish Fort Nuestra Senora de la Soledad 1815	13.29509	144.65994	GU	UM
+Spanish Fort Santa Cruz - Site	13.44178	144.66441	GU	SR
+Spanish Fort Santa Agueda 1800	13.47367	144.74773	GU	AN
+Fonte Plateau	13.46357	144.73238	GU	AS
+Cape Orote Fringing Reef Awash	13.44986	144.62231	GU	SR
+Chorrito Cliff	13.47685	144.72403	GU	AS
+Chief Quipuha Statue	13.47731	144.7539	GU	AN
+Chalan Pago-Ordot Municipality	13.4474	144.75888	GU	CP
+Chalan Pago-Ordot Village	13.44741	144.75902	GU	CP
+Chagamin Lago	13.27769	144.75377	GU	IN
+Canada	13.45988	144.78887	GU	BA
+US Navy Ammo Storage Bunkers	13.37555	144.70183	GU	SR
+Biyae	13.35743	144.64806	GU	AT
+Pigua	13.27054	144.672	GU	ME
+Baza Gardens	13.37021	144.7519	GU	YN
+Bangi Point	13.37701	144.65154	GU	AT
+Astumbo	13.55422	144.84341	GU	DD
+Asquiroga Cliff	13.34135	144.76738	GU	YN
+Aspengo	13.46236	144.79708	GU	BA
+Asgon Point	13.26876	144.74495	GU	IN
+Asan-Maina Municipality	13.47214	144.7164	GU	AS
+Sese	13.28731	144.74509	GU	IN
+Oka Towers Condominium	13.49961	144.77006	GU	TM
+Apaca Point	13.40232	144.6622	GU	SR
+Anao Point	13.55272	144.93806	GU	YG
+Anae	13.35794	144.63725	GU	AT
+Agrigan Islet	13.24762	144.71703	GU	ME
+Agfayan Point	13.26489	144.74378	GU	IN
+Agat Boat Channel	13.36599	144.64617	GU	AT
+Agat Municipality	13.38857	144.65822	GU	AT
+Agafo Gumas	13.58315	144.87881	GU	YG
+Adotgan Point	13.44696	144.62722	GU	SR
+Adjoulan Point	13.3381	144.77128	GU	TF
+Acho Point	13.25901	144.73771	GU	IN
+Achae Point	13.64121	144.85215	GU	DD
+Achang Fringing Reef Awash	13.24254	144.69488	GU	ME
+Achugao Point	13.33679	144.64495	GU	UM
+Adelup Point	13.48092	144.72908	GU	AN
+Agat Village	13.38855	144.65852	GU	AT
+Afami	13.4571	144.76285	GU	SJ
+Aga Point	13.24636	144.72717	GU	IN
+Asan-Maina Village	13.47215	144.71654	GU	AS
+Ague Point	13.56755	144.82455	GU	DD
+Apra Heights - DoD Naval Housing	13.40306	144.68475	GU	SR
+Amantes Point	13.53528	144.80255	GU	TM
+Apra Junction - Routes 4-5-17	13.41049	144.67587	GU	SR
+Apuntua Point	13.42134	144.63988	GU	SR
+Asan Point	13.47671	144.70727	GU	AS
+Asiga Point	13.3244	144.77251	GU	IN
+Asgadao Islet	13.24443	144.70623	GU	ME
+Manenggon	13.39866	144.7535	GU	YN
+Dededo Municipality	13.51776	144.83898	GU	DD
+Bile	13.27616	144.66471	GU	ME
+Balang Point	13.25112	144.6891	GU	ME
+Bijia Point	13.52616	144.80435	GU	TM
+GIROCO Tanker Pier	13.45931	144.66191	GU	PI
+Calalan Bank	13.45981	144.62992	GU	PI
+Dededo Village	13.51777	144.8391	GU	DD
+Catalina Point	13.52727	144.92332	GU	YG
+Carlos Heights	13.51586	144.81301	GU	TM
+Cerain	13.39838	144.66361	GU	AT
+Chalan Mamajanao	13.49975	144.78738	GU	TM
+Cocos Lagoon	13.25348	144.66166	GU	ME
+Chii Point	13.32987	144.64984	GU	UM
+Coontz Junction - Route1-Route6	13.47805	144.72977	GU	AS
+Cathedral-Basilica Dulce Nombre de Maria	13.4743	144.75235	GU	AN
+Fadian Point	13.44259	144.82446	GU	MA
+Facpi Point	13.34063	144.63795	GU	UM
+Fotos Islet	13.24372	144.70847	GU	ME
+Chalan Pago	13.43857	144.77607	GU	CP
+Explosives Anchorage	13.4486	144.63213	GU	SR
+Gaan Point	13.38613	144.65596	GU	AT
+Spanish Fort Santo Angel 1600s	13.29892	144.6582	GU	UM
+Fouha Point	13.31371	144.65356	GU	UM
+Gayinero	13.53036	144.90441	GU	YG
+Guam	13.47861	144.81834	GU	00
+Gaan Islet	13.38673	144.65513	GU	AT
+Hagatna Boat Channel	13.48343	144.75238	GU	AN
+Hagatna	13.47567	144.74886	GU	AN
+American Red Cross Guam	13.47144	144.75392	GU	AN
+Haputo Point	13.5819	144.8328	GU	DD
+Hagatna Municipality	13.47279	144.75788	GU	AN
+Iglesia Ni Christo	13.51336	144.81877	GU	DD
+Inarajan Municipality	13.27576	144.75112	GU	IN
+Janum Point	13.52393	144.91962	GU	YG
+Spanish Fort San Jose 1805	13.30474	144.65998	GU	UM
+Jalaihai Point	13.29717	144.77067	GU	IN
+Lafac Point	13.57137	144.94473	GU	YG
+Lingae	13.25557	144.68282	GU	ME
+Latte Heights	13.49055	144.84169	GU	MA
+Liguan Point	13.24633	144.70679	GU	ME
+Machadgan Point	13.29387	144.65672	GU	UM
+Macheche	13.50386	144.8351	GU	DD
+Magpogugae	13.26367	144.7032	GU	ME
+Maina	13.46764	144.73702	GU	AS
+Mamatgun Point	13.28991	144.65795	GU	UM
+Matala Point	13.33421	144.77152	GU	IN
+Mergagan Point	13.62764	144.89151	GU	YG
+Mongmong-Toto-Maite Municipality	13.46857	144.78191	GU	MT
+Paicpouc Point	13.33595	144.76855	GU	IN
+Pado	13.46784	144.77528	GU	MT
+Oka	13.50086	144.77252	GU	TM
+JP Fonte Communication Bunker WW2	13.46114	144.73056	GU	AS
+Peca	13.28143	144.75321	GU	IN
+North Tipalao - DoD Naval Housing	13.42074	144.64422	GU	SR
+Orote Peninsula	13.43763	144.62724	GU	SR
+Orote Point	13.44539	144.61954	GU	SR
+Pagachao	13.36478	144.65569	GU	AT
+Pajon Point	13.64328	144.87658	GU	YG
+Pati Point	13.59881	144.95632	GU	YG
+Merizo Boat Piers	13.26737	144.66495	GU	ME
+Mariana Trench - SE Bend	12.87607	146.31592	GU	00
+Tiyan	13.48466	144.78719	GU	BA
+Mangilao Village	13.44761	144.80109	GU	MA
+USN Ordnance Annex	13.3605	144.6878	GU	AT
+USAF Andersen Air Force Base	13.58311	144.92825	GU	YG
+DoD Naval Computer and Telecommunications Finegayan	13.5828	144.84502	GU	DD
+Naval Base Guam	13.42694	144.659	GU	SR
+NCTAMS Westpac	13.57283	144.84538	GU	DD
+South Santa Rosa Reef	12.667	144.358	GU	00
+Mariana Trench - HMRG Deep	12.0654	144.58113	GU	00
+Mariana Trench Marine National Monument - Vents Unit	12.7133	143.5293	GU	00
+Mariana Trench Marine National Monument - Trench Unit	10.9583	143.65	GU	00
+Mariana Trough	13.13833	143.21228	GU	00
+Parece Vela Basin	13.26133	140.89966	GU	00
+Ritidian Point Light 9NM	13.65003	144.86184	GU	YG
+Orote Point Light 15NM	13.44613	144.61961	GU	SR
+Two 65m Communication Towers	13.4458	144.61954	GU	SR
+Glass Breakwater Entrance Light 5NM	13.45485	144.62446	GU	PI
+2nd Leg Glass Breakwater - USN built WW2	13.45826	144.62851	GU	PI
+1st Leg Glass Breakwater - USN built 1941	13.46448	144.65444	GU	PI
+Gregorio D. Perez Marina	13.4777	144.75	GU	AN
+Agat Marina	13.36896	144.64966	GU	AT
+Aquaworld Marina	13.46096	144.68288	GU	PI
+Jose D. Leon Guerrero Commercial Port	13.462	144.67057	GU	PI
+USMC AMSEA Class Maritime Prepositioning Ship Mooring Buoy	13.45887	144.63809	GU	PI
+Guam Shipyard Floating Dry Dock - 210m	13.44452	144.65945	GU	SR
+Asan Point Fringing Reef Awash	13.47932	144.70219	GU	AS
+Spanish Marianas Colony -1897	13.4805	144.7315	GU	00
+US Navy Administration -1950	13.4805	144.732	GU	00
+Japanese Occupation 1941-44 WW2	13.4805	144.7325	GU	00
+Battle of the Philippine Sea WW2	13.4805	144.733	GU	00
+First Battle of Guam 1941 WW2	13.4805	144.7335	GU	00
+Second Battle of Guam 1944 WW2	13.4805	144.734	GU	00
+North West Pacific Ocean - to the East	13.481	144.7335	GU	00
+Philippine Sea - to the West	13.481	144.734	GU	00
+Micronesia - Guam	13.481	144.7345	GU	00
+Marianas Tectonic Micro-Plate	13.481	144.735	GU	00
+General Pier F-2	13.46146	144.66455	GU	PI
+Fishing Vessel Pier F-3	13.46142	144.66593	GU	PI
+Commercial Piers - Berths F-4 - F-6	13.46044	144.67044	GU	PI
+Port Authority of Guam	13.46267	144.66728	GU	PI
+Landmark - 60m Hanson Cement Silo	13.46142	144.66352	GU	PI
+Spanish Manila-Acapulco Galleons Fresh Water and Food Stopover -1815	13.4805	144.7355	GU	00
+Landfill - Rubble of Destroyed Agana Village post-WW2	13.47889	144.75273	GU	AN
+Hagatna Baseball Stadium	13.47865	144.7526	GU	AN
+Spanish and US Apra Boat Landing pre-WW2	13.46177	144.68523	GU	PI
+JP Faha Massacre Site 1944 WW2	13.27124	144.66829	GU	ME
+Cruz Water Catchment 1920	13.58735	144.86893	GU	DD
+Jati - Prehistoric and Spanish Settlement	13.31588	144.65773	GU	UM
+Stranded JP Midget Attack Submarine Type C WW2	13.42222	144.67551	GU	SR
+Umatac Anchorage - Spanish Acapulco-Manila Galleons -1815	13.2976	144.6595	GU	UM
+Northern Route 3 - Wettengel Junction to Ritidian Point	13.52587	144.82487	GU	DD
+Central SE Route 4 - Hagatna to Unatac	13.294	144.75354	GU	IN
+JP Merizo Coastal Defense Pillbox WW2	13.26006	144.67451	GU	ME
+General Japanese Defense Fortifications on Guam WW2	13.4805	144.736	GU	00
+JP Ypao Coastal Defense Pillbox WW2	13.50515	144.78679	GU	TM
+JP Ylig Fortification WW2	13.39075	144.77403	GU	YN
+USN Helipads	13.43877	144.6355	GU	SR
+Merizo Bell Tower 1919	13.26587	144.66818	GU	ME
+German Auxiliary Cruiser SMS Cormoran Wreck WW1	13.45888	144.6555	GU	PI
+JP Mixed Cargo Vessel Tokai Maru Wreck WW2	13.45887	144.65533	GU	PI
+USN Royal Palms Housing	13.55168	144.83201	GU	DD
+JP Pago Pillbox 1 WW2	13.42268	144.78457	GU	CP
+JP Pago Pillbox 2 WW2	13.41733	144.78512	GU	CP
+Spanish Dikes	13.46524	144.76938	GU	MT
+JP Talofofo Pillbox WW2	13.33774	144.76188	GU	IN
+JP Tinta Massacre Site WW2	13.2658	144.67972	GU	ME
+JP Togcha Point Pillbox WW2	13.38127	144.77442	GU	YN
+JP Tumon Cliffline Fortification 1 WW2	13.50737	144.80788	GU	TM
+JP Tumon Cliffline Fortification II WW2	13.51015	144.80957	GU	TM
+Sisters of Mercy Convent	13.51647	144.83917	GU	DD
+Guam Drag Race Way	13.50987	144.88552	GU	YG
+Jehovah Witnesses Watchtower	13.48681	144.81822	GU	BA
+Yokoi's Cave - Last Guam JP Army WW2-Holdout 1972	13.3251	144.73859	GU	IN
+Natural Inarajan Swimming Pools	13.27154	144.74779	GU	IN
+Gef Pa'go Cultural Village	13.27599	144.74828	GU	IN
+Merizo-Umatac Wastewater Primary Treatment	13.28643	144.66296	GU	UM
+USAF Munition Storing Shelters	13.60883	144.88336	GU	YG
+Patti Point Cape	13.59554	144.95351	GU	YG
+Hawaiian Limestone Quarries	13.45836	144.83283	GU	MA
+Southernmost Land Point of Guam	13.23409	144.64438	GU	ME
+Merizo Fringing Reef Awash	13.27065	144.66067	GU	ME
+Sasalaguan Municipal Tripoint Inarajan - Merizo - Umatac	13.27888	144.69305	GU	00
+Chief Gadao Statue	13.2766	144.74759	GU	IN
+Bolanos Municipal Tripoint Inarajan - Umatac - Talofofo	13.29938	144.68768	GU	00
+Jumullong Municipal Tripoint Talafofo - Umatac - Agat	13.32971	144.67225	GU	00
+Almagosa Plateau	13.35538	144.67072	GU	AT
+Curch of Jesus Christ of Latter Day Saints	13.47394	144.78763	GU	BA
+Consulate General of Japan	13.48696	144.78386	GU	TM
+Consulate General of the Federated States of Micronesia	13.4869	144.78378	GU	TM
+Consulate of Palau	13.48685	144.78371	GU	TM
+Consulate General of the Philippines	13.48681	144.78365	GU	TM
+Bank of Guam	13.47507	144.75468	GU	AN
+Bank of Hawaii	13.47652	144.75332	GU	AN
+GPA Guam Power Authority	13.51001	144.81911	GU	DD
+Christian Transworld Radio - Large Shortwave Antenna Array	13.34154	144.65284	GU	AT
+Christian Transworld Radio Shortwave Antenna Array	13.27787	144.67314	GU	ME
+Lada	13.26538	144.73934	GU	IN
+Agfayan Aquaculture Basins	13.26979	144.73354	GU	IN
+Agfayan Boat Slipway	13.26784	144.74001	GU	IN
+frmr USN Circularly Disposed Antenna Array	13.59358	144.85253	GU	DD
+Catholic Redemptoris Mater Archdiocesan Seminary	13.39169	144.77295	GU	YN
+Atao	13.25526	144.73303	GU	IN
+Gadao's Cave Pictographs	13.27622	144.75324	GU	IN
+Inara	13.27888	144.73148	GU	IN
+Asalonso	13.33438	144.7614	GU	IN
+Talofofo Gym	13.35279	144.75985	GU	TF
+JP Eastern Landing Site 1941 WW2	13.33789	144.7647	GU	TF
+Talofofo Caves - Pictographs	13.34154	144.76691	GU	TF
+Ylig	13.39014	144.77139	GU	YN
+Paicpouc Cove	13.33459	144.76826	GU	IN
+Lower Talisay	13.39983	144.6917	GU	SR
+Curch of Jesus Christ of Latter Day Saints	13.39803	144.68646	GU	SR
+Spanish Well	13.44676	144.62291	GU	SR
+Spanish Steps to the Well	13.44653	144.62421	GU	SR
+Spanish Fort Santiago	13.4468	144.62723	GU	SR
+Sabana Batea	13.42361	144.74845	GU	YN
+Blasted Reef Boat Channel pre-WW2	13.44268	144.65462	GU	SR
+Only South Apra Boat Landing pre-WW2	13.44115	144.65385	GU	SR
+PanAm Clipper Flying Boat Stopover 1935+	13.44019	144.65317	GU	SR
+Fleet Landing Channel - US Blasted 1944	13.44199	144.65587	GU	SR
+Landfill WW2 - before Coral Patches	13.45582	144.67114	GU	PI
+Napa Islet before Landfill	13.44307	144.6611	GU	SR
+South Apra Continuous Coral Reef Awash pre-WW2	13.44349	144.66451	GU	SR
+US Coast Gard Sector Guam	13.42246	144.66349	GU	SR
+Guam Shipyard Corp	13.4408	144.66167	GU	SR
+Command Submarin Squadron 15	13.42519	144.66186	GU	SR
+Command Joint Region Marianas	13.42779	144.65901	GU	SR
+US Marines Garrison pre-WW2	13.43516	144.6506	GU	SR
+JP Seaplane Ramp and Hangar WW2	13.43986	144.65257	GU	SR
+Route 6 - Spruance Drive	13.455	144.70854	GU	PI
+Municipal Tripoint Asan - Agana Heights - Chalan Pago	13.45602	144.7405	GU	00
+Ordot Landfill	13.43909	144.75032	GU	CP
+Municipal Tripoint Sinajana - Mongmong - Chalan Pago	13.45992	144.77218	GU	00
+Municipal Tripoint Mongmong - Mangilao - Chalan Pago	13.46097	144.78145	GU	00
+Maimai	13.44627	144.77787	GU	CP
+Apusento Garden	13.44656	144.76964	GU	CP
+Pago prehistoric and historic Village	13.42408	144.78328	GU	CP
+Municipal Tripoint Dededo - Yigo - Mangilao	13.49973	144.87062	GU	00
+DoD Andersen AFB Marbo Annex	13.51083	144.87345	GU	YG
+Andersen AFB Andy South Housing	13.49881	144.8686	GU	MA
+Marbo Cave	13.48715	144.86839	GU	MA
+DoD Andersen AFB Communication South	13.4539	144.81122	GU	MA
+Andersen AFB NEXRAD Weather Radar	13.45605	144.81126	GU	MA
+Andersen AFB frmr Shortwave Transmitter	13.45391	144.81378	GU	MA
+Tai	13.4417	144.79124	GU	MA
+DoD USAF Andersen AFB	13.58346	144.92924	GU	YG
+Route 9 - Potts Junction to Salisbury Junction AFB	13.58234	144.88898	GU	YG
+DoD USAF All Land North of Route9	13.59802	144.87199	GU	YG
+Red Horse - USAF Engineering Facilitiy and HQ	13.63033	144.84854	GU	DD
+FAA ARSR-4 Air Route Surveillance Radar	13.53553	144.91428	GU	YG
+Rain Water Collection Pool	13.55662	144.92593	GU	YG
+Andersen AFB Control Tower	13.57541	144.93078	GU	YG
+B-2 Stealth Bomber Takeoff Crash Site	13.58746	144.93944	GU	YG
+AFB Munitions Assembly Facilitiy	13.59644	144.90237	GU	YG
+DoD Reservation Santa Rosa Communications Annex	13.53528	144.91402	GU	YG
+North Guam Overall - Wells into Northern Aquifer	13.55247	144.86654	GU	00
+Salisbury	13.55941	144.90136	GU	YG
+Submarine Communication Cables	13.54535	144.80747	GU	DD
+Route 3A - Potts Junction to Ritidian Point	13.60545	144.8568	GU	DD
+NASA Atmospheric Propagation Monitor	13.59157	144.84026	GU	DD
+MRC Marlock 25m Satellite Calibration Antenna	13.58001	144.8363	GU	DD
+Central Dededo	13.51709	144.83966	GU	DD
+Santa Ana	13.58666	144.8657	GU	DD
+Astumbo Gardens	13.55117	144.84023	GU	DD
+Ukudo	13.54091	144.84349	GU	DD
+NCS Machanao	13.58038	144.8583	GU	DD
+Ghura	13.52748	144.86967	GU	DD
+Las Palmas	13.50261	144.84276	GU	DD
+Mogfog	13.50282	144.85139	GU	DD
+Fo Guang Shan Buddhist Temple	13.49477	144.8284	GU	BA
+Cliff Top Municipal Tripoint Hagatna - Tamuning - Mongmong	13.47938	144.76754	GU	00
+Guam Greyhound Dog Race Track	13.50057	144.77914	GU	TM
+Sisters of Mercy South Central Community on Guam	13.503	144.77751	GU	TM
+Mental Health and Substance Abuse	13.50336	144.77583	GU	TM
+Mercy Heights Nursery & Kindergarten	13.50333	144.77787	GU	TM
+Doctors Clinic	13.50445	144.77608	GU	TM
+TGA TeleGuam	13.50329	144.80476	GU	TM
+Harmon	13.50688	144.81098	GU	TM
+Mongmong-Toto-Maite Village	13.46857	144.78214	GU	MT
+Life in the Son Christian Fellowship	13.47656	144.76359	GU	MT
+Municipal Tripoint Hagatna - Mongmong - Sinajana	13.46612	144.76155	GU	00
+Municipal Tripoint Agana Heights - Hagatna - Sinajana	13.46725	144.75222	GU	00
+Agana Heights Gym	13.46488	144.74798	GU	AH
+Saint Fidelis Capuchins Friary	13.46798	144.75152	GU	AH
+Fonte	13.46119	144.74211	GU	AH
+Hagatna Village	13.47279	144.75802	GU	AN
+Flag Circle - USN Top Brass Housing	13.46713	144.72327	GU	AS
+VORTAC civil-military Aircraft Radio Navigation Beacon	13.45454	144.73329	GU	AS
+Overhead W-E PowerTransmission Line	13.44983	144.72882	GU	AS
+Underground Aviation Fuel Pipeline	13.45288	144.72647	GU	AS
+Route 6 - Admiral Raymond A. Spruance Drive	13.4725	144.73258	GU	AS
+Guam Insular Force Guard Monument WW2	13.47453	144.75166	GU	AN
+Spanish and American pre-WW2 Kiosko	13.4742	144.75164	GU	AN
+German SMS Cormoran Victims Tomb WW1	13.47742	144.75797	GU	AN
+JP Pillbox WW2	13.47849	144.75143	GU	AN
+Spanish Almacen - Arsenal	13.47358	144.7512	GU	AN
+Governor's Complex Wall	13.47377	144.75151	GU	AN
+JP Storage Caves WW2	13.47086	144.75302	GU	AN
+JP Storage Caves WW2	13.47426	144.7484	GU	AN
+Consulate of the Republic of Korea	13.50055	144.77656	GU	TM
+Guam Chamber of Commerce	13.47514	144.75033	GU	AN
+Dry Dock Causeway	13.45719	144.67817	GU	PI
+Abo Cove	13.41863	144.67069	GU	SR
+North Guam Shoals	13.8	144.958	GU	00
+Very Bad Anchorage - on old charts	13.48475	144.75612	GU	AN
+Agana Boat Landing pre-WW2	13.47764	144.75084	GU	AN
+Sewage Islet	13.48129	144.74762	GU	AN
+Sewage Causeway	13.47914	144.74835	GU	AN
+Falcona Anchorage	13.60453	144.83474	GU	DD
+Tarague prehistoric and historic Village	13.60803	144.90426	GU	YG
+Gayloup Cove	13.33625	144.76453	GU	IN
+US Marines Seaplane Base 1920s	13.4399	144.65312	GU	SR
+JP Infiltrations 1941 WW2	13.62438	144.89808	GU	YG
+2nd JP Southern Landing WW2	13.37359	144.65153	GU	AT
+Pagat prehistoric and historic Village	13.4976	144.88821	GU	YG
+Ritidian prehistoric and historic Village	13.65377	144.85953	GU	DD
+DoD Andersen AFB Andy South	13.49856	144.86774	GU	MA
+Upper Tumon	13.512	144.81367	GU	TM
+Apoigan	13.48817	144.77644	GU	TM
+Asan	13.47174	144.71581	GU	AS
+USN-USA-USAAF Advance Base 1945 WW2	13.48	144.732	GU	00
+Tamuning	13.48754	144.78143	GU	TM
+First Hawaiian Bank	13.47658	144.76426	GU	MT
+Citibank	13.4778	144.76282	GU	AN
+ANZ Bank Guam	13.47583	144.74604	GU	AN
+First Commercial Bank Guam	13.47686	144.74448	GU	AN
+Bank Pacific	13.47563	144.75029	GU	AN
+Okura The Tower	13.52035	144.80672	GU	TM
+Palace (Guam)	13.49643	144.84011	GU	MA
+Guam Reef And Olive	13.51632	144.80618	GU	TM

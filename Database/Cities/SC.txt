@@ -1,0 +1,260 @@
+Zoroaster Shoal	-5	56.66667	SC	00
+Pointe Zanguilles	-4.28333	55.73333	SC	00
+Wizard Reef	-8.83333	51.06667	SC	00
+Vigilant Shoal	-3.9	54.7	SC	00
+Victoria Harbour	-4.61667	55.48333	SC	00
+Victoria	-4.61667	55.45	SC	26
+Val-Mer	-4.75	55.48333	SC	00
+Ile aux Vaches	-4.68333	55.43333	SC	00
+Umzinto Bank	-9.63333	51.3	SC	00
+Trois Freres	-4.63333	55.43333	SC	00
+Trevor Point	-4.5	55.23333	SC	00
+Roche Tortue	-4.66667	55.55	SC	00
+Topaze Bank	-4.61667	56.25	SC	00
+Ile Therese	-4.66667	55.4	SC	00
+Ternay Bluff	-4.65	55.36667	SC	00
+Cape Ternay	-4.63333	55.36667	SC	00
+Baie Ternay	-4.63333	55.36667	SC	00
+Anse Talbot	-4.66667	55.51667	SC	00
+Anse Takamaka	-4.76667	55.48333	SC	00
+Takamaka	-4.76667	55.5	SC	23
+Takamaka	-4.78333	55.51667	SC	23
+Swan Shoal	-4	54.56667	SC	00
+Pointe du Sud	-4.8	55.53333	SC	00
+Stork Patch	-4.71667	55.4	SC	00
+Anse Souillac	-4.65	55.38333	SC	00
+Anse Soleil	-4.75	55.46667	SC	00
+Silhouette	-4.48333	55.23333	SC	00
+Mont Signal	-4.6	55.45	SC	00
+Sherard Osborn Patch	-4.78333	54.5	SC	00
+Morne Seychellois	-4.65	55.43333	SC	00
+Seychelles Bank	-5	55.5	SC	00
+Republic of Seychelles	-4.58333	55.66667	SC	00
+Seychelles	-4.58333	55.66667	SC	00
+Sel Point	-4.73333	55.53333	SC	00
+Seche	-4.68333	55.45	SC	00
+Seagull Shoal	-4.68333	54.16667	SC	00
+Sand Cay	-5.68333	53.23333	SC	00
+Saint Pierre Islet	-4.30265	55.74988	SC	00
+Saint-Louis	-4.61667	55.45	SC	00
+Saint Louis	-4.63333	55.43333	SC	22
+Anse Saint Jose	-4.26667	55.71667	SC	00
+Baie Sainte Anne	-4.33333	55.76667	SC	00
+Saint-Antoine	-4.73333	55.5	SC	00
+Saint Anne Channel	-4.61667	55.5	SC	00
+Anse Royale	-4.73333	55.51667	SC	00
+Royale	-4.75	55.51667	SC	00
+Pointe Rouge	-4.26667	55.75	SC	00
+Ile Ronde	-4.35	55.78333	SC	00
+Anse du Riz	-4.63333	55.38333	SC	00
+Requin Bank	-4.55	55.36667	SC	00
+Rempart	-4.71667	55.48333	SC	00
+Remire Reef	-5.08333	53.36667	SC	00
+Ile aux Recifs	-4.58173	55.76403	SC	00
+Ile aux Rats	-4.66667	55.53333	SC	00
+Quatres Bornes	-4.78333	55.51667	SC	00
+Providence Reef	-9.38333	51.05	SC	00
+Atoll de Providence	-9.33333	50.91667	SC	00
+Anse aux Poules Bleues	-4.73333	55.46667	SC	00
+Anse Possession	-4.28333	55.73333	SC	00
+Port Glaud	-4.66667	55.41667	SC	27
+Port Glaud	-4.65	55.4	SC	27
+Anse Polite	-4.7	55.46667	SC	00
+Police Point	-4.8	55.51667	SC	00
+Pointe Larue	-4.66667	55.51667	SC	20
+Ile Plate	-5.86667	55.38333	SC	00
+Plaisance	-4.65	55.45833	SC	19
+Anse aux Pins	-4.7	55.51667	SC	00
+Pilot Patches	-4.7	55.33333	SC	00
+Petit Gouvernement	-4.76667	55.46667	SC	00
+Petite Police	-4.8	55.51667	SC	00
+Petite Paris	-4.65	55.48333	SC	00
+Petite Marie Louise	-4.78333	55.53333	SC	00
+Petite Ile	-4.66667	55.41667	SC	00
+Anse Petite Cour	-4.28333	55.73333	SC	00
+Petite Boileau	-4.8	55.53333	SC	00
+Anse Petite	-4.75	55.46667	SC	00
+Anse Parnel	-4.76667	55.51667	SC	00
+North Point	-4.56667	55.43333	SC	00
+North East Point	-4.58333	55.46667	SC	00
+Ile du Nord	-4.38333	55.25	SC	00
+Moussa	-4.61667	55.45	SC	00
+Anse a la Mouche	-4.73333	55.48333	SC	00
+Mont Fleuri	-4.63333	55.45833	SC	18
+Mont Buxton	-4.61766	55.44096	SC	17
+Mon Plaisir	-4.46667	55.21667	SC	00
+Mon Plaisir	-4.73333	55.5	SC	00
+Mon Plaisir	-4.61667	55.45	SC	00
+Anse Mondean	-4.45	55.21667	SC	00
+Misere	-4.66667	55.46667	SC	00
+McLeod Bank	-9.95	50.41667	SC	00
+Anse Marie Louise	-4.78333	55.53333	SC	00
+Marianne	-4.33333	55.91667	SC	00
+Anse Mare Jupe	-4.61667	55.5	SC	00
+Point Maravi	-4.76667	55.48333	SC	00
+Anse Manon	-4.6	55.51667	SC	00
+Mamelles	-4.65	55.46667	SC	00
+Mamelles	-4.48333	55.53333	SC	00
+Anse Major	-4.61667	55.38333	SC	00
+Main Channel	-9.36667	46.25	SC	00
+Mahe	-4.66667	55.46667	SC	00
+Machabee	-4.56667	55.45	SC	00
+Anse Louis	-4.71667	55.48333	SC	00
+L'Islette	-4.65	55.41667	SC	00
+L'Islette	-4.65	55.4	SC	00
+L'Ilot	-4.60226	55.90693	SC	25
+L'Anse L'Etoile	-4.6	55.46667	SC	00
+L'Etoile	-4.6	55.46667	SC	00
+The Sisters	-4.28333	55.86667	SC	00
+L'Esperance	-4.71667	55.48333	SC	00
+Les Parisiennes	-4.3	55.68333	SC	00
+Les Amirantes	-6	53.16667	SC	00
+Le Rocher	-4.65	55.46667	SC	00
+Le Reduit	-4.78333	55.5	SC	00
+L'Enponcement	-4.75	55.51667	SC	00
+Le Constant Bank	-6.33333	56.28333	SC	00
+Le Cap	-4.71667	55.51667	SC	00
+Pointe Lazare	-4.76667	55.46667	SC	00
+Baie Lazare	-4.75	55.48333	SC	00
+Port Launay	-4.65	55.38333	SC	00
+Cap Lascars	-4.76667	55.51667	SC	00
+Anse Lascar	-4.48333	55.25	SC	00
+Point La Rue	-4.68333	55.53333	SC	00
+Anse La Rue	-4.68333	55.53333	SC	00
+La Reunion	-4.35	55.83333	SC	25
+La Plaine Estate	-4.65	55.4	SC	00
+La Perle Reef	-6.01667	55.28333	SC	00
+La Junon	-5.21667	57.08333	SC	00
+Lady Denison-Pender Shoal	-4.83333	53.3	SC	00
+La Digue	-4.35942	55.83621	SC	00
+Anse l'Islette	-4.66667	55.41667	SC	00
+Roche de l'Intendance	-4.78333	55.48333	SC	00
+Anse Intendance	-4.78333	55.5	SC	00
+Hodoul Point	-9.38333	46.51667	SC	00
+Hermes	-5.05	55.03333	SC	00
+Hangard	-4.6	55.46667	SC	00
+Haddon Point	-4.48333	55.26667	SC	00
+Grande Anse	-4.32587	55.70532	SC	00
+Grand Anse	-4.68333	55.43333	SC	00
+Grand Anse	-4.6	55.51667	SC	00
+Grand Anse Mahe	-4.68333	55.45833	SC	24
+Grand Anse Praslin	-4.31667	55.71667	SC	14
+Anse du Gouvernement	-4.76667	55.48333	SC	00
+Pointe Golette	-4.8	55.5	SC	00
+Port Glaud	-4.66667	55.41667	SC	00
+Glacis	-4.58333	55.43333	SC	00
+Glacis	-4.575	55.44167	SC	12
+Gilberte Shoal	-5.13333	55.65	SC	00
+Anse Gaulettes	-4.76667	55.48333	SC	00
+Gaspard	-4.7	55.46667	SC	00
+Anse Francois	-4.66667	55.51667	SC	00
+Fortune Bank	-7.21667	57	SC	00
+Anse Forbans	-4.78333	55.51667	SC	00
+Anse Faure	-4.68333	55.53333	SC	00
+Euphrates Islet	-9.41667	46.25	SC	00
+Etoile Cay	-5.88333	53.01667	SC	00
+Anse Etoile	-4.6	55.45	SC	00
+East Channel	-9.36667	46.45	SC	00
+Dupont Shoal	-4.26667	54.41667	SC	00
+Ile Desroches	-5.68333	53.68333	SC	00
+Isle des Noeufs	-6.23333	53.05	SC	00
+De Quincey Village	-4.6026	55.45692	SC	00
+Ile Denis	-3.8	55.66667	SC	00
+Baie Curieuse	-4.28333	55.73333	SC	00
+Curieuse	-4.28427	55.72489	SC	00
+Cousine	-4.35	55.63333	SC	00
+Cousin	-4.31667	55.65	SC	00
+Anse aux Couches	-4.71667	55.53333	SC	00
+Atoll de Cosmoledo	-9.71667	47.58333	SC	00
+Anse Corail	-4.8	55.5	SC	00
+Conquest	-4.38333	54.26667	SC	00
+Pointe Conan	-4.6	55.45	SC	00
+Coetivy	-7.13333	56.26667	SC	00
+Pointe Cocos	-4.8	55.55	SC	00
+Coconut Islet	-9.4	46.45	SC	00
+Anse Cimetiere	-4.68333	55.53333	SC	00
+Anse Cimetiere	-4.61667	55.5	SC	00
+Pointe Chevalier	-4.26667	55.7	SC	00
+Baie Chevalier	-4.28333	55.68333	SC	00
+Baie aux Chagrins	-4.63333	55.38333	SC	00
+Ile au Cerf	-4.63333	55.5	SC	00
+Cascade Estate	-4.68333	55.5	SC	00
+Pointe Cascade	-4.66667	55.5	SC	00
+Cascade	-4.66667	55.5	SC	11
+Cascade	-4.66667	55.48333	SC	11
+Pointe Capucins	-4.78333	55.53333	SC	00
+Anse Capucins	-4.8	55.53333	SC	00
+Pointe Caimant	-4.26667	55.71667	SC	00
+Ile Cachee	-4.63333	55.5	SC	00
+Anse Cachee	-4.78333	55.5	SC	00
+Pointe Cabris	-4.61667	55.45	SC	00
+Anse Cabot	-4.6	55.5	SC	00
+Brillant	-4.65	55.46667	SC	00
+Anse Bougainville	-4.76667	55.51667	SC	00
+Anse Boudin	-4.28333	55.71667	SC	00
+Boudeuse Cay	-6.08905	52.83235	SC	00
+Bon Espoir Estate	-4.7	55.5	SC	00
+Anse Boileau	-4.7	55.48333	SC	00
+Morne Blanc	-4.65	55.43333	SC	00
+Bertaut Reef	-5.66667	53.23333	SC	00
+Bel Ombre	-4.61667	55.41667	SC	10
+Bel Ombre	-4.61835	55.41787	SC	10
+Bel Air	-4.63333	55.45	SC	00
+Bel Air	-4.63333	55.45	SC	09
+Beau Vallon	-4.62091	55.43015	SC	08
+Beau Vallon	-4.62014	55.4316	SC	08
+Anse Bazacar	-4.8	55.51667	SC	00
+Anse Baleine	-4.75	55.51667	SC	00
+Baie Sainte Anne	-4.31667	55.73333	SC	07
+Baie Lazare	-4.74722	55.48333	SC	06
+Assumption	-9.75	46.5	SC	00
+Ile Aride	-4.2	55.66667	SC	00
+Anse Volbert Village	-4.31667	55.73333	SC	00
+Anse Royale	-4.73333	55.51667	SC	05
+Anse Royale	-4.74167	55.51667	SC	05
+Anse Jasmin Estate	-4.63333	55.4	SC	00
+Anse Etoile	-4.59167	55.45	SC	03
+Anse Boileau	-4.71667	55.48333	SC	02
+Anse Boileau	-4.70833	55.48333	SC	02
+Anse aux Pins	-4.6875	55.51667	SC	01
+Ile Anonyme	-4.65	55.51667	SC	00
+Mare Anglais	-4.61667	55.43333	SC	00
+Andromache Shoal	-3.86667	54.85	SC	00
+Ile Alphonse	-7	52.73333	SC	00
+Groupe d'Aldabra	-9.41667	46.36667	SC	00
+African Banks	-4.88333	53.4	SC	00
+Adriens Shoal	-4.26667	55.66667	SC	00
+Adelaide Bank	-6.58333	56.8	SC	00
+Les Mamelles	-4.61667	55.5	SC	29
+Roche Caiman	-4.65	55.46667	SC	30
+Au Cap	-4.7	55.51667	SC	28
+Recica	42.34639	20.46194	SC	01
+Trois Iles	-10.13333	51.08333	SC	00
+Manaha Islets	-10.13333	51.18333	SC	00
+Atoll de Farquhar	-10.16667	51.16667	SC	00
+Labriz Silhouette	-4.4714	55.247	SC	
+Coral Strand	-4.6075	55.4265	SC	
+Coco D'Or	-4.6145	55.4282	SC	
+LE MERIDIEN FISHERMANS COVE	-4.6166	55.4499	SC	
+Cote d'Or	-4.31997	55.75338	SC	
+Anse Kerlan	-4.30524	55.6845	SC	
+Victoria transmitter	-4.62053	55.44178	SC	
+Vallee de Mai	-4.332	55.74007	SC	07
+Anse Lazio	-4.29378	55.70158	SC	
+Grand Anse	-4.33109	55.72206	SC	
+Edens Holidays Villas	-4.66157	55.41394	SC	
+Banyan Tree	-4.78213	55.49775	SC	
+La Rousette	-4.66677	55.49795	SC	
+Four Seasons	-4.75476	55.46579	SC	
+South Point Chalets	-4.80423	55.5352	SC	
+Daniellas Bungalows	-4.61818	55.41624	SC	
+Lazare Picault	-4.75676	55.48388	SC	
+Reef Holiday	-4.66266	55.48027	SC	
+Village Du Pecheur	-4.32176	55.75704	SC	
+Raffles Praslin Seychelles	-4.35001	55.7369	SC	
+Auberge Danse Boileau	-4.70424	55.47855	SC	
+Chateau St Cloud	-4.35925	55.82317	SC	
+Edens Holiday Villas	-4.65753	55.41025	SC	
+Domaine De L'orangeraie	-4.34525	55.83115	SC	
+Chateau Sans Souci	-4.31224	55.68678	SC	
+New Esmerald Cove	-4.33665	55.7836	SC	

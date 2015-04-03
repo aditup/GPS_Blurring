@@ -1,0 +1,864 @@
+Ribeira da Vinha	16.86667	-25.01667	CV	11
+Vinagre	14.86667	-24.7	CV	02
+Vila Nova Sintra	14.86667	-24.71667	CV	02
+Vila Nova	14.93333	-23.51667	CV	14
+Vila Maria Pia	17.2	-25.1	CV	07
+Vila do Maio	15.13823	-23.21158	CV	04
+Vila da Ribeira Brava	16.61667	-24.3	CV	22
+Ponta da Vigia	15.15	-23.55	CV	16
+Vicente Dias	14.88333	-24.46667	CV	18
+Achada Vianga	15.11667	-23.56667	CV	16
+Ponta Viana	16.83333	-24.85	CV	11
+Viana	16.81667	-24.88333	CV	11
+Morro Vermelho de Cova Branca	17.01667	-25.28333	CV	21
+Ribeira Vermelha	17.03333	-25.36667	CV	21
+Ponta Vermelha	16.83333	-22.98333	CV	08
+Monte Verde	16.86667	-24.93333	CV	11
+Monte Verde	14.96667	-24.35	CV	13
+Pico do Vento	16.83333	-24.9	CV	11
+Porto Velho	16.16667	-22.93333	CV	01
+Ponta Vasa Rabo	14.86667	-24.68333	CV	02
+Ponta da Vasa	14.9	-24.7	CV	02
+Ponta Varandinha	16.03333	-22.96667	CV	01
+Porto de Vale de Cavaleiros	14.91667	-24.51667	CV	18
+Vale da Gusta	14.98333	-23.48333	CV	17
+Ribeira de Vale Cachopo	14.96667	-23.46667	CV	14
+Urzeleiro	17.08333	-25.2	CV	21
+Ponta de Tumba	17.11572	-24.96936	CV	05
+Trindade	14.95	-23.56667	CV	14
+Ponta de Treno	16.6	-24.03333	CV	22
+Monte Travessado	17.01667	-25.26667	CV	21
+Tras-os-Montes	15.3	-23.71667	CV	20
+Ribeira do Tortolho	17.01667	-25.08333	CV	21
+Monte Tortolho	14.91667	-24.33333	CV	24
+Torno d'Agua	16.61667	-24.36667	CV	27
+Toril	15.3	-23.71667	CV	20
+Topona	16.81667	-24.91667	CV	11
+Topona	16.75	-24.75	CV	11
+Tongon	14.91667	-24.48333	CV	18
+Baia da Teodora	16.2	-22.93333	CV	01
+Ponta Temerosa	14.9	-23.51667	CV	14
+Telha	16.56667	-24.36667	CV	27
+Ribeira do Tate	16.76667	-24.76667	CV	11
+Tarrafal	17.18635	-25.06951	CV	07
+Ribeira do Tarrafal	16.96667	-25.31667	CV	21
+Porto do Tarrafal	15.28249	-23.75669	CV	20
+Concelho do Tarrafal	15.26667	-23.71667	CV	20
+Baia do Tarrafal	16.95722	-25.31696	CV	21
+Baia do Tarrafal	16.56667	-24.36667	CV	27
+Tarrafal	16.96503	-25.31048	CV	21
+Tarrafal de Sao Nicolau	16.56667	-24.36667	CV	27
+Tarrafal	15.27881	-23.75192	CV	20
+Ponta Tarafo	15.96667	-22.8	CV	01
+Ponta dos Tarafinhos	17.01667	-25.08333	CV	21
+Ponta Tarafinho	16.75	-22.9	CV	08
+Ponta dos Tarafes	17.10042	-24.96805	CV	05
+Ponta dos Tarafes	17.03333	-25.03333	CV	21
+Baixo do Tarafe	17.1	-25.33333	CV	21
+Monte Tagarrinho	15.06667	-23.71667	CV	15
+Tabuga	17.01667	-25.2	CV	21
+Tabuadinha	17.08333	-25.16667	CV	21
+Tope Suzana	16.88333	-25.05	CV	11
+Ponta do Sul	16.76667	-24.98333	CV	11
+Ponta de Sougui	14.86667	-24.28333	CV	24
+Ilhas do Sotavento	15	-23.58333	CV	17
+Porto do Sorno	14.88333	-24.73333	CV	02
+Ponta do Sol	17.20786	-25.09108	CV	07
+Ponta do Sol	16.23333	-22.91667	CV	01
+Monte Sobrado	14.9	-24.36667	CV	24
+Ponta do Sino	16.58333	-22.93333	CV	08
+Ponta da Sinagoga	17.18199	-25.03385	CV	07
+Sinagoga	17.17618	-25.0333	CV	07
+Baixo das Sete Cabecas	15.05	-24.38333	CV	13
+Serrado	14.91667	-24.46667	CV	18
+Ponta Seringa	16.21667	-22.81667	CV	01
+Monte do Seminario	16.58333	-24.31667	CV	27
+Monte Semedo	15.21667	-23.73333	CV	20
+Seladinha	16.96667	-25.31667	CV	21
+Selada do Mocho	17.15	-25.16667	CV	07
+Selada	17.1	-25.26667	CV	21
+Ponta da Se	14.91667	-23.61667	CV	23
+Ponta da Saudade	17.17323	-25.01983	CV	07
+Ilha de Sao Vicente	16.84726	-24.97742	CV	11
+Concelho de Sao Vicente	16.83333	-25	CV	11
+Ilha de Santiago	15.08737	-23.62576	CV	00
+Baia de Sao Pedro	16.81962	-25.07224	CV	11
+Sao Pedro	16.82397	-25.06063	CV	11
+Ilha de Sao Nicolau	16.61103	-24.26047	CV	22
+Sao Martinho	14.91667	-23.58333	CV	23
+Sao Jorge	16.06667	-22.81667	CV	01
+Sao Jorge	15.01667	-24.43333	CV	18
+Sao Joao	14.95	-23.66667	CV	23
+Porto de Sao Francisco	14.96667	-23.46667	CV	14
+Porto de Sao Filipe	14.88333	-24.51667	CV	18
+Sao Filipe	14.8961	-24.49556	CV	18
+Sao Domingos	15.02438	-23.5625	CV	17
+Santo Antonio	15.26667	-23.13333	CV	04
+Ilha de Santo Antao	17.06876	-25.18255	CV	21
+Santiago	15.13333	-23.53333	CV	16
+Baia de Santana	15.28333	-23.23333	CV	04
+Porto de Santa Maria	16.58333	-22.9	CV	08
+Ilheu de Santa Maria	14.90765	-23.50737	CV	14
+Santa Maria	16.6	-22.9	CV	08
+Ponta de Santa Luzia	16.81667	-24.86667	CV	11
+Ilha de Santa Luzia	16.76667	-24.75	CV	11
+Santa Cruz	15.13333	-23.56667	CV	16
+Ribeira de Santa Clara	14.98333	-23.71667	CV	15
+Ponta de Santa Clara	15.21667	-23.1	CV	04
+Ponta de Santa Clara	14.96667	-23.71667	CV	00
+Baia de Santa Clara	15.01667	-23.75	CV	15
+Concelho de Santa Catarina	15.1	-23.7	CV	15
+Ponta Sancho	17.08894	-24.97111	CV	05
+Sambango	15.05	-24.35	CV	13
+Ribeira do Salto	14.81667	-24.41667	CV	18
+Ponta do Salto	15.18333	-23.58333	CV	16
+Ponta Salto	16.91667	-25.26667	CV	21
+Porto de Sal Rei	16.16667	-22.93333	CV	01
+Ilheu de Sal Rei	16.16667	-22.93333	CV	01
+Vila de Sal Rei	16.18333	-22.91667	CV	01
+Ponta das Salinas	15.13333	-23.25	CV	04
+Ponta Salina do Creoulo	16.75	-24.68333	CV	11
+Ponta da Salina	17.18333	-25.16667	CV	07
+Ponta da Salina	16.93333	-25.31667	CV	21
+Ponta da Salina	15.01667	-24.45	CV	18
+Ponta Salina	17.0983	-24.9674	CV	05
+Ponta Salina	16.8	-24.75	CV	11
+Ponta Salina	16.63333	-24.6	CV	11
+Monte Salgadinho	16.9	-24.95	CV	11
+Ponta Salamansa	16.91667	-24.95	CV	11
+Baia de Salamansa	16.91667	-24.95	CV	11
+Salamansa	16.9	-24.95	CV	11
+Sal Municipality	16.75	-22.91667	CV	08
+Sacramento	15.05	-23.56667	CV	17
+Rui Vaz	15.03524	-23.59983	CV	14
+Ponta Ruim	15.15	-23.78333	CV	15
+Rosto de Vento	15.18333	-23.1	CV	04
+Monte Rosa	16.85	-25.08333	CV	11
+Ilheu do Roque	16.08333	-22.66667	CV	01
+Ilheus Secos	14.96667	-24.66667	CV	02
+Ponta Rodrigo	16.2	-22.71667	CV	01
+Monte Rocha Quebrada	17.08333	-25.25	CV	21
+Ponta da Rocha Negra	16.76667	-24.73333	CV	11
+Ponta Rocha Alta	16.5	-24.31667	CV	22
+Rife do Cavalo Branco	16.13333	-22.65	CV	01
+Ponta do Rife	16.15	-22.68333	CV	01
+Ponta Rica	15.31667	-23.21667	CV	04
+Ponta Ribeirinha do Sal	16.88333	-25.06667	CV	11
+Monte Ribeirinha	16.83333	-25.1	CV	11
+Baia da Ribeirinha	16.83333	-25.1	CV	11
+Ribeira Vermelha	17.08333	-25.28333	CV	21
+Ribeira Prata	16.65	-24.36667	CV	27
+Ribeirao Sal	15.23333	-23.68333	CV	20
+Ribeirao Chiqueiro	15.01667	-23.53333	CV	17
+Morro da Ribeira Larguinha	17.03333	-25.28333	CV	21
+Ponta da Ribeira Laje	15.16667	-23.58333	CV	16
+Ribeira Ilheu	15.03333	-24.38333	CV	13
+Concelho da Ribeira Grande	17.13333	-25.11667	CV	07
+Ribeira Grande	17.18561	-25.07243	CV	07
+Ribeira Funda	16.68333	-24.35	CV	27
+Ribeira Fria	17.05	-25.16667	CV	21
+Ribeira dos Calhaus	16.63333	-24.36667	CV	27
+Ponta da Ribeira Dom Joao	15.13333	-23.13333	CV	04
+Ponta Ribeira do Antonio	17.12688	-25.00118	CV	05
+Ponta da Ribeira de Prata	15.23333	-23.76667	CV	20
+Ponta Ribeira das Pombas	17.1415	-25.01221	CV	05
+Ribeira da Prata	15.23333	-23.75	CV	20
+Ribeira da Cruz	17.11667	-25.25	CV	21
+Ponta da Ribeira da Caixa	16.8	-25.03333	CV	11
+Ponta da Ribeira Brava	15.23333	-23.63333	CV	19
+Ponta Ribeira Brava	17.069	-24.98519	CV	05
+Baia da Ribeira Alta	17.16667	-25.21667	CV	07
+Relva	14.98333	-24.31667	CV	13
+Ponta Rei Fernando	14.85	-24.66667	CV	02
+Reguinho	16.85	-22.93333	CV	08
+Ilheu Raso	16.61835	-24.588	CV	11
+Ponta Racha	14.81667	-24.35	CV	24
+Ilheu de Rabo de Junco	16.7	-23	CV	08
+Rabo de Junco	16.7	-22.98333	CV	08
+Ribeira do Rabil	16.15	-22.91667	CV	01
+Ponta do Rabil	17.08333	-25.35	CV	21
+Ponta do Rabil	16.66667	-24.38333	CV	27
+Rabil	16.13333	-22.88333	CV	01
+Pico Queimado	16.81667	-24.93333	CV	11
+Queimado	16.98333	-25.23333	CV	21
+Queimadas	16.63333	-24.31667	CV	22
+Monte Quebra Buli	14.88333	-24.35	CV	24
+Ribeira da Pulga	16.63333	-24.26667	CV	22
+Monte Preto	15	-24.43333	CV	18
+Ponta Preta	16.98333	-25.31667	CV	21
+Ponta Preta	16.81667	-22.98333	CV	08
+Ponta Preta	16.51378	-24.29987	CV	22
+Ponta Preta	15.28333	-23.78333	CV	20
+Ponta Preta	15.11667	-23.21667	CV	04
+Ponta Preta	14.9	-23.56667	CV	14
+Preguica	16.78005	-22.92945	CV	08
+Preguica	16.56311	-24.28086	CV	22
+Prazeres	16	-22.81667	CV	01
+Ribeira da Prata	16.66667	-24.36667	CV	27
+Ponta Prainha	14.83333	-24.76667	CV	02
+Prainha	16.6	-22.91667	CV	08
+Ribeira da Praia Grande	17	-25.1	CV	21
+Ponta da Praia Grande	14.88333	-24.3	CV	24
+Ponta Praia Grande	16.53333	-24.3	CV	22
+Ribeira da Praia Formosa	15.06667	-23.48333	CV	17
+Ribeira Praia Formosa	16.91667	-25.21667	CV	21
+Ponta da Praia Formosa	16.91667	-25.21667	CV	21
+Ponta Praia de Po	14.98333	-24.65	CV	02
+Praia Branca	16.65	-24.4	CV	27
+Praia Baixo	15.06667	-23.48333	CV	17
+Porto da Praia	14.91053	-23.50525	CV	14
+Ponta da Praia	16.76667	-24.8	CV	11
+Concelho da Praia	14.95	-23.51667	CV	14
+Praia	14.93152	-23.51254	CV	14
+Povoacao Velha	16.03333	-22.91667	CV	01
+Porto Rincao	15.0623	-23.76519	CV	15
+Porto Novo	17.01969	-25.06471	CV	21
+Porto Gouveia	14.93333	-23.68333	CV	23
+Porto dos Mosteiros	15.03333	-24.33333	CV	13
+Ponta do Portinho	17.1	-25.35	CV	21
+Ponta do Portinho	16.58333	-24.4	CV	27
+Portal	15.25	-23.71667	CV	20
+Ponta Pontona	15.26667	-23.11667	CV	04
+Pontinha	17.12289	-24.99131	CV	05
+Pontinha	16.88333	-25	CV	11
+Ponta Sao Francisco	14.98333	-23.5	CV	14
+Ponta do Sol	17.19942	-25.09192	CV	07
+Ponta da Cruz	16.75	-24.75	CV	11
+Ribeira da Ponta Branca	16.78333	-24.8	CV	11
+Ponta Adiante	16.18333	-22.85	CV	01
+Pombas	17.15026	-25.02007	CV	05
+Ponta da Poca Grande	15.11667	-23.15	CV	04
+Ponta de Espequinho	16.8	-24.78333	CV	11
+Ribeira das Pipas	16.98333	-25.11667	CV	21
+Ponta Pipa	15.33333	-23.16667	CV	04
+Pinto	17.08333	-25.16667	CV	21
+Pinchossa	15.16667	-23.6	CV	19
+Ponta de Pilao Cao	15.21667	-23.61667	CV	19
+Ponta Pila Cana	14.96667	-23.46667	CV	14
+Picos	15.0836	-23.63236	CV	26
+Serra do Pico de Antonia	15.05	-23.65	CV	00
+Ribeira do Pico	14.93333	-24.51667	CV	18
+Pico	14.93333	-24.35	CV	24
+Monte Pia	17.03333	-25.28333	CV	21
+Ponta do Pesqueiro Vermelho	15.23333	-23.1	CV	04
+Ponta do Pesqueiro Fundo	16.91667	-25.3	CV	21
+Ponta do Pesqueiro	14.96667	-24.5	CV	18
+Ponta do Pescadeiro	14.8	-24.38333	CV	24
+Perdia	17.1	-25.03333	CV	21
+Calheta Pequena	16.86667	-25.08333	CV	11
+Penteada	14.88333	-24.46667	CV	18
+Penha de Franca	17.18888	-25.07323	CV	07
+Ponta Pendura	15.11667	-23.78333	CV	15
+Ponta do Peixinho	17.01667	-25.06667	CV	21
+Pedro Vaz	15.25	-23.13333	CV	04
+Monte Pedroso	15.16667	-23.75	CV	15
+Ponta Pedrinha	16.95612	-25.15128	CV	21
+Cha de Pedrinha	16.96667	-25.15	CV	21
+Pedrinha	16.96667	-25.15	CV	21
+Ponta Pedrenau	15.31667	-23.13333	CV	04
+Ribeira das Pedras	16.58333	-24.4	CV	27
+Monte Pedra Rolada	16.88333	-24.98333	CV	11
+Porto de Pedra Lume	16.75	-22.88333	CV	08
+Pedra Lume	16.76376	-22.89349	CV	08
+Porto de Pedra Badejo	15.13333	-23.55	CV	16
+Ponta Pe do Banco	16.05	-22.68333	CV	01
+Ponta da Peca	16.91667	-25.3	CV	21
+Ponta do Pau Seco	15.25	-23.25	CV	04
+Ribeira do Paul	17.14875	-25.01833	CV	05
+Porto do Paul	17.15769	-25.01829	CV	07
+Concelho do Paul	17.11667	-25.01667	CV	05
+Ponta Pau de Bandeira	17.16667	-25.2	CV	07
+Pau	14.85	-24.73333	CV	02
+Patim	14.86667	-24.43333	CV	18
+Ribeira das Patas	16.96667	-25.13333	CV	21
+Ponta Pataca	16.5439	-24.28369	CV	22
+Ponta dos Papagaios de Riba	16.66667	-24.7	CV	11
+Ponta do Papagaio	16.53333	-24.35	CV	27
+Morro Panela	17.05	-25.26667	CV	21
+Baia da Palmeira	16.75	-22.98333	CV	08
+Palmeira	16.75754	-22.98348	CV	08
+Ribeira do Palmarejo Grande	14.9	-23.55	CV	14
+Ponta Palhona	16.85	-22.95	CV	08
+Palha Verde	16.66667	-22.93333	CV	08
+Palhal	16.61667	-24.35	CV	27
+Ribeira de Palha Carga	16.8	-24.95	CV	11
+Ponta de Palha Carga	16.78333	-24.95	CV	11
+Pico Palha Carga	16.8	-24.96667	CV	11
+Palha Carga	15.21667	-23.66667	CV	19
+Pai Joana	15.26667	-23.11667	CV	04
+Pai Amaro	16.03333	-22.73333	CV	01
+Ponta do Padre	14.86667	-24.75	CV	02
+Ponta da Outra Banda	15.01667	-24.46667	CV	18
+Ponta do Osso da Baleia	15.21667	-23.25	CV	04
+Ortelao	16.61667	-24.36667	CV	27
+Orgaos	15.06667	-23.61667	CV	25
+Ponta de Nossa Senhora do Socorro	14.85	-24.46667	CV	18
+Nossa Senhora do Monte	14.85	-24.71667	CV	02
+Porto de Nossa Senhora da Encarnacao	14.88333	-24.5	CV	18
+Ribeira do Norte	16.15	-22.68333	CV	01
+Ponta Norte	16.86667	-22.93333	CV	08
+Baia do Norte	16.9	-24.91667	CV	11
+Nora	15.01667	-23.55	CV	17
+Ponta Nogueira	14.93333	-24.51667	CV	18
+Ribeira do Ninho de Corvo	17.1	-25.33333	CV	21
+Ponta Nho Martinho	14.8	-24.71667	CV	02
+Nha Marco	16.7	-22.95	CV	08
+Baia da Murdeira	16.68333	-22.95	CV	08
+Porto Mosquito	14.95	-23.7	CV	23
+Ponta do Morro Grosso	14.95	-24.65	CV	02
+Ponta do Morro d'Areia	15.15	-23.11667	CV	04
+Ponta Morro d'Areia	16.08333	-22.96667	CV	01
+Ponta do Morro Branco	16.88333	-25.03333	CV	11
+Morro Alto	16.61667	-24.18333	CV	22
+Ponta do Morro	15.18333	-23.25	CV	04
+Morro	15.18333	-23.23333	CV	04
+Ponta do Morrinho Vermelho	16.66667	-22.86667	CV	08
+Morrinho d'Egua	17.1	-25.26667	CV	21
+Ponta do Morrinho Branco	17.05	-25.36667	CV	21
+Ponta do Morrinho	15.28333	-23.25	CV	04
+Morrinho	16.96667	-25.23333	CV	21
+Morrinho	15.26667	-23.23333	CV	04
+Morre Braz	16.63333	-24.2	CV	22
+Ponta Morena	15.25	-23.66667	CV	20
+Ponta Moreia	15.33333	-23.75	CV	20
+Monte Montona	16.85	-25.03333	CV	11
+Montinho	15.21667	-23.71667	CV	20
+Monte Vermelho	14.83333	-24.33333	CV	24
+Baia do Monte Trigo	17.01667	-25.33333	CV	21
+Monte Joana	17.15052	-25.06249	CV	07
+Ribeira Monte Gudja	15.03333	-24.33333	CV	13
+Montao	15.25	-23.71667	CV	20
+Ribeira da Montanha	15.11667	-23.53333	CV	16
+Montanha	15.08333	-23.6	CV	25
+Montagarro	14.95	-23.51667	CV	14
+Ponta Moia Moia	16.85	-22.91667	CV	08
+Moia Moia	15.01667	-23.46667	CV	17
+Moerao	15.25	-23.71667	CV	20
+Mira-Mira	14.96667	-24.45	CV	18
+Mindelo	16.89014	-24.98042	CV	11
+Miguel Pires	17.08333	-25.23333	CV	21
+Ponta da Mezinha	17	-25.31667	CV	21
+Ponta Merenda	16.61667	-24.13333	CV	22
+Meio de Espanha	17.13333	-25.2	CV	07
+Mato Correia	15.2	-23.65	CV	19
+Pico do Mato	17.03333	-25.2	CV	21
+Praia da Matiota	16.88333	-25	CV	11
+Mateuzinho	16.85	-24.93333	CV	11
+Praia dos Mastros	16.8	-24.78333	CV	11
+Massape	15.23333	-23.7	CV	20
+Martiana	17.1	-25.25	CV	21
+Ponta Marigou	16.91667	-24.93333	CV	11
+Ponta Marianinha	17.11667	-25.26667	CV	21
+Mao para Tras	17.18542	-25.06723	CV	07
+Ribeira Manuel Lopes	16.96667	-25.15	CV	21
+Ponta do Manuelinho	16.8	-24.88333	CV	11
+Ponta Manuel Grande	17.01667	-25.35	CV	21
+Achada Monte	15.23333	-23.65	CV	19
+Porto do Mangue	15.23333	-23.65	CV	19
+Ponta da Manga Larga	15.98333	-22.9	CV	01
+Malveira	15.13333	-23.71667	CV	15
+Serra da Malagueta	15.16667	-23.7	CV	15
+Malagueta	15.18333	-23.68333	CV	19
+Ilha de Maio	15.22191	-23.16399	CV	04
+Concelho do Maio	15.21667	-23.16667	CV	04
+Ponta Mae Grande	16.75	-24.68333	CV	11
+Madeiral	16.83333	-24.95	CV	11
+Ponta Machado	16.81667	-25.1	CV	11
+Luzia Nunes	14.86667	-24.45	CV	18
+Ilheu Luis Carneiro	14.96667	-24.66667	CV	02
+Lugar Novo	14.93333	-24.48333	CV	18
+Monte Losna	14.9	-24.38333	CV	24
+Ponta do Lombo Vermelho	16.85	-25.1	CV	11
+Lombo do Mar	17.11667	-25.16667	CV	07
+Lombo de Galinha	17.13333	-25.21667	CV	07
+Lombo de Figueira	17.1	-25.06667	CV	21
+Lombo da Torre	17	-25.21667	CV	21
+Lombo das Dancas	16.98333	-25.21667	CV	21
+Ponta Lombo Cais	17.15	-25.23333	CV	07
+Ribeira do Lobo	15	-23.45	CV	17
+Ponta do Lobo	14.98333	-23.43333	CV	17
+Ponta do Lizardo	16.75	-24.7	CV	11
+Monte Lenhal	17.03333	-25.23333	CV	21
+Ponta do Leme Velho	16.58333	-22.88333	CV	08
+Leiro	17	-25.2	CV	21
+Ponta Leao	16.86667	-25.08333	CV	11
+Lazareto	16.86667	-25.03333	CV	11
+Ribeira Larga	16.08333	-22.86667	CV	01
+Ponta Larga	16.63333	-24.18333	CV	22
+Lapa Cachorro	15.26667	-23.7	CV	20
+Ponta do Lajedo Largo	16.98333	-25.31667	CV	21
+Lajedo dos Espargos	16.73333	-22.93333	CV	08
+Ponta da Laja	16.55	-24.08333	CV	22
+Ponta da Lagoa Atras	15.01667	-24.31667	CV	13
+Lagoa Atras	15.01667	-24.33333	CV	13
+Ribeira da Lagoa	15.25	-23.66667	CV	20
+Lagoa	15.13333	-23.15	CV	04
+Lagarica	14.91667	-24.46667	CV	18
+Monte Ladrao	16.55	-24.31667	CV	27
+Pico Ladeira de Cabra	16.63333	-24.3	CV	22
+Ponta Lacacao	17.18333	-25.15	CV	07
+Ponta Lacacao	15.96667	-22.88333	CV	01
+Ponta Juncalinho	16.61667	-24.15	CV	22
+Juncalinho	16.61667	-24.13333	CV	22
+Ribeira Juliao	16.86667	-25	CV	11
+Ponta de Joaquim Petinha	16.73333	-22.98333	CV	08
+Baia de Joaquim Petinha	16.71667	-22.98333	CV	08
+Ponta Joao Ribeiro	16.9	-25.01667	CV	11
+Porto de Joao Redondo	17.13333	-25.23333	CV	21
+Ponta Joao Redondo	17.15	-25.23333	CV	07
+Baixo Joao Leitao	15.8	-23.18333	CV	00
+Ponta Joao Gomes	16.18333	-22.93333	CV	01
+Joao Galego	16.15	-22.75	CV	01
+Ponta Joao d'Evora	16.91667	-24.96667	CV	11
+Joao Daninha	16.96667	-25.23333	CV	21
+Pico Joao Colo	16.88333	-24.91667	CV	11
+Pico de Joao Claro	17.03333	-25.21667	CV	21
+Ponta da Janela	15.06667	-23.8	CV	15
+Pontinha da Janela	17.12058	-24.99169	CV	05
+Ponta de Jandague	14.9	-23.58333	CV	23
+Ponta Jampala	15.11667	-23.18333	CV	04
+Ponta Jalunga	16.6	-22.88333	CV	08
+Ponta Jalunga	14.88333	-24.68333	CV	02
+Ponta Jagua	14.96667	-23.71667	CV	00
+Monte Jacinto	17.05	-25.25	CV	21
+Italiano	14.96667	-24.46667	CV	18
+Inhuco	14.93333	-24.45	CV	18
+Ponta Inglesa	15.05	-23.45	CV	17
+Porto Ingles	15.13839	-23.21825	CV	04
+Ponta do Incenso	14.9	-24.7	CV	02
+Ilheu	15.2	-23.63333	CV	19
+Igreja	15.03333	-24.33333	CV	13
+Monte Henrique	15.16667	-23.73333	CV	15
+Ilheu do Guisinho	16.75	-24.76667	CV	11
+Ponta da Guine	16.76121	-22.88429	CV	08
+Ribeira do Guincho	14.83333	-24.31667	CV	24
+Ponta do Guincho	16.81667	-25.06667	CV	11
+Ponta do Guincho	16.48481	-24.30635	CV	22
+Ponta do Guincho	15.05	-24.35	CV	13
+Ponta do Guerreiro	17.17801	-25.02326	CV	07
+Ponta Grande da Cidade	14.91667	-23.63333	CV	23
+Ribeira Grande	17.18433	-25.06941	CV	07
+Praia Grande	16.86667	-24.9	CV	11
+Porto Grande	16.88866	-25.0102	CV	11
+Ponta Grande	16.47942	-24.31538	CV	22
+Ilheu Grande	14.96667	-24.7	CV	02
+Ponta Grajona	16.73333	-24.71667	CV	11
+Monte Graciosa	15.3	-23.76667	CV	20
+Goa Baixo	16.85	-24.9	CV	11
+Goa Alto	16.85	-24.91667	CV	11
+Ponta de Gi	17.13406	-25.0072	CV	05
+Ponta de Geneanes	14.98333	-23.75	CV	15
+Baia das Gatas	16.2	-22.71667	CV	01
+Gatas	16.9	-24.91667	CV	11
+Gata	16.2	-22.71667	CV	01
+Ponta da Garca	14.98333	-24.48333	CV	18
+Garca	14.86667	-24.7	CV	02
+Morros Gamboeza	17.03333	-25.16667	CV	21
+Galinheiro	15	-24.45	CV	18
+Morro do Galheteiro	17.1	-25.1	CV	21
+Ilheu do Galeao	16.21667	-22.71667	CV	01
+Baixo Galeao	15.35	-23.16667	CV	04
+Baia do Galeao	15.31667	-23.16667	CV	04
+Ponta da Furna da Rosa	16.85	-25.08333	CV	11
+Porto da Furna	14.88597	-24.67854	CV	02
+Furna	14.887	-24.68093	CV	02
+Ponta Furada	14.81667	-24.43333	CV	18
+Fundura	15.16667	-23.7	CV	15
+Ribeira Fundo de Pangojo	16.63333	-24.43333	CV	27
+Morro Fundo de Casa Velha	16.98333	-25.23333	CV	21
+Fundo das Figueiras	16.15	-22.73333	CV	01
+Baia das Fundas	17.15	-25.23333	CV	07
+Ponta Fundao	14.96667	-24.3	CV	13
+Calheta Funda	16.65	-22.95	CV	08
+Ponta da Fragata	16.9	-24.91667	CV	11
+Ponta da Fragata	16.65	-22.88333	CV	08
+Ilheu da Fragata	16.63333	-22.88333	CV	08
+Ribeira do Forno	14.85	-24.48333	CV	18
+Forno	14.88333	-24.45	CV	18
+Porto Formoso	15.25	-23.68333	CV	20
+Ponta das Formiguinhas	17.2	-25.11667	CV	07
+Pedra de Fora	17.15	-25.01667	CV	05
+Cha de Fontinha	16.95	-25.3	CV	21
+Ribeira Fonte de Lajedo	17	-25.31667	CV	21
+Fonte Aleixo	14.83333	-24.36667	CV	24
+Ponta das Fontainhas	17.2	-25.1	CV	07
+Monte Fontainhas	14.85039	-24.70345	CV	02
+Fontainhas	17.18333	-25.1	CV	07
+Fontainhas	16.58333	-24.33333	CV	27
+Fogao	16.08333	-22.85	CV	01
+Ponta do Focinho	15.3	-23.11667	CV	04
+Ponta Flamenguinhos	16.8	-25.05	CV	11
+Monte Flamenguinhos	16.81667	-25.05	CV	11
+Ribeira dos Flamengos	15.18333	-23.6	CV	19
+Ribeira Flamengos	16.8	-25.05	CV	11
+Ponta dos Flamengos	15.16667	-23.1	CV	04
+Ponta Flamengos	16.8	-25.06667	CV	11
+Baia de Fiura	16.85	-22.91667	CV	08
+Fiura	16.85	-22.91667	CV	08
+Fio do Monte Vermelho	15.05	-24.38333	CV	13
+Ribeira Fio de Pedra	16.83333	-24.96667	CV	11
+Figueira Seca	15.15	-23.15	CV	04
+Figueiras de Cimas	17.13333	-25.2	CV	07
+Figueiras de Baixo	17.15	-25.21667	CV	07
+Figueira Pavao	14.87113	-24.31103	CV	24
+Baia da Figueira Lapa	15.26667	-23.11667	CV	04
+Figueira de Coxe	16.63333	-24.21667	CV	22
+Figueira das Naus	15.18333	-23.73333	CV	15
+Figueira da Horta	15.15	-23.15	CV	04
+Monte Figueira	17.05	-25.28333	CV	21
+Ponta do Fidalgo	16.48333	-24.33333	CV	27
+Porto dos Ferreiros	14.83333	-24.75	CV	02
+Porto Ferreira	16.11667	-22.68333	CV	01
+Ponta Fendida	14.83333	-24.45	CV	18
+Ribeira do Feijoal	16.75	-22.9	CV	08
+Feijoal	16.75	-22.9	CV	08
+Monte Feijao Branco	17.1	-25.21667	CV	21
+Monte Feada	17.01667	-25.23333	CV	21
+Fazenda Real	16.86667	-24.95	CV	11
+Ribeira da Fazenda	15.31667	-23.76667	CV	20
+Ponta da Fazenda	15.31667	-23.78333	CV	20
+Ponta Fateixa	16.86667	-25.08333	CV	11
+Baia da Fateixa	16.86667	-25.06667	CV	11
+Fanade	17.13333	-25.16667	CV	07
+Fajazinha	17.15	-25.16667	CV	07
+Fajazinha	15.05	-24.35	CV	13
+Ribeira da Faja	16.66667	-24.33333	CV	22
+Porto da Faja	14.86667	-24.75	CV	02
+Ponta da Faja	14.85	-24.3	CV	24
+Faja	14.86667	-24.75	CV	02
+Ponta do Facho	14.93333	-23.48333	CV	14
+Ribeira Estancia Velha	16.58333	-24.03333	CV	22
+Estancia Bras	16.66667	-24.31667	CV	22
+Ponta do Espinho Verde	14.83333	-24.45	CV	18
+Espingueira	16.21667	-22.8	CV	01
+Ponta do Espia	16.73333	-24.75	CV	11
+Ponta Espechim	16.68333	-24.33333	CV	22
+Baixa do Espechim	16.68333	-24.35	CV	27
+Espadana	17.1	-25.16667	CV	07
+Ponta Esmargalsinho	16.6	-24.58333	CV	11
+Esgamaleiro	17.11667	-25.15	CV	07
+Ponta de Escuna	16.18333	-22.93333	CV	01
+Ribeira do Escorregadouro	17.03333	-25.13333	CV	21
+Ribeira de Escadeado	17.01667	-25.31667	CV	21
+Escada	16.58333	-24.36667	CV	27
+Escabecada de Baixo	17.13333	-25.15	CV	07
+Escabecada	17.13333	-25.15	CV	07
+Monte Erva Doce	17.05	-25.3	CV	21
+Ponta Entre Picos	16.86667	-25.06667	CV	11
+Baia Entre Picos	16.88333	-25.06667	CV	11
+Endriano	17.11667	-25.18333	CV	07
+Monte Duarte	14.91667	-24.41667	CV	24
+Ponta Domingos Nunes	17.08333	-25.35	CV	21
+Morros Domingos dos Santos	17.01667	-25.26667	CV	21
+Ponta Dezabaixo	17.16667	-25.2	CV	07
+Derrubado	16.23333	-22.8	CV	01
+Ponta Delgado	16.55	-24.11667	CV	22
+Ponta Delgada	16.65	-24.66667	CV	11
+Dacabalaio	14.8562	-24.33188	CV	24
+Ribeira do Curral Velho	16.91667	-25.2	CV	21
+Ponta do Curral Velho	16.63333	-24.28333	CV	22
+Curral Velho	15.98333	-22.8	CV	01
+Porto do Curralinho	15.98333	-22.9	CV	01
+Ponta do Curral do Bode	16.01667	-22.95	CV	01
+Curral das Vacas	17.05	-25.23333	CV	21
+Curral Branco	16.03333	-22.8	CV	01
+Curral	17.16667	-25.11667	CV	07
+Porto de Cumba	15.1	-23.51667	CV	16
+Baia da Cruzinha	17.16667	-25.18333	CV	07
+Cruzinha	17.16667	-25.16667	CV	07
+Cruz do Pe do Verde	16.88333	-24.95	CV	11
+Ponta Cruz de Pau	16.93333	-25.16667	CV	21
+Ponta Cruz de Graca	16.96667	-25.16667	CV	21
+Ponta da Cruz	17.05	-25.01667	CV	21
+Pico da Cruz	17.10388	-25.03149	CV	05
+Monte Cruz	14.91667	-24.35	CV	24
+Ribeira de Coxe	16.65	-24.23333	CV	22
+Ribeira Coxa de Baleia	14.95	-24.3	CV	00
+Covoada	16.65	-24.35	CV	22
+Ponta da Covinha	15.03333	-23.75	CV	15
+Cova Figueira	14.89054	-24.29343	CV	24
+Ponta Cova do Mar	14.81667	-24.68333	CV	02
+Ribeira Covada Soca	16.55	-24.08333	CV	22
+Ponta da Costa	15.31667	-23.7	CV	20
+Monte Costa	15.31667	-23.71667	CV	20
+Ponta Cosme	16.03333	-22.7	CV	01
+Ponta do Corvo	15	-24.31667	CV	13
+Corvo	17.2	-25.11667	CV	07
+Corvo	15	-24.31667	CV	13
+Ribeira da Corujinha	17.01667	-25.08333	CV	21
+Ponta Coruja	16.65	-24.21667	CV	22
+Tope de Coroa	17.03333	-25.28333	CV	21
+Ponta da Coroa	15.13333	-23.51667	CV	16
+Porto Coqueiro	15.15	-23.56667	CV	16
+Ribeira do Concelho	14.83333	-24.45	CV	18
+Ponta da Coluna	16.91667	-25	CV	11
+Cirio	17.06667	-25.23333	CV	21
+Ilheu de Cima	14.96667	-24.65	CV	02
+Cidade Velha	14.91667	-23.61667	CV	23
+Ribeira da Cidade	14.91667	-23.61667	CV	23
+Praia da Chave	16.1	-22.91667	CV	01
+Porto da Chave	16.11667	-22.93333	CV	01
+Charco	15.13333	-23.75	CV	15
+Chao Queimado	17.08333	-25.2	CV	21
+Ponta Chao Grande	16.65	-24.3	CV	22
+Ribeira do Chao do Madeiral	16.83333	-24.91667	CV	11
+Ribeira Chao de Sao Pedro	16.81667	-25.08333	CV	11
+Ponta do Chao de Mangrade	17.06667	-25.36667	CV	21
+Ponta do Chao Bom	15.25	-23.76667	CV	20
+Baia do Chao Bom	15.25	-23.76667	CV	20
+Ilheus do Chano	16.7	-22.88333	CV	08
+Ribeira da Cha dos Penedos	16.76667	-24.76667	CV	11
+Cha do Norte	17.11667	-25.26667	CV	21
+Cha do Morto	17.05	-25.21667	CV	21
+Cha de Vazinha	17.15	-25.2	CV	07
+Cha de Queimada	17.15	-25.2	CV	07
+Ribeira Cha de Pedra	17.16667	-25.1	CV	07
+Cha de Paulo	17.15	-25.2	CV	07
+Cha de Figueiras	15.18333	-23.71667	CV	15
+Cha de Dentro	15.23333	-23.68333	CV	20
+Cha da Ribeira	17.11667	-25.26667	CV	21
+Cha da Igreja	17.16667	-25.16667	CV	07
+Chacha	15.2	-23.66667	CV	19
+Ponta Cha	17.11667	-25.26667	CV	21
+Castilhiano	16.58333	-24.05	CV	22
+Ponta Cascavelho	16.8	-25.03333	CV	11
+Cascabulho	15.26667	-23.18333	CV	04
+Ponta das Casas Velhas	15.11667	-23.2	CV	04
+Ponta das Casas	16.96667	-25.13333	CV	21
+Casa do Cabo Submarino	16.81667	-25.06667	CV	11
+Ponta da Casaca	16.83333	-22.88333	CV	08
+Carvoeiros	16.65	-24.31667	CV	22
+Carrical	16.55	-24.08333	CV	22
+Ponta Carreto	16.1	-22.66667	CV	01
+Achada Carreira	15.28333	-23.73333	CV	20
+Ponta do Carneiro Branco	15.08333	-23.5	CV	16
+Monte Carneiro	17.03333	-25.26667	CV	21
+Ribeira dos Cardos	16.53333	-24.35	CV	27
+Monte Cara	16.86667	-25.05	CV	11
+Republic of Cabo Verde	16	-24	CV	00
+Porto do Canto	16.16667	-22.7	CV	01
+Ponta Cantinho	16.63333	-24.2	CV	22
+Ponta Canjana	17.06667	-25.36667	CV	21
+Ponta Canjana	16.83333	-25.1	CV	11
+Ribeira do Canico Grande	14.91667	-23.65	CV	23
+Ribeira do Canico	14.91667	-23.63333	CV	23
+Pico Canelinho	16.91667	-24.98333	CV	11
+Ponta Camelo	14.95	-24.7	CV	02
+Camaroes	16.66667	-24.35	CV	22
+Ponta Camarina	16.93333	-25.31667	CV	21
+Ponta Calhetinha	17.16667	-25.16667	CV	07
+Porto da Calheta Grande	16.78333	-24.96667	CV	11
+Ponta Calheta Grande	16.78333	-24.96667	CV	11
+Tope Calheta	16.86667	-25.06667	CV	11
+Ribeira da Calheta	16.78333	-24.96667	CV	11
+Porto da Calheta	15.2	-23.6	CV	19
+Ponta da Calheta	17.2	-25.08333	CV	07
+Ponta da Calheta	16.98333	-25.11667	CV	21
+Ponta Calheta	16.56667	-24.01667	CV	22
+Pico da Calheta	16.78333	-24.98333	CV	11
+Espigao da Calheta	17.03333	-25.03333	CV	21
+Calheta	15.21667	-23.23333	CV	04
+Calheta	15.18613	-23.59228	CV	19
+Ribeira dos Calhaus	16.6	-24.41667	CV	27
+Ribeira do Calhau	16.85	-24.88333	CV	11
+Porto Calhau	16.85	-24.86667	CV	11
+Ponta do Calhau	17.09477	-24.96747	CV	05
+Ponta do Calhau	16.86667	-24.86667	CV	11
+Calhau	16.85	-24.86667	CV	11
+Calejao	16.6	-24.31667	CV	27
+Monte Caldeirinha	16.56667	-24.06667	CV	22
+Cha das Caldeiras	14.93333	-24.36667	CV	18
+Tope do Caladouro	16.78333	-24.76667	CV	11
+Ponta Cajau Grande	14.88333	-24.75	CV	02
+Tope de Caixa	16.81667	-25	CV	11
+Ponta Cais dos Fortes	16.9	-25.2	CV	21
+Ponta Cais	15.33333	-23.18333	CV	04
+Ribeira dos Caibos	17.15	-25.13333	CV	07
+Ponta do Cagarral	17.2	-25.08333	CV	07
+Baia do Cagado	16.81667	-22.9	CV	08
+Caculi	17.16667	-25.1	CV	07
+Ponta Cacimba	16.55	-24.36667	CV	27
+Ponta Cachorro	16.65	-24.23333	CV	22
+Cachaco	17.05	-25.2	CV	21
+Cachaco	14.83333	-24.7	CV	02
+Cachacinho	16.6	-24.31667	CV	27
+Cabeco dos Tarafes	16.13333	-22.73333	CV	01
+Ribeira Cabeco do Portinho	16.91667	-25.25	CV	21
+Ribeira da Cabeca Preta	14.81667	-24.4	CV	18
+Cabecalinho	16.6	-24.31667	CV	27
+Cabecadas	16.11667	-22.9	CV	01
+Buracona	16.8	-23	CV	08
+Monte Bula	14.9	-24.33333	CV	24
+Ponta do Bufadouro	17.17041	-25.01848	CV	07
+Ponta Brouco	16.63333	-24.43333	CV	27
+Monte Brianda	15.11667	-23.75	CV	15
+Ribeira do Brejo	17	-25.1	CV	21
+Ponta do Brejo	17	-25.1	CV	21
+Ilha Brava	14.84873	-24.70525	CV	02
+Concelho da Brava	14.86667	-24.7	CV	02
+Morro Branco	16.96667	-25.25	CV	21
+Ilheu Branco	16.65	-24.68333	CV	11
+Ponta Branca	17.1	-25.31667	CV	21
+Ponta Branca	16.91667	-25.23333	CV	21
+Ponta Branca	16.78333	-24.8	CV	11
+Ponta Branca	15.31667	-23.2	CV	04
+Laje Branca	15.31667	-23.15	CV	04
+Botija	17.05	-25.33333	CV	21
+Ponta Botelha	16.88333	-25.06667	CV	11
+Bonita	17.08333	-25.31667	CV	21
+Bomfim	16.7	-22.9	CV	08
+Ponta Bomba	15.01667	-23.43333	CV	17
+Ilheu do Boi	17.13333	-24.98333	CV	05
+Bofareira	16.18333	-22.83333	CV	01
+Ribeira dos Bodes	16.98333	-25.11667	CV	21
+Ponta Boca Ribeira dos Orgaos	17.2	-25.08333	CV	07
+Ponta da Boca do Mocho	17.18333	-25.16667	CV	07
+Ponta da Boca do Alto Mira	17.13333	-25.23333	CV	21
+Ponta da Boca da Ribeira	15.25	-23.1	CV	04
+Ilha da Boa Vista	16.08333	-22.83333	CV	01
+Concelho da Boa Vista	16.08333	-22.83333	CV	01
+Boa Ventura	16.13333	-22.9	CV	01
+Biscainhos	15.25	-23.7	CV	20
+Ponta das Bicudas	14.9	-23.48333	CV	14
+Ponta da Bicuda	16.76699	-22.98958	CV	08
+Ponta Bicuda	15.33333	-23.71667	CV	20
+Cha de Besta	17.06667	-25.21667	CV	21
+Baia Berreiros	16.55	-24.06667	CV	22
+Ponta Belcher	14.81667	-24.33333	CV	24
+Achada Bel Bel	15.15	-23.6	CV	16
+Bela Vista	16.8	-22.96667	CV	08
+Ribeira da Beirona	16.66667	-22.95	CV	08
+Beirona	16.68333	-22.93333	CV	08
+Ponta Banconi	15.16667	-23.25	CV	04
+Ilheu do Baluarte	16.15	-22.66667	CV	01
+Baluarte	15	-24.4	CV	18
+Ponta da Baleia	16.61667	-24.61667	CV	11
+Baleia	14.85	-24.7	CV	02
+Ponta da Baixona	14.98333	-24.48333	CV	18
+Monte de Baixo	16.93333	-25.3	CV	21
+Baboso	16.98333	-25.2	CV	21
+Monte Babosa	14.93333	-23.55	CV	14
+Ponta do Atum	16.95	-25.31667	CV	21
+Ponta do Atum	15.05	-23.78333	CV	15
+Atalaia	15.03333	-24.4	CV	13
+Assomada	15.1	-23.68333	CV	15
+Monte Arranha Perna	17.01667	-25.26667	CV	21
+Ribeira das Areias	17.07029	-24.98526	CV	21
+Ponta das Areias	17.11667	-25.3	CV	21
+Areia Branca	16.9	-24.96667	CV	11
+Ponta da Areia	14.89187	-24.50264	CV	18
+Ilheu da Areia	14.88333	-24.73333	CV	02
+Ponta Araujo	16.78333	-25.01667	CV	11
+Pico Araujo	16.78333	-25	CV	11
+Ponta Antonio Mato	15.1	-23.78333	CV	15
+Monte Antonio Gomes	16.88333	-24.93333	CV	11
+Ponta da Antoninha	14.95	-24.3	CV	00
+Ponta Antonia	16.23333	-22.8	CV	01
+Pico da Antonia	15.05107	-23.63563	CV	00
+Baia d'Angra	15.3	-23.7	CV	20
+Ribeira Andre Col	17.05	-25	CV	21
+Amador	16.11667	-22.83333	CV	01
+Ponta da Alvacora	16.75	-22.98333	CV	08
+Ribeira do Alto Mira	17.13333	-25.23333	CV	21
+Ponta Alto do Conde	16.6	-24.05	CV	22
+Ponta do Alto da Burra Branca	14.81667	-24.73333	CV	02
+Ponta do Altar	16.8	-23	CV	08
+Ponta do Altar	16.21667	-22.76667	CV	01
+Ribeira Alta	17.15	-25.2	CV	07
+Ponta do Almeire	17.15	-25.21667	CV	07
+Ponta do Algodoeiro	16.8	-24.8	CV	11
+Cha do Algodoeiro	16.8	-24.78333	CV	11
+Baia do Algodoeiro	16.61667	-22.95	CV	08
+Ponto do Alcatraz	14.83333	-24.31667	CV	24
+Ponta do Alcatraz	14.93333	-23.68333	CV	23
+Ponta do Alcatraz	14.83333	-24.31667	CV	24
+Alcatraz	15.21667	-23.11667	CV	04
+Ribeira de Aguas Belas	15.1	-23.76667	CV	15
+Praia de Agua Doce	16.78333	-22.9	CV	08
+Ponta d'Agua Doce	15.18333	-23.78333	CV	15
+Ponta da Aguadinha	16.65	-24.41667	CV	27
+Agua das Fortes	16.96667	-25.21667	CV	21
+Ribeira da Agua Amargosa	17.1	-25.26667	CV	21
+Baia da Agua Amargosa	16.6	-24.05	CV	22
+Ponta Agua	16.49021	-24.30504	CV	22
+Achadinha	15.23333	-23.71667	CV	20
+Ponta da Achada Leite	15.11667	-23.78333	CV	15
+Achada Grande	14.98333	-24.31667	CV	13
+Porto da Achada da Baleia	15.05	-23.48333	CV	17
+Ponta da Achada da Baleia	15.05	-23.45	CV	17
+Achada Baleia	15.05	-23.48333	CV	17
+Concelho dos Mosteiros	15	-24.35	CV	13
+Concelho de Santa Cruz	15.1	-23.56667	CV	16
+Concelho de Sao Domingos	15.01667	-23.53333	CV	17
+Concelho do Sao Filipe	14.93333	-24.43333	CV	18
+Concelho de Sao Miguel	15.2	-23.65	CV	19
+San Pedro	16.83326	-25.05552	CV	
+Concelho do Porto Novo	17.01667	-25.2	CV	21
+Concelho da Ribeira Brava	16.61667	-24.2	CV	22
+Concelho de Santa Catarina do Fogo	14.9	-24.33333	CV	24
+Concelho de Sao Salvador do Mundo	15.08333	-23.63333	CV	26
+Concelho do Tarrafal de Sao Nicolau	16.6	-24.35	CV	27
+Sao Lourenco dos Orgaos	15.06667	-23.6	CV	25
+Concelho de Ribeira Grande de Santiago	14.98333	-23.65	CV	23
+Maio	15.21529	-23.16055	CV	04
+Cachaco	16.62057	-24.3354	CV	
+Faja de Baixo	16.64869	-24.32373	CV	
+Playa Santa Monica / Praia Lacacao	15.97783	-22.83199	CV	01
+Casa do Meio	17.00716	-25.13362	CV	21
+Ribeira Torta	16.94765	-25.15911	CV	21
+Ponta de Achada Baleia	15	-23	CV	
+Beirinha do Cornudo	16.77163	-24.78652	CV	11
+Ponta da Ribeira do Ladrao	16.62082	-24.57213	CV	11
+Ponta do Morro	16.65513	-24.41908	CV	27
+Baia Gombeza	16.55181	-24.08812	CV	22
+Baia Forcado	16.53797	-24.28622	CV	22
+Ponta da Dobradeira	16.48194	-24.32632	CV	22
+Baia da Parda	16.73307	-22.89526	CV	08
+Calhentinha	16.80513	-22.89966	CV	08
+Ponta da Ribeira da Baia	15.19563	-23.08909	CV	04
+Ribeira do Morro	15.18239	-23.23315	CV	04
+Ribeira Sololo	15.27729	-23.20686	CV	04
+Ribeira da Renca	16.14089	-22.72148	CV	01
+Baia da Medrohno	15.33205	-23.72075	CV	20
+Joao Teves	15.06457	-23.58969	CV	25
+Pedra Badejo	15.13493	-23.53215	CV	16
+Pilao	15.1253	-23.77104	CV	15
+Ribeira de Cuba	15.22781	-23.75016	CV	00
+Ribeira de Santa Cruz	15.15152	-23.55644	CV	00
+Ribeira dos Picos	15.1308	-23.5263	CV	00
+Ribeira de Sao Domingos	15.05246	-23.46444	CV	17
+Baia do Rabil	14.97396	-24.69189	CV	02
+Espargos	16.75524	-22.9446	CV	08
+Paria de Chaves	16.1007	-22.92524	CV	01
+Baia de Tarrafal	15.28199	-23.76931	CV	20
+Oasis Atlantico Belorizonte	16.59812	-22.91266	CV	
+Residencial Beleza	16.8745	-24.9955	CV	
+Da Luz	16.6	-22.907	CV	
+Sabura	16.6067	-22.9111	CV	
+Murdeira Village	16.67695	-22.9361	CV	
+Porto Antigo	16.597	-22.903	CV	
+Apartamentos Porto Antigo	16.59669	-22.90378	CV	
+Pedracin Village	17.18333	-25.06235	CV	
+Royal Decameron Boa Vista	16.11859	-22.90638	CV	
+Parque Das Dunas Village	16.12619	-22.90563	CV	
+Oasis Atlantico Porto Grande	16.88949	-24.98761	CV	
+Residencial Santa Maria	14.91912	-23.50726	CV	
+Residencial Praia Maria	14.9198	-23.50822	CV	
+Pestana Tropico	15.08526	-23.62046	CV	
+Oasis Atlantico Praia Mar	15.08526	-23.62046	CV	
+Les Alizes	16.59441	-22.92435	CV	
+Santos Pina	14.89565	-24.49891	CV	
+Oasis Salinas Sea	16.59832	-22.911	CV	
+Riu Touareg	15.97789	-22.81879	CV	
+Por Do Sol	16.18414	-22.91657	CV	
+Cagreta	16.17185	-22.9143	CV	
+Jenny	16.89058	-24.98072	CV	
+Quinta Da Montanha	15.03521	-23.60004	CV	
+Oasis Atlantico Praiamar	14.921	-23.519	CV	
+Limeira	14.91118	-23.5664	CV	
+Sobrado	16.60037	-22.90917	CV	
+Nha Terra	16.59803	-22.90589	CV	
+Central	16.59817	-22.9033	CV	
+Spingueira	16.20935	-22.79978	CV	
+Luca Kalema	16.17218	-22.91427	CV	
+Pensao Nha Terra	16.59817	-22.90599	CV	

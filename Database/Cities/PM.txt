@@ -1,0 +1,496 @@
+Saint-Pierre et Miquelon	46.83333	-56.33333	PM	00
+Ile Saint-Pierre	46.78819	-56.19035	PM	00
+Saint-Pierre	46.77914	-56.1773	PM	97502
+Commune de Saint-Pierre	46.78333	-56.2	PM	97502
+Pointe Plate	46.8219	-56.40349	PM	00
+Cap Perce	46.88544	-56.24932	PM	00
+Commune de Miquelon-Langlade	47.0458	-56.32553	PM	97501
+Ile Miquelon	46.96639	-56.32778	PM	00
+Cap du Nid a l'Aigle	47.13972	-56.34861	PM	00
+Miquelon	47.0975	-56.38139	PM	97501
+Ile aux Marins	46.78705	-56.14847	PM	00
+Isthme de Langlade	46.92346	-56.32642	PM	00
+Langlade	46.84723	-56.31939	PM	00
+Pointe du Diamant	46.7513	-56.22152	PM	00
+Pointe du Ouest	46.78296	-56.35014	PM	00
+Pointe Blanche	46.7546	-56.17544	PM	00
+Tete du Petit Havre	46.75657	-56.17622	PM	00
+Bonnier	46.75555	-56.18802	PM	00
+Petit Havre	46.76109	-56.1713	PM	00
+La Langue	46.75999	-56.17135	PM	00
+Etang Bonnier	46.75969	-56.18774	PM	00
+Basses de la Tournioure	46.74856	-56.18641	PM	00
+Basse des Grappins	46.75158	-56.14969	PM	00
+Basse de la Marne	46.7325	-56.23333	PM	00
+Le Diamant	46.74965	-56.222	PM	00
+Le Caillou a Patate	46.75061	-56.22557	PM	00
+Anse a la Chaudiere	46.75292	-56.22599	PM	00
+Basse de la Brebis	46.75092	-56.2384	PM	00
+Roche la Perle	46.75243	-56.2334	PM	00
+Basse du Belier	46.75243	-56.24622	PM	00
+La Ferme Dugue	46.75876	-56.21924	PM	00
+Anse de Savoyard	46.76163	-56.23108	PM	00
+Basse de Savoyard	46.76207	-56.24553	PM	00
+Pointe de Savoyard	46.76425	-56.24177	PM	00
+Anse a Brossard	46.7669	-56.23694	PM	00
+Cap a Brossard	46.76817	-56.23448	PM	00
+Cap a la Vierge	46.76797	-56.2322	PM	00
+Etang des Laveuses	46.76429	-56.23182	PM	00
+Etang de Savoyard	46.76304	-56.2219	PM	00
+Anse a Marc Cadet	46.76087	-56.21092	PM	00
+Cap aux Basques	46.76283	-56.20561	PM	00
+Pointe aux Basques	46.76048	-56.203	PM	00
+Anse a Ravenel	46.76437	-56.19522	PM	00
+Etang Jourdan	46.76508	-56.18528	PM	00
+Etangs Jumelles	46.76336	-56.18449	PM	00
+Etang des Herbiers	46.76324	-56.17898	PM	00
+Etang du Cap Noir	46.76479	-56.16738	PM	00
+Les Flacous	46.76063	-56.16197	PM	00
+Les Grappinots	46.75884	-56.15109	PM	00
+Ile aux Chasseurs	46.76186	-56.15439	PM	00
+Tete de Galantry	46.76476	-56.15781	PM	00
+Basse de l'Indre	46.76628	-56.1481	PM	00
+Cap Noir	46.76767	-56.15045	PM	00
+Caillou au Chat	46.76756	-56.13816	PM	00
+Basse Gelin	46.77084	-56.13074	PM	00
+Tete Sud de Gelin	46.76827	-56.13069	PM	00
+Anse a l'Allumette	46.7715	-56.15737	PM	00
+La Pointe	46.77497	-56.15759	PM	00
+Rocher a Bertrand	46.77712	-56.15562	PM	00
+Anse a Bertrand	46.77554	-56.16091	PM	00
+Basse du Saint-Louis	46.77556	-56.1625	PM	00
+Basse Clorinde	46.77892	-56.15043	PM	00
+Ile au Massacre	46.78588	-56.15827	PM	00
+Basse Bataille	46.77651	-56.13986	PM	00
+Les Cailloux de Terre	46.77847	-56.11704	PM	00
+Petite Basse	46.78298	-56.10902	PM	00
+L'Enfant Perdu	46.78473	-56.11243	PM	00
+Grande Basse	46.7864	-56.10777	PM	00
+Ilot Noir	46.79464	-56.11745	PM	00
+Ile Pelee	46.78788	-56.12667	PM	00
+Ile aux Vainqueurs	46.79069	-56.12842	PM	00
+Cap a la Chevre	46.7929	-56.12752	PM	00
+Rocher Plat	46.79413	-56.12599	PM	00
+Ile aux Pigeons	46.79659	-56.1319	PM	00
+Rocher Hache	46.79636	-56.1256	PM	00
+Les Canailles	46.79897	-56.12942	PM	00
+Cailloux Sabot	46.79287	-56.14019	PM	00
+Cap a Gordon	46.79227	-56.13936	PM	00
+Basse de la Marie-Rose	46.78756	-56.13981	PM	00
+Anse a Trehouard	46.79057	-56.14476	PM	00
+Le Fort	46.79048	-56.14799	PM	00
+Le Fletan	46.78713	-56.15221	PM	00
+La Pointe	46.78396	-56.15619	PM	00
+La Rade	46.7891	-56.15849	PM	00
+Basse de la Zoe	46.78713	-56.16644	PM	00
+Ile aux Moules	46.77902	-56.16462	PM	00
+Pointe aux Canons	46.78137	-56.16621	PM	00
+Digue de Terre-Plain	46.77618	-56.16962	PM	00
+Etang Boulot	46.77326	-56.18011	PM	00
+Le Rond-Point	46.77193	-56.19301	PM	00
+Vigie	46.77936	-56.19827	PM	00
+Etang Goeland	46.77769	-56.21488	PM	00
+Bois du Goeland	46.77754	-56.21186	PM	00
+Etang de la Vigie	46.7812	-56.20191	PM	00
+Bois de la Vigie	46.78221	-56.1981	PM	00
+Pain de Sucre	46.78221	-56.18798	PM	00
+Etang de Richepomme	46.78415	-56.20898	PM	00
+Etang de la Demoiselle	46.78494	-56.20104	PM	00
+Etang Bizeuil	46.77177	-56.22643	PM	00
+Crique a Bizeuil	46.77323	-56.22987	PM	00
+La Verrue	46.77327	-56.22568	PM	00
+Etang du Bois Brule	46.77524	-56.2196	PM	00
+Etang a Job	46.77869	-56.22002	PM	00
+Les Cailloux Rouges	46.78483	-56.22108	PM	00
+Etang Fanche	46.78581	-56.1839	PM	00
+Etang de la Caserne	46.79078	-56.18855	PM	00
+Etang Thelot	46.79225	-56.1693	PM	00
+Etang du Pied de Montagne	46.7938	-56.17263	PM	00
+Les Sept Etangs	46.79287	-56.17098	PM	00
+Anse a Pierre	46.7965	-56.20944	PM	00
+Marais de l'Anse a Pierre	46.7936	-56.2007	PM	00
+Etang du Telegraphe	46.79565	-56.18855	PM	00
+Etang du Trepied	46.79597	-56.18203	PM	00
+Le Trepied	46.80083	-56.18221	PM	00
+Petit Trepied	46.80089	-56.17639	PM	00
+Anse a Dinand	46.803	-56.19979	PM	00
+Cap au Diable	46.8083	-56.19598	PM	00
+Etang du Cap au Diable	46.80736	-56.18699	PM	00
+Anse a Henry	46.81456	-56.17014	PM	00
+Pointe a Henry	46.81569	-56.16609	PM	00
+Cap Blanc	46.80989	-56.15644	PM	00
+Cap Rouge	46.80372	-56.15439	PM	00
+Marais de l'Anse a Henry	46.80591	-56.16118	PM	00
+Etang de la Pissouse	46.80286	-56.16289	PM	00
+Etang du Huit	46.80123	-56.16068	PM	00
+Basses du Cap Rouge	46.80216	-56.14908	PM	00
+Cailloux a Malvillain	46.79962	-56.1534	PM	00
+Petit Saint-Pierre	46.79863	-56.1484	PM	00
+Cap a l'Aigle	46.79714	-56.15472	PM	00
+Etang Frecker	46.79761	-56.1608	PM	00
+Grand Colombier	46.82299	-56.16606	PM	00
+Pointe du Ouest	46.82155	-56.17424	PM	00
+Crique du Suet	46.82228	-56.15973	PM	00
+Ariege	46.82389	-56.17361	PM	00
+Petit Colombier	46.82632	-56.15819	PM	00
+Basse du Colombier	46.82806	-56.15444	PM	00
+La Baie	46.81056	-56.24139	PM	00
+Anse de Saint-Kilda	46.78937	-56.35072	PM	00
+Pointe au Bec Jaune	46.79451	-56.36064	PM	00
+Les Ardoises	46.7963	-56.35054	PM	00
+Pointe a Treize	46.79476	-56.37098	PM	00
+Cap Bleu	46.79385	-56.37292	PM	00
+Ruisseau Paturel	46.7625	-56.21806	PM	00
+Basse a Ravenel	46.75306	-56.20472	PM	00
+La Beugresse	46.75671	-56.19156	PM	00
+Gros Nez	46.78611	-56.14167	PM	00
+Pointe Lecomte	46.77917	-56.15833	PM	00
+Anse a Rodrigue	46.78239	-56.16848	PM	00
+Anse Coudreville	46.77987	-56.16951	PM	00
+Trou a la Gofiche	46.79663	-56.37407	PM	00
+Anse de Dolisie	46.80471	-56.37504	PM	00
+Dolisie Ruisseau	46.80423	-56.37402	PM	00
+Les Escaliers	46.80229	-56.34948	PM	00
+Le Dome	46.81071	-56.34487	PM	00
+Trou aux Loups Marins	46.81514	-56.37213	PM	00
+Anse de Maquine	46.82514	-56.37605	PM	00
+Anse du Sud-Ouest	46.8226	-56.38395	PM	00
+Deuxieme Ruisseau Maquine	46.82596	-56.37236	PM	00
+Premier Ruisseau Maquine	46.82711	-56.37366	PM	00
+Anse au Poudrin	46.82541	-56.39919	PM	00
+La Coupee	46.82453	-56.40046	PM	00
+Petite Anse aux Goelands	46.82786	-56.40216	PM	00
+Grande Anse aux Goelands	46.82995	-56.403	PM	00
+Anse Cherie	46.83509	-56.40594	PM	00
+Cap Corbeau	46.83574	-56.40472	PM	00
+Cap aux Renards	46.83497	-56.3851	PM	00
+Ruisseau Clotaire	46.82916	-56.38328	PM	00
+Butte de Clotaire	46.8379	-56.38153	PM	00
+Plaine des Gaules	46.84114	-56.38522	PM	00
+Anse a Gauvain	46.84371	-56.39638	PM	00
+Anse a Couillette	46.84916	-56.38957	PM	00
+Ruisseau Dupont	46.85203	-56.38524	PM	00
+Plaine des Gaules	46.85037	-56.36504	PM	00
+Etang de Cuquemel	46.84894	-56.36211	PM	00
+Anse a Capelan	46.85212	-56.38643	PM	00
+Le Caillou Canadien	46.854	-56.38513	PM	00
+Le Four	46.85563	-56.38479	PM	00
+Cap Sauveur	46.85684	-56.3815	PM	00
+Ruisseau de Cap Sauveur	46.85907	-56.37493	PM	00
+Ruisseau de l'Ouest	46.86133	-56.36732	PM	00
+Cap de l'Ouest	46.86144	-56.36402	PM	00
+Cuquemel	46.85575	-56.35485	PM	00
+Bois a Etienne	46.85511	-56.35025	PM	00
+Ruisseau de la Cascade	46.85576	-56.34655	PM	00
+La Carcasse	46.86603	-56.35409	PM	00
+La Scierie	46.87037	-56.34412	PM	00
+Ruisseau Debons	46.87484	-56.34403	PM	00
+Ruisseau Mouton	46.87203	-56.33852	PM	00
+La Ferme du Ruisseau Debons	46.87222	-56.34583	PM	00
+Ruisseau de la Goelette	46.87865	-56.34209	PM	00
+Le Caillou Blanc	46.8651	-56.33458	PM	00
+Grande Bouillee de la Cascade	46.8589	-56.3315	PM	00
+Etang des Graves	46.85591	-56.31883	PM	00
+Les Graves	46.86861	-56.30794	PM	00
+Montagne Noire	46.84369	-56.32626	PM	00
+Etang de la Montagne Noire	46.8384	-56.32762	PM	00
+Etang Maquine	46.83619	-56.34145	PM	00
+Etang Goeland	46.88401	-56.3335	PM	00
+La Colline	46.88189	-56.33901	PM	00
+Etang Chaignon	46.89006	-56.33919	PM	00
+Etang Ynachi	46.89325	-56.33239	PM	00
+Marais du Bois Brule	46.89857	-56.32337	PM	00
+Butte au The	46.95026	-56.32622	PM	00
+La Ferme Olivier	46.89986	-56.31804	PM	00
+Coin du Sable	46.90152	-56.3178	PM	00
+La Dune	46.92052	-56.32583	PM	00
+Anse de la Belle Croix	46.9007	-56.31014	PM	00
+Anse a Capelan	46.89955	-56.30463	PM	00
+Anse a Yvon	46.89871	-56.30198	PM	00
+Pointe au Gendarme	46.89827	-56.30009	PM	00
+Anse du Gouvernement	46.89433	-56.29174	PM	00
+Cap Corbeau	46.87473	-56.31294	PM	00
+Brousse a Brehier	46.87254	-56.29784	PM	00
+Etang des Joncs	46.8635	-56.29883	PM	00
+Plaine de la Tete de Boeuf	46.88889	-56.29772	PM	00
+Fond de l'Anse	46.89129	-56.29039	PM	00
+Tete Pelee	46.88796	-56.28083	PM	00
+Cap a la Vierge	46.89386	-56.27868	PM	00
+Belle Riviere	46.8967	-56.30051	PM	00
+Anse a la Vierge	46.89389	-56.27501	PM	00
+Cap aux Morts	46.89449	-56.27017	PM	00
+Tete du Cap aux Morts	46.89095	-56.27101	PM	00
+Pointe aux Soldats	46.88977	-56.26344	PM	00
+Anse aux Soldats	46.88705	-56.25608	PM	00
+Ruisseau de l'Anse aux Soldats	46.88684	-56.26208	PM	00
+Anse aux Cormorans	46.88169	-56.24744	PM	00
+Pointe du Cap Perce	46.88852	-56.2469	PM	00
+Anse a Ross	46.87664	-56.24553	PM	00
+Ruisseau de l'Anse	46.87465	-56.24682	PM	00
+Cap a Ross	46.87008	-56.23925	PM	00
+Pointe de l'Anse a la Gazelle	46.86451	-56.23724	PM	00
+Ruisseau des Mats	46.87521	-56.29109	PM	00
+Bouillee des Fourches	46.86982	-56.27579	PM	00
+Butte de l'Anse a Ross	46.86165	-56.26498	PM	00
+Bois du Nord	46.86086	-56.26537	PM	00
+Etang de l'Anse a Ross	46.85924	-56.25469	PM	00
+Les Deux Tetons des Fourches	46.85893	-56.27929	PM	00
+Fourche Droite Ruisseau	46.86438	-56.28634	PM	00
+Fourche Gauche Ruisseau	46.86456	-56.28462	PM	00
+Ravin des Fourches	46.85524	-56.29351	PM	00
+Butte des Fourches	46.85101	-56.29279	PM	00
+Butte des Negres	46.8424	-56.31156	PM	00
+Etang des Negres	46.84066	-56.30668	PM	00
+Etang Lescamela	46.84552	-56.2785	PM	00
+Etang du Papillon	46.843	-56.26895	PM	00
+Deuxieme Etang	46.83999	-56.27289	PM	00
+Etang des Huit	46.85025	-56.2687	PM	00
+Etang du Suroit	46.85275	-56.25863	PM	00
+Butte de l'Est	46.84628	-56.25011	PM	00
+Anse a la Gazelle	46.8578	-56.23938	PM	00
+Pointe a Bigue	46.85356	-56.23751	PM	00
+Les Taches Blanches	46.85153	-56.23876	PM	00
+Les Petites Pointes	46.8505	-56.23965	PM	00
+Les Grandes Pointes	46.84756	-56.24114	PM	00
+Les Voiles Blanches	46.84001	-56.24876	PM	00
+Grand Etang des Voiles Blanches	46.8354	-56.27159	PM	00
+Le Marais	46.83398	-56.26868	PM	00
+Etang Durieux	46.83416	-56.27841	PM	00
+Trou au Renard	46.8292	-56.26651	PM	00
+Trou du Petit Renard	46.82651	-56.27075	PM	00
+Les Pointes Vertes	46.82209	-56.27762	PM	00
+Trou a la Baleine	46.81782	-56.29098	PM	00
+Marais Mouton	46.81723	-56.31091	PM	00
+Le Lion	46.81058	-56.30287	PM	00
+Le Coeur	46.80625	-56.31242	PM	00
+Etang du Cap aux Voleurs	46.80568	-56.3241	PM	00
+Marais du Cap aux Voleurs	46.8113	-56.32837	PM	00
+Etang Goeland	46.82633	-56.31065	PM	00
+Etang Long	46.82971	-56.31881	PM	00
+Etang Lingard	46.83398	-56.30696	PM	00
+Etang Bourroult	46.83555	-56.31168	PM	00
+Grand Etang des Fourches	46.839	-56.29655	PM	00
+Marais des Fourches	46.837	-56.28884	PM	00
+Ruisseau du Trou a la Baleine	46.81935	-56.29213	PM	00
+Marais du Trou a la Baleine	46.83044	-56.28838	PM	00
+Bois du Cap aux Voleurs	46.79742	-56.33018	PM	00
+Ruisseau du Cap aux Voleurs	46.79273	-56.33557	PM	00
+Cap aux Voleurs	46.7917	-56.33239	PM	00
+Bois du Garde-Manger	46.82394	-56.33507	PM	00
+Grand Etang du Cap Bleu	46.825	-56.34715	PM	00
+Etang de la Butte aux Cailloux	46.8318	-56.33962	PM	00
+La Ferme Larranaga	46.9525	-56.32667	PM	00
+La Ferme Delamaire	46.95194	-56.335	PM	00
+Etang de l'Ile Verte	46.95972	-56.33417	PM	00
+Marais de Sauveur	46.96583	-56.32694	PM	00
+Marais Lamanthe	46.96333	-56.32222	PM	00
+Etang de Sauveur	46.96889	-56.33889	PM	00
+Goulet de Langlade	46.97806	-56.31083	PM	00
+Pointe aux Cacaouis	46.97889	-56.31083	PM	00
+Pointe aux Alouettes	46.98778	-56.28194	PM	00
+Marais Giraud	46.98889	-56.28833	PM	00
+Etang de la Pointe aux Alouettes	46.99306	-56.27861	PM	00
+La Petite Mare	46.99528	-56.28528	PM	00
+L'Ile aux Chevaux	46.99694	-56.31278	PM	00
+Banc de l'Ile Verte	46.99306	-56.31083	PM	00
+Banc Mademoiselle	46.985	-56.30722	PM	00
+Banc a Monsieur	46.98528	-56.31556	PM	00
+Pointe Quine	46.99528	-56.32694	PM	00
+La Presqu'ile	46.99694	-56.32	PM	00
+Ruisseau de la Presqu'ile	46.99944	-56.31306	PM	00
+Ruisseau du Milieu	46.99917	-56.30944	PM	00
+Ruisseau du Nordet	47.00056	-56.29889	PM	00
+Etang du Gabion	47.0025	-56.28333	PM	00
+Les Buttereaux	46.98806	-56.35278	PM	00
+Anse de la Pointe au Cheval	47.00639	-56.37139	PM	00
+Pointe au Cheval	47.00611	-56.37556	PM	00
+La Ferme de la Pointe au Cheval	47.00833	-56.36861	PM	00
+Ruisseau de la Mere Durand	47.005	-56.36694	PM	00
+Buttes Degarnies	47.00361	-56.35139	PM	00
+Ruisseau de la Pointe au Cheval	47.00722	-56.37083	PM	00
+Pointe a la Jument	47.01083	-56.38194	PM	00
+Rochers des Trois Bourgs	47.01583	-56.38556	PM	00
+Ruisseau Creux	47.02	-56.38583	PM	00
+Etangs du Ruisseau Creux	47.02389	-56.37167	PM	00
+Morne du Ruisseau Creux	47.02389	-56.35639	PM	00
+Anse du Renard	47.0375	-56.38833	PM	00
+Etang Goeland	47.03778	-56.38611	PM	00
+Etang de Cuivre	47.04306	-56.38222	PM	00
+Ruisseau du Renard	47.03667	-56.38806	PM	00
+Anse de la Carcasse	47.04722	-56.39194	PM	00
+Bature a Maillard	47.04556	-56.39111	PM	00
+Ruisseau de la Carcasse	47.04972	-56.39194	PM	00
+Ruisseau du Foin au Cure	47.05361	-56.37167	PM	00
+Ruisseau du Foin a Raymond	47.05472	-56.3675	PM	00
+Ruisseau du Foin a Bancal	47.05556	-56.36444	PM	00
+Anse de Pousse Trou	47.05722	-56.39056	PM	00
+Butte a Michel	47.05639	-56.38167	PM	00
+Butte Abondance	47.04889	-56.37028	PM	00
+Butte a Saint-Jean	47.06028	-56.35389	PM	00
+Butte au Renard	47.06861	-56.36556	PM	00
+Etangs Kiry	47.06167	-56.36861	PM	00
+Etang du Suet	47.05778	-56.34889	PM	00
+Haut-fond Briand	47.06639	-56.42361	PM	00
+Veaux Marins	47.03889	-56.51667	PM	00
+Ilot de la Coromandiere	47.07333	-56.38194	PM	00
+Ruisseau des Eperlans	47.07722	-56.37778	PM	00
+Etang des Eperlans	47.07694	-56.37028	PM	00
+Etang Beaumont	47.08	-56.36806	PM	00
+Ruisseau du Petit Cap	47.08194	-56.36944	PM	00
+Grand Etang de Miquelon	47.085	-56.38028	PM	00
+Pre a Michel	47.08833	-56.36528	PM	00
+Roche a Laralde	47.09417	-56.36111	PM	00
+Roche a Biche	47.09472	-56.35972	PM	00
+Bature de la Chatte	47.09611	-56.35472	PM	00
+Etang de la Pointe	47.09556	-56.35389	PM	00
+Etang Rond	47.09472	-56.34917	PM	00
+Etang du Chapeau	47.09056	-56.34389	PM	00
+Ruisseau du Chapeau	47.08889	-56.34389	PM	00
+Etang des Joncs	47.08917	-56.34917	PM	00
+Le Chapeau	47.08361	-56.34167	PM	00
+Plaine du Chapeau	47.07528	-56.34472	PM	00
+Ruisseau de la Carcasse de l'Est	47.07389	-56.33889	PM	00
+Pointe du Chapeau	47.08833	-56.33417	PM	00
+Etang de Mirande	47.07444	-56.32222	PM	00
+Dune de Mirande	47.07472	-56.31417	PM	00
+Havre de Terre Grasse	47.07083	-56.33111	PM	00
+Ruisseau de Terre Grasse	47.06806	-56.33472	PM	00
+Ruisseau du Trou Hangar	47.06889	-56.33167	PM	00
+Petit Ruisseau	47.06111	-56.33639	PM	00
+Mornes a Blondin	47.05	-56.32472	PM	00
+Ruisseau a Blondin	47.06861	-56.30778	PM	00
+Etang de Cailloux	47.06639	-56.32167	PM	00
+Ferme de Mirande	47.065	-56.29028	PM	00
+Roche a Mirande	47.0675	-56.29083	PM	00
+Etang de la Demoiselle	47.06444	-56.27778	PM	00
+Buttes de Michaux	47.06028	-56.27444	PM	00
+Ruisseau des Godiches	47.06667	-56.28694	PM	00
+Ruisseau de la Demoiselle	47.06417	-56.27806	PM	00
+Pointe aux Soldats	47.05778	-56.2575	PM	00
+Ruisseau a Sylvain	47.05833	-56.26028	PM	00
+Etang de la Loutre	47.04778	-56.25639	PM	00
+Rochers de l'Est	47.05889	-56.22472	PM	00
+Rocher Rond	47.05444	-56.23167	PM	00
+Bature	47.05639	-56.23056	PM	00
+Bout du Suroit	47.05861	-56.22583	PM	00
+Bout du Nordet	47.05917	-56.22389	PM	00
+Fond de Landry	47.0525	-56.20472	PM	00
+Patracan	47.07389	-56.20833	PM	00
+Roche Miquelon Exterieure	47.09611	-56.18694	PM	00
+Accore Anglaise	47.08333	-56.15694	PM	00
+Petits Mornes a Sylvain	47.04944	-56.28139	PM	00
+Morne de la Montee	47.05167	-56.27778	PM	00
+Grand Morne a Sylvain	47.04722	-56.29611	PM	00
+Morne de la Grande Montagne	47.04167	-56.30639	PM	00
+Grande Bouillee	47.04028	-56.29444	PM	00
+Ruisseau de l'Etang de la Loutre	47.04778	-56.25778	PM	00
+Buttes a Sylvain	47.05111	-56.26361	PM	00
+Anse de Belliveau	47.03833	-56.25389	PM	00
+Premiere Pointe de Belliveau	47.03778	-56.25306	PM	00
+Pointe a Man	47.03583	-56.25306	PM	00
+Deuxieme Pointe de Belliveau	47.03111	-56.25528	PM	00
+Pointes de Belliveau	47.03556	-56.25333	PM	00
+Cap Vert	47.01972	-56.2625	PM	00
+Etang du Cap Vert	47.02611	-56.26167	PM	00
+Etang du Sud du Cap Vert	47.01194	-56.27	PM	00
+Etang de Cailloux	47.01694	-56.27806	PM	00
+Les Terres Noires	47.01194	-56.28194	PM	00
+Morne de Bellevue	47.02222	-56.28917	PM	00
+Grand Etang de Bellevue	47.02389	-56.29417	PM	00
+Etang aux Outardes	47.03056	-56.31333	PM	00
+Marais aux Outardes	47.02889	-56.32472	PM	00
+Morne du Noroit de l'Etang aux Outardes	47.03306	-56.32583	PM	00
+Etang Goeland	47.03583	-56.33417	PM	00
+Etang du Noroit de la Butte a Saint-Jean	47.065	-56.35722	PM	00
+Ile Miquelon	47.04583	-56.32972	PM	00
+Morne de Suroit	47.02361	-56.33389	PM	00
+Morne de la Presqu'ile	47.01778	-56.32222	PM	00
+Bouillee de la Presqu'ile	47.00889	-56.32944	PM	00
+Bouillee du Noroit	47.01361	-56.31639	PM	00
+Bouillee du Nordet	47.01139	-56.295	PM	00
+Lac aux Canards	47.01528	-56.30194	PM	00
+Etang du Noroit	47.0175	-56.30417	PM	00
+Etang de la Bouteille	47.02278	-56.31306	PM	00
+Anse de Miquelon	47.10694	-56.36917	PM	00
+Dune de Miquelon	47.07972	-56.38833	PM	00
+Etang du Cap Blanc	47.10083	-56.39528	PM	00
+La Plaine	47.09583	-56.3875	PM	00
+Cap Blanc	47.10083	-56.40167	PM	00
+Le Calvaire	47.10667	-56.395	PM	00
+Le Petit Gabion	47.10194	-56.405	PM	00
+Le Gros Gabion	47.10333	-56.40528	PM	00
+Pointe du Grand Couteau	47.10472	-56.40389	PM	00
+Grand Anse du Phare	47.10417	-56.40361	PM	00
+Rocher de l'Echelle	47.10917	-56.40417	PM	00
+Le Boyau	47.10972	-56.40389	PM	00
+Etang Norbert	47.10917	-56.39556	PM	00
+Etang de l'Ouest	47.11444	-56.39639	PM	00
+Grande Anse de l'Ouest	47.11417	-56.39889	PM	00
+Anse aux Warys	47.11639	-56.39778	PM	00
+Ruisseau de l'Anse	47.115	-56.38194	PM	00
+Fond de l'Anse	47.11417	-56.3825	PM	00
+Le Petit Gabion	47.11639	-56.37222	PM	00
+Le Vide Bouteille	47.11806	-56.36833	PM	00
+Pointe a l'Abbe	47.12278	-56.39583	PM	00
+Le Nid aux Hirondelles	47.12556	-56.39222	PM	00
+Anse a la Demoiselle	47.12667	-56.38917	PM	00
+Le Gros Bec	47.12917	-56.38583	PM	00
+Le Petit Bec	47.13028	-56.38056	PM	00
+Les Terres Rouges	47.12722	-56.38056	PM	00
+Butte aux Berrys	47.125	-56.37444	PM	00
+Le Cap	47.12611	-56.36889	PM	00
+Anse a la Roche	47.13306	-56.36556	PM	00
+Etang de la Cormorandiere	47.13389	-56.35806	PM	00
+Etang de la Roche	47.13028	-56.35944	PM	00
+La Cormoranderie	47.1375	-56.3575	PM	00
+Pointe du Petit Fond	47.13861	-56.35528	PM	00
+Anse a Mirande	47.14028	-56.35111	PM	00
+Anse aux Pigeons	47.13917	-56.34667	PM	00
+Pointe du Courant	47.13861	-56.34667	PM	00
+Devalee du Diable	47.13778	-56.3475	PM	00
+Devalee des Pineaux	47.13583	-56.34694	PM	00
+Trou a Loches	47.13333	-56.34639	PM	00
+Trou du Gui	47.13194	-56.34667	PM	00
+Pointe a la Loutre	47.13083	-56.34611	PM	00
+Anse a la Vierge	47.1275	-56.35361	PM	00
+Grande Devalee	47.12861	-56.35417	PM	00
+Cap Perce	47.12333	-56.36222	PM	00
+Pointe a Paul	47.11972	-56.36528	PM	00
+Etang du Lac	47.12083	-56.37361	PM	00
+Ruisseau des Cosies	47.12306	-56.36306	PM	00
+Basse a Bonniere	46.72083	-56.19306	PM	00
+Troot Pool	46.75403	-56.21764	PM	00
+La Perruquere	46.76567	-56.22355	PM	00
+Le Bosworth	46.76872	-56.15372	PM	00
+Etang du Milieu	46.7694	-56.18644	PM	00
+Rocher a Marc Cadet	46.75962	-56.214	PM	00
+Port de Saint-Pierre	46.77722	-56.16972	PM	00
+Le Mulou	46.78	-56.16028	PM	00
+Mole Frigorifique	46.79394	-56.15907	PM	00
+Digue du Sud-Est	46.78139	-56.16556	PM	00
+Nouveau Port	46.78083	-56.16806	PM	00
+Digue du Nord-Est	46.78382	-56.1679	PM	00
+Pointe a la Caille	46.78068	-56.14927	PM	00
+Morne a Pierre	46.78806	-56.21111	PM	00
+Le Transpacific	46.78886	-56.14315	PM	00
+Quai de l'Alysse	46.77583	-56.17694	PM	00
+Quai Mimosa	46.77639	-56.175	PM	00
+Quai du Commerce	46.7858	-56.16603	PM	00
+Quai de Peche	46.78333	-56.16972	PM	00
+Le Goelette	46.89428	-56.33459	PM	00
+Gulnare Bank	46.81667	-56.03333	PM	00
+Route de l'Anse a Pierre	46.7841	-56.19078	PM	
+Le Frigorifique	46.79427	-56.1601	PM	00
+Etang du Fauteuil	46.7757	-56.19579	PM	00
+La Quarantaine	46.76572	-56.18847	PM	00
+Village de l'Anse du Gouvernement	46.89748	-56.30125	PM	00
+Remarques de Maquine	46.84037	-56.34521	PM	00
+Les Graves de Maquine	46.83523	-56.34872	PM	00
+Les Rames de la Goelette	46.8714	-56.31941	PM	00
+La Croix	46.87718	-56.30713	PM	00
+Le Sprus	46.87494	-56.25819	PM	00
+Le Palmier	46.86333	-56.24839	PM	00
+La Ferme Couillette	46.84905	-56.38674	PM	00
+Basse du Saint-Louis	46.77797	-56.16032	PM	00
+Cap a Baudry	46.79119	-56.13941	PM	00
+Le Ruisseau Debons	46.87365	-56.34258	PM	00

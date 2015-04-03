@@ -1,0 +1,100 @@
+Yankee Town	21.65	-72.46667	TC	00
+Windward Going Through	24.71667	-71.61667	TC	00
+White Cay	21.18333	-71.8	TC	00
+Whitby	21.95	-71.96667	TC	00
+Wheeland Cut	21.85	-72.31667	TC	00
+Whale Breaker	21.08333	-71.58333	TC	00
+West Reef	21.78333	-72.43333	TC	00
+Watering Point	21.5	-71.51667	TC	00
+Water Cay	21.85	-72.11667	TC	00
+Town Salinas	21.46667	-71.13333	TC	00
+Three Mary Cays	21.95	-72.01667	TC	00
+The Bight Settlements	21.78333	-72.2	TC	00
+Stubbs Cay	21.91667	-72.1	TC	00
+Stake Bank	21.55	-71.55	TC	00
+Southwest Reefs	21.58333	-72.43333	TC	00
+Southwest Point	21.61667	-72.48333	TC	00
+South Bluff	21.7493	-72.34909	TC	00
+Shot Cay	21.18333	-71.71667	TC	00
+Seller's Cut	21.8	-72.18333	TC	00
+Seal Cays	21.16667	-71.63333	TC	00
+Sandy Point	21.95	-72.03333	TC	00
+Salt Cay	21.3268	-71.20617	TC	00
+Reef Harbour	21.81667	-72.26667	TC	00
+Red Salina	21.45	-71.13333	TC	00
+Plandon Cay	21.56667	-71.48333	TC	00
+Pine Cay	21.86667	-72.08333	TC	00
+Philips Reef	21.71667	-71.38333	TC	00
+Penniston Cay	21.36667	-71.11667	TC	00
+Pear Cay	21.38333	-71.08333	TC	00
+Pear Cay	21.18333	-71.68333	TC	00
+Parrot Cay	21.93333	-72.06667	TC	00
+Ocean Hole	21.71667	-71.83333	TC	00
+Northeast Reef	21.53333	-71.1	TC	00
+Nigger Cay	21.63333	-71.48333	TC	00
+Molasses Reef	21.56667	-72.3	TC	00
+Middleton Cay	21.5	-71.56667	TC	00
+Middle Caicos	21.78333	-71.71667	TC	00
+Lorimers	21.78333	-71.68333	TC	00
+Long Cay	21.46667	-71.55	TC	00
+Long Cay	21.41667	-71.08333	TC	00
+Little Water Cay	21.83333	-72.15	TC	00
+Little Ambergris Cay	21.28333	-71.68333	TC	00
+Leeward-Going-Through-Cut	21.8	-72.18333	TC	00
+Kew	21.9	-72.03333	TC	00
+Juniper Hole	21.88333	-71.88333	TC	00
+Joe Grants Cay	21.75	-71.6	TC	00
+Jacksonville Cut	21.75	-71.6	TC	00
+Iguana Cay	21.75	-71.58333	TC	00
+Hog Cay	21.63333	-71.51667	TC	00
+Highas Cay	21.86667	-71.83333	TC	00
+Hawks Nest Anchorage	21.41667	-71.13333	TC	00
+Haulover Point	21.81667	-71.71667	TC	00
+Greenwich	21.95	-71.93333	TC	00
+Grand Turk	21.46002	-71.14158	TC	00
+Cockburn Town	21.46122	-71.14188	TC	00
+Grace Bight	21.80214	-72.17614	TC	00
+Gibb's Cay	21.43333	-71.1	TC	00
+Fort George	21.88333	-72.08333	TC	00
+French Cay	21.5	-72.25	TC	00
+Fort George Cay	21.88333	-72.11667	TC	00
+Fort George	21.88333	-72.11667	TC	00
+Five Cays Settlement	21.75711	-72.26772	TC	00
+Five Cays	21.73333	-72.25	TC	00
+Fish Cays	21.36667	-71.58333	TC	00
+Ferguson Cut	21.83333	-71.75	TC	00
+East Cay	21.36667	-71.08333	TC	00
+Drum Point	21.7	-71.46667	TC	00
+Donna Cut	21.83338	-72.14456	TC	00
+Donna Cay	21.81667	-72.13333	TC	00
+Dikish Cay	21.75	-71.63333	TC	00
+Dellis Cay	21.9	-72.06667	TC	00
+Cotton Cay	21.36667	-71.13333	TC	00
+Conch Cay	21.85	-71.85	TC	00
+Cockburn Harbour	21.48333	-71.53333	TC	00
+Cockburn Harbour	21.5	-71.5	TC	00
+Clarke's Cut	21.95	-71.9	TC	00
+Chalk Sound	21.76667	-72.3	TC	00
+Caicos Bank	21.58333	-71.91667	TC	00
+Bush Cay	21.2	-71.6	TC	00
+Breezy Point	21.71667	-71.51667	TC	00
+Big Sand Cay	21.1953	-71.24771	TC	00
+The Bight	21.78333	-72.2	TC	00
+Big Cut	21.83333	-71.66667	TC	00
+Big Cameron Cay	21.61667	-71.58333	TC	00
+Big Ambergris Cay	21.3	-71.63333	TC	00
+Balfour Town	21.32406	-71.21548	TC	00
+Back Salina	21.45	-71.13333	TC	00
+Ambergris Cays	21.3	-71.61667	TC	00
+AMANYARA	21.8025	-71.7496	TC	
+LE VELE	21.76349	-72.26171	TC	
+Hogsty Reef Light	21.69298	-73.84698	TC	
+Point Grace	21.79703	-72.18573	TC	
+La Vista Azul	21.78528	-72.22739	TC	
+Villa Del Mar	21.79716	-72.18569	TC	
+Regent Grand	21.79692	-72.18167	TC	
+Gansevoort Turks & Caicos	21.78198	-72.2055	TC	
+Villa Renaissance	21.79977	-72.16816	TC	
+La Vista Azul	21.47178	-71.14003	TC	
+Regent Palms Turks And Caicos	21.47178	-71.14003	TC	
+Amanyara	21.78341	-72.23406	TC	

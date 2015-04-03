@@ -1,0 +1,267 @@
+Zinums Ghut	18.48333	-64.53333	VG	00
+Windlass Low Point	18.73333	-64.35	VG	00
+Windlass Bight	18.73333	-64.33333	VG	00
+White Horse	18.4	-64.46667	VG	00
+Whelk Point	18.41667	-64.56667	VG	00
+Whale Banks	18.7	-64.7	VG	00
+West Seal Dog	18.5068	-64.4346	VG	00
+West Point	18.38333	-64.75	VG	00
+West End Point	18.73333	-64.41667	VG	00
+West End Point	18.43333	-64.76667	VG	00
+West End	18.75	-64.41667	VG	00
+West Dog	18.4827	-64.47275	VG	00
+Wesley Will	18.44676	-64.60223	VG	00
+Wedgeo Bluff	18.38333	-64.46667	VG	00
+Water Point	18.31667	-64.61667	VG	00
+Wash Ballock Point	18.48333	-64.51667	VG	00
+Walkover Set Point	18.73333	-64.4	VG	00
+Vixen Point	18.50244	-64.36825	VG	00
+Virgin Sound	18.53333	-64.3	VG	00
+Virgin Gorda	18.46202	-64.42649	VG	00
+Vanterpool Ghut	18.38333	-64.66667	VG	00
+Valley Ghut	18.46667	-64.38333	VG	00
+Upper Bluff	18.43333	-64.51667	VG	00
+Two Ghut	18.38333	-64.65	VG	00
+Turn Ghut	18.5	-64.4	VG	00
+Treasure Point	18.31667	-64.61667	VG	00
+Towing Point	18.48333	-64.53333	VG	00
+Tower Point	18.46667	-64.53333	VG	00
+Tortola	18.43662	-64.61849	VG	00
+Tom Point	18.45	-64.41667	VG	00
+Tom Humphrey Ghut	18.41667	-64.63333	VG	00
+Thousand Ghut	18.44847	-64.61997	VG	00
+The Settlement	18.71667	-64.31667	VG	00
+The Landing	18.45	-64.53333	VG	00
+Cape Stout	18.51667	-64.38333	VG	00
+Steele Point	18.38333	-64.71667	VG	00
+Sprat Point	18.45	-64.51667	VG	00
+Spanish Town	18.45	-64.43333	VG	00
+South Sound Bluff	18.46667	-64.38333	VG	00
+South Sound	18.48333	-64.38333	VG	00
+South Sound	18.48333	-64.38333	VG	00
+South East End Point	18.48079	-64.45117	VG	00
+South East East Land	18.46667	-64.55	VG	00
+South East East Land	18.46667	-64.5	VG	00
+Sound Reef	18.46667	-64.38333	VG	00
+Sound Bluff	18.46667	-64.38333	VG	00
+The Sound	18.38333	-64.46667	VG	00
+The Sound	18.36667	-64.51667	VG	00
+Sopers Hole	18.38586	-64.70352	VG	00
+Soldier Wash	18.75	-64.31667	VG	00
+Soldier Point	18.76667	-64.33333	VG	00
+Soldier East Point	18.73333	-64.31667	VG	00
+Slaney Point	18.40585	-64.61737	VG	00
+Sir Francis Drake Channel	18.41667	-64.5	VG	00
+Shannon Ghut	18.41667	-64.65	VG	00
+Setting Point	18.71667	-64.38333	VG	00
+Seal Dogs	18.50692	-64.43357	VG	00
+Sandy Point	18.38333	-64.7	VG	00
+Sandy Cay	18.43333	-64.71667	VG	00
+Saltheap Point	18.71667	-64.36667	VG	00
+Salt Ghut	18.41667	-64.58333	VG	00
+Salt Ghut	18.4	-64.63333	VG	00
+Ruffling Point	18.75	-64.41667	VG	00
+The Rudders	18.38333	-64.48333	VG	00
+Rough Point	18.45362	-64.64388	VG	00
+Rogers Point	18.33333	-64.6	VG	00
+Red Point	18.45	-64.4	VG	00
+Red Point	18.36667	-64.5	VG	00
+Red Bluff	18.36667	-64.5	VG	00
+Rat Point	18.48333	-64.35	VG	00
+Quart-a-Nancy Point	18.4	-64.51667	VG	00
+Purcell Ghut	18.43333	-64.6	VG	00
+Pomato Point	18.73333	-64.4	VG	00
+The Point	18.38333	-64.53333	VG	00
+Pleasant Valley Ghut	18.398	-64.63774	VG	00
+Pictard Ghut	18.43333	-64.56667	VG	00
+Pelican Point	18.7	-64.26667	VG	00
+Pelican Cay	18.45	-64.71667	VG	00
+Pearl Point	18.7	-64.33333	VG	00
+Pajaros Point	18.51667	-64.3	VG	00
+Opuntia Point	18.5129	-64.36898	VG	00
+On the Cay Hollow Point	18.45	-64.75	VG	00
+Obie Ghut	18.4	-64.65	VG	00
+Nutmeg Point	18.7	-64.33333	VG	00
+Gorda Sound	18.51667	-64.36667	VG	00
+Northern Point	18.43333	-64.81667	VG	00
+North East End Point	18.48278	-64.45104	VG	00
+North East East Land	18.46667	-64.5	VG	00
+North East East End	18.48333	-64.55	VG	00
+Nora Hazel Point	18.41667	-64.56667	VG	00
+New Bush Ghut	18.43333	-64.63333	VG	00
+The Narrows	18.35	-64.7	VG	00
+Nanny Cay	18.399	-64.63392	VG	00
+Myall Point	18.44965	-64.61506	VG	00
+Murdering Hole	18.5	-64.4	VG	00
+Monkey Point	18.45	-64.56667	VG	00
+Maya Cove	18.41667	-64.56667	VG	00
+Mattie Point	18.46667	-64.38333	VG	00
+Mason Wall Ghut	18.43333	-64.65	VG	00
+Mary Ground	18.46667	-64.53333	VG	00
+Markoe Point	18.36667	-64.5	VG	00
+Marina Cay	18.46101	-64.52528	VG	00
+Man Hole	18.38333	-64.46667	VG	00
+Man Head	18.38333	-64.53333	VG	00
+Lower Ground Point	18.45	-64.41667	VG	00
+Louse Cay	18.48333	-64.51667	VG	00
+Long Point	18.48333	-64.58333	VG	00
+Long Point	18.45	-64.75	VG	00
+Long Bush Ghut	18.41667	-64.61667	VG	00
+Loblolly High Point	18.71667	-64.3	VG	00
+Little Tobago	18.43333	-64.85	VG	00
+Little Harbour	18.43333	-64.71667	VG	00
+Little Harbour	18.35	-64.6	VG	00
+Little Cay	18.43333	-64.53333	VG	00
+Little Camanoe	18.45	-64.53333	VG	00
+Lettsome Settlement	18.45	-64.71667	VG	00
+Leonards	18.4275	-64.64111	VG	00
+Lances Bluff	18.48333	-64.36667	VG	00
+Kitto Ghut	18.46667	-64.51667	VG	00
+Kingstown	18.41667	-64.58333	VG	00
+Kingfish Banks	18.55	-64.66667	VG	00
+Key Point	18.35	-64.6	VG	00
+Keel Point	18.76667	-64.38333	VG	00
+Johnson Ghut	18.41667	-64.6	VG	00
+John O' Point	18.5	-64.35	VG	00
+Johnny Ground	18.48333	-64.55	VG	00
+Johnny Cake Ghut	18.45075	-64.63598	VG	00
+John James Point	18.38333	-64.46667	VG	00
+James Ghut	18.41667	-64.6	VG	00
+Jacob Well Ghut	18.4	-64.63333	VG	00
+Jackass Ghut	18.41667	-64.6	VG	00
+Jack and Burns Point	18.5	-64.35	VG	00
+The Indians	18.33333	-64.61667	VG	00
+The Iguana Head	18.46667	-64.56667	VG	00
+Horse Shoe Reef	18.66667	-64.2	VG	00
+The Hollow	18.38333	-64.73333	VG	00
+The Hollow	18.48333	-64.53333	VG	00
+Hogs Valley Point	18.41667	-64.58333	VG	00
+Hell Hole	18.43333	-64.63333	VG	00
+Hay Point	18.5	-64.4	VG	00
+Hawks Bill Bank	18.61667	-64.3	VG	00
+Harris Ghut	18.46667	-64.56667	VG	00
+Hannah	18.40262	-64.63646	VG	00
+Half Moon Point	18.41667	-64.58333	VG	00
+The Guns	18.5	-64.33333	VG	00
+Gun Point	18.48333	-64.38333	VG	00
+Gun Point	18.4	-64.7	VG	00
+Guana Hole	18.51667	-64.38333	VG	00
+Groupers Nest	18.38333	-64.51667	VG	00
+Grey Ghut	18.41667	-64.63333	VG	00
+Grey Ghut	18.41667	-64.58333	VG	00
+Green Cay	18.45	-64.7	VG	00
+Great Harbour Point	18.36667	-64.58333	VG	00
+Great Harbour	18.45	-64.75	VG	00
+Great Harbour	18.35	-64.58333	VG	00
+Great Governor Ghut	18.48333	-64.38333	VG	00
+Great Ghut	18.45	-64.73333	VG	00
+Grassy Ground Bluff	18.48333	-64.36667	VG	00
+Grape Tree Landing	18.38333	-64.48333	VG	00
+Gnat Point	18.48333	-64.36667	VG	00
+Ginger Garden Point	18.38333	-64.46667	VG	00
+The Ghut	18.43333	-64.73333	VG	00
+Georgy Hole Point	18.43333	-64.71667	VG	00
+Gauling Nest	18.46667	-64.43333	VG	00
+Garden Ghut	18.41667	-64.65	VG	00
+Frenchmans Cay	18.38299	-64.69943	VG	00
+Fortune Ghut	18.4	-64.66667	VG	00
+Fort Point	18.43333	-64.43333	VG	00
+Fishers Cove	18.45	-64.43333	VG	00
+Fischer Point	18.36667	-64.6	VG	00
+Fagic Point	18.48333	-64.38333	VG	00
+Eustatia Sound	18.51667	-64.35	VG	00
+East Seal Dog	18.50671	-64.43241	VG	00
+East Point	18.71667	-64.26667	VG	00
+East End Harbour	18.43333	-64.71667	VG	00
+Dustry Point	18.38333	-64.5	VG	00
+Du Bois Point	18.43727	-64.66381	VG	00
+Dog Hole Point	18.43333	-64.75	VG	00
+Dim Don Point	18.45	-64.73333	VG	00
+Dicky Ground	18.46667	-64.55	VG	00
+Diamond Cay	18.43333	-64.71667	VG	00
+Dead Water Point	18.46667	-64.53333	VG	00
+Deadman Point	18.46667	-64.5	VG	00
+Dead Chest	18.36667	-64.56667	VG	00
+Cucumber Point	18.47924	-64.46189	VG	00
+Crawl Point	18.45	-64.53333	VG	00
+The Crawl	18.43333	-64.43333	VG	00
+Cow Wreck Low Point	18.73333	-64.4	VG	00
+Cow Wreck High Point	18.75	-64.38333	VG	00
+Cow Mouth	18.5	-64.41667	VG	00
+Connall Shoal	18.41667	-64.6	VG	00
+Conch Shell Point	18.44969	-64.52871	VG	00
+Colison Point	18.43333	-64.45	VG	00
+Coffee Ghut	18.41667	-64.63333	VG	00
+Cistern Point	18.38333	-64.5	VG	00
+Cherry Ghut	18.45	-64.75	VG	00
+Changes Point	18.43333	-64.76667	VG	00
+The Carvel	18.31667	-64.63333	VG	00
+Carval	18.36667	-64.48333	VG	00
+Carmelia Point	18.48333	-64.36667	VG	00
+Callwood's Point	18.38333	-64.73333	VG	00
+Cactus Point	18.5	-64.36667	VG	00
+Cabey Point	18.36667	-64.56667	VG	00
+Burt Point	18.41325	-64.61158	VG	00
+Buntin Ghut	18.38333	-64.65	VG	00
+Brown Ghut	18.43333	-64.71667	VG	00
+Brown Ghut	18.38333	-64.65	VG	00
+Broken Jerusalem	18.4	-64.45	VG	00
+Boo Point	18.45	-64.73333	VG	00
+Bongreys	18.46667	-64.58333	VG	00
+Bones Low Point	18.73333	-64.36667	VG	00
+Bones Bight	18.75	-64.36667	VG	00
+The Bluff	18.41667	-64.51667	VG	00
+Blowing Point	18.46667	-64.41667	VG	00
+The Blinders	18.41667	-64.43333	VG	00
+Black Point	18.48333	-64.36667	VG	00
+Black Point	18.46667	-64.5	VG	00
+Black Point	18.45	-64.4	VG	00
+Black Point	18.43333	-64.76667	VG	00
+Black Point	18.43333	-64.73333	VG	00
+Black Point	18.4	-64.68333	VG	00
+Black Point	18.36667	-64.5	VG	00
+Black Bluff	18.36667	-64.5	VG	00
+Big West End	18.38333	-64.48333	VG	00
+The Bight	18.31667	-64.61667	VG	00
+Big Fry Hole	18.38333	-64.48333	VG	00
+Berchers Bluff	18.48333	-64.35	VG	00
+Belmont Point	18.39875	-64.69904	VG	00
+Belle Vue	18.45	-64.73333	VG	00
+Bellamy Cay	18.43333	-64.53333	VG	00
+The Baths	18.43056	-64.44444	VG	00
+Bat Hole	18.48333	-64.4	VG	00
+Bandy Point	18.5	-64.35	VG	00
+Banana Ghut	18.48333	-64.55	VG	00
+Bail's Ground	18.46667	-64.53333	VG	00
+Asbestos Point	18.5	-64.35	VG	00
+Anguilla Point	18.5	-64.4	VG	00
+Angilla Point	18.4512	-64.62296	VG	00
+Anderson Ghut	18.43333	-64.63333	VG	00
+Anderson	18.44149	-64.63922	VG	00
+Carrot Shoal	18.325	-64.57806	VG	00
+Rogue's Point	18.45449	-64.60347	VG	00
+Colquhoun Reef	18.51806	-64.38222	VG	00
+The Invisibles	18.52889	-64.33889	VG	00
+Herman Reefs	18.55833	-64.2375	VG	00
+The White Horse	18.58889	-64.22083	VG	00
+Robert Reef	18.56667	-64.30028	VG	00
+Turtle Head	18.61667	-64.76944	VG	00
+Visibles	18.49639	-64.46389	VG	00
+West End	18.38919	-64.71683	VG	00
+Nanny Cay Marina	18.40083	-64.63556	VG	00
+Brewers Point	18.44417	-64.66	VG	00
+Port Purcell	18.4267	-64.60906	VG	00
+East End	18.44056	-64.55833	VG	00
+The Bluff	18.42722	-64.52194	VG	00
+Key Cay	18.34472	-64.59583	VG	00
+Denmark Banks	18.40833	-64.60667	VG	00
+Lark Bank	18.4125	-64.60722	VG	00
+Scotch Bank	18.41361	-64.60139	VG	00
+Shirley Point	18.41806	-64.60278	VG	00
+Little Wickham's Cay	18.42556	-64.61778	VG	00
+Cactus Reef	18.51611	-64.37361	VG	00
+Marina	18.42567	-64.56825	VG	
+Tortola West End Sea Plane Base	18.38662	-64.7043	VG	
+Tortola	18.43882	-64.60382	VG	
+Anderson Point	18.44869	-64.65282	VG	
+Anegada Reef	18.7245	-64.3825	VG	

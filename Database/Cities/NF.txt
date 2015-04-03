@@ -1,0 +1,28 @@
+Point Vincent	-28.99606	167.92122	NF	00
+Steels Point	-29.02845	167.99625	NF	00
+Point Ross	-29.06667	167.93333	NF	00
+Puppys Point	-29.01667	167.91667	NF	00
+Kingston	-29.05459	167.96628	NF	00
+Point Hunter	-29.06667	167.96667	NF	00
+Point Howe	-29	167.91667	NF	00
+Headstone Point	-29.05	167.91667	NF	00
+Headstone	-29.05	167.91667	NF	00
+Collins Head	-29.05	167.98333	NF	00
+Point Blackbourne	-29.05	167.98333	NF	00
+Anson Point	-29.01667	167.91667	NF	00
+ALL SEASONS COLONIAL	-29.0333	167.95	NF	
+Burnt Pine	-29.03291	167.94856	NF	
+Cascade Garden	-29.05658	167.93967	NF	
+Shiralee Executive Cottages	-29.03475	167.95432	NF	
+Whispering Pines Luxury Cottages	-29.0247	167.94073	NF	
+Pinevalley Apartments	-29.029	167.96134	NF	
+Norfolk Holiday Apartments	-29.04083	167.95294	NF	
+Hibiscus Tudor	-29.03196	167.95236	NF	
+Hibiscus Regal	-29.03231	167.95502	NF	
+Hibiscus Crown	-29.03209	167.95251	NF	
+Hibiscus Aloha	-29.03201	167.95244	NF	
+Fletcher Christian Apartments	-29.03824	167.9565	NF	
+Daydreamer Holiday Apartments	-29.03075	167.94562	NF	
+Poinciana Cottages	-29.03323	167.94364	NF	
+Kentia Holiday Apartments	-29.04242	167.96889	NF	
+Channers On Norfolk Gardenside Apartments	-29.04026	167.95577	NF	

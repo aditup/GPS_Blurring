@@ -1,0 +1,1227 @@
+Tanjong Pagar	1.28333	103.83333	SG	00
+Sungai Yuchi	1.37333	103.66556	SG	00
+Yio Chu Kang Estate	1.38972	103.85389	SG	00
+Yio Chu Kang	1.39111	103.85139	SG	00
+Yio Chu Kang I	1.37417	103.84278	SG	00
+Yew Tee	1.39444	103.75389	SG	00
+Yan Kit	1.35722	103.97194	SG	00
+Sungai Whampoa	1.31944	103.86694	SG	00
+West Reach	1.40056	103.65889	SG	00
+West Coast Village	1.31667	103.75	SG	00
+West Bukit Timah	1.36333	103.73111	SG	00
+Wessex Estate	1.29694	103.79528	SG	00
+Bukit Wayang Satu	1.31667	103.83333	SG	00
+Sungai Wan Chi	1.38333	103.66667	SG	00
+Sungai Wak Logok	1.26667	103.71667	SG	00
+Sungai Wak Bachok	1.28333	103.7	SG	00
+Sungai Wak Abu	1.28333	103.7	SG	00
+Sungai Unum	1.42806	104.05417	SG	00
+Pulau Unum	1.43306	104.05583	SG	00
+Sungai Ulu Pandan	1.32278	103.75222	SG	00
+Ulu Bedok	1.33333	103.93333	SG	00
+Ulu Bedok	1.34778	103.95639	SG	00
+Pulau Ular	1.23278	103.75639	SG	00
+Pulau Ubin	1.41194	103.96389	SG	00
+Sungai Tumbok Opih	1.28333	103.71667	SG	00
+Terumbu Tukak	1.28111	103.72028	SG	00
+Tanjong Tuas	1.31667	103.65	SG	00
+Sungai Tuas	1.31694	103.65111	SG	00
+Tuas	1.32139	103.65667	SG	00
+Tua Kang Lye	1.31417	103.77667	SG	00
+Sungai Trus Pandan	1.30917	103.74778	SG	00
+Sungai Trus	1.43333	103.75	SG	00
+Town Reach	1.45306	103.73472	SG	00
+Sungai Tongkang	1.39	103.88	SG	00
+Tanjong Tok	1.2925	103.70861	SG	00
+Tanjong Todak	1.42361	104.02167	SG	00
+Toa Payoh New Town	1.33611	103.85	SG	00
+Tiong Bahru Estate	1.28333	103.83278	SG	00
+Bukit Tinggi	1.41917	103.93806	SG	00
+Bukit Timah	1.3547	103.7764	SG	00
+Sungai Tiga	1.40139	103.96556	SG	00
+Malang Tiga	1.38917	104.02861	SG	00
+Sungai Tho Pek Kong	1.38278	103.68	SG	00
+Thong Hoe Village	1.41806	103.70194	SG	00
+Thomson	1.34917	103.84361	SG	00
+Tanjong Teritip	1.30167	103.65	SG	00
+Sungai Teris	1.415	103.93833	SG	00
+Tanjong Terih	1.35	103.65	SG	00
+Tanjong Terembu Gayong	1.29139	103.69278	SG	00
+Tanjong Tereh	1.26056	103.83667	SG	00
+Tanjong Teregeh	1.25556	103.83944	SG	00
+Tanjong Tengeh	1.35	103.65	SG	00
+Sungai Tengeh	1.33806	103.65778	SG	00
+Sungai Tengah	1.40306	103.72611	SG	00
+Sungai Tengah	1.38722	103.90139	SG	00
+Tengah Air Base	1.3856	103.70836	SG	00
+Sungai Tembuan	1.3	103.66667	SG	00
+Pulau Tembakul	1.22389	103.86083	SG	00
+Tembaga Reef	1.26417	103.83833	SG	00
+Telok Ayer Basin	1.27889	103.85194	SG	00
+Sungai Telok	1.36667	103.65	SG	00
+Kuala Telok	1.37111	103.65444	SG	00
+Pulau Tekukor	1.23111	103.83917	SG	00
+Pulau Tekong Kechil	1.41667	104.02306	SG	00
+Pulau Tekong	1.41667	104.05583	SG	00
+Teck Hock	1.3675	103.91611	SG	00
+Teck Chong Estate	1.41556	103.76167	SG	00
+Tay Keng Loon Estate	1.45333	103.79889	SG	00
+Sungai Tanjong Gul	1.3	103.66667	SG	00
+Sungai Tanjong	1.42111	104.03111	SG	00
+Tan Hua Gek Estate	1.40917	103.69583	SG	00
+Tanglin	1.31667	103.81667	SG	00
+Sungai Tanah Merah Besar	1.36083	103.98222	SG	00
+Tampines Estate	1.35806	103.94028	SG	00
+Sungai Tampines	1.38167	103.95389	SG	00
+Tanjong Tajam	1.42361	103.92639	SG	00
+Tai Seng	1.33611	103.90361	SG	00
+Tai San Estate	1.4	103.68333	SG	00
+Sungai Taib	1.38333	103.93333	SG	00
+Swiss Cottage Estate	1.32	103.83167	SG	00
+Tanjong Surat	1.28167	103.69528	SG	00
+Sungai Unum Estate	1.42139	104.05028	SG	00
+Sungai Tampines	1.3725	103.95444	SG	00
+Sungai Simpang	1.43806	103.82667	SG	00
+Sungai Pus	1.40806	103.88583	SG	00
+Sungai Buloh Estate	1.43333	103.71667	SG	00
+Sultan Shoal	1.23972	103.64972	SG	00
+Selat Sudong	1.20028	103.72556	SG	00
+Pulau Sudong	1.2075	103.72056	SG	00
+Squance Bank	1.39444	103.9675	SG	00
+Tanjong Spau	1.27	103.70639	SG	00
+South Channel	1.43306	103.68417	SG	00
+Sungai Sopok	1.41889	103.855	SG	00
+Song Hah Estate	1.35889	103.66472	SG	00
+Somapah Serangoon	1.36667	103.88333	SG	00
+Somapah Changi	1.34167	103.96361	SG	00
+Tanjong Skopek	1.38333	103.65722	SG	00
+Sin Watt Estate	1.41417	103.95056	SG	00
+Selat Sinki	1.23972	103.70056	SG	00
+Republic of Singapore	1.36667	103.8	SG	00
+Singapore	1.28967	103.85007	SG	00
+Sungai Simpang Mak Wai	1.41167	103.71028	SG	00
+Sungai Simpang Kiri	1.44806	103.84611	SG	00
+Sungai Simpang Kanan	1.45028	103.84639	SG	00
+Simpang Bedok Village	1.33417	103.95222	SG	00
+Sungai Simpang	1.45	103.85278	SG	00
+Simpang	1.43722	103.83528	SG	00
+Siglap	1.31417	103.93639	SG	00
+Karang Si Ajar	1.42556	104.08556	SG	00
+Telok Serong	1.25111	103.83833	SG	00
+Pulau Seringat	1.23028	103.85417	SG	00
+Pulau Seraya	1.2775	103.7275	SG	00
+Sungai Serangoon Kechil	1.40056	103.91722	SG	00
+Serangoon Harbour	1.39778	103.94083	SG	00
+Serangoon Garden Estate	1.36389	103.8575	SG	00
+Sungai Serangoon	1.39056	103.91667	SG	00
+Pulau Serangoon	1.40917	103.92389	SG	00
+Serangoon	1.36278	103.8975	SG	00
+Sentosa	1.25	103.82667	SG	00
+Sungai Senoko	1.47	103.80833	SG	00
+Sennett Estate	1.33194	103.87167	SG	00
+Selat Sengkir	1.25528	103.8325	SG	00
+Pulau Senang	1.17111	103.73528	SG	00
+Pulau Semechek	1.41278	104.03167	SG	00
+Sungai Sembilang	1.38333	103.93333	SG	00
+Sungai Sembilang	1.33333	103.65	SG	00
+Sungai Sembawang Kechil	1.45361	103.81222	SG	00
+Sungai Sembawang	1.46944	103.80528	SG	00
+Sembawang Estate	1.45083	103.82861	SG	00
+Pulau Semakau	1.20667	103.76028	SG	00
+Sungai Selolo	1.34833	103.64694	SG	00
+Terumbu Selit	1.29417	103.6775	SG	00
+Sungai Seletar Simpang Kiri	1.39861	103.83861	SG	00
+Sungai Seletar Simpang Kanan	1.39472	103.83111	SG	00
+Seletar North	1.41917	103.84583	SG	00
+Sungai Seletar	1.40556	103.82861	SG	00
+Pulau Seletar	1.44278	103.86222	SG	00
+Seletar	1.41	103.87417	SG	00
+Pulau Selegu	1.25944	103.81833	SG	00
+Sungai Selarang	1.38722	103.97444	SG	00
+Pulau Sekudu	1.40444	103.98806	SG	00
+Sungai Segar	1.43333	103.75	SG	00
+Pulau Seburus Luar	1.28333	103.73333	SG	00
+Pulau Seburus Dalam	1.26667	103.73333	SG	00
+Sea View Estate	1.3	103.90889	SG	00
+Sungai Sawa	1.41667	103.73333	SG	00
+Pulau Satumu	1.15944	103.74056	SG	00
+Sungai Sarimbun	1.43028	103.68583	SG	00
+Pulau Sarimbun	1.43417	103.685	SG	00
+Sarang Rimau	1.25972	103.80889	SG	00
+Sungai Sanyongkong	1.4025	104.06472	SG	00
+Pulau Sanyongkong	1.395	104.06639	SG	00
+Selat Samulun	1.30222	103.70083	SG	00
+Pulau Samulun	1.30333	103.69694	SG	00
+Sam Heng Estate	1.41361	103.97556	SG	00
+Selat Salu	1.21222	103.71	SG	00
+Pulau Salu	1.21639	103.70694	SG	00
+Sungai Salohor	1.40222	103.87833	SG	00
+Bukit Saleh	1.36639	103.78167	SG	00
+Tanjong Sakunyit	1.30111	103.69361	SG	00
+Selat Sakra	1.26306	103.70722	SG	00
+Pulau Sakra	1.25917	103.70417	SG	00
+Pulau Sakijang Pelepah	1.22222	103.855	SG	00
+Pulau Sakijang Bendera	1.21889	103.84806	SG	00
+Pulau Sakeng	1.20722	103.77806	SG	00
+Pulau Sajahat Kechil	1.40056	104.025	SG	00
+Pulau Sajahat	1.40111	104.02194	SG	00
+Sagenting	1.26667	103.81667	SG	00
+Saga	1.26667	103.83333	SG	00
+Tanjong Romos	1.2175	103.75889	SG	00
+Tanjong Rhu	1.2975	103.86639	SG	00
+Pulau Renggis	1.26028	103.81472	SG	00
+Tanjong Renggam	1.43083	104.045	SG	00
+Red Cliff Bank	1.35667	104.02	SG	00
+Sungai Ranggong	1.26667	103.71667	SG	00
+Rajah Prang Channel	1.41694	104.03028	SG	00
+Race Course Village	1.33333	103.8	SG	00
+Putri Narrows	1.43917	103.69111	SG	00
+Batu Puteh	1.39194	103.97556	SG	00
+Sungai Punggol	1.40833	103.89778	SG	00
+Punggol	1.41444	103.90694	SG	00
+Pulau Ubin Estate	1.42444	103.93444	SG	00
+Sungai Pulau Ubin	1.40528	103.97417	SG	00
+Pulau Ubin Village	1.40333	103.97139	SG	00
+Sungai Pulau Seraya	1.26667	103.73333	SG	00
+Pulau Minyak	1.31667	103.86667	SG	00
+Sungai Puak Besar	1.4	103.85	SG	00
+Sungai Puaka	1.41194	103.85111	SG	00
+Sungai Puaka	1.40583	103.95278	SG	00
+Puaka	1.40833	103.95889	SG	00
+Princess Elizabeth Estate	1.36222	103.75944	SG	00
+Prince Edward Point	1.3	103.76667	SG	00
+Sungai Poyan	1.37361	103.67417	SG	00
+Poh Thian Hock Soon Hin Estate	1.33333	103.66667	SG	00
+Playfair Estate	1.33333	103.88333	SG	00
+Sungai Pinang	1.41417	103.85861	SG	00
+Sungai Pinang	1.37917	103.9	SG	00
+Tanjong Pidara	1.29	103.70361	SG	00
+Sungai Piatu	1.31667	103.63333	SG	00
+Bukit Piatu	1.31667	103.63333	SG	00
+Tanjong Petemin	1.425	104.03167	SG	00
+Sungai Petai	1.41667	103.85	SG	00
+Sungai Pesek	1.28333	103.68333	SG	00
+Selat Pesek	1.28139	103.6925	SG	00
+Pulau Pesek	1.28528	103.68833	SG	00
+Terumbu Pesak	1.26667	103.68333	SG	00
+Perseverance Estate	1.33028	103.91139	SG	00
+Tanjong Perpat Mati	1.26	103.70972	SG	00
+Sungai Pergam	1.4	103.66667	SG	00
+Pulau Pergam	1.39806	103.66139	SG	00
+Tanjong Perepat Tinggi	1.28	103.68583	SG	00
+Sungai Perepat	1.3	103.75	SG	00
+Sungai Perempan Besar	1.4425	103.70444	SG	00
+Tanjong Penyalai	1.20139	103.75944	SG	00
+Tanjong Penjuru	1.29778	103.755	SG	00
+Sungai Peng Siang	1.40389	103.73028	SG	00
+Peng Kang	1.33417	103.66722	SG	00
+Parit Pengkalan Pakau	1.4	104.08333	SG	00
+Pulau Palawan	1.24944	103.81528	SG	00
+Terembu Paya	1.31	103.63139	SG	00
+Pulau Pawai	1.18639	103.72528	SG	00
+Pasir Panjang	1.29278	103.77083	SG	00
+Tanjong Pasir Laba	1.3575	103.64056	SG	00
+Sungai Pasir Laba	1.35	103.65	SG	00
+Tanjong Pasir	1.40972	104.08667	SG	00
+Sungai Pasir	1.43333	103.73333	SG	00
+Sungai Pasir	1.41333	104.08528	SG	00
+Sungai Pasir	1.41306	104.08528	SG	00
+Sungai Pasir	1.28333	103.7	SG	00
+Sungai Pasir	1.31667	103.75	SG	00
+Malang Papan	1.40139	103.98972	SG	00
+Bukit Panjang	1.37278	103.75444	SG	00
+Sungai Pang Sua	1.43694	103.7525	SG	00
+Tanjong Pangkong	1.26861	103.68861	SG	00
+Sungai Pandan Kechil	1.29917	103.75917	SG	00
+Bukit Pandan Kechil	1.28333	103.8	SG	00
+Sungai Pandan	1.29889	103.75694	SG	00
+Selat Pandan	1.24944	103.72917	SG	00
+Pandan IV	1.32417	103.7775	SG	00
+Tanjong Pagar	1.2625	103.84722	SG	00
+Outer Shoal	1.24778	103.86444	SG	00
+Ordnance Reach	1.46139	103.78278	SG	00
+Terumbu Opih	1.29111	103.71889	SG	00
+Opera Estate	1.31806	103.93694	SG	00
+Ong Ting Lye Estate	1.41139	103.98361	SG	00
+Ong Lee	1.35	103.75	SG	00
+Ong Boon and Khoo Soo Chays Estate	1.38333	103.68333	SG	00
+Sungai Nipah	1.41667	103.75	SG	00
+Sungai Nipah	1.28333	103.8	SG	00
+Ng Kay Boon Estate	1.43944	103.73111	SG	00
+Keramat Nenak	1.28333	103.73333	SG	00
+Nee Soon Estate	1.40278	103.81778	SG	00
+The Narrows	1.42889	103.93667	SG	00
+Sungai Nangka	1.38333	103.66667	SG	00
+Nenas Channel	1.42444	103.97861	SG	00
+Sungai Namly	1.32306	103.79972	SG	00
+Namazie Estate	1.42194	103.70694	SG	00
+Tanjong Murai	1.40889	103.66528	SG	00
+Sungai Murai	1.41667	103.66667	SG	00
+Sungai Muka Dua	1.28361	103.715	SG	00
+Mok Peng Hiang Estate	1.44556	103.79694	SG	00
+Middle Channel	1.43694	103.68806	SG	00
+Terumbu Meskol	1.2775	103.71306	SG	00
+Pulau Meskol	1.28	103.71667	SG	00
+Pulau Mesemut Laut	1.28833	103.72278	SG	00
+Pulau Mesemut Darat	1.285	103.72194	SG	00
+Sungai Merlimau	1.28333	103.71667	SG	00
+Pulau Merlimau	1.28639	103.71222	SG	00
+Tanjong Merawang	1.33333	103.63333	SG	00
+Sungai Merawang	1.33333	103.63333	SG	00
+Pulau Merawang	1.33333	103.63333	SG	00
+Tanjong Mengkwang	1.33333	103.98333	SG	00
+Sungai Melayu	1.43972	103.70611	SG	00
+Matilda Estate	1.39944	103.90278	SG	00
+Sungai Mata Ikan	1.33806	103.97389	SG	00
+Mata Ikan	1.33611	103.975	SG	00
+Tanjong Mat	1.28333	103.78333	SG	00
+Maryland Estate	1.32028	103.78694	SG	00
+Marsiling Estate	1.42972	103.7675	SG	00
+Marsiling	1.44111	103.77083	SG	00
+Man-of-War Anchorage	1.27889	103.90861	SG	00
+Sungai Mandai Kechil	1.44306	103.765	SG	00
+Sungai Mandai	1.43806	103.76194	SG	00
+Bukit Mandai II	1.39556	103.76278	SG	00
+Sungai Mamam	1.41833	103.97389	SG	00
+Batu Malang Beldaun	1.43694	104.06194	SG	00
+Tanjong Mak Baok	1.26083	103.72222	SG	00
+Tanjong Mak Aerik	1.28444	103.70028	SG	00
+Sungai Lumpur	1.28333	103.71667	SG	00
+Sungai Loyang	1.38139	103.96667	SG	00
+Lorong Tiga Estate	1.31667	103.86667	SG	00
+Lokyang	1.33	103.68139	SG	00
+Tanjong Lokos	1.21361	103.85167	SG	00
+Sungai Linggang	1.26667	103.71667	SG	00
+Lim Chu Kang Estate	1.41528	103.67667	SG	00
+Lavis Shoal	1.46222	103.8525	SG	00
+Sungai Latoh	1.43333	103.75	SG	00
+Lam San Village	1.37694	103.73139	SG	00
+Lam Kiong Estate	1.34917	103.65278	SG	00
+Lam Hong Estate	1.41583	103.94417	SG	00
+Tanjong Ladang	1.40778	104.03056	SG	00
+Sungai Labu	1.3	103.76667	SG	00
+Sungai Laboh Gandom	1.33333	103.63333	SG	00
+Beting Kusah	1.36667	104	SG	00
+Sungai Kubang Babi	1.28333	103.73333	SG	00
+Kubang Babi	1.28333	103.71667	SG	00
+Kuala Berih Estate	1.38333	103.65	SG	00
+Sungai Kranji	1.42444	103.74167	SG	00
+Tanjong Kling	1.30222	103.70722	SG	00
+Kilburn Estate	1.34028	103.78139	SG	00
+Kian Teck San Estate	1.36167	103.66528	SG	00
+Kian Hong Estate	1.35722	103.72611	SG	00
+Sungai Khatib Bongsu	1.4425	103.85611	SG	00
+Sungai Ketapang	1.32194	103.96528	SG	00
+Ketam Channel	1.40833	103.9475	SG	00
+Pulau Ketam	1.40361	103.94917	SG	00
+Keppel Harbour	1.265	103.83028	SG	00
+Sungai Kedut	1.38889	103.93389	SG	00
+Keat Hong Village	1.37778	103.74417	SG	00
+Tanjong Katong	1.3	103.9	SG	00
+Selat Karang Kait	1.26667	103.71667	SG	00
+Tanjong Karang	1.345	103.63611	SG	00
+Sungai Karang	1.41833	103.67972	SG	00
+Sungai Kangkar	1.41083	103.72444	SG	00
+Kampong Woodleigh	1.34194	103.87194	SG	00
+Kampong Wak Tanjong	1.31667	103.9	SG	00
+Kampong Wak Sekak	1.26667	103.7	SG	00
+Kampong Wak Hassan	1.46139	103.83639	SG	00
+Kampong Wak Dulah	1.38333	103.66667	SG	00
+Kampong Wak Bechik	1.28333	103.71667	SG	00
+Kampong Unum	1.43139	104.05972	SG	00
+Kampong Ulu Pandan	1.34611	103.745	SG	00
+Kampong Ulu Jurong	1.35	103.71667	SG	00
+Kampong Ubi	1.31667	103.9	SG	00
+Kampong Tulloch	1.3	103.78333	SG	00
+Kampong Tongkang Pechah	1.39	103.87639	SG	00
+Kampong Todak	1.42139	104.02167	SG	00
+Tengah	1.37194	103.70389	SG	00
+Kampong Telok	1.38333	103.65	SG	00
+Kampong Tebing Terjun	1.33333	103.75	SG	00
+Kampong Teban	1.37861	103.90778	SG	00
+Kampong Tanjong Penjuru	1.3	103.75	SG	00
+Kampong Tanjong Irau	1.45667	103.84667	SG	00
+Kampong Tanah Merah	1.2625	103.7	SG	00
+Kampong Tampines	1.37	103.95111	SG	00
+Kampong Sungai Tengah	1.38333	103.9	SG	00
+Kampong Sungai Pandan	1.31667	103.75	SG	00
+Kampong Sungai Jurong	1.35167	103.73361	SG	00
+Kampong Sungai Blukar	1.38806	103.91833	SG	00
+Kampong Sungai Belang	1.42333	104.06667	SG	00
+Kampong Sultan	1.28333	103.78333	SG	00
+Kampong Sudong	1.20639	103.72861	SG	00
+Kampong Soopoo	1.31667	103.86667	SG	00
+Kampong Sireh	1.35	103.88333	SG	00
+Kampong Seraya	1.28333	103.73333	SG	00
+Kampong Serangoon Kechil	1.39	103.90722	SG	00
+Kampong Sanyonkong Parit	1.40611	104.06583	SG	00
+Kampong Sanyongkong	1.39833	104.05778	SG	00
+Kampong San Teng	1.34694	103.84083	SG	00
+Kampong Salabin	1.41611	104.03333	SG	00
+Kampong Saigon	1.21667	103.76667	SG	00
+Kampong Reteh	1.33333	103.9	SG	00
+Radin Mas	1.27389	103.82417	SG	00
+Kampong Punggol	1.4125	103.91028	SG	00
+Sungai Kampong Pulau Seraya	1.28333	103.73333	SG	00
+Kampong Pulau Kechil	1.28333	103.73333	SG	00
+Kampong Potong Pasir	1.33333	103.86667	SG	00
+Kampong Pinang	1.38111	103.89417	SG	00
+Kampong Pesek	1.28333	103.68333	SG	00
+Kampong Permatang	1.42417	104.03889	SG	00
+Kampong Perigi Piau	1.23333	103.76667	SG	00
+Kampong Pengkalan Petai	1.40333	103.85	SG	00
+Kampong Pengkalan Pakau	1.40944	104.0725	SG	00
+Kampong Pengkalan Kundor	1.41	103.84444	SG	00
+Kampong Pasir Ris	1.37833	103.93194	SG	00
+Kampong Pasir Merah	1.42917	104.04694	SG	00
+Kampong Pasir	1.40833	104.08417	SG	00
+Kampong Pahang	1.40917	104.03278	SG	00
+Kampong Padang Terbakar	1.33	103.96667	SG	00
+Kampong Pachitan	1.31667	103.91667	SG	00
+Kampong O'Carroll Scott	1.3	103.78333	SG	00
+Kampong Noordin	1.41778	103.965	SG	00
+Kampong Melayu	1.40861	103.97944	SG	00
+Kampong Mandai Kechil	1.44083	103.76528	SG	00
+Kampong Mamam	1.41722	103.97611	SG	00
+Kampong Mak Baok	1.26667	103.71667	SG	00
+Kampong Loyang	1.37778	103.95944	SG	00
+Kampong Lew Lian	1.35	103.86667	SG	00
+Kampong Ladang	1.40444	104.03333	SG	00
+Kampong Ladang	1.33333	103.9	SG	00
+Kampong Kuchai	1.31667	103.86667	SG	00
+Kampong Kranji	1.43333	103.75	SG	00
+Kampong Kitin	1.435	103.85917	SG	00
+Kembangan	1.32228	103.91135	SG	00
+Kampong Kebun Baharu	1.36667	103.86667	SG	00
+Kampong Jelutong	1.40111	103.95889	SG	00
+Kampong Java Teban	1.33333	103.73333	SG	00
+Kampong Jagoh	1.26667	103.81667	SG	00
+Kampong Hock Soon	1.31667	103.86667	SG	00
+Kampong Eunos	1.32083	103.91778	SG	00
+Kampong Cutforth	1.38194	103.73639	SG	00
+Kampong Che Jevah	1.41444	103.98972	SG	00
+Kampong Chantek Baharu	1.35	103.78833	SG	00
+Kampong Changi	1.38333	104	SG	00
+Kampong Chai Chee	1.33333	103.93333	SG	00
+Kampong Bukit Panjang	1.38361	103.76	SG	00
+Kampong Bugis	1.3	103.86667	SG	00
+Kampong Bugis	1.34694	103.96583	SG	00
+Kampong Bugis	1.21667	103.76667	SG	00
+Kampong Blukang	1.35	103.65	SG	00
+Kampong Beremban	1.38139	103.91583	SG	00
+Kampong Bereh	1.37417	103.68444	SG	00
+Kampong Belimbing	1.37111	103.69194	SG	00
+Kampong Batu Koyok	1.39694	104.04778	SG	00
+Kampong Bahru	1.41861	103.97028	SG	00
+Kampong Baharu	1.26667	103.73333	SG	00
+Kampong Ayer Samak Darat	1.41389	104.07222	SG	00
+Kampong Ayer Samak	1.42056	104.07944	SG	00
+Kampong Ayer Merbau	1.26667	103.71667	SG	00
+Kampong Ayer Limau	1.28333	103.71667	SG	00
+Kampong Ayer Gemuruh	1.35	103.98333	SG	00
+Kampong Ayer Bajau	1.36667	103.65	SG	00
+Kampong Amoy Quee	1.38333	103.85	SG	00
+Kampong Amber	1.30028	103.91167	SG	00
+Bukit Kalang	1.36139	103.80944	SG	00
+Kalang	1.33333	103.86667	SG	00
+Sungai Kadut	1.41667	103.73333	SG	00
+Sungai Jurong	1.30444	103.72722	SG	00
+Selat Jurong	1.29667	103.69722	SG	00
+Joo Lim Estate	1.33333	103.68333	SG	00
+Pulau Jong	1.21528	103.78667	SG	00
+Jones Reef	1.4	103.95	SG	00
+Johore Shoal	1.31556	104.05028	SG	00
+Tanjong Jelutong	1.39944	103.95833	SG	00
+Sungai Jelutong	1.43333	103.73333	SG	00
+Sungai Jelutong	1.40111	103.95722	SG	00
+Jalan Kayu	1.39722	103.87194	SG	00
+Tanjong Irau	1.45194	103.85194	SG	00
+Hun Yeang	1.36861	103.93194	SG	00
+Hume Heights	1.355	103.765	SG	00
+Huat Choe	1.34	103.69361	SG	00
+Ho Tong Jen Estate	1.33333	103.95	SG	00
+Horseshoe Reef	1.44222	103.69528	SG	00
+Hong Kah	1.35944	103.72278	SG	00
+Holland Village	1.31194	103.79333	SG	00
+Telok Hokian	1.40639	104.08278	SG	00
+Hoe San Estate	1.38333	103.68333	SG	00
+Henderson Shoal	1.42194	103.98778	SG	00
+Heap Guan Village	1.26667	103.8	SG	00
+Sungai Hantu	1.42889	103.68056	SG	00
+Pulau Keppel	1.26389	103.81194	SG	00
+Pulau Hantu	1.22472	103.74861	SG	00
+Sungai Haji Isa	1.39083	103.92833	SG	00
+Keramat Habib Noor	1.28333	103.85	SG	00
+Keramat Habib Ismail	1.35361	103.76972	SG	00
+Tanjong Gul	1.29528	103.65917	SG	00
+Geylang	1.31953	103.88689	SG	00
+Geylang	1.3275	103.93194	SG	00
+Tanjong Gedong	1.42528	103.67472	SG	00
+Sungai Gedong	1.42139	103.67556	SG	00
+Batu Gajah	1.25583	103.83694	SG	00
+Fuyong Estate	1.35944	103.76806	SG	00
+Frankel Estate	1.31361	103.92944	SG	00
+Fisherman Bank	1.375	104.06611	SG	00
+Fan Shoal	1.42806	103.92667	SG	00
+Fairy Point	1.38944	103.97389	SG	00
+East Lagoon	1.26389	103.84722	SG	00
+Telok Durian	1.2475	103.83972	SG	00
+Dunearn Estate	1.32528	103.82306	SG	00
+Dockyard Reach	1.47222	103.82472	SG	00
+Denman Shoals	1.475	103.80528	SG	00
+Sungai Dekar	1.46111	103.84111	SG	00
+Sungai Dekar	1.41889	103.9125	SG	00
+Tanjong Da	1.24028	103.76139	SG	00
+Cyrene Reefs	1.25639	103.74694	SG	00
+Chye Kay	1.42611	103.82417	SG	00
+Chong Pang	1.44444	103.82389	SG	00
+Tanjong Chombun	1.28972	103.69361	SG	00
+Sungai Choa Chu Kang	1.37889	103.67861	SG	00
+Choa Chu Kang	1.35556	103.68083	SG	00
+Tanjong China	1.23972	103.83278	SG	00
+Sungai China	1.45139	103.77722	SG	00
+Sungai China	1.44694	103.70944	SG	00
+Sungai Chik Manya	1.40167	103.83194	SG	00
+Sungai Chik Abu	1.41028	103.835	SG	00
+Chia Tong Quah Estate	1.40861	104.05083	SG	00
+Chia Keng	1.36	103.89167	SG	00
+Chew Boon Lay Estate	1.33333	103.7	SG	00
+Bukit Chermin	1.26583	103.80917	SG	00
+Tanjong Chenting	1.37444	103.65139	SG	00
+Sungai Che Mat	1.45333	103.84	SG	00
+Sungai Chek Mat Noh	1.425	104.07417	SG	00
+Tanjong Chek Jawa	1.40806	103.99139	SG	00
+Sungai Che Kamis	1.43333	103.85	SG	00
+Tanjong Changi	1.38639	104.0025	SG	00
+Sungai Changi	1.3925	103.98583	SG	00
+Changi Village	1.38444	103.98306	SG	00
+Changi	1.38389	103.98361	SG	00
+Fort Canning	1.3	103.85	SG	00
+Calder Harbour	1.39972	104.09	SG	00
+Tanjong Butun	1.2675	103.72611	SG	00
+Terumbu Busong	1.27722	103.70917	SG	00
+Pulau Busing	1.23444	103.74556	SG	00
+Pulau Buran	1.23889	103.84667	SG	00
+Buona Vista	1.28056	103.78806	SG	00
+Sungai Buntu Kechil	1.3	103.76667	SG	00
+Sungai Buloh Kechil	1.45056	103.72333	SG	00
+Tanjong Buloh	1.45	103.73028	SG	00
+Pulau Buloh	1.45056	103.72528	SG	00
+Bulim	1.37444	103.71778	SG	00
+Pulau Bukum Kechil	1.2275	103.76528	SG	00
+Tanjong Bukum	1.22722	103.75889	SG	00
+Selat Bukum	1.23139	103.76056	SG	00
+Pulau Bukum	1.23389	103.76639	SG	00
+Bukit Timah Estate	1.34028	103.77583	SG	00
+Bukit Sembawang Estate	1.44444	103.85111	SG	00
+Bukit Sembawang Estate	1.45444	103.84083	SG	00
+Bukit Sembawang Estate	1.39556	103.86917	SG	00
+Bukit Sembawang Estate	1.35972	103.97028	SG	00
+Bukit Merah Estate	1.28417	103.82306	SG	00
+Bukit Mandai Village	1.41222	103.75667	SG	00
+Pulau Buaya	1.28444	103.70389	SG	00
+Bukit Brown	1.33333	103.83333	SG	00
+Beting Bronok	1.43694	104.04944	SG	00
+Brickworks Estate	1.28722	103.80833	SG	00
+Brani Shoals	1.26194	103.83917	SG	00
+Pulau Brani	1.25944	103.8325	SG	00
+Braddell Heights Estate	1.34528	103.86528	SG	00
+Boon Lay	1.33333	103.7	SG	00
+Sungai Blukar	1.39056	103.92111	SG	00
+Sungai Blukang Kechil	1.33333	103.63333	SG	00
+Sungai Blukang	1.33333	103.63333	SG	00
+Sungai Blakang Mati	1.2425	103.835	SG	00
+Pulau Biola	1.16444	103.74222	SG	00
+Bian San and Seng Ngiap Estate	1.4	103.66667	SG	00
+Sungai Besar	1.41722	103.95944	SG	00
+Bukit Besar	1.3	103.8	SG	00
+Tanjong Berlayar	1.26278	103.80528	SG	00
+Bukit Berlayar	1.27444	103.79972	SG	00
+Pulau Berkas	1.18944	103.73694	SG	00
+Sungai Berih	1.37972	103.67417	SG	00
+Pulau Berhala Reping	1.25306	103.83806	SG	00
+Sungai Berembang	1.3	103.73333	SG	00
+Benwi	1.31667	103.68333	SG	00
+Sungai Benoi Yantu	1.30944	103.68167	SG	00
+Sungai Bendul	1.36667	103.65	SG	00
+Telok Bendera	1.25333	103.83556	SG	00
+Sungai Belang	1.42917	104.06556	SG	00
+Batu Belalai	1.43083	104.06944	SG	00
+Sungai Bedok	1.32444	103.95917	SG	00
+Bedok	1.31667	103.93333	SG	00
+Pedra Branca	1.33033	104.40802	SG	00
+Tanjong Batu Pengkalan Pakau	1.40028	104.07111	SG	00
+Tanjong Batu Koyok	1.39528	104.04111	SG	00
+Tanjong Batu Kekek	1.41889	103.95528	SG	00
+Sungai Batu Kekek	1.4175	103.95639	SG	00
+Tanjong Batu Gajah	1.41222	104.02306	SG	00
+Tanjong Batu Gajah	1.28333	103.7	SG	00
+Bukit Batok	1.35167	103.76556	SG	00
+Banta Tengeh	1.35	103.65	SG	00
+Sungai Bangkong	1.3	103.76667	SG	00
+Tanjong Bang Beng	1.275	103.70861	SG	00
+Tanjong Balai	1.41806	103.98833	SG	00
+Tanjong Balai	1.3	103.71667	SG	00
+Tanjong Bakau Payong	1.28833	103.68556	SG	00
+Pulau Bakau	1.25861	103.70778	SG	00
+Sungai Bajau Kanan	1.36167	103.65306	SG	00
+Bajau Estate	1.33694	103.66333	SG	00
+Sungai Bajau	1.3625	103.65306	SG	00
+Pulau Bajau	1.36472	103.64917	SG	00
+Busong Bajau	1.36667	103.63333	SG	00
+Bajau	1.35278	103.66028	SG	00
+Sungai Ayer Raja	1.29056	103.77972	SG	00
+Telok Ayer Merbau	1.26667	103.71667	SG	00
+Pulau Ayer Merbau	1.26778	103.71639	SG	00
+Sungai Ayer Gemuruh	1.35	103.98333	SG	00
+Istana Ayer Gemuruh	1.33333	103.98333	SG	00
+Ayer Gemuruh	1.35	103.96667	SG	00
+Sungai Ayer Chawan	1.28333	103.7	SG	00
+Pulau Ayer Chawan	1.27694	103.70056	SG	00
+Telok Ayer Brani	1.26667	103.83333	SG	00
+Sungai Asam	1.41944	103.95056	SG	00
+Sungai Api Api	1.37639	103.95083	SG	00
+Angler Bank	1.34667	104.04167	SG	00
+Anak Pulau	1.28833	103.69417	SG	00
+Ama Keng	1.40444	103.70667	SG	00
+Alligator Shoal	1.42194	103.89806	SG	00
+Alexandra Estate	1.29389	103.81972	SG	00
+Alang Perimbi	1.43556	103.86861	SG	00
+Ajax Shoal	1.23139	103.66722	SG	00
+Aik Hong and Aik Chiang Estate	1.39083	103.72861	SG	00
+Batu Addis	1.43833	103.6875	SG	00
+Telok Achih	1.28528	103.70556	SG	00
+Sungai Achih	1.28333	103.71667	SG	00
+Jurong Basin	1.30556	103.72944	SG	00
+Pulau Pesek Kecil	1.2775	103.68139	SG	00
+Selat Ayer Chawan	1.28056	103.70472	SG	00
+Selat Ayer Merbau	1.2725	103.71944	SG	00
+Benoi Basin	1.30361	103.68222	SG	00
+Selat Meskol	1.28056	103.71972	SG	00
+East Jurong Fairway	1.28778	103.73556	SG	00
+Sinki Fairway	1.24444	103.71694	SG	00
+Terumbu Menalung	1.2125	103.73611	SG	00
+Terumbu Bemban	1.21056	103.74056	SG	00
+Beting Bemban Besar	1.20722	103.74611	SG	00
+Selat Pauh	1.21972	103.75056	SG	00
+Selat Pauh Anchorage	1.2175	103.73833	SG	00
+Terumbu Raya	1.21389	103.75306	SG	00
+Terumbu Pempang Laut	1.23194	103.72333	SG	00
+Terumbu Pempang Tengah	1.22861	103.73083	SG	00
+Terumbu Pempang Darat	1.22694	103.73583	SG	00
+Monggok Gerita	1.22361	103.72444	SG	00
+Terumbu Pandan	1.25861	103.75528	SG	00
+Monggok Tengelam	1.26194	103.68611	SG	00
+Terumbu Serebut	1.24806	103.70111	SG	00
+Terumbu Retan Darat	1.29111	103.75611	SG	00
+Pulau Retan Laut	1.28194	103.76278	SG	00
+Pasir Panjang Fairway	1.27361	103.78306	SG	00
+Terumbu Selegi	1.22639	103.82556	SG	00
+West Keppel Fairway	1.25278	103.77083	SG	00
+Jong Fairway	1.21861	103.8	SG	00
+Terumbu Bukom	1.22028	103.77889	SG	00
+Batu Tangelam	1.22222	103.78139	SG	00
+Batu Kopi	1.22306	103.77944	SG	00
+Pulau Anak Bukum	1.225	103.77	SG	00
+Terumbu Semakau	1.21222	103.76861	SG	00
+Sisters Shoal	1.21472	103.82472	SG	00
+Beting Kapal	1.23167	103.7925	SG	00
+Alert Shoal	1.28333	103.60639	SG	00
+Ayer Raja Industrial Estate	1.29583	103.78972	SG	00
+Ayer Raja New Town	1.305	103.78333	SG	00
+Bishan New Town	1.3504	103.84875	SG	00
+Botanic Gardens	1.31028	103.81639	SG	00
+Bukit Batok New Town	1.35167	103.76278	SG	00
+Bukit Ho Swee Estate	1.28778	103.83	SG	00
+Eunos Industrial Estate	1.32139	103.89861	SG	00
+Fort Siloso	1.25944	103.80917	SG	00
+Haw Par Villa	1.28528	103.78278	SG	00
+Henderson Estate	1.28917	103.82333	SG	00
+Hougang New Town	1.35667	103.89083	SG	00
+Istana Negara	1.30778	103.84306	SG	00
+Johore Causeway	1.45194	103.76972	SG	00
+Jurong East New Town	1.34139	103.73917	SG	00
+Jurong Town	1.33417	103.72278	SG	00
+Jurong Industrial Estate	1.3175	103.68972	SG	00
+Jurong West New Town	1.35028	103.72278	SG	00
+Kaki Bukit Estate	1.3375	103.90917	SG	00
+Kallang Basin Industrial Estate	1.32111	103.86917	SG	00
+Kallang Way Industrial Estate	1.32389	103.87778	SG	00
+Kampong Ampat Industrial Estate	1.33306	103.885	SG	00
+Kampong Tiong Bahru Industrial Estate	1.28222	103.825	SG	00
+Krangji Industrial Estate	1.43583	103.74861	SG	00
+Aljunied	1.33472	103.885	SG	00
+Anson	1.27056	103.84944	SG	00
+Bras Basah	1.29333	103.85889	SG	00
+Bukit Batok	1.36111	103.75639	SG	00
+Bukit Ho Swee	1.28694	103.83111	SG	00
+Bukit Merah	1.28583	103.81944	SG	00
+Bukit Panjang	1.39278	103.7925	SG	00
+Bukit Timah	1.32028	103.75639	SG	00
+Choa Chu Kang	1.41083	103.71139	SG	00
+Crawford	1.30222	103.86806	SG	00
+Geylang East	1.31583	103.88861	SG	00
+Geylang Serai	1.325	103.895	SG	00
+Geylang West	1.315	103.87778	SG	00
+Henderson	1.28222	103.82556	SG	00
+Jalan Besar	1.30944	103.86444	SG	00
+Jalan Kayu	1.40167	103.89	SG	00
+Joo Chiat	1.30667	103.91111	SG	00
+Jurong	1.32028	103.69361	SG	00
+Kallang	1.32028	103.86444	SG	00
+Kampong Chai Chee	1.33833	103.91389	SG	00
+Kampong Glam	1.30222	103.86444	SG	00
+Kampong Kapor	1.30583	103.85667	SG	00
+Kampong Kembangan	1.32583	103.9075	SG	00
+Kampong Ubi	1.32583	103.89861	SG	00
+Katong	1.29778	103.88694	SG	00
+Kim Keat	1.33472	103.86194	SG	00
+Kim Seng	1.28972	103.83389	SG	00
+Kreta Ayer	1.28194	103.84556	SG	00
+Kuo Chuan	1.33611	103.84444	SG	00
+Leng Kee	1.28833	103.81278	SG	00
+Loyang Industrial Estate	1.37472	103.97028	SG	00
+MacPherson	1.32713	103.88413	SG	00
+Marina Centre	1.29056	103.85917	SG	00
+Marina East	1.27194	103.85917	SG	00
+Marina South	1.275	103.85972	SG	00
+Moulmein	1.32028	103.85167	SG	00
+Nee Soon	1.41972	103.83722	SG	00
+Pulau Seringat Kecil	1.22694	103.84778	SG	00
+Pasir Panjang	1.25694	103.77444	SG	00
+Pemalang	1.16306	103.74028	SG	00
+Potong Pasir	1.33639	103.86639	SG	00
+Punggol	1.39278	103.9	SG	00
+Queen Elizabeth Walk	1.28972	103.85528	SG	00
+Queenstown	1.29944	103.80583	SG	00
+Rochor	1.30139	103.85528	SG	00
+Sungai Lanchar	1.3425	103.72167	SG	00
+Sungai Pak Bekang	1.1725	103.73944	SG	00
+Sungai Permatang	1.42444	103.0375	SG	00
+Sungai Rengkam	1.18639	103.72861	SG	00
+Sawa Pemalang	1.18833	103.74833	SG	00
+Selat Berkas	1.19472	103.73	SG	00
+Selat Biola	1.16667	103.74111	SG	00
+Selat Pawai	1.17889	103.72889	SG	00
+Selat Tanjong Hakim	1.21639	103.8425	SG	00
+Seletar Industrial Estate	1.41972	103.86444	SG	00
+Sembawang	1.465	103.81944	SG	00
+Senoko Industrial Estate	1.465	103.83278	SG	00
+Sepoy Lines	1.27861	103.83917	SG	00
+Serangoon Garden	1.36111	103.85972	SG	00
+Serangoon New Town	1.35083	103.87083	SG	00
+Simei New Town	1.34111	103.95611	SG	00
+Sims Avenue Industrial Estate	1.31528	103.87917	SG	00
+Sin Ming Industrial Estate	1.36111	103.83944	SG	00
+Saint Michael's Estate	1.32778	103.86083	SG	00
+Saint Michael's Industrial Estate	1.32917	103.85639	SG	00
+Stamford	1.29333	103.85083	SG	00
+Sungei Kadut Industrial Estate	1.41889	103.74917	SG	00
+Tampines	1.37472	103.94528	SG	00
+Tampines New Town	1.34917	103.94972	SG	00
+Tanglin	1.32944	103.82833	SG	00
+Tanglin Halt	1.30139	103.7975	SG	00
+Tanjong Pagar	1.27694	103.84389	SG	00
+Telok Ayer	1.27944	103.85528	SG	00
+Telok Blangah	1.24806	103.8375	SG	00
+Telok Blangah Industrial Estate	1.29778	103.78556	SG	00
+Terumbu Berkas	1.18583	103.74	SG	00
+Terumbu Buntal	1.19806	103.75361	SG	00
+Terumbu Jambi	1.20222	103.79472	SG	00
+Terumbu Jarat	1.20222	103.77611	SG	00
+Terumbu Mait	1.25611	103.67944	SG	00
+Terumbu Palat	1.20667	103.73778	SG	00
+Terumbu Pemalang Besar	1.19056	103.76833	SG	00
+Terumbu Pemalang Kechil	1.19333	103.76389	SG	00
+Terumbu Penyalai	1.19556	103.76028	SG	00
+Terumbu Sechirit	1.19861	103.77167	SG	00
+Tanjong Batu Balok	1.17333	103.72861	SG	00
+Tanjong Berhala Kuda	1.18056	103.71944	SG	00
+Tanjong Berkat	1.20778	103.77917	SG	00
+Tanjong China	1.20833	103.77528	SG	00
+Tanjong Genting	1.18667	103.7175	SG	00
+Tanjong Rimau	1.25944	103.80694	SG	00
+The Sisters	1.21444	103.83556	SG	00
+Thomson	1.35667	103.8375	SG	00
+Tiong Bahru	1.28139	103.83278	SG	00
+Toa Payoh	1.33611	103.85028	SG	00
+Toa Payoh Industrial Estate	1.33222	103.85444	SG	00
+Triton Shoal	1.27333	103.66833	SG	00
+Ulu Pandan	1.32944	103.80139	SG	00
+Upper Serangoon	1.35778	103.88333	SG	00
+West Point Garden	1.29	103.76917	SG	00
+Whampoa	1.32389	103.85861	SG	00
+Xilin Estate	1.33222	103.96583	SG	00
+Yishun New Town	1.43333	103.83111	SG	00
+Poyan Dyke	1.37667	103.65472	SG	00
+Pergam Dyke	1.39528	103.66278	SG	00
+Sarimbun I	1.41	103.68167	SG	00
+Karang Dyke	1.42556	103.67694	SG	00
+South Sarimbum Dyke	1.42917	103.68083	SG	00
+North Sarimbum Dyke	1.43056	103.68556	SG	00
+Sarimbun II	1.41389	103.69417	SG	00
+Lim Chu Kang	1.43667	103.70944	SG	00
+Lim Chu Kang	1.39556	103.69139	SG	00
+Woodlands New Town	1.44444	103.77667	SG	00
+Marsiling Cau 3T	1.42278	103.77583	SG	00
+Sungai Mandai Village	1.41056	103.77694	SG	00
+Bukit Panjang Estate	1.38167	103.7525	SG	00
+Upper Mandai III	1.38139	103.77111	SG	00
+Upper Mandai IV	1.38722	103.78	SG	00
+Aik Hong and Aik Chiang Estate	1.38639	103.77472	SG	00
+Upper Mandai II	1.38194	103.79639	SG	00
+Public Utilities Board Pipeline	1.45222	103.76944	SG	00
+Upper Mandai I	1.40222	103.78917	SG	00
+Mandai I	1.41444	103.78528	SG	00
+Marsiling Industrial Estate	1.44083	103.78222	SG	00
+Sembawang Shipyard	1.46417	103.82917	SG	00
+King George VI Dock	1.46694	103.82278	SG	00
+Sembawang I	1.41139	103.81139	SG	00
+Seletar I	1.37694	103.82389	SG	00
+Teacher's Housing Estate	1.38333	103.82861	SG	00
+Bukit Sembawang Estate	1.39889	103.82861	SG	00
+Beaulieu Shoal	1.46583	103.83944	SG	00
+Sembawang Wharves	1.4625	103.83639	SG	00
+Lowinger Reef	1.44306	103.85889	SG	00
+Serangoon Sewage Treatment Works	1.38806	103.92611	SG	00
+Punggol I	1.39194	103.89167	SG	00
+Bukit Sembawang Estate	1.38611	103.895	SG	00
+Serangoon	1.35119	103.8723	SG	00
+Kangkar	1.37611	103.90167	SG	00
+Tanjong Punggol	1.42083	103.90806	SG	00
+Ponggol Point	1.42083	103.91194	SG	00
+Punggol III	1.40389	103.905	SG	00
+Punggol V	1.39306	103.90806	SG	00
+Tanjong Tajam	1.42194	103.92917	SG	00
+Cau 5T Changi	1.39	103.98028	SG	00
+Pulau Ubin II	1.41583	103.98778	SG	00
+Changi Point	1.39333	103.98583	SG	00
+Fisherman Bank	1.38389	104.06139	SG	00
+Tekong Kechil	1.415	104.02389	SG	00
+Pulau Tekong VIII	1.40139	104.05694	SG	00
+Pulau Tekong III	1.41472	104.05	SG	00
+Pulau Tekong V	1.42333	104.05694	SG	00
+Pulau Tekong VI	1.41361	104.0575	SG	00
+Sungai Permatang	1.42472	104.03806	SG	00
+Nanyang Cau 2T	1.345	103.68167	SG	00
+Chinese Garden	1.33861	103.73	SG	00
+Japanese Garden	1.33528	103.73111	SG	00
+Tropical Garden	1.33056	103.73083	SG	00
+Singapore Science Centre	1.33278	103.73583	SG	00
+Jurong Shipyard	1.30028	103.69722	SG	00
+Gul Basin	1.30139	103.67139	SG	00
+Southern Tuas Basin	1.30722	103.65361	SG	00
+Merbau	1.26306	103.72917	SG	00
+Pan United Shipyard	1.31722	103.63833	SG	00
+West Jurong Fairway	1.2725	103.65306	SG	00
+West Jurong Anchorage	1.26972	103.63583	SG	00
+Pesek Fairway	1.25972	103.66972	SG	00
+Mobil Oil Depot	1.30694	103.6875	SG	00
+Mobil Oil Refinery	1.28694	103.68806	SG	00
+Tuas Channel	1.29083	103.64333	SG	00
+Long Shoal	1.28972	103.62917	SG	00
+Sembawang	1.42556	103.81611	SG	00
+Singapore Highway Strip Bedok	1.31611	103.955	SG	00
+Singapore Highway Strip Pioneer	1.3225	103.64889	SG	00
+Singapore Tuas West Highway	1.33194	103.64083	SG	00
+Sungai Buloh Besar	1.42889	103.71639	SG	00
+Sungai Buloh	1.44972	103.73139	SG	00
+Sungai Bedok	1.31528	103.96778	SG	00
+Pulau Malang Siajar	1.42583	104.08556	SG	00
+Tuas Jetty	1.28667	103.61444	SG	00
+Raffles Marina	1.34333	103.63528	SG	00
+Bukit Gombak	1.36417	103.75722	SG	00
+Soo Chow Garden	1.35333	103.83083	SG	00
+Thomson Garden Estate	1.35361	103.83861	SG	00
+Mayflower Estate	1.37194	103.83944	SG	00
+Ang Mo Kio II	1.35639	103.83111	SG	00
+Ang Mo Kio VI	1.35778	103.84611	SG	00
+Tai Hwan Gardens	1.35528	103.86083	SG	00
+Ang Mo Kio III	1.34722	103.85	SG	00
+Watten Estate	1.32667	103.81139	SG	00
+Coronation Gardens	1.32333	103.80361	SG	00
+Ngee Ann Polytechnic	1.33111	103.7725	SG	00
+Pandan Valley	1.31833	103.77583	SG	00
+Eng Khong Gardens	1.33611	103.77056	SG	00
+Hong Leong Garden	1.31944	103.75472	SG	00
+Sussex Estate	1.30889	103.76889	SG	00
+Ghim Moh	1.31111	103.78778	SG	00
+Chinese Gardens	1.31139	103.79778	SG	00
+Remand Prison	1.29889	103.80778	SG	00
+Chip Hock Garden	1.32028	103.81361	SG	00
+Sommerville Estate	1.31389	103.80694	SG	00
+Delta Estate	1.29111	103.82944	SG	00
+Kampong Silat Estate	1.27889	103.82639	SG	00
+Pulau Saigon	1.28972	103.84167	SG	00
+Clifford Pier	1.28389	103.85389	SG	00
+North Pier	1.28083	103.85306	SG	00
+Finger Pier	1.27306	103.85167	SG	00
+Albert Dock	1.265	103.84278	SG	00
+Victoria Dock	1.26639	103.84111	SG	00
+Reef Brani	1.26139	103.83778	SG	00
+Empire Dock	1.26972	103.83556	SG	00
+Queen's Dock	1.26639	103.81306	SG	00
+King's Dock	1.26333	103.81611	SG	00
+Duran Darat	1.2475	103.84472	SG	00
+Somapah Serangoon	1.35944	103.90194	SG	00
+Kampong Lew Lian	1.35194	103.89083	SG	00
+Kampong Siren	1.35222	103.89806	SG	00
+Peoples Garden	1.36944	103.90472	SG	00
+Punggol Estate	1.36278	103.90833	SG	00
+Teban II	1.35806	103.93028	SG	00
+Changi Prison	1.35611	103.97444	SG	00
+Kampong Wing Loong	1.35	103.97194	SG	00
+Kampong Darat Nanas	1.35806	103.97944	SG	00
+East View Garden	1.34583	103.96528	SG	00
+Kampong Harvey	1.34361	103.95861	SG	00
+Kim Chuan	1.34139	103.90333	SG	00
+Tai Kheng Gardens	1.3475	103.89972	SG	00
+Ah Soo Garden	1.35028	103.90028	SG	00
+Raya Garden	1.34806	103.89722	SG	00
+Happy Gardens	1.33056	103.89639	SG	00
+Chai Chee Estate	1.32667	103.93333	SG	00
+Bedok Village	1.3225	103.96139	SG	00
+Bedok Garden	1.32278	103.95778	SG	00
+Kampong Tanah Merah Kechil	1.32056	103.95556	SG	00
+Kampong Sek Lim	1.3325	103.96167	SG	00
+Eastern Gardens	1.31806	103.945	SG	00
+Marine Parade	1.30306	103.90778	SG	00
+Rose Garden	1.30278	103.91472	SG	00
+Pulau Ular Reef	1.23722	103.75722	SG	00
+Pulau Tekukor	1.23028	103.83833	SG	00
+Pulau Tembakul	1.22306	103.86139	SG	00
+Saint John's East	1.22222	103.85389	SG	00
+Pulau Jong	1.21556	103.78667	SG	00
+Kampong Sakeng	1.20778	103.77778	SG	00
+Pulau Salu	1.21722	103.70667	SG	00
+Pulau Pawai	1.18417	103.72167	SG	00
+Bukit Lang Kuku	1.18889	103.73028	SG	00
+Bukit Berhala Kuda	1.1825	103.72167	SG	00
+Sungai Besar	1.18694	103.72889	SG	00
+Bukit Genting	1.18639	103.71778	SG	00
+Pulau Senang	1.17472	103.73278	SG	00
+Bukit Batu Balok	1.17306	103.72944	SG	00
+Bukit Pak Bekang	1.17333	103.73889	SG	00
+Bukit Patrosumpak	1.16806	103.73417	SG	00
+Bukit Kelapa Tujoh Pokok	1.16722	103.73722	SG	00
+Bukit Prigi Kling	1.16861	103.73889	SG	00
+Biola	1.16417	103.74222	SG	00
+Telok Ratai	1.17417	103.74028	SG	00
+Sultan Fairway	1.24278	103.64278	SG	00
+East Keppel Fairway	1.25833	103.88056	SG	00
+Sisters Fairway	1.22222	103.84444	SG	00
+Kallang Basin	1.30139	103.86917	SG	00
+Saint Andrews Cathedral	1.29222	103.85222	SG	00
+Southern Fairway	1.19722	103.83278	SG	00
+Karang Hambat	1.20167	103.84667	SG	00
+Jambi South	1.20167	103.79583	SG	00
+Jambi West	1.20278	103.79417	SG	00
+Central Lagoon	1.24861	103.82222	SG	00
+Western Quarantine and Immigration Anchorage	1.21833	103.82361	SG	00
+Western Working Anchorage	1.23556	103.81333	SG	00
+Western Petroleum Anchorage A	1.24167	103.79667	SG	00
+Pasir Panjang Coastal Anchorage	1.275	103.76639	SG	00
+Sultan Shoal Petroleum Anchorage	1.23278	103.64167	SG	00
+Tuas Explosives Anchorage	1.26833	103.61611	SG	00
+Liquefied Gas Carriers Anchorage	1.24722	103.64667	SG	00
+Eastern Quarantine and Immigration Anchorage	1.24333	103.89	SG	00
+Red Cliff Shoal	1.33	104.015	SG	00
+Eastern Fairway	1.26694	103.93361	SG	00
+Copper Channel	1.22333	103.85667	SG	00
+Malang Orang	1.2325	103.73361	SG	00
+Sultan Shoal Petroleum Anchorage B	1.23833	103.64667	SG	00
+Buran Channel	1.25444	103.85083	SG	00
+Meander Shoal	1.26167	103.82444	SG	00
+Freyberg Channel	1.22667	103.85528	SG	00
+Water Boat Channel	1.24333	103.84056	SG	00
+Fairburn Channel	1.23028	103.84944	SG	00
+Kuala Johor	1.39944	104.03361	SG	00
+North Channel	1.46694	104.38333	SG	00
+Thong Hoe	1.42583	103.70694	SG	00
+Woodlands	1.44417	103.77333	SG	00
+Causeway Shoal	1.44444	103.74972	SG	00
+Woodlands Garden	1.43861	103.77	SG	00
+Mayang	1.42389	103.84833	SG	00
+Seletar	1.4175	103.87528	SG	00
+Punggol Fishing Port	1.40417	103.91833	SG	00
+Pulau Sekudu	1.40417	103.98833	SG	00
+Ubin	1.41861	103.93028	SG	00
+Koyok	1.38361	104.05	SG	00
+Pioneer	1.31889	103.66139	SG	00
+Tuas	1.31972	103.63778	SG	00
+Tian Guan Estate	1.35972	103.82611	SG	00
+Tiong Guan Estate	1.35611	103.82583	SG	00
+Sims Avenue	1.31278	103.87556	SG	00
+Pierce	1.36028	103.81361	SG	00
+Kim Seng	1.29028	103.8325	SG	00
+Dangerous Goods Anchorage	1.27667	103.75806	SG	00
+Queenway	1.29389	103.79917	SG	00
+Nus	1.29861	103.77167	SG	00
+National Youth Leadership Training Centre	1.28222	103.79139	SG	00
+Clementi	1.31472	103.76889	SG	00
+Eastern Petroleum Anchorage A	1.25833	103.92389	SG	00
+Eastern Special Purposes Anchorage B	1.29472	103.96944	SG	00
+Eastern Petroleum Anchorage C	1.29083	103.95083	SG	00
+Eastern Special Purposes Anchorage A	1.28111	103.95056	SG	00
+Laid-Up Vessels Anchorage	1.29306	103.94278	SG	00
+Explosives Anchorage	1.28417	103.90861	SG	00
+Eastern Working Anchorage	1.26722	103.89722	SG	00
+Corridor Anchorage	1.2475	103.91056	SG	00
+Marine Parade	1.30306	103.92389	SG	00
+Eunos	1.32694	103.91583	SG	00
+Defu Industrial Estate	1.35806	103.90528	SG	00
+Hougang	1.34917	103.89278	SG	00
+Tampines	1.35389	103.95	SG	00
+Simei	1.3475	103.96389	SG	00
+Moon Crescent Prison	1.35806	103.97528	SG	00
+Mata Ikan	1.33639	103.98111	SG	00
+Changi General Purposes Anchorage	1.33194	104.05833	SG	00
+Pulau Hantu	1.22528	103.74861	SG	00
+First Bukom	1.23722	103.77222	SG	00
+Second Bukom	1.23556	103.77528	SG	00
+Third Bukom	1.23222	103.7775	SG	00
+Fourth Bukom	1.23028	103.77889	SG	00
+Western Petroleum Anchorage B	1.24111	103.78472	SG	00
+Ang Mo Kio New Town	1.38028	103.83972	SG	00
+Bukit Panjang New Town	1.37972	103.76472	SG	00
+Yishun	1.43139	103.82917	SG	00
+Bedok New Town	1.32639	103.94167	SG	00
+Bedok	1.34167	103.95083	SG	00
+Clementi New Town	1.31583	103.76472	SG	00
+Pasir Ris New Town	1.37222	103.94778	SG	00
+Queenstown Estate	1.29417	103.8025	SG	00
+Alexandra Village	1.28528	103.80444	SG	00
+Pulau Ayer Chawan Industrial Estate	1.27806	103.70194	SG	00
+Pulau Ayer Merbau Industrial Estate	1.26861	103.71528	SG	00
+Pulau Merlimau Industrial Estate	1.28667	103.7125	SG	00
+Pulau Mesemut Darat Industrial Estate	1.285	103.72194	SG	00
+Pulau Mesemut Laut Industrial Estate	1.28861	103.72306	SG	00
+Pulau Meskol Industrial Estate	1.28028	103.71694	SG	00
+Pulau Pesek Industrial Estate	1.28556	103.68861	SG	00
+Pulau Seraya Industrial Estate	1.27778	103.72778	SG	00
+Tanglin Halt Industrial Estate	1.30444	103.79472	SG	00
+Tanjong Rhu Industrial Estate	1.29667	103.86917	SG	00
+Telok Blangah New Town	1.27472	103.81167	SG	00
+Ang Mo Kio New Town	1.36917	103.84972	SG	00
+Choa Chu Kang New Town	1.3825	103.74972	SG	00
+Changi	1.39278	103.99028	SG	00
+Bedok Ville	1.32444	103.95444	SG	00
+Pasir Panjang I	1.28306	103.79111	SG	00
+Bukit Pasir Panjang	1.28306	103.79111	SG	00
+Asia Pacific Breweries	1.33722	103.65028	SG	00
+City	1.28583	103.83222	SG	00
+United States Embassy	1.29472	103.84972	SG	00
+Bukit Rimau	1.44806	103.78833	SG	00
+Batu Rimau	1.44806	103.78833	SG	00
+Chua Chu Kang	1.42778	103.69806	SG	00
+Serangoon	1.39583	103.84389	SG	00
+Serangoon Garden	1.37778	103.86528	SG	00
+Ulu Kalang	1.36917	103.81944	SG	00
+Abingdon Prison	1.36778	103.98056	SG	00
+Changi Women's Prison	1.35972	103.9775	SG	00
+Faber Garden	1.36306	103.82972	SG	00
+North Channel	1.44111	103.69	SG	00
+South Bukom	1.22083	103.78056	SG	00
+President Dock	1.45	103.81389	SG	00
+Premier Dry Dock	1.44167	103.80278	SG	00
+Bethlehem Shipyard	1.44167	103.79722	SG	00
+Kam Wak Hassan	1.4375	103.83056	SG	00
+Triton Petroleum Anchorage	1.26806	103.65833	SG	00
+Tuas Explosives Lighters Anchorage	1.27639	103.60833	SG	00
+Tanjong Hakim	1.22361	103.84306	SG	00
+Cooper Channel	1.225	103.84861	SG	00
+Eastern Holding Anchorage	1.24722	103.92361	SG	00
+Gamat-eMas Network (Singapore) Blk 34, Whampoa West	1.31989	103.86245	SG	
+Meridien	1.29955	103.84194	SG	
+Traders	1.30445	103.82375	SG	
+Allson	1.29679	103.85131	SG	
+Marina Mandarin	1.2921	103.8573	SG	
+Asia	1.31049	103.83365	SG	
+Fullerton	1.28637	103.85275	SG	
+Sha Villa	1.29784	103.83933	SG	
+Chinatown	1.28032	103.8419	SG	
+Fragrance Pearl	1.311	103.879	SG	
+Supreme	1.30058	103.84237	SG	
+Quality	1.32	103.853	SG	
+Grand Copthorne	1.28979	103.83544	SG	
+Rendezvous Singapore	1.2985	103.8486	SG	
+Orchard Parade	1.30683	103.82767	SG	
+Relc International	1.31303	103.82578	SG	
+InterContinental	1.29867	103.85449	SG	
+Grand Central	1.30169	103.84153	SG	
+Furama City Centre	1.28658	103.84426	SG	
+Elizabeth	1.3071	103.83578	SG	
+York	1.3077	103.83611	SG	
+Berjaya	1.27964	103.84298	SG	
+Meritus Negara	1.30733	103.82973	SG	
+Garden	1.31583	103.8333	SG	
+Meritus Mandarin Singapore	1.3029	103.836	SG	
+Grand Mercure Roxy	1.305	103.904	SG	
+Fragrance Ruby	1.313	103.881	SG	
+Royal At Newton	1.3149	103.84105	SG	
+Fragrance Emerald	1.312	103.876	SG	
+Summerview	1.30179	103.85206	SG	
+Shangri-La	1.30867	103.82752	SG	
+Fragrance Joo Chiat	1.312	103.901	SG	
+Peninsula Excelsior	1.292	103.84997	SG	
+Phoenix	1.30082	103.84015	SG	
+Four Seasons	1.30411	103.82767	SG	
+Regent	1.305	103.826	SG	
+Amara	1.27503	103.84326	SG	
+Royal At Queens	1.29773	103.85191	SG	
+Claremont	1.31103	103.85499	SG	
+Royal Peacock	1.28037	103.84122	SG	
+Miramar	1.28856	103.83732	SG	
+Le Meridien Singapore	1.3003	103.8419	SG	
+Conrad Centennial Singapore	1.2937	103.8585	SG	
+Pan Pacific Singapore	1.2917	103.8584	SG	
+Negara on Claymore	1.3079	103.8302	SG	
+Novotel Clarke Quay Singapore	1.292	103.8447	SG	
+Swissotel The Stamford, Singapore	1.2929	103.8529	SG	
+The Oriental Singapore	1.2917	103.8581	SG	
+FOUR SEASONS SINGAPORE	1.2833	103.85	SG	
+THE REGENT SINGAPORE	1.30396	103.82358	SG	
+SOMERSET BENCOOLEN	1.29915	103.85045	SG	
+SOMERSET ORCHARD  SINGAPORE	1.30076	103.84071	SG	
+BLK 658D	1.33723	103.70008	SG	
+BLK658D	1.33731	103.70061	SG	
+Temasek Polytechnic	1.34571	103.93242	SG	
+Suntec Singapore International Convention and Exhibition Centre	1.29351	103.85702	SG	
+Johor	1.48265	103.91041	SG	
+Ministry of Information, Communications and the Arts	1.29063	103.84809	SG	
+The Central	1.28928	103.84711	SG	
+Night Safari	1.40226	103.78789	SG	
+Chinatown Singapore	1.2824	103.844	SG	
+Chijmes	1.29514	103.852	SG	
+Rathaus Singapur	1.29056	103.852	SG	
+Merlion	1.28694	103.855	SG	
+One Raffles Quay	1.28167	103.852	SG	
+OUB Centre	1.28469	103.851	SG	
+Novena	1.31697	103.8438	SG	02
+Eunos	1.32252	103.89822	SG	
+Bugis	1.30056	103.85493	SG	
+Admiralty	1.44069	103.80093	SG	
+Orchard	1.30256	103.83469	SG	
+Bukit Timah	1.34184	103.77394	SG	
+Lavender	1.30717	103.86301	SG	
+Newton	1.30902	103.83757	SG	
+Sengkang New Town	1.39167	103.89444	SG	
+HarbourFront	1.2652	103.8201	SG	
+Central Singapore Community Development Council	1.29868	103.85367	SG	01
+North East Community Development Region	1.31421	103.85822	SG	02
+South East Community Development Council	1.30683	103.88698	SG	04
+South West Community Development Council	1.31464	103.83007	SG	05
+North West Community Development Council	1.29868	103.81986	SG	03
+Kranji Racecourse	1.42301	103.76565	SG	
+Universal Studios Singapore	1.25573	103.82102	SG	
+Tanah Merah Port	1.2632	103.69321	SG	
+Pan Pacific Orchard, Singapore	1.30761	103.83012	SG	
+BIG	1.301	103.852	SG	
+Dorsett	1.281	103.84078	SG	
+Kam Leng	1.31323	103.8597	SG	
+Cultural	1.31	103.859	SG	
+Changi Cove	1.38976	103.97616	SG	
+Carlton City	1.27553	103.84454	SG	
+Changi Village	1.38888	103.97791	SG	
+Concorde	1.30078	103.84193	SG	
+Capella Singapore	1.24839	103.82831	SG	
+Wanderlust	1.30495	103.85458	SG	
+81 - Rochor	1.30377	103.85405	SG	
+The Saff	1.2808	103.84169	SG	
+81 Bugis	1.29699	103.8555	SG	
+Value Thomson	1.32685	103.84274	SG	
+The Quincy	1.30775	103.83575	SG	
+Ibis Singapore Novena	1.32623	103.84571	SG	
+New Majestic	1.27961	103.8409	SG	
+Fragrance - Balestier	1.32691	103.85754	SG	
+Fragrance - Imperial	1.30922	103.86243	SG	
+81 - Star	1.311	103.881	SG	
+Fairmont Singapore	1.29403	103.85361	SG	
+Fragrance - Rose	1.33429	103.87487	SG	
+81 Joo Chiat	1.30947	103.9025	SG	
+Metropolitan Y	1.32974	103.83007	SG	
+Ymca International	1.30164	103.838	SG	
+Meritus Mandarin Orchad Singapore	1.30249	103.83645	SG	
+81 Orchid	1.31112	103.87722	SG	
+81 Tristar	1.316	103.897	SG	
+Ambassador	1.3088	103.85578	SG	
+Meritius Orchard	1.30217	103.83585	SG	
+Moon @ 23 Dickson	1.30527	103.85423	SG	
+81 Palace	1.3121	103.88011	SG	
+Fragrance - Selegie	1.31404	103.87212	SG	
+Fragrance Hostel	1.30473	103.8535	SG	
+Crown At Orchard	1.30166	103.83804	SG	
+Le Peranakan	1.30858	103.91135	SG	
+Fragrance Crystal	1.31084	103.88058	SG	
+Mandarin Oriental	1.29063	103.85803	SG	
+Fragrance - Royal	1.26974	103.81371	SG	
+The Sentosa	1.247	103.828	SG	
+Equarius	1.26475	103.82401	SG	
+Carlton Singapore Superior	1.29609	103.85229	SG	
+Mandarin Orchard Deluxe	1.30217	103.83585	SG	
+Pan Pacific Singapore Deluxe	1.29244	103.85841	SG	
+Marina Mandarin Deluxe	1.29083	103.85998	SG	
+Mandarin Oriental Premier Harbour	1.29055	103.8583	SG	
+Pan Pacific Orchard Executive	1.30737	103.82966	SG	
+81 Opera	1.31165	103.90063	SG	
+Capri By Fraser	1.33655	103.96521	SG	
+W Sentosa Cove	1.24626	103.84231	SG	
+Fragrance Elegance	1.3049	103.85357	SG	
+East Village	1.304	103.902	SG	
+Ibis On Bencoolen	1.30224	103.85305	SG	
+Capella (Premier Sea View)	1.24972	103.82428	SG	
+St Regis (Lady Astor)	1.30617	103.82653	SG	
+The Sultan	1.30331	103.86102	SG	
+Amoy	1.283	103.849	SG	
+Re	1.28551	103.83825	SG	
+Quarters Hostel	1.28768	103.84889	SG	
+Royal Hostel Singapore	1.28226	103.84442	SG	
+Clover The Arts	1.28749	103.84828	SG	
+Clover 33 Jalan Sultan	1.30204	103.86183	SG	
+Aqueen Jalan Besar	1.30926	103.85787	SG	
+Village Residence Clarke Quay	1.28812	103.84271	SG	
+St Regis (Grand Deluxe)	1.30625	103.82652	SG	
+Village Residence Robertson Qu	1.291	103.841	SG	
+Swissotel Stamford (Classic Harbour Vw)	1.2931	103.85342	SG	
+Marina Mandarin (Executive Deluxe)	1.29095	103.86004	SG	
+Shangri-La (Tower Wing Deluxe)	1.31219	103.82572	SG	
+Shangri-La (Garden Wing Deluxe)	1.31202	103.82569	SG	
+Mandarin Oriental (Premier Ocean)	1.29068	103.85829	SG	
+Shangri-La (Valley Wing Deluxe)	1.30951	103.82657	SG	
+St Regis (Executive Deluxe)	1.30617	103.82653	SG	
+Shangri-La Rasa Sentosa (Dlx Sea View)	1.25496	103.81121	SG	
+Sofitel So Singapore	1.27993	103.8497	SG	
+Duxton (Deluxe Double)	1.27839	103.84316	SG	
+The Duxton (Previously Berjaya	1.279	103.843	SG	
+Parc Sovereign Albert St	1.30367	103.85114	SG	
+Fragrance Ocean View	1.29241	103.76859	SG	
+Fragrance Waterfront	1.2922	103.76902	SG	
+Grand U	1.305	103.855	SG	
+Plush Pods	1.29824	103.85692	SG	
+Nuve	1.30267	103.85846	SG	
+Ibackpacker Kallang	1.31087	103.87311	SG	
+Buncradius Clarke Quay	1.28802	103.8487	SG	
+Blissful Loft	1.28761	103.84702	SG	
+Adler Hostel	1.28228	103.84529	SG	
+Tresor Tavern Hostel	1.30953	103.85785	SG	
+Fortuna Singapore	1.31156	103.85492	SG	
+Abc Premium Hostel	1.3135	103.85322	SG	
+Kawan Hostel	1.30458	103.85401	SG	
+Capsules The Little Red Dot	1.31213	103.8616	SG	
+Capri By Fraser Changi City	1.33557	103.96461	SG	
+Santa Grand Lai Chun Yuen	1.28253	103.84403	SG	
+Bunc Radius Hostel	1.30549	103.85492	SG	
+Grand C	1.31	103.856	SG	
+Central Square Village Residences	1.2881	103.84277	SG	
+Naumi Liora	1.28065	103.84173	SG	
+Fragrance Sunflower	1.31143	103.87753	SG	
+Orchard Scotts Residences	1.31	103.839	SG	
+Moevenpick Heritage (Heritage Premium)	1.25343	103.82004	SG	
+Pan Pacific Singapore (Deluxe Balcony)	1.29244	103.85841	SG	
+Pan Pacific Singapore (Harbour Studio)	1.29244	103.85841	SG	
+Pan Pacific Singapore (Panoramic)	1.29248	103.85843	SG	
+Metropolitan Ymca	1.31679	103.8263	SG	
+Arianna	1.30902	103.85607	SG	
+Santa Grand Little India	1.30769	103.85302	SG	
+Santa Grand Aljunied	1.31088	103.88203	SG	
+Sentosa	1.24969	103.83119	SG	

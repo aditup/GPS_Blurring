@@ -1,0 +1,379 @@
+Woodlands Estate	12.01667	-61.73333	GD	03
+Woodford Estate	12.1	-61.73333	GD	04
+Woburn	12.02059	-61.73403	GD	03
+Windward	12.51667	-61.43333	GD	00
+Windsor Castle	12.03333	-61.7	GD	02
+Windsor	12.13333	-61.66667	GD	01
+Willis	12.08333	-61.71667	GD	03
+White Gun	12.05	-61.73333	GD	03
+Waltham Estate	12.2	-61.68333	GD	05
+Waltham	12.2	-61.7	GD	05
+Vineyard	12.05	-61.7	GD	02
+Vincennes	12.05796	-61.68691	GD	02
+Victoria	12.19021	-61.70677	GD	05
+Vendome Estate	12.06667	-61.7	GD	03
+Vendome	12.08559	-61.71263	GD	03
+Upper Pearls	12.15	-61.61667	GD	01
+Upper La Taste	12.18333	-61.61667	GD	06
+Upper La Tante	12.05	-61.65	GD	02
+Union Village	12.1	-61.63333	GD	01
+Union Estate	12.2	-61.66667	GD	06
+Union	12.2	-61.66667	GD	06
+Union	12.2	-61.65	GD	06
+Tuilleries Estate	12.08333	-61.63333	GD	01
+True Blue Point	11.99439	-61.76786	GD	03
+True Blue	12	-61.76667	GD	03
+Trou Jab	12	-61.78333	GD	03
+Tricolar	12.18333	-61.65	GD	06
+Trevellan	12.21667	-61.63333	GD	06
+Tivoli	12.16667	-61.61667	GD	00
+The Lime	12.01667	-61.76667	GD	03
+The Lance	12.16667	-61.71667	GD	04
+The Cliff	12.01667	-61.73333	GD	03
+The Bocas	12.03333	-61.73333	GD	03
+Thebaide	12.05	-61.66667	GD	02
+Terre Cannes	12.06667	-61.66667	GD	02
+Tempe	12.05	-61.73333	GD	03
+Telescope Point	12.12486	-61.60462	GD	01
+Telescope	12.11667	-61.61667	GD	01
+Tarleton Point	12.48333	-61.41667	GD	00
+Tanteen	12.03333	-61.73333	GD	03
+Tanga Langua	12.23333	-61.65	GD	06
+Syracuse	12.03333	-61.68333	GD	02
+Sugar Loaf	12.23067	-61.60728	GD	06
+The Spout	12.03333	-61.75	GD	03
+Southwest Point	12.43602	-61.49938	GD	00
+Soubise Point	12.1	-61.61667	GD	01
+Soubise	12.1	-61.61667	GD	01
+Snug Corner	12.06667	-61.73333	GD	03
+The Sisters	12.29938	-61.61749	GD	00
+Simon	12.13853	-61.61921	GD	01
+Ships Deck	12	-61.78333	GD	03
+Sauteurs	12.21833	-61.63917	GD	06
+Sans Souci Estate	12.11667	-61.63333	GD	01
+Sans Souci	12.05	-61.75	GD	03
+Samaritan Estate	12.2	-61.66667	GD	06
+Point Salines	12.0027	-61.802	GD	03
+Saint Pierre Point	12.03333	-61.63333	GD	02
+Saint Paul's	12.05	-61.71667	GD	02
+Saint Paul's	12.03333	-61.71667	GD	03
+Saint Patrick	12.2	-61.63333	GD	06
+Saint Omer	12.13333	-61.66667	GD	01
+Saint Mary	12.15	-61.7	GD	04
+Saint Mark	12.18333	-61.68333	GD	05
+Saint Margaret	12.1	-61.68333	GD	01
+Saint John	12.1699	-61.63899	GD	01
+Saint John	12.11667	-61.63333	GD	01
+Saint John	12.13333	-61.71667	GD	04
+Saint James	12.1	-61.65	GD	01
+Point Saint Hilaire	12.5	-61.41667	GD	00
+Saint George's Harbour	12.05	-61.75	GD	03
+Saint George's Estate	12.06667	-61.71667	GD	03
+Saint George's	12.05644	-61.74849	GD	03
+Saint George	12.05	-61.73333	GD	03
+Saint Eloi Point	12.05	-61.75	GD	03
+Saint David's Point	12	-61.66667	GD	02
+Saint David's Harbour	12.01667	-61.66667	GD	02
+Saint David's	12.04903	-61.66875	GD	02
+Saint David	12.05	-61.66667	GD	02
+Saint Cyr	12.11667	-61.65	GD	01
+Saint Cyr	12.1	-61.68333	GD	01
+Saint Cloud	12.11667	-61.63333	GD	01
+Saint Andrew	12.11667	-61.65	GD	01
+Ruth Howard	12.01667	-61.75	GD	03
+Ross Point	12.03333	-61.75	GD	03
+Rosemont	12.15	-61.7	GD	04
+Richmond	12.1	-61.73333	GD	03
+Richmond	12.1	-61.65	GD	01
+Retreat	12.06667	-61.71667	GD	03
+Retreat	12.06667	-61.66667	GD	01
+Requin Point	12.03333	-61.65	GD	02
+Requin Estate	12.03333	-61.65	GD	02
+Ravine	12.05	-61.73333	GD	03
+Radix	12.05	-61.71667	GD	03
+Quarantine Point	12.01667	-61.76667	GD	03
+Pyrenees	12.13333	-61.66667	GD	01
+Punch Bowl	12.2	-61.63333	GD	06
+Providence Estate	12.05	-61.68333	GD	02
+Providence	12.05	-61.66667	GD	02
+Prospect	12.21667	-61.66667	GD	06
+Prickly Point	11.98771	-61.76168	GD	03
+Post Royal	12.1	-61.63333	GD	01
+Portici Ruins	12	-61.76667	GD	03
+Pomme Rose	12.05	-61.65	GD	00
+Plaisance Land Settlement	12.13333	-61.68333	GD	00
+Plaisance Estate	12.18333	-61.65	GD	06
+Plaisance Estate	12.15	-61.7	GD	04
+Plaisance	12.1	-61.63333	GD	01
+Plains Estate	12.2	-61.61667	GD	06
+Pierre Marie	12.06667	-61.65	GD	01
+Pointe du Petit Trou	12.01667	-61.65	GD	02
+Petit Etang	12.05	-61.68333	GD	02
+Petite Martinique	12.51667	-61.38333	GD	00
+Petite Dominique	12.5	-61.4	GD	00
+Petite Anse	12.03333	-61.63333	GD	02
+Petit Calivigny Point	12	-61.71667	GD	03
+Petit Calivigny	12	-61.71667	GD	03
+Petit Cabrits Point	12.01667	-61.76667	GD	03
+Petit Bouc	12.01667	-61.75	GD	03
+Petit Balthazar	12.1	-61.66667	GD	01
+Petit Bacaye	12.01667	-61.68333	GD	02
+Perseverance Estate	12.1	-61.73333	GD	03
+Perdmontemps	12.05	-61.7	GD	02
+Peggys Whim	12.16667	-61.63333	GD	06
+Pecher	12.11667	-61.68333	GD	01
+Pearls	12.15	-61.61667	GD	01
+Paradise	12.13333	-61.68333	GD	04
+Paradise	12.13333	-61.61667	GD	01
+Parade	12.05	-61.73333	GD	03
+Paraclete	12.15	-61.63333	GD	01
+Panorama	12.22015	-61.65015	GD	06
+Palmiste Point	12.13333	-61.73333	GD	04
+Palmiste Estate	12.13333	-61.73333	GD	04
+Paddock	12.03333	-61.73333	GD	03
+Pointe des Orties	12.18333	-61.71667	GD	05
+North Point	12.51667	-61.38333	GD	00
+Nonpareil	12.2	-61.68333	GD	05
+Nianganfoix Estate	12.11667	-61.66667	GD	01
+Nianganfoix	12.11667	-61.66667	GD	01
+New Hampshire	12.08333	-61.71667	GD	03
+Nettle Point	12.18333	-61.71667	GD	05
+Munich	12.08206	-61.64453	GD	01
+Moya	12.15519	-61.6259	GD	01
+Morne Tranquille	12.05	-61.7	GD	02
+Morne Rouge	12.01667	-61.76667	GD	03
+Morne Longue	12.11667	-61.68333	GD	01
+Morne Jaloux	12.13333	-61.68333	GD	00
+Morne Jaloux	12.01667	-61.73333	GD	03
+Morne Gazo	12.03333	-61.7	GD	02
+Morne Fendue	12.2	-61.63333	GD	06
+Morne Docteur	12.1	-61.75	GD	03
+Morne Delice Estate	12.03333	-61.7	GD	02
+Mont Tout	12.01667	-61.75	GD	03
+Montreuil	12.18333	-61.63333	GD	06
+Mon Repos	12.03333	-61.66667	GD	02
+Mon Plaisir	12.11667	-61.71667	GD	04
+Moliniere Point	12.08333	-61.75	GD	03
+Moliniere	12.08333	-61.75	GD	03
+Mirabeau Estate	12.13333	-61.65	GD	01
+Mirabeau	12.11667	-61.65	GD	01
+Point Mion	12.51667	-61.38333	GD	00
+Minorca Estate	12.05	-61.7	GD	02
+Menere Point	12.05	-61.61667	GD	01
+Meldrum	12.5	-61.43333	GD	00
+McIntosh Point	12.48333	-61.46667	GD	00
+Maulti	12.03333	-61.66667	GD	02
+Fort Matthew	12.05	-61.73333	GD	03
+Marquis Point	12.01667	-61.66667	GD	02
+Marquis	12.08333	-61.61667	GD	01
+Marli	12.21667	-61.63333	GD	06
+Marigot	12.11667	-61.75	GD	04
+Marian	12.01667	-61.71667	GD	03
+Mardigras	12.05	-61.71667	GD	03
+Mardigras	12.05	-61.7	GD	02
+Maran	12.17544	-61.72198	GD	05
+Mango	12.08333	-61.71667	GD	03
+Mamma Cannes	12.06667	-61.65	GD	01
+Malagon Estate	12.18333	-61.66667	GD	06
+Mahot	12.05	-61.63333	GD	01
+Madeys Estate	12.21667	-61.63333	GD	06
+Mabouya	12.15	-61.73333	GD	04
+Lower Woburn	12.01667	-61.73333	GD	03
+Lower Pearls	12.13333	-61.61667	GD	01
+Lower La Taste	12.18333	-61.61667	GD	06
+Lower La Tante	12.05	-61.63333	GD	01
+Loretto Estate	12.15	-61.71667	GD	04
+Lobster Point	12	-61.68333	GD	02
+Little Tobago	12.5	-61.4	GD	00
+Little David Point	12.21667	-61.66667	GD	06
+Little Bacolet Point	12	-61.68333	GD	02
+Levera Development	12.2	-61.61667	GD	06
+Levera	12.21667	-61.63333	GD	06
+L'Etage	12.18333	-61.63333	GD	06
+L'Esterre	12.46667	-61.48333	GD	00
+L'Esterre	12.11667	-61.63333	GD	01
+Les Tantes	12.31631	-61.55652	GD	00
+L'Esperance	12.18333	-61.7	GD	05
+Le Petit Trou	12.01667	-61.65	GD	02
+Lauriston Point	12.46667	-61.46667	GD	00
+Laurant Point	12.23333	-61.65	GD	06
+Laura	12.03333	-61.7	GD	02
+La Tante Point	12.05	-61.63333	GD	01
+La Sagesse Estate	12.01667	-61.66667	GD	02
+L'Appelle	12.51667	-61.43333	GD	00
+La Poterie	12.17348	-61.60935	GD	00
+La Pastora Estate	12.03333	-61.68333	GD	02
+Lance aux Epines	11.99902	-61.75724	GD	03
+La Mode	12.2	-61.63333	GD	06
+La Mode	12.06667	-61.73333	GD	03
+La Mabonya	12.16667	-61.73333	GD	04
+Laisse Point	11.9994	-61.78777	GD	03
+The Lagoon	12.03333	-61.75	GD	03
+La Fortune	12.21667	-61.63333	GD	06
+La Filette	12.13333	-61.63333	GD	01
+La Femme	12.03333	-61.7	GD	02
+La Digue	12.1	-61.63333	GD	01
+La Chaussee	12.01667	-61.66667	GD	02
+Laborie	12.04441	-61.72798	GD	03
+Kendeace Point	12.45	-61.41667	GD	00
+Ka-fe Beau	12.03333	-61.75	GD	03
+Jack Iron Point	12.46667	-61.5	GD	00
+Industry	12.21667	-61.68333	GD	06
+Horne	12	-61.75	GD	03
+Hope Vale Estate	12.01667	-61.71667	GD	02
+Hope Estate	12.06667	-61.63333	GD	01
+Hope Bacolet	12.08333	-61.61667	GD	01
+High Cliff Point	12.18333	-61.6	GD	06
+Hermon	12.15	-61.61667	GD	01
+Hermitage	12.45	-61.46667	GD	00
+Hermitage	12.16667	-61.63333	GD	06
+Hermitage	12.06667	-61.73333	GD	03
+Hazeldene Estate	12.2	-61.63333	GD	06
+Harford Village	12.11667	-61.63333	GD	01
+Hampstead Estate	12.05	-61.66667	GD	02
+Halifax Harbour	12.11111	-61.74821	GD	00
+Gwa Kay	12.01667	-61.76667	GD	03
+Gun Point	12.53333	-61.45	GD	00
+Gros Point	12.18333	-61.71667	GD	05
+Gretna Green	12.05	-61.75	GD	03
+Grenville Vale Estate	12.08333	-61.73333	GD	03
+Grenville	12.12278	-61.62498	GD	01
+Grenada	12.11667	-61.66667	GD	00
+Grenada	12.11667	-61.66667	GD	00
+Great Bacolet Point	12.07752	-61.61794	GD	01
+Great Arm	12.15	-61.73333	GD	04
+Granton	12.08333	-61.71667	GD	03
+Grand Roy	12.12902	-61.74504	GD	04
+Grand Mal	12.06667	-61.75	GD	03
+Grand Etang	12.09811	-61.69689	GD	01
+Grand Bras	12.13333	-61.63333	GD	01
+Grand Bras	12.11667	-61.63333	GD	01
+Grand Bacolet Estate	12.06667	-61.63333	GD	01
+Grand Anse Estate	12	-61.75	GD	03
+Grand Anse	12.01667	-61.75	GD	03
+Gouyave Estate	12.15	-61.71667	GD	04
+Gouyave	12.16462	-61.72965	GD	04
+Good Hope Estate	12.05	-61.71667	GD	03
+Fort George	12.05	-61.75	GD	03
+Frequente	12	-61.76667	GD	03
+Fort Frederick	12.05	-61.73333	GD	03
+Fota	12.51667	-61.4	GD	00
+Point of Fort Jeudy	11.98333	-61.7	GD	03
+Fort Jeudy	12	-61.7	GD	03
+Fort George Point	12.05	-61.75	GD	03
+Ford	12.11667	-61.61667	GD	01
+Fontenoy	12.06667	-61.75	GD	03
+Florida Estate	12.15	-61.7	GD	04
+Florida	12.16142	-61.70462	GD	04
+Falege	12.03333	-61.75	GD	03
+Helvellyn	12.21667	-61.63333	GD	06
+Egmont Harbour	12	-61.71667	GD	03
+Port Egmont	12	-61.71667	GD	03
+Point Egmont	12	-61.71667	GD	03
+Egmont	12	-61.71667	GD	03
+Duquesne Point	12.21667	-61.68333	GD	05
+Duquesne	12.2	-61.66667	GD	06
+Dunfermline	12.13795	-61.63063	GD	01
+Dumfries Point	12.45	-61.45	GD	00
+Dumfries	12.46667	-61.46667	GD	00
+Dover	12.5	-61.43333	GD	00
+Dougaldston Estate	12.15	-61.71667	GD	04
+Dothan	12.13333	-61.73333	GD	04
+Diego Piece	12.2	-61.66667	GD	00
+Diamond Estate	12.18333	-61.7	GD	05
+Des Isles Point	12.21667	-61.68333	GD	06
+Des Isles	12.21667	-61.66667	GD	06
+De Frietas Cottages	12.03333	-61.75	GD	03
+Deblando	12.1	-61.63333	GD	01
+Davidall Estate	12.11667	-61.73333	GD	04
+D'Arbeau	12.05	-61.75	GD	03
+Crochu Point	12.05	-61.63333	GD	01
+Crochu Harbour	12.05	-61.63333	GD	01
+Crochu	12.05	-61.65	GD	01
+Craigston Point	12.5	-61.45	GD	00
+The Cove	12.1	-61.75	GD	04
+Corinth Estate	12.03333	-61.66667	GD	02
+Corinth	12.03333	-61.66667	GD	02
+Corbeau Town	12.03333	-61.71667	GD	00
+Content	12.03333	-61.66667	GD	02
+Constantine	12.06667	-61.71667	GD	03
+Conference	12.15	-61.61667	GD	01
+Confer	12.01667	-61.71667	GD	03
+Concord Valley	12.11667	-61.71667	GD	04
+Concord	12.11667	-61.73333	GD	04
+Clozier	12.14291	-61.69776	GD	04
+Clabony	12.13333	-61.66667	GD	01
+Point Cistern	12.48333	-61.5	GD	00
+Chutz	12.1	-61.65	GD	01
+Charlotte Vale	12.03333	-61.7	GD	02
+Chantimelle	12.212	-61.66212	GD	06
+Chantilly Estate	12.05	-61.73333	GD	03
+Champs Fleurs	12.05	-61.68333	GD	02
+Chambord Estate	12.2	-61.61667	GD	06
+Chadeau Estate	12.13333	-61.68333	GD	01
+Chadeau	12.13333	-61.68333	GD	01
+Celeste	12.21667	-61.63333	GD	06
+Castaigne	12.11667	-61.66667	GD	01
+Carriere Estate	12.15	-61.61667	GD	01
+Carriere	12.16667	-61.63333	GD	01
+Carriacou	12.47697	-61.47168	GD	00
+Caribs Leap	12.21667	-61.63333	GD	06
+Calliste	12	-61.76667	GD	03
+Calivigny Harbour	12	-61.7	GD	02
+Calivigny Estate	12.01667	-61.71667	GD	03
+Calivigny	12.01667	-61.73333	GD	03
+Cafe	12.03333	-61.73333	GD	03
+Bylands	12.13333	-61.66667	GD	01
+Brothers Estate	12.15	-61.7	GD	04
+Brizan	12.1	-61.75	GD	03
+Brimmington Estate	12.1	-61.65	GD	01
+Breteche Point	12.45	-61.43333	GD	00
+Boulogne Estate	12.13333	-61.63333	GD	01
+Bonne Gaye	12.03333	-61.63333	GD	02
+Bonair Estate	12.18333	-61.7	GD	05
+Bon Accord Estate	12.06667	-61.71667	GD	03
+Bois de Gannes	12.03333	-61.7	GD	02
+Bogles	12.5	-61.43333	GD	00
+Bocage Estate	12.18333	-61.7	GD	05
+Boca	12.06667	-61.71667	GD	03
+Blow Hole	11.98333	-61.78333	GD	03
+Blaize	12.15	-61.65	GD	01
+Blair Athol Estate	12.2	-61.65	GD	06
+Belvidere	12.13333	-61.7	GD	01
+Belvedere	12.5	-61.43333	GD	00
+Belmont	12.18333	-61.68333	GD	05
+Belmont	12.16667	-61.63333	GD	06
+Belmont	12.0413	-61.74792	GD	03
+Bellevue	12.18333	-61.68333	GD	05
+Bellevue	12.1	-61.65	GD	01
+Bellevue	12.05	-61.65	GD	02
+Belle Plain	12.03333	-61.71667	GD	02
+Belle Isle	12.03333	-61.65	GD	02
+Belair Estate	12.16667	-61.68333	GD	05
+Belair	12.48333	-61.43333	GD	00
+Belair	12.15	-61.61667	GD	01
+Bedford Point	12.21667	-61.6	GD	06
+Becke Moui	12.01667	-61.7	GD	02
+Beausejour Estate	12.1	-61.73333	GD	03
+Beauregard	12.11293	-61.67625	GD	01
+Beaulieu	12.06667	-61.73333	GD	03
+Beaton	12.03333	-61.7	GD	02
+Bamboo	12	-61.78333	GD	03
+Balthazar Estate	12.11667	-61.65	GD	01
+Baillies Bacolet Estate	12.01667	-61.68333	GD	02
+Baillies Bacolet	12.03333	-61.68333	GD	02
+Artiste Point	12.16667	-61.6	GD	00
+Arthur Seat	12.16667	-61.63333	GD	06
+Argyle	12.45601	-61.47852	GD	10
+Apres Tout	12.05	-61.66667	GD	02
+Annandale Estate	12.08333	-61.71667	GD	03
+Amber Belair	12	-61.75	GD	03
+Fort Adolphus	12.03333	-61.73333	GD	03
+Adelphi	12.1	-61.66667	GD	01
+SOUTHWINDS HOLIDAY COTTAGES	12.1439	-61.6167	GD	
+WAVE CREST HOLIDAY HTL	12.1439	-61.6167	GD	
+LANCE AUX EPINES COTTAGES	12.1125	-61.6822	GD	
+Carriacou and Petite Martinique	12.48485	-61.43623	GD	10
+Gouyave Fish Market	12.16766	-61.72937	GD	
+Grenadian All Inclusive	12.00221	-61.80247	GD	
+La Source	12.00731	-61.79406	GD	

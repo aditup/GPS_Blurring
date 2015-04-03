@@ -1,0 +1,515 @@
+Dangerous Point	-52.00435	-58.34977	FK	00
+Yorke Point	-51.67343	-57.78538	FK	00
+Port William	-51.66675	-57.80951	FK	00
+Wickham Heights	-51.74316	-58.57895	FK	00
+White Rincon	-51.56469	-59.04136	FK	00
+White Point	-51.91667	-58.56667	FK	00
+White Point	-51.76667	-58.15	FK	00
+White Cliff Point	-51.90501	-59.59304	FK	00
+White Bluff	-51.9	-58.75	FK	00
+Wharton Harbour	-51.96726	-59.58727	FK	00
+Whale Point	-51.8729	-58.2466	FK	00
+Whalebone Cove	-51.7	-57.81667	FK	00
+West Point	-52.2	-59.31667	FK	00
+West Point	-51.35907	-59.8291	FK	00
+West Falkland	-51.64297	-59.89473	FK	00
+West Cove	-51.9	-58.55	FK	00
+Wedge Islet	-52.01549	-59.82705	FK	00
+Watt Cove	-51.68333	-57.86667	FK	00
+Volunteer Point	-51.51246	-57.74138	FK	00
+Volunteer Lagoon	-51.50652	-57.84711	FK	00
+The Viper	-51.68333	-57.71667	FK	00
+Victoria Harbour	-51.9314	-58.83096	FK	00
+Tyssen Patch	-51.89613	-59.71907	FK	00
+Two Sisters	-51.69066	-58.03404	FK	00
+Tussac Point	-51.68333	-57.81667	FK	00
+Turn Point	-51.8	-58.25	FK	00
+Turn Islet	-52.1241	-58.91793	FK	00
+Turners Stream	-51.65284	-57.94768	FK	00
+Rincon de los Tres Picos	-51.45	-58.96667	FK	00
+Tranquilidad	-51.81374	-59.09212	FK	00
+Teal Inlet Settlement	-51.54571	-58.42355	FK	00
+Teal Inlet	-51.54006	-58.41769	FK	00
+Tamar Harbour	-51.34456	-59.42061	FK	00
+Cape Tamar	-51.2837	-59.47473	FK	00
+Swan Inlet	-51.86449	-58.54597	FK	00
+Port Sussex	-51.64939	-59.04583	FK	00
+Sulivan Harbour	-52.0506	-59.17828	FK	00
+Sturgess Point	-51.34309	-59.58631	FK	00
+Strike Off Point	-51.58757	-57.97441	FK	00
+Stanley Harbour	-51.68812	-57.84793	FK	00
+Stanley	-51.7	-57.85	FK	00
+Squib Point	-51.83333	-58.93333	FK	00
+Sparrow Point	-51.65933	-57.80705	FK	00
+Sparrow Cove	-51.6546	-57.80388	FK	00
+Snug Cove	-52.18634	-59.41982	FK	00
+Sisters	-52.18731	-58.99265	FK	00
+Ship Point	-52.10045	-59.09186	FK	00
+Shepherds Brook	-51.66667	-58.96667	FK	00
+Shell Point	-52.09683	-58.98743	FK	00
+Shanty Stream	-51.64819	-58.03264	FK	00
+Shag Harbour	-51.73333	-59.6	FK	00
+Seaview Point	-51.58065	-59.05868	FK	00
+Seal Point	-52.10221	-59.06999	FK	00
+Seal Point	-51.73805	-57.84313	FK	00
+Sea Lion Point	-51.35873	-58.33996	FK	00
+Seal Cove	-52.02883	-58.65803	FK	00
+Saturday Point	-52.03042	-59.09977	FK	00
+Salvador Settlement	-51.43409	-58.37199	FK	00
+Sandy Cove	-52.05188	-59.1405	FK	00
+Sand Fountain	-51.48333	-58.75	FK	00
+San Carlos Water	-51.54518	-59.06486	FK	00
+San Carlos Settlement	-51.57357	-59.03499	FK	00
+Port San Carlos	-51.49769	-59.05681	FK	00
+Port Salvador	-51.53082	-58.36445	FK	00
+Salt Lagoon	-51.35	-58.61667	FK	00
+Sal Point	-52.05837	-58.5246	FK	00
+Rincon de Saino	-51.61667	-58.26667	FK	00
+Rookery Valley	-51.6	-57.9	FK	00
+Robinson Point	-51.28642	-59.9884	FK	00
+Rincon Grande Settlement	-51.46151	-58.30933	FK	00
+Reef Point	-52.09276	-58.46601	FK	00
+Reef Point	-51.31688	-59.90538	FK	00
+Rain Cove	-51.96667	-58.63333	FK	00
+Race Point	-51.41192	-59.09432	FK	00
+Rabbit Point	-51.30193	-59.71238	FK	00
+Rabbit Cove	-51.66667	-57.78333	FK	00
+Rabbit Cove	-51.43333	-59.65	FK	00
+Pyramid Point	-52.01338	-58.59379	FK	00
+Pyramid Cove	-52.00644	-58.60055	FK	00
+Port Purvis	-51.4311	-59.46402	FK	00
+Prong Point	-52.09714	-58.4138	FK	00
+Port San Carlos Settlement	-51.50184	-58.98751	FK	00
+Port Louis South	-51.6	-58.15	FK	00
+Port Louis Harbour	-51.54919	-58.11199	FK	00
+Port Louis Settlement	-51.52367	-58.10896	FK	00
+Port Howard	-51.6154	-59.52301	FK	00
+Porpoise Point	-52.34953	-59.30896	FK	00
+Poker Point	-51.57257	-59.06552	FK	00
+Poke Point	-51.60439	-59.3894	FK	00
+Pleasant Point	-51.81596	-58.16667	FK	00
+Pleasant Lagoon	-51.78551	-58.38964	FK	00
+Port Pleasant	-51.79763	-58.20173	FK	00
+Platt Point	-51.48333	-58.36667	FK	00
+Piedra Sola	-51.53333	-58.76667	FK	00
+Rincon del Picaso	-51.56667	-58.4	FK	00
+Philips Point	-51.7178	-57.81329	FK	00
+Penguin Point	-52.01751	-58.44578	FK	00
+Penarrow Point	-51.68333	-57.86667	FK	00
+Cape Pembroke	-51.6827	-57.71964	FK	00
+Pebble Sound	-51.36667	-59.5	FK	00
+Pebble Cove	-51.25898	-59.82588	FK	00
+Peat Islet	-51.55	-58.06667	FK	00
+Peat Cove	-51.85	-58.26667	FK	00
+Orqueta	-51.86667	-59.23333	FK	00
+Ordnance Point	-51.67399	-57.80869	FK	00
+Norton Inlet	-51.85	-58.85	FK	00
+North West Arm	-52.15982	-59.45824	FK	00
+North Point	-51.28347	-59.95636	FK	00
+North Lookout	-51.47688	-58.0379	FK	00
+North Falkland Sound	-51.31272	-59.17949	FK	00
+North East Reef	-51.30578	-59.88079	FK	00
+North Basin	-51.73962	-58.06063	FK	00
+North Arm Settlement	-52.12373	-59.36763	FK	00
+North Arm	-52.13333	-59.36667	FK	00
+Noola Point	-51.68333	-57.8	FK	00
+Newings Reef	-51.5	-58.38333	FK	00
+New Haven	-51.733	-59.20905	FK	00
+Navy Point	-51.68235	-57.83173	FK	00
+The Narrows	-51.68309	-57.82954	FK	00
+Narrow Point	-51.73333	-57.95	FK	00
+Mylor Point	-51.88333	-58.5	FK	00
+Murray Heights	-51.7006	-57.85787	FK	00
+The Moro	-51.42684	-58.52602	FK	00
+Rincon del Moro	-51.44455	-58.5845	FK	00
+Moody Valley	-51.68333	-57.95	FK	00
+Moody Brook	-51.68554	-57.92245	FK	00
+Cerro Montevideo	-51.50595	-58.88656	FK	00
+Monkey Point	-51.53928	-57.95573	FK	00
+Moffitt Harbour	-52.08704	-59.60726	FK	00
+Mintay	-52.96667	-59.26667	FK	00
+Middle Shoal	-52.26667	-59.23333	FK	00
+Middle Point	-51.38615	-59.00386	FK	00
+Mengeary Point	-51.64393	-57.72613	FK	00
+Mariquita	-51.9	-59.4	FK	00
+Mare Harbour	-51.89899	-58.4985	FK	00
+Main Point	-51.42293	-59.73056	FK	00
+Magellan Point	-51.51667	-58.01667	FK	00
+Magellan Cove	-51.51667	-58	FK	00
+Macbride Head	-51.36289	-57.94771	FK	00
+Low Point	-52.08075	-59.10076	FK	00
+Low Point	-51.95341	-58.69848	FK	00
+Lorenzo Lagoon	-51.35125	-58.67185	FK	00
+Lively Sound	-52.07962	-58.56934	FK	00
+Little Rincon	-51.57763	-59.04117	FK	00
+Lion Point	-51.36667	-59.83333	FK	00
+Lion Point	-51.30085	-58.58285	FK	00
+Lerat Point	-51.56667	-58.11667	FK	00
+Lancaster Point	-51.31667	-59.91667	FK	00
+Lamarche Point	-51.53333	-57.98333	FK	00
+The Lagoon	-51.76667	-58.08333	FK	00
+Lafonia	-51.87067	-59.23939	FK	00
+Knob Point	-51.9909	-58.60478	FK	00
+Knob Point	-51.81667	-58.28333	FK	00
+Port King	-51.91	-59.53366	FK	00
+Kidney Cove	-51.63333	-57.75	FK	00
+Keppel Sound	-51.30645	-59.84434	FK	00
+Keppel Islet	-51.26998	-59.89255	FK	00
+Kelp Point	-51.86031	-58.21426	FK	00
+Kelp Lagoon	-51.86667	-58.25	FK	00
+Kelp Islet	-52.1313	-59.01466	FK	00
+Kelp Harbour	-51.78066	-59.31723	FK	00
+Justice Inlet	-51.31722	-59.93518	FK	00
+Johnson Harbour Settlement	-51.49837	-58.03967	FK	00
+Johnson Harbour	-51.52083	-58.01417	FK	00
+John Point	-51.87873	-58.81014	FK	00
+Jersey Point	-51.43492	-59.19998	FK	00
+Jersey Harbour	-51.46107	-59.28099	FK	00
+Jamesons Stream	-51.63333	-57.91667	FK	00
+Islet Point	-51.66667	-57.91667	FK	00
+Islet Cove	-51.8	-58.11667	FK	00
+Rincon de los Indios	-51.31526	-58.62985	FK	00
+Hut Point	-51.39218	-58.28174	FK	00
+Hutchison Shoal	-51.65	-57.68333	FK	00
+Hummock Point	-51.36878	-59.65982	FK	00
+Port Howard	-51.64017	-59.54576	FK	00
+Horse Point	-51.71667	-57.81667	FK	00
+Hope Cottage	-51.86315	-59.35632	FK	00
+Hookers Point	-51.69974	-57.77754	FK	00
+Hells Kitchen	-51.65	-57.76667	FK	00
+Hearnden Water	-51.66667	-57.86667	FK	00
+Port Harriet	-51.73333	-57.91667	FK	00
+Hamond Cove	-51.96667	-58.61667	FK	00
+Hamblin Cove	-51.66667	-57.81667	FK	00
+Halfway Cove	-52.21402	-59.68842	FK	00
+Green Point	-51.58333	-58.03333	FK	00
+Green Patch	-51.56667	-58.18333	FK	00
+Grantham Sound	-51.65248	-59.15914	FK	00
+Rincon Grande	-51.48747	-58.31369	FK	00
+Government Islet	-51.21568	-59.9154	FK	00
+Goose Green Settlement	-51.82591	-58.96714	FK	00
+Goose Green	-51.73333	-57.83333	FK	00
+Glen Point	-51.34446	-59.98815	FK	00
+Gipsy Cove	-51.67468	-57.80577	FK	00
+Gascoigne Point	-51.3367	-59.92052	FK	00
+Garnier Point	-51.56667	-58.11667	FK	00
+Garden Point	-51.76667	-58.2	FK	00
+Point Frio	-51.46667	-58.43333	FK	00
+Cape Frehel	-51.384	-58.23159	FK	00
+Point Frances	-51.30607	-59.92584	FK	00
+Fox Point	-51.92168	-58.40252	FK	00
+Fox Harbour	-52.09199	-59.11841	FK	00
+Flores Harbour	-52.2205	-59.58053	FK	00
+Fitzroy North	-51.73333	-58.25	FK	00
+Fitzroy Basin	-51.75	-58.16667	FK	00
+Port Fitzroy	-51.7768	-58.12274	FK	00
+Fitzroy Settlement	-51.78694	-58.22629	FK	00
+Fitz Cove	-51.75738	-58.18358	FK	00
+Findlay Harbour	-51.99007	-59.61296	FK	00
+Felton Stream	-51.7	-57.9	FK	00
+Fanny Islets	-52.24122	-59.31253	FK	00
+Fanning Head	-51.4649	-59.13762	FK	00
+Fanning Harbour	-51.47796	-59.08564	FK	00
+Falkland Sound	-51.70916	-59.44563	FK	00
+Fairy Cove	-51.68333	-57.88333	FK	00
+Engineer Point	-51.68267	-57.82645	FK	00
+Enderby Point	-52.0228	-58.55196	FK	00
+Eliza Cove	-51.73333	-57.83333	FK	00
+Elephant Point	-51.88405	-58.30044	FK	00
+Elephant Cays	-52.13003	-59.85119	FK	00
+Port Egmont	-51.3618	-60.0122	FK	00
+Egg Harbour	-51.82217	-59.38026	FK	00
+East Point	-51.78333	-58.11667	FK	00
+East Head	-51.99845	-60.01398	FK	00
+East Falkland	-51.96067	-59.27251	FK	00
+East Cove	-51.90602	-58.43456	FK	00
+Eagle Point	-51.55	-57.75	FK	00
+Duperrey Harbour	-51.56667	-58.11667	FK	00
+Duclos Point	-51.53333	-58.01667	FK	00
+Driftwood Point	-52.25807	-59.02404	FK	00
+Douglas Settlement	-51.45986	-58.60883	FK	00
+Dos Lomas	-51.78333	-59.25	FK	00
+Cape Dolphin	-51.23505	-58.96658	FK	00
+Dog Point	-51.91667	-58.86667	FK	00
+Doctors Head	-51.51557	-59.06018	FK	00
+Doctor Point	-51.66301	-57.81677	FK	00
+Direction Islet	-51.89663	-58.35122	FK	00
+Deep Channel	-51.36319	-59.65889	FK	00
+Darwin Narrows	-51.83333	-58.93333	FK	00
+Darwin Harbour	-51.82526	-58.95074	FK	00
+Darwin	-51.80693	-58.95961	FK	00
+Danson Harbour	-52.10368	-59.64343	FK	00
+Cygnet Harbour	-51.88928	-59.48403	FK	00
+Cutter Cove	-51.75254	-59.25425	FK	00
+Cranmer	-51.33333	-59.93333	FK	00
+Cow Point	-52.22575	-59.22168	FK	00
+Cow Point	-51.78333	-58.13333	FK	00
+Corral Brazo	-51.34923	-58.80792	FK	00
+Clump Islet	-52.02461	-59.75313	FK	00
+Cliff Point	-52.00997	-58.52284	FK	00
+Clam-Bed Point	-51.68333	-57.86667	FK	00
+Choiseul Sound	-51.93865	-58.58468	FK	00
+Charles Point	-51.65817	-57.77241	FK	00
+Chancho Point	-51.49715	-59.12705	FK	00
+Chabot Point	-51.51667	-58.05	FK	00
+Ceritos	-51.71667	-58.85	FK	00
+Cattle Point	-52.17319	-59.31599	FK	00
+Cattle Point	-51.8	-58.11667	FK	00
+Cat Islet	-51.53687	-59.15376	FK	00
+Cape Carysfort	-51.41534	-57.85272	FK	00
+Carruther Point	-51.35703	-59.95048	FK	00
+Careening Cove	-51.5	-58.96667	FK	00
+The Careenage	-51.53333	-58.11667	FK	00
+Canard Cove	-51.55	-58.16667	FK	00
+The Canache	-51.7	-57.78333	FK	00
+Burnt Point	-51.86667	-58.26667	FK	00
+Bull Point	-52.33246	-59.29774	FK	00
+Bull Point	-52.11714	-59.07386	FK	00
+Bull Point	-51.81667	-58.3	FK	00
+Bull Islet	-52.29019	-59.33785	FK	00
+Bull Cove	-52.34188	-59.33184	FK	00
+Brenton Loch	-51.7606	-59.01543	FK	00
+Cape Bougainville	-51.3003	-58.46532	FK	00
+Bold Point	-51.77054	-58.06096	FK	00
+Bold Point	-51.63267	-59.47913	FK	00
+Bold Point	-51.45518	-58.45526	FK	00
+Bold Point	-51.34538	-59.92138	FK	00
+Bodie Inlet	-51.85	-59.05	FK	00
+Boat Point	-51.84627	-58.21504	FK	00
+Bluff Head	-52.08107	-58.8663	FK	00
+Bluff Cove	-51.74826	-58.17847	FK	00
+The Bluff	-51.24743	-58.93864	FK	00
+Black Rincon	-51.58717	-59.02805	FK	00
+Black Point	-51.63632	-57.74001	FK	00
+Berkeley Sound	-51.56869	-57.89301	FK	00
+Beatrice Cove	-51.65	-57.75	FK	00
+Arroyomalo	-51.61254	-58.30516	FK	00
+Arrow Point	-51.66108	-57.78665	FK	00
+Arrow Harbour	-51.87078	-58.9387	FK	00
+Archer Cove	-51.9	-58.61667	FK	00
+Aiguade Cove	-51.58333	-58.15	FK	00
+Adventure Sound	-52.11088	-59.00929	FK	00
+Adventure Harbour	-52.18951	-59.05943	FK	00
+Peat Bog Point	-52.3606	-59.81577	FK	00
+Bleaker Jump	-52.25345	-59.00274	FK	00
+North Point	-52.13439	-58.82663	FK	00
+Lively Settlement	-51.99407	-58.45664	FK	00
+Bluff Cove Settlement	-51.74753	-58.17563	FK	00
+Lawson Bank	-51.83333	-58.03333	FK	00
+Port William	-51.66667	-57.78333	FK	00
+Green Patch Settlement	-51.54833	-58.11785	FK	00
+Black Point	-51.3334	-58.37869	FK	00
+Pebble Islet	-51.25296	-59.86969	FK	00
+Keppel Settlement	-51.33121	-59.94331	FK	00
+Goat Point	-51.41977	-58.29505	FK	00
+Deep Valley	-51.38696	-58.08347	FK	00
+Platt Point Rincon	-51.4827	-58.3629	FK	00
+Rabbit Rincon	-51.38333	-58.05	FK	00
+Dutchmans Brook	-51.38333	-57.88333	FK	00
+Volunteer Shanty	-51.46674	-57.82158	FK	00
+Mushroom Point	-51.51667	-58.03333	FK	00
+Northern Valley	-51.49108	-58.15849	FK	00
+Port Louis	-51.53333	-58.16667	FK	00
+Jack's Point	-51.53333	-58.11667	FK	00
+Black Point	-51.53333	-58.1	FK	00
+Grave Point	-51.53531	-58.01892	FK	00
+Diamond Cove	-51.53333	-57.91667	FK	00
+Oberon Patch	-51.82002	-59.70915	FK	00
+Semaphore Point	-52.16785	-59.65983	FK	00
+Black Point	-52.18235	-59.64245	FK	00
+Shag Point	-52.2222	-59.67037	FK	00
+Tank Point	-52.29286	-59.73558	FK	00
+Strike Off Point	-52.30217	-59.67989	FK	00
+Tea Point	-52.35	-59.65	FK	00
+Little Chartres	-51.75066	-59.96266	FK	00
+Jenesta Point	-51.26298	-59.60267	FK	00
+Wreck Point	-51.27877	-59.5446	FK	00
+Ship Harbour	-51.33198	-59.46499	FK	00
+Purvis Narrows	-51.41036	-59.47492	FK	00
+South East Point	-51.78333	-58.10833	FK	00
+Yellow Point	-51.75	-60.41667	FK	00
+Wood Shoal	-52.15268	-60.10696	FK	00
+Wood Cove	-52.11667	-60.85	FK	00
+White Point	-52	-60.83333	FK	00
+Whale Islet	-52.01667	-60.25	FK	00
+West Head	-52.00407	-60.09818	FK	00
+West Cove	-51.79883	-60.38395	FK	00
+West Bluff	-51.37934	-60.70313	FK	00
+West Arm	-52.19178	-60.52727	FK	00
+Weddell Point	-51.90282	-61.13421	FK	00
+Watering Cove	-51.93333	-60.43333	FK	00
+The Twins	-51.23685	-60.6488	FK	00
+Tussac Point	-51.87141	-60.47495	FK	00
+Tussac Islet	-52.21082	-60.50376	FK	00
+Town Point	-51.65757	-60.24338	FK	00
+Tide Point	-51.76667	-60.43333	FK	00
+Three Crowns	-52.2	-60.66667	FK	00
+Cape Terrible	-51.32668	-60.72954	FK	00
+Tern Point	-51.95461	-60.84431	FK	00
+Tea Bluff	-51.91295	-61.18635	FK	00
+Table Point	-51.79518	-61.23278	FK	00
+Table Cove	-51.80812	-61.24521	FK	00
+Symonds Harbour	-51.83813	-60.35468	FK	00
+Swan Point	-51.76432	-60.86521	FK	00
+Strong Tide Point	-51.76343	-61.29308	FK	00
+Stop Islet	-51.98333	-60.96615	FK	00
+Stickout Bluff	-51.8675	-61.27931	FK	00
+Stephens Bluff	-52.18333	-60.73333	FK	00
+Port Stephens	-52.12293	-60.8091	FK	00
+Steep Point	-51.72046	-60.28829	FK	00
+Steeple Jason	-51.03681	-61.20904	FK	00
+States Cove	-51.83333	-60.88333	FK	00
+Staats Bluff	-51.90629	-61.21143	FK	00
+Cape Split	-51.80796	-61.32148	FK	00
+South Jason	-51.20423	-60.88317	FK	00
+South Head	-52.01982	-60.24776	FK	00
+South Harbour	-52.02049	-60.87005	FK	00
+South Harbour	-51.73219	-61.28764	FK	00
+Sound Point	-51.43784	-60.09782	FK	00
+Smylie Channel	-51.98457	-61.06347	FK	00
+Ship Harbour	-51.71058	-61.27072	FK	00
+Sealer Cove	-51.8	-60.86667	FK	00
+Sealer Cove	-51.36402	-60.07491	FK	00
+Roy Cove Settlement	-51.54836	-60.38558	FK	00
+Roy Cove	-51.55	-60.38333	FK	00
+Round Point	-51.76158	-60.32276	FK	00
+Ropewalk Point	-51.75	-60.23333	FK	00
+Rodney Cove	-52.05428	-61.01689	FK	00
+Rodney Bluff	-52.06667	-61.03333	FK	00
+Port Richards	-51.96477	-60.52994	FK	00
+Rees Harbour	-51.75	-60.23333	FK	00
+Reef Harbour	-52.01667	-60.96667	FK	00
+Reef Channel	-51.36667	-60.05	FK	00
+Rapid Point	-51.39023	-59.99257	FK	00
+Rame Head	-51.41354	-60.2387	FK	00
+Race Point	-51.98857	-61.00017	FK	00
+Rabbit Point	-51.38333	-60.06667	FK	00
+Queen Point	-51.93095	-60.58499	FK	00
+Quaker Harbour	-51.81657	-61.07451	FK	00
+Port Stephens Settlement	-52.10243	-60.84451	FK	00
+Port Egmont Settlement	-51.35	-60.05	FK	00
+Port Egmont Cays	-51.20591	-60.02721	FK	00
+Pillar Cove	-51.92351	-61.08264	FK	00
+Pillar Bluff	-51.93058	-61.09529	FK	00
+Pickthorne Point	-51.4909	-60.4815	FK	00
+Port Philomel	-51.73361	-60.3137	FK	00
+Cape Percival	-51.83456	-61.34392	FK	00
+Penguin Point	-51.92555	-60.64147	FK	00
+Penguin Cove	-51.95	-60.93333	FK	00
+Penarrow Point	-51.3897	-60.31191	FK	00
+Pea Point	-52.18333	-60.71667	FK	00
+Cape Orford	-52.01397	-61.07573	FK	00
+North West Arm	-52.15607	-60.51576	FK	00
+North Head	-52.01378	-60.23694	FK	00
+North Harbour	-51.70717	-61.23508	FK	00
+North Bluff	-51.67847	-61.26191	FK	00
+North Arm	-51.93333	-60.05	FK	00
+Port North	-51.47207	-60.44888	FK	00
+New Year Cove	-51.93333	-60.88333	FK	00
+Natural Arch	-52.23333	-60.5	FK	00
+Mound Point	-51.98333	-60.8	FK	00
+Mound Point	-51.91183	-60.49811	FK	00
+Cape Meredith	-52.25733	-60.65076	FK	00
+Mark Point	-51.88845	-60.87328	FK	00
+Lucas Reef	-52.16667	-60.43333	FK	00
+Lucas Point	-52.16667	-60.36667	FK	00
+Low Point	-51.6829	-60.13463	FK	00
+Loop Head	-51.76353	-60.8972	FK	00
+Lion Point	-51.41881	-60.40818	FK	00
+Landsend Bluff	-51.69202	-61.33098	FK	00
+Knob Islet	-51.96667	-60.06667	FK	00
+Kelp Point	-51.96667	-60.03333	FK	00
+Jason West Cay	-50.99957	-61.45034	FK	00
+Jason East Cay	-51.00283	-61.30588	FK	00
+Isthmus Cove	-51.70346	-60.31759	FK	00
+Inlet Point	-52.03174	-60.89504	FK	00
+Hotham Heights	-51.86515	-61.07898	FK	00
+Hoste Inlet	-52.12411	-60.71258	FK	00
+Horse Block	-51.94064	-61.11367	FK	00
+Hope Reef	-51.18555	-60.753	FK	00
+Hope Point	-51.34061	-60.66294	FK	00
+Hope Harbour	-51.35368	-60.64179	FK	00
+High Bluff	-52.07735	-61.0188	FK	00
+Halfway Cove	-51.747	-60.40834	FK	00
+Gull Point	-52	-60.25	FK	00
+Gull Point	-51.30543	-60.0433	FK	00
+Gull Harbour	-51.89895	-60.88899	FK	00
+Grey Channel	-51.78393	-61.26929	FK	00
+Green Point	-51.78333	-60.55	FK	00
+Grave Cove	-51.36344	-60.63177	FK	00
+Grand Jason	-51.05369	-61.09427	FK	00
+Grand Cliff	-51.74733	-61.31407	FK	00
+Governor Channel	-51.88822	-61.22393	FK	00
+Gibraltar Reef	-51.28883	-60.84446	FK	00
+The Fridays	-51.05513	-60.97905	FK	00
+French Harbour	-51.85006	-61.11332	FK	00
+Foot Point	-51.48581	-60.15781	FK	00
+Fegen Inlet	-52.07049	-60.87528	FK	00
+Entrance Cove	-51.96667	-60.53333	FK	00
+Elephant Point	-51.26343	-60.32352	FK	00
+Elephant Jason	-51.15893	-60.84737	FK	00
+Elephant Cove	-51.8	-60.93333	FK	00
+Port Edgar	-52.01422	-60.2672	FK	00
+East Point	-51.33762	-60.04493	FK	00
+Dyke Point	-51.93046	-61.07813	FK	00
+Dunnose Head Settlement	-51.74147	-60.41657	FK	00
+Dunnose Head	-51.68439	-60.64193	FK	00
+Dick Point	-51.8	-60.51667	FK	00
+Deaths Head	-51.4121	-60.64452	FK	00
+Crooked Inlet	-51.54767	-60.31774	FK	00
+The Colliers	-51.78946	-61.22105	FK	00
+Cliff Point	-51.30454	-60.08513	FK	00
+Christmas Harbour	-51.67588	-60.17705	FK	00
+Chatham Harbour	-51.83788	-60.95888	FK	00
+Chartres	-51.71108	-60.07954	FK	00
+Channel Point	-51.40841	-60.0801	FK	00
+Chaffers Gullet	-52.13333	-60.38333	FK	00
+Carew Harbour	-52.00279	-60.67468	FK	00
+Carcass Reef	-51.31083	-60.57583	FK	00
+Calm Head	-52.1	-60.91667	FK	00
+Byron Sound	-51.4509	-60.22736	FK	00
+Byron Heights	-51.42473	-60.5647	FK	00
+Button Islet	-51.34264	-60.44662	FK	00
+Burnt Harbour	-51.40897	-60.13638	FK	00
+Brown Point	-51.62404	-60.25752	FK	00
+Brown Harbour	-51.81944	-60.3125	FK	00
+Brett Harbour	-51.35912	-60.17997	FK	00
+Boulder Point	-51.86667	-61.23333	FK	00
+Bold Point	-51.69032	-61.21174	FK	00
+Bold Point	-51.67223	-60.36754	FK	00
+Bluff Point	-51.34583	-60.24151	FK	00
+Bense Harbour	-51.49306	-60.50366	FK	00
+Beaver Harbour	-51.8298	-61.23126	FK	00
+Beacon Point	-51.76667	-60.95	FK	00
+Anchor Inlet	-52.16839	-60.68087	FK	00
+Albemarle Harbour	-52.12877	-60.55692	FK	00
+Port Albemarle	-52.19171	-60.44643	FK	00
+Weddell Settlement	-51.89231	-60.90485	FK	00
+Beaver Settlement	-51.85317	-61.25385	FK	00
+Stinker Point	-51.82072	-61.19718	FK	00
+Wine Bluff	-51.96402	-61.05164	FK	00
+Gull Point	-51.90256	-60.87109	FK	00
+South West Point	-51.98333	-60.93333	FK	00
+Little Mollyhawk	-52.1062	-60.40426	FK	00
+The Big Mollyhawk	-52.12385	-60.51063	FK	00
+Lion Point	-51.33176	-60.7104	FK	00
+Devil's Nose	-51.34932	-60.71877	FK	00
+Cat Cove	-51.33991	-60.68876	FK	00
+Westpoint Cove	-51.35	-60.675	FK	00
+Woolly Gut Point	-51.35175	-60.6634	FK	00
+The Woolly Gut	-51.36209	-60.66976	FK	00
+Penguin Point	-51.37822	-60.64326	FK	00
+West Cliffs	-51.39015	-60.62645	FK	00
+The Gammon Channel	-51.13333	-60.83333	FK	00
+Forrest Gap	-51.21667	-60.83333	FK	00
+Lindblad Reef	-51.23333	-60.88333	FK	00
+North West Point	-51.24756	-60.59748	FK	00
+McGill Shoals	-51.21667	-60.55	FK	00
+Goodwin Reef	-51.16667	-60.56667	FK	00
+Port Pattison	-51.29748	-60.54586	FK	00
+Boxwood Point	-51.43833	-60.59987	FK	00
+Sugar Loaf	-51.42074	-60.60258	FK	00
+Little Bense	-51.48486	-60.5107	FK	00
+Letterbox Point	-51.3884	-60.04969	FK	00
+Red Point	-51.38173	-60.08022	FK	00
+Cape Pembroke Light	-51.68186	-57.72039	FK	

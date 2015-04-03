@@ -1,0 +1,492 @@
+Ngkesill	7.22276	134.39577	PW	06
+Sonsorol	5.331	132.221	PW	16
+Ngedesakr	7.33082	134.49032	PW	06
+Nkebeduul	7.50562	134.53068	PW	13
+Iebukel Hamlet	7.70006	134.64097	PW	09
+Biduul	7.27516	134.3066	PW	06
+Ngkesill	7.34033	134.55789	PW	02
+Ngermid Hamlet	7.33983	134.50163	PW	06
+Kloulklubed Hamlet	7.04193	134.25549	PW	15
+Urecheruchel Reef Awash	7.12389	134.37	PW	06
+Tngeronger Hamlet	7.34449	134.47912	PW	06
+Demul Iou	7.16187	134.3973	PW	06
+Ngerael Reef Awash	7.9841	134.50459	PW	09
+Toachel ra Ngel	7.29513	134.48536	PW	06
+Ikerdeu Fringing Reef Awash	7.47984	134.63985	PW	12
+Ngchesechang Hamlet	7.38472	134.58027	PW	02
+Melkerel	7.48009	134.62724	PW	07
+Chol	7.67059	134.63372	PW	08
+Peninsula Cross	6.99833	134.25293	PW	15
+Edchib	7.22083	134.23361	PW	06
+Meyungs Derromel Pier	7.35756	134.46748	PW	06
+Ngerebelas	8.04194	134.70079	PW	05
+Chesemiich	7.13747	134.38397	PW	06
+Ngedert	7.33052	134.5316	PW	02
+Ngerbeched Hamlet	7.33249	134.47623	PW	06
+Merir	4.318	132.311	PW	16
+Komebail Lagoon	7.38778	134.46472	PW	02
+Orrak	7.3474	134.56767	PW	02
+Oikull Hamlet	7.37192	134.58773	PW	02
+Kossol East Entrance	7.84621	134.67539	PW	09
+Ngetkuml	7.33483	134.48396	PW	06
+Rirs Bital	7.21548	134.38351	PW	06
+Ngerumetochel	7.33058	134.48631	PW	06
+Echang Hamlet	7.34661	134.45289	PW	06
+Koror	7.33978	134.47326	PW	06
+Rois Kar	7.01392	134.23714	PW	15
+Daerur	7.36154	134.43342	PW	06
+Ngeream	7.35076	134.5295	PW	02
+Mekeald Reef Awash	7.28074	134.4627	PW	06
+Ngerchebal	7.41421	134.44554	PW	01
+Ngerechong	7.11401	134.3646	PW	06
+Metukeruikull	7.22621	134.37804	PW	06
+Ngermelech Hamlet	7.49966	134.6347	PW	07
+Ilabis	7.46877	134.48442	PW	01
+Fanna	5.355	132.2264	PW	16
+Ngchemiangel Hamlet	7.446	134.47596	PW	01
+Echol Hamlet	7.35133	134.44693	PW	06
+Ngesibang	7.38698	134.52965	PW	02
+Idid Hamlet	7.34299	134.48373	PW	06
+Kayangel Atoll	8.077	134.696	PW	05
+Ngerkeai Hamlet	7.42072	134.49786	PW	01
+Orak	8.03986	134.69416	PW	05
+Ongetkatel	7.21558	134.37693	PW	06
+Ngeremekediu	7.36151	134.42972	PW	06
+Arangel Channel	7.31667	134.5625	PW	02
+Ngerchemai Hamlet	7.35	134.4889	PW	06
+Pulo Anna	4.657	131.9512	PW	16
+Bkul a Ngchus	7.2222	134.37028	PW	06
+Malakal Port	7.33284	134.45935	PW	06
+Ngeratoi	7.4779	134.62344	PW	12
+Bukrrairong	7.33208	134.49465	PW	06
+Bkul-ngeiil	7.46786	134.47287	PW	01
+Ngeruach	7.51902	134.52394	PW	13
+Cheleos	7.72362	134.61917	PW	09
+State of Ngatpang	7.4869	134.51978	PW	11
+Ngetkib Hamlet	7.36438	134.51439	PW	02
+Urdmang Hamlet	7.61175	134.57865	PW	10
+Ulimang	7.62416	134.64208	PW	08
+Ucheliungs	7.31024	134.50096	PW	06
+Tunt	7.38192	134.52621	PW	02
+Toirius	7.32861	134.48087	PW	06
+Tlutkaraguis	7.30883	134.4099	PW	06
+Tengetcheyangel	7.33132	134.48068	PW	06
+Telong	7.60864	134.57037	PW	10
+Telkakl	6.98217	134.22405	PW	15
+Toachel Suul	7.42358	134.64123	PW	02
+Sngelokl	7.11196	134.26718	PW	15
+Sngall	7.3455	134.5022	PW	06
+Ruriid	7.03237	134.26855	PW	15
+Roiskebesang	7.34904	134.44917	PW	06
+Rael Dil	7.25071	134.44946	PW	06
+Rikelau	7.14947	134.3182	PW	06
+Peleliu	6.993	134.232	PW	15
+Republic of Palau	7.503	134.621	PW	00
+Belual A Kelat	7.14405	134.23622	PW	06
+Ordiilsau	7.48629	134.47546	PW	11
+Orachel	7.48785	134.47813	PW	11
+Mesubedumail	6.97921	134.22896	PW	15
+Omidkill	6.97957	134.23227	PW	15
+Omelochel	7.32697	134.53085	PW	02
+Olngeuaol	7.06359	134.27456	PW	15
+Chollei Hamlet	7.71985	134.61414	PW	09
+Mengellang Dock	7.68715	134.62477	PW	09
+Oimadelchesuch	7.27444	134.40231	PW	06
+Oilouch	7.1476	134.3258	PW	06
+Chowid	7.18969	134.3811	PW	06
+Ngrikiil	7.37875	134.55851	PW	02
+Ngriil Hamlet	7.69032	134.63609	PW	09
+Ngkeuall	7.05828	134.27595	PW	15
+State of Sonsorol	5.331	132.2206	PW	16
+Ngetmeduch	7.35838	134.49809	PW	06
+Ertong Hamlet	7.50442	134.6148	PW	07
+Auragasak	7.35298	134.58604	PW	02
+Ngetbong Hamlet	7.60828	134.57433	PW	10
+Ngesuall	7.01673	134.27018	PW	15
+Ngeruikl Hamlet	7.48362	134.61664	PW	12
+Angaur Civil Airstrip	6.90591	134.14465	PW	03
+Ngerur	7.3673	134.43137	PW	06
+Ngerumtoi	7.35332	134.58939	PW	02
+Ngeruluobel Hamlet	7.36448	134.52412	PW	02
+Ngerulluang	7.68852	134.61777	PW	09
+Ngerudechong	7.70172	134.64247	PW	09
+Ngeruchubtang	7.08505	134.3314	PW	15
+Velasco Reef - Emerging Ngaruangel Reef Section	8.168	134.62	PW	05
+Babeldaob NorthWest - Ngardmau State	7.6	134.5745	PW	10
+Ngarchelong Fringing Reef Awash	7.74229	134.6632	PW	09
+Ngertechiel	7.32656	134.48463	PW	06
+Ngerngesang Hamlet	7.45304	134.60375	PW	12
+Ngermoket	6.97669	134.22525	PW	15
+Ngermetengel Hamlet	7.52253	134.50268	PW	13
+Elechui Hamlet	7.43161	134.47997	PW	01
+Kekereiel Dormechol	7.60296	134.64127	PW	08
+Ngermeaus	7.19915	134.37726	PW	06
+Ngerkersiul	7.03594	134.29703	PW	15
+Ngerkeklau	7.74208	134.62383	PW	09
+Ngerkall	7.6054	134.62621	PW	08
+Ngeriungs	8.05753	134.71174	PW	05
+Ngerimel	7.36191	134.52304	PW	02
+Ngerikoek	7.48865	134.50332	PW	11
+Meketii Hamlet	7.34708	134.48299	PW	06
+Ngeremdiu	7.26378	134.45195	PW	06
+Ngereksong	7.57212	134.54171	PW	10
+Ngerekebesang Hamlet	7.35444	134.44648	PW	06
+Ngerechur	7.75705	134.61938	PW	09
+Ngerebelik	7.65477	134.63951	PW	08
+Ngerduais	7.35429	134.57853	PW	02
+Ngerdis	7.35168	134.4412	PW	06
+Ngerderar	7.4129	134.50913	PW	01
+Ngerkeai Dock	7.41639	134.49492	PW	01
+Ngerdelungch	7.44609	134.47227	PW	01
+Ngercheu	7.09395	134.27907	PW	15
+Ngerkeai	7.55458	134.63582	PW	14
+Ngerchelchuus	7.56241	134.57072	PW	13
+Ngerchebukl	7.31037	134.50254	PW	06
+Ngerbodel Hamlet	7.35	134.4939	PW	06
+Ngerbau Hamlet	7.70291	134.64106	PW	09
+Ngemolei	7.56399	134.52038	PW	13
+Ngermeuangel Peninsula	7.32688	134.50836	PW	06
+Ngemelachel	7.41652	134.63625	PW	02
+Ngemai Fringing Reef	7.52979	134.63136	PW	14
+Ngelsibel	7.18846	134.34693	PW	06
+Toachel Belau	7.21054	134.37713	PW	06
+Ngedbus	7.05592	134.25868	PW	15
+Toachel Ngedbaet	7.46816	134.6347	PW	12
+Ngeburch Hamlet	7.50762	134.62932	PW	07
+Ngebedel	7.26757	134.36734	PW	06
+Ngebad	7.02112	134.27209	PW	15
+Angaur	6.89	134.126	PW	03
+Ngeanges	7.2066	134.37402	PW	06
+Ikelau Hamlet	7.34139	134.48201	PW	06
+State of Kayangel	8.077	134.695	PW	05
+State of Hatohobei	3.009	131.1236	PW	04
+Olkong	7.65757	134.58527	PW	10
+Angaur	6.90331	134.13133	PW	03
+Ngaramasech	7.57922	134.5263	PW	10
+Ngederrak Reef Awash	7.28266	134.46738	PW	06
+Ngerbechetei Islets	7.3305	134.49956	PW	06
+Mochelngel	6.98626	134.2336	PW	15
+Toachel Mid	7.34642	134.51694	PW	02
+Meyungs Hamlet	7.35381	134.45963	PW	06
+Mesikm Channel	7.12644	134.2804	PW	06
+Dilong Hamlet	8.08115	134.71757	PW	05
+Melekeok Village	7.49567	134.63671	PW	07
+Omoachel ra Mekaud	7.56544	134.54055	PW	13
+Meduu	7.32597	134.48233	PW	06
+Medorm Hamlet	7.4565	134.47901	PW	01
+Medalaii Hamlet	7.34391	134.46588	PW	06
+Mchochaeo	7.13963	134.34988	PW	06
+Ngereklmadel	7.48826	134.48562	PW	11
+Llebuchel	7.34446	134.44768	PW	06
+Lkes	7.72826	134.61552	PW	09
+Ngarakis	7.53281	134.61986	PW	14
+Hydrographer Bank South	6.92796	134.19748	PW	03
+Kuat	7.33782	134.48892	PW	06
+Kuabesngas	7.33421	134.42431	PW	06
+Kuabeserrai	7.17026	134.33825	PW	06
+Bkul Klim	7.34506	134.57016	PW	02
+Klbael	7.49105	134.48354	PW	11
+Taoch ra Klai	7.36396	134.58977	PW	02
+Rois Ketund	7.35549	134.45055	PW	06
+Toachel ra Kesebekuu	7.29845	134.45678	PW	06
+Kemokem	7.18936	134.2287	PW	06
+Kekereiel Toi	7.25792	134.34003	PW	06
+Iyebukel Hamlet	7.34929	134.48594	PW	06
+Dimes Hamlet	8.07805	134.71775	PW	05
+Itabchemingl - NW Ngermeuangel Peninsula	7.32876	134.49795	PW	06
+Ioulomekang	7.13488	134.30829	PW	06
+Toachel Iou	7.20322	134.3797	PW	06
+Imeong Hamlet	7.53134	134.52713	PW	13
+Ngerutekill	7.18806	134.37083	PW	06
+Iberor Islets	7.33863	134.48581	PW	06
+Helen Reef	2.913	131.772	PW	04
+Iilblau	7.11925	134.23851	PW	06
+Garreru	7.33361	134.54003	PW	02
+Euidelchol	7.19193	134.36438	PW	06
+Etiruir	7.52121	134.52967	PW	13
+Engas	7.47409	134.49117	PW	01
+Rois Emiangel	7.4536	134.48733	PW	01
+Emesiochel	7.25682	134.33964	PW	06
+Itelblong	7.33223	134.51551	PW	06
+Eimelik Hamlet	7.3973	134.51034	PW	01
+Meyungs Causeway	7.34938	134.46487	PW	06
+Dmasech	7.13164	134.23285	PW	06
+Dlebebai	7.34157	134.55338	PW	02
+Desomel	7.14545	134.23084	PW	06
+Denges Channel	7.1204	134.36906	PW	06
+Angaur Smoth Sea Anchorage	6.8969	134.11479	PW	03
+Chongelungel	7.3464	134.53359	PW	02
+Cholkong	7.65833	134.59167	PW	10
+Eil Malk - Bkul a Chesemiich	7.13542	134.38464	PW	06
+Chesechosou	7.34174	134.54857	PW	02
+Chemoi	7.19242	134.38792	PW	06
+Cheleu	7.10783	134.24321	PW	06
+Chelab Hamlet	7.63575	134.63885	PW	08
+Omoachel ra Ngchesuch	7.55468	134.53188	PW	13
+Btaot	7.61776	134.53497	PW	10
+Bkurrengel	7.44718	134.46253	PW	01
+Bkulsechuul	7.27674	134.31001	PW	06
+Bkulaibelau	7.71707	134.60999	PW	09
+Badechamelei	7.51	134.50304	PW	13
+Bischerad	7.70814	134.62968	PW	09
+Beluuchoar Bank	7.11948	134.37884	PW	06
+Belualasmau	7.06537	134.28254	PW	15
+Beduliaes	7.34155	134.42835	PW	06
+Beab Islets	7.20463	134.38929	PW	06
+Bailechesengel	7.10333	134.24833	PW	06
+Badrulchau Stone Monoliths	7.70929	134.63052	PW	09
+Bablomekang	7.14228	134.31941	PW	06
+Babeldaob	7.56242	134.56939	PW	00
+Uchulayas	7.34631	134.46585	PW	06
+Ongelunge Channel	7.33579	134.46538	PW	06
+Ngarchelong Peninsula	7.708	134.622	PW	09
+Angaur Boat Basin	6.90654	134.12955	PW	03
+Airai Hamlet	7.35985	134.55946	PW	02
+State of Aimeliik	7.445	134.49	PW	01
+Babeldaob SouthWest - Aimeliik State	7.445	134.491	PW	01
+Palau Trench	7.45779	134.96979	PW	00
+Ngchesar Hamlet	7.46932	134.60991	PW	12
+Orrak Yapese Stone Money Quarries	7.34744	134.56566	PW	02
+Airai Lagoon	7.40188	134.61059	PW	02
+State of Airai	7.36698	134.51866	PW	02
+Romauldo - JP Fortress WW2	6.91529	134.12856	PW	03
+State of Angaur	6.89	134.125	PW	03
+Atotu	7.35813	134.58531	PW	02
+Ngedechelabed	7.0112	134.23508	PW	15
+Chol Hamlet	7.67063	134.63587	PW	08
+Elochel Dock	7.04895	134.26669	PW	15
+Elauesachel Hamlet	7.45743	134.50616	PW	01
+Aulong	7.27822	134.28648	PW	06
+JP Five Sisters Fortress WW2	7.02334	134.24829	PW	15
+Mesikm Channel Koror-Peleliu Boundary	7.12528	134.28222	PW	15
+Iouroro	7.50115	134.50087	PW	11
+Ngerubesang Hamlet	7.48969	134.63093	PW	07
+Imelechol Hamlet	7.03966	134.2656	PW	15
+Itebang Mlengui	7.55784	134.52308	PW	13
+State of Koror	7.339	134.4785	PW	06
+State of Melekeok	7.494	134.6345	PW	07
+State of Ngaraard	7.62	134.625	PW	08
+State of Ngchesar	7.47	134.6	PW	12
+Ngchemiangel Pier	7.44009	134.4722	PW	01
+Ngebei Hamlet	7.69887	134.63672	PW	09
+Ngerkeai	7.55456	134.63612	PW	14
+Ngeremasech	7.56391	134.53257	PW	13
+State of Ngarchelong	7.708	134.62	PW	09
+State of Ngardmau	7.6	134.573	PW	10
+Ngereklmadel	7.48822	134.4848	PW	11
+Ngeredekuu	7.54621	134.62071	PW	14
+Ngeriungs	7.47826	134.61906	PW	12
+Ngerikuul	7.32133	134.49658	PW	06
+State of Ngeremlengui	7.518	134.504	PW	13
+Ngeritang	7.35913	134.4512	PW	06
+Ngerkesou Hamlet	7.46363	134.60478	PW	12
+Ngerkeseuaol Hamlet	7.34301	134.48949	PW	06
+Ngerkebuit	7.35666	134.49631	PW	06
+Ngerkebeas	7.19091	134.3779	PW	06
+Ngersuul Hamlet	7.43479	134.59495	PW	12
+Ngeroleamel	7.27968	134.28808	PW	06
+Ngersung Hamlet	7.35412	134.53576	PW	02
+Ngeruling Hamlet	7.50535	134.63249	PW	07
+Ngerumekaul False Reef Channel	7.28598	134.25104	PW	06
+Ngeruong	7.46743	134.47841	PW	01
+Ngerusar Hamlet	7.35987	134.52965	PW	02
+Ngerusisech	7.2231	134.38872	PW	06
+Ngetengchau	7.00127	134.2525	PW	15
+Ngesang	7.62695	134.64373	PW	08
+Ngerutoi Hamlet	7.61092	134.57641	PW	10
+Ngesomel	7.15172	134.31584	PW	06
+Ngerrall	7.50297	134.51883	PW	13
+Mengellang	7.6957	134.63054	PW	09
+Ngkeklau Hamlet	7.59296	134.6402	PW	08
+Ngis	7.14094	134.23008	PW	06
+State of Ngiwal	7.558	134.621	PW	14
+Ngkael	7.17605	134.22625	PW	06
+Taoch Ngrikiil	7.37192	134.56447	PW	02
+Oimaderuul	7.05316	134.2577	PW	15
+Omiotl	7.51982	134.5028	PW	13
+Ongingiang	7.27052	134.24716	PW	06
+Ongalkereel Lagoon	7.27526	134.29343	PW	06
+Ordachel	7.32101	134.51411	PW	06
+Roisemelachel	7.33108	134.4507	PW	06
+State of Peleliu	6.993	134.231	PW	15
+Reberaber	7.36008	134.49811	PW	06
+Rengesukl	7.43301	134.47826	PW	01
+Roischemiangel	7.03727	134.26124	PW	15
+Angaur State	6.90601	134.12997	PW	03
+Sisngabang	7.50968	134.50886	PW	13
+Tibedul	7.34442	134.49731	PW	06
+Bkul A Techedoched	7.28774	134.28265	PW	06
+Terrangel	7.24222	134.42083	PW	06
+Peleliu South Harbour	6.98394	134.22336	PW	15
+Ngardmau Village	7.60988	134.57418	PW	10
+Toir Rois	7.51511	134.50321	PW	13
+Tochobei	7.49541	134.62698	PW	07
+Tuker	7.34487	134.49205	PW	06
+Arimasuku	7.13027	134.23831	PW	06
+Uchulangas	7.34198	134.46303	PW	06
+Ullemetamel	7.33634	134.51092	PW	06
+Yelch - New Village	7.36051	134.5457	PW	02
+Ngarabekus	7.48039	134.52068	PW	11
+Ngellang	7.33621	134.49092	PW	06
+Ongael	7.25341	134.38245	PW	06
+Melekeok	7.50043	134.62355	PW	07
+Helen Reef Lagoon	2.913	131.773	PW	04
+Atoll Reefs Awash	2.913	131.774	PW	04
+North West Pacific Ocean - Helen Reef	2.913	131.776	PW	04
+Helen Reef Boat Channel	2.87504	131.73526	PW	04
+Coconut Pisonia Tournefortia Cover	2.973	131.81211	PW	04
+Helen NW Wreck	3.00647	131.80464	PW	04
+Helena NE Wreck	2.9804	131.82205	PW	04
+Helen West Wreck	2.93601	131.76825	PW	04
+Fishing Fleets Surveillance RADAR Tower	2.97403	131.8119	PW	04
+Blasted Reef Channel	3.00356	131.11959	PW	04
+JP Phosphate Loading Pier	3.00373	131.12077	PW	04
+former Eastern Village	3.00508	131.1255	PW	04
+Tobi Village	3.00488	131.12168	PW	04
+former Northern Village	3.00971	131.12168	PW	04
+Overpopulated German Tobi 1909	3.009	131.1248	PW	04
+Tobi Public Shelter	3.00363	131.12153	PW	04
+Central Taro Patches	3.00716	131.12433	PW	04
+Prehistoric Artifacts 1400	3.0059	131.1211	PW	04
+Sonsorol Village	5.32608	132.21943	PW	16
+Wide Fringing Reef	3.01757	131.13114	PW	04
+Micronesia - Palau	7.503	134.626	PW	00
+Spanish Carolines Colony -1898	7.502	134.622	PW	00
+German Carolines Colony -1914	7.502	134.623	PW	00
+Japan League of Nations Mandate -1945	7.502	134.624	PW	00
+USA United Nations Mandate -1994	7.502	134.625	PW	00
+Merir Anchorage	4.34102	132.31367	PW	16
+Pulo Anna Village	4.65404	131.94901	PW	16
+Taro Patches	4.65534	131.9514	PW	16
+JP Military Garrison WW2	5.331	132.2216	PW	16
+frmr Phosphate Pier WW2	5.32467	132.21828	PW	16
+Blasted Pier Access WW2	5.32448	132.21802	PW	16
+Phosphate Mining Aera pre-WW2	5.32483	132.22338	PW	16
+Velasco Reef mostly sunken Atoll	8.34	134.59	PW	05
+Velasco Reef Lagoon	8.34	134.6	PW	05
+Velasco Atoll Reef mostly submerged	8.34	134.61	PW	05
+Geological Velasco Lagoon Channel	8.29915	134.57205	PW	05
+Velasco Reef - North Tip	8.46966	134.62921	PW	05
+Ngaruangel Lagoon	8.168	134.621	PW	05
+Ngaruangel Atoll Reef Awash	8.168	134.622	PW	05
+Velasco Reef - South Tip	8.14529	134.62389	PW	05
+Kayangel Lagoon	8.077	134.697	PW	05
+Kayangel Atoll Reefs Awash	8.077	134.699	PW	05
+Kayangel Pier	8.08233	134.7158	PW	05
+Kayangel	8.08228	134.71725	PW	05
+Battle of Angaur WW2	6.89	134.129	PW	03
+Phosphate Tramway East	6.90355	134.14736	PW	03
+Phosphate Tramway North	6.92191	134.1329	PW	03
+JP Military Tramway WW2	6.88906	134.12474	PW	03
+Angaur Docks	6.90579	134.12952	PW	03
+The Bowl	6.91648	134.13103	PW	03
+Saipan Town WW2	6.90225	134.12986	PW	03
+Battle of Peleliu WW2	6.993	134.234	PW	15
+Hydrographer Bank North	6.94057	134.20504	PW	15
+Kloulklubed	7.04192	134.25561	PW	15
+Natural SE Causeway	6.9987	134.25108	PW	15
+Peninsula String West	6.98898	134.24068	PW	15
+Peninsula String East	7.01307	134.2684	PW	15
+The Point WW2	7.00503	134.22578	PW	15
+JP Umurbrogol Fortress WW2	7.01106	134.23551	PW	15
+JP Seven Brothers Fortress	7.04289	134.2604	PW	15
+JP Navy HQ WW2	7.00248	134.2311	PW	15
+JP War Monument	7.01085	134.2357	PW	15
+US Army War Monument	7.01072	134.2361	PW	15
+Horseshoe Depression	7.01161	134.23804	PW	15
+Peleliu Fringing Reef Awash	6.993	134.235	PW	15
+Babeldaob North - Ngarchelong State	7.708	134.621	PW	09
+Chollei Docks	7.71911	134.6082	PW	09
+Mengellong	7.69568	134.62479	PW	09
+Magachin	7.68794	134.63264	PW	09
+Ngarchelong Isthmus	7.68424	134.63466	PW	09
+Chelab Dock	7.64347	134.62951	PW	08
+Babeldaob NorthEast - Ngaraard State	7.62	134.626	PW	08
+Ngebuked Hamlet	7.64191	134.63049	PW	08
+Babeldaob EastNorthEast - Ngiwal State	7.558	134.622	PW	14
+Babeldaob East - Melekeok State	7.494	134.635	PW	07
+Melekeok Pier	7.49035	134.63939	PW	07
+Babeldaob SouthEast - Ngchesar State	7.47	134.601	PW	12
+Koror-Babeldaob Channel	7.36179	134.50463	PW	02
+Ordomel Hamlet	7.38111	134.5552	PW	02
+Olbedekall Head Start Education	7.35867	134.54065	PW	02
+Babeldaob South - Airai State	7.367	134.5192	PW	02
+Ngetkib	7.36451	134.51484	PW	02
+Babeldaob West - Ngatapang State	7.4869	134.521	PW	11
+Ngchemiangel	7.44613	134.47678	PW	01
+PALAU Project Weather and Climate Observatory	7.45273	134.47585	PW	01
+Lild	7.50883	134.49731	PW	11
+Klaibudech	7.50798	134.50025	PW	13
+Ilacheuir	7.50454	134.49759	PW	11
+Omeduaol	7.50309	134.50156	PW	11
+Ngermetengel Pier	7.52483	134.49896	PW	13
+Ngardmau	7.60986	134.5744	PW	10
+Babeldaob WestNorthWest - Ngeremlengui State	7.518	134.5055	PW	13
+Ngeremecheluch Hamlet	7.49199	134.63596	PW	07
+Ngeream	7.34828	134.53185	PW	02
+Kmekumer	7.18776	134.23802	PW	06
+Eil Malk	7.15118	134.3664	PW	06
+Cave Paintings	7.2906	134.28141	PW	06
+Embassy of Japan	7.35288	134.44511	PW	06
+Teongel Channel	7.33812	134.42607	PW	06
+Gamudoko	7.26244	134.33764	PW	06
+Olkeriil	7.23966	134.37314	PW	06
+Kisaol	7.2433	134.35221	PW	06
+Koror Town	7.34257	134.47888	PW	06
+Malakal Water Tower	7.33086	134.45295	PW	06
+Malakal Telecom Tower	7.33194	134.45338	PW	06
+Dolphins Pacific - Shows and Education	7.31293	134.44675	PW	06
+Asahi Baseball Stadium	7.34055	134.47427	PW	06
+Koror Docks	7.35212	134.47879	PW	06
+Meyungs Water Tower	7.34928	134.45219	PW	06
+Palau Visitors Authority	7.34328	134.46742	PW	06
+Ngerchebed Dock	7.33457	134.4728	PW	06
+Waterfront Villa - Koror	7.3511	134.4937	PW	06
+Sam's Tours Diving Malakal	7.3384	134.4542	PW	06
+Malakal Yacht Anchorages	7.33929	134.45323	PW	06
+JP Seaplane Ramp North WW2	7.35727	134.45861	PW	06
+JP Seaplane Pier WW2	7.35228	134.44339	PW	06
+JP Seaplane Ramp West WW2	7.35341	134.44346	PW	06
+JP Seaplane Ramp SouthWest WW2	7.35137	134.44306	PW	06
+Echang Boat Docks	7.34547	134.45128	PW	06
+Malakal Commercial Pier	7.33056	134.45775	PW	06
+Malakal Petroleum Pier	7.33057	134.45688	PW	06
+Malakal Fishing Vessel Pier	7.33168	134.45765	PW	06
+Malakal Lighter Quay	7.3337	134.4575	PW	06
+Palau Ministry of Education	7.34112	134.47122	PW	06
+Belau National Gym	7.34166	134.4743	PW	06
+Ngermid Boat Pier	7.33461	134.50144	PW	06
+old Orrak Causeway	7.35692	134.56303	PW	02
+Bai ra Irrai	7.3611	134.56033	PW	02
+Palau Lagoon Monument	7.502	134.626	PW	00
+Butottoribo	7.27121	134.38768	PW	06
+Chelechol ra Orrak Burial Site 1000 BC	7.34753	134.56465	PW	02
+Embassy of the United States of America - new 2009	7.35938	134.55093	PW	02
+Stone Walls and Prehistoric Artifacts 3000 BP	7.2833	134.28296	PW	06
+Embassy of the Republic of China - Taiwan	7.34241	134.47814	PW	06
+Malakal Port - Mandatory Palau Yacht Clearance	7.33136	134.45691	PW	06
+Embassy of the Philippines	7.34646	134.48699	PW	06
+Daewoo Construction	7.48587	134.61073	PW	07
+Bai el Melekeong	7.49443	134.63312	PW	07
+Ngardmau Vessel Pier	7.60956	134.56078	PW	10
+Ngkisaol Sardines Sanctuary	7.2426	134.35018	PW	06
+Ngarchelong - Kayangel reef channels	8.02201	134.69839	PW	05
+Ngersuul Pier	7.43293	134.59719	PW	12
+Coral Dredging Basin	7.45043	134.61104	PW	12
+Ngchesar Dock	7.46905	134.6145	PW	12
+Ngeraus Hamlet	7.47667	134.61346	PW	12
+Ngaraard Fringing Reef	7.62508	134.65204	PW	08
+Ngiwal Fringing Reef	7.55217	134.64861	PW	14
+Melekeok Fringing Reef	7.50451	134.64406	PW	07
+Ngchesar Fringing Reef	7.42835	134.64028	PW	12
+Peleliu Fringing Reef West	7.02849	134.23353	PW	15
+Peleliu Fringing Reef East	7.03249	134.2907	PW	15
+Kayangel Fringing Reef East	8.0857	134.72307	PW	05
+Fringing Reef West	3.00797	131.11788	PW	04
+Helen Reef South Point	2.8036	131.7697	PW	04
+Yap Trench - SouthWest Tip	7.29981	136.04095	PW	00
+former Coral Dredging Basins	7.3491	134.53746	PW	02
+JP Army Garrison WW2	3.009	131.125	PW	04
+JP Army Garrison Merir WW2	4.318	132.3116	PW	16
+Ngerulmud	7.50077	134.6238	PW	
+Kesebalau	7.36177	134.54267	PW	

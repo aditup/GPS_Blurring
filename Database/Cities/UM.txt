@@ -1,0 +1,141 @@
+Flipper Point	19.3051	166.62287	UM	450
+Heel Point	19.30922	166.64721	UM	450
+Kuku Point	19.30278	166.60082	UM	450
+Peacock Point	19.27056	166.65694	UM	450
+Toki Point	19.31819	166.61599	UM	450
+Harbour Entry Channel	19.29	166.61583	UM	450
+Serranilla Beacon Cay	15.8	-79.85	UM	
+Serranilla East Cay	15.85832	-79.74152	UM	
+East Point	18.39786	-75.00169	UM	350
+Bajo Nuevo East	15.883	-78.55	UM	
+Bajo Nuevo Low Cay	15.8533	-78.633	UM	
+Serranilla Middle Cay	15.85	-79.825	UM	
+Northeast Point	18.41093	-75.00585	UM	350
+Northwest Point	18.41331	-75.02943	UM	350
+Serranilla Bank	15.84907	-79.85962	UM	
+Serranilla NE-Breaker Awash	15.905	-79.7	UM	
+South Point	18.39073	-75.00881	UM	350
+Bajo Nuevo West	15.792	-78.767	UM	
+Bajo Nuevo Bank	15.83982	-78.67035	UM	
+East Lagoon	5.88111	-162.06611	UM	400
+Itascatown pre-WW2	0.80776	-176.6185	UM	100
+Jarvis US National Wildlife Refuge	-0.375	-160	UM	150
+Johnston Atoll	16.72828	-169.53428	UM	200
+Johnston Atoll	16.72	-169.506	UM	200
+Kingman Reef	6.4	-162.399	UM	250
+Kingman Reef	6.4	-162.4	UM	250
+Main Channel	16.7351	-169.51767	UM	200
+Meyerton pre-WW2	0.19404	-176.48407	UM	050
+Middle Ground Awash	28.2467	-177.4142	UM	300
+Midway Atoll National Wildlife Refuge	28.228	-177.389	UM	300
+USN Seaplane Base WW2	16.706	-169.53	UM	200
+North Breakers - Coral Heads	28.2358	-177.4158	UM	300
+Johnston Atoll SouthEast	16.7	-169.35	UM	200
+Palmyra Atoll	5.875	-162.055	UM	400
+Palmyra Atoll	5.875	-162.056	UM	400
+La Paloma Channel	6.3797	-162.35896	UM	400
+Picket Point	28.21495	-177.38669	UM	300
+Portsmouth Point	5.88471	-162.04917	UM	400
+Sawle Point	5.88878	-162.1002	UM	400
+Secondary West Channel	16.72088	-169.54797	UM	200
+West Lagoon	5.88354	-162.09739	UM	400
+ABM missiles test site	19.30033	166.60194	UM	450
+Blasted Boat Landing	-0.36925	-160.0068	UM	150
+Blasted Boat Landing 2	-0.37649	-160.01308	UM	150
+old Guano Tramway	-0.37231	-160.00268	UM	150
+Scrub Land only	-0.37302	-159.99175	UM	150
+Day Beacon	-0.37013	-160.00522	UM	150
+Jarvis Eastern Shoal	-0.37757	-159.96815	UM	150
+Grass and Scrubb Vegetation only	0.19739	-176.47828	UM	050
+Day Beacon	0.19552	-176.48371	UM	050
+old Guano Tramways	0.19423	-176.48056	UM	050
+Coral Shoal	0.19183	-176.45682	UM	050
+Wrecked Landing Craft	0.19429	-176.47076	UM	050
+Guano Digger Graveyard	0.19286	-176.48519	UM	050
+Howland Naval Air Statio WW2	0.81348	-176.62033	UM	100
+Amelia Earhart Day Beacon	0.80744	-176.61901	UM	100
+Boat Landing	0.80806	-176.62101	UM	100
+Grass and Scrubland only	0.8112	-176.61786	UM	100
+Prehistoric Polynesian Settlement	0.7994	-176.61419	UM	100
+Johnston Harbour	16.73682	-169.52853	UM	200
+Johnston Atoll National Wildlife Refuge	16.72	-169.504	UM	200
+Donovan's Reef	16.78178	-169.46308	UM	200
+Surfacing Coral Reef	16.74751	-169.5381	UM	200
+Johnston Atoll SouthWest	16.64803	-169.57603	UM	200
+frmr Chemical Weapons Storage 1970s	16.72692	-169.54625	UM	200
+frmr JACADS Chemical Agent Disposal System	16.72495	-169.53282	UM	200
+USN Submarine Supply Point WW2	16.708	-169.53	UM	200
+High Altitude H-Bomb Tests 1950s	16.704	-169.53	UM	200
+Military Satellite Launch Pad 1960s	16.702	-169.53	UM	200
+Low Scrub Cover	16.72	-169.502	UM	200
+Dredged Navigation Channels	16.75096	-169.50239	UM	200
+Johnston Lagoon	16.72	-169.501	UM	200
+Kingman Reef National Wildlife Refuge	6.4	-162.397	UM	250
+PanAm Flyingboat Shipbased Stopover 1937	6.4	-162.396	UM	250
+Kingman Lagoon	6.4	-162.395	UM	250
+Fishing Vessel Wreck	6.40534	-162.35049	UM	250
+Emerged Reef String	6.40301	-162.35008	UM	250
+Short Emerged Reef String	6.38439	-162.38162	UM	250
+Awash Reef N-Limit	6.43131	-162.38445	UM	250
+Awash Reef W-Limit	6.38469	-162.39106	UM	250
+West Channel	6.38167	-162.45123	UM	250
+Submerged Reef West Point	6.38994	-162.4744	UM	250
+Submerged Reef North Point	6.45178	-162.40763	UM	250
+Awash Reef SouthEast Point	6.38678	-162.33604	UM	250
+Scrub Cover	15.85039	-79.74014	UM	
+Grass and Trees	15.78961	-79.84863	UM	
+Serranilla West Breaker	15.79358	-79.98459	UM	
+US Navy Observation Post WW2	18.403	-75.015	UM	350
+Light Keeper's Quarters	18.39718	-75.01329	UM	350
+Cliff Ring	18.40771	-75.00328	UM	350
+Phosphate Boating Installation	18.39608	-75.01881	UM	350
+Lower Terrasse Scrubland	18.39373	-75.00607	UM	350
+East Shoal	5.8693	-161.9917	UM	400
+West Shoal	5.88	-162.175	UM	400
+Dredged Navigation Channel	5.87487	-162.10943	UM	400
+Palmyra Atoll National Wildlife Refuge	5.875	-162.053	UM	400
+The Nature Conservancy - LandOwner	5.875	-162.052	UM	400
+Lagoon Entry Daybeacon	5.88991	-162.08969	UM	400
+SW-NE Emergency Airstrip WW2	5.87618	-162.10484	UM	400
+USAAF Refueling Airbase	5.88792	-162.07945	UM	400
+USN Seaplane Ramp WW2	5.88741	-162.08736	UM	400
+Ochrosia Trees	5.87133	-162.06379	UM	400
+Naval Defense Bunkers atollwide WW2	5.89144	-162.09932	UM	400
+Palmyra Docks	5.88796	-162.08859	UM	400
+Research Facilities	5.8885	-162.08848	UM	400
+Living Quarters	5.88783	-162.08664	UM	400
+Boat Marina	5.88755	-162.08701	UM	400
+Vessel Mooring Buoys	19.28892	166.61097	UM	450
+LSM Landing Ship Medium Harbour	19.29029	166.61846	UM	450
+Wilkes Causeway	19.29517	166.60626	UM	450
+Seaplane Landing Ramp	19.30961	166.62256	UM	300
+frmr Peale-Wake Causeway	19.30588	166.63381	UM	450
+US Seaplane Base pre-WW2	19.31011	166.62346	UM	450
+PanAm Flying Boat Manila Stopover 1935	19.309	166.6	UM	450
+Dredged Submarines Channel	19.2951	166.61788	UM	450
+Harbour Causeway	19.2919	166.61802	UM	450
+Japanese Wilkes Landing Site WW2	19.29571	166.60408	UM	450
+Japanese Wake Landing Sites WW2	19.27927	166.63526	UM	450
+US Submarine Base creation 1941	19.309	166.602	UM	450
+JP Land and Sea Plane Base WW2	19.309	166.603	UM	450
+Tanker R.C.Stoner Wreck	19.28717	166.61389	UM	450
+Rainwater Catchments	19.29747	166.64462	UM	450
+USAF Stopover Airbase	19.309	166.604	UM	450
+part of Ronald Reagan Missile Test Sites	19.309	166.605	UM	300
+Naturally Shrub Covered	19.30628	166.64474	UM	450
+Coastal Defense Platform	28.27924	-177.3643	UM	300
+Liberty Ship Wreck	28.20002	-177.35241	UM	300
+Deepwater Cargo Pier	28.21852	-177.3677	UM	300
+frmr Seaplane Ramp	28.21606	-177.36699	UM	300
+Water Tanks	28.20383	-177.38478	UM	300
+Midway Lagoon	28.23604	-177.34474	UM	300
+US Marines Garrison 1904	28.227	-177.391	UM	300
+PanAm Flying Boat Manila Stopover 1935	28.227	-177.39	UM	300
+Transpacific Communication Cables	28.19694	-177.38062	UM	300
+Dredged Seaplane Lanes	28.23816	-177.37598	UM	300
+Dredged Access Channel	28.20602	-177.35478	UM	300
+Naturally Sparse Herb Cover	28.20413	-177.38809	UM	300
+USN Seaplane Base WW2	28.21154	-177.36942	UM	300
+Tug Pier	28.21434	-177.36316	UM	300
+Deepwater Fuel Pier	28.21971	-177.36854	UM	300
+Battle of Midway WW2	28.228	-177.386	UM	300

@@ -1,0 +1,2554 @@
+Zombi	4.604	-52.39292	GF	00
+Zidok	2.25	-52.86667	GF	00
+Ilet Zebede	5.64938	-53.79904	GF	00
+Zaou Tabiki	3.38041	-54.04521	GF	00
+Crique Zambi	3.93615	-52.83241	GF	00
+Crique Yolande	4.2	-52.95	GF	00
+Yolande	4.09504	-52.94457	GF	00
+Yofe	5.43333	-53.68333	GF	00
+Pripris de Yiyi	5.43631	-53.05165	GF	00
+Digue Yiyi	5.42946	-53.06166	GF	00
+Crique Yiyi	5.48816	-53.15026	GF	00
+Montagne Yaya	4.61911	-54.33847	GF	00
+Crique Yaya	4.58333	-54.3	GF	00
+Saut Yaoua Sikoua	2.31667	-52.76667	GF	00
+Saut Yaroupi	2.78333	-52.48333	GF	00
+Riviere Yaroupi	2.78333	-52.46667	GF	00
+Mont Yaqui	5.41022	-53.28113	GF	00
+Saut Yapoura	4.22243	-52.18446	GF	00
+Saut Yapopena	2.7	-52.51667	GF	00
+Yapimaliki Soula	4.08333	-54.33333	GF	00
+Crique Yaou	3.6826	-53.93608	GF	00
+Yaou	3.73333	-53.95	GF	00
+Savane Yanou	5.46964	-53.26497	GF	00
+Yanou	5.46491	-53.25669	GF	00
+Saut Yanioue	3.08333	-52.73333	GF	00
+Mont Yanioue	3.10566	-52.73744	GF	00
+Crique Yanioue	3.01667	-52.71667	GF	00
+Saut Pamaloupiaina	2.53333	-52.55	GF	00
+Yalou Patatpe	2.53841	-54.33696	GF	00
+Ilets Yacarescin	3.61667	-52	GF	00
+Saut Wyllistain	3.4	-53.9	GF	00
+Winiwe	3.68096	-53.96014	GF	00
+Degrad Willy	5.1776	-53.4896	GF	00
+Saut William	2.86667	-52.98333	GF	00
+Wilfried	3.70994	-54.07612	GF	00
+Weti Soula	2.91667	-53.58333	GF	00
+Weti-Chiton	4.75518	-54.46225	GF	00
+Wempi	3.38333	-53.93333	GF	00
+Wayo Gaan Soula	2.68333	-54	GF	00
+Crique Wawi	2.7	-53.46667	GF	00
+Wawa Soula	3.24252	-53.74463	GF	00
+Saut Wassei	3.12803	-52.60474	GF	00
+Crique Wapou	4.45373	-52.129	GF	00
+Crique Wapa	4.97272	-53.81031	GF	00
+Crique Wapa	3.50924	-53.07418	GF	00
+Crique Wanapi	2.83333	-53.96667	GF	00
+Riviere Waki	3.41667	-53.83333	GF	00
+Cachoeira Acaraiou	3.23333	-52.28333	GF	00
+Wakapou Soula	3.7	-54	GF	00
+Montagne Wakapou	5.01667	-52.73333	GF	00
+Wakapou	3.67331	-54.07664	GF	00
+Cachoeira Ouaouarou	3.35	-52.16667	GF	00
+Saut Waiwarou	3	-52.8	GF	00
+Ilet Waiwarou	3.35	-52.16667	GF	00
+Waimikwale Itou	2.77346	-52.56713	GF	00
+Waane	2.85	-52.45	GF	00
+Ilet Vovony	4.2076	-52.28981	GF	00
+Crique Voltaire	5.14394	-54.16109	GF	00
+Pripris Vogel	5.28333	-52.78333	GF	00
+Roche Vitalo	5.16667	-52.63333	GF	00
+Viri Itou	2.66667	-52.51667	GF	00
+Crique Virgile	4.79049	-53.26635	GF	00
+Crique Virgile	4.51992	-52.32081	GF	00
+Crique Violette	4.73271	-53.95575	GF	00
+Crique Vinsonneau	5.58203	-53.93349	GF	00
+Saut Vincent	4.80077	-53.10571	GF	00
+Village Saramaka	5.15	-52.63333	GF	00
+Village Saramaka	5.45	-53.8	GF	00
+Village Saramaca	4.4013	-52.39229	GF	00
+Village Inipi	3.25	-52.95	GF	00
+Village Galibi	5.4	-54.11667	GF	00
+Village Creole	3.21999	-53.70628	GF	00
+Village Chinois	4.93376	-52.33382	GF	00
+Village Chinois	4.17575	-52.86657	GF	00
+Village Bresilien	5.15	-52.65	GF	00
+Village Adnet	4.25231	-52.22538	GF	00
+Villaflore	4.15	-52.36667	GF	00
+Savane Viguie	5.26667	-52.95	GF	00
+Crique Viguie	5.45455	-53.21746	GF	00
+Pointe Vigie	4.05625	-51.65907	GF	00
+Vieux Grand-Santi	4.32071	-54.38872	GF	00
+Vierge des Trois Tonneaux	4.89943	-53.20682	GF	00
+Saut Victorin	3.74585	-52.77141	GF	00
+Crique Victorin	3.74865	-52.78659	GF	00
+Crique Victor	4.249	-52.21338	GF	00
+Victor	4.93043	-52.31264	GF	00
+Vichy	4.20254	-52.81457	GF	00
+Ile Verte	5.4	-52.83333	GF	00
+Crique Verte	5.12369	-53.04828	GF	00
+Crique Vero	4.55	-54.11667	GF	00
+Crique Verlot	5.3	-52.96667	GF	00
+Saut Verdun	3.06667	-53.21667	GF	00
+Crique Verdun	3.01667	-53.18333	GF	00
+Crique Venus	5.18839	-52.9759	GF	00
+Venus	5.2	-52.98333	GF	00
+Venise	4.00391	-52.94866	GF	00
+Ilet Vendome	4.33118	-52.05763	GF	00
+Veleda	4.7491	-54.0186	GF	00
+Crique Vecot	5.38157	-53.18012	GF	00
+Crique Vecot	5.25	-52.73333	GF	00
+Saut Vata	4.86504	-52.96319	GF	00
+Saut Vase	3.38581	-52.74007	GF	00
+Crique Vase	5.36667	-52.85	GF	00
+Valide	3.86696	-53.35882	GF	00
+Saut Valentin	5.333	-53.66022	GF	00
+Crique Valentin	5.31271	-53.66647	GF	00
+Valentin	5.31667	-53.66667	GF	00
+Crique Vaches	5.61538	-53.99804	GF	00
+Sauts l'Usine	3.58333	-52.1	GF	00
+Saut Trouve	2.46667	-52.86667	GF	00
+Savane de Trou Poissons	5.42419	-53.09953	GF	00
+Trou Poissons	5.43848	-53.09887	GF	00
+Saut Trou Cochon	4.03333	-52.21667	GF	00
+Crique Trou Cochon	4.03333	-52.23333	GF	00
+Crique Trou Caimans	5.4516	-53.13925	GF	00
+Trou Caimans	5.45656	-53.14185	GF	00
+Crique Trou Biron	4.9269	-52.30211	GF	00
+Trou Biran	4.92966	-52.30043	GF	00
+Savane Trou Baches	5.44514	-53.14971	GF	00
+Crique Trou Baches	5.43779	-53.13698	GF	00
+Crique Trou Ara	5.33493	-53.17576	GF	00
+Trou Ara	5.34018	-53.18134	GF	00
+Crique Trompeuse	4.41331	-53.5677	GF	00
+Saut Tromouri	2.29415	-52.8765	GF	00
+Montagne des Trois Tonneaux	4.89538	-53.19906	GF	00
+Trois Sauts	2.2536	-52.85713	GF	00
+Os Treis Saltos	2.25	-52.86667	GF	00
+Montagnes des Trois Roros	4.90659	-53.45418	GF	00
+Trois Rois	4.95	-52.53333	GF	00
+Trois Paletuviers	4.06667	-51.66667	GF	00
+Troisieme Saut	5.28333	-54.16667	GF	00
+Crique Trois Chevaux	5.50946	-53.33318	GF	00
+Crique Triton	4.14435	-53.03115	GF	00
+Fort Trio	4.84771	-52.28843	GF	00
+Montagnes de la Trinite	4.58276	-53.3434	GF	00
+Montagne la Tribouille	5	-52.73333	GF	00
+Crique la Tribouille	5	-52.73333	GF	00
+Savanes Tresor	4.58115	-52.29737	GF	00
+Montagne Tresor	4.58702	-52.25809	GF	00
+Crique du Tresor	5.1	-52.56667	GF	00
+Crique Tresor	4.57044	-52.29272	GF	00
+Pripris Tremblants	5.25	-52.75	GF	00
+Pripris Tremblant	5.40672	-53.02434	GF	00
+Ile Tranquille	5.1	-52.61667	GF	00
+Crique Tranger	4.73384	-53.95198	GF	00
+Toussine	4.76667	-53.88333	GF	00
+Crique Toussaint	5.46667	-52.96667	GF	00
+Crique Tourlouri	4.43333	-52.56667	GF	00
+Saut Tourepe	4.2328	-52.24002	GF	00
+Tour Dreyfus	5.16667	-52.63333	GF	00
+Riviere du Tour de l'Ile	4.73333	-52.33333	GF	00
+Roche de la Toulonnaise	5.4	-53.03333	GF	00
+Crique Toucouchi	4.16198	-51.78642	GF	00
+Crique Touatou	2.88901	-52.42617	GF	00
+Crique Totonne	5.23333	-52.96667	GF	00
+Saut Tortue	4.17747	-52.39867	GF	00
+Monts Tortue	4.23206	-52.4358	GF	00
+Montagnes Tortue	4.33333	-52.21667	GF	00
+Montagne Tortue	5.18333	-52.96667	GF	00
+Ilet Tortue	5.2	-52.96667	GF	00
+Crique Tortue	4.17631	-52.41795	GF	00
+Crique Tortue	3.50379	-52.90384	GF	00
+Tortue	4.17899	-52.38133	GF	00
+Saut Topi-Topi	4.70597	-53.60866	GF	00
+Crique Topaze	4.73893	-53.96164	GF	00
+Topaze	4.72324	-53.95984	GF	00
+Toou Soula	4.96667	-54.43333	GF	00
+Riviere de Tonnegrande	4.82423	-52.43926	GF	00
+Tonnegrande	4.83038	-52.44443	GF	00
+Crique Tonate	5.03304	-52.47555	GF	00
+Tonate	5.01429	-52.47442	GF	00
+Crique Tompic	4.83712	-52.37835	GF	00
+Tolinche	5.26905	-54.23489	GF	00
+Crique Tobie	4.67997	-53.90348	GF	00
+Crique Tobi	3.6809	-53.64031	GF	00
+Titine	4.27635	-52.2194	GF	00
+Crique Titane	4.98248	-53.1753	GF	00
+Saut Tipoko	2.87571	-52.97323	GF	00
+Saut Ti Papa	4.70482	-53.60381	GF	00
+Tintin	4.22344	-52.24057	GF	00
+Crique Tino	4.3	-52.95	GF	00
+Riviere Timouthou	4.89415	-52.49186	GF	00
+Timon	4.41667	-52.38333	GF	00
+Saut Tigre Rouge	2.95379	-52.81292	GF	00
+Saut Tigre	4.98288	-53.02722	GF	00
+Montagne Tigre	4.91288	-52.30135	GF	00
+Crique Tigre	5.63643	-53.95617	GF	00
+Crique Tigre	5.32374	-53.17554	GF	00
+Crique Tigre	5.08936	-53.77341	GF	00
+Crique Tigre	4.97213	-53.03444	GF	00
+Tigami	4.85739	-52.30697	GF	00
+Tiepi Soula	4.98333	-54.43333	GF	00
+Crique Tibourou	4.49975	-52.35456	GF	00
+Savane Thoulouse	4.90977	-52.51802	GF	00
+Crique Thoulouse	4.90253	-52.49652	GF	00
+Theophane	3.71504	-54.0779	GF	00
+Theodore	4.03582	-52.54438	GF	00
+Tetei Wata Soula	4.64509	-54.41436	GF	00
+Tete Crique Reine	4.7344	-53.93195	GF	00
+Terre Rouge	5.62486	-53.74467	GF	00
+Terre Rouge	5.45	-54.05	GF	00
+Terre Rouge	5.46144	-53.20485	GF	00
+Terre Jaune	5.05	-52.65	GF	00
+Crique Terre Blanche	5.28333	-52.96667	GF	00
+Bois de la Terre Blanche	5.3	-52.98333	GF	00
+Crique Tecky	4.85821	-53.07116	GF	00
+Tchoukouchipann	2.25	-54.48333	GF	00
+Crique Tawen	4.36667	-52.41667	GF	00
+Crique Tapo Wawi	2.81217	-53.539	GF	00
+Crique Tapouko	3.06667	-53.21667	GF	00
+Saut Tapouikan	2.88038	-52.92763	GF	00
+Taponte	3.27043	-54.12262	GF	00
+Crique Tapir	5.6726	-53.93951	GF	00
+Crique Tapiare	4.31667	-52.13333	GF	00
+Tapere	2.73123	-52.50618	GF	00
+Crique Taparalale	3.03333	-52.33333	GF	00
+Saut Tampok	3.32083	-53.83408	GF	00
+Riviere Tampok	3.45094	-54.00062	GF	00
+Tampok	3.33333	-53.83333	GF	00
+Tampoc III	2.56654	-53.5505	GF	00
+Source du Tampoc	2.45	-53.25	GF	00
+Crique Tampoc	4.65861	-52.35753	GF	00
+Saut Tampak	3.16779	-52.53704	GF	00
+Crique Tampak	3.2	-52.53333	GF	00
+Tampak	3.95649	-51.77563	GF	00
+Tampak	3.19384	-52.52664	GF	00
+Tamoussiyapa Itou	2.93333	-52.4	GF	00
+Saut Tambour	3.93333	-53.35	GF	00
+Saut Tambour	3.4806	-52.71849	GF	00
+Tamarinier	5.35	-52.86667	GF	00
+Saut Tamanoir	5.15289	-53.75309	GF	00
+Mont Tamanoir	5.4103	-53.39665	GF	00
+Degrad Tamanoir	5.41755	-53.40785	GF	00
+Crique Tamanoir	5.41795	-53.41009	GF	00
+Crique Tamanoir	5.14326	-53.75911	GF	00
+Saut Takari Tante	4.61947	-52.92482	GF	00
+Saut Takari	4.37022	-54.28141	GF	00
+Tainwa Itou	2.62553	-52.7023	GF	00
+Crique Tafia	5.51205	-54.01428	GF	00
+Crique Tafia	5.2	-52.96667	GF	00
+Roche Tado	5.08333	-53.06667	GF	00
+Crique Tacouba	5.10928	-54.18714	GF	00
+Sauts Taconnet	4.03816	-52.50761	GF	00
+Taconnet	4.03333	-52.51667	GF	00
+Crique Tabouba	4.26113	-54.18601	GF	00
+Crique Tablon	4.66024	-53.92073	GF	00
+Tablon	4.66805	-53.9311	GF	00
+Montagne Table	4.56971	-52.41305	GF	00
+Tabikide Soula	4.7779	-54.46029	GF	00
+Suzini	4.9291	-52.29256	GF	00
+Crique Sursaut	4.95831	-53.15576	GF	00
+Sursaut	4.9607	-53.15233	GF	00
+Crique Suivelaleu	2.65164	-52.55364	GF	00
+Degrad Stoupan	4.74873	-52.32982	GF	00
+Stoupan	4.76667	-52.31667	GF	00
+Saut Stephanie	4.46667	-52.88333	GF	00
+Spes	4.51668	-52.40255	GF	00
+Montagnes de la Sparouine	4.8	-54.15	GF	00
+Crique Sparouine	5.27006	-54.26033	GF	00
+Sparouine	5.26667	-54.25	GF	00
+Crique Sourou	4.6461	-52.40899	GF	00
+Source Kerindioutou	2.18402	-53.28646	GF	00
+Saut Soungnou	4.9436	-53.78911	GF	00
+Crique Soumourou	5.15338	-52.75672	GF	00
+Pripris de Soula	4.91684	-52.39599	GF	00
+Soula	4.91082	-52.40651	GF	00
+Montagne Soufflet	4.29946	-52.71936	GF	00
+Crique Soualani	2.41667	-54.06667	GF	00
+Crique Sophie	4.03333	-53.46667	GF	00
+Sophie	3.95753	-53.47716	GF	00
+Saut Sonnelle	3.66667	-53.96667	GF	00
+Sonnelle	3.66667	-53.96667	GF	00
+Crique Solitaire	4.59028	-52.0564	GF	00
+Pointe Soleil	5.46429	-53.24464	GF	00
+Sokoumou	5.05536	-52.68474	GF	00
+Crique Socoumou	5.05	-52.68333	GF	00
+Grande Crique Sivirine	5.37518	-53.18435	GF	00
+Crique Sivirine	5.37173	-53.18436	GF	00
+Sivirine	5.37276	-53.1846	GF	00
+Crique Sirene	4.1	-53.06667	GF	00
+Sipeu	2.82173	-52.46718	GF	00
+Crique Singes Rouges	4.99568	-52.66797	GF	00
+Montagne des Singes	5.07373	-52.70107	GF	00
+Roche Singe Rouge	5.11515	-53.04479	GF	00
+Crique Simplon	3.65	-53.63333	GF	00
+Roche Simon	4.91667	-52.2	GF	00
+Crique Simon	4.85623	-53.78091	GF	00
+Crique Simon	4.23139	-52.04951	GF	00
+Simon	4.57089	-52.64353	GF	00
+Mont Siminirit	3.08333	-53.03333	GF	00
+Siminiout	2.91002	-52.83023	GF	00
+Crique Sikini	3.25937	-52.26521	GF	00
+Sikini	3.38333	-52.5	GF	00
+Crique Servilise	5.07963	-53.78054	GF	00
+Montagnes des Serpents	4.72192	-52.3591	GF	00
+Crique Serpent	5.34802	-54.14985	GF	00
+Crique Serpent	4.94604	-53.26042	GF	00
+Crique Serpent	4.76667	-52.38333	GF	00
+Saut Seraphine	4.77592	-53.12709	GF	00
+Crique Seraphin	3.61549	-53.3849	GF	00
+Saut Sept Ilets	4.61667	-53.08333	GF	00
+Rapides des Sept Ilets	3.95	-53.38333	GF	00
+Rapide des Sept Ilets	4.0045	-53.41231	GF	00
+Senkinen	5.1	-54.36667	GF	00
+Mont Sec	4.91602	-52.29258	GF	00
+Crique Sebastopol	4.12366	-52.51941	GF	00
+Crique Schmitt	3.41667	-53.93333	GF	00
+Crique Sawawe	3.78333	-51.95	GF	00
+Crique Savon	3.78216	-53.33113	GF	00
+Savane Manuel	5.35	-52.95	GF	00
+Degrad Savane	5.48213	-53.24342	GF	00
+Crique Savane	3.39662	-53.10764	GF	00
+Saut Tigre	5.01314	-53.02915	GF	00
+Crique Saut Tampak	3.16667	-52.53333	GF	00
+Saut Sabbat	5.38333	-53.66667	GF	00
+Crique Sautplat	3.91667	-51.91667	GF	00
+Route de Saut Leodate	4.86667	-52.78333	GF	00
+Crique Sautero	4.81667	-52.3	GF	00
+Sautero	4.82285	-52.31486	GF	00
+Crique Saut	4.98869	-53.00969	GF	00
+Crique Saut	4.79413	-53.29424	GF	00
+Crique Saut	4.27683	-52.29128	GF	00
+Crique Saut	4.17361	-52.07084	GF	00
+Crique Saut	3.43333	-53.36667	GF	00
+Degrad Saulnier	5.26667	-52.96667	GF	00
+Crique Saulnier	5.26667	-52.96667	GF	00
+Saulnier	5.26667	-52.96667	GF	00
+Crique Saul	4.58333	-52.9	GF	00
+Saul	3.62307	-53.20918	GF	GF
+Crique Sardine	4.92456	-53.23663	GF	00
+Crique Sardine	4.87073	-53.31462	GF	00
+Crique Sardine	3.55821	-53.71278	GF	00
+Savane Sarcelle	5.63825	-53.70658	GF	00
+Crique Saranou	2.37603	-54.44629	GF	00
+Degrad Saramaka	5.01667	-52.7	GF	00
+Sapotille	5.3023	-53.62154	GF	00
+Crique Sapokai	3.53333	-52.7	GF	00
+Sapokai	3.56667	-52.66667	GF	00
+Sapajou	4.26222	-52.69296	GF	00
+Santonia	4.73551	-54.45526	GF	00
+Cachoeira Trasapa	2.2	-52.91667	GF	00
+Sania	5.2	-54.3	GF	00
+Crique Samuel	4.90968	-52.78668	GF	00
+Crique Samakou	2.63333	-52.55	GF	00
+Crique Salva	4.71631	-54.41452	GF	00
+Iles du Salut	5.28333	-52.58333	GF	00
+Ile Sakoura	5.16212	-54.34109	GF	00
+Crique Sakoura	5.16368	-54.33653	GF	00
+Crique Saint-Roch	4.54035	-52.41238	GF	00
+Saint-Roch	4.53592	-52.40481	GF	00
+Crique Saint-Remy	4.20358	-52.05956	GF	00
+Ilets Saint-Regis	4.6571	-52.35597	GF	00
+Crique Saint-Regis	4.653	-52.3681	GF	00
+Crique Saint-Price	4.81667	-53.11667	GF	00
+Montagne Saint-Pierre	4.58788	-52.44273	GF	00
+Degrad Saint-Pierre	3.11667	-52.66667	GF	00
+Crique Saint-Pierre	4.84393	-53.81465	GF	00
+Crique Saint-Pierre	3.15	-52.63333	GF	00
+Saint-Pierre	3.14734	-52.66012	GF	00
+Saint-Pierre	4.85492	-52.32478	GF	00
+Saint-Paul	4.82623	-53.30781	GF	00
+Saint-Paul	4.3955	-54.38276	GF	00
+Montagne Saint-Michel	4.71667	-52.75	GF	00
+Saint-Maurice	5.45561	-54.01804	GF	00
+Mont Saint-Martin	4.92032	-52.28406	GF	00
+Crique Saint-Martin	5.57809	-53.90362	GF	00
+Mont Saint-Marcel	2.39146	-53.01385	GF	00
+Saint-Lucien	4.15139	-52.53067	GF	00
+Saint-Louis	5.47574	-54.0464	GF	00
+Saint-Louis	4.03172	-51.68825	GF	00
+Crique Saint-Leon	3.87925	-53.37255	GF	00
+Arrondissement de Saint-Laurent-du-Maroni	4	-53.75	GF	GF
+Saint-Laurent-du-Maroni	5.5	-54.03333	GF	GF
+Crique Saint-Laurent	5.5	-54.03333	GF	00
+Pointe Saint-Joseph	4.9427	-52.336	GF	00
+Ile Saint-Joseph	5.28333	-52.58333	GF	GF
+Crique Saint-Joseph	5.39996	-53.31959	GF	00
+Saint-Joseph	4.80258	-53.15903	GF	00
+Saint-Joseph	3.13832	-52.3532	GF	00
+Lotissement Saint-Jean	5.35	-54.06667	GF	00
+Crique Saint-Jean	5.46171	-54.06712	GF	00
+Saint-Jean	5.39975	-54.0751	GF	00
+Saint-Jean	4.1	-54.2	GF	00
+Montagne Saint-Jacques	4.97349	-53.03037	GF	00
+Crique Saint-Germain	4.895	-52.47533	GF	00
+Saint-Georges-de-l'Oyapock	3.9	-51.8	GF	GF
+Saint-Georges-de-l'Oyapock	3.9	-51.8	GF	GF
+Roche Saint-Francois	4.97026	-52.29234	GF	00
+Pointe Saint-Francois	4.93914	-52.33803	GF	00
+Crique Saint-Eugene	4.84844	-53.07927	GF	00
+Saint-Eugene	4.85197	-53.07201	GF	00
+Sainte-Therese	4.75686	-52.33143	GF	00
+Saint-Esprit	4.28046	-52.12309	GF	00
+Pointe Sainte-Marie	3.12535	-52.31984	GF	00
+Crique Saint-Eloi	3.79545	-53.31315	GF	00
+Saint-Eloi	3.73878	-53.22707	GF	00
+Route de Saint-Elie	5.38333	-52.98333	GF	00
+Crique Saint-Elie	4.81701	-53.25559	GF	00
+Saint-Elie	4.82158	-53.28381	GF	GF
+Sainte-Helene	4.25402	-52.5653	GF	00
+Sainte-Catherine	4.87037	-52.37472	GF	00
+Crique Sainte-Annie	3.41667	-53.05	GF	00
+Degrad Sainte-Anne	4.59024	-52.45903	GF	00
+Crique Sainte-Anne	5.55217	-53.8143	GF	00
+Crique Sainte-Anne	4.58744	-52.45602	GF	00
+Sainte-Anne	4.58188	-52.44998	GF	00
+Sainte-Anne	4.80767	-53.11064	GF	00
+Saint-Bernard	5.16667	-52.95	GF	00
+Crique Saint-Auguste	4.86225	-53.3188	GF	00
+Saint-Auguste	4.83974	-53.30426	GF	00
+Saint-Antoine	5.6	-53.88333	GF	00
+Saut Saillat	5.31667	-54.15	GF	00
+Crique Sai	3.38877	-53.23558	GF	00
+Sai	3.4	-53.23333	GF	00
+Crique Sacaranque	3.38333	-52.1	GF	00
+Crique Sabre	4.05	-53.46667	GF	00
+Crique Sable	5.56056	-53.79264	GF	00
+Crique Sable	4.80686	-53.25533	GF	00
+Crique Sable	4.61451	-52.41536	GF	00
+Crique Sable	4.54214	-52.28585	GF	00
+Crique Sable	4.03333	-52.71667	GF	00
+Crique Sable	3.95	-54.26667	GF	00
+Crique Sable	3.62233	-53.06662	GF	00
+Crique Sable	3.05	-52.96667	GF	00
+Saut Sabbat	5.39425	-53.67457	GF	00
+Crique Sabbat	5.38291	-53.67365	GF	00
+Crique Sabakou	5.15383	-54.3475	GF	00
+Crique Rubis	4.2	-52.96667	GF	00
+Rubis	4.15227	-52.89109	GF	00
+Ruben	5.35	-54.13333	GF	00
+Ile Royale	5.28333	-52.58333	GF	00
+Montagnes de Roura	4.66639	-52.30997	GF	00
+Roura	4.72629	-52.32742	GF	GF
+Crique Rouge	5.58254	-53.94848	GF	00
+Rouga Tabiki	4.83333	-54.46667	GF	00
+Crique Rosette	4.26667	-52.58333	GF	00
+Crique Rosalie	4.16482	-53.56761	GF	00
+Lac du Rorota	4.88113	-52.25145	GF	00
+Roncevaux	4.24634	-52.70446	GF	00
+Crique Romieu	5.03523	-52.49873	GF	00
+Crique Rocques	4.8362	-52.44709	GF	00
+Pointe Rocoucoua	5.44364	-53.26067	GF	00
+Crique Rocoucoua	5.44013	-53.25776	GF	00
+Rocoucoua	5.45	-53.33333	GF	00
+Roche Tado	5.07921	-53.06544	GF	00
+Roche Tablon	4.63333	-52.38333	GF	00
+Roche Sophie	5.28333	-52.81667	GF	00
+Roche Singes Rouges	5.10089	-53.03743	GF	00
+Roche Serpent	4.56667	-53.08333	GF	00
+Savane des Roches Blanches	5.49361	-53.31619	GF	00
+Roches Blanches	5.5	-53.33333	GF	00
+Montagne des Rochers	4.28333	-51.98333	GF	00
+Roche Mon Pere	3.28333	-52.2	GF	00
+Roche Maman Pian	5.091	-53.03724	GF	00
+Roche Kawann	5.11667	-53.4	GF	00
+Roche Hirondelle	5.4367	-53.35638	GF	00
+Roche Genipa	4.93792	-52.78131	GF	00
+Crique Roche Fendee	4.37622	-52.57491	GF	00
+Roche Elisabeth	5.23333	-52.76667	GF	00
+Roche Degonde	5.3	-52.83333	GF	00
+Crique Roche Couronnee	3.3737	-52.73557	GF	00
+Roche Clara	5.31667	-52.83333	GF	00
+Roche Chapeau	2.98333	-53.31667	GF	00
+Roche Cambrouze	5.4303	-53.37563	GF	00
+Roche Cabrit	4.43333	-53.58333	GF	00
+Roche Brigandin	5.45	-53	GF	00
+Roche Bravo	5.25723	-52.96226	GF	00
+Roche Ayombe	5.38333	-52.91667	GF	00
+Roche Ara	4.1	-52.21667	GF	00
+Ilet Roche Ananas	3.28333	-52.21667	GF	00
+Pripris Roche	5.49577	-53.2724	GF	00
+Ile Roche	5.4341	-53.11044	GF	00
+Grande Crique Roche	5.25877	-53.41856	GF	00
+Degrad Roche	5.37361	-53.42629	GF	00
+Crique Roche	5.5649	-53.95722	GF	00
+Crique Roche	5.33459	-53.41229	GF	00
+Crique Roche	4.96896	-53.0842	GF	00
+Crique Roche	4.85957	-53.96958	GF	00
+Crique Roche	4.82956	-54.00282	GF	00
+Crique Roche	3.85564	-51.84268	GF	00
+Crique Roche	3.56231	-52.67827	GF	00
+Crique Rochambeau	4.81186	-52.38187	GF	00
+Cayenne-Rochambeau	4.81981	-52.36045	GF	GF
+Robert	5.40743	-53.13802	GF	00
+Risquetout	4.91667	-52.51667	GF	00
+Crique Richard	4.94506	-53.18832	GF	00
+Reveil	4.98333	-53.85	GF	00
+Mont Respect	4.75866	-53.88595	GF	00
+Crique Requin	5.15	-52.66667	GF	00
+Montagne Republique	4.86747	-53.23448	GF	00
+Crique Republique	4.90029	-53.25442	GF	00
+Republique	4.87173	-53.25343	GF	00
+Repentir	3.83333	-53.4	GF	00
+Savane Renner	5.33333	-52.88333	GF	00
+Crique Rencontre	2.58862	-53.18071	GF	00
+Montagne de Remire	4.89357	-52.26809	GF	00
+Lac de Remire	4.87596	-52.2625	GF	00
+Iles Remire	4.92833	-52.20259	GF	00
+Anse de Remire	4.90181	-52.25847	GF	00
+Remire	4.88441	-52.27868	GF	00
+Crique Reine	4.73309	-53.95545	GF	00
+Crique Regis	5.39982	-53.42998	GF	00
+Regina	4.31607	-52.13007	GF	GF
+Crique Rebord	3.9	-53.36667	GF	00
+Crique Ratamina	4.26338	-51.93872	GF	00
+Crique Rapari	4.0482	-51.8871	GF	00
+Ilets Ramier	4.03485	-51.69927	GF	00
+Crique Rachel	3.11667	-52.8	GF	00
+Crique Quimbe Coeur	4.52776	-52.4861	GF	00
+Quesnel	4.95	-52.5	GF	00
+Quatre Carbets	3.76667	-52.2	GF	00
+Ile Quarantaine	5.47544	-54.05952	GF	00
+Providence	4.61667	-54.4	GF	00
+Crique Privat	5.2975	-53.15407	GF	00
+Crique Pradine	5.23333	-52.71667	GF	00
+Saut Pouvez Jeunes-Gens	4.94754	-53.24598	GF	00
+Pouou Sani Soula	3.28333	-54.06667	GF	00
+Crique Pouget	4.98825	-53.76256	GF	00
+Pouga Tabiki	4.86226	-54.46631	GF	00
+Crique Posson	4.2	-54.05	GF	00
+Crique Portugaise	4.34057	-52.16815	GF	00
+Port Inini	4.81912	-52.48375	GF	00
+Saut Portal	5.28333	-53.86667	GF	00
+Ile Portal	5.42432	-54.0846	GF	00
+Crique Portal	5.45228	-53.68835	GF	00
+Portal	5.41754	-54.10118	GF	00
+Portal	5.41667	-54.1	GF	GF
+Crique Porotai	3.97493	-52.81335	GF	00
+Populo	5.61516	-53.81605	GF	00
+Populo	5.6127	-53.81712	GF	00
+Crique Popote	3.7	-53.28333	GF	00
+Popote	3.70264	-53.29294	GF	00
+Crique Ponta	5.20041	-54.29592	GF	00
+Ponta	5.20129	-54.31127	GF	00
+Crique Pont	5.43459	-53.13249	GF	00
+Pommier	4.62035	-54.41399	GF	00
+Polydor	3.19548	-52.39926	GF	00
+Pointe Pollux	5.16667	-52.63333	GF	00
+Saut des Polissoirs	3.62902	-53.10274	GF	00
+Saut des Polissoirs	2.60862	-52.71266	GF	00
+Polemie	4.94674	-53.78768	GF	00
+Crique Pois Sucre	5.28327	-53.20726	GF	00
+Crique Poisson	3.79057	-53.70425	GF	00
+Pointe Logoa	4.77492	-52.31549	GF	00
+Pointe Isere	5.73612	-53.8577	GF	00
+Pointe Finie	3.52909	-52.75997	GF	00
+Ilet Pointe Coton	5.33333	-52.86667	GF	00
+Pointe Combi	5.31667	-52.95	GF	00
+Pointe Caiman	4.98993	-52.66608	GF	00
+Pode Soula	4.74952	-54.46542	GF	00
+Petite Crique Plomb	5.02147	-53.02583	GF	00
+Montagnes Plomb	5	-52.95	GF	00
+Crique Plomb	5.01819	-53.01866	GF	00
+Plomb	5.02112	-53.01953	GF	00
+Plaque Roche	5.35	-53.43333	GF	00
+Plaque Roche	5.34656	-53.43428	GF	00
+Saut Pisse Diable	3.58333	-52.11667	GF	00
+Crique Pinots	4.21667	-52.93333	GF	00
+Crique Pinot	4.67444	-52.34443	GF	00
+Crique Pino'o	2.35	-52.7	GF	00
+Pointe Pinaud	4.93761	-53.03432	GF	00
+Pina Tabiki	4.63519	-54.42776	GF	00
+Pina	2.28333	-52.85	GF	00
+Piliwa	5.73333	-53.88333	GF	00
+Pierrette	4.02144	-52.56003	GF	00
+Pierre Hoho	3.3095	-52.73217	GF	00
+Pierre Bateau	5.46612	-53.24122	GF	00
+Degrad Pierre	4.94939	-53.19468	GF	00
+Crique Pierre	4.95026	-53.19831	GF	00
+Saut Pierkourou	2.83075	-53.5449	GF	00
+Picard	4.20508	-52.26066	GF	00
+Crique Pian Bois	3.18333	-52.83333	GF	00
+Saut Petit Waiwarou	2.98333	-52.8	GF	00
+Saut Petit Valentin	5.35069	-53.67103	GF	00
+Crique Petit Valentin	5.3465	-53.67858	GF	00
+Pripris Petit Tango	5.2	-52.98333	GF	00
+Crique Petit Tango	5.2	-52.98333	GF	00
+Crique Petit Tamouri	2.86667	-53.01667	GF	00
+Crique Petit Sparouine	4.9	-54.21667	GF	00
+Petit Sourou	4.65888	-52.41077	GF	00
+Route de Petit Saut	5.21667	-52.78333	GF	00
+Petit Saut	5.36113	-53.67848	GF	00
+Petit Saut	5.06543	-53.05406	GF	00
+Petit Saut	4.15199	-52.41286	GF	00
+Petit Saut	5.35	-53.68333	GF	00
+Saut Petit Patawa	4.69153	-53.60497	GF	00
+Crique Petit Pas Trop Tot	4.84607	-53.93547	GF	00
+Crique Petit Paramana	4.81667	-52.3	GF	00
+Petit Paradis	3.64158	-53.52312	GF	00
+Saut Petit Ouayeouarou	3	-52.78333	GF	00
+Crique Petit Ouanary	4.1791	-51.7592	GF	00
+Mont Petit Matoury	4.89616	-52.35034	GF	00
+Saut Petit Mathias	4.18333	-52.36667	GF	00
+Cachoeira Piararusa	2.65	-52.55	GF	00
+Crique Petit Maripa	3.80608	-52.61196	GF	00
+Crique Petit Marabout	5.05	-52.76667	GF	00
+Crique Petit Maperibo	4.89154	-52.46456	GF	00
+Petit Mamaribo	5.51008	-53.35238	GF	00
+Crique Petit Maii	4.73009	-53.15384	GF	00
+Saut Petit Machikou	3.88338	-52.57228	GF	00
+Crique Petit Lezard	4.81667	-54.01667	GF	00
+Crique Petit Leblond	4.7	-53.18333	GF	00
+Crique Petit Laussat	5.43333	-53.58333	GF	00
+Petit Laussat	5.45	-53.88333	GF	00
+Saut Petit Kwata	3.55	-52.81667	GF	00
+Saut Petit Koumarou	4.08333	-53.5	GF	00
+Crique Petit Karapana	3.95	-52.98333	GF	00
+Sauts Petit Kanori	3.6509	-52.66716	GF	00
+Saut Petit Kamanwai	4.15021	-53.55155	GF	00
+Saut Petit Japigny	3.50741	-52.89397	GF	00
+Crique Petit Japigny	4	-52.61667	GF	00
+Petit Inini du Tampok	3.00768	-53.64993	GF	00
+Riviere Petit Inini	3.65	-53.83333	GF	00
+Saut Petit Impossible	2.81795	-52.91948	GF	00
+Crique Petit Galibi	4.39564	-52.62003	GF	00
+Saut Petit Franconie	5.14108	-53.40832	GF	00
+Petit Fouet	4.89917	-54.46863	GF	00
+Crique Petite Waki	3.18333	-53.48333	GF	00
+Crique Petite Absinthe	4.94771	-53.9448	GF	00
+Crique Petit Couacou	4.56149	-52.28472	GF	00
+Petit Coromonbo	4.76667	-52.36667	GF	00
+Sauts Petit Continent	2.89558	-52.85213	GF	00
+Saut Petit Continent	4.71667	-53.61667	GF	00
+Saut Petit Continent	3.72877	-52.75491	GF	00
+Savane du Petit Cayenne	4.87784	-52.40726	GF	00
+Pointe du Petit Cayenne	4.89633	-52.38016	GF	00
+Petit Cayenne	4.88502	-52.39432	GF	00
+Crique Petit Boulanger	4.59111	-52.33391	GF	00
+Crique Petit Ben Amar	5.60178	-53.96587	GF	00
+Pointe Petit Bano	4.96278	-53.02435	GF	00
+Saut Petit Bala	4.38614	-54.33136	GF	00
+Saut Petit Bakou	4.22801	-53.55211	GF	00
+Crique Petit Bagot	4.56667	-52.61667	GF	00
+Crique Petit Approuague	4.39782	-52.3997	GF	00
+Crique Petit Amaryllaire	4.98781	-53.09364	GF	00
+Saut Petit Ako	2.76667	-52.48333	GF	00
+Crique Petit Agami	4.95024	-53.25753	GF	00
+Riviere Petit Abounami	4.26715	-54.20974	GF	00
+Crique Petit	5.41311	-53.13893	GF	00
+Ilet aux Perroquets	5.26667	-52.8	GF	00
+Ilet Perroquet	4.15727	-51.64409	GF	00
+Ile Perroquet	4.3719	-51.96571	GF	00
+Saut du Peril	4.33333	-52.88333	GF	00
+Crique du Peril	4.3259	-52.90432	GF	00
+Savane des Peres	5.38333	-52.98333	GF	00
+Montagnes des Peres	5.09637	-52.61404	GF	00
+Crique des Peres	5.10416	-52.65493	GF	00
+Degrad Perdu Temps	5.06807	-53.40793	GF	00
+Crique Perdu Temps	5.06974	-53.40803	GF	00
+Perdu Temps	4.99444	-53.36173	GF	00
+Roche Peon	2.44589	-53.23341	GF	00
+Pelea	3.26667	-54.11667	GF	00
+Pedima	3.3096	-54.09386	GF	00
+Pays Indien	4.16667	-51.78333	GF	00
+Payla Ito	3.08333	-52.33333	GF	00
+Crique Pave	4.85431	-52.27011	GF	00
+Route de Paul Isnard	4.78333	-54.01667	GF	00
+Paul Isnard	4.78051	-54.00746	GF	00
+Montagne Pauline	4.71627	-53.93449	GF	00
+Crique Pauline	4.55749	-54.23415	GF	00
+Crique Pauline	4.52675	-52.25993	GF	00
+Crique Paul-Emile	4.76961	-52.13578	GF	00
+Crique Paul	3.38333	-52.46667	GF	00
+Saut Patience	3.5	-52.88333	GF	00
+Patience	5.23333	-54.3	GF	00
+Patience	3.82867	-53.32024	GF	00
+Patience	3.41507	-52.90987	GF	00
+Crique Patawati	4.35	-52.01667	GF	00
+Saut Patawa	4.78706	-52.94713	GF	00
+Saut Patawa	4.67883	-53.61174	GF	00
+Montagne Patawa	4.69454	-53.8969	GF	00
+Montagne Patawa	4.8728	-53.30193	GF	00
+Patawa	4.68333	-52.51667	GF	00
+Saut Patate Folle	4.89407	-53.04279	GF	00
+Crique Patate	4.92596	-52.4878	GF	00
+Patate	5.02312	-53.64956	GF	00
+Montagne Patagaie	4.58558	-52.41543	GF	00
+Crique Patagaie	5.42389	-53.23653	GF	00
+Crique Patagaie	4.60221	-52.40565	GF	00
+Crique Patagaie	4.51269	-52.36683	GF	00
+Saut Pas Trop Tot	4.86492	-53.96399	GF	00
+Crique Pas Trop Tot	4.86686	-53.96033	GF	00
+Pascaud	4.86601	-52.2731	GF	00
+Degrad Pascal	5.42949	-53.34732	GF	00
+Pascal	4.25	-54.38333	GF	00
+Crique Parsoumouton	5.28333	-52.95	GF	00
+Saut Parole Finie	4.91164	-53.0028	GF	00
+Saut Parole Finie	3.53333	-52.76667	GF	00
+Crique Paris	4.79379	-53.81967	GF	00
+Savanes de Pariacabo	5.16667	-52.68333	GF	00
+Monts Pariacabo	5.16916	-52.72224	GF	00
+Pariacabo	5.15	-52.68333	GF	00
+Saut Par Hasard	3.96667	-53.38333	GF	00
+Crique Parforce	5.05	-52.68333	GF	00
+Crique Parepou	3.5043	-52.95167	GF	00
+Parcours Noir	3.41667	-52.13333	GF	00
+Saut Parasol	4.16667	-52	GF	00
+Crique Parasol	4.15	-53.01667	GF	00
+Saut Parare	4.03406	-52.69916	GF	00
+Mont Paramana	4.81618	-52.33309	GF	00
+Crique Paracou	5.45272	-52.96479	GF	00
+Crique Papinabo	5.10402	-52.68073	GF	00
+Crique Papillon	4.3256	-52.1067	GF	00
+Papa Moumou	5.53572	-53.68351	GF	00
+Papa Jean	4.94186	-53.26418	GF	00
+Papaichton	3.80746	-54.1735	GF	GF
+Crique Panel	3.78333	-51.98333	GF	00
+Pointe Panato	5.71716	-53.96481	GF	00
+Panapi Soula	3.01667	-54.18333	GF	00
+Panakoupelou Itou	2.65	-52.55	GF	00
+Panabi Soungou Soula	4.04402	-54.34335	GF	00
+Crique Palofini	3.42647	-53.4237	GF	00
+Crique Palissade	5.23333	-52.95	GF	00
+Saut Palikou	4.36667	-52.96667	GF	00
+Roche Paligou	4.89641	-52.37847	GF	00
+Pointe des Paletuviers	5.48333	-53.03333	GF	00
+Palassissi	3.28333	-54.08333	GF	00
+Palanga Itou	2.38333	-52.63333	GF	00
+Saut Pakoussing	4.60879	-53.63284	GF	00
+Saut Pacouacara	3.73333	-51.95	GF	00
+Icholi Pakira Emeni	2.73333	-54.25	GF	00
+Saut Pakira	4.29697	-53.55684	GF	00
+Crique Pakira	4.29147	-52.13714	GF	00
+Crique Pakira	3.43333	-53.53333	GF	00
+Crique Pakira	3.39762	-53.10175	GF	00
+Crique Paira	4.11667	-52.05	GF	00
+Crique Pain de Sucre	4.53959	-52.58046	GF	00
+Paille	4.2	-54.23333	GF	00
+Pahan Tapele	2.83843	-52.45039	GF	00
+Crique Pagamont	4.89618	-52.42913	GF	00
+Crique Pagaie	5.64647	-53.92993	GF	00
+Crique Pactole	4.8	-53.3	GF	00
+Crique Pachabo	4.5768	-52.48952	GF	00
+Paalou Soula	3.06667	-53.68333	GF	00
+Paloeloe Val	2.7	-54.26667	GF	00
+Paa Itou	2.3121	-52.91257	GF	00
+Rio Oiapoque	4.14167	-51.63918	GF	00
+Baia do Oiapoque	4.26667	-51.66667	GF	00
+Riviere Oyak	4.72374	-52.32777	GF	00
+Savanes Oyabo	5.05	-52.63333	GF	00
+Crique Outawa	2.57091	-52.55802	GF	00
+Ilet Marecage	3.05	-52.35	GF	00
+Crique Ouroukourou	2.46488	-52.62266	GF	00
+Ouragan	3.93261	-52.99736	GF	00
+Saut Ouman Fou l'Inspecteur	3.18333	-53.48333	GF	00
+Ouman Fou Langa Soula	2.87287	-53.99932	GF	00
+Oulapa	5.16667	-52.65	GF	00
+Ilet Ouayeouarou	3.34372	-52.16628	GF	00
+Ile Ouaye	5.06667	-52.58333	GF	00
+Crique Ouara	5.2	-52.96667	GF	00
+Ouaqui	3.45358	-53.99197	GF	00
+Riviere Ouanary	4.20932	-51.66321	GF	00
+Ouanary	4.20199	-51.68317	GF	GF
+Saut Ouaiewarou	3.00694	-52.79194	GF	00
+Crique Ouaie	4.34281	-52.14767	GF	00
+Ilets Ouacarayou	3.24179	-52.27173	GF	00
+Oscar	2.85203	-52.44779	GF	00
+Saut l'Or Rosalie	4.16683	-53.56325	GF	00
+Savane Organabo	5.54576	-53.44878	GF	00
+Riviere Organabo	5.54846	-53.46809	GF	00
+Organabo	5.54155	-53.45992	GF	00
+Crique Orfion	4.51502	-52.24758	GF	00
+Riviere Orapu	4.66117	-52.33135	GF	00
+Opoya	3.38333	-54.05	GF	00
+Savane Onemark	4.9362	-52.48027	GF	00
+Crique Onemark	4.93031	-52.48605	GF	00
+Oiseau Fou	4.891	-53.05319	GF	00
+Monts de l'Observatoire	4.23386	-51.72515	GF	00
+Saut Numero Un	3.89839	-52.86229	GF	00
+Saut Numero Un	3.61667	-52.58333	GF	00
+Saut Numero Trois	3.6	-52.56667	GF	00
+Saut Numero Deux	3.86412	-52.87751	GF	00
+Saut Numero Deux	3.61667	-52.58333	GF	00
+Crique Nouvelle France	3.54773	-53.17403	GF	00
+Nouvelle Alliance	4.01667	-51.73333	GF	00
+Ilet Noussiri	3.59272	-52.01809	GF	00
+Crique Noussiri	3.58333	-52.03333	GF	00
+Crique Noire	4.28333	-52.91667	GF	00
+Crique Noel	3.83333	-52.58333	GF	00
+Saut Nivree	3.49254	-53.0222	GF	00
+Saut Nivre	3.98304	-53.39392	GF	00
+Niewe Rust	5.58333	-55.03333	GF	00
+Saut Nicole	3.54576	-53.79001	GF	00
+Ilets Niasse	3.78333	-51.93333	GF	00
+Ilet Niasse	3.76667	-51.91667	GF	00
+Saut Niagara	4.56667	-53.08333	GF	00
+Crique Ngoulou	3.08333	-53.7	GF	00
+Crique Neptune	4.06219	-53.08759	GF	00
+Crique Nelson	5.07143	-52.83807	GF	00
+Crique Nelson	4.58333	-54.25	GF	00
+Saut Naya	4.57985	-53.63967	GF	00
+Crique Nationale	4.73932	-52.742	GF	00
+Nationale	4.58292	-52.74802	GF	00
+Nasson Soula	4.81667	-54.46667	GF	00
+Nasson	4.81667	-54.46667	GF	00
+Saut Nassibo	4.77021	-52.98523	GF	00
+Nassau Dede Soula	3.30586	-54.04905	GF	00
+Napi Soula	2.71667	-53.43333	GF	00
+Savane Nango	5.38333	-52.95	GF	00
+Pripris Nango	5.38333	-52.91667	GF	00
+Ile Nango	5.38333	-52.95	GF	00
+Crique Nancibo	4.63847	-52.4723	GF	00
+Nancibo	4.66667	-52.48333	GF	00
+Saut Nanas	2.87691	-53.55402	GF	00
+Saut Nana	3.72828	-52.73253	GF	00
+Crique Nai	5.36667	-53.76667	GF	00
+Anse Nadau	4.94394	-52.32827	GF	00
+Crique Moyoukoupea	2.35558	-52.71905	GF	00
+Moyoco	5.16667	-52.65	GF	00
+Moyen Camopi	2.70969	-52.99035	GF	00
+Montagne Moustiques	5.38718	-53.17171	GF	00
+Moussoue Santi Tabiki	4.58206	-54.41925	GF	00
+Moussoue Santi Tabiki	4.5863	-54.40855	GF	00
+Crique Mousse	4.95897	-53.93365	GF	00
+Cachoeira Camoura	3.16667	-52.33333	GF	00
+Moulouwa Itou	2.93333	-52.4	GF	00
+Saut Mouloussietou	2.76411	-52.58183	GF	00
+Crique Moulou-Moulou Chinale	2.5	-52.58333	GF	00
+Degrad Moufflet	4.48333	-52.38333	GF	00
+Crique Moufflet	4.47391	-52.37938	GF	00
+Crique Mouchounga	4.91667	-54.46667	GF	00
+Crique Mouches sans Raison	5.21667	-52.95	GF	00
+Saut Mouches	4.6348	-52.9301	GF	00
+Crique Moucaya	5.52374	-53.36731	GF	00
+Moucaya	5.51667	-53.38333	GF	00
+Ilet Motoura	2.59518	-52.55037	GF	00
+Mortuom	4.85	-52.33333	GF	00
+Morpion	5.01966	-53.65532	GF	00
+Savane Morpio	5.48473	-53.29427	GF	00
+Crique Morpio	5.49025	-53.29376	GF	00
+Morpio	5.48355	-53.30086	GF	00
+Saut Morol	4.76318	-53.09988	GF	00
+Crique Morol	4.76278	-53.1013	GF	00
+Savane des Mornes	4.98706	-52.47235	GF	00
+Mont Morne Coco	4.90139	-52.28606	GF	00
+Saut Mont Valerien	4.93333	-53.05	GF	00
+Mont Valerien	4.93607	-53.04964	GF	00
+Savanes de Montsinery	4.89774	-52.50268	GF	00
+Riviere de Montsinery	4.9015	-52.38225	GF	00
+Montsinery-Tonnegrande	4.9	-52.5	GF	GF
+Montravel	4.91166	-52.25928	GF	00
+Anse de Montjoly	4.92525	-52.27155	GF	00
+Remire-Montjoly	4.91667	-52.26667	GF	GF
+Crique Montevideo	4.81539	-52.47239	GF	00
+Roche Montesquiou	4.9286	-52.34483	GF	00
+Montagne Sable	5.56667	-53.6	GF	00
+Crique Montagne Penchee	4.94137	-52.76388	GF	00
+Saut Montabo	3.7	-51.96667	GF	00
+Mont de Montabo	4.94809	-52.31168	GF	00
+Crique de Montabo	4.94071	-52.31559	GF	00
+Anse de Montabo	4.94527	-52.29561	GF	00
+Montabo	4.94096	-52.30667	GF	00
+Crique Monique	4.9	-54.25	GF	00
+Monfina	4.16667	-54.36667	GF	00
+Mondesir	4.18909	-52.83395	GF	00
+Roche Monache	4.90374	-52.38215	GF	00
+Monache	4.90942	-52.38499	GF	00
+Mompe Soula Tabiki	4.55899	-54.41608	GF	00
+Mompe Soula	4.55714	-54.41898	GF	00
+Mompe Soula	2.65068	-54.00089	GF	00
+Mompe Soula	4.55536	-54.41046	GF	00
+Pointe Mombin Cuillere	4.86667	-53.7	GF	00
+Saut Mombin	3.91667	-52.05	GF	00
+Saut Mombin	2.9846	-53.5867	GF	00
+Crique Molere	4.89712	-52.37368	GF	00
+Lamake Soela	5.08333	-54.41667	GF	00
+Ile la Moitie	5.07846	-54.41242	GF	00
+Crique Mogestern	5.3	-52.96667	GF	00
+Moges	4.78333	-52.33333	GF	00
+Crique Modeste	5.54688	-53.79338	GF	00
+Sauts Miti Montagne	3.5164	-52.917	GF	00
+Saut Miti Konkone	3.52133	-52.93715	GF	00
+Crique Miti Konkone	3.5218	-52.93557	GF	00
+Sauts Mitiki	3.51667	-52.91667	GF	00
+Itou Miti	2.46667	-52.61667	GF	00
+Crique Mi-Temps	4.88197	-53.30611	GF	00
+Massif du Mitaraka	2.28955	-54.52172	GF	00
+Crique Missette	4.23333	-52.96667	GF	00
+Crique Misere	4.98333	-54.26667	GF	00
+Crique Miroux	4.7322	-52.33727	GF	00
+Crique Mirat	4.50812	-52.19907	GF	00
+Crique la Mirande	4.86667	-52.33333	GF	00
+Crique Mirande	5.16667	-53.7	GF	00
+Saut Milok	3.98333	-53.48333	GF	00
+Migue	4.29071	-52.14826	GF	00
+Crique Mickey	3.48333	-52.61667	GF	00
+Crique Michel	4.83022	-53.28389	GF	00
+Crique Michel	4.34441	-52.5933	GF	00
+Anse Meret	4.94432	-52.32317	GF	00
+Crique Mercure	4.79718	-53.12412	GF	00
+Crique Menard	4.88387	-52.48786	GF	00
+Sauts Menado	3.8322	-52.59752	GF	00
+Crique Menado	4.61403	-52.4133	GF	00
+Crique Menado	3.86667	-52.58333	GF	00
+Menado	4.60846	-52.41377	GF	00
+Crique Memora	3.31667	-52.2	GF	00
+Savane Mell	4.92672	-52.51269	GF	00
+Saut Meithou	2.88333	-53.06667	GF	00
+Medeyre	5.6	-53.65	GF	00
+Mboula Soula	4.08333	-54.35	GF	00
+Crique Mazin	4.19871	-52.65245	GF	00
+Crique Mayota	3.83652	-52.98643	GF	00
+Mayman	5.18333	-54.31667	GF	00
+Crique Maxime	5.30105	-53.15429	GF	00
+Saut Mauvais	3.1801	-52.36639	GF	00
+Crique Maurice	5.25	-53.96667	GF	00
+Mont Maunoir	2.592	-52.76451	GF	00
+Crique Maul	4.71018	-53.16626	GF	00
+Saut Maufort	3.56667	-52.33333	GF	00
+Matoury	4.847	-52.32156	GF	GF
+Savane Matiti	5.06292	-52.59392	GF	00
+Marecages du Matiti	5.11667	-52.63333	GF	00
+Matiti	5.05	-52.6	GF	00
+Crique Mathurin	4.05	-52.48333	GF	00
+Mathurin	4.53279	-52.53569	GF	00
+Savane Mathieu	5.47606	-53.27723	GF	00
+Ilet Mathieu	3.99251	-51.76211	GF	00
+Ilet Mathieu	4.86961	-52.27905	GF	00
+Crique Mathieu	4.45603	-52.104	GF	00
+Riviere Mataroni	4.26893	-52.16434	GF	00
+Ilet Matamata	3.18333	-52.21667	GF	00
+Ilet Massikiri	2.99565	-52.37985	GF	00
+Montagne Massialine	3.58475	-53.59171	GF	00
+Marwini I	3.11552	-54.00762	GF	00
+Crique Martino	3.13333	-53.68333	GF	00
+Crique Martinet	3.18333	-53.5	GF	00
+Crique Martineau	4.4605	-52.53686	GF	00
+Crique Martin	4.76577	-52.40338	GF	00
+Marquis	3.71479	-53.57335	GF	00
+Riviere Marouini	3.3	-54.06667	GF	00
+Crique Maroni	4.28333	-53.56667	GF	00
+Crique Maroni	4.23333	-54.16667	GF	00
+Crique Maroc	5.35	-52.96667	GF	00
+Savane Marivat	4.9469	-52.45591	GF	00
+Crique Marise	5.44552	-53.13203	GF	00
+Maripa-Village	3.63333	-54.05	GF	00
+Maripasoula	3.64218	-54.01196	GF	GF
+Saut Maripa	2.88207	-53.56264	GF	00
+Saut Maripa	3.8	-51.88333	GF	00
+Montagne Maripa	4.41667	-52.33333	GF	00
+Ile Maripa	5.38333	-52.93333	GF	00
+Degrad Maripa	4.46667	-52.36667	GF	00
+Crique Maripa	4.4584	-52.37215	GF	00
+Maripa	3.80358	-51.89173	GF	00
+Mario	3.31667	-52.33333	GF	00
+Montagne des Maringouins	4.90869	-52.31769	GF	00
+Marignan	4.63333	-52.45	GF	00
+Montagne Marie-Hilaire	4.98333	-53.1	GF	00
+Lac Marie-Claire	5.16667	-52.65	GF	00
+Crique Marie	4.01667	-53.38333	GF	00
+Crique Marianne	4.75	-52.35	GF	00
+Mariani	5.15203	-53.6603	GF	00
+Crique Marguerite	4.63774	-52.32388	GF	00
+Crique Marecal	5.52821	-53.82037	GF	00
+Marecages	2.75	-52.6	GF	00
+Ilet Marecage	3.83333	-51.85	GF	00
+Crique Marbo	3.53602	-52.98806	GF	00
+Crique Maraille	4.28333	-52.16667	GF	00
+Crique Maraille	3.67712	-52.91075	GF	00
+Sauts Mapaou	4.19692	-52.30798	GF	00
+Saut Mapaou	4.2	-52.3	GF	00
+Degrad Mapaou	4.19481	-52.30728	GF	00
+Ile Maoua	5.1	-52.63333	GF	00
+Savane Manuel	5.38333	-52.93333	GF	00
+Ilet Mantouni	4.49476	-51.94645	GF	00
+Manoa Itou	2.36667	-52.66667	GF	00
+Soula Mankaba	4.37937	-54.41895	GF	00
+Saut Manivelle	4.35	-52.86667	GF	00
+Maniga	5.40962	-53.27599	GF	00
+Crique Mangue	5.00869	-53.03097	GF	00
+Crique Mangue	3.68333	-51.98333	GF	00
+Mango	4.93352	-52.3181	GF	00
+Crique Mandel	5.40085	-53.29957	GF	00
+Savane Mande	3.36111	-52.18326	GF	00
+Crique la Mancelliere	4.86667	-52.33333	GF	00
+Crique Manare	4.15	-52.2	GF	00
+Mana Fleuve	3.71667	-53.28333	GF	00
+Fleuve Mana	5.74273	-53.90771	GF	00
+Mana	5.65919	-53.77665	GF	GF
+Mamilipann Eoukou	2.67923	-54.27397	GF	00
+Crique Mambi	4.85222	-52.43987	GF	00
+Pripris Mamaribo	5.50722	-53.31414	GF	00
+Crique Mamaribo	5.5215	-53.35358	GF	00
+Mamaribo	5.51667	-53.35	GF	00
+Mamaribo	5.50578	-53.34653	GF	00
+Maman Valentin	5.33333	-53.66667	GF	00
+Crique Maman Tortue	5.399	-53.27005	GF	00
+Maman Tortue	5.39982	-53.2558	GF	00
+Crique Maman Singe Rouge	5.09994	-53.03747	GF	00
+Degrad Maman Piraye	5.40876	-53.30489	GF	00
+Roche Maman Pian	5.1	-53.03333	GF	00
+Degrad Maman Lezard	5.41519	-53.33105	GF	00
+Crique Maman Lezard	5.10841	-53.0383	GF	00
+Maman Koumarou	4.15	-52.2	GF	00
+Roche Maman Goeland	4.92775	-53.02365	GF	00
+Crique Malvin	5.36657	-53.17223	GF	00
+Crique Malvin	4.84945	-52.43001	GF	00
+Crique Mal Ventre	5.4777	-53.20408	GF	00
+Malterre	4.92573	-52.325	GF	00
+Savanes de Malmanoury	5.28333	-52.85	GF	00
+Crique Malmanoury	5.31807	-52.78837	GF	00
+Battures de Malmanoury	5.33333	-52.78333	GF	00
+Malmanoury	5.29276	-52.83875	GF	00
+Malmaison	4.98333	-52.45	GF	00
+Crique Malise	5.0888	-53.63936	GF	00
+Malipapann Icholi	2.83333	-54.2	GF	00
+Malipapann Eoukou	2.80158	-54.20842	GF	00
+Crique Mali	2.9	-52.86667	GF	00
+Degrad Malgaches	5.3157	-53.1911	GF	00
+Crique Malgaches	5.00553	-52.44543	GF	00
+Crique Malani-Ouest	2.31559	-54.1585	GF	00
+Crique Malani-Est	2.31494	-54.15742	GF	00
+Malaitawa	3.13814	-54.20884	GF	00
+Crique Makwali	3.62982	-53.36717	GF	00
+Crique Makoupi	3.81667	-53.35	GF	00
+Makou	5.17406	-54.22913	GF	00
+Soula Makaa	4.36483	-54.26202	GF	00
+Roches Major	4.94744	-52.33704	GF	00
+Saut Mais	3.63333	-53.06667	GF	00
+Saut Maipouri	5.24458	-53.64058	GF	00
+Saut Maipouri	3.97902	-53.11728	GF	00
+Saut Maipouri	3.73333	-52.75	GF	00
+Crique Maipouri	5.52007	-54.00763	GF	00
+Crique Maipouri	5.26667	-53.81667	GF	00
+Crique Maipouri	5.03333	-52.75	GF	00
+Crique Maipouri	4.88468	-52.49618	GF	00
+Crique Maipouri	4.54928	-52.26993	GF	00
+Crique Maipouri	3.73333	-53.26667	GF	00
+Crique Maipouri	3.3	-52.48333	GF	00
+Maipouri	3.36667	-52.38333	GF	00
+Crique Maina	2.51781	-54.02859	GF	00
+Savane Maillard	4.97647	-52.44299	GF	00
+Roche Maillard	4.9413	-52.34268	GF	00
+Pripris Maillard	4.98829	-52.46402	GF	00
+Crique Maillard	4.89154	-52.47708	GF	00
+Pointe Mahury	4.85758	-52.25649	GF	00
+Plateau du Mahury	4.86667	-52.26667	GF	00
+Montagne du Mahury	4.8734	-52.26082	GF	00
+Fleuve Mahury	4.87229	-52.23889	GF	00
+Saut Magliore	3.96667	-53.36667	GF	00
+Pont Maggi	4.93851	-52.31721	GF	00
+Magasin Creole	4.20284	-54.39258	GF	00
+Saut Magasin	4.21667	-52.18333	GF	00
+Saut Magasin	3.72304	-52.71356	GF	00
+Mafi	4.29882	-52.11448	GF	00
+Crique Madelon	5.05	-52.66667	GF	00
+Pointe Madeleine	5.05	-52.66667	GF	00
+Crique Madeleine	4.82389	-53.30941	GF	00
+Macrabo	4.78594	-52.3442	GF	00
+Pointe Macouria	4.91656	-52.35642	GF	00
+Les Mornes de Macouria	4.98101	-52.47562	GF	00
+Crique Macouria	5.06036	-52.51832	GF	00
+Banc du Macouria	4.93333	-52.36667	GF	00
+Macouria	5.01667	-52.48333	GF	GF
+Macouria	4.91164	-52.37632	GF	00
+Macouba	5.53333	-53.4	GF	00
+Savane Macoua	5.52327	-53.39913	GF	00
+Crique Macopi	5.52399	-54.00601	GF	00
+Crique Mac Mahon	4.81885	-53.82047	GF	00
+Montagne Machoulou	3.01667	-53.9	GF	00
+Crique Machikou	3.9	-52.58333	GF	00
+Crique Machikou	3.88333	-52.56667	GF	00
+Saut Macaque	3.18172	-53.51348	GF	00
+Lysis	4.52191	-52.51819	GF	00
+Saut Lucifer	4.7867	-53.11154	GF	00
+Massif Lucifer	4.76542	-53.94015	GF	00
+Mont Lucas	4.9226	-52.29883	GF	00
+Crique Loutre	5.64731	-53.91064	GF	00
+Crique Loutre	5.30467	-53.16462	GF	00
+Crique Loutre	5.25627	-53.63632	GF	00
+Crique Loutre	4.73241	-53.14832	GF	00
+Crique Loutre	4.70705	-53.18839	GF	00
+Crique Loupe	4.76458	-53.27811	GF	00
+Loulouie	4.86667	-53.03333	GF	00
+Crique Loulette	5.63114	-53.89915	GF	00
+Loulette	5.62819	-53.87232	GF	00
+Crique Louise	5.28333	-52.95	GF	00
+Crique Louise	4.86554	-53.28582	GF	00
+Crique Louis	5.39966	-53.15213	GF	00
+Crique Louis	4.88462	-53.0264	GF	00
+Crique Loubere	4.25145	-53.54197	GF	00
+Saut Longtemps	5.09493	-53.41446	GF	00
+Loca Loca Soula	4.71334	-54.42986	GF	00
+Loca	3.82745	-54.19526	GF	00
+L'Observatoire	4.53333	-53.96667	GF	00
+Sauts du Litani	3.31667	-54.06667	GF	00
+Lissa	4.98333	-54.43333	GF	00
+Lipo Lipo	3.3	-54.05	GF	00
+Lioni	4.09425	-54.33539	GF	00
+Crique Lindor	4.90658	-52.285	GF	00
+Degrad Limousin	4.56667	-52.28333	GF	00
+Saut Limonet	4.93386	-53.03929	GF	00
+Crique Limonade	3.4	-53.23333	GF	00
+Degrad Limarola	4.16447	-52.39037	GF	00
+Saut Liki	3.5	-53.75	GF	00
+Saut Liane	5.31172	-53.41509	GF	00
+L'Horizon	5.13663	-53.64884	GF	00
+Saut Lezard	4.96667	-53.8	GF	00
+Ilet Lezard	5.05113	-53.80036	GF	00
+Ilet Lezard	4.15558	-52.37967	GF	00
+Crique Lezard	4.9713	-53.79849	GF	00
+Le Teton	2.3	-54.5	GF	00
+Le Tas de Roches	4.96121	-52.29876	GF	00
+Les Sept Iles	5.36215	-54.14149	GF	00
+Saut Lesse Dede	4.02654	-54.32982	GF	00
+Les Savanes Blanches	5.58217	-53.87927	GF	00
+Les Roches	5.16112	-52.63039	GF	00
+Les Roches	5.15	-52.63333	GF	00
+Les Roches	5.16667	-52.63333	GF	00
+Les Roches	5.15	-52.63333	GF	00
+Les Quatre Ilets	4.77559	-52.47494	GF	00
+Les Mamelles	4.88776	-52.16825	GF	00
+Les Malgaches	5.49082	-54.01865	GF	00
+Les Hattes	5.73951	-53.94554	GF	00
+Les Deux Rives	4.85	-52.36667	GF	00
+Les Bambous	5.62152	-53.80159	GF	00
+Les Allies	5.04383	-53.65461	GF	00
+Le Rallye	4.04222	-52.95487	GF	00
+Ile aux Lepreux	5.47868	-54.04861	GF	00
+Le Petit Machoiran	4.94356	-52.26462	GF	00
+Le Petit Connetable	4.8	-51.98333	GF	00
+Le Pere	4.92845	-52.20329	GF	00
+Le Parterre	4.88333	-52.38333	GF	00
+Leonce	4.5363	-52.66208	GF	00
+Leonce	4.57075	-52.39521	GF	00
+Leonce	3.79708	-53.70068	GF	00
+Trou Leonard	5.23333	-52.73333	GF	00
+Crique Leon	5.30605	-53.17616	GF	00
+Saut Leodate	4.83674	-52.7952	GF	00
+Roche Leodate	4.90105	-52.78608	GF	00
+L'Enfant Perdu	5.04192	-52.35619	GF	00
+L'Enfant Perdu	3.86016	-54.21251	GF	00
+Le Mouton	4.91667	-52.35	GF	00
+Le Malingre	4.95984	-52.25226	GF	00
+Le Machoiran Blanc	4.94086	-52.26302	GF	00
+Le Larivot	4.90287	-52.35908	GF	00
+L'Egyptienne	4.80622	-52.31319	GF	00
+Le Gravier	4.85703	-52.2758	GF	00
+Le Grand Connetable	4.83333	-51.93333	GF	00
+Le Gallion Crique	4.76452	-52.37273	GF	00
+Le Gallion	4.78314	-52.429	GF	00
+Le Dix-Septieme	4.83333	-52.35	GF	00
+L'Ecluse	4.84949	-52.42125	GF	00
+Le Cheval Blanc	4.92777	-52.34627	GF	00
+Le Cercueil	4.95633	-52.3163	GF	00
+Le Califourchon	4.83333	-52.33333	GF	00
+Le Bourg	5.15	-52.65	GF	00
+Montagne Leblond	5.11667	-52.65	GF	00
+Marais Leblond	4.91573	-52.33474	GF	00
+Crique Leblond	4.7763	-53.1202	GF	00
+Saut Lavillette	4.15961	-52.20535	GF	00
+Crique La Villette	4.94256	-53.17002	GF	00
+La Villette	4.94903	-53.15386	GF	00
+Saut Lavaud	2.75	-54.23333	GF	00
+Lavaud	3.00145	-54.1647	GF	00
+La Valere	4.83333	-55.33333	GF	00
+La Valere	4.8352	-52.32908	GF	00
+Saut Lautier	3.58333	-52.1	GF	00
+Iles Laussat	5.63333	-53.98333	GF	00
+Crique Laussat	5.44437	-53.66885	GF	00
+Laussat	5.48333	-53.56667	GF	00
+Grand Saut Latidine	4.90644	-53.29819	GF	00
+Crique Latidine	4.90421	-53.30608	GF	00
+La Roche Fende	4.36667	-52.56667	GF	00
+La Roche Fende	4.37043	-52.56695	GF	00
+Pointe Larivot	4.90507	-52.35892	GF	00
+Crique Lanoix	4.77926	-53.14858	GF	00
+Langa Tabiki	4.9864	-54.43583	GF	00
+Langa Soula Tabiki	2.85193	-53.978	GF	00
+Langa Soula	4.36285	-54.28671	GF	00
+Langa Soula	3.61616	-53.80811	GF	00
+Langa Soula	2.84126	-53.9794	GF	00
+Langa Soula	2.72879	-53.92597	GF	00
+Crique Landel	4.21065	-52.29588	GF	00
+Crique Landau	4.2956	-52.13108	GF	00
+L'Amphitheatre	4.90003	-52.33699	GF	00
+Lamonet	3.65	-54.01667	GF	00
+La Mirande	4.87499	-52.33772	GF	00
+Crique Lamiraille	3.59668	-52.99987	GF	00
+Lamerique	3.33333	-53	GF	00
+La Mere	4.89166	-52.18484	GF	00
+Crique Lamblin	3.5521	-52.8343	GF	00
+Savane Lambert	4.89016	-52.52934	GF	00
+Crique Lambert	4.88521	-52.50828	GF	00
+La Madeleine	4.92061	-52.32366	GF	00
+Crique Laloupe	4.89888	-52.48244	GF	00
+Lac Lallouette	4.88782	-52.26312	GF	00
+La Levee	4.83342	-52.30731	GF	00
+Degrad Lalanne	4.54631	-52.26316	GF	00
+Crique Lalanne	4.93487	-53.24667	GF	00
+Crique Lalanne	4.51471	-52.25003	GF	00
+Crique Laguerre	3.73361	-52.76314	GF	00
+Crique La Greve	3.73846	-53.72115	GF	00
+La Greve	3.87835	-53.68784	GF	00
+Crique Lafontaine	3.71667	-52.71667	GF	00
+La Fontaine	4.86667	-52.38333	GF	00
+La Felicite	4.88333	-52.36667	GF	00
+Crique La Douane	5.03333	-52.71667	GF	00
+La Douane	5.02461	-52.70926	GF	00
+La Desiree	4.85287	-52.33368	GF	00
+Eau Badet	4.87572	-52.30909	GF	00
+Ilet Lacour	5.33333	-52.96667	GF	00
+Roche La Coquine	4.8	-52.3	GF	00
+La Conie	4.23238	-52.76672	GF	00
+Crique Lac Machoiran	4.74216	-52.11723	GF	00
+La Chaumiere	4.88685	-52.35711	GF	00
+Lotissements Agricoles de La Cesaree	5.03333	-52.51667	GF	00
+La Brande	4.85	-52.31667	GF	00
+Crique La Boue	4.15	-52.46667	GF	00
+La Boue	4.15	-52.46667	GF	00
+La Bonne Amedee	4.86696	-52.24465	GF	00
+Crique Labombe	3.93333	-51.81667	GF	00
+Saut Kwata	3.01821	-53.65309	GF	00
+Montagne Kwata	4.54439	-52.54962	GF	00
+Crique Kwata	4.8179	-53.15831	GF	00
+Crique Kwata	3.55809	-52.81607	GF	00
+Kwassie	4.95	-54.43333	GF	00
+Cachoeira Justin	3.25	-52.26667	GF	00
+Krobai Soela	2.66667	-54.28333	GF	00
+Cachoeira Acouiari	2.68333	-52.51667	GF	00
+Koutouwao	5.57052	-53.92812	GF	00
+Roche Koutou	2.91667	-54.06667	GF	00
+Crique Koutou	2.74874	-53.99795	GF	00
+Crique Koutou	2.55	-54.03333	GF	00
+Koutou	3.3	-52.76667	GF	00
+Riviere Koursibo	4.87524	-53.00164	GF	00
+Riviere Kourouai	4.38904	-51.90834	GF	00
+Roches Kourou	5.15	-52.56667	GF	00
+Grandes Savanes de Kourou	5.2	-52.76667	GF	00
+Fleuve Kourou	5.15207	-52.63443	GF	00
+Kourou	5.15518	-52.64779	GF	GF
+Kourou	5.15	-52.65	GF	GF
+Riviere de Kounana	4.56222	-52.28485	GF	00
+Crique Kounamari	4.24173	-52.25937	GF	00
+Ilet Koumouri	3.78333	-51.9	GF	00
+Saut Koumouli	2.60019	-53.04719	GF	00
+Pointe Koumarouman	4.6	-51.78333	GF	00
+Monts Koumarouman	4.43333	-51.81667	GF	00
+Saut Koumarou	4.67624	-52.9529	GF	00
+Saut Koumarou	3.58333	-52.15	GF	00
+Crique Koumarou	4.12359	-53.53505	GF	00
+Kouman-Kouman	4.03902	-51.67731	GF	00
+Koumalawa Itou	2.56667	-52.53333	GF	00
+Cachoeira Camaraua	3.13333	-52.33333	GF	00
+Koumakou Soula	3.09144	-53.68872	GF	00
+Saut Koumaka	3.18333	-52.85	GF	00
+Kouloumouli Itou	2.61667	-52.55	GF	00
+Kouloumouli Eoukou	2.77688	-54.21825	GF	00
+Koulimapopann	2.33333	-54.6	GF	00
+Koelekoele Kreek	2.43333	-54.46667	GF	00
+Sauts Koueki	2.78357	-52.52738	GF	00
+Ile Kouaman	3.73857	-51.9183	GF	00
+Kouachinana	5.63333	-53.68333	GF	00
+Kouachi	5.61319	-53.70976	GF	00
+Kotioko	3.40426	-52.89359	GF	00
+Montagne Kotika	3.93333	-54.2	GF	00
+Crique Korossibo	5.15492	-53.65759	GF	00
+Kormontibo	3.80509	-54.14368	GF	00
+Koo Soula	3.63588	-53.84363	GF	00
+Saut Konkone	2.94921	-53.58169	GF	00
+Crique Konce	4.85143	-52.44937	GF	00
+Kokoi	4.06667	-54.15	GF	00
+Riviere Kokioko	5.0889	-53.64037	GF	00
+Kokioko	4.92022	-53.49929	GF	00
+Saut Caimpong	2.9	-52.4	GF	00
+Soula Kofi Kamiza	4.22462	-54.38415	GF	00
+Kofi Kamiza	4.18333	-54.4	GF	00
+Pointe Kilometre	4.74837	-53.64917	GF	00
+Crique Kilometre	3.67053	-53.30588	GF	00
+Rio Keriniutu	2.16667	-52.98333	GF	00
+Kerenroch	5.1	-53.05	GF	00
+Kerenroch	5.1	-53.05	GF	00
+Kepioudou Soula	4.98333	-54.45	GF	00
+Kepioudou	4.97869	-54.43867	GF	00
+Ilets Keimou	3.23797	-52.2346	GF	00
+Saut Kawenn	4.87882	-53.05323	GF	00
+Riviere de Kaw	4.7904	-52.13743	GF	00
+Montagnes de Kaw	4.53868	-52.13687	GF	00
+Marais de Kaw	4.66667	-52.08333	GF	00
+Cote de Kaw	4.66667	-52.11667	GF	00
+Kaw	4.48869	-52.04046	GF	00
+Crique Kauwet	3.31667	-53.61667	GF	00
+Kassiaba Soula	3.31343	-54.05124	GF	00
+Ile Kasiaba	5.13024	-54.36221	GF	00
+Savanes de Karouabo	5.25	-52.81667	GF	00
+Roches Karouabo	5.25	-52.71667	GF	00
+Crique Karouabo	5.25589	-52.76089	GF	00
+Monts Karimare	4.41667	-51.86667	GF	00
+Kariakou	4.88527	-53.74567	GF	00
+Kariakou	4.8153	-53.16065	GF	00
+Crique Kapiri	4.13391	-52.0937	GF	00
+Saut Kapiai	3.45285	-53.05613	GF	00
+Kantali	5.41667	-54.31667	GF	00
+Sauts Kanouri	3.71667	-52.05	GF	00
+Kanguelarou Itou	2.83319	-52.45248	GF	00
+Crique Kanguelarou	2.83469	-52.45379	GF	00
+Crique Kampi	4.83333	-52.78333	GF	00
+Saut Kalaweli	3.91936	-52.57215	GF	00
+Crique Kalaweli	3.90828	-52.65292	GF	00
+Kalara Itou	2.2	-52.93333	GF	00
+Cachoeira Taiua	2.21667	-52.88333	GF	00
+Kagnouma	2.62636	-52.54696	GF	00
+Junique	5.16667	-54.03333	GF	00
+Crique Julien	4.99954	-52.75244	GF	00
+Crique Joyeuse	4.82915	-53.28333	GF	00
+Crique Joseph	5.3029	-53.16056	GF	00
+Saut Josaphat	4.64312	-53.08532	GF	00
+Joli Saut	2.37861	-52.98394	GF	00
+Pointe Jolie Terre	5.34304	-53.16568	GF	00
+Crique Jolie Terre	5.35238	-53.17144	GF	00
+Saut Joli	2.60351	-53.17149	GF	00
+John Sirot	4.28333	-52.15	GF	00
+John	4.97097	-53.57446	GF	00
+Jejo	5.4	-53	GF	00
+Ilet Jean-Pierre	3.29359	-52.20108	GF	00
+Crique Jean-Pierre	4.27646	-52.19676	GF	00
+Jean-Jean Remission	4.23438	-52.01326	GF	00
+Crique Jean	3.92377	-52.89111	GF	00
+Javouhey	5.6	-53.81667	GF	00
+Saut Japigny	4.01667	-52.6	GF	00
+Crique Japigny	4.01667	-52.6	GF	00
+Crique Japigny	3.50623	-52.87969	GF	00
+Crique Janvier	5.13713	-54.15602	GF	00
+Janvier	5.16667	-54.15	GF	00
+Degrad Janson	5.01667	-52.71667	GF	00
+Crique Janson	5.01667	-52.71667	GF	00
+Pointe Jan	4.85283	-52.26469	GF	00
+Crique James	3.76981	-53.30609	GF	00
+Degrad Jalbot	4.2	-52.63333	GF	00
+Crique Jalbot	3.15294	-52.55696	GF	00
+Jalbot	4.20107	-52.63058	GF	00
+Pointe Jaguar	4.85	-52.23333	GF	00
+Crique Jadfar	3.75	-53.6	GF	00
+Crique Jacquet	3.75	-52.78333	GF	00
+Crique Jacques	5.63936	-53.81601	GF	00
+Crique Jacques	4.87906	-52.4923	GF	00
+Crique Jacques	4.76667	-52.71667	GF	00
+Ile Jacot	5.45876	-53.17103	GF	00
+Crique Jacobin	5.454	-53.13483	GF	00
+Crique Ivona	4.11667	-52.41667	GF	00
+Itousanseng	2.19635	-52.91891	GF	00
+Isnard et Priane	4.93333	-52.73333	GF	00
+Pointe Isere	5.74975	-53.90167	GF	00
+Crique Irene	4.06667	-52.75	GF	00
+Irene	4.13035	-52.90597	GF	00
+Crique Irakompapi	5.6255	-53.60677	GF	00
+Savanes d'Iracoubo	5.5	-53.33333	GF	00
+Fleuve Iracoubo	5.48465	-53.21126	GF	00
+Iracoubo	5.48024	-53.20109	GF	GF
+Crique Ippoussing	4.16242	-52.39827	GF	00
+Ippoussing	4.11667	-52.56667	GF	00
+Crique Iper	4.36667	-52.73333	GF	00
+Saut l'Inspecteur	3.18333	-53.48333	GF	00
+Petit Saut Inipi	3.11667	-52.78333	GF	00
+Crique Inipi	3.08855	-52.75234	GF	00
+Crique Inini	4.1	-52.38333	GF	00
+Crique Inini	3.64786	-54.00382	GF	00
+Inini	3.65633	-53.99902	GF	00
+Crique Infirmes	4.73333	-53.93333	GF	00
+Mont Ineri	4.36667	-52.16667	GF	00
+Crique Ineri	4.33333	-52.11667	GF	00
+Crique aux Indiens	5.64802	-53.96895	GF	00
+Saut Indien	3.49583	-52.70455	GF	00
+Crique Indien	3.49259	-52.70579	GF	00
+Saut Impossible	4.80704	-53.10884	GF	00
+Saut Impossible	2.80126	-52.93525	GF	00
+Imperatrice	4.07078	-52.4478	GF	00
+Ilet Tortue	5.2	-52.96667	GF	00
+Ilet Malouin	4.92947	-52.33347	GF	00
+Ilet Lezard	5.04863	-53.79214	GF	00
+Pointe des Iles	5.16667	-52.63333	GF	00
+Ile Marie	5.13333	-52.66667	GF	00
+Ilakana Patatpe	2.63333	-54.3	GF	00
+Saut Ikissi	4.51235	-53.6003	GF	00
+Ile Igname	5.36667	-52.9	GF	00
+Crique Idaric	4.94113	-53.20851	GF	00
+Crique Hove	4.71713	-52.32827	GF	00
+Crique Honore	4.79687	-53.10895	GF	00
+Saut Hocco	3.1536	-52.58937	GF	00
+Monts Hocco	3.38333	-53.75	GF	00
+Roche Hirondelle	5.43333	-53.35	GF	00
+Crique Hirondelle	5.4376	-53.35695	GF	00
+Crique Hirondelle	5.4347	-53.3499	GF	00
+Crique Hippolyte	3.21667	-53.75	GF	00
+Armina Vallen	5.13333	-54.36667	GF	00
+Crique Hermina	5.14261	-54.34433	GF	00
+Crique Hermes	5.31267	-53.19517	GF	00
+Savane Henri	5.42086	-53.12375	GF	00
+Degrad Henri	5.4237	-53.13211	GF	00
+Crique Helene	3.26667	-53.86667	GF	00
+Haut Marwini	2.22701	-54.11122	GF	00
+Crique Haute Portal	5.26667	-53.88333	GF	00
+Degrad Haut Camopi	2.50262	-53.05132	GF	00
+Hapopata Icholi	2.9	-54.18333	GF	00
+Crique Hamilton	3.86243	-52.87292	GF	00
+Montagne Hagou Holo	4.6	-53.13333	GF	00
+Gwana Soula	2.73628	-53.92102	GF	00
+Centre Spatial Guyanais	5.21667	-52.73333	GF	00
+Guisanbourg	4.4085	-51.92562	GF	00
+Ile Guinguincoin	3.84623	-51.84634	GF	00
+Sauts Guillaume	3.58333	-52.06667	GF	00
+Crique Guillaume	4.06667	-52.8	GF	00
+Guillaume	4.26312	-52.23609	GF	00
+Crique Gueydon	4.69551	-52.32807	GF	00
+Savane Guenouillet	4.92902	-52.46558	GF	00
+Crique Guenouillet	4.89629	-52.47155	GF	00
+Guenouillet	4.92513	-52.46219	GF	00
+Savane Guedon	5.35	-52.96667	GF	00
+Degrad Guedon	5.36667	-52.96667	GF	00
+Montagne Guatemala	5.1	-52.65	GF	00
+Crique Guatemala	5.15	-52.63333	GF	00
+Guatemala	5.15	-52.63333	GF	00
+Montagne Guadeloupe	4.50193	-52.43406	GF	00
+Crique Guadeloupe	4.50279	-52.45349	GF	00
+Guadeloupe	4.74331	-53.78771	GF	00
+Saut Gros Tigre	4.0153	-53.41759	GF	00
+Montagne Grosse Roche	4.56611	-52.43043	GF	00
+Crique Grosse Roche	5.26381	-53.41002	GF	00
+Grosse Roche	5.49876	-53.24961	GF	00
+Grosse Roche	5.23333	-53.41667	GF	00
+Grosse Roche	5.49604	-53.2474	GF	00
+Grosse Roche	5.4502	-53.67841	GF	00
+Grosse Roche	5.25053	-53.41158	GF	00
+Grosse Roche	4.52321	-52.41786	GF	00
+Gros Saut	5.02233	-54.22117	GF	00
+Gros Saut	4.68467	-53.61268	GF	00
+Gros Saut	4.15977	-53.99795	GF	00
+Gros Saut	3.93702	-52.9001	GF	00
+Crique Gros Roche	4.56383	-52.62342	GF	00
+Gros Roche	4.56353	-52.616	GF	00
+Crique Gros Philippe	4.1903	-52.07176	GF	00
+Crique Gros Montagne	5.29863	-53.61069	GF	00
+Crique Gros Montagne	3.46912	-53.03325	GF	00
+Gros Montagne	3.37102	-53.04668	GF	00
+Gros Montagne	3.3	-52.95	GF	00
+Ilet Gros Indien	3.76667	-51.9	GF	00
+Gros Ilet	5.08333	-52.61667	GF	00
+Gros Bec	5.06667	-52.61667	GF	00
+Crique Grillon	4.33333	-52.43333	GF	00
+Grigel	3.32542	-53.65257	GF	00
+Crique Gregoire	5.09256	-53.05225	GF	00
+Saut Gravier	3.54229	-52.75022	GF	00
+Crique Grand Yaoni	4.5	-52.51667	GF	00
+Grand-Village	5.58073	-53.72081	GF	00
+Grand Usine	3.36943	-52.90539	GF	00
+Grand Theresia	4.17258	-52.53452	GF	00
+Crique Grand Tamouri	2.87499	-52.87161	GF	00
+Grand Sourou	4.67435	-52.42733	GF	00
+Grand Soula	2.67805	-54.00014	GF	00
+Gransanti Val	4.31667	-54.4	GF	00
+Grand-Santi	4.25	-54.38333	GF	GF
+Grand Pripris	5.18333	-52.68333	GF	00
+Grand Pont	3.71667	-53.28333	GF	00
+Crique Grand Paramana	4.81617	-52.30264	GF	00
+Mont Grand Matoury	4.8641	-52.35573	GF	00
+Saut Grand Mathias	4.19838	-52.36689	GF	00
+Grand Marquis	3.72409	-53.57996	GF	00
+Crique Grand Maripa	3.77778	-52.58348	GF	00
+Crique Grand Marabout	5.02107	-52.72598	GF	00
+Riviere Grand Maperibo	4.89031	-52.45598	GF	00
+Crique Grand Maliogo	4.73219	-53.94625	GF	00
+Crique Grand Maipouri	4.74128	-53.15175	GF	00
+Saut Grand Machikou	3.89278	-52.56063	GF	00
+Crique Grand Lezard	4.8305	-54.00335	GF	00
+Crique Grand Leblond	4.7	-53.18333	GF	00
+Crique Grand Laussat	5.4	-53.6	GF	00
+Grand Lac	4.81724	-53.70511	GF	00
+Grand Lac	4.83333	-53.7	GF	00
+Saut Grand Kwata	3.55694	-52.81723	GF	00
+Crique Grand Kwata	3.53333	-52.83333	GF	00
+Saut Grand Koumarou	4.08679	-53.51514	GF	00
+Grand Koubi Soula	3.29895	-54.04939	GF	00
+Crique Grand Karapana	3.95	-52.96667	GF	00
+Saut Grand Kanori	3.61854	-52.66677	GF	00
+Crique Grand Kanimare	4.16667	-52.2	GF	00
+Saut Grand Kamanwai	4.14183	-53.5476	GF	00
+Saut Grand Japigny	3.5	-52.9	GF	00
+Riviere Grand Inini	3.61993	-53.80467	GF	00
+Formateurs du Grand Inini	3.43319	-53.33965	GF	00
+Crique Grand Galibi	4.40149	-52.59517	GF	00
+Saut Grand Franconie	5.14998	-53.40383	GF	00
+Crique Grande Waki	3.18333	-53.48333	GF	00
+Crique Grande Usine	3.36667	-52.85	GF	00
+Grande Usine	3.36667	-52.9	GF	00
+Crique Grande Terre	5.56536	-53.9749	GF	00
+Grande Savane	5.31667	-52.98333	GF	00
+Cachoeira Grande Rocha	3.8	-51.88333	GF	00
+Grande Crique	5.30768	-53.19831	GF	00
+Grande Crique	5.2949	-53.14204	GF	00
+Grande Crique	5.25384	-53.1357	GF	00
+Grande Crique	5.24475	-53.41075	GF	00
+Grande Crique	4.11667	-52.4	GF	00
+Crique Grande Absinthe	4.92762	-53.95617	GF	00
+Grand Croissant	3.51188	-52.35569	GF	00
+Sauts Grand Coumarou Gnan Gnan	4.63898	-54.42646	GF	00
+Crique Grand Couacou	4.53463	-52.26185	GF	00
+Grand Coromonbo	4.76667	-52.36667	GF	00
+Sauts Grand Continent	4.71704	-53.6152	GF	00
+Saut Grand Continent	3.72959	-52.75475	GF	00
+Rapides Grand Continent	2.97804	-52.79583	GF	00
+Grand Citron	4.26667	-54.38333	GF	00
+Grand Carbet	3.65	-53.83333	GF	00
+Crique Grand Ben Amar	5.6013	-53.96925	GF	00
+Grand Bassin Palica	4.93595	-52.76276	GF	00
+Grand Bassin	4.53089	-52.51283	GF	00
+Pointe Grand Bano	4.9527	-53.02085	GF	00
+Saut Grand Bala	4.37535	-54.30571	GF	00
+Grand Bala	4.393	-54.30337	GF	00
+Saut Grand Bakou	4.20943	-53.56435	GF	00
+Crique Grand Bagot	4.53333	-52.51667	GF	00
+Saut Grand Ako	2.76667	-52.48333	GF	00
+Crique Grand Agami	4.95101	-53.24653	GF	00
+Riviere Grand Abounami	4.23577	-54.07174	GF	00
+Goupi Patatpe	2.51712	-54.34376	GF	00
+Saut Goupille	3.52284	-52.83698	GF	00
+Pointe Goupil	5.31667	-52.95	GF	00
+Crique Goupi	4.92838	-53.00949	GF	00
+Crique Goudronville	5.01667	-52.65	GF	00
+Goudronville	5.01667	-52.65	GF	00
+Gossi Dokissi Soula	4.11667	-54.35	GF	00
+Saut Gorigo	5	-52.75	GF	00
+Crique Gorigo	5.00284	-52.76372	GF	00
+Gorigo	5	-52.75	GF	00
+Saut Feti-Tabiki	5.1	-54.36667	GF	00
+Crique Gonzales	3.94836	-52.83346	GF	00
+Gonsoetoe Val	4.55	-54.43333	GF	00
+Goelette	3.28333	-52.8	GF	00
+Crique Goeland	3.63333	-53.45	GF	00
+Godebert	5.51145	-53.95364	GF	00
+Saut Glace	4.06667	-53.48333	GF	00
+Crique Giraud	4.82748	-53.26297	GF	00
+Gibelin	4.8583	-52.32863	GF	00
+Gervais	4.68985	-53.90984	GF	00
+Saut Genipa	5.37228	-53.42785	GF	00
+Roche Genipa	4.93333	-52.76667	GF	00
+Degrad Genipa	5.37173	-53.42912	GF	00
+Saut Gayak	4	-53.4	GF	00
+Crique Gayak	3.49349	-53.04789	GF	00
+Mont Gauthiot	2.59658	-52.75679	GF	00
+Roche Gauthier	2.51465	-53.07935	GF	00
+Pripris Gaudin	5.4856	-53.26194	GF	00
+Gaston	4.28677	-52.12573	GF	00
+Crique Gargoulette	5.46667	-53.56667	GF	00
+Gare Tigre	4.95586	-53.1332	GF	00
+Roche Garadier	5.15	-52.55	GF	00
+Galmot	5.31667	-54.08333	GF	00
+Roche Gallot	4.85382	-52.25302	GF	00
+Crique Galloni	5.21983	-54.21704	GF	00
+Galloni	5.2164	-54.21517	GF	00
+Montagne Galliot	5.1	-52.63333	GF	00
+Ilet Galion	3.97067	-51.77607	GF	00
+Crique Galibi	4.86667	-52.8	GF	00
+Mont Galbao	3.58333	-53.25	GF	00
+Gaillot	5.15	-53.65	GF	00
+Crique Gaiac	5.26667	-52.96667	GF	00
+Gadou Soula	4.39068	-54.31669	GF	00
+Montagne Gabrielle	4.64983	-52.26706	GF	00
+Crique Gabrielle	4.86377	-52.96339	GF	00
+Crique Gabrielle	4.74308	-52.32658	GF	00
+Savane Gabriel	5.44611	-53.18992	GF	00
+Crique Gabriel	4.88084	-52.49989	GF	00
+Gaan Tabiki	3.86316	-54.23386	GF	00
+Gaan Kiiki Tabiki	4.74862	-54.4678	GF	00
+Gaan Daay Soula	4.01721	-54.32594	GF	00
+Crique Gaan Daaye	3.98333	-54.28333	GF	00
+Gaa Kaba Soula	4.48014	-54.44155	GF	00
+Gaa Kaba Soula	3.21892	-53.72716	GF	00
+Gaa Kaba	4.49766	-54.44054	GF	00
+Monts la Fumee	3.75	-53.16667	GF	00
+Saut Fromager	3.49977	-52.69827	GF	00
+Saut Fromager	2.46667	-53.08333	GF	00
+Degrad Fromager	5.23333	-52.96667	GF	00
+Crique Fromager	5.21667	-52.96667	GF	00
+Crique Fromager	4.89365	-53.053	GF	00
+Crique Fromager	4.22472	-52.0638	GF	00
+Crique Freres Anicet	4.18333	-52.98333	GF	00
+Crique Frere	3.68024	-53.50796	GF	00
+Crique Frere	3.73333	-52.46667	GF	00
+Guyane	4	-53	GF	00
+Pointe Franconie	5.15719	-53.00548	GF	00
+Crique Franconie	5.15637	-53.00491	GF	00
+Crique Franconie	5.1354	-53.40961	GF	00
+Crique Franconie	4.96901	-53.12097	GF	00
+Franconie	4.9644	-53.13329	GF	00
+Montagnes Francaises	4.45344	-54.40013	GF	00
+Pointe Francaise	5.74579	-53.94771	GF	00
+Pointe Francaise	5.33878	-54.17086	GF	00
+Banc Francais	5.78333	-53.9	GF	00
+Saut Fracas	4.77471	-53.6611	GF	00
+Fracas	4.75953	-53.6809	GF	00
+Savane Fraca	5.69261	-53.80218	GF	00
+Saut Fourmi	3.71667	-51.93333	GF	00
+Crique Fourmi	4.58955	-52.39978	GF	00
+Montagne Fourgassie	4.63882	-52.31186	GF	00
+Crique Fourgassie	4.63094	-52.30599	GF	00
+Fourgassie	4.62139	-52.31061	GF	00
+Fourca Tacouba	5.09802	-54.17386	GF	00
+Crique Fourcadiere	3.71667	-52.06667	GF	00
+Crique Fourca	4.78333	-54.36667	GF	00
+Crique Fourca	4.51667	-52.23333	GF	00
+Crique Fourca	3.75	-52.8	GF	00
+Crique Fourca	3.68333	-52.81667	GF	00
+Fourca	4.15367	-52.19945	GF	00
+Crique Foucault	4.82192	-53.12674	GF	00
+Crique Fosse	4.94002	-52.76887	GF	00
+Mont Fortune	4.88076	-52.35183	GF	00
+Fortune	4.55829	-52.29841	GF	00
+Crique Forte	4.61989	-53.58331	GF	00
+Fort Diamant	4.87134	-52.24749	GF	00
+Crique Fontaine	4.75516	-52.3495	GF	00
+Crique Fontain	4.87712	-52.51294	GF	00
+Crique Foncine	5.35	-52.95	GF	00
+Roche la Folle	5.16667	-52.61667	GF	00
+Crique la Folie	4.25	-52.66667	GF	00
+Florissante	3.39059	-52.8991	GF	00
+Florida	4.73122	-53.7724	GF	00
+Florida	3.65	-53.53333	GF	00
+Roche Florian	5.41901	-53.43156	GF	00
+Degrad Florian	5.41751	-53.43243	GF	00
+Crique Florian	5.41332	-53.44154	GF	00
+Savane Fleche	5.51838	-53.38357	GF	00
+Crique Fleche	5.41306	-53.14189	GF	00
+Fleche	5.53043	-53.38947	GF	00
+Crique Fistal	4.86676	-53.05795	GF	00
+Fini Saut	3.50604	-52.95295	GF	00
+Filon Doyle	4.50871	-52.46167	GF	00
+Crique Filon	4.99132	-53.1762	GF	00
+Crique Filon	4.50989	-52.45668	GF	00
+Savane Fieve	5.53749	-53.44288	GF	00
+Savane Fieve	5.47	-53.22103	GF	00
+Degrad Fieve	5.4605	-53.22801	GF	00
+Fermes de Saint-Elie	5.36667	-53.01667	GF	00
+Montagnes de Fer	5.31769	-53.59691	GF	00
+Crique Fer	4.99513	-53.01162	GF	00
+Lycee Felix Eboue	4.94112	-52.3315	GF	00
+Crique Felix	4.77402	-52.3743	GF	00
+Crique Felicite	4.96439	-53.10816	GF	00
+Montagne Favard	4.5	-52.03333	GF	00
+Crique Favard	4.67523	-52.33051	GF	00
+Crique Favard	4.60616	-52.32701	GF	00
+Faubourg L'Abri	4.93604	-52.32177	GF	00
+Crique Farouche	2.68333	-53.01667	GF	00
+Farnous	4.95	-52.41667	GF	00
+Crique Euleupousing	2.28333	-52.85	GF	00
+Crique Etouane-Tchena	3.43227	-53.44906	GF	00
+Etienne	4.45794	-52.54296	GF	00
+Etats-Unis	3.43707	-53.39689	GF	00
+Crique a l'Est	3.71667	-53.28333	GF	00
+Crique Espoir	3.74365	-53.68283	GF	00
+Espoir	5	-53.08333	GF	00
+Espoir	3.85307	-53.34542	GF	00
+Montagne de l'Esperance	4.84051	-53.2856	GF	00
+Crique Esperance	4.61307	-54.33031	GF	00
+Esperance	4.64997	-54.31554	GF	00
+Esperance	3.64671	-53.52886	GF	00
+Saut Equerre	4.77047	-53.10662	GF	00
+Saut Equerre	4.31667	-52.9	GF	00
+Saut Equerre	3.61979	-53.80621	GF	00
+Entoucas	3.48333	-54.01667	GF	00
+Enfin	4.72738	-53.94514	GF	00
+Enene Patatpe	2.32889	-54.54291	GF	00
+Eponoe Soela	3.51667	-54	GF	00
+Crique Emmanuel	4.75484	-54.04626	GF	00
+Degrad des Emerillons	2.89013	-53.05919	GF	00
+Saut Emerillon	3.41774	-53.07635	GF	00
+Saut Emerillon	3.4	-53.26667	GF	00
+Massif Emerillon	3.25	-53.05	GF	00
+Crique Emerillon	3.38871	-53.23441	GF	00
+Crique Emerillon	3.21667	-52.98333	GF	00
+Emerillon	3.41667	-53.06667	GF	00
+Embouchure Yaroupi	2.78255	-52.47937	GF	00
+Saut Embouchure	2.69986	-53.02186	GF	00
+Crique Elysee	4.7476	-54.04442	GF	00
+Elysee	4.74453	-54.03424	GF	00
+Savane Eloge	5.48135	-53.28713	GF	00
+Lac Eloge	5.31667	-52.81667	GF	00
+Savane Elisabeth	5.21667	-52.76667	GF	00
+Crique Elisabeth	5.45	-52.93333	GF	00
+Crique Elionore	4.1692	-51.72894	GF	00
+Elassapa Itou	2.2	-52.9	GF	00
+Elae	3.45	-54	GF	00
+Saut Ektou	2.87467	-52.87748	GF	00
+Crique Ekiny	3.99786	-52.46072	GF	00
+Ekiny	4.05	-52.46667	GF	00
+Edwin	4.68565	-53.90309	GF	00
+Edouard	3.39256	-53.83095	GF	00
+Edmond	4.60223	-52.44333	GF	00
+Crique Eda	3.58333	-53.38333	GF	00
+Crique Eau Mignon	4.90561	-52.2837	GF	00
+Crique Eau Lisette	4.92826	-52.32409	GF	00
+Eau Coulie	4.93333	-52.31667	GF	00
+Crique Eau Claire	5.10868	-52.86354	GF	00
+Crique Eau Claire	4.77788	-53.28673	GF	00
+Crique Eau Claire	4.7105	-53.30915	GF	00
+Crique Eau Claire	4.67505	-53.85395	GF	00
+Crique Eau Claire	4.56667	-53.75	GF	00
+Crique Eau Claire	3.85	-53.68333	GF	00
+Crique Eau Claire	3.62133	-53.80487	GF	00
+Crique Eau Claire	3.30791	-52.71316	GF	00
+Eau Claire	3.66121	-53.21628	GF	00
+Eau Claire	3.56075	-53.59655	GF	00
+Crique Eau Blanche	5.34053	-53.42755	GF	00
+Crique Eau Blanche	4.81743	-53.75564	GF	00
+Crique Eau Blanche	4.4	-53.56667	GF	00
+Eau Blanche	5.06667	-53.48333	GF	00
+Crique l'Eau	5.43333	-53.95	GF	00
+Crique Duval	3.42952	-53.4135	GF	00
+Crique Dupuy	3.54833	-53.66151	GF	00
+Ilets Dupont	4.95496	-52.29812	GF	00
+Crique Dumaine	4.92392	-52.4878	GF	00
+Dubol	4.18927	-52.1712	GF	00
+Saut Drague	4.88592	-53.01339	GF	00
+Drague	4.98481	-53.18204	GF	00
+Dou Tabiki Soula	4.53333	-54.45	GF	00
+Crique Doukou Pati	4.23611	-54.07129	GF	00
+Crique Dosmont	4.60701	-52.44362	GF	00
+Dosmond	4.57528	-52.73697	GF	00
+Savane Dorothee	4.95249	-52.50048	GF	00
+Crique Dorlin	4.7536	-53.75982	GF	00
+Dorlin	3.7227	-53.53213	GF	00
+Domremy	4.24879	-52.75409	GF	00
+Domofoe Soela	3.33333	-54.06667	GF	00
+Crique Dominique	3.85535	-52.88259	GF	00
+Doglis	3.79428	-54.12548	GF	00
+Divalon	4.75	-53.88333	GF	00
+Crique Disthene	4.96667	-53.6	GF	00
+Degrad Dimanche	4.97973	-53.52669	GF	00
+Crique Dimanche	4.98217	-53.52375	GF	00
+Crique Dieu Merci	4.7774	-53.2552	GF	00
+Dieu-Merci	4.56747	-52.75139	GF	00
+Dieu Merci	4.79335	-53.26052	GF	00
+Dieudonne	4.92203	-53.37772	GF	00
+Crique Dicou	4.66952	-52.33329	GF	00
+Roche Diamant	4.62445	-52.43201	GF	00
+Pointe Diamant	4.87855	-52.24472	GF	00
+Crique Diamant	3.18333	-52.38333	GF	00
+Diamant	5.16667	-52.63333	GF	00
+Saut Diable	3.71667	-52.05	GF	00
+Saut Diable	3.21072	-52.44537	GF	00
+Crique Diable	4.55335	-52.41167	GF	00
+Crique Diable	3.71667	-52.05	GF	00
+Bois Diable	5.16667	-52.65	GF	00
+Montagne Devis	4.8083	-53.30138	GF	00
+Devez	4.51667	-52.43333	GF	00
+Crique Deux Soeurs	4.7094	-52.09979	GF	00
+Saut Deux Roros	4.36667	-52.86667	GF	00
+Deux Jours	5.01667	-53.15	GF	00
+Crique Deuxieme Saut	5.3	-54.15	GF	00
+Crique Deux Guoules	3.86667	-52.58333	GF	00
+Crique Deux Fromagers	5.00613	-53.79106	GF	00
+Deux Fromagers	5.0059	-53.78815	GF	00
+Crique Deux Flots	4.78796	-52.38618	GF	00
+Crique Deux Flots	5.40079	-53.27633	GF	00
+Crique Deux Droles	3.23333	-52.43333	GF	00
+Crique Deux Decembre	4.94446	-53.43752	GF	00
+Crique Deux Bouchard	3.67131	-52.66984	GF	00
+Deux Baches	5.25	-52.78333	GF	00
+Saut des Deux Amis	3.08333	-52.71667	GF	00
+Crique Deudon	4.83677	-52.44759	GF	00
+Deta	3.66667	-53.58333	GF	00
+Crique Desirade	4.73142	-53.91918	GF	00
+Desirade	4.74045	-53.92923	GF	00
+Depot Lezard	4.96626	-53.79848	GF	00
+Ilets Dent Grage	3.18333	-52.3	GF	00
+Crique la Dent	4.06636	-53.13021	GF	00
+Delices	4.7372	-53.74907	GF	00
+Massif Dekou-Dekou	4.6981	-53.95548	GF	00
+Degrad Yaya	4.61413	-54.33152	GF	00
+Degrad Vitalo	3.25	-53.58333	GF	00
+Degrad T.H.R.	3.71667	-53.51667	GF	00
+Degrad Tamanoir	5.41667	-53.4	GF	00
+Degrad Simon	5.1484	-54.17366	GF	00
+Degrad Savane	5.48333	-53.25	GF	00
+Degrad Sardine	3.63725	-53.35528	GF	00
+Degrad Saramaka	5.01667	-52.7	GF	00
+Degrad Samson	4.03064	-53.44702	GF	00
+Degrad Saint-Pierre	3.11667	-52.65	GF	00
+Degrad Saint-Leon	3.87883	-53.35544	GF	00
+Degrad Saint-Eloi	3.80468	-53.29678	GF	00
+Degrad Roche	3.41643	-53.84208	GF	00
+Degrad Reinald	2.91667	-53.28333	GF	00
+Degrad Pimpin	5.3195	-54.16606	GF	00
+Degrad Pierre	4.95	-53.18333	GF	00
+Degrad Perdu Temps	5.05	-53.4	GF	00
+Degrad Patagai	5.42905	-53.23436	GF	00
+Degrad Pascal	5.41667	-53.35	GF	00
+Degrad Papa Jean	4.95	-53.25	GF	00
+Degrad Nicole	3.53921	-53.79196	GF	00
+Degrad Nicole	3.55	-53.75	GF	00
+Crique Degrad Neuf	4.81954	-53.82135	GF	00
+Crique Degrad Neuf	3.75	-53.56667	GF	00
+Degrad Neuf	4.81429	-53.8251	GF	00
+Degrad Neuf	4.51758	-52.7184	GF	00
+Degrad Moufflet	4.46301	-52.36019	GF	00
+Degrad Menado	4.62688	-52.42392	GF	00
+Degrad Maraudeur	3.59559	-53.73403	GF	00
+Degrad Maman Piraye	5.4	-53.31667	GF	00
+Degrad Limousin	4.57045	-52.29071	GF	00
+Degrad Limaroula	4.16531	-52.37899	GF	00
+Degrad Laurens	3.28403	-52.66559	GF	00
+Degrad Lacour	5.33333	-52.96667	GF	00
+Degrad la Boue	5.38333	-53.43333	GF	00
+Degrad Kwata	3.41667	-52.86667	GF	00
+Degrad Jason	5.01667	-52.71667	GF	00
+Degrad Janson	5.01667	-52.71667	GF	00
+Degrad Jalbot	4.2	-52.63333	GF	00
+Degrad Henri	5.41667	-53.13333	GF	00
+Degrad Haut Camopi	2.50285	-53.06924	GF	00
+Degrad Genipa	5.36667	-53.43333	GF	00
+Degrad Galoupa	2.16877	-52.97851	GF	00
+Degrad Fromager	5.23333	-52.98333	GF	00
+Degrad Francis	3.51586	-53.74301	GF	00
+Degrad Fourmi Rouge	3.28333	-53.6	GF	00
+Degrad Fourmi	3.44668	-53.53113	GF	00
+Degrad Fofo	3.86667	-54	GF	00
+Route du Degrad Florian	5.48333	-53.55	GF	00
+Degrad Florian	5.41667	-53.43333	GF	00
+Degrad Dore	3.42149	-52.75978	GF	00
+Degrad Dimanche	4.98095	-53.52953	GF	00
+Degrad des Cannes	4.85575	-52.27443	GF	00
+Degrad Correze	4.51667	-52.31667	GF	00
+Degrad Clerc	4.9635	-52.75697	GF	00
+Degrad Clemencin	5.09358	-54.19324	GF	00
+Degrad Claude	2.8845	-53.08778	GF	00
+Degrad Canard	5.63139	-53.72169	GF	00
+Degrad Camopi	3.34395	-52.79294	GF	00
+Degrad Brigette	4.28333	-52.61667	GF	00
+Degrad Boulanger	4.62399	-52.41964	GF	00
+Degrad Bois Blanc	3.8	-53.88333	GF	00
+Degrad Blockauss	4.64888	-52.33752	GF	00
+Degrad Blanc	3.74163	-53.26481	GF	00
+Degrad Balata	5	-52.68333	GF	00
+Degrad Anel	4.36667	-52.58333	GF	00
+Degourdi	4.97201	-53.0922	GF	00
+Pripris Degonde	5.33333	-52.83333	GF	00
+Crique Decouverte	4.99297	-53.179	GF	00
+Decouverte	4.2343	-52.64555	GF	00
+Decouman Eugene	4.07832	-52.54487	GF	00
+Decision	5	-53.9	GF	00
+Decision	5	-53.86667	GF	00
+Saut Decharger	2.6198	-53.16307	GF	00
+Montagne Deboule	5.18434	-53.40359	GF	00
+Saut Daudet	3.73368	-52.67975	GF	00
+Crique Daudet	3.73333	-52.68333	GF	00
+Bois Darou	5.31667	-52.96667	GF	00
+Crique Dardannelles	5.43106	-53.46721	GF	00
+Crique Dardanelles	3.74591	-52.63471	GF	00
+Dardanelles	3.74566	-52.61897	GF	00
+Dardanelles	3.75	-52.63333	GF	00
+Danke	4.36667	-54.35	GF	00
+Saut Daniel	4.75789	-53.10658	GF	00
+Crique Daniel	3.35	-52.75	GF	00
+Crique Danclan	4.58333	-52.31667	GF	00
+Saut Dalles	4.97079	-53.78434	GF	00
+Saut Dalles	4.55	-52.9	GF	00
+Saut Dalles	3.28427	-53.82329	GF	00
+Dagou Ede Soula	4.16936	-54.33856	GF	00
+Dagou Ede	4.16667	-52.26667	GF	00
+Saut Dagomelle	4.2	-52.18333	GF	00
+Crique Dagobert	3.91667	-53.23333	GF	00
+Dagobert	3.95055	-53.43953	GF	00
+Crique Dachine	3.42628	-53.36498	GF	00
+Ilet Cupidon	4.89407	-52.47287	GF	00
+Crique Cuillere d'Argent	5.40199	-53.32468	GF	00
+Saut Croute	2.30576	-52.93029	GF	00
+Pic du Croissant	3.90906	-52.72348	GF	00
+Ilet Crique Serpent	5.34925	-54.15434	GF	00
+Crique Jacques	5.64511	-53.82715	GF	00
+Crique Anguille	4.83265	-52.50966	GF	00
+Crique Crime	5.05	-52.68333	GF	00
+Crique Crevasse	5.4	-52.86667	GF	00
+Saut Couy	4.03333	-52.71667	GF	00
+Ile Couy	4.40158	-51.94377	GF	00
+Crique Couy	5.03333	-52.71667	GF	00
+Crique Couy	3.75174	-52.64318	GF	00
+Couy	4.08333	-52.55	GF	00
+Couriege	4.79708	-53.29591	GF	00
+Crique Courant	4.96027	-54.43524	GF	00
+Mont Coupard	4.82343	-53.27415	GF	00
+Bistouri Counana	4.55909	-52.30742	GF	00
+Crique Counami	5.41559	-53.2421	GF	00
+Savane de Counamama	5.45581	-53.17723	GF	00
+Riviere Counamama	5.5	-53.2	GF	00
+Counamama	5.45004	-53.13625	GF	00
+Saut Coumaroucage	3.71667	-51.96667	GF	00
+Saut Coumarou	4.83485	-53.10051	GF	00
+Coulor	5.0013	-53.60464	GF	00
+Couli Couli Icholi	3.01667	-54.18333	GF	00
+Saut Couleuvre	4.81686	-53.67486	GF	00
+Crique Couleuvre	4.54427	-52.28857	GF	00
+Crique Couleuvre	3.55291	-52.71009	GF	00
+Crique Couleuvre	3.4997	-53.16925	GF	00
+Pic Coudreau	3.29424	-52.93366	GF	00
+Pic Coudreau	2.25	-54.33333	GF	00
+Couch'Tabiki	4.90002	-54.4768	GF	00
+Degrad Couata	3.41512	-52.84406	GF	00
+Crique Couata	4.80344	-53.81126	GF	00
+Crique Couata	4.18333	-52.06667	GF	00
+Couasse	4.75	-53.26667	GF	00
+Crique Couac	4.7465	-53.82494	GF	00
+Saut Coton	3.25	-53.56667	GF	00
+Pointe Coswine	5.67812	-53.98587	GF	00
+Crique Coswine	5.69052	-53.97199	GF	00
+Coswine	5.66661	-53.94999	GF	00
+Banc Cospatrick	4.95	-51.95	GF	00
+Savane de Corossony	5.39528	-53.0148	GF	00
+Roche Corossony	5.48333	-53.01667	GF	00
+Ile Corossony	4.27754	-52.17386	GF	00
+Corossony	5.43147	-53.03601	GF	00
+Crique Cormoran	5.54376	-53.69975	GF	00
+Crique Cordelle	3.85	-53.68333	GF	00
+Mont de la Cordeliere	4.73333	-52.36667	GF	00
+Ile Corbeau	5.4633	-53.17813	GF	00
+Ile Corbeau	5.41885	-53.1041	GF	00
+Coralie	4.50881	-52.35943	GF	00
+Coralie	4.48333	-52.36667	GF	00
+Ile Coquelet	5.33333	-52.81667	GF	00
+Montagne Continent	3.85038	-53.27544	GF	00
+Crique Continent	3	-52.81667	GF	00
+Battures du Connetable	4.91667	-51.95	GF	00
+Crique Congo	4.5586	-52.49668	GF	00
+Degrad Condhomme	5.23055	-53.40572	GF	00
+Riviere Comte	4.65839	-52.33868	GF	00
+Crique Comptable	3.91667	-52.08333	GF	00
+Mont Comou	5.40905	-53.3182	GF	00
+Mont Comou	5.38363	-53.17545	GF	00
+Ilet Comou	4.86903	-52.28416	GF	00
+Ile Comou	5.40306	-53.09846	GF	00
+Combo	4.88301	-52.31472	GF	00
+Savane Combi	5.31667	-52.95	GF	00
+Combi	5.33333	-52.93333	GF	00
+Saut Colonis	4.19049	-52.39431	GF	00
+Crique Colonis	4.2	-52.4	GF	00
+Crique Colombo	5.4576	-54.06634	GF	00
+Cogneau	4.86989	-52.3235	GF	00
+Crique Maroni	5.05991	-53.05077	GF	00
+Crique Coeur de Chauffe	4.61667	-53.08333	GF	00
+Coermotibo	3.81667	-54.15	GF	GF
+Coco	4.3049	-52.11705	GF	00
+Coco	4.13643	-52.51402	GF	00
+Cochon Brule	3.88699	-53.05374	GF	00
+Crique Cochon	5.36667	-53.76667	GF	00
+Crique Cochon	4.78149	-53.26166	GF	00
+Crique Cochon	4.76494	-53.27773	GF	00
+Crique Cochon	3.48333	-53.18333	GF	00
+Saut Clouet	4.28125	-52.64578	GF	00
+Degrad Clerc	4.95361	-52.76903	GF	00
+Crique Clement	3.44021	-52.75997	GF	00
+Clement	3.38333	-52.35	GF	00
+Crique Claude	4.78883	-52.38407	GF	00
+Crique Claude	5.15	-52.66667	GF	00
+Claude	4.92933	-53.40421	GF	00
+Crique Claireville	5.05	-53.41667	GF	00
+Crique Claire	2.35	-53.21667	GF	00
+Crique Citronnelle	3.52847	-52.97086	GF	00
+Crique Citron	4.58333	-54.28333	GF	00
+Citron	4.9289	-53.41951	GF	00
+Citron	4.7331	-53.9567	GF	00
+Cite Themire	4.93504	-52.32023	GF	00
+Cite Quintus	4.92988	-52.31795	GF	00
+Cite Pasteur	4.93797	-52.31354	GF	00
+Cite Pascaline	4.92658	-52.31643	GF	00
+Cite N'Zilla	4.93692	-52.32314	GF	00
+Cite Mirza	4.93598	-52.32484	GF	00
+Cite Laurie	4.93184	-52.31592	GF	00
+Cite Lafaurie	4.93284	-52.32309	GF	00
+Cite Jean-Francois	4.91667	-52.31667	GF	00
+Cite Homat	4.91667	-52.31667	GF	00
+Cite Eau Lisette	4.92695	-52.32176	GF	00
+Cite des Paletuviers	4.92875	-52.33197	GF	00
+Cite des Manguiers	4.93344	-52.32542	GF	00
+Cite Castor	4.9441	-52.3123	GF	00
+Cite Cesaire	4.93104	-52.32372	GF	00
+Cite Brutus	4.93333	-52.31667	GF	00
+Cite Anatole	4.93673	-52.31776	GF	00
+Cite Ampigny	4.93333	-52.31667	GF	00
+Cite Alexandre	4.93648	-52.31065	GF	00
+Crique Cipanama	4.2324	-52.04371	GF	00
+Crique Cinq Amis	3.39769	-53.06685	GF	00
+Saut Ciment	4.01667	-52.21667	GF	00
+Crique Cigogne	4.81665	-52.47494	GF	00
+Crique Chou-Ming	4.28333	-52.15	GF	00
+Chou-Ming	4.28333	-52.15	GF	00
+Degrad Chouchoute	4.52398	-52.34572	GF	00
+Chire	5.53333	-53.53333	GF	00
+Crique Chique	5.0407	-53.0328	GF	00
+Chinalepann Eoukou	2.85604	-54.19302	GF	00
+Crique Chinalepann	3.06667	-54	GF	00
+Crique Chinale	2.39715	-54.0948	GF	00
+Montagne Chien Mort	3.64742	-53.56499	GF	00
+Crique Chien Mort	3.86667	-53.68333	GF	00
+Saut Chien	4.87841	-53.72439	GF	00
+Saut Chien	3.17266	-52.48022	GF	00
+Pointe Chicot	5.64794	-53.77345	GF	00
+Crique Chicot	5.5519	-53.81391	GF	00
+Crique Chevreuil	4.68768	-52.32892	GF	00
+Montagnes des Chevaux	4.72314	-52.41267	GF	00
+Montagne Chawari	4.59465	-52.41968	GF	00
+Mont Chauve	3.82102	-52.73371	GF	00
+Saut Chaudiere	4.05	-52.41667	GF	00
+Crique la Chaudiere	5.03333	-52.65	GF	00
+Crique Chatonnet	3.91667	-51.86667	GF	00
+Chatonnet	4.88335	-53.02195	GF	00
+Anse de Chaton	4.94421	-52.31933	GF	00
+Chaton	4.94433	-52.3217	GF	00
+Chaton	4.94474	-52.32172	GF	00
+Crique Chatolle	4.89083	-53.26386	GF	00
+Chatenay	4.94251	-52.31175	GF	00
+Chataigne	4.53226	-52.41841	GF	00
+Crique Charvein	5.57813	-53.90331	GF	00
+Charvein	5.57555	-53.89628	GF	00
+Roche Charlotte	5.2	-52.65	GF	00
+Pointe Charlotte	5.20378	-52.67455	GF	00
+Charenton	4.21512	-52.79629	GF	00
+Crique Chardy	4.25693	-52.28135	GF	00
+Saut Chapeau	4.40344	-53.56476	GF	00
+Montagne Chapeau	5.16667	-53.03333	GF	00
+Crique Chapeau	5.14856	-53.04109	GF	00
+Crique Chantier	5.40773	-53.14876	GF	00
+Savane Changement	5.33333	-52.91667	GF	00
+Bois Changement	5.35	-52.91667	GF	00
+Changement	4.48333	-52.41667	GF	00
+Crique Chameau	5.55771	-53.98165	GF	00
+Crique Chaina	3.71667	-54.08333	GF	00
+Cetobie	4.62443	-52.44667	GF	00
+Crique Cession	4.21667	-54.05	GF	00
+Savane Cesaree	5.03333	-52.53333	GF	00
+Certitude	3.81894	-53.27582	GF	00
+Saut Cerisier	3.72051	-51.97414	GF	00
+Ilets Cerisier	3.78333	-51.96667	GF	00
+Fort Ceperou	4.93762	-52.33645	GF	00
+Cent-Sous	3.67128	-53.30674	GF	00
+Crique Centrale	3.78333	-53.63333	GF	00
+Central Bief	4.51035	-52.46371	GF	00
+Crique Celine	3.85739	-53.35733	GF	00
+Sauts Ceide	4.76667	-53.23333	GF	00
+Petit Saut Ceide	4.77351	-53.25442	GF	00
+Grand Saut Ceide	4.7698	-53.25576	GF	00
+Crique Ceide	4.74506	-53.25322	GF	00
+Crique Cecile	4.87979	-53.01194	GF	00
+Riviere de Cayenne	4.91415	-52.34957	GF	00
+Ile de Cayenne	4.83333	-52.33333	GF	00
+Crique de Cayenne	5.06667	-52.61667	GF	00
+Arrondissement de Cayenne	4	-52.5	GF	GF
+Cayenne	4.93333	-52.33333	GF	GF
+Crique Cavalet	4.81487	-52.44116	GF	00
+Crique Caussade	5.06667	-52.61667	GF	00
+Caussade	5.06667	-52.6	GF	00
+Ile Catalin	4.32799	-52.08564	GF	00
+Pointe Castor	5.16667	-52.63333	GF	00
+Crique Casse-Corps	4.80302	-53.78373	GF	00
+Crique Cassagnac	5.08616	-54.39893	GF	00
+Riviere des Cascades	4.82298	-52.43758	GF	00
+Plateau des Cascades	5.33333	-54.1	GF	00
+Carriere	4.27686	-52.67258	GF	00
+Carrefour de Mana	5.5	-53.98333	GF	00
+Savane Carre	5.39933	-53.05042	GF	00
+Ilet Cariacou	4.86132	-52.28062	GF	00
+Crique Cariacou	5.03333	-52.73333	GF	00
+Crique Cariacou	4.82146	-53.15605	GF	00
+Crique Cariacou	4.02801	-52.55431	GF	00
+Crique Cariacou	3.548	-53.17316	GF	00
+Cariacou	5.33333	-53.98333	GF	00
+Carbet Toukan	5.2	-52.76667	GF	00
+Carbet Tonkin	4.84793	-53.26977	GF	00
+Carbets	3.4125	-53.88431	GF	00
+Crique Carbet Roche	3.18333	-52.93333	GF	00
+Crique Carbet Mitan	3.35705	-53.12865	GF	00
+Carbet Mitan	4.93047	-53.46251	GF	00
+Carbet Mitan	3.60883	-53.1328	GF	00
+Carbet Mitan	3.3	-52.8	GF	00
+Carbet Medard	5.39895	-53.67148	GF	00
+Carbet Mais	3.63519	-53.06084	GF	00
+Carbet la Panne	4.16445	-52.88127	GF	00
+Carbet la Nuit	3.78784	-53.18356	GF	00
+Carbet Hocco	3.8	-53	GF	00
+Carbet Gaulettes	3.83733	-53.13991	GF	00
+Crique Carbet Brule	3.13333	-53.31667	GF	00
+Carbet Brule	3.38008	-52.84771	GF	00
+Pripris Carape	5.05	-52.53333	GF	00
+Montagne Carapas	5.16667	-52.66667	GF	00
+Crique Carapana	3.91667	-52.86667	GF	00
+Montagne Carapa	4.51784	-52.4686	GF	00
+Crique Carapa	4.90699	-52.43098	GF	00
+Cooperative Agricole de la Carapa	4.93333	-52.46667	GF	00
+Capon	3.91667	-51.83333	GF	00
+Saut Capiaie	4.09329	-53.5254	GF	00
+Saut Capiaie	2.74049	-52.97092	GF	00
+Saut Capiaie	2.55781	-53.49733	GF	00
+Crique Capiaie	4.09207	-53.52592	GF	00
+Roche Caouane	5.12215	-53.40216	GF	00
+Crique Canori	3.65	-52.66667	GF	00
+Degrad des Cannes	4.85384	-52.27475	GF	00
+Anse Canceler	5.46667	-53.05	GF	00
+Roche Canari Zozo	3.55046	-52.01177	GF	00
+Saut Canari	4.05569	-52.4835	GF	00
+Crique Canard	5.65297	-53.94608	GF	00
+Crique Canard	4.50291	-52.16801	GF	00
+Canabouli Tabiki	4.9202	-54.45531	GF	00
+Ilets Camopi Ata	3.2	-52.3	GF	00
+Saut Camopi	3.19162	-52.46035	GF	00
+Riviere Camopi	3.16692	-52.33327	GF	00
+Ilet Camopi	3.1845	-52.46699	GF	00
+Crique Camopi	3.36667	-52.73333	GF	00
+Camopi	3.21147	-52.46063	GF	00
+Camopi	3.16548	-52.31575	GF	GF
+Crique Camoaibo	4.38508	-52.87974	GF	00
+Caminare	4.18333	-52.2	GF	00
+Camelie	5.05	-54.41667	GF	00
+Saut Cambrouze	4.80619	-53.67523	GF	00
+Saut Cambrouze	4.51009	-53.61688	GF	00
+Saut Cambrouze	2.31924	-52.97205	GF	00
+Roche Cambrouze	5.43333	-53.38333	GF	00
+Montagne Cambrouze	5.41582	-53.36083	GF	00
+Degrad Cambrouze	5.42008	-53.37503	GF	00
+Crique Cambrouze	5.42102	-53.37495	GF	00
+Crique Cambrouze	3.51667	-53.2	GF	00
+Cambrouze	4.76363	-53.99891	GF	00
+Cambrouze	5.18333	-53.48333	GF	00
+Cambrouze	3.71626	-53.74504	GF	00
+Cambrouze	3.65	-53.23333	GF	00
+Cambouze	4.87108	-53.69908	GF	00
+Calou	4.74616	-53.95928	GF	00
+Crique Calisa	4.94809	-53.17904	GF	00
+Crique Calebasse	3.53694	-52.98746	GF	00
+Montagne Calcul	2.35126	-53.17758	GF	00
+Crique Calcouchi	4.96215	-53.24031	GF	00
+Saut Caiman	3.9	-52	GF	00
+Crique Caiman	4.98578	-52.68377	GF	00
+Crique Caiman	4.56249	-52.30676	GF	00
+Crique Caiman	3.43235	-52.11889	GF	00
+Crique Cafe	5.42593	-53.13522	GF	00
+Crique Cafe	5.25	-52.96667	GF	00
+Cafe	3.73333	-53.71667	GF	00
+Crique Cadet	5.64163	-53.97507	GF	00
+Montagnes Cacao	4.53457	-52.47422	GF	00
+Montagne Cacao	2.35005	-53.21026	GF	00
+Crique Cacao	4.57785	-52.47175	GF	00
+Crique Cacao	4.33333	-52.03333	GF	00
+Cacao	2.38333	-53.23333	GF	00
+Cacao	4.57779	-52.47225	GF	00
+Saut Caca de l'Eau	3.53333	-52.78333	GF	00
+Crique Caca de l'Eau	3.54213	-52.7776	GF	00
+Saut Caca	4.82823	-53.1122	GF	00
+Crique Cabrit	4.82793	-53.12062	GF	00
+Pripris Cabassou	4.88269	-52.2999	GF	00
+Mont Cabassou	4.894	-52.29905	GF	00
+Degrad Cabassou	4.88456	-52.31045	GF	00
+Crique Cabassou	4.892	-52.31579	GF	00
+Cabassou	4.89025	-52.29104	GF	00
+Pointe Buzaret	4.94729	-52.32664	GF	00
+Buja-le-Haut	3.16667	-52.68333	GF	00
+Saut Buis	3.7	-52.08333	GF	00
+Buigui Tabiki	4.72892	-54.44868	GF	00
+Pointe Bruyere	4.19883	-51.63526	GF	00
+Montagne Bruyere	4.20783	-51.65283	GF	00
+Ile Briquetterie	5.08333	-52.6	GF	00
+Degrad Brigitte	4.28333	-52.61667	GF	00
+Savane Brigandin	5.4	-52.98333	GF	00
+Roche Brigandin	5.43333	-52.98333	GF	00
+Brigandin	5.41667	-52.98333	GF	00
+Crique Bremont	5.04006	-52.47841	GF	00
+Roche Bravo	5.25	-52.96667	GF	00
+Crique Boyer	4.30382	-52.62239	GF	00
+Crique Bouteil	4.45151	-52.57576	GF	00
+Boussoussa	3.65	-54	GF	00
+Roche Bourgeois	5.48333	-53.2	GF	00
+Mont Bourda	4.93915	-52.28725	GF	00
+Bourda	4.93915	-52.29602	GF	00
+Crique Boulet	4.38889	-52.57206	GF	00
+Crique Boulanger	4.60771	-52.35072	GF	00
+Boulanger	4.56109	-52.41227	GF	00
+Saut Bouilli-Dombre	4.71876	-53.10267	GF	00
+Degrad la Boue	5.30191	-53.41958	GF	00
+Crique la Boue	5.51647	-53.35405	GF	00
+Sauts Bouchard	3.65961	-52.66249	GF	00
+Crique Bouchard	3.65137	-52.61661	GF	00
+Crique Bostok	3.45	-53.98333	GF	00
+Bostok	3.43333	-53.96667	GF	00
+Bossou	5.03333	-54.41667	GF	00
+Crique Borie	4.94442	-53.43817	GF	00
+Borie	4.93256	-53.44543	GF	00
+Savanes Bordelaises	4.96737	-52.47075	GF	00
+Crique Bordage	5.38576	-53.16667	GF	00
+Boofo Tabiki	4.70246	-54.42457	GF	00
+Crique Bon Secours	5.30344	-54.12238	GF	00
+Crique Bonot	3.99532	-52.46819	GF	00
+Roches Bonnet	5.15	-52.56667	GF	00
+Crique Bonne Nouvelle	4.87182	-53.00861	GF	00
+Bonne Entente	4.99167	-53.86203	GF	00
+Boniville	3.83766	-54.18017	GF	00
+Bonidoro	4.91459	-54.45838	GF	00
+Route de Bon Espoir	5.1	-53.91667	GF	00
+Crique Bon Espoir	5.08787	-53.80856	GF	00
+Crique Bon Dieu	4.55922	-52.41178	GF	00
+Crique Bon	5.03547	-53.04162	GF	00
+Bolo	5.44458	-53.24298	GF	00
+Saut Boko	2.30932	-52.89883	GF	00
+Montagnes Bois Violets	4.78333	-52.88333	GF	00
+Bois Martin	5	-54.43333	GF	00
+Bois Macaque	4.98059	-52.76115	GF	00
+Saut Bois Lettre	4.8384	-53.09799	GF	00
+Crique Bois Lettre	4.84288	-53.10678	GF	00
+Crique Bois Fer	4.7975	-53.13108	GF	00
+Bois Debout	4.93783	-53.95933	GF	00
+Bois Couronne	4.81297	-53.70285	GF	00
+Lac du Bois Chaudat	5.15	-52.65	GF	00
+Saut Bois Blanc	4.73333	-52.96667	GF	00
+Saut Bois Blanc	3.76842	-52.62771	GF	00
+Degrad Bois Blanc	3.78333	-53.88333	GF	00
+Crique Bois Blanc	4.97548	-52.75576	GF	00
+Crique Bois Blanc	3.78374	-52.62381	GF	00
+Crique Bois Blanc	3.73333	-53.91667	GF	00
+Crique Bois Bande	4.29697	-52.57436	GF	00
+Bois Bande	4.25715	-52.58463	GF	00
+Saut Bois	4.9657	-53.92665	GF	00
+Saut Bois	4.72682	-53.15962	GF	00
+Saut Bois	4.71667	-53.21667	GF	00
+Saut Bois	4.21667	-52.16667	GF	00
+Saut Bois	3.93258	-52.89916	GF	00
+Saut Bois	3.50117	-52.70884	GF	00
+Crique aux Buffles	5.57228	-53.99712	GF	00
+Boeuf Mort	4.93012	-53.41096	GF	00
+Boeuf Mort	4.71154	-53.9422	GF	00
+Boeuf Mort	3.42018	-52.95801	GF	00
+Boeuf Bois	4.97242	-53.06477	GF	00
+Pointe Blondin	3.87349	-51.80897	GF	00
+Blicade	3.29986	-53.84237	GF	00
+Roches Blanches	5.41667	-52.85	GF	00
+Crique Blanche	5.5	-53.96667	GF	00
+Crique Blanche	4.70019	-52.32561	GF	00
+Crique Blanche	4.51365	-52.36717	GF	00
+Crique Blanche	4.23072	-52.70622	GF	00
+Crique Blanche	3.65	-52.96667	GF	00
+Crique Blanche	3.63333	-52.61667	GF	00
+Degrad Blanc	3.74673	-53.27371	GF	00
+Crique Blanc	4.19011	-52.63217	GF	00
+Bita	4.03333	-52.55	GF	00
+Bistouri	4.54616	-52.64984	GF	00
+Bilove	5.39974	-53.15615	GF	00
+Biguiston	5.35	-54.15	GF	00
+Bienvenue	3.11503	-52.69555	GF	00
+Saut Bief	4.55344	-52.50037	GF	00
+Degrad Bief	4.55497	-52.49233	GF	00
+Ilet Biche	4.12799	-51.64713	GF	00
+Crique Biche	4.97246	-53.05678	GF	00
+Crique Biche	4.53333	-52.26667	GF	00
+Crique Biche	4.36135	-52.59236	GF	00
+Crique Bicade	3.43333	-53.46667	GF	00
+Bicade	3.7	-53.93333	GF	00
+Bicade	3.4229	-53.42211	GF	00
+Crique Bibith	5.23333	-52.96667	GF	00
+Crique Bibisson	4.28333	-52.13333	GF	00
+Bernardin	3.6094	-53.734	GF	00
+Saut Bernard	4.44021	-52.39293	GF	00
+Crique Bernard	4.85946	-52.3878	GF	00
+Crique Bernard	4.71308	-53.86832	GF	00
+Crique Bernard	3.69163	-52.88793	GF	00
+Bernard	4.75283	-53.8965	GF	00
+Saut Berard	4.87477	-53.00099	GF	00
+Saut Berard	4.83816	-52.94378	GF	00
+Saut Berard	4.77177	-53.14393	GF	00
+Crique Berard	4.76874	-53.25512	GF	00
+Crique Berard	4.77067	-53.14577	GF	00
+Crique Benoit	4.03167	-52.53244	GF	00
+Benefica	4.88333	-53.31667	GF	00
+Bistouri Ben Amar	5.57897	-53.98724	GF	00
+Saut Bemba	3.16667	-53.68333	GF	00
+Monts Belvedere	3.72383	-53.40962	GF	00
+Mont Belvedere	2.41124	-53.09744	GF	00
+Crique Belove	5.39602	-53.16214	GF	00
+Montagne Bellevue de Maripasoula	3.78333	-54.05	GF	00
+Montagnes Bellevue de l'Inini	3.05	-53.58333	GF	00
+Savane Bellevue	5.46211	-53.26387	GF	00
+Crique Bellevue	4.78472	-52.46049	GF	00
+Crique Bellevue	3.76667	-54.1	GF	00
+Bellevue	3.84403	-53.34738	GF	00
+Bellevue	5.46667	-53.26667	GF	00
+Bellevue	3.76128	-54.1095	GF	00
+Saut Belle Etoile	5.21531	-53.6541	GF	00
+Belle Etoile	3.98562	-52.97102	GF	00
+Route de Belizon	4.38333	-52.3	GF	00
+Belizon	4.26882	-52.65696	GF	00
+Ilet Beiman	4.61008	-54.41198	GF	00
+Crique Beiman	4.61177	-54.40594	GF	00
+Beiman	4.63333	-54.38333	GF	00
+Beiman	4.71048	-54.00726	GF	00
+Pointe Behague	4.67401	-51.90094	GF	00
+Bec de Sable	4.98333	-52.75	GF	00
+Beau Soleil	4.86749	-52.25005	GF	00
+Crique Beau Rivage	4.72031	-53.89372	GF	00
+Beau Rivage	4.7192	-53.91234	GF	00
+Cite Beauregard	4.8762	-52.27965	GF	00
+Monts Bauge	4.2	-52.23333	GF	00
+Bauge	4.23485	-52.21853	GF	00
+Crique Baton Pilon	3.40705	-52.13489	GF	00
+Baticane	5.48251	-53.65779	GF	00
+Saut Batardeau	3.94708	-52.93935	GF	00
+Saut Batardeau	3.60631	-53.81316	GF	00
+Saut Batardeau	3.55625	-52.72562	GF	00
+Batardeau	4.24825	-52.72495	GF	00
+Ile Bastien	5.29188	-54.22398	GF	00
+Crique Bastien	5.27951	-54.22634	GF	00
+Pripris Bassini	5.21667	-52.73333	GF	00
+Bas-Espoir	3.61817	-53.59868	GF	00
+Pointes Bano	4.95	-53.01667	GF	00
+Banlieue-Sud de Cayenne	4.93333	-52.33333	GF	00
+Banc de Sable	5.21496	-54.2534	GF	00
+Crique Banane	4.8813	-52.53331	GF	00
+Banana	4.7	-52.53333	GF	00
+Bamboula	3.82629	-53.17846	GF	00
+Crique Bamba	3.78458	-54.12058	GF	00
+Crique Balourou	3.49256	-53.0478	GF	00
+Balourou	3.50883	-53.09984	GF	00
+Balourou	3.48392	-53.02938	GF	00
+Montagne Baloupi	5.08333	-52.63333	GF	00
+Crique Bali	3.4	-53.35	GF	00
+Montagnes Balenfois	4.1	-52.63333	GF	00
+Crique Balenfois	4.05658	-52.71529	GF	00
+Crique Balenfois	3.7569	-52.85474	GF	00
+Crique Balate	5.48121	-54.04494	GF	00
+Balate	5.48333	-54.05	GF	00
+Pripris Balata	5.3	-52.81667	GF	00
+Degrad Balata	5.38903	-53.43349	GF	00
+Degrad Balata	4.99766	-52.68925	GF	00
+Crique Balata	5.63186	-53.91089	GF	00
+Crique Balata	5.09695	-54.19182	GF	00
+Crique Balata	4.99521	-52.69125	GF	00
+Crique Balata	4.88833	-52.33605	GF	00
+Balata	5.46913	-53.24	GF	00
+Savane Balalou	5.55042	-53.41115	GF	00
+Ilet Balalou	5.40396	-53.00177	GF	00
+Crique Balalou	5.18333	-52.98333	GF	00
+Monts Bakra	3.29406	-52.94705	GF	00
+Baino	4.93333	-54.45	GF	00
+Saut Baille Nom	3.16667	-53.38333	GF	00
+Crique la Baie	3.97239	-52.60078	GF	00
+Montagnes Bagot	4.66667	-52.58333	GF	00
+Bagot	4.53333	-52.55	GF	00
+Bagdad	3.84626	-53.08303	GF	00
+Stade de Baduel	4.93347	-52.31175	GF	00
+Mont Baduel	4.92186	-52.3078	GF	00
+Baduel	4.92778	-52.31243	GF	00
+Saut Badjere	3.43506	-53.53328	GF	00
+Badek	3.94533	-52.9949	GF	00
+Bada Tabiki	4.8891	-54.47239	GF	00
+Crique Bacove	4.94674	-53.18632	GF	00
+Saut Bache	3.51667	-52.91667	GF	00
+Crique Bache	4.56358	-52.28834	GF	00
+Saut Baboune	4.66117	-53.61535	GF	00
+Crique Baboune	4.65979	-53.61417	GF	00
+Babel	5.01667	-54.43333	GF	00
+Crique Aymara	2.59088	-53.06138	GF	00
+Crique Awara Kouchiri	3.55	-52.05	GF	00
+Awali Soula	2.56718	-53.57934	GF	00
+Crique Awa	4.31667	-54.38333	GF	00
+Crique Averne	3.88906	-52.87087	GF	00
+Avenir	4.76667	-53.75	GF	00
+Saut l'Autel	4.75577	-53.10699	GF	00
+Saut Autel	4.69526	-52.96341	GF	00
+Crique Austerlitz	4.8955	-52.37551	GF	00
+Austerlitz	4.88333	-52.38333	GF	00
+Aubry	5.04912	-53.6551	GF	00
+Aubanele	5.11667	-52.68333	GF	00
+Crique Atoumba	4.11667	-54	GF	00
+Saut Athanase	4.18802	-52.33169	GF	00
+Monts Atachi Bakka	3.55	-53.91667	GF	00
+Saut Assoide	4.72337	-54.43202	GF	00
+Assici	3.82256	-54.1941	GF	00
+Assakopo Soula	3.58333	-53.98333	GF	00
+Riviere Arouany	4.94275	-53.78825	GF	00
+Fourca de l'Arouani	4.66445	-53.77116	GF	00
+Crique Arouague	5.44912	-53.2119	GF	00
+Crique Armontabo	3.68458	-52.09111	GF	00
+Saut Aristide	4.35	-52.86667	GF	00
+Montagne d'Argent	4.3903	-51.70112	GF	00
+Fausse Montagne d'Argent	4.45483	-51.75833	GF	00
+Pic Ardent	3.28333	-52.91667	GF	00
+Monts Arawa	2.86667	-53.36667	GF	00
+Crique Aratai	3.98333	-52.56667	GF	00
+Aratai	3.98094	-52.54407	GF	00
+Apsik Icholi	2.93333	-54.18333	GF	00
+Crique A Propos	4.35065	-54.2633	GF	00
+Fleuve Approuague	4.62427	-51.9562	GF	00
+Crique Apollon	4.68884	-53.93066	GF	00
+Crique Apipatouna	2.97351	-54.16614	GF	00
+Apatou	5.155	-54.34721	GF	GF
+Crique Aoussa	3.31311	-52.7186	GF	00
+Saut Aouara	2.88333	-53	GF	00
+Awala-Yalimapo	5.73333	-53.9	GF	GF
+Crique Aoma	4.45	-52.4	GF	00
+Anton	5.53333	-53.43333	GF	00
+Antecume Pata	3.28333	-54.06667	GF	00
+Degrad Annie	4.27646	-52.6257	GF	00
+Ankel	5.3	-54.21667	GF	00
+Crique Anis	4.60291	-52.40503	GF	00
+Crique Anguille	3.03333	-53.65	GF	00
+Angouleme	5.40792	-53.65626	GF	00
+Montagnes Anglaises	4.74984	-52.31494	GF	00
+La Roche Anglaise	4.95455	-52.31884	GF	00
+Crique des Anglais	5.64152	-53.93169	GF	00
+Crique Angelique	4.80146	-52.15255	GF	00
+Crique Angele	4.18271	-52.32488	GF	00
+Crique Andromaque	4.54229	-52.49228	GF	00
+Crique Andrews	4.90403	-53.49181	GF	00
+Ancien Village Poteau Carre	4.56812	-52.40354	GF	00
+Ancien Village Hubert	3.1	-53.25	GF	00
+Ancien Papaichton	3.81251	-54.17269	GF	00
+Ancien Degrad Combat	4.58236	-52.37637	GF	00
+Saut Ananas	4.1351	-53.53888	GF	00
+Montagne Ananas	3.91358	-53.56048	GF	00
+Ana Konde	4.23333	-54.38333	GF	00
+Sauts Ampouman	4.63359	-54.44211	GF	00
+Amponosoengoe Val	3.98333	-54.3	GF	00
+Saut Americain	4.77406	-53.14145	GF	00
+Montagne Americain	3.65	-53.58333	GF	00
+Crique Americain	4.77338	-53.13835	GF	00
+Amekan Tabiki	4.81667	-54.46667	GF	00
+Montagne Amaryllaire	4.99459	-53.09862	GF	00
+Crique Amaryllaire	4.97851	-53.10284	GF	00
+Crique Amansou	2.98333	-53.58333	GF	00
+Pointe des Amandiers	4.94407	-52.33215	GF	00
+Mont Amana	2.26667	-54.18333	GF	00
+Amamouitpe Icholi	2.96667	-54.16667	GF	00
+Crique Amadis	5.06611	-53.81479	GF	00
+Crique Alphonse	5.17138	-53.41915	GF	00
+Banc de l'Alouette	5.31667	-52.6	GF	00
+Aloike	3.63333	-53.98333	GF	00
+Aloike	3.32828	-54.05407	GF	00
+Crique Alina	4.00169	-52.74871	GF	00
+Crique Alina	3.63333	-52.63333	GF	00
+Alikoto Miti Itou	2.9	-52.41667	GF	00
+Alikoto	3.11523	-52.34445	GF	00
+Monts Alikene	3.22588	-52.39508	GF	00
+Crique Alikene	3.21667	-52.41667	GF	00
+Alikene	3.30565	-52.47866	GF	00
+Crique Alicorne	3.4	-53.31667	GF	00
+Crique Alicorne	3.11735	-52.68971	GF	00
+Crique Alicia	3.4	-52.83333	GF	00
+Alicia	3.38333	-52.91667	GF	00
+Saut Alice	2.53333	-53.56667	GF	00
+Ilet Alice	3.66667	-51.98333	GF	00
+Crique Alice	2.56667	-53.55	GF	00
+Degrad Alfred	5.39024	-53.43251	GF	00
+Saut Alexis	3.20895	-52.43647	GF	00
+Crique Alexis	5.54269	-53.78432	GF	00
+Crique Alexis	5.23333	-52.73333	GF	00
+Crique Alexandrine	5.46667	-52.96667	GF	00
+Crique Alexandre Jacques	5.25	-52.96667	GF	00
+Crique Alaparoubo	4.40553	-52.89578	GF	00
+Alamanyapa Itou	2.91667	-52.4	GF	00
+Crique Alama	2.43333	-54.41667	GF	00
+Crique Alain	3.41667	-52.46667	GF	00
+Akouti	4.38333	-54.31667	GF	00
+Pointe Akoupa	4.79527	-52.13799	GF	00
+Akoumenai	2.94031	-52.3949	GF	00
+Wittieston Soela	4.76667	-54.46667	GF	00
+Akodo	5.16667	-54.33333	GF	00
+Akilengui	5.08333	-54.4	GF	00
+Akala Soula	3.03333	-54.18333	GF	00
+Ile Aipoto	4.46192	-51.93884	GF	00
+Saut Aimara	4.66667	-52.93333	GF	00
+Saut Aimara	4.55938	-53.62898	GF	00
+Crique Aimara	5.31667	-53.78333	GF	00
+Crique Aimara	4.93809	-54.44046	GF	00
+Crique Aimara	4.93333	-53.25	GF	00
+Crique Aimara	4.90927	-52.98773	GF	00
+Crique Aimara	4.89943	-53.94844	GF	00
+Crique Aimara	3.82058	-52.89807	GF	00
+Crique Aimara	3.75	-52.18333	GF	00
+Crique Aimara	3.61667	-52.61667	GF	00
+Crique Aimara	3.59016	-52.99532	GF	00
+Crique Aimara	3.35	-53.68333	GF	00
+Roche Aimable	4.94406	-52.34054	GF	00
+Sauts Aikoupai	4.08646	-52.4594	GF	00
+Crique Aikoupai	4.08333	-52.45	GF	00
+Agoussou Tabiki	3.61269	-53.98328	GF	00
+Agokini Soula	4.73333	-54.45	GF	00
+Crique Agami	4.61667	-54.4	GF	00
+Agami	3.76367	-53.21825	GF	00
+Aeroplane Konde	4.42393	-54.43063	GF	00
+Crique Adonis	3.5	-53.2	GF	00
+Crique Adolphe	3.75597	-53.66774	GF	00
+Crique Adolphe	3.55256	-53.63288	GF	00
+Adieu-Vat	4.87351	-53.00982	GF	00
+Saut Acouba Bocoga	2.6417	-54.00201	GF	00
+Riviere Acarouany	5.65392	-53.77508	GF	00
+Acarouany	5.59222	-53.81226	GF	00
+Crique Acajou	5.30392	-53.20134	GF	00
+Crique Acajou	4.32011	-52.0921	GF	00
+Crique Absinthe	4.24589	-52.26718	GF	00
+Crique Absinthe	4.00467	-53.4628	GF	00
+Abouna Sounga	4.05	-54.35	GF	00
+Abounami Riviere	4.4	-54.43333	GF	00
+Ilet Abodo Boto	4.10677	-52.42216	GF	00
+Abiguine Soula	4.71667	-54.45	GF	00
+Abatis Cottica	3.95	-54.3	GF	00
+Abagon Tabiki	4.1	-54.45	GF	00
+Wataou Tilili Icholi	2.71667	-54.26667	GF	00
+Gran Soela	3.3	-54.1	GF	00
+Faux Mont D'Argent	4.45	-51.75	GF	00
+Pointe Bruyere	4.2	-51.65	GF	00
+Mont Bruyere	4.21667	-51.65	GF	00
+Saint Georges	3.88333	-51.83333	GF	00
+MERCURE ARIATEL KOUROU 3	5.15	-52.6499	GF	
+Guyane	3.99929	-52.99856	GF	GF
+Guyane	3.99886	-52.99994	GF	GF
+Apatou	5.1567	-54.3431	GF	GF
+Awala-Yalimapo	5.7361	-53.9081	GF	GF
+Camopi	3.1703	-52.3436	GF	GF
+Cayenne	4.9386	-52.335	GF	GF
+Grand-Santi	4.2728	-54.38	GF	GF
+Iracoubo	5.48	-53.2056	GF	GF
+Kourou	5.1583	-52.6428	GF	GF
+Macouria	5.0136	-52.4739	GF	GF
+Mana	5.6672	-53.7769	GF	GF
+Maripasoula	3.6428	-54.0269	GF	GF
+Matoury	4.8506	-52.3311	GF	GF
+Montsinery-Tonnegrande	4.8928	-52.4928	GF	GF
+Ouanary	4.2092	-51.6717	GF	GF
+Papaichton	3.8086	-54.1722	GF	GF
+Regina	4.3136	-52.1292	GF	GF
+Remire-Montjoly	4.905	-52.2767	GF	GF
+Roura	4.7283	-52.3242	GF	GF
+Saint-Elie	4.8256	-53.2881	GF	GF
+Saint-Georges-de-l'Oyapock	3.8894	-51.8011	GF	GF
+Saint-Laurent-du-Maroni	5.5039	-54.0289	GF	GF
+Sauel	3.6272	-53.2083	GF	GF
+Pont Beauregard	4.88837	-52.28617	GF	00
+Pont Lacroix	4.88827	-52.27601	GF	00
+Savanes Methon	4.9047	-52.28855	GF	00
+Roche Paule	4.92278	-52.34311	GF	00
+Cite Bonhomme	4.92186	-52.31921	GF	00
+Anse de Bourda	4.93482	-52.28273	GF	00
+Lac de Montjoly	4.92603	-52.27677	GF	00
+Bureau de Poste de Cayenne Collery	4.90511	-52.32383	GF	GF
+Bureau de Poste de Cayenne Baduel	4.93849	-52.31557	GF	GF
+Bureau de Poste de Kourou	5.16498	-52.641	GF	
+Bureau de Poste de Matoury	4.84974	-52.32782	GF	GF
+Bureau de Poste de Remire Montjoly	4.90278	-52.27657	GF	
+Bureau de Poste de Saint Laurent Du Maroni	5.50438	-54.02852	GF	GF
+Bureau de Poste de Ouanary	4.20906	-51.67089	GF	
+Bureau de Poste de Cayenne Digue Ronjon	4.93285	-52.32963	GF	GF
+Bureau de Poste de Cayenne Cabassou	4.9135	-52.30839	GF	GF
+Bureau de Poste de Cayenne Ceperou	4.93761	-52.33521	GF	GF
+Balata	4.88579	-52.34101	GF	00
+Buzaret	4.94455	-52.32563	GF	00
+Crique Fouillee	4.84854	-52.28925	GF	00
+Tour a flux	5.2787	-52.92486	GF	GF
+Chez Keviin	3.62407	-53.21264	GF	GF
+Hmong Village	3.62827	-53.20643	GF	GF
+Trois Roches	3.62422	-53.2213	GF	GF
+La Palmeraie	3.5943	-53.20793	GF	GF
+Novotel Cayenne	4.9383	-52.32579	GF	GF

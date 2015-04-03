@@ -1,0 +1,2143 @@
+Kleine Commewijne Rivier	5.38333	-54.66667	SR	00
+Zwamp Kreek	5.01667	-56.7	SR	18
+Zuid Rivier	3.33171	-56.80354	SR	18
+Zoutoa Kreek	4.83333	-54.7	SR	18
+Zorgvliet	5.85	-55.03333	SR	11
+Zorg en Hoop	5.8099	-55.18599	SR	16
+Zonnevis Kreek	5.18333	-56.08333	SR	18
+Zondag Kreek	5.8	-55.7	SR	12
+Zondag Kreek	4.46667	-56.03333	SR	18
+Zohigronpoenta	4.01667	-55.88333	SR	18
+Zohigronmorokko Kreek	4.01667	-55.9	SR	18
+Zoewatta	4.55	-55.3	SR	10
+Zoetwater Kanaal	5.91667	-56.33333	SR	12
+Zoelen	5.88333	-55.06667	SR	11
+Leiding Zeventien a	5.8	-55.3	SR	19
+Leiding Zeventien	5.8	-55.3	SR	19
+Zeven Broeders Vallen	3.55	-57.48333	SR	18
+Leiding Zeven a	5.85	-55.3	SR	19
+Leiding Zeven	5.85	-55.3	SR	19
+Leiding Zes	5.83333	-55.3	SR	19
+Zeekoe Kreek	5.48333	-55.61667	SR	17
+Zaoe Tabriki	3.38333	-54.05	SR	18
+Zand Kreek	4.4	-57.25	SR	18
+Zand Kreek	4.23333	-55.45	SR	18
+Zand Kreek	3.85	-54.23333	SR	18
+Zanderij II	5.33333	-55.26667	SR	15
+Zanderij	5.45	-55.2	SR	15
+Zaja Kreek	4.31667	-55.38333	SR	18
+Worsteling Jacobs Eiland	5.35	-55.01667	SR	15
+Wonotobo Vallen	4.36667	-57.96667	SR	18
+Wonosoro Vallen	4.21667	-58	SR	18
+Wonoredjo	5.63333	-54.4	SR	13
+Wolonsanti	5.11667	-55.48333	SR	15
+Woko Kreek	5.4	-56.56667	SR	18
+Wojohgston Soela	4.68333	-55.56667	SR	18
+Stroomversnelling Woedoeboekoe	4.22735	-55.44122	SR	18
+Wiwierbo Kreek	5.41667	-55.41667	SR	15
+Wit Water Kreek	3.86667	-56.31667	SR	18
+Wittiwatra Kreek	5.55	-54.23333	SR	13
+Wittiwatra Kreek	5.41667	-54.4	SR	13
+Wittikamba	4.51667	-55.35	SR	18
+Wittiewatra	5.01667	-55.56667	SR	18
+Wittiewatra	4.88333	-56.95	SR	18
+Wittieston Soela	4.45	-55.76667	SR	18
+Wittiehede Ston	4.58333	-55.68333	SR	18
+Wioemi Kreek	2.35	-56.63333	SR	18
+Wintiewaai Gebergte	4.95	-54.88333	SR	10
+Winkel Pipa	4.13333	-54.7	SR	18
+Winanna Kreek	5.26667	-57.1	SR	18
+Willisingie	4.03333	-54.8	SR	18
+Willing Kreek	5.91667	-55.15	SR	16
+Willem Tabbetje	4.55	-56.13333	SR	18
+Willems Eiland	5.3	-57.28333	SR	14
+Willem Kreek	4.23333	-54.55	SR	18
+Willage Kreek	4.95	-54.58333	SR	18
+Wilhelmina Rivier	3.85	-54.53333	SR	18
+Wilhelmina Gebergte	3.75	-56.5	SR	18
+Wijngaardekondre	5.45	-54.1	SR	13
+Wiesawinie	5.45	-55.05	SR	15
+Wielenkamp Kreek	5.53333	-54.83333	SR	11
+Wiawia Bank	5.96667	-54.35	SR	13
+White Kreek	5.01667	-56.81667	SR	18
+Wetiede Vallen	3.91667	-54.3	SR	18
+West Rivier	3.43333	-56.75	SR	18
+Westen Val	5.16667	-55.26667	SR	10
+Westcapoerica Kreek	5.75	-54.65	SR	13
+Werekitto Vallen	3.41667	-57.65	SR	18
+Weltevreden	5.85	-54.95	SR	11
+Weliok Val	3.2	-55.4	SR	18
+Welgevallen	5.88333	-54.93333	SR	11
+Welgemoed en Toevlucht	5.8	-54.95	SR	11
+Welgelegen	5.86667	-56.26667	SR	12
+Welgelegen	5.85	-55.01667	SR	11
+Welgedacht C	5.75	-55.23333	SR	19
+Welgedacht B	5.75	-55.23333	SR	19
+Welgedacht A	5.75	-55.23333	SR	19
+Welgedacht	5.8	-54.98333	SR	11
+Wekoweko Tabbetje	4.93333	-54.45	SR	18
+Wederzorg	5.85	-55	SR	11
+Weddebah Soela	4.45	-55.75	SR	18
+Wayombo Rivier	5.43333	-56.03333	SR	00
+Waycaribo Kreek	5.56667	-54.81667	SR	11
+Wayamoe Kreek	5.81667	-54.66667	SR	13
+Watramammabobbie	5.35	-55.36667	SR	15
+Watralassie	4.03333	-55.91667	SR	18
+Watowanni Kreek	4.2	-55.88333	SR	18
+Watokaka Kreek	4.2	-55.88333	SR	18
+Watervliet	5.53333	-55.05	SR	15
+Watermolen Kreek	5.51667	-55.38333	SR	15
+Waterloo Kreek	4.95	-56.83333	SR	18
+Waterloo	5.93333	-56.98333	SR	14
+Waterloo	5.93333	-56.98333	SR	14
+Waterland	5.68333	-55.05	SR	15
+Watapat Kreek	5.13333	-55.11667	SR	10
+Waswassie Kreek	4.31667	-55.41667	SR	18
+Waskram Kreek	5	-57.4	SR	18
+Wasjarimabo Kreek	5.73333	-57.11667	SR	14
+Wasjabo Kreek	5.21667	-57.18333	SR	18
+Wasjabo	5.21667	-57.18333	SR	18
+Washabo	5.21667	-57.18333	SR	18
+Warrewarra Kreek	5.36667	-55.81667	SR	15
+Warrau Kreek	5.41667	-56.73333	SR	14
+Warnakomoponafaja	4.68333	-55.56667	SR	18
+Warimbo Kreek	5.75	-55.35	SR	16
+Waremapan Kreek	2.45	-54.53333	SR	18
+Warappe Kreek	5.48333	-56.7	SR	14
+Warappe Kreek	5.4	-55.91667	SR	17
+Warappa Kreek	5.96667	-54.91667	SR	11
+Warappa Kanaal	6.01667	-54.91667	SR	11
+Warappa Bank	6.01667	-54.93333	SR	11
+Warakabra Val	4.78333	-57.9	SR	18
+Wantonkoela Soela	4.63333	-55.68333	SR	18
+Wantinga	4.28333	-54.48333	SR	18
+Wan Kreek	5.01667	-55.56667	SR	18
+Wanica Kreek	5.78333	-55.33333	SR	19
+Distrikt Wanica	5.75	-55.25	SR	19
+Wanhatti	5.8	-54.45	SR	13
+Wanhatti	4.33333	-55.78333	SR	18
+Waneweg	5.63333	-55.21667	SR	15
+Wane Kreek	5.6	-54.23333	SR	13
+Wane Kreek	4.6	-54.66667	SR	18
+Wanawiero Heuvels	4.66667	-57.26667	SR	18
+Wanasandoe	4.13333	-55.9	SR	18
+Wana Kreek	5.35	-55.83333	SR	15
+Wana Kreek	5.31667	-56.15	SR	18
+Waamawetpe Icholi	2.95	-54.18333	SR	00
+Walmsley Val	3.95	-56.18333	SR	18
+Walmsley Kreek	3.96667	-56.2	SR	18
+Walliliboeka Kreek	4.25	-55.86667	SR	18
+Walimeroe Kreek	2.93333	-55.38333	SR	18
+Waldeck	5.95	-57	SR	14
+Waktibasoe	4.9	-55.08333	SR	10
+Wakkakka Kreek	4.16667	-55.91667	SR	18
+Wakasikie Bradiewatra	4.76667	-55.58333	SR	18
+Wakappe Kreek	5.33333	-55.85	SR	15
+Waikonkiki Kreek	5.56667	-54.48333	SR	13
+Wahaboeka Kreek	4.16667	-55.9	SR	18
+Wageningen	5.76667	-56.68333	SR	14
+Wageningen	5.81667	-56.71667	SR	14
+Wageningen	5.83333	-56.66667	SR	14
+Wadoek	5.85	-56.93333	SR	14
+Wacou Tabriki	3.83333	-54.2	SR	18
+Waaimakkaston	4.73333	-56.38333	SR	18
+Waaimakkaston	4.33333	-55.8	SR	18
+Vriendsbeleid en Ouderzorg	5.86667	-54.98333	SR	11
+Vreeland	5.73333	-55.06667	SR	11
+Vredenburgweg	5.71667	-55.2	SR	19
+Vredenburg	5.73333	-55.15	SR	19
+Vossen Eiland	5.8	-57.15	SR	14
+Vossenburg	5.83333	-54.85	SR	11
+Voorburg	5.88333	-55.08333	SR	11
+Von Faber Val	3.63333	-54.48333	SR	18
+Voman Kreek	5.13333	-55.03333	SR	10
+Voltz Berg	4.68333	-56.16667	SR	18
+Vogelnest Kreek	5.53333	-55.41667	SR	17
+Voetoekaba	4.23333	-55.45	SR	18
+Visserszorg	5.86667	-55.01667	SR	11
+Vissers Kreek	4.48333	-54.78333	SR	18
+Visserskampen	5.95	-55.15	SR	11
+Vissers Bank	5.96667	-55.3	SR	00
+Visch Kreek	4.8	-56.15	SR	18
+Vincent Fajks	3.35	-55.45	SR	18
+Leiding Vijf	5.83333	-55.31667	SR	19
+Vier Kinderen	5.51667	-55.23333	SR	15
+Leiding Vier a	5.81667	-55.31667	SR	19
+Leiding Vier	5.81667	-55.31667	SR	19
+Victoria Kreek	5.15	-55.01667	SR	10
+Victoria	5.11667	-55.01667	SR	15
+Vianda Kreek	5.43333	-54.71667	SR	13
+Vertrouwen	5.88333	-56.88333	SR	14
+Vertrouwen	4.33333	-55.78333	SR	18
+Versteeg Val	3.65	-54.6	SR	18
+Verjari Kreek	5	-55.25	SR	10
+Verbindingsweg	5.48333	-55.2	SR	15
+Veer	5.86667	-56.85	SR	14
+Van Stockum Berg	4.68333	-56.13333	SR	18
+Van Loon Gebergte	3.58333	-55.13333	SR	18
+Van Kaai Kreek	4.8	-56.15	SR	18
+Van Heemstra Top	3.68333	-54.1	SR	18
+Van Hatemweg	5.66667	-55.23333	SR	19
+Van Eden Val	4.71667	-56.88333	SR	18
+Van Drimmelen Polder	5.95	-57.01667	SR	14
+Van der Wijck Top	4.53333	-56.26667	SR	18
+Van der Leida Kampoe	4.91667	-56.11667	SR	18
+Vandaki	4.28333	-54.51667	SR	18
+Van Breen Val	3.75	-54.48333	SR	18
+Van Asch van Wijck Gebergte	4.25	-55.7	SR	18
+Valentijn Kreek	5.91667	-55.15	SR	16
+Vaillant Kreek	5.01667	-54.98333	SR	10
+Utrecht	5.75	-56.66667	SR	14
+Umuru Stroomversnelling	3.66667	-57.81667	SR	18
+Uitkijk	5.76667	-55.33333	SR	19
+Tyronne	5.86667	-54.96667	SR	11
+Twirl Round Rapid	4.16667	-58.05	SR	18
+Leiding Twintig	5.78333	-55.28333	SR	19
+Tweede Bacoven Polder	5.86667	-56.98333	SR	14
+Leiding Twee a	5.8	-55.33333	SR	19
+Leiding Twee	5.8	-55.33333	SR	19
+Turtle Bank	5.98333	-56.98333	SR	14
+Tulpenburg	5.56667	-55.05	SR	11
+Tromkaba Tabbetje	4.3	-54.48333	SR	18
+Trombaka Soela	3.05	-55.4	SR	18
+Troesi Kreek	5.7	-56.66667	SR	14
+Troeli Kreek	5.4	-55.36667	SR	15
+Troelie Kreek	5.36667	-55.2	SR	15
+Trappoe Kreek	4.26667	-55.45	SR	18
+Trangajoemara Kreek	4.45	-55.35	SR	18
+Trancinadjonpo Kreek	5.66667	-55.38333	SR	15
+Tout Lui Faut Kanaal	5.76667	-55.15	SR	16
+Tout Lui Faut	5.76667	-55.15	SR	16
+Tout Lui Faut	5.71667	-55.2	SR	19
+Tourtonne	5.84848	-55.14692	SR	16
+Totome Kreek	4.06667	-55.45	SR	18
+Totohbabiengo Kreek	4.5	-55.73333	SR	18
+Totness Polder	5.9	-56.31667	SR	12
+Totness	5.88333	-56.31667	SR	12
+Totikamp	5.56667	-55.41667	SR	17
+Tosso Kreek	4.06667	-54.8	SR	18
+Torarica Meer	5.33333	-55.03333	SR	15
+Topibo	5.56667	-55.13333	SR	15
+Tonckens Vallen	4.43333	-56.51667	SR	18
+Tomolin Kreek	5.06667	-56.11667	SR	18
+Tomemoene	5.2	-55.93333	SR	15
+Tomdedda Kreek	4.83333	-56.91667	SR	18
+Tomatay Kreek	5	-57.45	SR	18
+Tomassie Kreek	5.16667	-54.35	SR	18
+Tolopaloe Kreek	2.51667	-55.53333	SR	18
+Toledo	5.56667	-55.03333	SR	11
+Tojakondre	5.76667	-54.41667	SR	13
+Toetoe Kreek	5.36667	-56.11667	SR	12
+Toetoe Kreek	4.46667	-56.03333	SR	18
+Toetaia Kreek	5.13333	-55.1	SR	10
+Toesoe Kreek	3.5	-55.06667	SR	18
+Toemoffo Kreek	5.31667	-54.21667	SR	13
+Toemoffo Kreek	5.25	-56.08333	SR	18
+Toemoffo Kreek	4.73333	-56.31667	SR	18
+Toemoffo Kreek	4.6	-56.23333	SR	18
+Toemihi Kreek	4.23333	-55.86667	SR	18
+Toematoe Kreek	5.03333	-54.46667	SR	18
+Toemaripa	4.11667	-55.45	SR	18
+Toemarie Kreek	4.98333	-56.11667	SR	18
+Toekoppie	5.63333	-54.3	SR	13
+Toekoesi Kreek	3.9	-55.43333	SR	18
+Toekoesie Soela	4.71667	-55.55	SR	18
+Toekoesiehede	4.71667	-55.58333	SR	18
+Toekoemoetoe Kreek	4.2	-55.9	SR	18
+Toekoejoeboetoe Soela	4.5	-55.93333	SR	18
+Toekanarie Kreek	4.93333	-55.56667	SR	10
+Toehimi Soela	4.23333	-55.86667	SR	18
+Toeboffroefoenda	4.5	-56.08333	SR	18
+Toeboeroe Kreek	5	-57.51667	SR	18
+Toeboeka Kreek	5	-55.56667	SR	18
+Toeboeka	5	-55.56667	SR	18
+Toebie Kreek	5.38333	-55.41667	SR	15
+Toddo Kreek	5.25	-55.03333	SR	10
+Tobigonni Kreek	4.96667	-55.55	SR	18
+Tobia Kreek	5.38333	-54.65	SR	15
+Toanke	3.38333	-54.05	SR	18
+Tjon Tjon	4.18333	-54.55	SR	18
+Tjango Kreek	5.08333	-55.51667	SR	15
+Tjamtjigih Kreek	4.16667	-55.91667	SR	18
+Tjakkatjakka Ston	5.2	-56.1	SR	18
+Tion A Kietweg	5.75	-55.2	SR	19
+Tio Kreek	4	-55.48333	SR	18
+Tioboto	4.08333	-55.45	SR	18
+Timboe Kreek	5.06667	-56.11667	SR	18
+Timaribo Kreek	5.73333	-54.63333	SR	13
+Tikitikigadoe Soela	3.76667	-54.46667	SR	18
+Tijger Val	4.66667	-57.21667	SR	18
+Tijger Val	3.93333	-57.93333	SR	18
+Tijger Kreek	5.86667	-55.6	SR	17
+Tijger Bank	5.8	-53.96667	SR	13
+Tigri Kreek	5.38333	-56.11667	SR	18
+Tigri Kreek	4.81667	-54.7	SR	18
+Tiengivoloe Kreek	5.81667	-56.78333	SR	14
+Leiding Tien a	5.83333	-55.26667	SR	19
+Leiding Tien	5.83333	-55.26667	SR	19
+Tibiti Savanne	5.38333	-55.93333	SR	15
+Tibiti Rivier	5.55	-55.9	SR	00
+Thomas Kreek	5.76667	-57.13333	SR	14
+Theresia Fadom	5.51667	-54.36667	SR	13
+Theresia Fadom	5.5	-54.36667	SR	13
+Tepwine Top	3.48333	-55.25	SR	18
+Tepoe	3.16667	-55.71667	SR	18
+Tenaliet Kreek	4.8	-54.65	SR	18
+Tempati Kreek	5.38333	-54.66667	SR	18
+Temomairem	3	-55.38333	SR	18
+Temiri Rots	4.88333	-57.88333	SR	18
+Teiroeroe Eiland	5.15	-57.3	SR	18
+Tebo Kreek	4.75	-56.18333	SR	18
+Teboe Top	3.48333	-55.18333	SR	18
+Post Teboe	3.48333	-55.15	SR	18
+Tawaycoera Kreek	5.51667	-55.21667	SR	15
+Tawajariweg	5.7	-55.23333	SR	19
+Tastiki Kreek	5.75	-55.8	SR	17
+Tas Kreek	5.2	-55.06667	SR	10
+Tas Kreek	4.75	-55.55	SR	18
+Tapontekampoe	3.93333	-54.8	SR	18
+Tapoeripa Kreek	5.73333	-56.68333	SR	14
+Tapoeripa Kreek	5.35	-55.36667	SR	15
+Tapoeripa Kreek	5.06667	-54.96667	SR	18
+Tapoeripa Kanaal	5.98333	-54.75	SR	11
+Tapoeripa	5.38333	-56.56667	SR	14
+Tapoepakrikiehila	4.5	-55.76667	SR	18
+Tapoepa Kreek	4.7	-56.23333	SR	18
+Tapoepa Kreek	4.48333	-55.75	SR	18
+Tapir Kreek	4.73333	-56.38333	SR	18
+Tapaoini Kreek	2.18333	-56.46667	SR	18
+Tapanahoni Rivier	4.36667	-54.45	SR	18
+Tapaje Kreek	2.75	-55.43333	SR	18
+Tapahoekoe	5.53333	-54.03333	SR	13
+Tanjiemama Kreek	4.7	-56.21667	SR	18
+Tanjiemama Kreek	4.71667	-56.2	SR	18
+Tanami Kreek	4.6	-56.25	SR	18
+Tampoko Kreek	5.95	-55.76667	SR	17
+Tampoea Kreek	5.78333	-55.48333	SR	17
+Tamarin	5.78333	-54.38333	SR	13
+Tamaraboto Kreek	5.4	-55.91667	SR	18
+Tamanredjo	5.76667	-55	SR	11
+Tamaloe Kreek	5.03333	-54.45	SR	18
+Tamakoe Kreek	5.03333	-55.55	SR	18
+Tamakare Kreek	5.35	-56.11667	SR	18
+Talimien Soela	3	-55.4	SR	18
+Takroemettiehede Soela	4.58333	-56.2	SR	18
+Takomara Kreek	5.35	-56.73333	SR	14
+Tagatai	3	-55.38333	SR	18
+Tafra Eiland	5.26667	-55.03333	SR	10
+Tafelberg Kreek	4.08333	-56.05	SR	18
+Tafel Berg	3.91667	-56.16667	SR	18
+Tabrikiekondre	4.76667	-55.55	SR	18
+Tabrikie	4.3	-54.5	SR	18
+Lawa Tabiki	3.68008	-54.08514	SR	18
+Tabbetje Hede	4.78333	-54.46667	SR	18
+Swizzie Kreek	4.81667	-56.88333	SR	18
+Suzannasdaal	5.86667	-55.08333	SR	11
+Surnau Kreek	5.7	-55.03333	SR	11
+Suriname Rivier	5.91667	-55.16667	SR	00
+Republic of Suriname	4	-56	SR	00
+Sukica Kreek	5.83333	-54.83333	SR	11
+Suhoza	5.36667	-55	SR	15
+Suhoza	5.78774	-55.16672	SR	16
+Succes Kreek	4.6	-56.9	SR	18
+Stroko Kreek	5.16667	-55.06667	SR	10
+Ston Tabriki	4.73333	-56.28333	SR	18
+Stonpoortoe Val	3.5	-56.11667	SR	18
+Stonoekoe	4.41667	-55.76667	SR	18
+Stonmoffo Kreek	4.46667	-56.05	SR	18
+Ston Kreek	5.35	-54.63333	SR	18
+Ston Kreek	4.85	-55.55	SR	18
+Ston Kreek	4.8	-56.16667	SR	18
+Ston Kreek	4.75	-57.86667	SR	18
+Stonkoe	4.66667	-55.58333	SR	18
+Stonkampoe	5.35	-54.63333	SR	18
+Stone Kreek	5.4	-56.01667	SR	12
+Cayana Airstrip	3.89789	-55.57889	SR	18
+Stonehoekoe	3.88333	-55.58333	SR	18
+Stondansie Val	5.15	-56.48333	SR	18
+Stondansie Projekt	4.95	-56.78333	SR	18
+Stonbrokie Soela	4.5	-55.93333	SR	18
+Stonbroekoe Gebergte	4.9	-55.31667	SR	10
+Stolkersvlijt en Buys Lust	5.85	-54.98333	SR	11
+Stoepenveer	5.83333	-55.46667	SR	17
+Stoelmanseiland	4.35	-54.41667	SR	18
+Stoelmans Eiland	4.35	-54.4	SR	18
+Stoelmanseiland	4.35	-54.41667	SR	18
+Sriba Kreek	5.55	-54.23333	SR	13
+Spin	5.13333	-55.21667	SR	10
+Spieringszorg	5.96667	-54.85	SR	11
+Spieringshoek	5.86667	-54.96667	SR	11
+Span Kreek	5.06667	-56.1	SR	18
+Sonnakampoe	3.93333	-54.8	SR	18
+Sonboko Kreek	4.5	-55.38333	SR	18
+Sommelsdijk	5.83333	-54.86667	SR	11
+Solitude Kreek	5.81667	-54.68333	SR	13
+Sola	4.01667	-55.48333	SR	18
+Sofie Kreek	4.23333	-55.45	SR	18
+Soffidede	4.73333	-55.55	SR	18
+Soemanjere Soela	3.55	-54	SR	00
+Soekroewatra	4.75	-55	SR	10
+Soekibaka	4.38333	-55.78333	SR	18
+Sneki Tabbetje	4.2	-54.6	SR	18
+Smalkalden	5.61667	-55.1	SR	15
+Slootwijk	5.83333	-54.86667	SR	11
+Slootwijk	5.81667	-54.88333	SR	11
+Slee Kreek	4.26667	-55.43333	SR	18
+Slee	4.25423	-55.44353	SR	18
+Slangen Eiland	5.71667	-57.15	SR	14
+Sjatoemaripa Pratie	4.61667	-55.68333	SR	18
+Sir Walter Raleighs Vallen	2.41667	-56.91667	SR	18
+Sipo Kreek	5.33333	-56.2	SR	18
+Sipie Kreek	5.31667	-54.83333	SR	15
+Siparipabo Kreek	5.51667	-55.05	SR	15
+Siparipabo	5.78333	-54.76667	SR	11
+Sipari Kreek	5.85	-56.83333	SR	14
+Sipari Kreek	5.33333	-56.06667	SR	18
+Sipari Kreek	5.31667	-55.83333	SR	15
+Sipari Kreek	4.35	-55.4	SR	18
+Sipaliwini Savanne	2.1	-56.03333	SR	18
+Sipaliwini Rivier	2.34809	-56.86308	SR	18
+Distrikt Sipaliwini	4	-56	SR	18
+Sipaliwini	2.03333	-56.13333	SR	18
+Sint-Jozef Polder	5.9	-56.31667	SR	12
+Sint Eustatius	5.68333	-55.03333	SR	11
+Singawinti Kreek	4.71667	-56.35	SR	18
+Sindja Kreek	3.66667	-55.6	SR	18
+Simons Polder	5.66667	-55.1	SR	15
+Sikkinbatana Kreek	5.31667	-55.85	SR	18
+Sikakamp	4.75	-55	SR	10
+Sika Eiland	5	-57.43333	SR	18
+Siepie Kreek	5.41667	-55.85	SR	17
+Sidoredjo	5.85	-55.56667	SR	17
+Sidoredjo	5.9	-57	SR	14
+Sidonkroetoe Val	4.53333	-56.51667	SR	18
+Sidodadi	5.81667	-55.5	SR	17
+Sidderaal Kreek	4.76667	-54.68333	SR	18
+Sibhekoja Kreek	4.95	-57.36667	SR	18
+Sibbeoefandi Kreek	4.13333	-55.9	SR	18
+Sibakabora Kreek	4.85	-57.36667	SR	18
+Sewariweg	5.61667	-55.2	SR	15
+Sesebiase	5.16667	-54.98333	SR	10
+Semoisi	4.05	-55.45	SR	18
+Sectie Oost	5.31667	-55.26667	SR	10
+Seboewatra	4.11667	-54.63333	SR	18
+Sebiamamma	4.08333	-55.9	SR	18
+Schutsluis	5.8	-55.16667	SR	16
+Schreuder Kreek	3.28333	-54.13333	SR	18
+Schomburgks Vallen	4.18333	-58.03333	SR	18
+Schildpad Kreek	5.25	-55.13333	SR	10
+Schildpad Kreek	4.83333	-54.46667	SR	18
+Schildpad Heuvel	5.28333	-55.13333	SR	10
+Saye	4.16667	-54.55	SR	18
+Sarwa Kreek	5.41667	-54.73333	SR	15
+Sarra Kreek	4.41667	-55.78333	SR	18
+Saribo Kreek	5.71667	-54.65	SR	13
+Sara Maria	5.86667	-55.51667	SR	17
+Saramacca Rivier	5.85	-55.88333	SR	00
+Saramacca Punt	5.88333	-55.86667	SR	17
+Saramacca Projekt III	4.78333	-55.55	SR	10
+Saramacca Kreek	5.4	-55.21667	SR	15
+Saramacca Kanaal	5.80246	-55.19901	SR	00
+Distrikt Saramacca	5.66667	-55.58333	SR	17
+Sara Kreek	4.5	-54.95	SR	10
+Sara Kreek	3.83333	-54.8	SR	18
+Sarah	5.9	-56.38333	SR	12
+Sara Goudvelden Maatschappij	3.66667	-54.1	SR	18
+Sapende	5.51667	-54.66667	SR	15
+Sapatoe Kreek	5.75	-54.65	SR	13
+Saparra Kreek	5.35	-56.75	SR	14
+Santo Kreek	5.8	-55.3	SR	19
+Santo Kreek	5.78333	-55.95	SR	12
+Santo Boma Project	5.78333	-55.28333	SR	19
+Santi Tabbetje	4.16667	-54.63333	SR	18
+Santi Kreek	4.83333	-55.55	SR	18
+Santi Kreek	3.91667	-55.45	SR	18
+Santi Kasaba Eiland	5.15	-54.35	SR	18
+Santigron	5.68333	-55.35	SR	19
+Sannetje Tabbetje	5.2	-55.08333	SR	10
+Sanki Kreek	4.73333	-54.53333	SR	18
+Saniki	4.06667	-54.78333	SR	18
+Sanica Kanaal	5.76667	-56.68333	SR	14
+Sangsimasoesa	4.13333	-54.61667	SR	18
+Sangsima Soela	4.15	-54.61667	SR	18
+Saneijee	4.31667	-55.78333	SR	18
+Sandoi	4.1	-54.71667	SR	18
+Sandoe Kreek	4.85	-55.53333	SR	18
+Sandoe Kreek	4.4	-55.78333	SR	18
+Sanbendoemie	4.1	-54.68333	SR	18
+Sampi Kreek	5.86667	-54.53333	SR	13
+Sampi Kreek	5.8	-54.46667	SR	13
+Sambo Tabbetje	5.25	-54.3	SR	13
+Samargini	4.71667	-54.98333	SR	10
+Salinkondre	3.83333	-54.83333	SR	18
+Sakora Eiland	4.88333	-57.88333	SR	18
+Sakkasakkasamboe Val	3.51667	-55.05	SR	18
+Saje	4.18333	-54.56667	SR	18
+Saikoem Porievisie Soela	3.68333	-54.91667	SR	18
+Sabobi Kreek	5.51667	-54.41667	SR	13
+Sabati Kreek	4.08333	-55.45	SR	18
+Sabana	5.4	-55.91667	SR	15
+Sabakoe Kreek	5.41667	-55.2	SR	15
+Sabakoe	5.41667	-55.2	SR	15
+Sabajo Heuvels	5.03333	-54.75	SR	18
+Rufin Kreek	3.68414	-54.08857	SR	18
+Rudi Kappel	3.78333	-56.15	SR	18
+Rozen Kreek	4.8	-56.13333	SR	18
+Rosevelt Piek	3.35	-55.18333	SR	18
+Rosebel	5.08333	-55.15	SR	10
+Rorac	5.65	-55.05	SR	00
+Roche Kreek	3.66667	-54.08333	SR	18
+Robinson Eiland	5.81667	-57.11667	SR	14
+Riomau Kreek	3.63333	-55.95	SR	18
+Rijsdijkweg	5.61667	-55.23333	SR	15
+Rickey Southeast	5.85	-56.83333	SR	14
+Rickey	5.88333	-56.86667	SR	14
+Ricanau Moffo	5.68333	-54.41667	SR	13
+Ricanau Kreek	5.68333	-54.41667	SR	13
+Ricanau	5.61667	-54.36667	SR	13
+Ribanica Kreek	5.48333	-54.66667	SR	13
+Reynsdorp	5.93333	-54.9	SR	11
+Republiek	5.5	-55.2	SR	15
+Rene Soela	4.58333	-56.3	SR	18
+Reinsdorp	5.2	-55.06667	SR	10
+Rechter Pimba Kreek	3.46667	-55	SR	18
+Rechter Midden Coppename Rivier	3.91667	-56.51667	SR	18
+Rechter Kleine Commewijne	5.06667	-54.8	SR	10
+Rechter Kabalebo Rivier	4.06667	-57.5	SR	18
+Rechter Coppename Rivier	4.38333	-56.53333	SR	18
+Raven Kreek	5.11667	-55.95	SR	18
+Rama Kreek	5.31667	-55.06667	SR	10
+Rama	5.31667	-55.08333	SR	10
+Raleigh Vallen	4.71667	-56.2	SR	18
+Raleighvallen	4.71667	-56.2	SR	18
+Rainville	5.83436	-55.13769	SR	16
+Rac a Rac	5.63333	-55.05	SR	11
+Purmerend	5.88333	-55.1	SR	11
+Professor Doctor Ingenieur W.J. van Blommestein Meer	4.75	-55	SR	10
+Proeroe Soela	3.5	-55	SR	18
+Prodokaba	4.11667	-54.66667	SR	18
+Prinses Julianaweg	5.58333	-54.33333	SR	13
+Prinses Irene Val	4.96667	-55.2	SR	10
+Prins Bernhard Polder	5.88333	-56.93333	SR	14
+Pratieston Kreek	4.55	-56.1	SR	18
+Pratie Kreek	3.98333	-55.9	SR	18
+Pratiebakka	4.35	-55.8	SR	18
+Prataston Kreek	4.66667	-55.63333	SR	18
+Prassara Kondre	5.63333	-54.06667	SR	13
+Prariprafoenda	4.3	-55.81667	SR	18
+Prake Kreek	5.21667	-56.46667	SR	14
+Praipraikoenta Kreek	4.31667	-55.41667	SR	18
+Prado Kreek	4.98333	-55.01667	SR	10
+Powisie Kreek	4.33333	-54.65	SR	18
+Powies Kreek	4.7	-56.26667	SR	00
+Powies Eiland	5.45	-57.26667	SR	14
+Powakka	5.45	-55.08333	SR	15
+Potribo	5.75	-54.75	SR	11
+Potosi Bank	6	-56.48333	SR	12
+Potosi	5.9	-56.45	SR	12
+Post Leyden	5.9	-55.1	SR	11
+Postbelair	5.78333	-54.65	SR	13
+Possentrie Kreek	5.75	-54.65	SR	13
+Portorico	5.61667	-55.03333	SR	11
+Porifisi Kreek	5.93333	-55.86667	SR	17
+Pontoetoe	3.26667	-55.4	SR	18
+Pomona	5.93333	-55.13333	SR	11
+Pomoeaksi Kreek	4.2	-54.55	SR	18
+Pomielwak Kreek	2.88333	-55.38333	SR	18
+Pome Kreek	5	-56.13333	SR	18
+Pokwima Kreek	5	-57.46667	SR	18
+Pokomoffo	4.3	-54.48333	SR	18
+Pokigron	4.5	-55.36667	SR	18
+Pokigron	4.5	-55.36667	SR	18
+Poitehede Kreek	5.45	-54.56667	SR	13
+Poitehede Kreek	5.3	-54.61667	SR	18
+Poitehede	5.43333	-54.58333	SR	13
+Poitehede	5.31667	-54.61667	SR	18
+Poika Kreek	5.7	-55.36667	SR	19
+Poigron	3.9	-55.56667	SR	18
+Poewatra Kreek	4.11667	-55.9	SR	18
+Poewatra Kreek	4.03333	-55.9	SR	18
+Poewatra	4.13333	-55.9	SR	18
+Poesoegroenoe	4.36667	-55.78333	SR	18
+Poesoegroenoe	4.4	-55.8	SR	18
+Poen Soela	3.5	-55.06667	SR	18
+Poelwijk	5.78333	-54.65	SR	13
+Poulicoumarou Soula	3.33333	-54.06667	SR	00
+Poeloegoedoe Vallen	4.36667	-54.43333	SR	18
+Poeloegoedoe	4.35	-54.43333	SR	18
+Poelie Kreek	4.43333	-55.78333	SR	18
+Poeketi	4.13333	-54.61667	SR	18
+Plum Rapids	4.18333	-58.03333	SR	18
+Pleike	3.1	-54.18333	SR	18
+Pisori	3.31667	-55.45	SR	18
+Pisjang	4.95	-55	SR	10
+Pisiemoengo	5.33333	-54.8	SR	15
+Pin Kreek	5.11667	-54.98333	SR	10
+Pingo Kreek	5.83333	-56.8	SR	14
+Pindagron Prati	4.56667	-55.71667	SR	18
+Pinatjarimi	5.8	-54.41667	SR	13
+Pimba Kreek	3.53333	-54.98333	SR	18
+Pimbaholo Kreek	5.48333	-54.65	SR	15
+Pilgrimkondre	5.56667	-54.43333	SR	13
+Pilatus	5.15	-55.05	SR	10
+Pikienzohigron Soela	4.01667	-55.9	SR	18
+Pikienwatralassi	4.03333	-55.9	SR	18
+Pikienwana Kreek	4.28333	-55.43333	SR	18
+Pikienwana Kreek	4.13333	-55.9	SR	18
+Pikienwalili Kreek	4.25	-55.86667	SR	18
+Pikientabbetje Soela	3.48333	-55.13333	SR	18
+Pikien Soela	4.71667	-54.66667	SR	18
+Pikien Santi	5.78333	-54.36667	SR	13
+Pikien Rio	4.01667	-55.46667	SR	18
+Pikienpeto Kreek	4.91667	-55.56667	SR	18
+Pikien Paka-Paka Soela	4.63333	-55.68333	SR	18
+Pikienmoewerie	4.4	-55.78333	SR	18
+Pikienmedaai Kreek	4.28333	-55.83333	SR	18
+Pikienma Kreek	5.7	-54.35	SR	13
+Pikienlatambo Kreek	4.3	-55.8	SR	18
+Pikien Krapanoe Kreek	5.48333	-54.61667	SR	13
+Pikienkondre	4.11667	-54.68333	SR	18
+Pikienkondre	4.08333	-54.78333	SR	18
+Pikienkentiboffroe	4.9	-55.55	SR	18
+Pikienjaman Kreek	4.1	-55.9	SR	18
+Pikien Bofroe Kreek	5.45	-54.4	SR	13
+Pikiena Soenoebo Soela	4.56667	-55.68333	SR	18
+Pikien Anoe	5.48333	-54.61667	SR	13
+Pieterszorg	5.91667	-55.08333	SR	11
+Pieters Kreek	5.13333	-55.26667	SR	10
+Pierre Kreek	5.4	-56.3	SR	00
+Pierre Kreek	5.38333	-56.3	SR	12
+Pierre Kreek	5.36667	-56.08333	SR	12
+Phedra	5.33333	-55.05	SR	10
+Phedra	5.33333	-55.05	SR	15
+Petresoen Val	3.91667	-54.8	SR	18
+Petersburg	5.71667	-55.1	SR	11
+Peruvia Kreek	5.65	-55.98333	SR	12
+Perseverance	5.88333	-56.28333	SR	12
+Pericaweg	5.65	-55.21667	SR	15
+Perica Rivier	5.85	-54.71667	SR	13
+Perica Kreek	5.78333	-54.66667	SR	13
+Perica Kreek	5.66667	-54.45	SR	13
+Pereko Kreek	5.41667	-56.31667	SR	12
+Peprepin	5.85	-55.61667	SR	17
+Peprepasie Kreek	5.7	-54.63333	SR	13
+Peperpot	5.78333	-55.13333	SR	11
+Peper Kreek	5.6	-57.15	SR	14
+Pepejoe	3.35	-55.45	SR	18
+Penninica Kreek	5.46667	-54.65	SR	15
+Pempe	4.03333	-55.45	SR	18
+Peluli Kreek	2.58333	-55.96667	SR	18
+Pelelepatare	3.28333	-55.4	SR	18
+Peka-Beh Soela	4.63333	-55.68333	SR	18
+Pedrosoengoe Vallen	4.65	-54.41667	SR	00
+Pearl Val	3.58333	-57.71667	SR	18
+Pauwies Eiland	4.75	-57.86667	SR	18
+Pauwie	4.18333	-54.6	SR	18
+Paulus Kreek	5.75	-55.1	SR	11
+Paubasoe	4.95	-55.55	SR	18
+Patamacca Kreek	5.55	-54.43333	SR	13
+Patamacca	5.4	-54.43333	SR	13
+Patacai Kreek	2.4	-56.08333	SR	18
+Paston Soela	3.85	-54.8	SR	18
+Pasi Kreek	5.7	-54.63333	SR	13
+Parmarica Kreek	5.88333	-54.8	SR	11
+Paris Jacob Kreek	4.9	-56.96667	SR	18
+Para Rivier	5.75	-55.13333	SR	00
+Pararac Kreek	5.63333	-55.13333	SR	15
+Paranam	5.61667	-55.1	SR	15
+Parana Kreek	4.78333	-56.16667	SR	18
+Distrikt Paramaribo	5.86667	-55.16667	SR	16
+Paramaribo	5.86638	-55.16682	SR	16
+Paramacca Kreek	4.86667	-54.46667	SR	18
+Para Kreek	5.08333	-55.5	SR	10
+Parake Kreek	5.43333	-56	SR	18
+Paradise	5.91667	-56.93333	SR	14
+Paradise	5.91667	-56.93333	SR	14
+Paradijs	5.8	-54.43333	SR	13
+Distrikt Para	5.41667	-55.33333	SR	15
+Pappakappella Soela	4.66667	-55.58333	SR	18
+Papegaaimama Kreek	6	-55.63333	SR	17
+Papegaaien Eiland	5.85	-57.1	SR	14
+Papatam Kondre	5.48333	-54.06667	SR	13
+Papadron Soela	2.93333	-55.38333	SR	18
+Panwatra Kreek	5.11667	-54.98333	SR	10
+Panjokko	4.25	-55.83333	SR	18
+Panapi	2.96667	-54.18333	SR	18
+Panama Kanaal	5.76667	-55.35	SR	19
+Pampoengron Val	4.01667	-54.31667	SR	00
+Paloemeu Rivier	3.35	-55.43333	SR	18
+Palmeneribo Kreek	5.5	-55	SR	11
+Palang Tabbetje	4.5	-56.08333	SR	18
+Palaimeu Kreek	2.11667	-56.23333	SR	18
+Pa Kreek	5.31667	-56.06667	SR	12
+Pakkasiki Kreek	4.78333	-55.56667	SR	18
+Pakka-Pakka	4.63333	-55.68333	SR	18
+Pakira Tabbetje	4.76667	-54.46667	SR	18
+Pakira Kreek	5.41667	-56.05	SR	12
+Pakira Kreek	5.23333	-54.31667	SR	18
+Pakira Kreek	4.78333	-54.46667	SR	18
+Pakira Kondre	5.23333	-54.31667	SR	18
+Paka Apekepoeroe Eiland	5	-57.63333	SR	18
+Paja Kreek	4.85	-55.55	SR	18
+Pada	4.18333	-55.43333	SR	18
+Oxford	5.9	-56.41667	SR	12
+Ovilonholloi	5.51667	-54.41667	SR	13
+Overtoom	5.58333	-55.15	SR	15
+Ouroewossoe Pratie	4.5	-55.75	SR	18
+Ouroeningre Kreek	4.41667	-55.38333	SR	18
+Oude Savanna Kreek	5.4	-56.73333	SR	14
+Oude Post Kreek	5.78333	-56.73333	SR	14
+Oudemans Kreek	5.71667	-54.63333	SR	13
+Otto Savanne	5.33333	-55.11667	SR	10
+Oroprecaro Kreek	5.51667	-57.2	SR	14
+Oreman Kreek	5.53333	-56.73333	SR	14
+Orelana Kreek	5.88333	-54.96667	SR	11
+Oranje Kreek	5.86667	-54.56667	SR	13
+Oranje Gebergte	3	-55.08333	SR	18
+Oposeilangahoekoe	5.75	-54.41667	SR	13
+Oplanie	5.68333	-54.33333	SR	13
+Opak Val	2.8	-55.38333	SR	18
+Oost-West Verbinding	5.08333	-56.58333	SR	00
+Oost Rivier	3.51667	-56.46667	SR	18
+Onverwacht	5.58333	-55.18333	SR	15
+Onverdacht	5.6	-55.15	SR	15
+Onoribo	5.58333	-55.16667	SR	15
+Onobo Kreek	5.55	-54.81667	SR	11
+Onobisi Kreek	5.33333	-56.05	SR	18
+Onikaikondre	5.45	-54.1	SR	13
+Omossee Kreek	5.33333	-56.15	SR	18
+Ojodidde Kreek	5.2	-55.36667	SR	10
+Ojarikoele Kreek	3.13323	-54.20189	SR	18
+Oenkoentawa Kreek	2.61667	-55.48333	SR	18
+Oemaroe Vallen	3.65	-57.8	SR	18
+Oeman Tabriki	3.81667	-54.2	SR	18
+Oemansanti	4.16667	-55.43333	SR	18
+Ouman Kasiabra Soula	3.7	-54.08333	SR	00
+Oemankodobakoe	3.46667	-55.3	SR	18
+Oemakondre	4.93333	-55.55	SR	10
+Oelemari Rivier	3.21656	-54.15603	SR	18
+Oelemarie	3.1	-54.53333	SR	18
+Odoun	4.23333	-54.36667	SR	00
+October Kreek	5.43333	-57.25	SR	14
+Nursery	5.93333	-56.96667	SR	14
+Novar	5.88333	-56.36667	SR	12
+Nova Kreek	5.5	-56.56667	SR	14
+Noutoe Kreek	5.11667	-55.23333	SR	10
+Noutoe II	5.15	-55.23333	SR	10
+Noutoe I	5.13333	-55.21667	SR	10
+Noto Kreek	5.35	-56.36667	SR	12
+Noord Kreek	5.2	-55.31667	SR	10
+Nooitgedacht	5.85	-56.85	SR	14
+Nonaba Kreek	5.31667	-56.13333	SR	18
+Njoen Jakob Kondre	4.93333	-55.53333	SR	18
+Njoeng Jacobkondre	4.95	-55.55	SR	18
+Njoeboeroe Kreek	5.56667	-54.43333	SR	13
+Njam Kreek	3.48333	-54	SR	18
+Nioe Kreek	4.05	-55.9	SR	18
+Ningripeprekondre	5.48333	-54.63333	SR	00
+Ningre Kreek	4.51667	-56.1	SR	18
+Nikiti Kreek	4.88333	-56.11667	SR	18
+Nikie	4.28333	-54.48333	SR	18
+Nieuw Zorg	5.81667	-54.93333	SR	11
+Nieuw Star Kreek	5	-54.98333	SR	10
+Nieuw Star Eiland	5	-54.98333	SR	10
+Poldergebied Nieuw Nickerie	5.9	-57	SR	14
+Nieuw Nickerie	5.95	-56.98333	SR	14
+Nieuw Mocha	5.9	-54.85	SR	11
+Nieuw Meerzorg	5.91667	-54.91667	SR	11
+Nieuw Lombe	5.08333	-55.06667	SR	10
+Nieuw Grond	5.85	-54.95	SR	11
+Nieuw Foto Kreek	5.15	-55.25	SR	10
+Nieuwe Rust	5.58333	-55.03333	SR	11
+Nickerie Rivier	5.98333	-57	SR	00
+Nickerie Punt	6	-57	SR	14
+Distrikt Nickerie	5.66667	-56.83333	SR	14
+Neukoepeu Kreek	2.86667	-55.36667	SR	18
+Netie Kreek	5.18333	-56.15	SR	18
+Nekoe Kreek	4.75	-56.36667	SR	18
+Negro Kreek	4.48333	-56.28333	SR	18
+Negro Kreek	4.4	-56.26667	SR	18
+Leiding Negentien a	5.81667	-55.28333	SR	19
+Leiding Negentien	5.81667	-55.3	SR	19
+Leiding Negen	5.83333	-55.26667	SR	19
+Nassau Vallen	3.85	-54.53333	SR	18
+Nassau Gebergte	4.8	-54.6	SR	18
+Nason	4.83333	-54.46667	SR	18
+Nason	4.81667	-54.48333	SR	18
+Nanno Soela	4.66667	-56.26667	SR	18
+Nanni Sluis	5.88333	-57.06667	SR	14
+Nanni Polder	5.88333	-57.05	SR	14
+Nanni Meer	5.4	-57.01667	SR	14
+Nanni Kreek	5.88333	-57.08333	SR	14
+Mungo	5.61667	-54.4	SR	13
+Mozes Kreek	4.95	-56.81667	SR	18
+Moy	5.88333	-56.28333	SR	12
+Mottossie Kreek	5.63333	-55.4	SR	10
+Mot Kreek	5.98333	-54.71667	SR	00
+Morokko Soela	4.5	-56.1	SR	18
+Morico Kreek	5.76667	-54.76667	SR	11
+Morgenstond	5.85594	-55.12742	SR	16
+Moppe Kreek	3.3	-54.06667	SR	18
+Mope Kreek	5.8	-56.75	SR	14
+Mope Kreek	5.26667	-56.08333	SR	18
+Mooi Wane Kreek	5.61667	-54.15	SR	13
+Mooitakie	4.13333	-54.65	SR	18
+Mooi Liba Kampoe	5.45	-54.4	SR	13
+Mon Tresor	5.85	-55.01667	SR	11
+Mon Souci	5.88333	-54.98333	SR	11
+Mon Plaisirweg	5.73333	-55.2	SR	19
+Mon Plaisir	5.84352	-55.1259	SR	16
+Monni Kreek	4.56667	-55.25	SR	10
+Monki Kreek	4.71667	-56.33333	SR	18
+Moni Kreek	4.56667	-55.23333	SR	10
+Mongotapoe	5.58333	-54.25	SR	13
+Mongohliba	4.55	-55.7	SR	18
+Mon Affaire	5.81667	-54.98333	SR	11
+Mompoesoe Tabbetje	4.18333	-54.56667	SR	18
+Mompoesoe	4.2	-54.53333	SR	18
+Mokkum	5.86667	-55.68333	SR	12
+Mokko Kreek	4.55	-56.11667	SR	18
+Moisimoisikondre	5.36667	-54.66667	SR	18
+Mofina	4.66667	-55.56667	SR	18
+Moetoetoetabriki	4.83333	-55.56667	SR	18
+Moetoetoe Soela	4.81667	-55.55	SR	18
+Moesoengoe Prati	4.66667	-55.63333	SR	18
+Moeroemoeroe Kreek	5.16667	-55.4	SR	10
+Moeroe Kreek	5.38333	-55.4	SR	15
+Moerbane Kreek	5.68333	-54.01667	SR	13
+Moenjamwojo Kreek	4.28333	-55.81667	SR	18
+Moengo	5.61667	-54.4	SR	13
+Moengo Airstrip	5.6	-54.4	SR	13
+Moelakondre	5.56667	-54.43333	SR	13
+Moelai Val	3.86667	-55.45	SR	18
+Moederzorg	5.25	-55.05	SR	10
+Moed en Kommer	5.98333	-54.9	SR	11
+Mochaweg	5.65	-55.21667	SR	15
+Misjeddihila	4.06667	-55.9	SR	18
+Misalibiekondre	4.95	-55.55	SR	18
+Mira Kreek	5.8	-55.75	SR	17
+Mira Kreek	5.35	-56.01667	SR	18
+Mimimoffo Soela	4.13333	-54.61667	SR	18
+Mimie Kreek	5.05	-56.73333	SR	18
+Milhado Kreek	5.85	-56.83333	SR	14
+Mijnzorgweg	5.71667	-55.23333	SR	19
+Mijn Geluk	5.8	-54.98333	SR	11
+Miendrienetie Kreek	5.23333	-55.36667	SR	10
+Mido Kreek	5.8	-54.4	SR	13
+Middenstandspolder	5.85	-56.78333	SR	14
+Middenpad van Kwatta	5.83333	-57.25	SR	00
+Midden Coppename Rivier	4.21667	-56.6	SR	18
+Michelbaka Top	3.76667	-54.13333	SR	18
+Meursweg	5.61667	-55.18333	SR	15
+Meti Kreek	5.31667	-55.2	SR	10
+Messias Kreek	5.23333	-55.1	SR	10
+Merveille	5.71667	-55.03333	SR	11
+Merian Kreek	5.1	-54.41667	SR	18
+Mennega Soela	4.56667	-56.3	SR	18
+Meli Kreek	4.51667	-55.31667	SR	18
+Hoek van Meerzorg	5.81667	-55.15	SR	11
+Meerzorg	5.81194	-55.1521	SR	11
+Meerzorg	5.96667	-54.81667	SR	11
+Medaai Kreek	4.28333	-55.83333	SR	18
+Mazaroni Top	4.93333	-55.21667	SR	10
+Mazaroni Kreek	5	-55.23333	SR	10
+Mawassie Kreek	5.15	-54.98333	SR	10
+Mawaribo Kreek	5.78333	-54.46667	SR	13
+Mauritie Soela	4.03333	-54.5	SR	18
+Mauritie Kreek	5.56667	-54.46667	SR	13
+Mauritie Kreek	5.33333	-56.25	SR	18
+Maurita Kreek	5.96667	-56.58333	SR	14
+Mauricius Val	3	-55.86667	SR	18
+Mauricia Kreek	5.83333	-54.86667	SR	11
+Mattaway Kreek	5.01667	-55.7	SR	18
+Mattawaribo	5.53333	-55.16667	SR	15
+Matta	5.46667	-55.35	SR	15
+Matia's Kreek	5	-56.13333	SR	18
+Matappi Kreek	5	-57.28333	SR	18
+Matappica Kreek	5.93333	-54.86667	SR	11
+Matappica Kanaal	6	-54.86667	SR	11
+Matappi	5	-57.28333	SR	18
+Massa-Krabasie Soela	4.15	-54.6	SR	18
+Mason Kondre	5.56667	-54.41667	SR	13
+Masonia Kreek	5.06667	-56.51667	SR	18
+Masirekorre Kreek	4.96667	-57.35	SR	18
+Mary's Hope	5.88333	-56.3	SR	12
+Marwatie Eiland	5	-57.56667	SR	18
+Martin Kreek	5.55	-54.65	SR	15
+Martin Heuvel	5.03333	-54.66667	SR	18
+Martampoka Kreek	5.55	-54.66667	SR	00
+Marowijne Kreek	5.33333	-54.63333	SR	15
+Marowijne Kreek	4.43333	-55.13333	SR	10
+Distrikt Marowijne	5.58333	-54.33333	SR	13
+Maroe Kreek	4.98333	-57.71667	SR	18
+Maripaston Kreek	5.31667	-55.36667	SR	15
+Maripa Soela	3.46667	-55.33333	SR	18
+Maripa Soula	3.63333	-54.03333	SR	00
+Maripaondre	4.96667	-55	SR	10
+Maripa Kreek	4.75	-56.36667	SR	18
+Maripa Kreek	4.58333	-56.16667	SR	18
+Mari Mari	4.65	-57.85	SR	18
+Marienburg	5.84691	-55.02159	SR	11
+Marien Bosch	5.88333	-55.01667	SR	11
+Marias Lust	5.66667	-55.38333	SR	17
+Marias Lust	5.95	-54.81667	SR	11
+Mariashoop	5.3	-54.23333	SR	13
+Maria Petronella	5.93333	-54.93333	SR	11
+Margarethenburg	5.93333	-57	SR	14
+Ma Retraite	5.86667	-55.13333	SR	16
+Ma Retraite	5.78333	-55	SR	11
+Marechalskriki	4.14269	-55.43272	SR	18
+Marechals Kreek	5.28333	-55.08333	SR	10
+Marechals Kreek	4.13333	-55.45	SR	18
+Marechalskondre	5.26667	-55.08333	SR	10
+Maratakka Rivier	5.76667	-56.68333	SR	14
+Maratakka Kreek	5.55	-56.71667	SR	14
+Mapiawari Kreek	5.33333	-56.5	SR	18
+Mapaoni Kreek	3.15	-54.21667	SR	18
+Mapane Kreek	5.46667	-54.68333	SR	15
+Mao Tapoe	5.13333	-55.05	SR	10
+Manting Kreek	4.85	-56.11667	SR	18
+Mansoenja Kreek	4.7	-56.25	SR	18
+Mansi	4.13333	-54.66667	SR	18
+Mansanti	4.16667	-55.41667	SR	18
+Manpekepeka Soela	4.46667	-56.06667	SR	18
+Manoenaoepeka Soela	4.76667	-55.56667	SR	18
+Man Nason Soela	4.73333	-54.51667	SR	18
+Manlobi Gebergte	4.23333	-54.5	SR	18
+Manlobi	4.26667	-54.53333	SR	18
+Mankassiaba Soula	3.66667	-54.06667	SR	00
+Mankodobakoe	3.46667	-55.33333	SR	18
+Manjaboomkondre	5.48333	-54.06667	SR	13
+Manillakondre	5.15	-54.36667	SR	18
+Manilie Kreek	5.41667	-56.53333	SR	00
+Manigoeni Kreek	2.08333	-56.31667	SR	18
+Mangroemotto Kreek	5.58333	-54.7	SR	15
+Mangowasi Versnelling	4.48333	-55.75	SR	18
+Mangandafoetoe Soela	3.48333	-55.2	SR	18
+Man Fou Come Soula	3.28333	-54.06667	SR	00
+Manchester	5.88333	-56.9	SR	14
+Manbasihoso Kreek	4.96667	-55.55	SR	18
+Manakao Kreek	4.93333	-56.1	SR	18
+Mamma Kreek	4.81667	-55.55	SR	18
+Mamanari Kleek	5.06667	-55.2	SR	10
+Mamanapi Kreek	5.11667	-55.25	SR	10
+Mamamamba Kreek	4.93333	-55.55	SR	18
+Mama Kreek	5.15	-55.06667	SR	10
+Mamakau Soela	3.83333	-54.83333	SR	18
+Mamakakka Kreek	5.51667	-57.21667	SR	14
+Mamadafi Kreek	3.78333	-54.86667	SR	18
+Malrosee-Kondre	4.41667	-55.38333	SR	18
+Malobbi	4.17599	-55.42954	SR	18
+Malawini Kreek	2.65	-57.01667	SR	18
+Malasie Kreek	5.36667	-55.15	SR	00
+Malaitawa	3.13333	-54.21667	SR	18
+Makwasa Soela	3.9	-55.43333	SR	18
+Maksita Kreek	4.91667	-56.11667	SR	18
+Makroetoe Kreek	2.8	-55.36667	SR	18
+Ma Kreek	5.3	-56.03333	SR	18
+Makoekoemakoekoe Soela	3.91667	-54.55	SR	18
+Makkakriki	5.23333	-55.36667	SR	15
+Makka Kreek	5.75	-55.68333	SR	17
+Makka Kreek	5.36667	-55.83333	SR	15
+Makka Kreek	5.23333	-55.36667	SR	15
+Makilikakroe Eiland	5.38333	-57.26667	SR	18
+Makilikabroe Kreek	5.43333	-57.25	SR	14
+Makampe	2.83333	-55.38333	SR	18
+Makami Kreek	4.73333	-56.36667	SR	18
+Makami	4.91667	-55.08333	SR	10
+Makajapingo Soela	4.73333	-55.55	SR	18
+Makajapingo	4.71667	-55.56667	SR	18
+Majoli Twee	2.65	-55.46667	SR	18
+Majeti Kreek	5.45	-54.58333	SR	13
+Maipoeri Eiland	4.96667	-57.75	SR	18
+Maikaboeka Kreek	5.1	-55.3	SR	10
+Mahelena Kreek	4.71667	-55.55	SR	18
+Magneet Rots	3.46667	-55.26667	SR	18
+Magdatien	3.76667	-54.11667	SR	00
+Mafoengoe Prati	4.53333	-55.71667	SR	18
+Machirchinroro Kreek	5.45	-57.25	SR	14
+MacClemen Eiland	5.6	-57.16667	SR	14
+Mabo Kreek	5.71667	-55.36667	SR	17
+Mabo Kreek	5.56667	-54.68333	SR	11
+Mabo Kreek	4.26667	-55.43333	SR	18
+Maboga Val	3.46667	-55.38333	SR	18
+Maboga	3.48333	-55.33333	SR	18
+Mabo Een	5.73333	-55.38333	SR	17
+Mabo B	5.71667	-55.36667	SR	17
+Mabiabakka	4.68333	-55.58333	SR	18
+Maasstroom	5.93333	-55.06667	SR	11
+Maagdenburg	5.71667	-55.03333	SR	11
+Maabo Heuvel	5.23333	-55.35	SR	10
+Luitenant Weyneweg	5.5	-54.16667	SR	13
+Lucie Rivier	3.58394	-57.67302	SR	18
+Lucas Kreek	5.18333	-55.16667	SR	10
+Lottotau Kreek	5.36667	-56.08333	SR	18
+Loth Vallen	3.1	-55.83333	SR	18
+Longmay	5.91667	-56.93333	SR	14
+Londonderry	5.86667	-55.65	SR	17
+Lombok Val	4.86667	-56.86667	SR	18
+Lombe	4.83333	-55.08333	SR	10
+Lombe	4.36667	-55.78333	SR	18
+Loksiehatti Kreek	5.15	-55.46667	SR	15
+Loksie Hatti	5.15	-55.46667	SR	15
+Lokotiri Kreek	4.4	-55.36667	SR	18
+Logoston Kreek	5.11667	-55.5	SR	15
+Logoston	5.11667	-55.51667	SR	15
+Logologe Kreek	4.58333	-55.7	SR	18
+Loewifoenda	4.18333	-55.88333	SR	18
+Loe Kreek	3.06667	-54.18333	SR	18
+Loeitoeloe Soela	2.8	-55.36667	SR	18
+Lobles Heuvel	5.18333	-55.33333	SR	10
+Loabie	4.11667	-54.66667	SR	18
+Livornoweg	5.75	-55.18333	SR	19
+Livorno	5.78048	-55.18108	SR	16
+Litani Rivier	3.3	-54.1	SR	00
+Linker Pimba Kreek	3.46667	-55	SR	18
+Linker Midden Coppename Rivier	3.91667	-56.51667	SR	18
+Linker Kleine Commewijne	5.06667	-54.81667	SR	00
+Linker Kabalebo Rivier	4.06667	-57.5	SR	18
+Linker Coppename Rivier	4.4	-56.53333	SR	18
+Limbowatra Adjabo Kreek	4.86667	-55.55	SR	18
+Libanonweg	5.66667	-55.23333	SR	18
+Leopold Kreek	5.55	-55.55	SR	17
+Hoek Leonsberg	5.86667	-55.1	SR	16
+Leonsberg	5.88333	-55.11667	SR	16
+Lemtji Tabbetje	4.7	-56.21667	SR	18
+Lemmiki	4.91667	-55.56667	SR	18
+Lemmetjeboom Tabbetje	5.36667	-54.16667	SR	13
+Lely Gebergte	4.41667	-54.65	SR	18
+Lelydorpweg	5.68333	-55.21667	SR	19
+Lelydorpplan	5.61667	-55.2	SR	15
+Lelydorp	5.7	-55.23333	SR	19
+Leliendaal	5.86667	-55.03333	SR	11
+Leidens Hoop	5.98333	-54.85	SR	11
+Leguanen Kreek	4.91667	-56.95	SR	18
+Legoeama Tabbetje	4.65	-56.26667	SR	18
+Lee Kreek	5.6	-54.25	SR	13
+Leasowes	5.91667	-56.38333	SR	12
+Lawa	4.36667	-54.43333	SR	00
+Lawa Mofou Tabiki	3.45	-54.01667	SR	00
+Lawakau Soela	3.76667	-55.5	SR	18
+Lawaai Kreek	4.06667	-55.9	SR	18
+La Tour	5.79214	-55.18519	SR	16
+La Simplicite	5.56667	-55.06667	SR	15
+La Ressource	5.91667	-55.1	SR	11
+La Rencontre	5.7	-55.06667	SR	11
+La Providence	5.28333	-55.05	SR	10
+La Prevoyance	5.86667	-55.55	SR	17
+La Poule	5.78333	-55.41667	SR	17
+Lape Tabriki	3.83333	-54.2	SR	18
+Lantiwei	5.8	-54.41667	SR	13
+Lankoelassi	5.01667	-55.56667	SR	18
+Lange Eiland	5.73333	-57.16667	SR	14
+Soula Langa Teti	3.88333	-54.25	SR	00
+Langatabbetje	5	-54.51667	SR	18
+Langa Tabbetje	5.01667	-54.45	SR	18
+Langatabbetje	5	-54.45	SR	18
+Langa Soela	4.68333	-56.46667	SR	18
+Langa Soela	2.83333	-55.36667	SR	18
+Langa Soela	4.68333	-56.46667	SR	18
+Langasanti	4.35	-55.8	SR	18
+Langapira Kreek	4.31667	-55.41667	SR	18
+Langamankondre	5.71667	-54.01667	SR	13
+Langa Hoekoe	5.76667	-54.4	SR	13
+Langagotro	5.76667	-54.65	SR	13
+Landsboerderij	5.81667	-55.21667	SR	16
+Lana Kreek	5.45	-57.25	SR	14
+La Liberte	5.76667	-55.11667	SR	11
+Lafel Kreek	5.5	-56.7	SR	14
+Laduani	4.37431	-55.40139	SR	18
+Laduani Airstrip	4.37688	-55.4047	SR	18
+Lada Vallen	2.9	-55.86667	SR	18
+Stroomversnelling Laboesakasian	4.18333	-55.43333	SR	18
+Labba Vallen	4.15	-58.05	SR	18
+Laarwijk	5.71667	-55.06667	SR	11
+Kwintikriki Soela	4.95	-56.11667	SR	18
+Kwinti Kreek	4.95	-56.11667	SR	18
+Kwikwi Kreek	5.61667	-57.13333	SR	14
+Kweriman Kreek	5.85	-54.08333	SR	13
+Kweriman Eiland	5.76667	-57.16667	SR	14
+Kweriman Bank	5.88333	-54.08333	SR	13
+Kwepo Kreek	2.51667	-55.55	SR	18
+Kwepipan Kreek	3.33333	-55.43333	SR	18
+Kwebie Kreek	4.41667	-55.38333	SR	18
+Kwattahede	4.81667	-55.55	SR	18
+Kwassikwassi Kreek	4.13333	-55.45	SR	18
+Kwarts Kreek	3.3	-54.11667	SR	18
+Kwartier Kreek	4.2348	-55.44165	SR	18
+Kwari Kreek	5.13333	-56.08333	SR	18
+Kwansa Kreek	5.46667	-56.73333	SR	14
+Kwan Kreek	4.5	-55.36667	SR	18
+Kwamalasoemoetoe	2.31667	-56.85	SR	18
+Kwamalasamutu	2.33333	-56.78333	SR	18
+Kwama Kreek	5.53333	-55.95	SR	12
+Kwama Kreek	5.35	-56.06667	SR	18
+Kwama Kreek	4.83333	-56.11667	SR	18
+Kwakoegron	5.25	-55.33333	SR	10
+Kwakakka Kreek	4.66667	-55.61667	SR	18
+Kwadjoeonroemoejeh Kreek	4.55	-55.71667	SR	18
+Kwaaikaka Kreek	4.31667	-55.8	SR	18
+Kronenburg	5.88333	-55	SR	11
+Krombie Kreek	5.31667	-55.35	SR	15
+Kroetoe Kreek	4.91667	-56.91667	SR	18
+Kroetoe Berg	4.45	-56.4	SR	18
+Kroebabo Kreek	5.76667	-54.75	SR	11
+Krobia Kreek	5.7	-55.35	SR	17
+Krikie	4.95	-55	SR	10
+Kremattasanti	4.55	-56.1	SR	18
+Kreeft Kreek	5.16667	-55.2	SR	10
+Kreeft	5.13333	-55.2	SR	10
+Krawaai Kreek	5.26667	-56.05	SR	18
+Kras Kreek	5.81667	-56.76667	SR	14
+Kras Kreek	5.26667	-55.35	SR	10
+Krappa Kreek	5.78333	-55.7	SR	17
+Krapanoe Kreek	5.46667	-54.61667	SR	13
+Kralon Kreek	5.55	-54.65	SR	15
+Kraka	5.36667	-55.1	SR	15
+Kraboedoin Gebergte	4.95	-55.33333	SR	10
+Krabbe Eiland	5.58333	-57.16667	SR	14
+Kouroewatra Kreek	5.15	-55.01667	SR	10
+Kouman Kreek	5.61667	-55.36667	SR	15
+Kotilolo Soela	3.86667	-54.53333	SR	18
+Koti Kreek	4.75	-56.2	SR	18
+Kortoefoetoe Soela	3.48333	-55.18333	SR	18
+Kortenduur Kreek	5.76667	-54.65	SR	13
+Koroeboeba Soela	3.91667	-54.26667	SR	18
+Korikori Kreek	5.98333	-56.75	SR	14
+Korikori Bank	5.98333	-56.9	SR	14
+Kaap Korikori	6	-56.95	SR	14
+Kordansanti Eiland	4.5	-55.35	SR	18
+Koprokampoe Kreek	5.7	-55.61667	SR	17
+Kopi Ondroo	5.35	-54.68333	SR	15
+Koopmans Kreek	5.81667	-54.48333	SR	13
+Koontikitabriki Soela	3.96667	-54.31667	SR	18
+Kontina	3.38333	-55.41667	SR	18
+Konotopata Icholi	2.91667	-54.18333	SR	00
+Koni Kreek	5.03333	-56.11667	SR	18
+Kongohdia	4.51667	-55.73333	SR	18
+Kondre	5.56667	-54.35	SR	13
+Komoprati	3.76667	-55.51667	SR	18
+Kommabakoeba Kreek	4.48333	-55.38333	SR	18
+Kominiko Kreek	3.7	-55.55	SR	18
+Koffie Tabbetje	4.55	-56.11667	SR	18
+Koffiemakka Kreek	5.76667	-56.6	SR	12
+Koffie Kreek	5.11667	-56.51667	SR	18
+Koffie Kreek	4.06667	-55.46667	SR	18
+Koffie Kreek	4.03333	-55.9	SR	18
+Koffiekamp	4.96667	-55	SR	10
+Stroomversnelling Koffiedjompo	4.28333	-55.43333	SR	18
+Koewarasan	5.78333	-55.31667	SR	19
+Koetji Kreek	5.41667	-55.88333	SR	17
+Koesikamba Val	4.51667	-55.31667	SR	18
+Koertana Kreek	5.91667	-55.16667	SR	16
+Koerlana Kreek	5.91667	-55.16667	SR	16
+Koentaka Kreek	4.45	-55.33333	SR	18
+Koenaihede Soela	4	-54.81667	SR	00
+Koemboe Kreek	5.78333	-55.48333	SR	17
+Koemboe Kreek	5.75	-54.41667	SR	13
+Koemboe Kreek	5.4	-55.9	SR	17
+Koemboe Kreek	4.95	-55.21667	SR	10
+Koemboe	4.13333	-55.45	SR	18
+Koemba Val	3.86667	-55.45	SR	18
+Koemata Kreek	2.58333	-55.48333	SR	18
+Koemaroe Soela	3.51667	-55.01667	SR	18
+Koemaroe Kreek	4.73333	-56.3	SR	18
+Koemaroekondre	3.36667	-55.46667	SR	18
+Koeli Kreek	4.76667	-56.2	SR	18
+Koekwi Kreek	5.51667	-57.18333	SR	14
+Koekri Eiland	5.13333	-57.3	SR	18
+Koeini Kreek	2.15	-56.36667	SR	18
+Koe en Kalf Eiland	5.33333	-56.05	SR	18
+Kodjo Kreek	5.23333	-55.06667	SR	10
+Kodie Kreek	4.61667	-56.28333	SR	18
+Kodebakoe Soela	3.48333	-55.33333	SR	18
+Kodebakoe Soela	2.98333	-55.38333	SR	18
+Knopaiamoi	2.46667	-54.5	SR	18
+Klokondre Val	4.23333	-54.55	SR	18
+Klokondre	4.23333	-54.55	SR	18
+Klip Kreek	5.15	-55.06667	SR	10
+Klein Saramacca Projekt	4.7	-55.38333	SR	00
+Klein Poika	5.7	-55.35	SR	19
+Klein Parwabo Kreek	4.25	-55.45	SR	18
+Kleine Wanica Kreek	5.81667	-55.3	SR	19
+Kleine Ston Kreek	5.51667	-55.88333	SR	17
+Kleine Simons Kreek	5.35	-54.98333	SR	00
+Kleine Saramacca Rivier	4.96667	-55.55	SR	18
+Kleine Mooisoso Kreek	5.08333	-55.51667	SR	15
+Kleine Maritie Kreek	5.48333	-55.4	SR	15
+Kleine Makka Kreek	5.46667	-55.41667	SR	17
+Kleine Maboegoesoe Kreek	5.28333	-55.33333	SR	10
+Kleine Louis Kreek	5.13333	-55.25	SR	10
+Kleine Lokus Kreek	5.73333	-56.68333	SR	14
+Kleine Locus Kreek	5.7	-54.6	SR	13
+Kleine Hendrik Top	4.18333	-56.16667	SR	18
+Kleine Borfelt Kreek	5.76667	-55.68333	SR	17
+Klein Commewijne Rivier	5.38333	-54.66667	SR	00
+Klein Chatillon	5.65	-55.05	SR	11
+Klein Baviaan Eiland	5.53333	-57.2	SR	14
+Klaverblad	5.66667	-55.05	SR	11
+Klaiber Heuvel	5.16667	-55.33333	SR	10
+Klaas Kreek	5.2	-55.08333	SR	10
+Kitti Kreek	4.1	-55.45	SR	18
+Kissi Kreek	3.93333	-55.45	SR	18
+Kisai	4.11667	-54.7	SR	18
+Kirikage Eiland	5.31667	-57.3	SR	14
+King George Vallen	3.45	-57.63333	SR	18
+Kikoman Kreek	5.23333	-55.11667	SR	10
+Kifoendoemakka Kreek	5.45	-54.38333	SR	13
+Ketti-Ketti	5.2	-55.4	SR	15
+Ketre Val	4.41667	-54.43333	SR	18
+Kentoetow Val	3.48333	-55.25	SR	18
+Kentiboffroe Soela	4.9	-55.56667	SR	18
+Kent	5.83333	-55.86667	SR	17
+Keniman Kreek	4.71667	-56.43333	SR	18
+Kaywanda Kreek	5.36667	-56.35	SR	12
+Kayser Gebergte	3.05	-56.58333	SR	18
+Kayserberg	3.1	-56.46667	SR	18
+Kawai Kreek	5.33333	-56.08333	SR	18
+Kauw Soela	3.85	-54.81667	SR	18
+Kauri Kreek	5.15	-57.18333	SR	18
+Katwijk	5.86667	-55	SR	11
+Kat Kreek	5.76667	-55.83333	SR	17
+Kassa Kreek	5.11667	-55.46667	SR	10
+Kassa Kreek	4.51667	-55.33333	SR	18
+Kassa Kreek	4.45	-55.76667	SR	18
+Kasi Kreek	5.33333	-55.83333	SR	15
+Kasikasima Top	2.98333	-55.41667	SR	18
+Kasibajeba Soela	3.93333	-54.55	SR	18
+Kasaba Holo Kreek	5.8056	-55.21566	SR	19
+Karmoekel Eiland	4.7	-57.85	SR	18
+Karmel	4.18333	-54.71667	SR	18
+Karibitawakki Kreek	4.16667	-55.9	SR	19
+Karapana Kreek	5.65	-56.56667	SR	14
+Karapahatpeu Soela	3.06667	-55.43333	SR	18
+Kappel Savanne	3.8	-56.13333	SR	18
+Kapoesanti	4.46667	-56.06667	SR	18
+Kapoeri Kreek	5.26667	-57.21667	SR	18
+Kapoea Tabbetje	4.76667	-54.46667	SR	18
+Kapoea Tabbetje	4.61667	-56.25	SR	18
+Kapoea Soela	3.13333	-55.73333	SR	18
+Kapoea Kreek	5.15	-55.41667	SR	10
+Kapasie Kreek	4.78333	-54.9	SR	10
+Kapasie Kree	4.88333	-55.08333	SR	10
+Kankantrie Val	4.06667	-56.68333	SR	18
+Kankantrie Soela	3.96667	-54.61667	SR	18
+Kankantrie Kreek	5.7	-56.66667	SR	14
+Kankantrie Kreek	5.5	-55.9	SR	17
+Kankantrie Kreek	5.33333	-56.4	SR	18
+Kankantrie Kreek	5.01667	-54.95	SR	10
+Kankan Kreek	5.3	-55.85	SR	15
+Kananamanoe Kreek	2.1	-56.36667	SR	18
+Kamp Kreek	5.46667	-54.66667	SR	15
+Kammi Kreek	4.7	-55.56667	SR	18
+Kameelbrug	5.81667	-55.28333	SR	19
+Kambawaai Kreek	3.61667	-55.68333	SR	18
+Kamani Kreek	2.58541	-57.00356	SR	18
+Kamaloea Pratie	4.61667	-55.68333	SR	18
+Kamaloea	4.20613	-55.43495	SR	18
+Kamalasoela	3.41667	-54.03333	SR	18
+Kaloegado	4.11667	-54.41667	SR	18
+Kali Kreek	4.51667	-55.33333	SR	18
+Kalfoekondre	5.11667	-54.38333	SR	18
+Kale Rots	5.38333	-54.45	SR	13
+Kalebas Kreek	5.8	-57.11667	SR	14
+Kalebas Kreek	5.75	-56.6	SR	14
+Kalebas Kreek	5.68333	-55.9	SR	17
+Kalebas Kreek	5.66667	-55.88333	SR	17
+Kakoporikansien Kreek	4.66667	-55.65	SR	18
+Kakatere Kreek	5.13333	-55.1	SR	10
+Kakalakaeaire Kreek	5.4	-54.93333	SR	15
+Kadjoe	4.91667	-55.06667	SR	10
+Kabo Kreek	5.41667	-55.8	SR	17
+Kabo Kreek	5.13333	-57.25	SR	18
+Kabelpont	5.83333	-55.45	SR	17
+Kabana Kreek	4.86667	-55.56667	SR	18
+Kabalebo Rivier	5.03333	-57.35	SR	18
+Kabalebo Projekt	4.75	-57.5	SR	18
+Kabalebo	4.41667	-57.21667	SR	18
+Kaaimanston	5.1	-56.08333	SR	18
+Kaaimans Hoofd	5.81667	-54	SR	13
+Kaaimanpolder	5.86667	-56.66667	SR	14
+Kaaiman Kreek	5.65	-55.56667	SR	17
+Kaaiman Kreek	5.31667	-54.83333	SR	15
+Kaaiman Kreek	3.53333	-54.28333	SR	18
+Juliana Top	3.68333	-56.53333	SR	18
+Juda Eiland	4.18798	-55.43444	SR	18
+Jubilanaval Kreek	4.95	-54.85	SR	10
+Jorka Kreek	5.3	-54.23333	SR	13
+Jorkagotro	5.5	-54.66667	SR	15
+Jonkermans Kreek	5.95	-55.13333	SR	11
+John Bantaskine	5.9	-56.35	SR	12
+Johannesburg	5.9	-55.05	SR	11
+Johannesburg	5.93333	-55.06667	SR	11
+Johanna Maria	5.9	-56.36667	SR	12
+Johanna-Margaretha	5.9	-55.05	SR	11
+Johan Kreek	5.71667	-55.36667	SR	17
+Joernembo Kreek	5	-57.6	SR	18
+Jodensavanne	5.41667	-54.98333	SR	15
+Jeremia Kreek	5.16667	-55.2	SR	10
+Jenny	5.76667	-55.9	SR	12
+Jenjee Kreek	4.3	-55.41667	SR	18
+Jemongo Val	4.36667	-55.4	SR	18
+Jean Kampoe Kreek	5.6	-55.58333	SR	17
+Javaweg	5.68333	-55.26667	SR	00
+Java	5.4	-54.66667	SR	15
+Jausie	4.13333	-54.63333	SR	18
+Jau Kreek	3.91667	-54.3	SR	18
+Jau-Jau Val	4.43333	-55.36667	SR	18
+Jasie Kreek	5.85	-55.53333	SR	17
+Jarikaba Kreek	5.78333	-55.36667	SR	17
+Jap Val	3.86667	-55.45	SR	18
+Janspie Kreek	5.75	-54.63333	SR	13
+Janora Kreek	5.48333	-55.6	SR	17
+Janoehamakka	4.75	-55.55	SR	18
+Jankakabasi Soela	4.53333	-55.71667	SR	18
+Janemale	3.21667	-54.16667	SR	18
+Jan Dempsie Kreek	5.7	-54.63333	SR	13
+Jandee Kreek	5.13333	-55.06667	SR	10
+Jandee Kreek	4.98333	-55.05	SR	10
+Janbasigado Soela	4.65	-55.66667	SR	18
+Janbasigado	4.7	-55.65	SR	18
+Janbasigado	4.68333	-55.63333	SR	18
+James Kreek	5.85	-55.48333	SR	17
+Jaman	4.1	-55.9	SR	18
+Jamaer Kanaal	5.93333	-56.93333	SR	14
+Diakoutokou Icholi	3.25	-54.15	SR	00
+Jakki Kreek	5.8	-55.48333	SR	17
+Jakkie Kreek	5.33333	-55.03333	SR	10
+Jaimeskondre	5.35	-54.16667	SR	13
+Jai Kreek	5.63333	-54.28333	SR	13
+Jai Kreek	3.96667	-54.81667	SR	18
+Jagtlust Bank	5.83333	-55.11667	SR	11
+Jagtlust	5.81658	-55.10236	SR	11
+Jaco Kreek	5.36667	-54.63333	SR	18
+Jacobkondre	4.95	-55.53333	SR	18
+Jaba Kreek	4.76667	-56.16667	SR	18
+Itabo Kreek	5.01667	-57.31667	SR	18
+Irakoekoe Kreek	5.4	-55	SR	15
+Iokepi Tabriki	3.56667	-54	SR	18
+Inverness	5.86667	-56.25	SR	12
+Intelwakondre	3.36667	-55.41667	SR	18
+Ingitoetoe Kreek	5.6	-54.41667	SR	13
+Ingipoe	5.1	-55.5	SR	15
+Ingipikin Soela	3.48333	-55.31667	SR	18
+Ingikondre	5.88333	-56.23333	SR	12
+Ingie Kreek	5.85	-55.51667	SR	17
+Ingenieur van Wouw Kanaal	5.9	-57.03333	SR	14
+Ikoki Kreek	5.66667	-57.13333	SR	14
+IJzer Kreek	4.83333	-56.11667	SR	18
+Idenburg Val	3	-55.86667	SR	18
+Huwelijkszorg	5.88333	-55.68333	SR	17
+Huntley Kreek	5.93333	-56.91667	SR	14
+Houttuinweg	5.7	-55.2	SR	19
+Houttuin	5.75	-55.15	SR	19
+Hope	5.91667	-56.41667	SR	12
+Hoofdkamp	2.96667	-55.36667	SR	18
+Hok-A-Hing Gebergte	4.96667	-54.76667	SR	18
+Hoepel Kreek	5.35	-56.13333	SR	18
+Hindoeweg	5.68333	-55.2	SR	19
+Himkar Kreek	4.63333	-56.26667	SR	18
+Hildesheim	5.85	-55.76667	SR	17
+Hertenrits	5.9	-56.65	SR	14
+Herstellings Kreek	5.6	-54.76667	SR	11
+Herstelling	5.61667	-54.73333	SR	11
+Herminadorp	5.16667	-54.35	SR	18
+Hermina Bank	5.91667	-55.93333	SR	17
+Hendrik Top	4.2	-56.2	SR	18
+Hendriksen Kreek	5.6	-54.7	SR	00
+Heliba	4.71667	-55.55	SR	18
+Helena Christinaweg	5.73333	-55.25	SR	19
+Heidoti	5.23333	-56.06667	SR	18
+Heidoti	4.86667	-55.56667	SR	18
+Hede Kreek	5.5	-54.66667	SR	15
+Hede Kreek	5.43333	-55.9	SR	17
+Hecht en Sterk	5.88333	-54.96667	SR	11
+Hebiwerie	4.41667	-56.56667	SR	18
+Hazzard	5.91667	-56.95	SR	14
+Haymar Kreek	4.91667	-57.35	SR	18
+Havelaar Kreek	4.41667	-54.78333	SR	18
+Harikodja Kreek	4.91667	-54.48333	SR	18
+Hanover	5.5	-55.15	SR	15
+Hannakassi Kreek	5.7	-57.13333	SR	14
+Hamilton	5.88333	-56.25	SR	12
+Hamilton	5.88333	-56.25	SR	12
+Hamburg	5.78333	-55.35	SR	17
+Haimara Val	3.53333	-57.66667	SR	18
+Hague	5.83333	-56.28333	SR	12
+Haarlem	5.65	-55.33333	SR	15
+Haarlekijn Kreek	5.45	-55.48333	SR	17
+Gwetapoe Val	4.31667	-54.46667	SR	18
+Gwegwefoetoe	5.3	-54.23333	SR	13
+Gwafoe Eiland	4.2544	-55.43881	SR	18
+Guus Meyer Val	2.88333	-55.86667	SR	18
+Guave Berg	5.15	-55.2	SR	10
+Guadeloupe	5.88333	-55.01667	SR	11
+Grutterink Gebergte	3.75	-54.66667	SR	18
+Grote Zand Kreek	5.1	-55.23333	SR	10
+Grote Tawa Kreek	5.45	-55.43333	SR	17
+Grote Ston Kreek	5.5	-55.88333	SR	12
+Grote Simons Kreek	5.4	-54.98333	SR	15
+Grote Mooisoso Kreek	5.08333	-55.51667	SR	15
+Grote Mauritie Kreek	5.48333	-55.4	SR	15
+Grote Makka Kreek	5.5	-55.4	SR	17
+Grote Maboegoesoe Kreek	5.28333	-55.33333	SR	10
+Grote Louis Kreek	5.15	-55.28333	SR	10
+Grote Lokus Kreek	5.71667	-56.7	SR	14
+Grote Locus Kreek	5.7	-54.6	SR	13
+Grote Cupido Kreek	5.66667	-56.7	SR	14
+Grote Borfelt Kreek	5.8	-55.7	SR	17
+Gros Savanne	5.1	-55.26667	SR	10
+Gros	5.1	-55.25	SR	10
+Groot Poika Kreek	5.43333	-55.46667	SR	15
+Groot Poika	5.41667	-55.5	SR	15
+Groot Henarpolder	5.86667	-56.86667	SR	14
+Groote Bamboe Kreek	4.31667	-54.65	SR	18
+Groot Chatillon	5.61667	-55.06667	SR	11
+Groot Baviaan Eiland	5.53333	-57.16667	SR	14
+Groningen	5.8	-55.46667	SR	17
+Groningen	5.95	-54.78333	SR	11
+Groenkreek	5.4	-54.73333	SR	15
+Grienkasaba Soela	3.75	-54.88333	SR	18
+Grens Gebergte	2.41667	-55.58333	SR	00
+Gras Kreek	5.93333	-54.8	SR	11
+Granwana Kreek	4.31667	-55.41667	SR	18
+Granwahaboeka Kreek	4.16667	-55.9	SR	18
+Gran Tabbetje	4.11667	-54.73333	SR	18
+Gran Soela	4.06667	-54.46667	SR	18
+Gran Soela	4	-54.83333	SR	18
+Gran Slee	4.03333	-55.48333	SR	18
+Gransanti	4.71667	-56.3	SR	18
+Gran Rio	4.01667	-55.48333	SR	18
+Granpratiboeka	4.61667	-56.45	SR	18
+Granpoe	4.3	-55.81667	SR	18
+Granpoe	4.11667	-55.9	SR	18
+Granplana Soela	3.51667	-55.01667	SR	18
+Granpeto Kreek	4.91667	-55.56667	SR	18
+Granmoewerie Kreek	4.4	-55.8	SR	18
+Sauts Grand Man Ponsou	3.18333	-54.2	SR	00
+Granman Kreek	5.48333	-54.66667	SR	15
+Granmankondre	4.4	-55.78333	SR	18
+Grankrosiwaai Kreek	4.25	-55.85	SR	18
+Gran Kreek	5.76667	-55.46667	SR	17
+Gran Kreek	4.73333	-54.46667	SR	18
+Gran Kreek	4.31667	-55.8	SR	18
+Grankopi	5.36667	-54.65	SR	15
+Granjaman Kreek	4.1	-55.88333	SR	18
+Graniet Val	4.76667	-56.88333	SR	18
+Granholo Vallen	4.13333	-54.63333	SR	18
+Grangron Tabbetje	4.16667	-54.6	SR	18
+Grand Kreek	5.65	-55.35	SR	15
+Grandasingi Soela	3.8	-54.88333	SR	18
+Grandafoetoe Soela	3.48333	-55.16667	SR	18
+Granbori Soela	3.8	-54.85	SR	18
+Granbori	3.8	-54.85	SR	18
+Granasoenoeboe Soela	4.61667	-55.68333	SR	18
+Gouverneur Val	4.68333	-57.85	SR	18
+Goudland Soela	4.58333	-56.3	SR	18
+Goud Kreek	4.48333	-57.91667	SR	18
+Gori Gori Santi	4.53333	-55.7	SR	18
+Goodalls Val	3.35	-57.48333	SR	18
+Gonoe	5.1	-54.41667	SR	18
+Gonini Rivier	4.16667	-54.4	SR	18
+Gonini Kamp	3.78333	-55.71667	SR	18
+Gollidoti Kreek	5.06667	-55.55	SR	18
+Gollidoti	5.06667	-55.55	SR	18
+Goliath Kreek	5.36667	-55.63333	SR	15
+Goliath Berg	5.15	-55.63333	SR	15
+Gojjow Kreek	4.36667	-55.78333	SR	18
+Goggohgronpoenta	4.08333	-55.86667	SR	18
+Goensi	5.08333	-55.55	SR	15
+Goensi	4.08333	-55.88333	SR	18
+Goejaba	4.31667	-55.41667	SR	18
+Goedoe Kreek	5.13333	-55.25	SR	10
+Goede Vrede Kreek	5.3	-55.08333	SR	10
+Godowatra	3.88333	-55.58333	SR	18
+Godolo Tabriki	3.35	-54.05	SR	18
+Godjon-Adonke	4.7	-55.58333	SR	18
+Goddodrai	5.46667	-54.68333	SR	15
+Goddo	4.01667	-55.46667	SR	18
+Godangron	4.83333	-55.55	SR	18
+Gobia Kreek	5.45	-54.58333	SR	13
+Gloria	5.88333	-56.9	SR	14
+Glasgow	5.91667	-56.91667	SR	14
+Geyskes Val	3.93333	-56.18333	SR	18
+Geyskes Kreek	3.95	-56.21667	SR	18
+Geyersvlijt	5.85177	-55.125	SR	16
+George Kondre	5.63333	-54.1	SR	13
+Gene Kreek	4.71667	-54.95	SR	10
+Gelderland	5.43333	-54.98333	SR	15
+Gelderland	5.63333	-55.06667	SR	11
+Gege	4.7	-54.96667	SR	10
+Geertruidenberg	5.88333	-55.05	SR	11
+Garnizoenspad	5.83333	-55.18333	SR	00
+Gansee	4.81667	-55.06667	SR	10
+Ganiakondre	4.83333	-55.08333	SR	10
+Gandraai Kreek	5.46667	-55.43333	SR	17
+Hoek Galibi	5.75	-54	SR	13
+Galibi	5.75	-54	SR	13
+Gakaba	4.46667	-54.43333	SR	18
+Gado Taffra	4.15	-55.9	SR	18
+Gado Prati	4.53333	-55.71667	SR	18
+Gadokriki Prati	4.68333	-55.56667	SR	18
+Gado Kreek	5.65	-54.7	SR	11
+Gadjoesanti	5.1	-55.5	SR	15
+Gaddofapauw Kreek	4.85	-55.55	SR	18
+Gaddofapauw	4.85	-55.56667	SR	18
+Gaantetei Soela	3.9	-54.26667	SR	18
+Friendship	5.9	-56.33333	SR	12
+Freemoesoeston	5	-55.56667	SR	18
+Frederik Willem IV Vallen	3.46667	-57.61667	SR	18
+Frederiks Lust	5.96667	-54.95	SR	11
+Frederikshoop	5.88333	-55.03333	SR	11
+Franssen Herderschee Piek	3.43333	-55.96667	SR	18
+Fransman Landing	5.2	-57.06667	SR	18
+Frans Kreek	5.38333	-55.38333	SR	15
+Fransikasaba	4.38333	-55.8	SR	18
+Fossi Bergi	5.28333	-56.38333	SR	18
+Fossi Bergi	5.21667	-55.33333	SR	10
+Foetoe Kreek	4.75	-56.36667	SR	18
+Foengoe Tabbetje	4.58333	-56.18333	SR	18
+Foengoe Kreek	4.73333	-56.21667	SR	18
+Foengoe Eiland	4.73333	-56.2	SR	18
+Foendoeman Kreek	5.26667	-55.08333	SR	10
+Foendoegottro	5.05	-55.56667	SR	18
+Flora	5.8	-55.2	SR	16
+Finisanti Presie	5.13333	-55.48333	SR	10
+Fingribado Kreek	5.56667	-54.46667	SR	13
+Fijikkoesanti	4.06667	-55.9	SR	18
+Fijikkoe Prati	4.06667	-55.88333	SR	18
+Fijikkoe Kreek	4.06667	-55.88333	SR	18
+Fijetti	4.38333	-55.8	SR	18
+Feti Kreek	3.13333	-54.25	SR	18
+Feroelasi Val	4.38333	-55.4	SR	18
+Fernoot Kreek	5.13333	-55.06667	SR	10
+Fember Kreek	5.45	-55.45	SR	17
+Fedes Kreek	5.41667	-54.66667	SR	15
+Fatoeswietie Gebergte	3.63333	-54.16667	SR	18
+Fackertshoop	5.95	-54.78333	SR	11
+Fabakka Kreek	4.98333	-54.98333	SR	10
+Esthers Rust	5.98333	-54.93333	SR	11
+Esthers Lust	5.51667	-55.01667	SR	11
+Eponoe Tabriki	3.51667	-54	SR	18
+Ephrata	5.81667	-54.75	SR	11
+Emma Rivier	3.85	-54.53333	SR	18
+Emma Keten	4.08333	-56.2	SR	18
+Elisabeth's Hoop	5.9	-55.03333	SR	11
+Elisabethshof	5.83801	-55.13053	SR	16
+Elisabeth Kreek	5.6	-55.41667	SR	17
+Leiding Elf a	5.83333	-55.25	SR	19
+Leiding Elf	5.83333	-55.25	SR	19
+Einde Rust	5.91667	-55.08333	SR	11
+Eilerts de Haan Gebergte	3	-56.16667	SR	18
+Graf van Eilerts de Haan	3.43333	-56.2	SR	18
+Eilanti	5.83333	-54.05	SR	11
+Eerste Bacoven Polder	5.88333	-56.95	SR	14
+Leiding Eenentwintig a	5.8	-55.23333	SR	19
+Leiding Eenentwintig	5.8	-55.25	SR	19
+Eduardkondre	5.46667	-54.1	SR	13
+Ebba Top	4.35	-55.66667	SR	18
+Eau Clair Kreek	3.66667	-54.06667	SR	18
+Duiven Eiland	5.55	-54.01667	SR	13
+Duifjes Gebergte	4.35	-54.76667	SR	18
+Droge Kreek	4.85	-56.91667	SR	18
+Drie Zusters Val	5.01667	-56.75	SR	18
+Drietabbetje North	4.18333	-54.73333	SR	18
+Drietabbetje	4.11667	-54.66667	SR	18
+Drietabbetje	4.11667	-54.68333	SR	18
+Driemaripa Kreek	5	-55.55	SR	18
+Driefoetoe Soela	4.61667	-56.5	SR	18
+Driebotto Soela	4.58333	-56.18333	SR	18
+Leiding Drie a	5.8	-55.33333	SR	19
+Leiding Drie	5.8	-55.33333	SR	19
+Dramhosso Soela	4.9	-55.56667	SR	18
+Dramhosso Kreek	4.9	-55.56667	SR	18
+Draai	4.18333	-54.56667	SR	18
+Doublesteps Val	4.05	-57.45	SR	18
+Dottibiraston	4.2	-55.9	SR	18
+Dotti Bergi	5.05	-55.55	SR	18
+Dorson Kreek	4.73333	-54.51667	SR	18
+Dordrecht	5.8	-55.08333	SR	11
+Doorsnee Kreek	4.08333	-55.9	SR	18
+Doorsnede Kreek	5.58333	-54.78333	SR	11
+Donkervliet Kreek	3.48333	-54.06667	SR	18
+Donders Kreek	5.36667	-56.33333	SR	18
+Donderskamp	5.31667	-56.36667	SR	14
+Donderkamp	5.35	-56.36667	SR	18
+Domburg	5.7	-55.08333	SR	19
+Dombaai	3.91667	-55.55	SR	18
+Doksie Kreek	5.35	-56.41667	SR	12
+Doengroepeti Kreek	5.18333	-55.16667	SR	10
+Doengoejama Kreek	4.21667	-55.86667	SR	18
+Dobidang Kreek	5.13333	-55.11667	SR	10
+Djombogron	4.45	-55.78333	SR	18
+Djoemoe	4.01667	-55.48333	SR	18
+Djoemoe Airstrip	4.01667	-55.48333	SR	18
+Djoeka Kreek	4.48333	-54.45	SR	18
+Djibikrikiboekoe Soela	4.23333	-55.85	SR	18
+Djakki Kreek	5.6	-54.66667	SR	15
+Dissiong	4.66667	-55.1	SR	10
+Dirkshoop	5.78333	-55.48333	SR	17
+Dijon Kreek	4.7	-55.58333	SR	18
+Dijkveld Bank	5.78333	-55.15	SR	19
+Dijkveld	5.76563	-55.16511	SR	19
+Didiebrie Kreek	4.2	-54.58333	SR	18
+De Vrede	5.45	-55.15	SR	15
+Devis Vallen	4.8	-57.43333	SR	18
+Devils Kreek	5.75	-55.68333	SR	17
+De Vier Gebroeders	2	-55.95	SR	18
+De Uitvlugt	5.8	-54.98333	SR	11
+Destombesburg	5.7	-54.71667	SR	11
+De Resolutie	5.93333	-55.11667	SR	11
+De Nieuwe Grond	5.73333	-55.2	SR	19
+Dekweh Soela	3.93333	-55.45	SR	18
+Dekweh	3.93333	-55.45	SR	18
+De Kock Berg	3.78333	-56.08333	SR	18
+De Jong Zuid	5.08333	-55.23333	SR	10
+De Jong Noord Savanne	5.11667	-55.26667	SR	10
+De Jong Noord	5.11667	-55.25	SR	10
+De Jonge Bijenkorf	5.9	-54.88333	SR	11
+De Hoop	5.73333	-55.1	SR	11
+De Herstelling	6	-54.93333	SR	11
+Dehan	3.9	-55.58333	SR	18
+De Guinese Vriendschap	5.61667	-55.06667	SR	15
+De Goeje Gebergte	3.4	-54.21667	SR	18
+De Goede Hoop	5.53333	-55.95	SR	18
+Dee Kreek	5.13333	-56.08333	SR	18
+De Duivelsbroek	5.9	-55.43333	SR	11
+De Drie Zusters Eilanden	5.66667	-57.15	SR	14
+De Drie Zusters Eiland	5.66667	-57.15	SR	14
+De Drie Gebroeders	5.6	-55.06667	SR	11
+Deboe	3.9	-55.56667	SR	18
+Datra Soela	3.55	-55.68333	SR	18
+Dateke Kreek	5.05	-54.98333	SR	10
+Dantoefoe Soela	3.76667	-55.5	SR	18
+Dankbaarheid	5.88333	-55.6	SR	17
+Dang	4.19406	-55.4304	SR	18
+Dalibane Kreek	5.56667	-57.16667	SR	14
+Dalbana Kreek	4.8	-57.45	SR	18
+Dageraad	5.78333	-54.88333	SR	17
+Dademus Kreek	5.73333	-54.6	SR	13
+Daboesagara Tabbetje	5.28333	-54.26667	SR	13
+Dablasiekondre	3.9	-54.8	SR	18
+Dabikwen Kreek	5.01667	-54.98333	SR	10
+Dabi Kreek	4.1	-55.41667	SR	18
+Curacaoweg	5.66667	-55.21667	SR	19
+Cupido	5.66667	-56.68333	SR	14
+Crommenie Kreek	5.51667	-55.58333	SR	17
+Creola Kreek	5.68333	-54.65	SR	13
+Creola	5.78333	-55.35	SR	19
+Cremer Val	4.98333	-56.58333	SR	18
+Cremer Val	4.26667	-56.41667	SR	18
+Cras Kreek	5.86667	-54.8	SR	11
+Cras Kreek	5.86667	-54.8	SR	00
+Crappahoek	5.88333	-56.9	SR	14
+Craneweg	5.7	-55.25	SR	19
+Cow Vallen	5	-57.65	SR	18
+Couac Kreek	3.63333	-54.05	SR	18
+Cottica Rivier	5.86667	-54.86667	SR	11
+Cottica	3.85	-54.23333	SR	18
+Cottica	3.85	-54.23333	SR	18
+Costerie Kreek	5.38333	-55.43333	SR	15
+Coropina Kreek	5.53333	-55.16667	SR	11
+Coropie Kreek	5.5	-55.91667	SR	15
+Coronie Weg	5.8	-56.08333	SR	12
+Coronie Polder	5.83333	-56.28333	SR	12
+Coronie Bank	5.95	-56.41667	SR	12
+Distrikt Coronie	5.58333	-56.25	SR	12
+Totness Airstrip	5.86565	-56.32725	SR	12
+Coronie	3.85	-54.23333	SR	18
+Cornelis Vriendschap	5.78333	-54.96667	SR	11
+Corneliskondre	5.35	-56.13333	SR	18
+Corantijn Projekt	4.83333	-57.83333	SR	18
+Corantijn Polder	5.95	-57.05	SR	14
+Corantijn Kanaal Projekt	5.5	-57.25	SR	14
+Coppename Rivier	5.8	-55.91667	SR	00
+Coppename Punt	5.81667	-55.9	SR	17
+Coppenamepunt	5.78333	-55.9	SR	17
+Coppename Bank	5.83333	-56	SR	12
+Copieweg	5.66667	-55.23333	SR	15
+Copie	5.53333	-54.8	SR	15
+Copaivagogo	4.6	-55.16667	SR	10
+Constantia	5.91667	-54.91667	SR	11
+Concordia	5.83333	-55.83333	SR	17
+Compagnie Kreek	5.11667	-54.98333	SR	10
+Commissaris Kondre	5.25	-55.35	SR	15
+Commissaris	5.68333	-55.08333	SR	19
+Commewijne Rivier	5.9	-55.08333	SR	11
+Distrikt Commewijne	5.75	-54.91667	SR	11
+Commetewane Kreek	5.86667	-54.86667	SR	11
+Columbus Kreek	5.25	-56.06667	SR	18
+Colakreek	5.51667	-55.23333	SR	15
+Coesewijne Savanne	5.38333	-55.58333	SR	15
+Coesewijne Rivier	5.76667	-55.86667	SR	00
+Coeroenie	3.37241	-57.35287	SR	18
+Coermotibo Rivier	5.75	-54.4	SR	13
+Cocosnoot Kreek	5.88333	-55.11667	SR	11
+Clyde	5.91667	-56.36667	SR	12
+Clevia	5.86181	-55.1158	SR	11
+Clements Kreek	4.73333	-56.31667	SR	18
+Clementie	4.18333	-54.58333	SR	18
+Classina Kreek	5.36667	-55.15	SR	15
+Clara Sluis	5.91667	-57.06667	SR	14
+Clara Polder	5.91667	-57.05	SR	14
+Christoffel Kreek	5.65	-54.43333	SR	13
+Christmas Val	4.01667	-57.51667	SR	18
+Christiaankondre	5.7	-54	SR	13
+Chinese Kreek	4.86667	-54.5	SR	18
+Charlottenburg	5.86667	-54.78333	SR	11
+Champion Vallen	4.78333	-57.41667	SR	18
+Ceder Kreek	5.58333	-54.68333	SR	11
+Ceder Kreek	5.53333	-56.53333	SR	12
+Ceder Kreek	5.08333	-54.96667	SR	10
+Cc Weg	5.73333	-55.2	SR	19
+Catharina Sophia	5.86667	-55.56667	SR	17
+Castor Soela	3.88333	-55.43333	SR	18
+Cassipora Kreek	5.41667	-54.98333	SR	15
+Cassipora	5.4	-54.93333	SR	15
+Cassewinica Kreek	5.66667	-54.71667	SR	11
+Cassabeondre	5.48333	-54.4	SR	13
+Carolina Kreek	5.4	-55.18333	SR	15
+Carolina	5.45	-55	SR	15
+Carolina	5.4	-55.06667	SR	15
+Carl Francois	5.83333	-55.76667	SR	17
+Carisane Kreek	5.8	-54.66667	SR	13
+Caramacca Kreek	5.7	-54.75	SR	11
+Capoeri Kreek	5.75	-54.63333	SR	13
+Capasie Eiland	4.45	-54.43333	SR	18
+Canawappibo	5.8	-54.8	SR	11
+California Kreek	5.03333	-55.58333	SR	18
+Caledonia	5.83333	-55.81667	SR	17
+Calcutta	5.85	-55.68333	SR	17
+Calbo Kreek	5.8	-54.45	SR	13
+Calbo	5.8	-54.45	SR	13
+Cajana	3.90116	-55.57262	SR	18
+Cabbes Kreek	5.93333	-54.86667	SR	11
+Burnside	5.91667	-56.4	SR	12
+Burnside	5.91667	-56.4	SR	12
+Buma Kreek	4.3	-54.66667	SR	18
+Buffel Val	2.98333	-55.86667	SR	18
+Buffel Kreek	5.48333	-55.15	SR	11
+Bucklebury Kreek	5.95	-56.46667	SR	12
+Bucklebury	5.9	-56.48333	SR	12
+Bruyning Foenda Soela	4.61667	-56.25	SR	18
+Brownsweg	5.01667	-55.16667	SR	10
+Brownsweg	5	-55.15	SR	10
+Browns Berg	4.88333	-55.21667	SR	10
+Brouwerslust	5.88333	-54.98333	SR	11
+Bronsweg	5	-55.15	SR	10
+Brons Kreek	4.96667	-55.23333	SR	10
+Brokopiengo Kreek	4.48333	-55.76667	SR	18
+Brokolonko Kreek	5.05	-55.55	SR	18
+Brokolonko Gebergte	4.96667	-55.46667	SR	00
+Brokolonko	5.05	-55.53333	SR	18
+Brokodjogo Kreek	5.05	-54.98333	SR	10
+Brokobotto Soela	4.56667	-55.7	SR	18
+Brokoboto Soela	4.73333	-54.56667	SR	18
+Brokoboto Kreek	4.73333	-54.56667	SR	18
+Broffodore Soela	3.78333	-54.88333	SR	18
+Broederschap	5.88333	-55.55	SR	17
+Brink Heuvel	5.13333	-55.33333	SR	10
+Brekipababa Kreek	4.55	-55.28333	SR	10
+Branti Kreek	5.53333	-54.66667	SR	15
+Brakoe Kreek	4.08333	-55.46667	SR	18
+Brakka Kreek	5.26667	-55.9	SR	15
+Brafit Kreek	5.13333	-55.13333	SR	10
+Bradimoffo Kreek	5.68333	-55.61667	SR	17
+Bradimoffo	5.86667	-55.68333	SR	17
+Braams Punt	5.9509	-55.15858	SR	11
+Braamshoop	5.7	-55.23333	SR	19
+Boxel	5.71667	-55.1	SR	11
+Boven Wayambo Rivier	5.33333	-56.4	SR	18
+Boven Tapanahoni Rivier	3.35	-55.43333	SR	18
+Boven Cottica Rivier	5.75	-54.4	SR	13
+Boven Commewijne Rivier	5.86667	-54.86667	SR	11
+Boven Coesewijne	5.36667	-55.53333	SR	15
+Boven Bradimoffo Kreek	5.6	-55.56667	SR	17
+Bottriekoe Santi	5.06667	-55.55	SR	18
+Bottels Kreek	5.66667	-54.7	SR	11
+Botse Kreek	5.25	-55.11667	SR	10
+Botopasi	4.23788	-55.44594	SR	18
+Botjie Kreek	5.76667	-54.65	SR	13
+Boston	5.71667	-55.36667	SR	15
+Bossoe Kreek	5.6	-54.25	SR	00
+Bossee Kreek	5.53333	-55.4	SR	15
+Bosman Kreek	5.03333	-54.96667	SR	10
+Boslanti	4.33333	-55.78333	SR	18
+Bosland	5.1	-54.98333	SR	10
+Bose Kreek	4.73333	-54.5	SR	18
+Bosch Kreek	4.91667	-54.48333	SR	18
+Boromoffo Kreek	5.86667	-55.91667	SR	17
+Boromoffo	5.86667	-55.9	SR	17
+Boriess Kreek	5.15	-55.08333	SR	10
+Boosman Koemaroe Kreek	4.51667	-55.33333	SR	18
+Boonacker Polder	5.88333	-56.91667	SR	14
+Boomsoe Kreek	5.66667	-54.7	SR	11
+Bonni Kreek	5.36667	-54.16667	SR	13
+Bonidoro Soula	4.93333	-54.45	SR	00
+Bonjo Kreek	5.45	-55.9	SR	17
+Bonaparte Eiland	5.75	-57.16667	SR	14
+Bonaireweg	5.66667	-55.21667	SR	19
+Bolletrie Val	4.26667	-56.41667	SR	18
+Bokisandoe	4.23333	-55.88333	SR	18
+Boki Kreek	4.21667	-55.86667	SR	18
+Boka Vallen	3.86667	-55.45	SR	18
+Bogopakoe Soela	3.7	-55.9	SR	18
+Bofroenosso Kreek	5.31667	-54.61667	SR	18
+Bofroelon Kreek	5.06667	-55.53333	SR	10
+Bofroe Kreek	4.8	-56.15	SR	18
+Bofroe Kreek	4.68333	-56.26667	SR	18
+Bofe	5	-55.55	SR	18
+Bouchi-Ondo Soula	4.78333	-54.46667	SR	00
+Boenhattimama Kreek	5.83333	-56.8	SR	14
+Boenhattimama Kreek	5.35	-55.36667	SR	15
+Boekoe Kreek	5.78333	-54.36667	SR	13
+Versnelling Boekete	4.46667	-55.76667	SR	18
+Boekatoena Kreek	5.73333	-54.35	SR	13
+Boego Kreek	5.53333	-55.41667	SR	17
+Boddjohwikkoh Kreek	4.18333	-55.9	SR	18
+Bobbi Kreek	3.56667	-54.95	SR	18
+Bluf punt	5.95	-57.05	SR	14
+Bloferie	5.61667	-55.38333	SR	15
+Blijensdaal	5.75	-55.08333	SR	11
+Blauwgrond	5.84342	-55.11929	SR	16
+Blauwe Berg	5.15	-55.1	SR	10
+Blanche Marie Vallen	4.73333	-56.88333	SR	18
+Blakke Kreek	5.41667	-55.93333	SR	18
+Blakkawatra Kreek	5.6	-54.26667	SR	13
+Blakkawatra Kreek	5.46667	-55.45	SR	17
+Blakkawatra Kreek	4.7	-54.63333	SR	18
+Blakkawatra	5.4	-54.96667	SR	10
+Blakkawatra	5.51667	-55	SR	11
+Blakka Kreek	5.53333	-54.43333	SR	13
+Blakka Kreek	5.48333	-54.08333	SR	13
+Blakawatra Kreek	3.2	-55.56667	SR	18
+Blakawatra	5.38333	-54.91667	SR	15
+Blaka Kreek	5.38333	-55.2	SR	15
+Blacka Kreek	5.6	-54.68333	SR	15
+Bitter Kreek	4.95	-56.11667	SR	18
+Bitagron	5.16667	-56.1	SR	18
+Bisschop Eilanden	5.48333	-57.25	SR	14
+Birihoedoematoe	4.9	-55.08333	SR	10
+Birihoedoe Kreek	5.41667	-55.41667	SR	15
+Binkhorst Kanaal	5.68333	-55.35	SR	19
+Bilhoutweg	5.65	-55.23333	SR	15
+Bilawatra	4.93333	-55.55	SR	10
+Bijgelegen	5.9	-54.8	SR	11
+Bigiston	5.4	-54.13333	SR	13
+Bigi Pan	5.96667	-56.85	SR	14
+Bigimoffo Kreek	5.83333	-56.81667	SR	14
+Bigi Kreek	5.96667	-55.35	SR	17
+Bigi Kreek	5.38333	-56.1	SR	18
+Bigiholo	5.31667	-54.81667	SR	15
+Bigi Bodi	4.7	-55.58333	SR	18
+Bigibere Kreek	5.63333	-56.66667	SR	14
+Bigibatra Kreek	5.31667	-55.13333	SR	10
+Bigi Anoe	5.16667	-54.8	SR	10
+Bibber Berg	5.08333	-54.88333	SR	00
+Biakronie	3.83333	-54.85	SR	18
+Betti Kreek	5.78333	-55.48333	SR	17
+Bethania	5.85	-55.48333	SR	17
+Bernhard Kreek	5.6	-54.43333	SR	13
+Halte Berlijn	5.4	-55.21667	SR	15
+Berlijn	5.4	-55.21667	SR	15
+Berlijn	5.93333	-55.05	SR	11
+Berie Kreek	5.61667	-55.6	SR	17
+Bergzicht	4.93333	-56.1	SR	18
+Bergershoopweg	5.71667	-55.2	SR	19
+Berg en Dal	5.15	-55.06667	SR	10
+Berendslust	5.6	-55.03333	SR	11
+Berceba	5.51667	-55.21667	SR	15
+Benzdorp	3.68192	-54.08728	SR	18
+Benapoe	4.28333	-54.51667	SR	18
+Bemau Top	4.91667	-55.63333	SR	18
+Belwaarde	5.85	-55.08333	SR	11
+Bellevue	5.9	-56.3	SR	12
+Belladrum	5.9	-56.35	SR	12
+Beki Kreek	5.73333	-55.35	SR	19
+Begoeba	4.31667	-55.41667	SR	18
+Befisingi	4.33333	-55.78333	SR	18
+Beerdoti	4.78333	-55.06667	SR	10
+Bedoti	4.21667	-55.88333	SR	18
+Bebbe Kreek	4.55	-56.1	SR	18
+Beaumont Kreek	5.25	-55.03333	SR	10
+Bea Kreek	4.83333	-54.53333	SR	18
+Baviaan Eilanden	5.55	-57.15	SR	14
+Bauxiet Berg	5.15	-55.16667	SR	10
+Batavia Kreek	5.73333	-55.88333	SR	17
+Batavia	5.7	-55.86667	SR	17
+Bata Kreek	4.55	-55.26667	SR	18
+Baskamp	5.83333	-55.33333	SR	17
+Basiakampoe	5.65	-54.2	SR	13
+Baptistie Kreek	5.15	-55.25	SR	10
+Bandoedotit Kreek	4.51667	-55.73333	SR	18
+Banakaba Kreek	5.01667	-55.55	SR	18
+Bamboes Kreek	5.26667	-56.08333	SR	18
+Bamboesie Soela	4.48333	-56	SR	18
+Bamboesi	5.53333	-54.03333	SR	13
+Bamboe Kreek	5.73333	-54.63333	SR	13
+Bamboe Kreek	4.83333	-54.7	SR	18
+Bamboegotro	5.73333	-54.63333	SR	13
+Ballon Kreek	3.93333	-55.46667	SR	18
+Balling Soela	5.03333	-55	SR	10
+Balin	4.93333	-55.55	SR	18
+Baletrie Kreek	5.86667	-56.86667	SR	14
+Bakra Opposton	4.73333	-55.1	SR	10
+Bakrakondre	3.8	-55.7	SR	18
+Bakrafetiehila	4.5	-55.71667	SR	18
+Bakkaooe Kreek	5.21667	-55.38333	SR	15
+Baki Kreek	4.26667	-55.83333	SR	18
+Bakhuis Gebergte	4.35	-56.75	SR	18
+Bakama Prati	4.66667	-55.6	SR	18
+Baikoetoe Kreek	4.56667	-55.28333	SR	18
+Baikoetoe	4.56667	-55.3	SR	10
+Stroomversnelling Baihatti	4.15	-55.45	SR	18
+Baboen Kreek	5.78333	-55.35	SR	17
+Baboen Kreek	3.7	-55.58333	SR	18
+Baboenhol	5.25	-55.03333	SR	15
+Baboen Eiland	4.1	-54.68333	SR	18
+Awarra Kreek	4.21674	-55.43633	SR	18
+Awara Soula	3.41667	-54.01667	SR	00
+Awara Kreek	5.56667	-54.03333	SR	13
+Awara Kreek	3.68333	-54.91667	SR	18
+Awanigon Kreek	4.25	-55.45	SR	18
+Awalla Tabriki	4.98333	-55.55	SR	18
+Awalape Kreek	3.13333	-55.86667	SR	18
+Avanavero Vallen	4.81667	-57.4	SR	18
+Avanavero	4.83333	-57.23333	SR	18
+Aurora	4.38333	-55.4	SR	18
+Augustus Val	3.93333	-56.2	SR	18
+Augustus Kreek	3.93333	-56.21667	SR	18
+Auca	5.35	-55.03333	SR	10
+Atoepeto Kreek	5.48333	-55.95	SR	18
+Atjorodotti Kreek	4.31667	-55.8	SR	18
+Atje Kreek	4.2	-55.86667	SR	18
+Atjekamihitjoema	4.21667	-55.88333	SR	15
+Atipakondre	3.95	-54.8	SR	18
+Atie Kreek	5.3	-54.61667	SR	18
+Atereboto	4.45	-55.76667	SR	18
+Assirikamo Eiland	5.28333	-57.28333	SR	14
+Assipoya Kreek	4.91667	-57.76667	SR	18
+Assipoya Eiland	4.91667	-57.76667	SR	18
+Assici Kreek	3.8	-54.2	SR	18
+Asognekondre	4.21667	-54.55	SR	18
+Asoenoebo	4.61667	-55.68333	SR	18
+Asidonkondre	3.83333	-54.85	SR	18
+Asidonhopo	4	-55.48333	SR	18
+Asaubaso Kreek	4.35	-55.78333	SR	18
+Asambapali	4.76667	-55.55	SR	18
+Asalobi Tabbetje	5.05	-54.43333	SR	18
+Asafiri Kondre	5.5	-55.9	SR	17
+Arubaweg	5.65	-55.21667	SR	15
+Arrowhead Basin	3.91667	-56.18333	SR	18
+Arouaba Zuid	5.56667	-54.01667	SR	13
+Arouaba Tabbetje	5.58333	-54.03333	SR	13
+Arouaba Oost	5.58333	-54.01667	SR	13
+Arouaba Noord	5.61667	-54.01667	SR	13
+Arouaba Eilanden	5.58333	-54	SR	13
+Aroematta Kreek	5.43333	-54.1	SR	13
+Aroeaba Tabbetje	5.58333	-54.03333	SR	13
+Arobidikolo	3.96667	-55.51667	SR	18
+Aritapu Vallen	4.01667	-58.03333	SR	18
+Arissoa Stroomversnelling	4.76667	-57.86667	SR	18
+Aribi Kreek	5.43333	-57.26667	SR	14
+Arewakka Kreek	5.73333	-54.63333	SR	13
+Arawarra Kreek	5.33333	-56.45	SR	00
+Arawara Soela	2.8	-55.36667	SR	18
+Arattapari Kreek	5.28333	-55.88333	SR	15
+Araparisie Kreek	5	-57.55	SR	18
+Araparisie Eiland	5.01667	-57.53333	SR	18
+Arapappa Kreek	5.7	-55.66667	SR	17
+Arakonie Kreek	5.33333	-56.48333	SR	00
+Arakoniekondre	5.33333	-56.48333	SR	18
+Appikalo	2.11667	-56.25	SR	18
+Appara Kreek	5.43333	-56.05	SR	12
+Apotheki	2.88333	-55.38333	SR	18
+Aponnoe Kreek	5.91667	-55.15	SR	11
+Apoli Kreek	5.08333	-57.28333	SR	18
+Apoi Soela	3.83333	-54.8	SR	18
+Apoera Kreek	5.18333	-57.18333	SR	18
+Apoera	5.2	-57.16667	SR	18
+Apoembo Kreek	5.3	-55.86667	SR	15
+Apoeketie	4.48333	-55.75	SR	18
+Apoekakondre	3.9	-54.8	SR	18
+Apiego Kreek	2.23333	-56.53333	SR	18
+Apetina	3.5	-55.06667	SR	18
+Apetina	3.5	-55.06667	SR	18
+Apefoenda	4.28333	-55.83333	SR	18
+Apakoema Soela	4.71667	-56.21667	SR	18
+Antroei Kreek	5.78333	-54.75	SR	13
+Antonigron	5.88333	-55.65	SR	17
+Antino Kreek	3.66667	-54.06667	SR	18
+Ansie Kreek	5.6	-56.53333	SR	14
+Anoema Kreek	3.85	-54.78333	SR	18
+Annie Kreek	5.13333	-55.23333	SR	10
+Anna Maria	5.86667	-55.56667	SR	17
+Anjoemarrawassi Soela	3.81667	-54.46667	SR	18
+Anjoemara Soela	4.58333	-56.2	SR	18
+Anjoemara Kreek	5.5	-54.06667	SR	13
+Anjoemara Kreek	5.36667	-55.2	SR	12
+Anjoemara Kreek	4.95	-54.83333	SR	10
+Anjoemara Kreek	4.95	-54.53333	SR	18
+Anjoemara Kreek	3.91667	-55.46667	SR	18
+Anjoemara Kreek	3.48333	-54.08333	SR	18
+Anjanwoyo Kreek	4.2	-55.43333	SR	18
+Anemoe Kreek	4.35	-54.58333	SR	18
+Aneewakondre	3.96667	-54.8	SR	18
+Andoles Kreek	3.66667	-55.58333	SR	18
+Andisie Kreek	4.3	-55.81667	SR	18
+Anapi	2.35	-56.28333	SR	18
+Anapaike	3.41667	-54.03333	SR	18
+Ananas Berg	3.56667	-55.65	SR	18
+Amponoesoengoe Soela	3.96667	-54.3	SR	18
+Amotopo	3.55	-57.63333	SR	18
+Amoesoekan	4.33333	-55.8	SR	18
+Amerika Kreek	5.23333	-56.08333	SR	18
+American Kreek	4.86667	-54.5	SR	18
+Ambagado Kreek	5.46667	-54.4	SR	13
+Amatakka Kreek	4.86667	-57.88333	SR	18
+Amandra Kreek	4.25	-55.83333	SR	18
+Amadoe Kassi Kreek	5.61667	-54.26667	SR	13
+Altonaweg	5.66667	-55.21667	SR	19
+Alopi	3.25	-55.53333	SR	18
+Aloepi Twee	2.8	-55.9	SR	18
+Aloepi Een	2.81667	-55.88333	SR	18
+Alobbobrakoe Kreek	4.38333	-55.8	SR	18
+Alobbienni Prati	4.51667	-55.73333	SR	18
+Allitinbakoeba Kreek	4.26667	-55.83333	SR	18
+Allitinbakoeba	4.26667	-55.85	SR	18
+Alliance	5.9	-54.9	SR	11
+Allemandidon Val	3.48333	-55.3	SR	18
+Alkmaar	5.85	-55.03333	SR	11
+Pico da Montanha Alimimune	2.43333	-55.76667	SR	00
+Alikenni Kreek	4.55	-55.71667	SR	18
+Alejepatare Soela	2.93333	-55.38333	SR	18
+Albina	5.5	-54.05	SR	13
+Albina	5.51667	-54.05	SR	13
+Alasa Kreek	5.1	-55.5	SR	15
+Alasa Kreek	4.85	-56.11667	SR	18
+Alalapadu	2.53333	-56.33333	SR	18
+Alalapadu	2.5	-56.33333	SR	18
+Alaka Kreek	5.4	-54.13333	SR	13
+Akwansa Kreek	5.6	-56.51667	SR	12
+Akroikondre	5.46667	-54.1	SR	13
+Akredibotto Prati	4.43333	-55.76667	SR	18
+Akorano Kreek	5.11667	-55.91667	SR	18
+Akoesoeweh Soela	4.58333	-55.7	SR	18
+Akoelitatajeprati	4.15	-55.9	SR	18
+Akker Boom	5.85	-54.95	SR	11
+Akisjamau	4	-55.46667	SR	18
+Akinto Soela	5.26667	-54.91667	SR	15
+Akenimahiela	4.03333	-55.91667	SR	18
+Akarano Kreek	5.63333	-55.96667	SR	12
+Akalikondre	5.6	-54.43333	SR	13
+Akalapi Kreek	2.15	-56.36667	SR	18
+Ajokojokondre	3.91667	-54.8	SR	18
+Ajitikondre	4.11667	-54.68333	SR	18
+Agossa	3.5	-55.1	SR	18
+Agitriondre	5.78333	-54.46667	SR	13
+Agamakriki	5.5	-54.7	SR	15
+Afobaka	5	-54.98333	SR	10
+Afobaka	5	-55	SR	10
+Afitinjamnjamfoenda	4	-55.88333	SR	18
+Afingikamaloea	4.78333	-55.56667	SR	18
+Affivisiti	4.05	-54.8	SR	18
+Afawa Kreek	5.63333	-55.38333	SR	15
+Afama Kreek	4.78333	-56.18333	SR	18
+Adrichem	5.96667	-54.86667	SR	11
+Adolfoe Kreek	4.66667	-56.26667	SR	18
+Adolf Kreek	4.71667	-56.4	SR	18
+Adoemansingie Soela	3.65	-54.93333	SR	18
+Adjoko Kreek	3.91667	-55.43333	SR	18
+Adjoemakondre	5.6	-54.25	SR	13
+Adjobosanti	4.86667	-55.55	SR	18
+Adjama	4.81667	-55	SR	10
+Adjabo Kreek	4.86667	-55.56667	SR	18
+Adidon Vallen	3.71667	-55.83333	SR	18
+Adenagadodede Soela	4.76667	-56.18333	SR	18
+Adelaars Top	5.06667	-54.73333	SR	18
+Adawai	4.58333	-55.18333	SR	10
+Adargocedre Kreek	4.56667	-56.53333	SR	18
+Adanlo Kreek	6	-55.6	SR	17
+Adadien Soela	3.73333	-55.8	SR	18
+Acote	4.33333	-54.45	SR	18
+Leiding Achttien a	5.8	-55.3	SR	19
+Leiding Achttien	5.81667	-55.3	SR	19
+Leiding Acht a	5.85	-55.28333	SR	19
+Leiding Acht	5.85	-55.28333	SR	19
+Acaribo	5.63333	-55.1	SR	15
+Aboroganze Kreek	5	-55.55	SR	10
+Abontjeman	4.86667	-55	SR	18
+Abouna Sounga Soula	4.06667	-54.35	SR	00
+Aboma Kreek	4.75	-57.36667	SR	18
+Abigaelslust	6	-54.9	SR	11
+Abetwakondre	3.91667	-54.8	SR	18
+Abenekokondre	5.3	-54.23333	SR	13
+Abendanon	4.28333	-54.5	SR	18
+Abenaston	4.45	-55.36667	SR	18
+Abanna Kondre	5.13333	-54.98333	SR	10
+Aan Moed en Kommer	5.98333	-54.9	SR	11
+Vensur	5.76667	-55.15	SR	16
+Johan A. Pengel	5.45283	-55.18778	SR	
+Zanderij	5.45	-55.2	SR	
+Benzdorp (Monte Hermon)	3.67207	-54.10355	SR	18
+Kabana-vo	3.67411	-54.08488	SR	18
+Bernie's Projekt	5.85353	-55.18542	SR	16
+De Boer Buiten	5.84933	-55.179	SR	16
+Maria's Lust En Toevlugt	5.84588	-55.17257	SR	16
+Oldenburg	5.84206	-55.17632	SR	16
+Stolk Buiten	5.84052	-55.17784	SR	16
+Munder Buiten	5.84116	-55.18247	SR	16
+Van Engelbuiten	5.84471	-55.20049	SR	16
+Cabellbuiten	5.84627	-55.20596	SR	16
+Janki	5.84172	-55.19844	SR	16
+Stolk	5.83886	-55.20164	SR	16
+Van Dijk II	5.84044	-55.20555	SR	16
+Polanen	5.83767	-55.19846	SR	16
+Van Dijk I	5.83597	-55.19831	SR	16
+Van Brussel	5.83441	-55.19646	SR	16
+Shaw	5.83475	-55.19168	SR	16
+Zweers	5.83669	-55.188	SR	16
+Belair	5.83134	-55.19058	SR	16
+Rosenberg	5.82945	-55.19206	SR	16
+Tammenga	5.82893	-55.202	SR	16
+Via Bella	5.82452	-55.19104	SR	16
+Volkswoning Projekt L'Hermitage	5.82499	-55.20076	SR	16
+Half Flora	5.81019	-55.20354	SR	16
+Bams	5.82107	-55.20968	SR	16
+Duisburg en Onverwacht	5.80644	-55.19267	SR	16
+Saron Zuid	5.79739	-55.17695	SR	16
+Land Van Dijk	5.81637	-55.17145	SR	16
+L'Hermitage	5.82016	-55.18933	SR	16
+Poelepantje	5.81508	-55.17683	SR	16
+Abrabrokie	5.80998	-55.17622	SR	16
+Ondrobon	5.82693	-55.17074	SR	16
+Bronsplein	5.82281	-55.17284	SR	16
+Memre Boekoe Kazerne	5.82584	-55.1766	SR	16
+Doerga	5.82137	-55.18729	SR	16
+Flamboyant	5.82204	-55.2063	SR	16
+Kalpoe	5.8189	-55.21551	SR	16
+Ramdjan	5.82197	-55.21762	SR	16
+Cupido	5.82669	-55.21287	SR	16
+Politiebond	5.82795	-55.22103	SR	16
+Complex Universiteit Suriname	5.8142	-55.21752	SR	16
+Welgelegen	5.84213	-55.21863	SR	16
+Naipal	5.84057	-55.21496	SR	16
+Militar	5.84161	-55.21281	SR	16
+Peu et Content	5.84757	-55.19714	SR	16
+Combe	5.83326	-55.14519	SR	16
+Ma Retraite III	5.84579	-55.14297	SR	16
+Ma Retraite II	5.84094	-55.14461	SR	16
+Twee Kinderen	5.84771	-55.13284	SR	16
+Sommelsdijksche Kreek	5.82742	-55.14964	SR	16
+Palmentuin	5.82823	-55.15123	SR	16
+Nawa	5.82839	-55.18854	SR	16
+Beekhuizen	5.80575	-55.17367	SR	16
+Koeldipsing	5.8078	-55.18407	SR	16
+Binda	5.81786	-55.19741	SR	16
+Saron Noord	5.8046	-55.18243	SR	16
+Ephraimszegen	5.79446	-55.19327	SR	16
+Maikoe	5.84915	-55.15559	SR	16
+Vogeiwijjk	5.84561	-55.155	SR	16
+Leonsburg	5.87156	-55.11123	SR	16
+Tepoe Airstrip	3.1517	-55.71686	SR	18
+Krasnapolsky	5.82606	-55.16036	SR	16

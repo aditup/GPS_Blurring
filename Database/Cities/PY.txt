@@ -1,0 +1,3225 @@
+24 De Julio	-25.08333	-57.3	PY	08
+3 De Mayo	-26.48333	-56.1	PY	05
+Fortin Zenteno	-23.16667	-59.98333	PY	16
+Zeballos-cue	-25.21667	-57.58333	PY	16
+Zarza	-26.7	-56.4	PY	05
+Zarate Isla	-25.23333	-57.5	PY	06
+Arroyo Zanza pe	-25.26667	-55.7	PY	04
+Zanjita	-25.95	-57.11667	PY	15
+Zanjita	-26.1	-57.9	PY	13
+Arroyo Zanja Pyta	-25.68333	-55.78333	PY	10
+Zanja Pyta	-22.63333	-55.66667	PY	02
+Arroyo Zanja Jhu	-25.93333	-57.38333	PY	15
+Zanja Jhu	-24.4	-56.11667	PY	17
+Zanja Cora	-26.13333	-55.81667	PY	05
+Rio Zamucos	-20.83333	-59.28333	PY	23
+Fortin Zalazar	-23.1	-59.3	PY	16
+Estacion Yuty	-26.56667	-56.36667	PY	05
+Yuty	-26.6	-56.25	PY	05
+Yuty	-26.6	-56.25	PY	05
+Cerro Yurumi	-25.61667	-56.06667	PY	10
+Arroyo Yuquyty	-25.61667	-57.4	PY	06
+Estacion Yuquyry	-25.26667	-57.45	PY	06
+Arroyo Yuquyry	-25.63333	-57.21667	PY	15
+Arroyo Yuquyry	-25.25	-57.38333	PY	06
+Arroyo Yuquyry	-25.25	-55.55	PY	04
+Yerbales del Yuqueri	-25.15	-55.73333	PY	04
+Yukiri	-24.4	-55.61667	PY	19
+Arroyo Ytuti	-25.78333	-54.61667	PY	01
+Arroyo Ytu	-25.3	-55.71667	PY	04
+Arroyo Ytu	-25.23333	-57	PY	08
+Arroyo Ytororo	-25.45	-57.53333	PY	06
+Arroyo Ytay	-26.1	-55.9	PY	05
+Arroyo Ytay	-25.35	-57.7	PY	00
+Rio Ytambey	-24.76667	-54.4	PY	00
+Arroyo Ysoky	-25.53333	-55.6	PY	04
+Arroyo Ysau	-25.45	-55.68333	PY	04
+Laguna Yrupe	-25.30911	-57.6584	PY	06
+Ypytu	-19.78333	-58.55	PY	23
+Ypucu	-26.06667	-57.21667	PY	15
+Lago Ypoa	-25.90617	-57.42485	PY	00
+Estero del Ypoa	-25.85	-57.5	PY	06
+Arroyo Ypety-mi	-25.78333	-55.55	PY	05
+Arroyo Ypety Guazu	-25.78333	-55.55	PY	05
+Rio Ypety	-25.68333	-55.46667	PY	05
+Ype Jhu	-23.9	-55.33333	PY	19
+Arroyo Ypecuru-Mi	-27.13333	-55.93333	PY	11
+Arroyo Ypecuru	-27.13333	-55.93333	PY	11
+Ypecuarujha	-24.31667	-54.83333	PY	01
+Isla Ypecua	-25	-57.31667	PY	08
+Arroyo Ypane-mi	-23.03333	-56.13333	PY	02
+Arroyo Ypane Jhu	-23.28333	-55.98333	PY	02
+Rio Ypane	-23.47611	-57.43611	PY	00
+Ypane	-25.45	-57.53333	PY	06
+Lago Ypacarai	-25.28333	-57.33333	PY	00
+Ypacarai	-25.40514	-57.28546	PY	06
+Arroyo Yougui	-25.23333	-55.55	PY	04
+Arroyo Ynaro	-26	-55.3	PY	00
+Arroyo Yjhovy	-25.63333	-55.66667	PY	10
+Arroyo Y-Jhovy	-25.51667	-57.33333	PY	06
+Y-jhovy	-25.45	-57.31667	PY	06
+Arroyo Yihovy	-25.45	-56.18333	PY	04
+Laguna Yhu	-25.3	-56.61667	PY	08
+Arroyo Yhu	-25.15	-55.56667	PY	04
+Arroyo Yhu	-25.01667	-57.01667	PY	08
+Yhu	-25.05	-55.91667	PY	04
+Yhu	-24.98333	-55.98333	PY	04
+Yhu	-25.06667	-55.91667	PY	04
+Arroyo Yhoyuy-i	-25.38333	-56	PY	04
+Arroyo Yhoyuy-guazu	-25.38333	-56	PY	04
+Arroyo Yhaguy-mi	-25.5	-56.91667	PY	08
+Rio Yhaguy	-25.18333	-56.8	PY	08
+Arroyo Yhaguy	-25.5	-56.91667	PY	00
+Yhaca Rugua	-25.65	-56.7	PY	04
+Arroyo Yhacanguazu	-26.01667	-56.5	PY	10
+Arroyo Yhaca-mi	-25.95	-56.56667	PY	10
+Arroyo Yhaca-mi	-25.88333	-56.53333	PY	10
+Arroyo Yhaca Guazu	-26.48333	-54.85	PY	11
+Arroyo Yhaca	-26.7	-56.25	PY	05
+Arroyo Yhaca	-25.7	-56.65	PY	00
+Arroyo Yhaca	-25.6	-56.9	PY	00
+Yhaca	-25.63333	-56.68333	PY	04
+Rio Yguazu	-25.3	-55.53333	PY	04
+Represa Yguazu	-25.36667	-54.95	PY	01
+Arroyo Yguazu	-25.9	-55.15	PY	01
+Arroyo Yguazu	-25.23333	-55.28333	PY	04
+Ygatimi	-24.08333	-55.5	PY	19
+Yegros	-26.45	-56.4	PY	05
+Arroyo Yecuru	-27.13333	-55.93333	PY	11
+Arroyo Ycua Pyta	-25.56667	-55.26667	PY	01
+Ycua Pora	-25.9	-55.76667	PY	05
+Ycua Pora	-23.25	-57.1	PY	07
+Yby Yau	-22.98333	-56.53333	PY	07
+Arroyo Ybytyty	-24.76667	-56.31667	PY	00
+Cordillera de Ybytyruzu	-26	-55.78333	PY	00
+Serrania Ybytymi	-25.76667	-56.83333	PY	15
+Estacion Ybytymi	-25.73333	-56.76667	PY	15
+Ybytymi	-25.76667	-56.78333	PY	15
+Cerro Ybytu Silla	-25.28333	-57.11667	PY	08
+Sierra de Ybyturuzu	-25.83333	-56.25	PY	10
+Ybyrarobana	-24.23333	-55.11667	PY	19
+Ybyra-Pyta	-24.4	-55.36667	PY	19
+Ybyra Moroti	-25.91667	-57.65	PY	13
+Cerro Ybypyte	-25.75	-57.16667	PY	15
+Ybypojhy	-25.86667	-57.73333	PY	13
+Yby-Pe	-22.61667	-55.83333	PY	02
+Serrania de Ybycui	-25.98333	-56.78333	PY	15
+Isla Ybycui	-27.28333	-56.13333	PY	11
+Arroyo Ybycui	-26.21667	-56.88333	PY	15
+Arroyo Ybycui	-25.01667	-55.66667	PY	04
+Ybycui	-26.01667	-57.05	PY	15
+Arroyo Yby	-26	-56.85	PY	15
+Arroyo Ybu	-27.03333	-56.75	PY	12
+Arroyo Ybu	-25.55	-55.25	PY	01
+Arroyo Ybopety	-25.38333	-56.61667	PY	04
+Laguna Ybera	-27.23333	-56.98333	PY	12
+Arroyo Yati-i	-26.58333	-56.33333	PY	05
+Arroyo Yatevo	-27.16667	-56.16667	PY	11
+Arroyo Yate-i	-26.75	-55.58333	PY	11
+Yatay	-23.55	-59.9	PY	16
+Yataity del Norte	-24.83333	-56.35	PY	17
+Yataity	-27.23333	-57.65	PY	13
+Yataity	-26.36667	-56.06667	PY	05
+Yataity	-25.68333	-56.46667	PY	10
+Yataity	-26.35	-56.13333	PY	05
+Yatairy	-26.7	-55.03333	PY	11
+Arroyo Yatai	-25.58333	-55	PY	01
+Arroyo Yasy	-25.83333	-54.58333	PY	01
+Cerro Yariguaa	-25.76667	-57.11667	PY	15
+Yarati-i	-26.55	-56.21667	PY	05
+Yaratii	-26.53333	-56.21667	PY	05
+Arroyo Yarara	-25.96667	-54.66667	PY	01
+Arroyo Yambue	-22.71667	-55.75	PY	02
+Yajhape	-24.31667	-55.76667	PY	19
+Arroyo Yaguatiy	-25.05	-56.21667	PY	04
+Arroyo Yaguary	-26.36667	-57.03333	PY	15
+Arroyo Yagua-ry	-25.31667	-55.55	PY	04
+Cerro Yaguaron	-25.56667	-57.28333	PY	15
+Arroyo Yaguaron	-25.63333	-57.28333	PY	15
+Yaguaron	-25.6	-57.3	PY	15
+Yaguarizo	-26.03333	-56.68333	PY	10
+Yaguarete Cora	-26.53333	-56.11667	PY	05
+Yaguarele Pyta	-20.56667	-58.66667	PY	23
+Cerro Yaguacua	-26.66667	-55.88333	PY	11
+Represa Yacyreta	-27.5	-56.7	PY	11
+Isla Yacyreta	-27.41667	-56.5	PY	11
+Rio Yacuy-guazu	-26.25	-54.76667	PY	00
+Yerbal Yacuy	-26.1	-55	PY	01
+Rio Yacuy	-26.18333	-54.9	PY	00
+Arroyo Yacu Guy	-27.15	-56.85	PY	12
+Arroyo Yacarey	-27.1	-56.63333	PY	12
+Arroyo Yacare-y	-27.08333	-56.9	PY	12
+Arroyo Yacarey	-25.91667	-57.35	PY	15
+Arroyo Yacarey	-25.41667	-56.66667	PY	04
+Arroyo Yacarey	-25.1	-55.41667	PY	04
+Yacarey	-26.06667	-56.58333	PY	10
+Riacho Yacare Sur	-22.71667	-58.23333	PY	16
+Riacho Yacare Norte	-22.71667	-58.23333	PY	16
+Laguna Yacare-mi	-22.76667	-58.63333	PY	16
+Arroyo Yacare-mi	-26.68333	-58.01667	PY	13
+Yacarecua	-25.68333	-55.25	PY	01
+Riacho Yacare	-22.11667	-57.98333	PY	00
+Riacho Yacare	-21.3	-58.15	PY	23
+Laguna Yacare	-24.1	-59.75	PY	16
+Laguna Yacare	-23.9	-57.65	PY	16
+Fortin Yacare	-24.11667	-59.75	PY	16
+Arroyo Yacare	-26.6	-58.25	PY	13
+Arroyo Yacare	-26.36667	-56.38333	PY	05
+Yacare	-27.06667	-57.41667	PY	00
+Rio Yabebyry	-27.4	-57.35	PY	00
+Arroyo Yabebyry	-26.61667	-56.1	PY	11
+Yabebyry	-27.4	-57.18333	PY	12
+Capilla Virgen de Fatima	-26.06667	-56.11667	PY	05
+Rio Vira Muantimina	-24.95	-54.5	PY	01
+Villeta	-25.51022	-57.55463	PY	06
+Villa Santa Maria	-27.1	-55.66667	PY	11
+Villa San Francisco	-25.41667	-54.63333	PY	01
+Villa Sana	-22.83333	-57.1	PY	07
+Villarrica	-25.78056	-56.44861	PY	10
+Villarrica	-25.75	-56.43333	PY	10
+Villa Pastoreo	-25.88333	-55.75	PY	05
+Villa Pastoreo	-25.86667	-55.85	PY	05
+Villa Oliva	-26.01667	-57.88333	PY	13
+Villa Morra	-25.29317	-57.57454	PY	06
+Villa Mercedes	-25.51667	-55.36667	PY	01
+Villa Mercedes	-25.51667	-55.31667	PY	01
+Villalbin	-27.15	-57.91667	PY	13
+Villa Hayes West	-25.08333	-57.58333	PY	16
+Villa Hayes	-25.09306	-57.52361	PY	16
+Villa Franca	-26.28333	-58.2	PY	13
+Villa Florida	-26.38333	-57.15	PY	12
+Villa Elisa	-25.3676	-57.59274	PY	06
+Victoria Guazu	-22.6	-55.86667	PY	02
+Laguna Vetima	-21.08333	-59.06667	PY	23
+Potrero Veron	-22.36667	-57.2	PY	07
+Rio Verde	-25.08333	-57.5	PY	16
+Rio Verde	-23.10028	-57.66333	PY	16
+Rio Verde	-19.98333	-58.21667	PY	23
+Riacho Verde	-25.08333	-57.48333	PY	16
+Arroyo Verde	-27.38333	-55.71667	PY	11
+Arroyo Verde	-23.86667	-56.13333	PY	17
+Vera-cue	-25.13333	-57.8	PY	16
+Laguna Vera	-25.75	-57.4	PY	15
+Laguna Vera	-26.14434	-57.46811	PY	00
+Laguna Vera	-24.73333	-57.08333	PY	17
+Cerro Vera	-25.38333	-57.1	PY	08
+Ventiocho Kilometros de Paranambu	-25.81667	-54.83333	PY	01
+Veinticinco de Diciembre	-24.7	-56.55	PY	17
+Arroyo Veinte Y Tres	-25.26667	-56.15	PY	04
+Varga Loma	-26	-56.95	PY	15
+Vapor Cue	-25.2	-56.78333	PY	08
+Fortin Valois Rivarola	-23.83333	-59.73333	PY	16
+Valle-poi	-26.95	-58.35	PY	13
+Valle Apua	-26.03333	-57.21667	PY	15
+Valle Apua	-26.01667	-57.25	PY	15
+Valenzuela	-25.58333	-56.86667	PY	08
+Cerro Valdez	-25.9	-57.45	PY	06
+Vacay	-27	-55.5	PY	11
+Vacay	-26.9	-55.6	PY	11
+Vacareta	-26.9	-57.58333	PY	13
+Vaca Jhu	-24.56667	-56.61667	PY	17
+Urusapucai	-27.18333	-55.95	PY	11
+Urrutia Ugarte	-26.65	-56.51667	PY	05
+Urrujia Duartey Compania	-26.63333	-56.45	PY	05
+Uno de Marzo	-25.15	-56.91667	PY	08
+Union	-24.8	-56.55	PY	17
+Ugarte Cue	-22.95	-57.31667	PY	07
+Typycha	-26.4	-56.5	PY	05
+Estero Tyecua	-27.1	-56.8	PY	12
+Arroyo Tuyuti	-25.71667	-57.2	PY	15
+Arroyo Tuyuti	-25.36667	-57	PY	08
+Arroyo Tuyuti	-23.65	-55.91667	PY	00
+Cerro Tunas	-23.03333	-55.81667	PY	02
+Tuna	-25.86667	-55.78333	PY	05
+Tuna	-24.23333	-55.83333	PY	19
+Arroyo Tulio	-25.65	-57.03333	PY	15
+Laguna Tropezon	-22.95	-59.2	PY	16
+Trinidad	-27.11667	-55.78333	PY	11
+Cerro Trinchera Cue	-25.95	-57.41667	PY	15
+Triangulo	-24.63333	-58.71667	PY	16
+Arroyo Tres Polmito	-27.36667	-55.65	PY	11
+Tres Ollas	-22.73333	-57.73333	PY	07
+Tres Fronteras	-25.6	-54.58333	PY	01
+Tres de Noviembre	-23.63333	-56.21667	PY	17
+Tres Cerros	-22.28333	-57.76667	PY	07
+Tres Boca	-26.95	-58.26667	PY	13
+Arroyo Trementina	-23.06722	-57.05028	PY	07
+Trebol	-22.36667	-59.98333	PY	24
+Cerro Tranquerita	-22.7	-56.4	PY	02
+Torres-cue	-26.76667	-58.35	PY	13
+Fortin Torres	-21.01667	-59.5	PY	23
+Arroyo Toro-y	-27.06667	-56.9	PY	12
+Arroyo Tororo	-26.88333	-56.85	PY	12
+Torora	-23.38333	-55.51667	PY	02
+Toro Pampa	-21	-58.46667	PY	23
+Toro-cua	-25.68333	-56.51667	PY	10
+Toro Blanco-i Numi	-26.2	-55.7	PY	05
+Toro	-19.86667	-58.38333	PY	23
+Torin Cue	-24.76667	-56.66667	PY	17
+Torin	-23.53333	-55.55	PY	02
+Torin	-23.46667	-55.8	PY	02
+Arroyo Tordillo	-25.98333	-55.5	PY	05
+Toldo Cue	-23.23333	-57.41667	PY	07
+Toldo-cue	-22.86667	-58.6	PY	16
+Rio Tobatiry	-25.01667	-56.85	PY	08
+Estero Tobatiry	-25.15	-56.65	PY	08
+Arroyo Tobatiry	-25.18333	-56.46667	PY	04
+Arroyo Tobatiry	-24.98333	-57.01667	PY	00
+Arroyo Tobati	-25.2	-57.08333	PY	08
+Tobati	-25.25	-57.06667	PY	08
+Tirol	-27.21667	-55.71667	PY	11
+Laguna Tigre	-23	-58.46667	PY	16
+Tierras de Guyraungua	-25.33333	-55.7	PY	04
+Laguna Tiempo	-23.05	-59.31667	PY	16
+Arroyo Teyucuare	-27.26667	-55.58333	PY	11
+Terre Noir	-24.6	-57.76667	PY	16
+Terbicuary	-25.76667	-56.65	PY	10
+Terbicuary	-25.76667	-56.66667	PY	10
+Teniento Bogado	-25.73333	-56.58333	PY	10
+Teniente S. Velazquez	-22.78333	-60	PY	24
+Teniente Primero Manuel i Fernandez	-22.85	-59.41667	PY	16
+Fortin Teniente Primero H. Mendoza	-19.98333	-59.76667	PY	23
+Fortin Teniente Montania	-22.06667	-59.95	PY	24
+Fortin Teniente Martinez	-20.96667	-59.8	PY	23
+Teniente G. Arias	-22.83333	-60	PY	24
+Fortin Teniente Esteban Martinez	-24.1	-59.81667	PY	16
+Fortin Teniente Americo Picco	-19.6	-59.76667	PY	23
+Yerbal Tembey-mi	-26.13333	-55.13333	PY	01
+Rio Tembey	-26.7	-55.03333	PY	11
+Rio Tebicuary-mi	-26.53333	-56.83333	PY	00
+Arroyo Tebicuary-mi	-25.88333	-56.61667	PY	10
+Tebicuary Mi	-25.91667	-56.65	PY	15
+Tebicuary-Mi	-26.2	-55.85	PY	05
+Rio Tebicuary	-26.62536	-58.18222	PY	00
+Tebicuary	-25.76667	-56.63333	PY	10
+Tayi Loma	-25.75	-57.38333	PY	15
+Tayi Care	-24.51667	-54.41667	PY	19
+Tayi-care	-24.28333	-57.11667	PY	17
+Tayi	-26.95	-57.33333	PY	12
+Tayi	-26.58333	-57.66667	PY	12
+Tayi	-26.3	-57.5	PY	15
+Tayi	-25.78333	-55.95	PY	10
+Cerro Tayay	-23.06667	-55.85	PY	02
+Cordillera de Tayao Pau	-25.1	-56.08333	PY	04
+Tavai	-26.48333	-56.35	PY	17
+Tavai	-26.11667	-55.53333	PY	05
+Tavai	-25.41667	-57.28333	PY	06
+Tavai	-26.18333	-55.5	PY	05
+Cerro Tatuy	-25.85	-56.23333	PY	10
+Montes de Tatucua	-26.28333	-56.1	PY	05
+Cerro Taruma	-25.91667	-57.43333	PY	15
+Arroyo Taruma	-26.35	-56.25	PY	05
+Arroyo Taruma	-25.13333	-55.88333	PY	04
+Taruma	-25.91667	-55.78333	PY	05
+Riacho Tarey	-27.33333	-56.4	PY	11
+Arroyo Tapytangua	-25.91667	-57.01667	PY	15
+Tapyta	-26.21667	-55.71667	PY	05
+Tapyta	-26.23333	-55.76667	PY	05
+Estero Tapiracuay	-24.7	-56.91667	PY	17
+Arroyo Tapiracuai	-24.58333	-56.5	PY	17
+Sierras del Tangaro	-22.5	-56	PY	02
+Isla Talavera	-27.53333	-56.43333	PY	11
+Tajhyire	-19.81667	-58.55	PY	23
+Arroyo Taguity	-26.93333	-56.98333	PY	12
+Tacuruty	-27.33333	-57.55	PY	13
+Potrero Tacuru	-26.2	-56.11667	PY	05
+Arroyo Tacuru	-25.38333	-55.96667	PY	04
+Tacuremboty	-26.46667	-56.13333	PY	05
+Tacuaty	-23.88333	-55.65	PY	19
+Monte de Tacuati	-23.65	-56.91667	PY	17
+Arroyo Tacuati	-26.5	-55.9	PY	11
+Tacuati	-23.45	-56.58333	PY	17
+Arroyo Tacuary Mi	-27.05	-56.11667	PY	11
+Arroyo Tacuary-Jhu	-26.96667	-56.01667	PY	11
+Estero Tacuary	-25.36667	-56.36667	PY	04
+Arroyo Tacuary	-26.51667	-56.05	PY	00
+Arroyo Tacuary	-25.93333	-57.36667	PY	15
+Arroyo Tacuary	-25.78333	-57.13333	PY	15
+Arroyo Tacuary	-25.36667	-56.36667	PY	04
+Tacuary	-27.28333	-56.23333	PY	11
+Tacuary	-25.31667	-56.81667	PY	08
+Arroyo Tacuaruzu	-26.48333	-56.31667	PY	05
+Arroyo Tacuari	-24.98333	-57.05	PY	17
+Tacuaras	-26.81667	-58.1	PY	13
+Tacuarai	-27.01667	-57.73333	PY	13
+Estacion Tacuara	-25.96667	-56.08333	PY	10
+Cerro Tacuara	-25.98333	-57.51667	PY	13
+Arroyo Tacuara	-25.78333	-55.71667	PY	05
+Arroyo Tacuara	-23.83333	-55.65	PY	19
+Arroyo Tacuara	-22.63333	-56.06667	PY	02
+Tacuara	-24.66667	-56.4	PY	17
+Tacuara	-23.6	-57.15	PY	17
+Tacuara	-26.78333	-55.86667	PY	11
+Cerro Tacuapi	-26.76667	-55.83333	PY	11
+Arroyo Tachicare	-27.15	-56.63333	PY	11
+Arroyo Tacambey	-26.8	-56.75	PY	12
+Tablero	-24.66667	-58.96667	PY	16
+Taba-i	-25.68333	-56.53333	PY	10
+Cerro Syryca	-25.9	-56.63333	PY	10
+Arroyo Susto	-25.18333	-55.01667	PY	01
+Susto	-25.1	-54.96667	PY	01
+Arroyo Surubiy	-25.63333	-57.63333	PY	06
+Sosa	-26.31667	-56.53333	PY	05
+Laguna Sirena	-27.38333	-56.85	PY	12
+Siraty	-25.15	-57.25	PY	08
+Riacho Siete Puntas	-23.58583	-57.48833	PY	16
+Cerro Siete Cabezas	-21.8	-58.15	PY	23
+Siberio	-27.1	-56.21667	PY	11
+Arroyo Seco	-22.45	-57.23333	PY	07
+Sebastian mi	-27.21667	-57.93333	PY	13
+Sebastian	-27.2	-57.76667	PY	13
+Say	-23.9	-56.06667	PY	17
+Sauce Juncal	-27.2	-58.56667	PY	13
+Potrero Saty	-22.46667	-57.18333	PY	07
+Saty	-22.43333	-57.15	PY	07
+Arroyo Sati	-25.1	-57.26667	PY	08
+Sartorio	-21.98333	-58.43333	PY	23
+Isla Sapucai	-25.41667	-56.68333	PY	08
+Sapucai	-25.66667	-56.91667	PY	15
+Sapucai	-22.81667	-56.4	PY	07
+San Ygnacio	-26.86667	-57.05	PY	12
+San Vicente	-25.56667	-55.11667	PY	01
+San Vicente	-25.6	-55.13333	PY	01
+Santo Tome	-25.86667	-55.65	PY	05
+Cerro Santo Tomas	-25.6	-57.1	PY	15
+Santo Tomas	-26.58333	-56.9	PY	12
+Arroyo Santo Maria	-27.31667	-55.83333	PY	11
+Santo Domingo	-26.88333	-57.53333	PY	12
+Santo Domingo	-26.65	-55.06667	PY	11
+Santo Domingo	-25.1	-55.76667	PY	04
+Santo Domingo	-24.35	-55.1	PY	19
+Santo Domingo	-22.93333	-56.35	PY	07
+Santisima Trinidad	-25.25692	-57.57883	PY	06
+Santiago Cue	-26.86667	-55.93333	PY	11
+Santiago	-27.15	-56.78333	PY	12
+Santiago	-27.11667	-56.76667	PY	12
+Santa Ursula	-26.33333	-56.13333	PY	05
+Santa Teresita	-26.05	-56.35	PY	05
+Santa Teresa/Itapua	-26.6	-55.9	PY	11
+Yerbal de Santa Teresa	-24.76667	-54.55	PY	01
+Arroyo Santa Teresa	-24.83333	-54.43333	PY	01
+Santa Teresa	-25.81667	-55.61667	PY	05
+Santa Teresa	-25.23333	-55.06667	PY	04
+Santa Teresa	-26.63333	-55.91667	PY	11
+Santa Rosa de Lima	-26.71667	-56.26667	PY	11
+Santa Rosa/Caazapa	-26.46667	-56.75	PY	05
+Monte Santa Rosa	-24.61667	-55.71667	PY	04
+Cerro Santa Rosa	-26.9	-56.76667	PY	12
+Santa Rosa	-27	-55.83333	PY	11
+Santa Rosa	-26.86667	-56.85	PY	12
+Santa Rosa	-25.8	-54.88333	PY	01
+Santa Rosa	-24.56667	-55.78333	PY	04
+Santa Rosa	-23.86667	-56.56667	PY	17
+Santa Rosa	-20.6	-58.95	PY	23
+Santa Rosa	-26.95	-55.88333	PY	11
+Santa Rosa	-26.88333	-56.85	PY	12
+Santa Rita	-27.15	-57.01667	PY	12
+Santa Rita	-27.03333	-58.18333	PY	13
+Santa Rita	-25.78333	-55.06667	PY	01
+Potrero Santa Maria	-26.91667	-55.95	PY	11
+Cerro Santa Maria	-26.76667	-56.85	PY	12
+Arroyo Santa Maria	-26.96667	-55.75	PY	11
+Arroyo Santa Maria	-26.83333	-56.95	PY	12
+Arroyo Santa Maria	-25.56667	-54.75	PY	01
+Santa Maria	-27.3	-55.9	PY	11
+Santa Maria	-27.1	-58.15	PY	13
+Santa Maria	-26.9	-55.81667	PY	11
+Santa Maria	-26.78333	-56.93333	PY	12
+Santa Maria	-20.41667	-58.11667	PY	23
+Santa Maria	-26.76667	-56.93333	PY	12
+Oratorio Santa Lucia	-25.08333	-55.61667	PY	04
+Santa Lidia	-22.3	-58.15	PY	23
+Santa Librada	-24.83333	-58.36667	PY	16
+Santa Isabel	-22.73333	-57.4	PY	07
+Santa Eva	-23.91667	-57.9	PY	16
+Isla Santa Elena	-20.83333	-57.98333	PY	23
+Cerro Santa Elena	-25.86667	-56.28333	PY	10
+Santa Elena	-25.4	-56.8	PY	08
+Santa Elena	-24.26667	-57.53333	PY	16
+Estero San Tadeo	-26.71667	-56.65	PY	12
+Arroyo San Tadeo	-26.95	-56.7	PY	12
+Santa Cruz	-22.33333	-58.33333	PY	23
+Santa Clara	-25.63333	-57.7	PY	06
+Santa Aursula	-26.38333	-56.03333	PY	05
+Santa Anuncia	-24.28333	-57.15	PY	16
+Cerro Santa Ana	-25.03333	-56.35	PY	04
+Santa Ana	-25.2	-57.76667	PY	16
+San Silvestre	-24.5	-58.76667	PY	16
+San Salvador	-25.9	-56.48333	PY	10
+San Salvador	-22.85	-57.8	PY	07
+Potrero San Roque	-27.01667	-57.58333	PY	13
+San Roque	-25.81667	-55.86667	PY	10
+San Roque	-24.78333	-54.95	PY	01
+San Roque	-22.65	-56.31667	PY	02
+San Roque	-22.13333	-56.41667	PY	02
+San Ramon	-27.05	-56.7	PY	12
+San Ramon	-24.88333	-54.76667	PY	01
+San Ramon	-20.61667	-58.95	PY	23
+San Rafael del Parana	-26.65	-54.93333	PY	11
+Cordillera de San Rafael	-26.41667	-55.63333	PY	00
+Cerro San Rafael	-26.73333	-55.83333	PY	11
+Cerro San Rafael	-25.78333	-57.03333	PY	15
+San Rafael	-27.13333	-56.38333	PY	11
+San Rafael	-20.73333	-59.51667	PY	23
+San Rafael	-26.78333	-55.9	PY	11
+San Rafael	-26.38333	-56.38333	PY	05
+San Pedro de Ycuamandiyu	-24.08534	-57.08745	PY	17
+San Pedro del Parana	-26.83333	-56.2	PY	11
+San Pedro Del Parana	-26.83333	-56.2	PY	11
+San Pedro-cue	-26.51667	-56.76667	PY	05
+Pozo San Pedro	-23.15	-59.63333	PY	16
+Estacion San Pedro	-26.75	-56.28333	PY	11
+Departamento de San Pedro	-24.13333	-56.66667	PY	17
+San Patricio	-26.96667	-56.81667	PY	12
+San Patricio	-25.56667	-56.6	PY	04
+San Pablo/Itapua	-26.56667	-55.85	PY	11
+San Pablo de Ycuamandyyu	-24.15	-57.06667	PY	17
+Isla San Pablo	-27.38333	-56.38333	PY	11
+San Pablo	-25.86667	-55.58333	PY	05
+San Pablo	-20.58333	-58.81667	PY	16
+San Pablo	-26.56667	-55.8	PY	11
+Potrero San Miguel	-27.03333	-56.28333	PY	11
+San Miguel	-26.51667	-56.15	PY	05
+San Miguel	-26.5	-57.05	PY	12
+San Miguel	-25.6	-54.85	PY	01
+San Miguel	-26.08333	-56.46667	PY	10
+San Miguel	-26.98333	-56.11667	PY	11
+San Miguel	-26.51667	-56.2	PY	05
+Arroyo San Martin	-27.26667	-56.1	PY	11
+Serrania San Luis	-22.56667	-57.46667	PY	07
+San Luis	-27.1	-56.6	PY	11
+San Luis	-26.63333	-56.66667	PY	05
+San Luis	-26.55	-56.78333	PY	05
+Potrero San Lorenzo	-27.25	-56.51667	PY	11
+Potrero San Lorenzo	-22.36667	-56.68333	PY	07
+Arroyo San Lorenzo	-25.3	-57.43333	PY	06
+San Lorenzo	-26.78333	-57.66667	PY	13
+San Lorenzo	-25.33968	-57.50879	PY	06
+San Lorenzo	-24.43333	-57.61667	PY	16
+San Lazaro	-22.16667	-57.91667	PY	07
+San Juan Nepomuceno	-26.1	-55.96667	PY	05
+San Juan Nepomuceno	-26.1	-55.93333	PY	05
+San Juan Neembucu	-26.65	-57.93333	PY	13
+San Juan del Parana	-27.3	-55.96667	PY	11
+San Juan Bautista	-26.66944	-57.14583	PY	12
+San Juan	-27.26667	-56	PY	11
+San Juan	-23.98333	-57.28333	PY	16
+San Juan	-22.1	-58.26667	PY	23
+San Juan	-26.68333	-56.21667	PY	05
+San Jose Obrero	-25.25	-56.86667	PY	08
+San Jose-mi	-27.36667	-56.81667	PY	17
+San Jose del Rosario	-24.25	-56.93333	PY	17
+Yerbal San Jose	-24.05	-56.11667	PY	17
+Cerro San Jose	-25.96667	-56.95	PY	15
+San Jose	-26.7	-55.03333	PY	11
+San Jose	-25.53333	-56.73333	PY	04
+San Jose	-24.11667	-56.2	PY	17
+San Jose	-22.83333	-59.56667	PY	16
+San Jose	-22.43333	-57.06667	PY	07
+San Jose	-21.98333	-58.25	PY	23
+San Jorge	-20.45	-58.66667	PY	23
+Brazo San Joe-mi	-27.45	-56.86667	PY	00
+Sierra de San Joaquin	-24.8	-56	PY	00
+Montes de San Joaquin	-25.01667	-56.13333	PY	04
+Cerro San Joaquin	-25.03333	-56.11667	PY	04
+Cerro San Joaquin	-24.65	-56.13333	PY	00
+San Joaquin	-25.01667	-56.03333	PY	04
+San Joaquin	-24.95	-56.11667	PY	04
+San Joaquin	-25.03333	-56.03333	PY	04
+San Isidro de Curuguaty	-24.51667	-55.7	PY	19
+San Isidro	-27.05	-56.06667	PY	11
+Potrero San Ignacio	-26.76667	-55.66667	PY	11
+San Ignacio	-26.03333	-56.05	PY	05
+Arroyo San Gevasio	-25.76667	-56.16667	PY	10
+Arroyo San Geronimo	-25.2	-57.38333	PY	06
+San Gabriel	-26.28333	-55.66667	PY	05
+Isla San Francisco	-25.13333	-57.58333	PY	06
+Capilla San Francisco	-26.3	-56.05	PY	05
+Arroyo San Francisco	-25.6	-56.03333	PY	10
+San Francisco	-24.1	-57.15	PY	16
+San Francisco	-26.31667	-56.03333	PY	05
+San Francisco	-25.71667	-55.18333	PY	01
+San Florencio	-23.48333	-55.9	PY	02
+San Fernando	-26.6	-58.11667	PY	13
+San Fernando	-23.26667	-55.8	PY	02
+San Estanislao	-24.65	-56.43333	PY	17
+San Cristobal	-25.91667	-55.45	PY	01
+Sanchez Cue	-25.2	-55.6	PY	04
+Riacho San Carlos	-22.81667	-57.85	PY	00
+Riacho San Carlos	-21.73333	-57.93333	PY	23
+San Carlos	-26.1	-55.76667	PY	05
+San Carlos	-25.58333	-57.65	PY	06
+San Carlos	-22.83333	-57.85	PY	24
+San Carlos	-22.26667	-57.33333	PY	07
+San Carlos	-22.26667	-57.3	PY	07
+San Carlos	-21.21667	-57.85	PY	23
+San Carlos	-26.31667	-56.41667	PY	05
+San Bernardo	-24.83333	-58.68333	PY	16
+San Bernardino	-25.31067	-57.29628	PY	08
+Escuela San Benito	-26.81667	-55.71667	PY	11
+Estero San Antonio	-27.16667	-56.95	PY	12
+Arroyo San Antonio	-27.15	-56.9	PY	12
+San Antonio	-25.8	-55.33333	PY	01
+San Antonio	-25.55	-56.78333	PY	04
+San Antonio	-25.45	-55.81667	PY	04
+San Antonio	-25.42126	-57.54725	PY	06
+San Antonio	-25.08333	-55.78333	PY	04
+Puerto San Antonio	-23.85611	-57.275	PY	16
+San Antonio	-23.55	-56.93333	PY	17
+San Antonio	-26.7	-56.88333	PY	12
+San Antonio	-26.13333	-56.15	PY	05
+Potrero San Andres	-23.16667	-57.96667	PY	16
+San Anacleto	-21.65	-57.91667	PY	23
+Isla San Alberto	-21.88333	-57.98333	PY	23
+San Alberto	-24.96667	-54.9	PY	01
+San Agustin Caazapa	-25.83333	-55.88333	PY	05
+San Agustin	-25.83333	-55.88333	PY	05
+San Agustin	-25.53333	-55.4	PY	01
+San Agustin	-27.28333	-56.51667	PY	11
+San Agustin	-26.7	-55.96667	PY	11
+San Agustin	-26.21667	-56.21667	PY	05
+Samaklay	-23.5	-59.9	PY	16
+Salvador-cue	-24.38333	-57.9	PY	16
+Fortin Salto Palmar	-24.36667	-59.45	PY	16
+Salto Palmar	-24.35	-59.46667	PY	16
+Yerbales del Salto Guaira	-24.08333	-54.7	PY	19
+Salto del Guaira	-24.0625	-54.30694	PY	19
+Riacho Salado-i	-23.38333	-58.9	PY	16
+Rio Salado	-25.13333	-57.45	PY	00
+Arroyo Salado	-21.45	-57.9	PY	23
+Laguna Salada	-22.55	-59.28333	PY	16
+Sajonia Naval Airstrip	-25.28333	-57.66667	PY	16
+Ryguazu	-24.76667	-55.2	PY	01
+Ruiz	-27.06667	-57.16667	PY	00
+Rosario Potrero	-25.95	-55.91667	PY	05
+Rosario	-24.45	-57.05	PY	17
+Rosalina	-23.48333	-55.93333	PY	02
+Arroyo Rory-mi	-25.85	-56.76667	PY	00
+Estero Rory	-25.5	-56.51667	PY	04
+Arroyo Rory	-25.83333	-56.75	PY	00
+Roque Gonzalez de Santa Cruz	-25.88333	-57.28333	PY	15
+Rojas Silva	-22.66667	-59.05	PY	16
+Rojas Silva	-26.11667	-56.31667	PY	05
+Rojas-cue	-24.6	-57.68333	PY	16
+Isla Rocai	-25.48333	-56.73333	PY	04
+Robles-cue	-26.21667	-57.06667	PY	15
+Roa Rugua	-26.38333	-56.88333	PY	15
+R. I. Tres Corrales	-25.03333	-56.13333	PY	04
+Lago del Rio Yguazu	-25.25	-55.25	PY	01
+Fortin Rio Verde	-23.16667	-59.31667	PY	16
+Estero del Rio Verde	-24.83333	-57.63333	PY	16
+Rio Negro	-25.06667	-57.68333	PY	16
+Rio Corrientes	-24.55	-55.95	PY	17
+Rincon-i	-26.01667	-56.93333	PY	15
+Rinconguazu	-26.05	-56.93333	PY	15
+Laguna Riari	-21.1	-58.78333	PY	23
+Riachito	-24.35	-57.43333	PY	16
+Laguna Rey	-22.78333	-58.78333	PY	16
+Reventon	-25.26667	-57.7	PY	16
+Retiro Yrigoyen	-23.31667	-57.5	PY	16
+Retiro Serrania	-22.38333	-57.5	PY	07
+Retiro Laguna	-22.4	-57.33333	PY	07
+Retiro Itu	-24.31667	-58.6	PY	16
+Retiro Federico-cue	-22.6	-57.25	PY	07
+Retiro Davalos	-24.31667	-58.61667	PY	16
+Retiro-cue	-23.98333	-58.85	PY	16
+Retiro	-22.23333	-57.63333	PY	07
+Reten-cue	-19.86667	-58.5	PY	23
+Canada Reservista	-22.2	-57.98333	PY	00
+Requera	-25.01667	-57.95	PY	16
+Repatriacion	-25.53333	-55.95	PY	04
+Remancito	-24.96667	-57.3	PY	16
+Remancillo	-25.16667	-57.53333	PY	16
+Raul Oviedo	-25.13333	-55.43333	PY	04
+Ramos	-22.35	-56.81667	PY	07
+Ramirez-cue	-26.51667	-57.73333	PY	13
+Ramirez-cue	-26.05	-55.51667	PY	05
+Quyquyo	-26.23333	-56.98333	PY	15
+Quyquyho North	-26.21667	-56.96667	PY	11
+Quyquyho	-26.23333	-56.95	PY	15
+Arroyo Quiteria	-27.31667	-55.86667	PY	11
+Quiteria	-27.28333	-55.9	PY	11
+Cordillera de las Quince Puntas	-22.33333	-57.5	PY	07
+Cerro Quiindy	-25.95	-57.13333	PY	15
+Quiindy	-25.96667	-57.26667	PY	15
+Pytyre	-26.46667	-56.1	PY	05
+Arroyo Pyta	-23.58333	-56.08333	PY	00
+Punta Rieles	-21.58333	-58.46667	PY	23
+Punta Curupay Care	-27.43333	-56.46667	PY	11
+Puesto Zotti	-23	-59.9	PY	16
+Puesto Yuasy-y	-25.71667	-57.6	PY	06
+Puesto Ybyra Guazu	-25.66667	-57.61667	PY	06
+Puesto Winchester	-22.76667	-58.88333	PY	16
+Puesto Vega	-26.33333	-57.76667	PY	13
+Puesto Valle	-27	-57.58333	PY	13
+Puesto Valinotti-Cue	-23.18333	-58.21667	PY	16
+Puesto Typycha	-26.26667	-57.9	PY	13
+Puesto Tuyuyu Raity	-24.2	-59.38333	PY	16
+Puesto Tres de Mayo	-24.1	-58.06667	PY	16
+Puesto Toldo-i	-23.2	-57.98333	PY	16
+Puesto Tabla	-24.86667	-58.1	PY	16
+Puesto Susana	-24.51667	-57.8	PY	16
+Puesto Siete Palma	-26.7	-57.48333	PY	12
+Puesto Sarita	-25.7	-57.68333	PY	06
+Puesto Santo Domingo	-21.88333	-59.93333	PY	23
+Puesto San Timoteo	-23.7	-58.71667	PY	16
+Puesto Santa Rosa	-22.31667	-58.8	PY	16
+Puesto Santa Maria	-22.68333	-59.31667	PY	16
+Puesto Santa Maria	-22.5	-58.98333	PY	16
+Puesto Santa Manuela	-22.5	-58.66667	PY	16
+Puesto San Miguel	-23.1	-58.96667	PY	16
+Puesto San Lorenzo	-22.36667	-56.53333	PY	02
+Puesto San Javier	-24.45	-57.78333	PY	16
+Puesto San Carlos	-26.48333	-57.63333	PY	12
+Puesto San Carlos	-26.13333	-57.7	PY	13
+Puesto Salinas-Cue	-25.86667	-57.7	PY	13
+Puesto Salado	-23.16667	-58.61667	PY	16
+Puesto Roy	-26.51667	-57.88333	PY	13
+Puesto Roas Cue	-26.8	-56.98333	PY	12
+Puesto Rey	-22.76667	-58.8	PY	16
+Puesto Pora	-23.93333	-54.9	PY	19
+Puesto Pirity	-26.48333	-56.7	PY	05
+Puesto Panuelo	-22.55	-56.76667	PY	07
+Puesto Olguita	-24.28333	-59.35	PY	16
+Puesto Nanati	-22.96667	-59.26667	PY	16
+Puesto Moreno	-23.85	-58.36667	PY	16
+Puesto Monte Lindo	-23.95	-57.2	PY	16
+Puesto Mision Chica	-23.45	-58.46667	PY	16
+Puesto Michi	-24.08333	-57.28333	PY	16
+Puesto Mbocaya	-26.53333	-57.41667	PY	15
+Puesto Luis	-24.18333	-58.01667	PY	16
+Puesto Lugo	-23.86667	-59.3	PY	16
+Puesto Lucy	-23.25	-58.2	PY	16
+Puesto Linda Vista	-22.31667	-59.21667	PY	16
+Puesto Leopoldina	-24.1	-58.4	PY	16
+Puesto La Vista	-23.16667	-58.86667	PY	16
+Puesto Lata	-24.35	-55.95	PY	19
+Puesto Laguna Ciervo	-22.38333	-56.2	PY	02
+Puesto Itacurubi Guazu	-25.65	-57.56667	PY	06
+Puesto Isla Sola	-23.66667	-58.2	PY	16
+Puesto Horqueta	-26.61667	-57.56667	PY	12
+Puesto Gonzalez	-22.81667	-58.53333	PY	16
+Puesto Fortuna	-24.03333	-57.7	PY	16
+Puesto Ferreira	-26.63333	-57.66667	PY	13
+Puesto Estrella	-23.25	-58.88333	PY	16
+Puesto Estancia-i	-22.36667	-59.33333	PY	16
+Puesto Esperanza	-23.98333	-58.78333	PY	16
+Puesto Don Manuel	-23.55	-58.46667	PY	16
+Puesto Curupayty	-24.11667	-57.9	PY	16
+Puesto Curupayty	-22.73333	-58.35	PY	16
+Puesto-cue	-24.2	-56.95	PY	17
+Puesto Cuatro Bocas	-24.06667	-58.18333	PY	16
+Puesto Corralon	-22.3	-59.13333	PY	16
+Puesto Corralito	-23.5	-57.65	PY	16
+Puesto Colon-i	-23.16667	-58.5	PY	16
+Puesto Ciento Noveinta	-23.81667	-58.48333	PY	16
+Puesto Cerrito	-26.11667	-57.78333	PY	13
+Puesto Caabo Tory	-24.21667	-59.33333	PY	16
+Puesto Buena Vista	-24.05	-57.58333	PY	16
+Puesto Boqueron	-23.96667	-57.28333	PY	16
+Puesto Boqueron	-23.65	-59.13333	PY	16
+Puesto Bogado	-24.33333	-59.3	PY	16
+Puesto Benjamin	-26.46667	-57.76667	PY	13
+Puesto Areco	-25.6	-57.6	PY	06
+Puesto Araza	-24.31667	-57.85	PY	16
+Puesto Alegre	-23.76667	-57.43333	PY	16
+Puesto Alambique	-20.56667	-59.18333	PY	23
+Puesto Aguape	-26.48333	-57.56667	PY	15
+Puerto Ysau	-24.3	-55.15	PY	04
+Puerto Yrigoyen	-23.33333	-57.41667	PY	16
+Puerto Yngo	-26.46667	-57.6	PY	15
+Puerto Ybcui Naro	-27.35	-55.6	PY	11
+Puerto Ybapobo	-23.6475	-57.39111	PY	17
+Puerto Yacare Cue	-26.78333	-55.06667	PY	11
+Puerto Voluntad	-20.8	-57.96667	PY	23
+Puerto Ventidos de Mayo	-25.63333	-54.86667	PY	01
+Puerto Venecia	-25.5	-55.23333	PY	01
+Puerto Valle Mi	-22.13333	-57.96667	PY	07
+Puerto Vacay	-27.03333	-55.46667	PY	11
+Puerto Turi	-27.4	-56.75	PY	11
+Puerto Triunfo	-26.75	-55.1	PY	11
+Puerto Tres Palmito	-27.36667	-55.65	PY	11
+Puerto Tres Palmas	-21.78333	-57.9	PY	23
+Puerto Torocua	-26.1	-54.63333	PY	01
+Puerto Tobati-tuya	-25	-57.11667	PY	08
+Puerto Taruma	-23.63333	-57.58333	PY	16
+Puerto Tacuru Pyta	-23.75833	-57.24444	PY	17
+Puerto Siete de Agosto	-26.45	-54.8	PY	11
+Puerto Sauce	-24.78333	-54.41667	PY	01
+Puerto Sastre	-22.1	-57.98333	PY	23
+Puerto Sara	-25.7	-57.75	PY	06
+Puerto Santa Teresa	-24.73333	-54.38333	PY	01
+Puerto Santa Rosa de Lima	-27.15	-55.6	PY	11
+Puerto Santa Rosa	-24.93333	-57.78333	PY	16
+Puerto Santa Rita	-25.98333	-54.95	PY	01
+Puerto Santa Rita	-23.46667	-57.31667	PY	16
+Puerto Santa Maria	-23.6	-57.73333	PY	16
+Puerto Santa Elena	-25.73333	-57.73333	PY	06
+Puerto San Luis	-23.38333	-57.45	PY	16
+Puerto San Lorenzo	-26.51667	-54.76667	PY	11
+Puerto San Juan	-23.08333	-57.71667	PY	16
+Puerto San Jose	-26.56667	-54.8	PY	11
+Puerto San Fernando	-23.66667	-57.63333	PY	16
+Puerto San Antonio	-26.61667	-58.28333	PY	13
+Puerto San Alberto	-21.96667	-57.93333	PY	23
+Puerto Samuhu	-27.33333	-55.61667	PY	11
+Puerto Rosario	-24.45	-57.08333	PY	17
+Puerto Risso	-22.43333	-57.81667	PY	07
+Puerto Risso	-22.35	-57.83333	PY	07
+Puerto Rio Negro	-23.41667	-57.33333	PY	16
+Puerto Recife	-25.03333	-57.03333	PY	08
+Puerto Recife	-25.03333	-57.03333	PY	08
+Puerto Ramos	-20.28333	-58.16667	PY	23
+Puerto Presidente Stroessner	-25.51667	-54.6	PY	01
+Puerto Porvenir	-26.68333	-54.93333	PY	11
+Puerto Pirapo	-26.96667	-55.4	PY	11
+Puerto Pinasco	-22.71667	-57.83333	PY	16
+Puerto Pikyry	-25.08333	-54.46667	PY	01
+Puerto Paranambu	-25.98333	-54.76667	PY	01
+Puerto Paranambu	-25.96667	-54.68333	PY	01
+Puerto Paraiso	-27.28333	-55.61667	PY	11
+Puerto Paraiso	-25.83333	-57.78333	PY	13
+Puerto Paloma	-26.85	-55.13333	PY	11
+Puerto Palma	-25.3	-54.51667	PY	01
+Puerto Pagani Cue	-22.25	-57.98333	PY	23
+Puerto Ordonez	-25.75	-54.63333	PY	01
+Puerto Olivares	-25	-57.3	PY	08
+Puerto Obligado	-27.1	-55.56667	PY	11
+Puerto Nuevo	-20.61667	-58.05	PY	23
+Puerto Napegue	-23.06667	-57.66667	PY	07
+Puerto Militar	-23.41639	-57.47861	PY	16
+Puerto Milagro	-23.51583	-57.45444	PY	17
+Puerto Mihanovich	-20.86667	-57.98333	PY	23
+Puerto Mburajhe	-27.48333	-56.73333	PY	11
+Puerto Mayor Otano	-26.4	-54.7	PY	11
+Puerto Max	-22.68333	-57.73333	PY	07
+Puerto Marite	-25.91667	-57.85	PY	13
+Puerto Maria Auxiliadora	-21.73333	-57.91667	PY	23
+Puerto Maria	-24.35	-59.25	PY	16
+Puerto Marangatu	-24.61667	-54.35	PY	19
+Puerto Lobato	-25.75	-57.78333	PY	06
+Puerto Lidia	-20.96667	-57.96667	PY	23
+Puerto Leda	-20.71667	-57.98333	PY	23
+Puerto La Victoria	-22.33333	-57.91667	PY	23
+Puerto La Esperanza	-22.05	-58	PY	23
+Puerto Itapucu Mi	-22.75	-57.86667	PY	07
+Puerto Itambey	-24.68333	-54.35	PY	01
+Puerto Italia	-26.98333	-55.45	PY	11
+Puerto Itacora	-27.25	-58.15	PY	13
+Puerto Ita	-27.21667	-58.31667	PY	13
+Puerto Iribo	-27.36667	-55.68333	PY	11
+Puerto Indio	-24.88333	-54.43333	PY	01
+Puerto Hohenau	-27.15	-55.56667	PY	11
+Puerto Guarani	-21.3	-57.91667	PY	23
+Puerto General Diaz	-25.2	-54.46667	PY	01
+Puerto Galileo	-25.06667	-57.88333	PY	16
+Puerto Galileo	-25.06667	-57.85	PY	16
+Puerto Fonciere	-22.48333	-57.8	PY	07
+Puerto Flores	-25.68333	-55.48333	PY	05
+Puerto Esperanza	-20.43333	-58.1	PY	23
+Puerto Embalse	-25.43333	-54.61667	PY	01
+Puerto Elvira	-24.6	-57.13333	PY	16
+Puerto Elvira	-24.45	-58.41667	PY	16
+Puerto Elsa	-25.28333	-57.71667	PY	16
+Puerto Edelira	-26.9	-55.15	PY	11
+Puerto Doria	-24	-57.18333	PY	17
+Puerto Dolores	-25.58333	-55.01667	PY	01
+Puerto D M de Irala West	-25.91667	-54.68333	PY	01
+Puerto de Tacurupucu	-25.41667	-54.6	PY	01
+Puerto Curuzu Aba	-27.25	-57.83333	PY	13
+Puerto Curuzu	-24.36667	-56.18333	PY	17
+Puerto Cooper	-23.05	-57.71667	PY	16
+Puerto Colon	-23.19583	-57.60389	PY	16
+Puerto Catorce de Mayo	-20.38333	-58.13333	PY	23
+Puerto Carmona	-27.15	-55.7	PY	11
+Puerto Carlos Pfannl	-24.38333	-57.16667	PY	16
+Puerto Carava Vuelta	-23.12167	-57.6375	PY	16
+Puerto Cantera	-27.21667	-55.6	PY	11
+Puerto Calera-Cue	-22.53333	-57.81667	PY	07
+Puerto Caballo	-20.2	-58.2	PY	23
+Puerto Botanico	-25.23333	-57.56667	PY	06
+Puerto Bertoni	-25.65	-54.58333	PY	01
+Puerto Bella Vista	-27.1	-55.51667	PY	11
+Puerto Bahia Negra	-20.22966	-58.16857	PY	24
+Puerto Arroyo Verde	-27.38333	-55.7	PY	11
+Puerto Arrecife	-22.8	-57.85	PY	07
+Puerto Armandina	-23.1	-57.65	PY	07
+Puerto Alegre	-25.68333	-57.78333	PY	06
+Puerto Alegre	-23.11667	-57.6	PY	07
+Puerto Alegre	-22.5	-57.86667	PY	16
+Puerto Adela	-24.55	-54.36667	PY	19
+Puerto Abente	-22.91667	-57.71667	PY	07
+Arroyo Puente Tabla	-25.45	-56.51667	PY	04
+Arroyo Puentesita	-25.26667	-55.75	PY	04
+Puente Kyjha	-24.08333	-54.8	PY	19
+Arroyo Puendy	-23.81667	-55.95	PY	00
+Isla Pucu	-27.4	-56.81667	PY	12
+Isla Pucu	-27.36667	-56.25	PY	11
+Cerro Pucu	-26.36667	-57.25	PY	15
+Providencia	-26.35	-57.25	PY	15
+Princesa	-24.11667	-58.46667	PY	16
+Primero de Marzo	-25.15	-56.91667	PY	08
+Primero de Junio	-24.56667	-57.66667	PY	16
+Primavera	-24.16667	-58.01667	PY	16
+Presidente Stroessner	-25.23333	-57.51667	PY	06
+Departamento de Presidente Hayes	-23.5	-58.83333	PY	16
+Presidente Franco	-25.53333	-54.61667	PY	01
+Ferrocarril Presidente Carlos A Lopez	-27.36667	-55.85	PY	00
+Fortin Presidente Ayala	-23.5	-59.76667	PY	16
+Arroyo Prazada	-26.9	-55.93333	PY	11
+Arroyo Pozuelo	-24.48333	-54.5	PY	19
+Pozo Grande	-22.25	-59.63333	PY	24
+Pozo Favorito	-23.08333	-59.88333	PY	16
+Pozo de Buey	-19.93333	-59.13333	PY	23
+Pozo Colorado	-23.46667	-58.96667	PY	16
+Laguna Pozo Azul	-22.28333	-59.41667	PY	16
+Pozo Azul	-24.1	-58.35	PY	16
+Pozo Azul	-22.25	-59.41667	PY	16
+Laguna Pozo	-23.05	-58.65	PY	16
+Potrero Yukeri	-26.36667	-55.56667	PY	11
+Potrero Yukeri	-25.08333	-55.33333	PY	04
+Potrero Ybate	-26.8	-56.1	PY	11
+Potrero San Pedro Mi	-26.48333	-55.71667	PY	11
+Potrero Palmas	-22.21667	-59.96667	PY	24
+Potrero Nu Pyahu	-26.26667	-55.93333	PY	05
+Potrero Nuevo	-22.58333	-58.06667	PY	16
+Potrero Guazu/Caazapa	-26.16667	-56.13333	PY	05
+Potrero Esteche	-27.13333	-57.63333	PY	13
+Potrero Caa	-26.55	-55.71667	PY	11
+Potrero Bulion	-24.96667	-55.41667	PY	04
+Potrero Be Nitez	-26.6	-56.85	PY	11
+Arroyo Poti-i	-27.31667	-55.85	PY	11
+Posta Poi	-25.5	-57.28333	PY	15
+Posta Leiva	-25.4	-57.56667	PY	06
+Porto Maria	-21.61667	-57.95	PY	23
+Cerro Porteno	-25.66667	-57.11667	PY	15
+Arroyo Poromoco	-26.95	-55.75	PY	11
+Loma Pora	-22.55	-57.36667	PY	07
+Laguna Pora	-22.93333	-58.46667	PY	16
+Arroyo Pora	-27.26667	-55.85	PY	11
+Arroyo Pora	-25.65	-57.03333	PY	15
+Riacho Poi	-27.3	-56.16667	PY	11
+Platero	-27.1	-57.18333	PY	13
+Planchada Timbo	-25.2	-54.8	PY	01
+Arroyo Piroy	-25.1	-55.43333	PY	04
+Piron	-19.86667	-58.43333	PY	23
+Riacho Pirizal	-23.15	-59.93333	PY	16
+Pirizal	-22.25	-58.55	PY	16
+Estero Pirity Cora	-26.93333	-56.61667	PY	11
+Arroyo Pirity	-27.08333	-56.68333	PY	12
+Estero Piri Pucu	-23.88333	-57.13333	PY	17
+Rio Piribebuy	-25.1	-57.38333	PY	06
+Piribebuy	-25.48333	-57.05	PY	08
+Sierra de Pirayu	-25.51667	-57.26667	PY	15
+Arroyo Pirayu	-26.85	-55.23333	PY	11
+Arroyo Pirayu	-25.36667	-57.25	PY	15
+Pirayu	-25.48333	-57.23333	PY	15
+Pirayu	-25.46667	-57.23333	PY	15
+Arroyo Piray	-25.7	-56.66667	PY	04
+Arroyo Piray	-24.38333	-57.05	PY	17
+Arroyo Piray	-23.58333	-55.88333	PY	02
+Rio Piratiy	-24.13333	-54.36667	PY	19
+Arroyo Piratiy	-24.8	-55.36667	PY	00
+Piratey	-26.55	-55.28333	PY	11
+Yerbales del Pirapytay	-25.8	-54.86667	PY	01
+Arroyo Pira Pyta	-25.88333	-54.73333	PY	01
+Arroyo Pirapyta	-25.33333	-54.53333	PY	01
+Arroyo Pirapo-mi	-25.96667	-56.16667	PY	10
+Rio Pirapo Guazu	-26.13333	-56.23333	PY	05
+Arroyo Pirapo	-26.93333	-55.48333	PY	11
+Arroyo Pirapo	-26.66667	-56.63333	PY	05
+Pirapo	-26.85	-55.53333	PY	11
+Arroyo Pirapey	-26.7	-55.18333	PY	11
+Piquete Cue	-25.11667	-57.5	PY	06
+Pio Cue	-26.36667	-55.86667	PY	05
+Cerro Pinto	-25.78333	-57.18333	PY	15
+Pindura-cue	-22.85	-56.66667	PY	07
+Pindoyu	-26.06667	-55.98333	PY	05
+Pindoty Yerbales	-23.65	-55.7	PY	00
+Pindo	-26.2	-55.93333	PY	05
+Pindo	-26.23333	-55.96667	PY	05
+Rio Pilcomayo	-25.35	-57.66667	PY	00
+Rio Pilcomayo	-25.28333	-57.68333	PY	16
+Pilar	-26.86879	-58.29346	PY	13
+Arroyo Pikyry	-27.03333	-56.96667	PY	12
+Arroyo Pikyry	-25.2	-54.46667	PY	01
+Pikyry	-25.18333	-54.55	PY	01
+Arroyo Piky	-25.66667	-55.23333	PY	01
+Arroyo Pikupo	-25.56667	-55	PY	01
+Arroyo Pikisyry	-25.56667	-57.56667	PY	06
+Piila	-25.21667	-54.95	PY	01
+Arroyo Perulero	-25.85	-56.4	PY	10
+Oratorio Perpetuo Socorro	-26.71667	-56.1	PY	11
+Cerro Pero	-25.9	-56.15	PY	10
+Arroyo Pera	-25	-56.5	PY	04
+Peninsula	-25.63333	-54.61667	PY	01
+Arroyo Pena	-25.48333	-57.21667	PY	15
+Pelanca	-26.28333	-55.28333	PY	11
+Pelada	-26.8	-57.6	PY	12
+Arroyo Peguajho	-25.56667	-57.41667	PY	06
+Peguajho	-22.26667	-56.38333	PY	02
+Pedrozo	-25.4	-57.2	PY	06
+Pedro P. Caballero	-25.5	-57.01667	PY	08
+Pedro Juan Caballero	-22.54722	-55.73333	PY	02
+Pedro Gonzalez	-27.16667	-58.25	PY	13
+Laguna Pe	-25.91667	-57.78333	PY	13
+Laguna Pe	-23.03333	-58.5	PY	16
+Estero Pe	-25.33333	-56.61667	PY	08
+Cerro Pe	-25.65	-57.43333	PY	06
+Arroyo Payaguay	-24.86667	-54.81667	PY	01
+Yerbales del Payaguary	-24.81667	-54.8	PY	00
+Cerro Pau	-24.18333	-55.1	PY	19
+Laguna Pato	-23.18333	-58.66667	PY	16
+Arroyo Patiy	-26.66667	-56.65	PY	12
+Estero Patino	-24.08333	-59.83333	PY	16
+Cerro Patino	-25.33333	-57.35	PY	06
+Arroyo Patino	-25.31667	-55.55	PY	04
+Patino	-25.35	-57.33333	PY	06
+Pastoreo mi	-25.48333	-55.41667	PY	01
+Arroyo Pastoreo	-25.45	-55.68333	PY	04
+Pastoreo	-26.83333	-55.73333	PY	11
+Pastoreo	-25.38333	-55.83333	PY	04
+Arroyo Paso Vera	-25.38333	-57.25	PY	06
+Paso Tuya	-23.3	-56.56667	PY	07
+Arroyo Paso Pypucu	-25.65	-56.75	PY	15
+Arroyo Paso Pe	-25.35	-57.4	PY	06
+Arroyo Paso Naranja	-26.21667	-56.06667	PY	05
+Paso Mbutu	-23.1	-56.86667	PY	07
+Arroyo Paso Malo	-25.43333	-56.8	PY	08
+Arroyo Paso Lima	-25.33333	-57.11667	PY	08
+Arroyo Paso Jhu	-25.88333	-54.61667	PY	01
+Arroyo Paso Ita	-25.08333	-55.06667	PY	01
+Paso Ita	-24.36667	-54.95	PY	19
+Paso Ita	-25.06667	-54.93333	PY	01
+Paso de Patria	-27.21667	-58.58333	PY	13
+Paso Curuzu	-23.63333	-56.1	PY	17
+Arroyo Paso Caury	-25.53333	-56.96667	PY	15
+Paso Canoa	-26.98333	-57.85	PY	13
+Paso Cadena	-24.9	-55.3	PY	04
+Arroyo Paso	-25	-56.28333	PY	04
+Parodi	-24.6	-54.36667	PY	19
+Estero Pariri	-25.16667	-57.68333	PY	16
+Cerro Parigini	-25.08333	-56.45	PY	04
+Pareja	-26.3	-54.75	PY	11
+Isla Paray	-25.81667	-57.78333	PY	06
+Arroyo Paray	-25.8	-57.8	PY	00
+Paranambu	-25.86667	-55.18333	PY	01
+Paranambu	-25.83333	-54.83333	PY	01
+Paraje Tuyuyu	-22.9	-59.46667	PY	16
+Paraje Linda	-26.38333	-55.11667	PY	11
+Paraguay Puajhu	-24.7	-54.46667	PY	01
+Rio Paraguai	-27.3	-58.63333	PY	00
+Riacho Paraguay	-22.78333	-57.9	PY	00
+Republic of Paraguay	-23.33333	-58	PY	00
+Departamento de Paraguari	-26	-57.16667	PY	15
+Paraguari	-25.62083	-57.14722	PY	15
+Paraguari	-25.63333	-57.15	PY	15
+Paragua Potrero	-26.25	-56.53333	PY	05
+Isla Pantita-Cue	-27.41667	-56.85	PY	12
+Arroyo Panete Mboy	-26.76667	-56.98333	PY	12
+Isla Pancho Cue	-25.41667	-56.68333	PY	04
+Panchito Lopez	-27.4	-57.26667	PY	12
+Panadero	-23.65	-55.9	PY	02
+Isla Palo Seco	-27.45	-56.38333	PY	11
+Palo Santo	-24.58333	-59	PY	16
+Isla Paloma	-27.35	-56.41667	PY	11
+Arroyo Palmito	-26.81667	-55.7	PY	11
+Palmeta	-25.75	-55.81667	PY	10
+Salto Palmar	-24.35	-59.46667	PY	00
+Cerro Palacios	-25.58716	-57.18513	PY	15
+Pajonales	-24.61667	-58.86667	PY	16
+Cerro Paiva	-22.3	-57.46667	PY	07
+Pairo-cue	-24.23333	-57.6	PY	16
+Cerro Pacuti	-26.31667	-55.66667	PY	05
+Pacu Cua	-27.4	-55.81667	PY	11
+Pacoya	-24.01667	-55.16667	PY	19
+Yerbal Pacoba	-22.98333	-56.06667	PY	02
+Paso Pacoba	-22.9	-56.06667	PY	02
+Cerro Pabla	-26.7	-55.81667	PY	11
+Arroyo Ovecha	-25.55	-56.9	PY	15
+Otazu	-21.98333	-58.36667	PY	23
+Arroyo Oroy	-27.43333	-55.76667	PY	11
+Oratorio San Antonio	-27.18333	-57.65	PY	13
+Oratorio San Antonio	-26.88333	-56.88333	PY	12
+Oratorio Juan Bautista	-26.31667	-56.93333	PY	15
+Laguna Oieta	-21.13333	-58.7	PY	23
+Cerrito Ohia	-20.45	-58.71667	PY	23
+Ohia	-20.48333	-58.71667	PY	23
+Isla Oculto	-27.53333	-56.48333	PY	11
+Obraje Natalia	-23.48333	-56.06667	PY	02
+Obraje General Diaz	-25.08333	-54.55	PY	01
+Obligado	-27.03333	-55.63333	PY	11
+Riacho Obilebit	-21.2	-58.8	PY	23
+Cerro Obi	-25.91667	-56.95	PY	15
+Nu Rugua	-23.58333	-56.73333	PY	17
+Nu Pyajhu	-26.26667	-55.9	PY	05
+Nu Poi	-25.23333	-55.06667	PY	04
+Nu Poi	-25.2	-55.08333	PY	04
+Nunez	-24.95	-58.23333	PY	16
+Numi	-25.95	-56.31667	PY	10
+Arroyo Nu Ihovy	-25.63333	-55.66667	PY	04
+Nu Guazu	-25.26667	-57.51667	PY	06
+Nueva Virginia	-22.96667	-55.66667	PY	02
+Nueva Londres	-25.41667	-56.53333	PY	04
+Nueva Italia	-25.61667	-57.5	PY	06
+Nueva Germania	-23.9	-56.56667	PY	17
+Nueva Colombia	-25.18333	-57.35	PY	08
+Nueva Alborada	-27.25	-55.61667	PY	11
+Cerro Nu Cany	-26.3	-55.5	PY	05
+Nu Cany	-26.26667	-55.56667	PY	05
+Arroyo Nuati	-25.63333	-57.21667	PY	15
+Cerro Nu	-25.66667	-57.43333	PY	06
+Northeast Hernandarias	-25.35	-54.56667	PY	01
+Arroyo Nemmisfara	-25.1	-55.43333	PY	04
+Cerro Nemby	-25.4	-57.53333	PY	06
+Arroyo Nemby	-25.4	-57.56667	PY	06
+Nemby	-25.3949	-57.53574	PY	06
+Rio Negro	-26.35	-57.75	PY	00
+Rio Negro	-25.26667	-57.68333	PY	16
+Rio Negro	-24.38333	-57.18333	PY	16
+Riacho Negro	-23.40444	-57.48139	PY	16
+Rio Negro	-20.16667	-58.16667	PY	00
+Riacho Negro	-25.06667	-57.86667	PY	16
+Arroyo Negro	-25.21667	-55.01667	PY	01
+Arroyo Negla	-22.86667	-56.68333	PY	00
+Rio Neembucu	-26.88333	-58.28333	PY	13
+Estero Neembucu	-27.23333	-56.85	PY	12
+Estero Neembucu	-27.1	-57.55	PY	13
+Departamento de Neembucu	-26.66667	-57.91667	PY	13
+Necons Wais	-23.51667	-58.15	PY	16
+Navidad	-25.78333	-55.88333	PY	10
+Arroyo Natiuy	-24.91667	-56.4	PY	00
+Natalio	-26.71667	-55.08333	PY	11
+Natalicio Talavera	-25.63333	-56.3	PY	10
+Cerro Naranjo	-25.5	-57.08333	PY	00
+Arroyo Naranjo	-25.51667	-57.03333	PY	15
+Naranjito	-26.95	-58.45	PY	13
+Naranjito	-26.31667	-55.21667	PY	11
+Naranjito	-24.51667	-55.25	PY	00
+Arroyo Naranjay	-25.81667	-57.06667	PY	15
+Naranjal	-25.96667	-55.18333	PY	01
+Naranjal	-25.1	-57.56667	PY	16
+Arroyo Napegue	-23.08333	-57.66667	PY	00
+Arroyo Napegue	-22.8	-56.65	PY	02
+Nanduro Cai	-24.01667	-55.51667	PY	19
+Cerro Nandua	-25.55	-57.33333	PY	06
+Arroyo Nandua	-25.61667	-57.35	PY	15
+Nanawa	-25.26667	-57.66667	PY	16
+Nacunday Superior	-25.98333	-55.05	PY	01
+Arroyo Nacunday Inferior	-25.96667	-55.01667	PY	01
+Rio Nacunday	-26.05	-54.75	PY	01
+Nacunday	-26.01667	-54.76667	PY	01
+Fortin Murgia	-23.55	-59.9	PY	16
+Riacho Mosquito	-22.2	-57.95	PY	00
+Arroyo Moroti-Guazu	-25.45	-56.18333	PY	04
+Cerro Moroti	-26.18333	-55.56667	PY	05
+Arroyo Moroti	-25.8	-55.83333	PY	05
+Laguna Morocha	-21.16667	-58.91667	PY	23
+Moras-cue	-26.46667	-57.25	PY	15
+Mopaii Moro	-23.46667	-58.18333	PY	16
+Montiel Potrero	-26.4	-57.46667	PY	15
+Sierra Monte Rosario	-25.93333	-56.05	PY	05
+Riacho Monte Lindo	-23.88611	-57.31556	PY	16
+Monte Lindo	-23.86667	-58.46667	PY	16
+Monges	-25.7	-56.6	PY	10
+Arroyo Monday Mi	-25	-55.5	PY	04
+Rio Monday	-25.6	-54.6	PY	01
+Estero Mombe	-25.46667	-56.73333	PY	04
+Molino-cue	-21.96667	-58.13333	PY	16
+Moises S. Bertoni	-26.36667	-56.43333	PY	05
+Isla Modosto	-27.35	-56.45	PY	11
+Mision Yalve Sanga	-22.6	-59.83333	PY	24
+Mision Verbo Divino	-25.25	-54.86667	PY	01
+Mision Nuevas Tribus	-23	-56.08333	PY	02
+Mision La Esperanza	-22.68333	-59.6	PY	16
+Mision Inglesa	-23.45	-58.23333	PY	16
+Departamento de Misiones	-27	-57	PY	12
+Mision del Divino Salvador	-25.45	-55.5	PY	04
+Mision Chica	-22.9	-58.83333	PY	16
+Mision Central	-23.45	-58.33333	PY	16
+Mirabeau	-22.48333	-57.3	PY	07
+Ministro Prieto	-23.11667	-59.86667	PY	16
+Arroyo Minas-cue	-25.46667	-56.88333	PY	08
+Minas-cue	-22.06667	-59.56667	PY	23
+Cerro Michin	-19.65	-59.56667	PY	23
+Mercedes	-24.95	-57.21667	PY	17
+Menchaca Cue	-23.91667	-55.66667	PY	19
+Cerro Memby	-22.83333	-56.36667	PY	07
+Rio Melo	-21.4	-57.9	PY	23
+Mello-cue	-22.33333	-58.53333	PY	16
+Cerro Medina	-25.83333	-56.96667	PY	15
+Arroyo Mbuyapey	-26.41667	-56.91667	PY	15
+Mbuyapey	-26.2	-56.75	PY	15
+Mbuyapey	-26.21667	-56.75	PY	15
+Estero Mbutuy	-24.83333	-56.83333	PY	17
+Arroyo Mbutuy	-27.23333	-56.28333	PY	11
+Mbutuy	-24.96667	-56.3	PY	04
+Paso Mbutu	-23.1	-56.78333	PY	07
+Arroyo Mburica	-25.45	-55.61667	PY	04
+Mburica	-26.71667	-58.18333	PY	13
+Arroyo Mbubue	-25.46667	-55.55	PY	04
+Arroyo Mborore	-27.08333	-55.53333	PY	11
+Isla Mborevi	-27.41667	-56.83333	PY	12
+Cerro Mborevi	-25.93333	-55.83333	PY	05
+Mbopicua	-24.31667	-57.11667	PY	04
+Arroyo Mboi-Cua	-25.38333	-54.7	PY	01
+Arroyo Mboicae	-27.33333	-55.9	PY	11
+Arroyo Mboi Cae	-27.31667	-55.85	PY	11
+Arroyo Mboi-Cae	-26.73333	-55.53333	PY	11
+Arroyo Mboicae	-25.48333	-55.81667	PY	04
+Mbocayaty Del Yhaguy	-25.33333	-56.71667	PY	08
+Mbocayaty	-25.7	-56.4	PY	10
+Mbocayaty	-25.36667	-56.7	PY	08
+Mbocaya South	-27.35	-56.73333	PY	12
+Mbocaya	-25.83333	-55.7	PY	05
+Pozo Mbeyu	-23.36667	-59.61667	PY	16
+Cerro Mbatovi	-25.56667	-57.1	PY	15
+Arroyo Mbatovi	-25.5	-57.2	PY	15
+Serra de Maracaju	-23.95	-55.01667	PY	00
+Arroyo Mbaey	-25.08333	-57.21667	PY	08
+Arroyo Mbaey	-25.73333	-57.2	PY	15
+Mayor Martinez	-27.15	-58.21667	PY	13
+Mayor Julio D. Otano	-26.3	-54.7	PY	11
+Arroyo Matadero	-25.6	-56.33333	PY	10
+Matachi	-25.85	-57.26667	PY	15
+Fortin Mariscal Lopez	-23.65	-59.73333	PY	16
+Mariscal F. S. Lopez	-24.66667	-55.36667	PY	04
+Marina	-24.91667	-57.28333	PY	16
+Maria Stella	-26.33333	-56.55	PY	05
+Riacho Maria	-21.6	-57.93333	PY	23
+Pozo Maria	-23.11667	-59.65	PY	16
+Cerro Marcelo Cue	-25.91667	-57.45	PY	06
+Manuel Amarilla	-25.41667	-57.18333	PY	15
+Manta Potrero	-23.16667	-55.56667	PY	02
+Arroyo Mangrullo	-25.81667	-55.9	PY	10
+Arroyo Mandy Soby	-27	-55.71667	PY	11
+Rio Manduvira	-24.98333	-57.2	PY	00
+Arroyo Manduvira	-26.95	-55.35	PY	11
+Mandijho	-25.53333	-56.7	PY	04
+Maldonado-cue	-22.71667	-56.81667	PY	07
+Fortin Madrejoncito	-20.83333	-59.83333	PY	23
+Fortin Madrejon	-20.63333	-59.86667	PY	23
+Maciel-cue	-27.18333	-56.61667	PY	11
+Maciel	-26.16667	-56.46667	PY	05
+Machain Cue	-24.96667	-55.45	PY	04
+Luque	-25.26703	-57.49107	PY	06
+Lourdes	-20.7	-59.05	PY	23
+Los Tigres	-24.86667	-58.36667	PY	16
+Los Pastos	-24.73333	-58.7	PY	16
+Los Exploradores	-24.78333	-58.61667	PY	16
+Los Cedrales	-25.65	-54.7	PY	01
+Loreto	-23.27083	-57.32444	PY	07
+Arroyo Lopez-cue	-25.08333	-54.66667	PY	01
+Trinchera de Lopez	-25.56667	-57.56667	PY	06
+Laguna Lopez	-22.56667	-59.68333	PY	16
+Escuela Lopez	-26.95	-55.76667	PY	11
+Lomita	-27.21667	-56.9	PY	12
+Lomas-cue	-26.51667	-57.91667	PY	13
+Loma Pora	-22.3	-58.2	PY	23
+Loma Plata	-22.38333	-59.85	PY	24
+Loma Piroy	-25.41667	-55.08333	PY	01
+Loma Paraiso	-25.55	-56.73333	PY	04
+Loma Jhovy	-26.45	-55.91667	PY	05
+Lomai	-27.18333	-58.26667	PY	13
+Loma-i	-26.25	-56.8	PY	15
+Loma Guazu	-26.18333	-56.75	PY	15
+Loma Grande	-25.16667	-57.21667	PY	08
+Loma	-27.23333	-57.36667	PY	13
+Loma	-25.73333	-56.55	PY	10
+Loma	-24.65	-57.11667	PY	16
+Loma	-26.85	-56.43333	PY	11
+Laguna Lobo	-23.16667	-58.61667	PY	16
+Banco Lobato	-25.76667	-57.78333	PY	06
+Laguna Loba	-22.43333	-58.98333	PY	16
+Limpio	-25.16611	-57.48562	PY	06
+Islas del Limosna	-27.26667	-58.11667	PY	00
+Cerro Lima	-25.46667	-57.48333	PY	06
+Arroyo Lima	-26.6	-55.58333	PY	11
+Lima	-23.9	-56.33333	PY	17
+Arroyo Leiva	-25.3	-56.53333	PY	04
+Leandro Oviedo	-26.71667	-56.23333	PY	11
+Laureles	-27.25	-57.46667	PY	13
+Laurel	-24.55	-54.91667	PY	19
+Laurel	-24.85	-55.18333	PY	01
+Laguna Lata	-22.73333	-58.78333	PY	16
+Las Palomas	-24.08333	-54.51667	PY	19
+La Rosada	-26.11667	-56.8	PY	15
+Riacho La Paz	-22.43333	-58.1	PY	07
+La Paz	-27.01667	-55.85	PY	11
+La Pastora	-25.23333	-56.53333	PY	04
+La Paloma	-26.98333	-56.28333	PY	11
+La Nina	-24.1	-56.71667	PY	17
+Landskrone	-22.63333	-59.4	PY	16
+La Mercedes	-25.28164	-57.61196	PY	06
+Laguna Pora	-22.83333	-55.96667	PY	02
+Estero Laguna Pero	-25.25	-56.7	PY	08
+Isla Laguna	-25.43333	-56.66667	PY	04
+La Colmena	-25.88333	-56.81667	PY	15
+La Cautiva	-25.16667	-57.56667	PY	16
+La Canada	-24.83333	-58.45	PY	16
+La Caida	-23.48333	-57.3	PY	07
+Arroyo Kiriri	-26.25	-55.63333	PY	05
+Kilometro 160	-22.08333	-59.33333	PY	00
+Kendall	-25.31667	-57.35	PY	06
+Katupyry	-26.48333	-55.53333	PY	11
+Julio Silva	-22.68333	-58.36667	PY	16
+Juan Piru-cue	-25.11667	-57.78333	PY	16
+Laguna Juanita	-23.08333	-59.68333	PY	16
+Juanita	-25.11667	-55.05	PY	01
+Juan E. O'leary	-25.41667	-55.38333	PY	01
+Juan de Mena	-24.91667	-56.73333	PY	08
+Juan Cue	-21.98333	-59.53333	PY	23
+J. Saldivar	-25.45	-57.4	PY	06
+J. Rodriguez	-22.01667	-58.33333	PY	23
+J. R. Chavez	-24.96667	-56.25	PY	04
+Jose Potrero	-26.88333	-56	PY	11
+Jose La Haye	-24.61667	-58.1	PY	16
+Riacho Josefina	-22.55	-59.46667	PY	16
+Jose Fassardi	-25.96667	-56.11667	PY	10
+Jorge Bolf	-27.28333	-56.43333	PY	11
+Jhugua Rey	-24.36667	-56.71667	PY	17
+Jhugua	-25.7	-56.53333	PY	10
+Arroyo Jhu	-27.31667	-55.93333	PY	11
+Arroyo Jhu	-27.18333	-55.63333	PY	11
+Arroyo Jhu	-26.45	-55.86667	PY	05
+Arroyo Jhu	-25.5	-55.95	PY	04
+Jesus	-27.06667	-55.71667	PY	11
+Jesus	-27.05	-55.78333	PY	11
+Jesus	-27.05	-55.73333	PY	11
+Jesuitas	-19.85	-59.28333	PY	23
+Rio Jejui Guazu	-24.21667	-57.15	PY	17
+Jejui Guazu	-24.21667	-55.6	PY	19
+Rio Jejui	-24.11667	-55.7	PY	19
+Jejui	-24.09956	-56.48415	PY	17
+J. E. Estigarribia	-25.38333	-55.6	PY	04
+Jardin	-24.41667	-56.11667	PY	17
+Isla Ity'a	-25.46667	-56.63333	PY	04
+Iturbe	-26.05	-56.48333	PY	10
+Iturbe	-26.05	-56.48333	PY	10
+Laguna Iteleu	-22.3	-59.31667	PY	16
+Itayuru	-26.55	-57.06667	PY	12
+Arroyo Itayndy	-27	-55.98333	PY	11
+Ita Ybate	-25.55	-57.51667	PY	06
+Ita Vera	-23.93333	-56.15	PY	17
+Ita Vepa	-25.96667	-54.63333	PY	01
+Itaugua Guazu	-25.4	-57.31667	PY	06
+Itaugua	-25.38333	-57.33333	PY	06
+Arroyo Itaquyry	-25.11667	-55.08333	PY	01
+Itaquyry	-24.93333	-55.21667	PY	01
+Itaquyry	-23.58333	-55.96667	PY	17
+Itapua Poty	-26.58333	-55.56667	PY	11
+Departamento de Itapua	-26.83333	-55.66667	PY	11
+Itapiru	-27.26667	-58.56667	PY	13
+Cerro Itape	-25.85	-56.55	PY	10
+Arroyo Itape	-25.15	-57.18333	PY	08
+Itape	-25.85	-56.61667	PY	10
+Arroyo Itangua	-27.25	-55.85	PY	11
+Rio Itanara	-24	-55.88333	PY	19
+Itanara	-23.81667	-55.78333	PY	19
+Cerro Itall	-25.41667	-57.15	PY	00
+Arroyo Itaky	-27.26667	-56.3	PY	11
+Itaipu	-25.4	-54.6	PY	01
+Yerbales del Itaimbey	-24.53333	-54.85	PY	19
+Itacurubi del Rosario	-24.5	-56.68333	PY	17
+Itacurubi de la Cordillera	-25.45	-56.85	PY	08
+Cerro Itacurubi	-25.68333	-57.56667	PY	06
+Itacurubi	-23.33333	-57.36667	PY	07
+Arroyo Itacua	-26.01667	-56.4	PY	10
+Arroyo Ita Coty	-25.68333	-54.65	PY	01
+Cerro Ita Cora	-25.08333	-57.3	PY	08
+Itacora	-27.2	-58.26667	PY	13
+Arroyo Ita Caguare	-27.1	-55.56667	PY	11
+Arroyo Itabo-mi	-25.06667	-54.6	PY	01
+Arroyo Itabo Guazu	-25.08333	-54.66667	PY	01
+Yerbales del Itabo	-25.05	-54.86667	PY	01
+Yerbal Itabo	-24.35	-54.6	PY	19
+Paso Ita	-23.43333	-55.66667	PY	02
+Arroyo Ita	-25.91667	-55.78333	PY	05
+Arroyo Ita	-25.8	-55.51667	PY	05
+Arroyo Ita	-25.61667	-57.35	PY	06
+Arroyo Ita	-25.61667	-56.33333	PY	10
+Arroyo Ita	-25.41667	-54.78333	PY	01
+Ita	-25.48333	-57.35	PY	06
+Isla Yapepo	-26.73333	-56.48333	PY	05
+Isla Umbu	-27	-58.3	PY	13
+Estacion Isla Saca	-26.46667	-56.41667	PY	05
+Isla Saca	-26.51667	-56.35	PY	05
+Isla Real	-22.61667	-57.65	PY	07
+Isla Pucu	-25.3	-56.9	PY	08
+Fortin Isla Poi	-22.5	-59.73333	PY	00
+Isla La Muerte	-22.55	-56.66667	PY	02
+Isla Guazu	-25.28333	-56.78333	PY	08
+Isla Cuatro	-19.75	-58.23333	PY	23
+Isla Alta	-27	-56.31667	PY	11
+Isla Alta	-27.05	-56.26667	PY	11
+Isla Alta	-23.98333	-56.26667	PY	17
+Isla Alta	-25.9	-57.75	PY	13
+Isla Aguaray	-25.63333	-56.71667	PY	04
+Isidro	-27.36667	-55.81667	PY	11
+Paso Irala	-26.56667	-56.8	PY	05
+Insfran-cue	-24.55	-57.91667	PY	16
+Laguna Inmakata	-21.11667	-58.91667	PY	23
+Arroyo Ingua	-27.05	-56.75	PY	12
+Industrial Paraguaya	-25.26667	-54.61667	PY	01
+Industrial Carlos Slguin	-25.03333	-54.73333	PY	01
+Pozo Indio	-22.03333	-59.7	PY	23
+Laguna India	-21.53333	-59.83333	PY	23
+Independencia	-25.71667	-56.25	PY	10
+Cerro Ibytyhu	-25.31667	-56.9	PY	08
+Ibapobo	-19.66667	-58.73333	PY	23
+Humaita	-27.05	-58.55	PY	13
+Horqueta-Mi	-24.13333	-55.26667	PY	19
+Paso Horqueta	-23.08806	-57.39472	PY	07
+Horqueta	-24.9	-58.3	PY	16
+Horqueta	-23.4	-56.88333	PY	07
+Riacho Hondo	-27.4	-56.76667	PY	11
+Arroyo Hondo	-27.03333	-58.51667	PY	13
+Arroyo Hondo	-24.98333	-56.56667	PY	00
+Arroyo Hondo	-24.86667	-56.71667	PY	00
+Hohenau	-27.08333	-55.75	PY	11
+Hohenau	-27.06667	-55.63333	PY	11
+Herrera Cue	-25.15	-54.81667	PY	01
+Hernandarias North	-25.35	-54.63333	PY	01
+Hernandarias	-25.36667	-54.75	PY	01
+Arroyo Hermoso	-22.31667	-56.83333	PY	07
+Laguna Hermosa	-22.58333	-59.1	PY	16
+Isla Hermosa	-25.9	-57.81667	PY	13
+Hachita	-24.6	-56.18333	PY	17
+Rio Guyraugua	-25.51667	-55.51667	PY	04
+Guyra Toro	-19.73333	-58.61667	PY	23
+Puerto Guyrati	-25.58333	-57.6	PY	06
+Arroyo Guyracay	-26.8	-56.1	PY	11
+Gutierrez-cue	-26.71667	-58.33333	PY	13
+Arroyo Gurory	-25.13333	-55.35	PY	04
+Arroyo Guile	-25.1	-57.26667	PY	08
+Arroyo Guembety-mi	-25.66667	-55.23333	PY	01
+Arroyo Guembety Guazu	-25.63333	-55.23333	PY	01
+Guazu Ygua	-25.36667	-54.76667	PY	01
+Cerro Guazu Rocai	-25.4	-57.06667	PY	08
+Arroyo Guazu Kati	-27.11667	-55.73333	PY	11
+Guazu Hoga	-25.33333	-57.11667	PY	08
+Arroyo Guazu Cua	-25.68333	-57.1	PY	15
+Guazucua	-26.88333	-58.05	PY	13
+Laguna Guazu	-27.28333	-56.95	PY	12
+Laguna Guazu	-23.13333	-58.75	PY	16
+Estero Guazu	-25.21667	-57.68333	PY	16
+Estero Guazu	-24.5	-57.33333	PY	16
+Cerro Guazu	-26.68333	-55.9	PY	11
+Cerro Guazu	-23.11667	-56	PY	02
+Arroyo Guazu	-25.86667	-55.5	PY	00
+Arroyo Guazu	-25.56667	-56.28333	PY	04
+Arroyo Guazu	-25.53333	-55.75	PY	04
+Arroyo Guazu	-23.95	-55.6	PY	19
+Arroyo Guazu	-23.3	-56.3	PY	00
+Arroyo Guazu	-22.65	-56.26667	PY	02
+Guayaybi	-24.53333	-56.43333	PY	17
+Guayaqui Cua	-25.28333	-56.01667	PY	04
+Guayaki	-26.28333	-55.81667	PY	05
+Arroyo Guaviyu	-27.28333	-56.01667	PY	11
+Guardia Oliva	-22.21667	-56.33333	PY	02
+Guardia-cue	-23.73333	-57.15	PY	17
+Guarapay	-26.55	-54.78333	PY	11
+Fortin Guarani	-22.73333	-59.5	PY	16
+Fortin Guaran	-24.05	-59.7	PY	16
+Guami Tapere	-23.18333	-55.88333	PY	02
+Guajho	-22.28333	-58.18333	PY	00
+Guajho	-22.76667	-58.4	PY	16
+Arroyo Guaireno	-23.31667	-56.58333	PY	07
+Salto das Sete Quedas	-24.03333	-54.26667	PY	00
+Departamento del Guaira	-25.8	-56.26667	PY	10
+Cerro Guaicuru	-25.93333	-57.4	PY	15
+Guaica	-24.7	-56.5	PY	17
+Arroyo Guabiyu	-27	-56.08333	PY	11
+Granja Tres Maria	-23.01667	-55.65	PY	02
+Monte Grande	-26.71667	-56	PY	11
+Riacho Gonzalez	-22.8	-57.9	PY	00
+Arroyo Gonzalez	-27	-56.98333	PY	12
+Fortin Gondra	-23.26667	-59.85	PY	16
+Golondrina	-24.93333	-57.7	PY	16
+Golondrina	-24.6	-55.35	PY	04
+Cerro Gimenez	-25.83333	-57.03333	PY	15
+Gimenez	-20.06667	-58.21667	PY	23
+General Morinigo	-26	-56.08333	PY	05
+General Jose Eduvigis Diaz	-27.16667	-58.41667	PY	13
+General Isidoro Resquin	-24.06667	-56.48333	PY	17
+General Higinio Morinigo	-25.95	-55.91667	PY	05
+Fortin General Genes	-24.01667	-59.55	PY	16
+General Francisco Caballero	-24.1	-54.78333	PY	19
+General Eugenio Garay	-25.91667	-56.18333	PY	10
+General Elizardo Aquino	-24.43333	-56.7	PY	17
+Fortin General Duarte	-23.56667	-59.88333	PY	16
+Laguna General Diaz	-22.3	-59.01667	PY	16
+Laguna General Diaz	-21.16667	-58.53333	PY	23
+Fortin General Diaz	-21.11667	-58.66667	PY	23
+Fortin General Delgado	-24.5	-59.33333	PY	16
+General Delgado	-27.16667	-56.51667	PY	11
+General Delgado	-27.08333	-56.51667	PY	11
+Fortin General Caballero	-24.13333	-59.5	PY	16
+Fortin General Bruguez	-24.75	-58.88333	PY	16
+General Artigas	-26.93333	-56.21667	PY	11
+General Artigas	-26.95	-56.21667	PY	11
+Fortin General Aquino	-24.13333	-59.36667	PY	16
+Fortin Gaspar Rodriguez de Francia	-23	-59.95	PY	00
+Gaspar Rodriguez de Francia	-25.5	-54.61667	PY	01
+Gaspar-cue	-24.46667	-58.31667	PY	16
+Laguna Garza	-22.58333	-59.35	PY	16
+Garrapata	-19.7	-58.71667	PY	23
+Garcete	-25.05	-58.03333	PY	16
+Garay-cue	-26.43333	-57.81667	PY	13
+Arroyo Garape-mi	-25.85	-57.63333	PY	06
+Gaona-cue	-22.96667	-57.1	PY	07
+Laguna Ganso	-22.53333	-59.61667	PY	16
+Laguna Ganso	-22.31667	-59.05	PY	16
+Ganadera Salitre Cue	-26.75	-56.33333	PY	11
+Cerro Galvan	-22.38333	-58.03333	PY	16
+Galpones	-26.2	-58.15	PY	13
+Fortin Galpon	-19.85	-58.26667	PY	23
+Cerro Galpon	-25.33333	-56.86667	PY	08
+Galli	-26.78333	-57.65	PY	00
+Galeano Cue	-26.21667	-56.33333	PY	05
+Arroyo Gadea	-25.93333	-55.01667	PY	01
+Fuerte Olimpo	-21.04153	-57.87377	PY	23
+Isla Fretes	-25.96667	-57.41667	PY	15
+Laguna Frente Dos	-21.25	-59.6	PY	23
+Francisco	-27.15	-56.35	PY	11
+Fram	-26.98333	-55.88333	PY	11
+Arroyo Fortuna	-25.28333	-54.85	PY	01
+Fortuna	-25.11667	-54.83333	PY	01
+Fondo	-24.05	-57.6	PY	16
+Florido	-25.16667	-55.06667	PY	04
+Fortin Florida	-20.75	-59.28333	PY	23
+Florida	-23.48333	-58.48333	PY	16
+Fleitas Cue	-26.65	-55.81667	PY	11
+Fiore	-25.03333	-58.06667	PY	16
+Fernando de la Mora	-25.3386	-57.52167	PY	06
+Felix Perez Cardozo	-25.74199	-56.52278	PY	10
+Felix de Azara	-25.33333	-54.73333	PY	01
+Arroyo Federico	-25.65	-54.88333	PY	01
+Fassardi	-25.95	-56.1	PY	10
+Fortin Falcon	-23.05	-59.85	PY	16
+Ex Fortin Sanidad	-23.93333	-59.8	PY	16
+Ex Fortin Chanar	-23.98333	-59.78333	PY	16
+Eusebio Ayala	-25.4	-56.96667	PY	08
+Estribo de Plata	-23.1	-56.75	PY	07
+Arroyo Estrella	-22.08333	-56.48333	PY	00
+Estero Bellaco	-27.18333	-57.88333	PY	13
+Esterito	-24.53333	-58.95	PY	16
+Estanzuela	-25.86667	-57.66667	PY	13
+Estancia Zarza	-26.65	-56.38333	PY	05
+Estancia Zarza	-26.68333	-56.4	PY	05
+Estancia Zapatero-cue	-23.28333	-57.35	PY	07
+Estancia Zapallo	-22.53333	-56.53333	PY	02
+Estancia Yukyry	-23.66417	-57.6875	PY	16
+Estancia Yui	-23.71667	-59.95	PY	16
+Estancia Ypecua	-25.11667	-57.23333	PY	08
+Estancia Ypecua	-25.05	-57.31667	PY	08
+Estancia Ypane	-23.4	-56.35	PY	17
+Estancia Yetyty	-23.56917	-57.65333	PY	16
+Estancia Ybyracapa	-24.5	-57.08333	PY	17
+Estancia Yasamathasla	-23.4	-58.6	PY	16
+Estancia Yacua Nu	-27.05	-56.61667	PY	11
+Estancia Buena Vista	-23.37417	-57.8575	PY	16
+Estancia Villa Rey	-24.73333	-57.2	PY	16
+Estancia Villa Real	-24.36667	-58.53333	PY	16
+Estancia Villa Alegre	-24.3	-58.91667	PY	16
+Estancia Victoriano Ortiz	-27.15	-57.31667	PY	13
+Estancia Victoria	-24.5	-57.18333	PY	16
+Estancia Victoria	-23.7	-58.6	PY	16
+Estancia Rio Verde	-23.87222	-57.42417	PY	16
+Estancia Va y Viene	-23.67639	-57.57194	PY	16
+Estancia Vargas	-25.85	-57.33333	PY	15
+Estancia Vanguardia	-23.76917	-57.68722	PY	16
+Estancia Vallejos	-24.01667	-58.98333	PY	16
+Estancia Uruguaya	-23.95	-58.01667	PY	16
+Estancia Uruguaita	-24.75	-57.15	PY	17
+Estancia Ugarte-cue	-23.01667	-57.35	PY	07
+Estancia Typucha	-26.41667	-56.5	PY	05
+Estancia Tuya	-27.2	-57.16667	PY	12
+Estancia Tuparenda	-22.66667	-58.46667	PY	16
+Estancia Triunfo	-20.68333	-58.01667	PY	23
+Estancia Tres Toritos	-20.76667	-59.11667	PY	23
+Estancia Tres Lagunas	-20.78333	-59.46667	PY	23
+Estancia Tres de Mayo	-24.61667	-59.01667	PY	16
+Estancia Trementina	-22.75	-56.85	PY	07
+Estancia Totore	-22.96667	-56.76667	PY	07
+Estancia Toro Paso	-25.06667	-56.68333	PY	08
+Estancia Toro Paso	-25.03333	-56.7	PY	08
+Estancia Toro Paso	-25.05	-56.73333	PY	08
+Estancia Toro Blanco	-23.98333	-59.33333	PY	16
+Estancia Tomas Cue	-22.61667	-58.71667	PY	16
+Estancia Toldo Grande	-22.88333	-59.33333	PY	16
+Estancia Toldo Cue	-24.55	-59.16667	PY	16
+Estancia Toldo-Cue	-22.48333	-57.28333	PY	07
+Estancia Toldo Cue	-22.43333	-56.7	PY	07
+Estancia Toja	-24.25	-59.38333	PY	16
+Estancia Terrado	-23.28333	-56.3	PY	07
+Estancia Tatare	-26.98333	-56.61667	PY	11
+Estancia Tatare	-23.91667	-59.1	PY	16
+Estancia Taruma	-26.31667	-56.16667	PY	05
+Estancia Taruma	-25.48333	-56.66667	PY	04
+Estancia Taruma	-24.63333	-58.05	PY	16
+Estancia Taruma	-23.1	-57.23333	PY	07
+Estancia Taruma	-26.3	-56.15	PY	05
+Estancia Tanco	-23.1	-58.21667	PY	16
+Estancia Talavera	-23.95	-59.03333	PY	16
+Estancia Talavera	-23.86667	-58.28333	PY	16
+Estancia Tagatiya	-22.88333	-57.63333	PY	07
+Estancia Tacuru	-24.18333	-56.95	PY	17
+Estancia Tacuara	-24.6	-58.03333	PY	16
+Estancia Tacuara	-24.56667	-57	PY	17
+Estancia Tacuara	-23.2	-56.31667	PY	07
+Estancia Tacho Cue	-22.2	-57.86667	PY	07
+Estancia Surubi	-25.18333	-57.5	PY	06
+Estancias Paraiso	-23.71667	-58.13333	PY	16
+Estancia Sotera	-25.96667	-57.8	PY	13
+Estancia Sosa	-26.38333	-56.98333	PY	15
+Estancia Sosa	-26.25	-57.71667	PY	13
+Estancia Sosa	-25.23333	-57.71667	PY	16
+Estancia Sosa	-25.2	-57.61667	PY	16
+Estancia Sol Naciente	-21.03333	-58.86667	PY	23
+Estancia Soledad	-23.66667	-58.3	PY	16
+Estancia Soledad	-23.13333	-56.71667	PY	12
+Estancia Sofia	-22.33333	-57.15	PY	07
+Estancias La Blanca	-23.78333	-58.13333	PY	16
+Estancia Silvio Codas East	-26.43333	-56.2	PY	05
+Estancia Silvio Codas	-26.41667	-56.33333	PY	05
+Estancia Siete Puntas	-23.63333	-57.43333	PY	16
+Estancias Guazu	-23.53333	-58.26667	PY	16
+Estancia Seripi	-27.26667	-56.33333	PY	11
+Estancia Sebastian-cue	-23.28333	-57.61667	PY	16
+Estancia Sarubi	-26.2	-56.25	PY	05
+Estancia Sarubi	-25.18333	-57.5	PY	06
+Estancia Sapira	-26.46667	-56.56667	PY	05
+Estancia Sapara	-26.41667	-55.9	PY	05
+Estancia San Victor	-25.36667	-56.6	PY	04
+Estancia San Victor	-22.63333	-56.46667	PY	02
+Estancia Santo Tomas	-26.58333	-56.88333	PY	12
+Estancia Santo Domingo	-23.93333	-59.7	PY	16
+Estancia Santo Domingo	-27.2	-56.51667	PY	11
+Estancia Santa Teresa	-26.58333	-55.98333	PY	11
+Estancia Santa Teresa	-24.11667	-59.88333	PY	16
+Estancia Santa Teresa	-21.06667	-59.08333	PY	23
+Estancia Santa Teresa	-25.75	-55.56667	PY	05
+Estancia Santa Sofia	-24.41667	-59.06667	PY	16
+Estancia Santa Rufina	-20.93333	-58.26667	PY	23
+Estancia Santa Rosa	-26.68333	-56.21667	PY	05
+Estancia Santa Rosa	-26.48333	-58	PY	13
+Estancia Santa Rita	-20.85	-58.83333	PY	23
+Estancia Santa Maria	-25.1	-57.26667	PY	08
+Estancia Santa Maria	-24.26667	-58.6	PY	16
+Estancia Santa Maria	-24.25	-58.11667	PY	16
+Estancia Santa Maria	-23.95	-59.96667	PY	16
+Estancia Santa Maria	-23.06667	-59.2	PY	16
+Estancia Santa Maria	-22.75	-57.46667	PY	07
+Estancia Santa Luisa	-22.43333	-56.76667	PY	07
+Estancia Santa Lucia	-24.66667	-57.75	PY	16
+Estancia Santa Lucia	-23.81667	-54.61667	PY	19
+Estancia Santa Juanita	-23	-58.5	PY	16
+Estancia Santa Jacinta	-24.88333	-57.66667	PY	16
+Estancia Santa Isolina	-27.15	-57.55	PY	13
+Estancia Santa Isabel	-24.76667	-58.4	PY	16
+Estancia Santa Isabel	-24.63333	-57.78333	PY	16
+Estancia Santa Gabriela	-23.46667	-58.66667	PY	16
+Estancia Santa Gabriela	-20.93333	-58.3	PY	23
+Estancia Santa Filomena	-26.73333	-57.38333	PY	12
+Estancia Santa Emilia	-22.68333	-59.15	PY	16
+Estancia Santa Elisa	-26.93333	-57.48333	PY	12
+Estancia Santa Elisa	-23.76722	-57.83722	PY	16
+Estancia Santa Clara	-27.36667	-56.86667	PY	12
+Estancia Santa Catalina	-26.5	-57.73333	PY	13
+Estancia Santa Catalina	-24.28333	-57.31667	PY	16
+Estancia Santa Catalina	-23.65	-58.21667	PY	16
+Estancia Santa Aurelia	-24.8	-58.11667	PY	16
+Estancia Santa Asuncion	-23.86667	-58.6	PY	16
+Estancia Santa Arsenia	-24.13333	-57.76667	PY	16
+Estancia Santa Ana	-26.2	-56.93333	PY	15
+Estancia Santa Ana	-24.73333	-56.55	PY	17
+Estancia Santa Ana	-23.66667	-55.7	PY	02
+Estancia Santa Ana	-23.65	-58.46667	PY	16
+Estancia San Solano	-26.5	-56.53333	PY	05
+Estancia San Solano	-26.46667	-56.5	PY	05
+Estancia San Sinfo	-26.3	-56.78333	PY	15
+Estancia San Sebastian	-23.71667	-58.3	PY	16
+Estancia San Roque	-26.56667	-56.98333	PY	12
+Estancia San Roque	-22.35	-59.01667	PY	16
+Estancia San Ramon	-23.06667	-59	PY	16
+Estancia San Rafael	-24.71667	-57.85	PY	16
+Estancia San Rafael	-24.2	-57.31667	PY	16
+Estancia San Rafael	-23.61667	-59.83333	PY	16
+Estancia San Rafael	-22.61667	-56.73333	PY	07
+Estancia San Piero	-23.48333	-55.65	PY	02
+Estancia San Pedro	-22.53333	-58.43333	PY	16
+Estancia San Patricia	-25.5	-56.56667	PY	04
+Estancia San Pablo	-26.23333	-56.56667	PY	05
+Estancia San Onofre	-23.81167	-57.58028	PY	16
+Estancia San Nicolas	-26.06667	-56.23333	PY	05
+Estancia San Miguelito	-26.78333	-56.75	PY	12
+Estancia San Miguel	-24.31667	-56.38333	PY	17
+Estancia San Miguel	-23.71667	-59.96667	PY	16
+Estancia San Miguel	-23.3	-56.1	PY	02
+Estancia San Miguel	-22.6	-56.88333	PY	07
+Estancia San Miguel	-25.95	-57.78333	PY	13
+Estancia San Marcos	-25.26667	-56.68333	PY	08
+Estancia San Luis	-26.63333	-56.65	PY	05
+Estancia San Luis	-26.53333	-56.78333	PY	05
+Estancia San Luis	-25.2	-57.35	PY	08
+Estancia San Luis	-25.06667	-57.6	PY	16
+Estancia San Luis	-23.55	-59.36667	PY	16
+Estancia San Luis	-22.98333	-58.76667	PY	16
+Estancia San Luis	-22.43333	-57.45	PY	07
+Estancia San Lorenzo	-23.53333	-59.91667	PY	16
+Estancia San Juan Bautista	-24.66667	-58.78333	PY	16
+Estancia San Juan	-27.15	-56.66667	PY	12
+Estancia San Juan	-25.26667	-55.91667	PY	04
+Estancia San Juan	-24.51667	-57.7	PY	16
+Estancia San Juan	-23.76667	-55.85	PY	02
+Estancia San Juan	-23.55	-55.71667	PY	02
+Estancia San Juan	-23	-59.6	PY	16
+Estancia San Juan	-23	-59.56667	PY	16
+Estancia San Juan	-22.86667	-56.58333	PY	02
+Estancia San Juan	-20.88333	-59.26667	PY	23
+Estancia San Jose	-24.83333	-57.93333	PY	16
+Estancia San Jose	-24.16667	-58.83333	PY	16
+Estancia San Jose	-23.75306	-57.6075	PY	16
+Estancia San Jose	-22.46667	-57.83333	PY	16
+Estancia San Jorge	-21.05	-58.1	PY	23
+Estancia San Isidro	-26.51667	-55.86667	PY	11
+Estancia Sanguina	-22.93333	-56.63333	PY	07
+Estancia San Geronimo South	-26	-57.41667	PY	15
+Estancia San Fernando	-25.18333	-57.71667	PY	16
+Estancia San Fernando	-23.96667	-58.25	PY	16
+Estancia San Fernando	-23.1	-58.5	PY	16
+Estancia San Felipe	-23.82472	-57.72472	PY	16
+Estancia San Elisa	-22.4	-58.93333	PY	16
+Estancia San Diego	-22.98333	-57.56667	PY	07
+Estancia San Carlos	-24.85	-56.9	PY	17
+Estancia San Carlos	-23.96667	-58.86667	PY	16
+Estancia San Blas	-24.33333	-59.51667	PY	16
+Estancia San Blas	-22.55	-56.9	PY	07
+Estancia San Antonio	-27.08333	-56.41667	PY	11
+Estancia San Antonio	-26.78333	-57.91667	PY	13
+Estancia San Antonio	-24.65	-58.65	PY	16
+Estancia San Antonio	-24.3	-58.26667	PY	16
+Estancia San Antonio	-23.01667	-56.86667	PY	07
+Estancia San Antonio	-21.81667	-59.23333	PY	23
+Estancia San Antonio	-21.16667	-57.93333	PY	23
+Estancia San Alfredo	-23.00194	-57.49333	PY	07
+Estancia San Alfredo	-22.46667	-56.43333	PY	02
+Estancia Salto Cue	-26.8	-56.53333	PY	11
+Estancia Salto Cue	-26.8	-56.53333	PY	11
+Estancia Salitre Cue	-26.65	-56.36667	PY	11
+Estancia Salinares	-23.06667	-57.43333	PY	07
+Estancia Saladillo	-25.16667	-56.76667	PY	08
+Estancia Rubi	-24.2	-59.73333	PY	16
+Estancia Rosario	-26.63333	-56.88333	PY	12
+Estancia Rosalia	-22.93333	-57.1	PY	07
+Estancia Roja Silva	-22.58333	-59	PY	16
+Estancia Roja-Cue	-25.15	-57.36667	PY	08
+Estancia Rivarola Cue	-21.06667	-57.91667	PY	23
+Estancia Rio Verde	-23.86667	-56.13333	PY	17
+Estancia Rio Negro	-25.23333	-57.73333	PY	16
+Estancia Rincon Charrua	-23.3	-59.01667	PY	16
+Estancia Riacho G	-22.81667	-58.55	PY	16
+Estancia Riacho Alegre	-20.46667	-58.03333	PY	23
+Estancia Riachito	-23.46667	-59.41667	PY	16
+Estancia Riachito	-23.33333	-58.71667	PY	16
+Estancia Reyes Cue	-22.35	-57.3	PY	07
+Estancia Recife	-22.28333	-57.45	PY	07
+Estancia Recalde-cue	-23.05	-57.45	PY	07
+Estancia Ramos	-26.73333	-57.28333	PY	12
+Estancia Ramon Davalos	-27.03333	-56.43333	PY	11
+Estancia Quebrachos	-23.76667	-59.58333	PY	16
+Estancia Punta Diamante	-26.85	-57.9	PY	13
+Estancia Puesto Lata	-20.68333	-59	PY	23
+Estancia Prosperidad	-23.04167	-57.15778	PY	07
+Estancia Primavera	-24.58333	-58.68333	PY	16
+Estancia Primavera	-23.95	-59.86667	PY	16
+Estancia Primavera	-23.73333	-55.46667	PY	19
+Estancia Primavera	-23.08333	-56.65	PY	07
+Estancia Primavera	-22.45	-57.63333	PY	07
+Estancia Primavera	-21.08333	-58.1	PY	23
+Estancia Prado Verde	-26.2	-54.85	PY	11
+Estancia Pozo Verde	-23.11667	-59.46667	PY	16
+Estancia Pozo Negro	-23.2	-59.93333	PY	16
+Estancia Pozo Indio	-23.81667	-59.43333	PY	16
+Estancia Pozo Colorado	-23.43333	-58.96667	PY	16
+Estancia Pozo Blanco	-23.38333	-59.65	PY	16
+Estancia Pozo Azul	-24.05	-58.25	PY	16
+Estancia Pozo Azul	-20.25	-58.36667	PY	23
+Estancia Pozo Amarillo	-22.58333	-59.33333	PY	16
+Estancia Potrillo	-20.71667	-59.03333	PY	23
+Estancia Porvenir	-24.18333	-57.85	PY	16
+Estancia Porongo	-23.53333	-59.1	PY	16
+Estancia Porfiria	-20.05	-58.15	PY	23
+Estancia Polvorin	-24.7	-58.26667	PY	16
+Estancia Pocito	-24.26667	-58.61667	PY	16
+Estancia Pirizal	-23.36667	-59.76667	PY	16
+Estancia Pirity	-26.93333	-56.33333	PY	11
+Estancia Pindura	-27.03333	-56.91667	PY	12
+Estancia Pindura	-27.03333	-56.91667	PY	12
+Estancia Pindoty	-23.71667	-55.71667	PY	19
+Estancia Pilaga	-24.5	-58.11667	PY	16
+Estancia Pedernal	-23.78333	-57.16667	PY	16
+Estancia Patria	-19.98333	-58.2	PY	23
+Estancia Pastora	-25.25	-56.61667	PY	08
+Estancia Pariri	-25.16667	-57.71667	PY	16
+Estancia Paredes	-24.38333	-58.61667	PY	16
+Estancia Paredes	-24.21667	-59.18333	PY	16
+Estancia Paraiso	-25.7	-57.1	PY	15
+Estancia Palo Santo	-23.38778	-57.58306	PY	16
+Estancia Palo Santo	-22.16667	-59.28333	PY	16
+Estancia Palo Blanco	-24.13333	-58.75	PY	16
+Estancia Palma Sola	-26.13333	-57.06667	PY	15
+Estancia Palermo	-23.58333	-58.21667	PY	16
+Estancia Pablo Rene Mora	-27.26667	-56.66667	PY	11
+Estancia Orihuela	-23.41667	-58.66667	PY	16
+Estancia Once de Junio	-24.55	-59.01667	PY	16
+Estancia Obraje	-22.41667	-58.5	PY	16
+Estancia Nu Pyahu	-26.25	-56.01667	PY	05
+Estancia Nu Puajhu	-23.58333	-59.96667	PY	16
+Estancia Nu Pora	-24.25	-59.6	PY	16
+Estancia Nu Pora	-23.15	-56.31667	PY	07
+Estancia Nunez	-24.8	-55.56667	PY	04
+Estancia Nunez	-24.55	-58.41667	PY	16
+Estancia Nueva Esperanza	-27.1	-57.03333	PY	12
+Estancia Nueva Esperanza	-27.08333	-56.98333	PY	12
+Estancia Nueva Alegria	-23.55	-59.46667	PY	16
+Estancia Nu Apu-a	-22.91667	-56.9	PY	07
+Estancia Notice	-21.68333	-58.46667	PY	23
+Estancia Ninfa	-24.78333	-58.33333	PY	16
+Estancia Nelly Victoria	-22.7	-56.13333	PY	02
+Estancia Navidad	-23.83333	-58.75	PY	16
+Estancia Naranjito	-23.71361	-57.935	PY	16
+Estancia Napegue	-22.91667	-57.5	PY	07
+Estancia Nandypay	-25.08333	-56.8	PY	08
+Estancia Nanawa	-23.46667	-59.73333	PY	16
+Estancia Moreno	-26.36667	-56.85	PY	15
+Estancia Morales	-25.26667	-56.38333	PY	04
+Estancia Montiel	-22.83333	-59.68333	PY	16
+Estancia Molina Cue	-25.06667	-56.6	PY	08
+Estancia Molina Cue	-25.06667	-56.6	PY	08
+Estancia Medina	-22.73333	-57.01667	PY	07
+Estancia Mbigua	-21.48333	-59.98333	PY	24
+Estancia Martinez	-25.13333	-56.36667	PY	04
+Estancia Marta Ester	-26.83333	-56.61667	PY	11
+Estancia Maroma	-23.55	-57.9	PY	16
+Estancia Marlene	-23.51667	-58.36667	PY	16
+Estancia Marin-Cuu	-25.08333	-55.6	PY	04
+Estancia Maria Veronica West	-26.33333	-56.68333	PY	05
+Estancia Maria Veronica	-26.36667	-56.51667	PY	05
+Estancia Maria Stella	-26.31667	-56.51667	PY	05
+Estancia Maria Stella	-26.31667	-56.53333	PY	05
+Estancia Maria Ester	-26.85	-56.61667	PY	11
+Estancia Margarita	-25.13333	-57.23333	PY	08
+Estancia Mancuello	-22.93333	-57.01667	PY	07
+Estancia Mamo Rei	-25.11667	-57.78333	PY	16
+Estancia Maldonado	-20.4	-58.53333	PY	23
+Estancia Malberti	-25.68333	-56.65	PY	04
+Estancia Magallanes	-22.78333	-59.15	PY	16
+Estancia Machuca-cue	-22.71667	-57.08333	PY	07
+Estancia Luis	-24.41667	-58.28333	PY	16
+Estancia Lugo Cue	-25.08333	-57.21667	PY	08
+Estancia Lucipar	-23.46667	-56.3	PY	17
+Estancia Los Tamarindos	-23.3025	-57.70778	PY	16
+Estancia Los Milagros	-23.7	-59.7	PY	16
+Estancia Los Lapachos	-23.3	-58.38333	PY	16
+Estancia Los Gemelos	-24.25	-59.53333	PY	16
+Estancia Los Cedros	-27.15	-56.78333	PY	12
+Estancia Lopez Cue	-25.03333	-57.2	PY	08
+Estancia Lomita	-26.53333	-57.9	PY	13
+Estancia Lomita	-24.6	-58.36667	PY	16
+Estancia Loma Verde	-23.78333	-56.95	PY	17
+Estancia Lomas	-24.61667	-57.11667	PY	17
+Estancia Lomas	-24.26667	-58	PY	16
+Estancia Loma Pyta	-23.56667	-59.56667	PY	16
+Estancia Loma Pora	-23.51667	-57.51667	PY	16
+Estancia Loma Pora	-22.55	-57.38333	PY	07
+Estancia Loma	-26.81667	-56.46667	PY	11
+Estancia Loma	-26.55	-57.78333	PY	13
+Estancia Loma	-25.58333	-56.51667	PY	04
+Estancia Locatti	-24.3	-59.11667	PY	16
+Estancia Lavista	-27.23333	-56.23333	PY	11
+Estancia La Victoria	-23.28333	-59.46667	PY	16
+Estancia La Victoria	-22.98333	-59.15	PY	16
+Estancia La Victoria	-22.9	-56.26667	PY	07
+Estancia Laurel	-27.18333	-56.56667	PY	11
+Estancia La Union	-23.65	-58.36667	PY	16
+Estancia La Susana	-25.13333	-57.2	PY	08
+Estancia Las Rosas	-25.73333	-57.2	PY	15
+Estancia Las Perlas	-23.83333	-59.15	PY	16
+Estancia Las Palmas	-26.3	-56.86667	PY	15
+Estancia Las Palmas	-25.9	-57.71667	PY	13
+Estancia Las Palmas	-24	-59.15	PY	16
+Estancia La Mocha	-23.97333	-57.6775	PY	16
+Estancia Las Mellizas	-23.43333	-55.88333	PY	02
+Estancia Las Mellizas	-22.71667	-58.96667	PY	16
+Estancia Las Isidoras	-24.1	-59.65	PY	16
+Estancia La Selva	-22.91667	-59.13333	PY	16
+Estancia Las Casnarinas	-27.08333	-56.8	PY	12
+Estancia La Querencia	-24.56667	-58.81667	PY	16
+Estancia La Perla	-26.51667	-56.31667	PY	05
+Estancia La Novia	-22.98333	-57.73333	PY	16
+Estancia La Nena	-23.93333	-58.88333	PY	16
+Estancia La Negra	-26.86667	-56.58333	PY	11
+Estancia La Milagrosa	-26.05	-56.3	PY	05
+Estancia Lamber	-24.68333	-58.01667	PY	16
+Estancia Lagunita	-25.26667	-55.93333	PY	04
+Estancia Laguna Verde	-23.95	-59.81667	PY	16
+Estancia Laguna Sola	-23.36667	-58.48333	PY	16
+Estancia Laguna Rey	-22.88333	-58.71667	PY	16
+Estancia Laguna Pora	-22.33333	-59.43333	PY	16
+Estancia Laguna Negra	-23.06667	-57.11667	PY	07
+Estancia Laguna Leon	-21.41667	-58.75	PY	23
+Estancia Laguna Chancho	-24.78333	-58.53333	PY	16
+Estancia Laguna Bella	-24.38333	-59.18333	PY	16
+Estancia La Golondrina	-24.51667	-58.66667	PY	16
+Estancia La Flecha	-24.66667	-58.65	PY	16
+Estancia La Esperanza	-24.53333	-59.01667	PY	16
+Estancia La Delicia	-23.55	-58.95	PY	16
+Estancia La Cuca	-24.13333	-59.15	PY	16
+Estancia La Concepcion	-24.43333	-58.06667	PY	16
+Estancia La Clementina	-25.15	-57.16667	PY	08
+Estancia La Bonita	-23.68333	-58.8	PY	16
+Estancia La Angelica	-24.45	-59.36667	PY	16
+Estancia La Americana	-21.05	-58.91667	PY	23
+Estancia La Abelenda	-25.68333	-57.06667	PY	15
+Estancia Kilometro 115	-22.71667	-58.73333	PY	07
+Estancia Kennedy	-25.3	-56.71667	PY	08
+Estancia Josefina	-23.68722	-57.49444	PY	16
+Estancia Jose Dolores Genes	-25.23333	-57.63333	PY	16
+Estancia Jara-cue	-26.46667	-56.8	PY	15
+Estancia Itati	-23.7	-59.85	PY	16
+Estancia Ita-cue	-26.38333	-57.75	PY	13
+Estancia Itacaru	-23.6	-57.11667	PY	17
+Estancia Isla Yovai	-22.65	-56.96667	PY	07
+Estancia Isla Sombrero	-26.48333	-56.63333	PY	05
+Estancia Isla Sola	-22.2	-57.8	PY	07
+Estancia Isla Saca	-20.78333	-59.05	PY	23
+Estancia Isla Corazon	-21.06667	-58.4	PY	23
+Estancia Isla Alta	-26.88333	-57.71667	PY	13
+Estancia Isla Alta	-23.68333	-59.46667	PY	16
+Estancia Irala	-26.1	-57.83333	PY	13
+Estancia Inmakata	-21.1	-58.7	PY	23
+Estancia Herradura	-26.53333	-58.15	PY	13
+Estancia Hermosa	-22.51667	-56.86667	PY	07
+Estancia Guazu Pyta	-24.88333	-57.01667	PY	17
+Estancia Guayaki	-24.4	-58.93333	PY	16
+Estancia Guaviray	-27.11667	-56.81667	PY	12
+Estancia Guanes	-24.93333	-57.56667	PY	16
+Estancia Guajho	-22.35	-58.2	PY	16
+Estancia Graciela	-26.93333	-57.31667	PY	12
+Estancia Gonzalez	-23.85	-59.53333	PY	16
+Estancia Gomez	-20.55	-58.78333	PY	23
+Estancia Golondrina	-24.63333	-55.35	PY	04
+Estancia General Diaz	-24.16667	-57.18333	PY	17
+Estancia General Diaz	-21.13333	-58.5	PY	23
+Estancia Gavilan	-22.68333	-56.88333	PY	07
+Estancia Gavallo	-24.11667	-58.8	PY	16
+Estancia Gauto-cue	-27.23333	-56.76667	PY	12
+Estancia Gasory	-25.1	-56.83333	PY	08
+Estancia Garay Cue	-22.71667	-57.36667	PY	07
+Estancia Gaona	-27.03333	-56.28333	PY	11
+Estancia Galileo	-25.06667	-57.85	PY	16
+Estancia Gadea	-27.01667	-57.66667	PY	13
+Estancia Fortuna	-24.73333	-58.18333	PY	16
+Estancia Fontana	-24.71667	-58.55	PY	16
+Estancia Florida	-25.13333	-57.01667	PY	08
+Estancia Florida	-23.4	-59.23333	PY	16
+Estancia Fernando Silva	-22.78333	-59.31667	PY	16
+Estancia Felicidad	-24.4	-58.13333	PY	16
+Estancia Estrellas	-22.16667	-57.7	PY	07
+Estancia Estrella	-24.85	-58.3	PY	16
+Estancia Esther	-24.7	-57.68333	PY	16
+Estancia Esteche	-25.25	-57.7	PY	16
+Estancia Esperanza	-23.41667	-57.98333	PY	16
+Estancia Esperanza	-21.21667	-58.23333	PY	23
+Estancia Elvira	-23.93333	-57.75	PY	16
+Estancia El Pinar	-24.43333	-55.46667	PY	19
+Estancia El Buen Amigo	-23.55	-58.78333	PY	16
+Estancia Duarte Cue	-22.43333	-56.58333	PY	02
+Estancia Douglas	-23.38333	-59.53333	PY	16
+Estancia Don Felipe Feltes	-21.16667	-58.76667	PY	23
+Estancia Doldan	-26.73333	-56.43333	PY	05
+Estancia Doldan	-26.73333	-56.43333	PY	05
+Estancia del Medio	-24.03333	-57.5	PY	16
+Estancia Delia Clara	-25.7	-57.16667	PY	15
+Estancia Delfin	-23.25	-57.46667	PY	07
+Estancia del Carmen	-23.03333	-58.93333	PY	16
+Estancia de Bernardi North	-26.08333	-56.96667	PY	15
+Estancia de Bernardi	-26.18333	-56.95	PY	11
+Estancia Curupayty	-20.23333	-58.28333	PY	23
+Estancia Cunatai	-21.56667	-57.96667	PY	23
+Estancia Cuatro Ciervo	-24.96667	-58.03333	PY	16
+Estancia Cuarenta	-20.66667	-58	PY	23
+Estancia Corralon	-23.53333	-57.93333	PY	16
+Estancia Corralito	-24.58333	-58.21667	PY	16
+Estancia Corralito	-22.75	-56.68333	PY	07
+Estancia Cora-i	-22.9	-59	PY	16
+Estancia Copacar	-25.16667	-57.56667	PY	16
+Estancia Concepcion	-26.75	-56.76667	PY	12
+Estancia Compania Copacar	-25.16667	-57.56667	PY	16
+Estancia Colo o	-23.65	-55.7	PY	02
+Estancia Coeyu	-23.93083	-57.73389	PY	16
+Estancia Coco Laguna	-21.81667	-58.66667	PY	23
+Estancia Clarita	-24.65	-58.76667	PY	16
+Estancia Ciervo	-24.45	-57.98333	PY	16
+Estancia Ciervo	-23.7	-56.2	PY	17
+Estancia Chovoreca	-20.85	-59.1	PY	23
+Estancia Chamacoco	-21.9	-58.98333	PY	23
+Estancia Cerro Memby	-22.98333	-56.45	PY	07
+Estancia Cerro Cora	-22.9	-56.7	PY	07
+Estancia Cerro Cora	-20.28333	-58.28333	PY	23
+Estancia Cerrito Jara	-19.76667	-58.2	PY	23
+Estancia Cerrito Amakera	-23.78333	-58.98333	PY	16
+Estancia Cerrito	-26.93333	-57.13333	PY	12
+Estancia Cerrito	-26.9	-56.48333	PY	11
+Estancia Centurion	-22.3	-57.55	PY	07
+Estancia Celia	-24.51667	-57.1	PY	16
+Estancia Ceibo	-22.96667	-59.58333	PY	16
+Estancia Cazal Cue	-22.86667	-56.81667	PY	07
+Estancia Catorce de Mayo	-22.83333	-58.28333	PY	16
+Estancia Casuarina	-22.91667	-59.96667	PY	24
+Estancia Casualidad	-22.98333	-59.83333	PY	16
+Estancia Casualidad	-21.05	-58.11667	PY	23
+Estancia Casilda	-22.21667	-57.93333	PY	23
+Estancia Cascada	-22.53333	-56.23333	PY	02
+Estancia Carumbe	-25.55	-56.66667	PY	04
+Estancia Carmencita	-24.58333	-58.88333	PY	16
+Estancia Carmencita	-24.1	-58.86667	PY	16
+Estancia Carmelita	-26.73333	-57.28333	PY	12
+Estancia Caridad	-23.78333	-59.31667	PY	16
+Estancia Cardus	-25.73333	-57.11667	PY	15
+Estancia Caraya	-25.61667	-57.23333	PY	15
+Estancia Cara u	-22.98333	-59.5	PY	16
+Estancia Carandayty	-25.1	-57.4	PY	08
+Estancia Carambola	-24.36667	-58.36667	PY	16
+Estancia Carai	-27.2	-56.83333	PY	12
+Estancia Caracol	-22.3	-57.01667	PY	07
+Estancia Capurro	-26.7	-56.85	PY	12
+Estancia Capiipobo	-24.81667	-57.21667	PY	16
+Estancia Canete Cue	-26.51667	-56.9	PY	12
+Estancia Cana de Castilla	-24.4	-58.58333	PY	16
+Estancia Camalote	-26.26667	-57.6	PY	15
+Estancia Cagata	-22.91667	-56.25	PY	07
+Estancia Caceres Cue	-22.98333	-58.23333	PY	16
+Estancia Cabral Cue	-26.78333	-56.8	PY	12
+Estancia Cabeza de Tigre	-23.38333	-59.53333	PY	16
+Estancia Cabanas	-22.86667	-57.65	PY	07
+Estancia Caballero	-26.65	-56.91667	PY	12
+Estancia Caatygue	-26.7	-56.75	PY	12
+Estancia Caapucu-mi	-26.91667	-57.15	PY	12
+Estancia Caa Poi	-26.5	-56.98333	PY	12
+Estancia Caacupe	-20.33333	-58.53333	PY	23
+Estancia Caa Cora	-26.66667	-56.8	PY	12
+Estancia Buena Vista	-26.58333	-57.06667	PY	12
+Estancia Buena Vista	-24.03333	-57.13333	PY	16
+Estancia Buena Vista	-22.93333	-58.46667	PY	16
+Estancia Buena Vista	-19.91667	-58.2	PY	23
+Estancia Buena Suerte	-23.76667	-59.13333	PY	16
+Estancia Bretona	-23.315	-57.565	PY	16
+Estancia Bottrell	-25.3	-56.51667	PY	04
+Estancia Borja	-26.75	-56.85	PY	12
+Estancia Bonanza	-23.88333	-59.4	PY	16
+Estancia Boca-i	-24.55	-58.26667	PY	16
+Estancia Blanca	-23.53333	-58.65	PY	16
+Estancia Betty	-24.55	-58.81667	PY	16
+Estancia Bella Vista	-25.48333	-56.65	PY	04
+Estancia Buena Vista	-23.19389	-57.81583	PY	16
+Estancia Belen-cue	-23.76667	-57.05	PY	17
+Estancia Belen	-24.58333	-57.41667	PY	16
+Estancia Belen	-26.41667	-56.55	PY	05
+Estancia Bedoya-cue	-22.68333	-56.68333	PY	02
+Estancia Avarenga	-27.05	-56.2	PY	11
+Estancia Aurora	-23.53333	-58.93333	PY	16
+Estancia Aurora	-23.31667	-58.06667	PY	16
+Estancia Arroyo Primero	-22.28333	-56.55	PY	02
+Estancia Arroyo Blanco	-23.21667	-56.11667	PY	02
+Estancia Armonia	-23.68333	-58.93333	PY	16
+Estancia Ardeba	-22.9	-56.55	PY	07
+Estancia Arambulo	-22.8	-56.56667	PY	02
+Estancia Aquino-cue	-26.53333	-58.28333	PY	13
+Estancia Aquino	-26.96667	-57.9	PY	13
+Estancia Apsa	-26.01667	-56.75	PY	15
+Estancia Antonio Maki	-25.21667	-57.05	PY	08
+Estancia Angua	-26.88333	-57.4	PY	12
+Estancia Andrada	-25.3	-56.56667	PY	08
+Estancia Ana Berta	-24.3	-58.13333	PY	16
+Estancia Amalia	-22.58333	-59.15	PY	16
+Estancia Alina	-24.61667	-58.01667	PY	16
+Estancia Algarrobo	-24.58333	-58.13333	PY	16
+Estancia Algarrobo	-26.45	-56.53333	PY	05
+Estancia Alfonso XIII	-25.65	-57.08333	PY	15
+Estancia Alegria	-24.7	-57.61667	PY	16
+Estancia Alborada	-24.3	-59.31667	PY	16
+Estancia Alborada	-24.3	-58.31667	PY	16
+Estancia Alborada	-23.66667	-58.38333	PY	16
+Estancia Alambre Tuajha	-23.11667	-56.36667	PY	07
+Estancia Aguirre	-26.83333	-57.55	PY	12
+Estancia Aguaray-mi	-23.56667	-56.31667	PY	17
+Estancia Agualinda	-23.88333	-59.98333	PY	16
+Estancia Agatape	-26.11667	-58.05	PY	13
+Estancia Adelina	-22.06667	-59.1	PY	16
+Estacion Yuty	-26.61667	-56.36667	PY	05
+Establicimiento Santa Irene	-25.1	-56.16667	PY	04
+Estable Santa Isabel	-27.55	-56.36667	PY	11
+Establecimito Juan Benitez	-27.1	-56.31667	PY	11
+Establecimiento Santa Ana	-26.21667	-56.9	PY	15
+Establecimiento San Luis	-26.93333	-56.95	PY	12
+Establecimiento San Jose	-26.86667	-56.9	PY	12
+Establecimiento Sanaoria	-26.28333	-56.96667	PY	15
+Establecimiento Primavera	-25.03333	-56.98333	PY	08
+Establecimiento Ortiz	-26.15	-56.78333	PY	15
+Establecimiento Noguera	-26.28333	-56.81667	PY	15
+Establecimiento La Norma	-25.63333	-57.15	PY	15
+Establecimiento Kenneth	-26.15	-56.73333	PY	15
+Establecimiento Kenneth	-26.15	-56.73333	PY	15
+Establecimiento Ganadero Torocay	-25.28333	-55.91667	PY	04
+Establecimiento Cabanas	-26.4	-56.88333	PY	15
+Establecimiento Aquino Puentecito	-25.28333	-55.95	PY	04
+Establecimento Nanducua	-22.96667	-56.68333	PY	07
+Esquina	-23.53333	-58.08333	PY	16
+Arroyo Espinillo	-25.45	-56.51667	PY	04
+Espinillo	-27.18333	-57.2	PY	12
+Espinillo	-25	-57.95	PY	16
+Espinillar	-25.18333	-57.76667	PY	16
+Espinillar	-26.35	-56.96667	PY	15
+Esperanza	-22.33333	-56.13333	PY	02
+Espartillar	-25.71667	-57.25	PY	15
+Esmeralda	-23.61667	-58.46667	PY	16
+Laguna Ermelinda	-23	-59.53333	PY	16
+Enramadita	-26.16667	-55.68333	PY	05
+Enramadita	-26.16667	-55.68333	PY	05
+Encarnacion Northeast	-27.26667	-55.81667	PY	11
+Encarnacion	-27.33056	-55.86667	PY	11
+Arroyo Empalado	-23.71667	-56.15	PY	17
+Emiliano	-24.93333	-57.26667	PY	16
+Emboscada	-25.15	-57.35	PY	08
+El Trebol	-25.06667	-57.83333	PY	16
+El Tirol	-27.18333	-55.71667	PY	11
+El Quemado	-24.5	-59.08333	PY	16
+El Paraiso	-25.83333	-57.8	PY	13
+Edelira	-26.75	-55.26667	PY	11
+Duarte	-25.81667	-56.83333	PY	15
+Dos Hermanas	-25.23333	-54.5	PY	01
+Arroyo Dona Gervasia	-25.63333	-56.46667	PY	10
+Arroyo Dominguez	-25.33333	-57.26667	PY	08
+Domingo M. Irala	-25.9	-54.71667	PY	01
+Cerro Domingo Guairaire	-25.28333	-57.06667	PY	08
+Dolores	-26.36667	-55.88333	PY	05
+Dolores	-25.63333	-55.08333	PY	01
+Doctor Raul Pena	-26.1	-55.18333	PY	01
+Doctor Juan Manuel Frutos	-25.36667	-55.8	PY	04
+Doctor Cecilio Baez	-25.05	-56.31667	PY	04
+Doctor Botrell	-25.58333	-56.31667	PY	10
+Doce de Junio	-19.83333	-58.16667	PY	00
+Dionisio	-27.15	-56.48333	PY	11
+Diez Caballos	-23.61667	-59.96667	PY	16
+Pozo Dieciseis de Abril	-21.56667	-60	PY	24
+Desmochado	-27.11667	-58.1	PY	13
+Deolinda	-23.43333	-58.36667	PY	16
+Delegacion de Gobierno	-23.5	-58.76667	PY	16
+Curuzu Valentina	-25.1	-56.43333	PY	04
+Arroyo Curuzu	-27.4	-55.71667	PY	11
+Curuzu	-27.13333	-58.65	PY	13
+Isla Cururu	-27.36667	-56.51667	PY	11
+Riacho Curupayty	-22.05	-57.98333	PY	23
+Cerro Curupayty	-25.58333	-57.25	PY	15
+Curupayty	-27.11667	-58.61667	PY	13
+Curupayty	-26.85	-56.78333	PY	12
+Curupayty	-25.81667	-54.96667	PY	01
+Curupayty	-25.36667	-54.65	PY	01
+Arroyo Curumbey	-26.43333	-55.83333	PY	05
+Arroyo Curuguaty	-24.1	-56.03333	PY	00
+Laguna Curucau	-22.51667	-59.85	PY	24
+Arroyo Curi-y	-27.31667	-55.81667	PY	11
+Cureigua	-23.33333	-56.78333	PY	07
+Cerro Cupe	-26.28333	-55.6	PY	05
+Arroyo Cuna Curuzu	-27.3	-55.93333	PY	11
+Arroyo Culantrillo	-25.21667	-56.7	PY	08
+Culantrillo	-25.51667	-55.68333	PY	04
+Fortin Cuatro Vientos	-23.66667	-59.96667	PY	16
+Cuatro Mojones	-25.34185	-57.57454	PY	06
+Cuatro de Julio	-20.13333	-58.18333	PY	23
+Fortin Cuatro Ciervos	-24.91667	-58.01667	PY	16
+Cerro Cuatia	-23.1	-55.71667	PY	02
+Arroyo Cuarepoti	-24.46667	-57.1	PY	17
+Cruce Margarita	-25.63333	-54.98333	PY	01
+Cruce Ita	-25.81667	-55.2	PY	01
+Cruce Guavira	-26.55	-55.41667	PY	11
+Cruce Guarani	-24.25	-54.76667	PY	19
+Cruce Dolores Paranambu	-25.81667	-55.03333	PY	01
+Cruce Dolores	-25.85	-55.11667	PY	01
+Cristo Rey	-25.56667	-56.66667	PY	04
+Cerro Cristo Redentor	-25.6	-57.11667	PY	15
+Arroyo Cristal Camba Yajheo	-26.18333	-56.61667	PY	00
+Creyo-cue	-25.63333	-56.76667	PY	15
+Costa Rosado	-26.66667	-57.91667	PY	13
+Costa Pucu	-26.95	-58.2	PY	13
+Costa Pucu	-26.9	-57	PY	12
+Costa Pucu	-25.05	-57.18333	PY	08
+Costa Pena	-25.83333	-57	PY	15
+Costa Mercado	-25.71667	-56.53333	PY	10
+Costa Esperanza	-26.05	-56.1	PY	05
+Costa Dulce	-26.13333	-56.38333	PY	05
+Costa	-25.01667	-57.51667	PY	16
+Rio Corrientes	-24.35	-55.91667	PY	00
+Arroyo Corriente	-26.03333	-56.81667	PY	15
+Arroyo Corriente	-25.96667	-56.85	PY	15
+Corralon	-21.31667	-59.11667	PY	23
+Corral	-23.43333	-58.5	PY	16
+Corpus Cristi Viejo	-24.08333	-54.93333	PY	19
+Corpus Christi	-24.03333	-54.83333	PY	19
+Rapido de Corpus	-27.11667	-55.55	PY	00
+Cororo	-23.46667	-56.51667	PY	17
+Coronel Oviedo	-25.44444	-56.44028	PY	04
+Coronel Oviedo	-25.45	-56.45	PY	04
+Fortin Coronel Martinez	-22.25	-59.15	PY	16
+Coronel Martinez	-25.75	-56.61667	PY	10
+Coronel Martinez	-25.38333	-57.11667	PY	08
+Fortin Coronel Bogado	-20.76667	-59.15	PY	23
+Coronel Bogado	-27.18333	-56.3	PY	11
+Coronel Bogado	-27.15	-56.23333	PY	11
+Departamento de la Cordillera	-25.25	-57	PY	08
+Coratei	-27.41667	-56.93333	PY	12
+Cora Cue	-25.93333	-57.65	PY	13
+Cerro Cora	-22.66667	-55.98333	PY	02
+Rio Confuso	-25.15	-57.56667	PY	16
+Concordia	-24.2	-57.7	PY	16
+Departamento de Concepcion	-22.83333	-57.16667	PY	07
+Concepcion	-23.39985	-57.43236	PY	07
+Comunidad	-23.93333	-55.5	PY	19
+Comparada	-24.18333	-57.18333	PY	17
+Compani Oculto	-26.93333	-56	PY	11
+Compania Ytu	-24.95	-55.2	PY	01
+Compania Yatai	-26.95	-56.96667	PY	12
+Compania Tacuaro	-25.38333	-55.3	PY	01
+Compania Santa Cruz	-26.76667	-56.03333	PY	11
+Compania Santa Ana	-25.01667	-55.31667	PY	04
+Compania San Solano	-26.81667	-56.15	PY	11
+Compania San Pedro	-27.1	-56.58333	PY	11
+Compania San Justo	-27.03333	-55.75	PY	11
+Compania San Jose Potrero	-26.88333	-56.03333	PY	11
+Compania San Gabriel	-25.83333	-56.71667	PY	12
+Compania San Boria	-26.98333	-56.03333	PY	11
+Compania San Antonio Guazu	-26.7	-56.08333	PY	11
+Compania San Antonio	-27.05	-56.7	PY	12
+Compania San Antonio	-26.68333	-56.93333	PY	12
+Compania Rincon	-26.01667	-56.65	PY	10
+Compania Resquin Cue	-27.25	-56.23333	PY	11
+Compania Potrero Yapepo	-26.76667	-56.2	PY	11
+Compania Potrero Bulion	-25.06667	-55.36667	PY	04
+Compania Potrero Alto	-26.96667	-56.9	PY	12
+Compania Nu Guazu	-26.91667	-56.28333	PY	11
+Compania Na Cuti	-27	-56.68333	PY	12
+Compania Mbopi Pucu	-26.9	-56.16667	PY	11
+Compania Laguna	-24.98333	-55.05	PY	01
+Compania Laguna	-25.01667	-55.05	PY	01
+Compania Juanita	-25.01667	-55.2	PY	01
+Compania Itacurubi	-26.71667	-56.85	PY	12
+Compania Curuguaty	-26.78333	-56.85	PY	12
+Compania Coratei	-27.4	-56.96667	PY	12
+Compania Cambyreta	-27.18333	-56.31667	PY	11
+Compania Boquero	-27.33333	-56.86667	PY	12
+Compania Arekita	-26.81667	-56.46667	PY	11
+Fortin Comandante Nowak	-24.9	-58.26667	PY	16
+Colonia 21 de Julio	-25.28333	-57.05	PY	08
+Colonia Yoaijhu	-24.26667	-56.48333	PY	17
+Colonia Yguazu	-25.45	-55	PY	01
+Colonia Yguazu	-25.51667	-55.06667	PY	01
+Colonia Yguazu	-25.36667	-55.13333	PY	01
+Colonia Yby Yu	-22.81667	-55.78333	PY	02
+Colonia Ybypyte	-22.98333	-56	PY	02
+Colonia Yby Pe	-24.01667	-56.5	PY	17
+Colonia Ybycui	-23.71667	-55.5	PY	19
+Colonia Yapepo Isla	-26.1	-56.05	PY	05
+Colonia Yacy Cora	-24.08333	-54.43333	PY	19
+Colonia Yacubo	-26.28333	-55.98333	PY	05
+Colonia Walter Insfran	-25.53333	-56.2	PY	04
+Colonia Walter Insfran	-25.46667	-56.1	PY	04
+Colonia Virgen de Fatima	-25.88333	-57.16667	PY	15
+Colonia Veintiuno de Julio	-25.28333	-57.05	PY	08
+Colonia Veinticinco de Noviembre	-25.48333	-56.5	PY	04
+Colonia Valois Rivarola	-26.26667	-56.75	PY	05
+Colonia Vacay	-26.9	-55.56667	PY	11
+Colonia Tuyu Cue	-27.11667	-58.43333	PY	13
+Colonia Trinacria	-24.36667	-56.6	PY	17
+Colonia Tres Palos	-22.45	-55.93333	PY	02
+Colonia Thomson	-25.46203	-57.51137	PY	06
+Colonia Teniente Tristan A. Zalazar	-26.68333	-57.1	PY	12
+Colonia Teniente Farina	-25.3	-57.1	PY	08
+Colonia Teniente Alfonso Rojas	-26.33333	-57.18333	PY	15
+Colonia Teniente A. Dakak	-25.58333	-56.81667	PY	08
+Colonia Tendal	-24.05	-55.56667	PY	19
+Colonia Tayao	-25.28333	-56.16667	PY	04
+Colonia Tavapy II	-25.65	-54.93333	PY	01
+Colonia Tanarandy	-26.9	-57.08333	PY	12
+Colonia Tacuruty	-25.98333	-56.88333	PY	15
+Colonia Tacuari	-27.26667	-55.86667	PY	11
+Colonia Tacuara	-24.5	-55.71667	PY	19
+Colonia Sudetia	-25.71667	-56.03333	PY	10
+Colonia Stroessner	-25.48333	-54.75	PY	01
+Colonia Stica	-25.55	-56.88333	PY	08
+Colonia Siete Montes	-24.2	-55.83333	PY	19
+Colonia Siete de Agosto	-26.38333	-54.9	PY	11
+Colonia Serafini	-25.56667	-56.76667	PY	04
+Colonia Sebastian Gaboto	-26.3	-57.96667	PY	13
+Colonia Schoental	-22.36667	-59.91667	PY	24
+Colonia Sargento Jose E. Lopez	-22.38333	-56.93333	PY	07
+Colonia Sargento Dure	-22.16667	-56.45	PY	02
+Colonia Santo Domingo	-27.31667	-56.03333	PY	11
+Colonia Santa Maria	-24.76667	-55.01667	PY	01
+Colonia Santa Isabel	-25.73333	-56.95	PY	15
+Colonia Santa Isabel	-25.46667	-56.7	PY	04
+Colonia Santa Isabel	-25.73333	-56.95	PY	15
+Colonia Santa Catalina	-25.16667	-56.31667	PY	04
+Colonia San Solano	-26.91667	-56.7	PY	12
+Colonia San Roque	-24.83333	-55.68333	PY	04
+Colonia San Pedro	-24.43333	-56.41667	PY	17
+Colonia San Marcos	-25.33333	-56.66667	PY	08
+Colonia San Jose Obrero	-24.66667	-55.85	PY	19
+Colonia San Jose	-22.4	-56.31667	PY	02
+Colonia San Isidro	-25.6	-56.71667	PY	04
+Colonia San Ignacio de Loyola	-25.48333	-56.76667	PY	04
+Colonia San Francisco	-22.9	-55	PY	01
+Colonia San Blas	-25.4	-56.68333	PY	08
+Colonia San Antonio	-25.98333	-56.56667	PY	10
+Colonia San Alfredo	-26.03333	-55.1	PY	01
+Colonia San Alfredo	-22.9	-57.41667	PY	07
+Colonia Salto	-27.45	-56.68333	PY	11
+Colonia R 13 Corrales	-25.38333	-56.28333	PY	04
+Colonia Rusa	-27.23333	-55.85	PY	11
+Colonia Rubio Nu	-25.45	-56.85	PY	08
+Colonia R. Scagnoli	-25.83333	-56.83333	PY	15
+Colonia Roberto L. Petit	-23.18333	-57.45	PY	07
+Colonia Rio Verde	-23.71667	-56.5	PY	17
+Colonia Riachuelo	-26.1	-56.23333	PY	05
+Colonia R.G. de Santa Cruz	-25.95	-56.23333	PY	10
+Colonia Repatriacion	-25.55	-56.06667	PY	04
+Colonia Reinland	-22.4	-59.85	PY	24
+Colonia Reconstruccion	-23.13333	-57.28333	PY	07
+Colonia R. Diaz de Guzman	-26.08333	-57.95	PY	13
+Colonia Ramirez Que	-27.35	-56.95	PY	12
+Colonia Puente Canii	-22.9	-55.78333	PY	02
+Colonia Pto Pte Stroessner	-25.56667	-54.83333	PY	01
+Colonia Primero de Marzo	-25.1	-57.01667	PY	08
+Colonia Presidente Stroessner	-23.25	-56.9	PY	07
+Colonia Presidente Franco	-25.53333	-56.75	PY	04
+Colonia Presbitero Fidel Maiz	-24.98333	-57	PY	17
+Colonia Presbitero A. Molas	-26.05	-56.66667	PY	10
+Colonia Piray	-25.36667	-56.71667	PY	08
+Colonia Pira Rita	-25.51667	-56.88333	PY	08
+Colonia Pirareta	-25.55	-56.9	PY	08
+Colonia Pirapo	-26.58333	-55.53333	PY	11
+Colonia Peguajho	-25.6	-57.28333	PY	08
+Colonia Pedro M. de Portugal	-25.56667	-56.75	PY	04
+Colonia Paratodo	-23.21667	-59.61667	PY	16
+Colonia Paraguasil	-25.23333	-54.51667	PY	01
+Colonia Pancho Garmendia	-25.98333	-57.08333	PY	15
+Colonia Padre Guido Coronel	-25.21667	-54.68333	PY	01
+Colonia Osterwich	-22.4	-59.88333	PY	24
+Colonia Oliva	-26.06667	-57.85	PY	13
+Colonia Obligado	-26.96667	-55.65	PY	11
+Colonia Numero Dos General Alfredo Stroessner	-24.66667	-55.98333	PY	17
+Colonia Nueva Independencia	-22.93333	-55.65	PY	02
+Colonia Nueva Australia	-25.41667	-56.58333	PY	04
+Colonia Nande Mbaepa	-24.78333	-58.41667	PY	16
+Colonia Montanaro	-25.43333	-56.2	PY	04
+Colonia Mons Bogarin	-25.1	-56.05	PY	04
+Colonia Miranda	-22.96667	-56.83333	PY	07
+Colonia Minga Pora	-24.86667	-54.9	PY	01
+Colonia M. Gondra	-25.7	-56.4	PY	10
+Colonia Mesquita	-25.76667	-54.63333	PY	01
+Colonia Mennonita	-22.5	-60	PY	24
+Colonia Menno	-22.36667	-59.81667	PY	24
+Colonia Medianera	-26.11667	-54.81667	PY	01
+Colonia M. Dominguez	-25.85	-57.8	PY	13
+Colonia Mburupy	-25.43333	-56.3	PY	04
+Colonia Mburucuya	-24.53333	-55.76667	PY	19
+Colonia Mburica Potrero	-26.13333	-56.11667	PY	05
+Colonia Mayor Otano	-26.61667	-54.9	PY	11
+Colonia Mayor Nicolas Arguello	-26.18333	-56.18333	PY	05
+Colonia Mayor Hermosa	-23.95	-56.36667	PY	17
+Colonia Mauricio Jose Troche	-25.56667	-56.28333	PY	10
+Colonia Martinez de Irala	-26.15	-56	PY	05
+Colonia Mariscal Lopez	-23.31667	-55.6	PY	02
+Colonia Mariscal Lopez	-22.78333	-55.56667	PY	02
+Colonia Mariano Roque Alonso	-25.16667	-57.55	PY	06
+Colonia Maria Auxiliadora	-25.48333	-56.18333	PY	04
+Colonia Maria Auxiliadora	-24.45	-56.5	PY	17
+Colonia Manitoba	-23.56667	-56.55	PY	17
+Colonia M.A. Molas	-25.95	-57.7	PY	13
+Colonia Maka	-25.21667	-57.58333	PY	16
+Colonia Lomas Valentinas	-25.51667	-57.51667	PY	06
+Colonia Limoy	-24.78333	-54.86667	PY	01
+Colonia Liberacion	-24.16667	-56.65	PY	17
+Colonia Laura	-25.26667	-54.9	PY	01
+Colonia la Pastora	-25.25	-56.56667	PY	08
+Colonia la Pastora	-25.21667	-56.53333	PY	04
+Colonia La Colmena	-25.86667	-56.83333	PY	15
+Colonia Juan Sinforiano Bogarin	-25.08333	-56.08333	PY	04
+Colonia Jose Berges	-23.43333	-56.9	PY	07
+Colonia Jorje L. Moreira	-25.63333	-57.18333	PY	15
+Colonia Joan M. Frutos	-25.45	-56.26667	PY	04
+Colonia J.E. Estigarribia	-25.01667	-54.8	PY	01
+Colonia J. Cancio Flecha	-25.58333	-56.8	PY	08
+Colonia Hondo	-25.15	-56.28333	PY	04
+Colonia Herrera Vega	-27.21667	-55.71667	PY	11
+Colonia Hernandarias	-23.3	-57.18333	PY	07
+Colonia Hector L. Vera	-25.81667	-56.73333	PY	15
+Colonia Hector-Cue	-26.81667	-56.96667	PY	12
+Colonia Goiburu	-26.16667	-56.96667	PY	15
+Colonia General Roa	-27.28333	-57.58333	PY	13
+Colonia General P. Colman	-25.73333	-55.06667	PY	01
+Colonia General Diaz	-24.7	-54.95	PY	01
+Colonia General Diaz	-23.41667	-57.23333	PY	07
+Colonia General Colman	-26.58333	-56.28333	PY	05
+Colonia General Bruguez	-24.73333	-58.8	PY	16
+Colonia General Bernardino Caballero	-25.21667	-57.11667	PY	08
+Colonia General Bernardino Caballero	-24.31667	-54.93333	PY	19
+Colonia General Alfredo Stroessner	-25.36667	-55.7	PY	04
+Colonia Genaro Romero	-25.51667	-56.45	PY	04
+Colonia Genaro Romero	-25.48333	-56.48333	PY	04
+Colonia Genaro Romero	-25.35	-56.43333	PY	04
+Colonia Gaboto	-26.26667	-57.98333	PY	13
+Colonia F. R. Moreno	-25.7	-55.2	PY	01
+Colonia Friesland	-24.63333	-56.76667	PY	17
+Colonia Fram	-27.03333	-56.05	PY	11
+Colonia Fordi-i	-26.98333	-55.56667	PY	11
+Colonia Fernheim	-22.25	-59.83333	PY	24
+Colonia Fernando de Trejo y Sanabria	-24.8	-54.45	PY	01
+Colonia Fernando de la Mora	-23.41667	-57.06667	PY	07
+Colonia Felix de Azara	-25.48333	-54.76667	PY	01
+Colonia Felicidad	-24.23333	-56.4	PY	17
+Colonia Falcon	-25.25	-57.71667	PY	16
+Colonia Ex Enfermera del Chaco	-23.15	-56.75	PY	07
+Colonia Ex Combatiente	-25.55	-55.8	PY	04
+Colonia Ex Combatiente	-23.3	-56.91667	PY	07
+Colonia Estrella	-22.3	-55.93333	PY	02
+Colonia Escalada	-25.93333	-56.26667	PY	10
+Colonia Eligio Ayala	-26.23333	-56.83333	PY	15
+Colonia Doctor Domingo Montanaro	-25.43333	-56.21667	PY	04
+Colonia de Mompox	-25.2	-56.98333	PY	08
+Colonia Defensores del Chaco	-24.55	-56.45	PY	17
+Colonia Curupayty	-25.41667	-56.98333	PY	08
+Colonia Cumanda Kay	-24.41667	-54.81667	PY	19
+Colonia Costa Jhoby	-23.31667	-55.58333	PY	02
+Colonia Cosme	-26.31667	-56.28333	PY	05
+Colonia Cleto Romero	-25.1	-56.61667	PY	08
+Colonia Cerro Memby	-22.83333	-56.36667	PY	07
+Colonia Catuete	-24.13333	-54.61667	PY	19
+Colonia Catorce de Mayo	-25.81667	-56.38333	PY	10
+Colonia Casualidad	-22.68333	-56.51667	PY	02
+Colonia Carmelo Peralta	-21.66667	-57.95	PY	23
+Colonia Carlos Pfanell	-25.65	-56.23333	PY	10
+Colonia Carlos A. Lopez	-25.7	-56.9	PY	15
+Colonia Caninobyu	-23.95	-54.45	PY	19
+Colonia Cadete Pastor Pando	-24.4	-58.9	PY	16
+Colonia Caarendy	-26.93333	-55.45	PY	11
+Colonia Boqueron	-25.91667	-56.53333	PY	10
+Colonia Bogado-cue	-23.2	-57.31667	PY	07
+Colonia Blumengart	-22.36667	-59.9	PY	24
+Colonia Blas Garay	-25.51667	-56.26667	PY	04
+Colonia Blas Garay	-25.46667	-56.23333	PY	04
+Colonia Bergtal	-25.31667	-55.58333	PY	04
+Colonia Ape-Aime	-26.58333	-54.86667	PY	11
+Colonia Aparypa	-25.16667	-57.05	PY	08
+Colonia Altura	-25.18333	-56.3	PY	04
+Colonia Alto Vera	-26.63333	-55.61667	PY	11
+Colonia Alto Parana	-26.76667	-55.58333	PY	11
+Colonia Alto Parana	-26.83333	-55.53333	PY	11
+Colonia Alejo Garcia	-27.38333	-56.9	PY	12
+Colonia Alborada	-23.96667	-54.63333	PY	19
+Colonia Alberdi	-26.15	-58.11667	PY	13
+Colonia Agustin R. Pinedo	-22.75	-56.28333	PY	07
+Colonia A. Goiburu	-26.16667	-56.9	PY	15
+Colonia Adriano Irala	-25.63333	-56.98333	PY	15
+Colonia Acuna Figueroa	-25.21667	-57.21667	PY	08
+Colonia Aceval	-25	-57.56667	PY	16
+Colonia Aca-Yuasa	-25.86667	-56.88333	PY	15
+Colonia Acaray	-25.31667	-54.83333	PY	01
+Laguna Colon	-22.55	-58.96667	PY	16
+Colon	-23.18333	-57.55	PY	16
+Cerro Coi	-25.31667	-57.38333	PY	06
+Cocuere	-26.8	-57.53333	PY	12
+Potrero Coati	-27.11667	-56.15	PY	11
+Isla Clavel	-27.38333	-56.6	PY	11
+Ciudad del Este	-25.50972	-54.61111	PY	01
+Arroyo Cimbron	-27.05	-56.75	PY	12
+Ciervo Blanco	-26.46667	-57.85	PY	13
+Laguna Ciervo	-23.03333	-58.56667	PY	16
+Arroyo Cieruo Paso	-27	-56.98333	PY	12
+Cia Toro Pe	-26.96667	-56.18333	PY	11
+Cerro Chovoreca	-19.31667	-59.11667	PY	00
+Chore	-24.18606	-56.58251	PY	17
+Cerro Chobi	-25.8	-56.8	PY	15
+Chinguelo	-22.66667	-55.91667	PY	02
+Chararai	-26.2	-55.25	PY	01
+Charara	-26.01667	-55.3	PY	00
+Charara	-26.16667	-57.28333	PY	15
+Charara	-26.05	-55.4	PY	05
+Charagua	-22.61667	-56.36667	PY	02
+Arroyo Chapico	-25.75	-55.45	PY	01
+Arroyo Chapere	-25.65	-55.43333	PY	01
+Arroyo Chakira	-25.98333	-55.86667	PY	05
+Estero Chaguary	-27.36667	-56.78333	PY	12
+Chaco-i	-25.2464	-57.64647	PY	16
+Chaco Boreal	-23	-60	PY	24
+Arroyo Chachi	-25.8	-56.18333	PY	10
+Arroyo Chacalnica	-22.68333	-56.71667	PY	00
+Cerro-Ti	-26.2	-55.53333	PY	05
+Cerro Sarambi	-22.75	-56.16667	PY	02
+Estacion Cerro Leon	-25.5483	-57.1838	PY	15
+Compania Costa Segunda	-25.5858	-57.17204	PY	15
+Cerro Cora-i	-22.58333	-55.83333	PY	02
+Cerro Cora	-22.61667	-55.98333	PY	02
+Cerrito Caaguazu	-24.61667	-54.88333	PY	01
+Yerbal Cerrito	-23.01667	-56.33333	PY	07
+Cerrito	-27.31667	-57.66667	PY	13
+Cerrito	-26.4	-57.46667	PY	15
+Cerrito	-23.83333	-57	PY	17
+Cerrito	-24.51667	-55.65	PY	19
+Departamento Central	-25.53333	-57.46667	PY	06
+Centinela	-24.13333	-57.18333	PY	16
+Celia	-22.48333	-58.21667	PY	16
+Celada Cue	-23.86667	-57.95	PY	16
+Cecina	-25.93333	-55.8	PY	05
+Cebolla	-22.38333	-57.66667	PY	07
+Catorce de Mayo	-19.63333	-58.73333	PY	23
+Castillo Cue	-27.18333	-57.48333	PY	13
+Caso-i	-27.08333	-56.08333	PY	11
+Cascabel	-20.31667	-58.4	PY	23
+Fortin Casanillo	-22.2	-59.33333	PY	16
+Carupera	-24.31667	-55.48333	PY	19
+Arroyo Carumbey	-26.38333	-55.75	PY	05
+Yerbal Carrillo	-24.25	-56.35	PY	17
+Carreria	-21.55	-58.11667	PY	23
+Carreria	-21.98333	-58.58333	PY	23
+Carpincho Cua	-26.38333	-58.18333	PY	13
+Riacho Carpincho	-22.91667	-58.06667	PY	16
+Carolina	-24.6	-56.68333	PY	07
+Carmen del Parana	-27.23333	-56.21667	PY	11
+Carmen Del Parana	-27.2	-56.11667	PY	11
+Fortin Carlos Antonio Lopez	-21.31667	-59.73333	PY	23
+Carlos Antonio Lopez	-26.4	-54.76667	PY	11
+Arroyo Cariy	-25.48333	-56.8	PY	00
+Ca riai	-26.25	-55.55	PY	05
+Cargue	-25.08333	-57.86667	PY	16
+Carayao	-25.18333	-56.4	PY	04
+Carayao	-25.2	-56.4	PY	04
+Carauncua	-25.53333	-57.35	PY	06
+Carapegua	-25.8	-57.23333	PY	15
+Cerro Carape	-25.91667	-56.95	PY	15
+Rio Carapa	-24.5	-54.33333	PY	19
+Carapa	-23.98333	-55.26667	PY	19
+Arroyo Carai-mi	-26.05	-56.78333	PY	15
+Estero Caraguataynu	-25.2	-56.78333	PY	08
+Caraguatay	-25.23333	-56.81667	PY	08
+Cerro Caraguata	-25.93333	-55.93333	PY	05
+Arroyo Caraguata	-27.28333	-56.05	PY	11
+Caraguata	-27.25	-56.08333	PY	11
+Caracoles	-24.13333	-59.55	PY	16
+Compania Gumersindo Sosa	-23.39917	-57.01861	PY	07
+Capilla Tuya	-26.23333	-56.86667	PY	15
+Capilla Tuya	-26.15	-57.2	PY	15
+Capiityndy	-26.45	-56.01667	PY	05
+Cerro Capiitindy	-25.71667	-56.33333	PY	10
+Capiitindy	-24.36667	-54.81667	PY	19
+Estero Capiipyta	-27.26667	-56.43333	PY	11
+Arroyo Capi'i	-25.78333	-56.11667	PY	10
+Arroyo Capi-i	-25.66667	-55.71667	PY	10
+Arroyo Capiata	-25.06667	-57.31667	PY	08
+Arroyo Capiata	-25.01667	-57.01667	PY	08
+Arroyo Capiata	-24.98333	-57.01667	PY	00
+Capiata	-25.3552	-57.44545	PY	06
+Caniza-cue	-26.31667	-57.41667	PY	15
+Departamento de Canindeyu	-24.25	-55.25	PY	19
+Yerbal Canguery	-24.15	-56.11667	PY	00
+Arroyo Canguery	-26.43333	-55.83333	PY	05
+Arroyo Canguery	-25.71667	-57.06667	PY	15
+Arroyo Canguery	-25.1	-56.35	PY	04
+Arroyo Canguery	-24.06667	-55.96667	PY	19
+Canete-cue	-26.55	-56.71667	PY	05
+Canete Cue	-26.55	-56.45	PY	05
+Canete	-26.56667	-56.45	PY	05
+Candida Aohucarro	-25.43333	-57.53333	PY	06
+Cancha Pinilla	-20.15	-58.83333	PY	23
+Cancha Labrada	-19.60917	-59.65194	PY	23
+Canaverales	-22.26667	-58.8	PY	16
+Cana de Castilla	-24.18333	-58.28333	PY	16
+Cana de Castilla	-23.43333	-58.43333	PY	16
+Cerro Canada Dominguez	-25.11667	-57.08333	PY	08
+Canada Calais	-22.15	-59.6	PY	24
+Arroyo Canada	-25.11667	-56.25	PY	04
+Cambyreta	-27.35	-55.78333	PY	11
+Camba-cue	-27.06667	-58.35	PY	13
+Arroyo Camba	-25.41667	-56.85	PY	08
+Calvan	-22.36667	-58	PY	00
+Calistro	-25.76667	-57.13333	PY	15
+Arroyo Cai-bo	-25.26667	-55.78333	PY	04
+Arroyo Cagata	-23.43333	-56.6	PY	07
+Cafetal San Antonio	-23.25	-55.7	PY	02
+Cafetal Cerro Cuatia	-23.13333	-55.61667	PY	02
+Arroyo Ca Enguangue	-27.23333	-55.88333	PY	11
+Fortin Cadete Pastor Pando	-24.4	-58.9	PY	16
+Fortin Cadete Otazu	-24.83333	-58.51667	PY	16
+Cacique Ramon	-22.46667	-59.78333	PY	16
+Cacique Bueno	-22.3	-59.61667	PY	24
+Cacique	-25.08333	-55.03333	PY	01
+Cabral-cue	-25.55	-56.66667	PY	04
+Laguna Cabral	-25.95	-57.51667	PY	00
+Cerro Cabral	-25.98333	-57.48333	PY	00
+Fortin Cabo Primero Cano	-24.41667	-59.43333	PY	16
+Cabo Juan	-23.01667	-59.7	PY	16
+Caballo Muerto	-23.53333	-59.95	PY	16
+Caballero Punta	-25.91667	-56.95	PY	15
+Caballero Cue	-26.63333	-56.96667	PY	12
+Caballero	-25.68333	-56.83333	PY	15
+Arroyo Cabacua	-26.5	-56.01667	PY	05
+Caba-cua	-26.01667	-55.83333	PY	05
+Cabacua	-26.45	-56.26667	PY	05
+Caazapa New	-26.16667	-56.35	PY	05
+Departamento de Caazapa	-26.25	-56.06667	PY	05
+Caazapa	-26.19583	-56.36806	PY	05
+Caa Yovai	-25.6	-55.35	PY	01
+Arroyo Caay	-25.56667	-56.9	PY	15
+Arroyo Caaty	-27.08333	-56.28333	PY	11
+Caa Rogue	-27.2	-57.31667	PY	13
+Caarendy Guazu	-25.46667	-55.21667	PY	01
+Caarendy Guazu	-25.48333	-55.26667	PY	01
+Caapucu	-26.21667	-57.2	PY	15
+Arroyo Caapo-i	-26.6	-56.8	PY	12
+Arroyo Caanabe	-25.76667	-57.48333	PY	10
+Caaguy-rupe	-26.11667	-56.88333	PY	15
+Caaguy Pora	-23.93333	-55.81667	PY	19
+Caaguy Poi	-23.9	-56.33333	PY	17
+Caaguy Cupe	-26.11667	-56.88333	PY	15
+Caaguazu East	-25.46667	-55.96667	PY	04
+Departamento de Caaguazu	-25.2	-55.83333	PY	04
+Cordillera de Caaguazu	-25.6	-55.96667	PY	04
+Cerro Caaguazu	-22.61667	-57.73333	PY	07
+Caaguazu	-27.1	-56.78333	PY	12
+Caaguazu	-25.45	-56.01667	PY	04
+Caaguazu	-25.46667	-56	PY	04
+Caacupe-i	-26.3	-56.96667	PY	15
+Caacupe	-25.38575	-57.14217	PY	08
+Caacupe	-19.7	-58.65	PY	23
+Arroyo Caa	-26.06667	-55.58333	PY	05
+Laguna Buey	-22.55	-59.01667	PY	16
+Potrero Buena Vista	-22.3	-57.15	PY	07
+Buena Vista	-26.18333	-56.08333	PY	05
+Buena Vista	-25.91667	-55.56667	PY	05
+Buena Vista	-26.16667	-56.06667	PY	05
+Brazo Norte del Rio Pilcomayo	-24.5	-59.16667	PY	16
+Estacion Borja	-25.95	-56.46667	PY	10
+Borja	-25.95	-56.48333	PY	10
+Fortin Boqueron	-22.78333	-59.95	PY	16
+Boqueron	-26.96667	-58.36667	PY	13
+Boqueron	-26.41667	-56.18333	PY	05
+Boqueron	-26.25	-56.23333	PY	05
+Boqueron	-27.01667	-58.36667	PY	13
+Arroyo Bola Cua	-25.85	-56.4	PY	10
+Cerro Boggiani	-21.4	-58.03333	PY	23
+Bogado Cue	-26.58333	-55.91667	PY	11
+Arroyo Bobo	-25.68333	-56.48333	PY	10
+Bobi Pucu	-26.8	-56.26667	PY	11
+Isla Bobi-nu	-27.23333	-58.41667	PY	13
+Blas Garay	-25.51667	-56.21667	PY	04
+Blanco Nu	-27.23333	-57.76667	PY	13
+Arroyo Blanco	-23.3	-56.18333	PY	02
+Laguna Blanca	-23.86667	-56.31667	PY	17
+Binder	-27.01667	-55.63333	PY	11
+Arroyo Bermejo	-25.3	-56.65	PY	08
+Benjamin Aceval	-24.96667	-57.56667	PY	16
+Arroyo Benitez	-26.5	-55.9	PY	11
+Bella Vista	-27.05	-55.55	PY	11
+Bella Vista	-22.13333	-56.51667	PY	02
+Belen Tuya	-26.41667	-56.58333	PY	05
+Belen	-23.46611	-57.26194	PY	07
+Batallon Ingeniero Numero Cinco P.J. Caballero	-24.65	-58.71667	PY	16
+Base Aerea Yasa Beta	-27.43333	-56.71667	PY	11
+Fortin Baptista	-20.98333	-59.63333	PY	23
+Banco San Miguel	-25.26667	-57.61667	PY	06
+Isla Banco Morales	-25.35	-57.65	PY	16
+Isla Banco	-25.28333	-57.66667	PY	16
+Bajo Chaco	-24	-58	PY	16
+Arroyo Baba	-25.76667	-55.76667	PY	10
+Ayolas West	-27.4	-56.86667	PY	12
+Ayolas	-27.4	-56.9	PY	12
+Fortin Ayacucho	-19.96667	-59.78333	PY	23
+Arroyo Aveiro	-25.53333	-57.36667	PY	06
+Arroyo Avay	-25.46667	-57.55	PY	06
+Arroyo Avay	-25.15	-57.51667	PY	06
+Audivert	-20	-58.35	PY	23
+Arroyo Atyra	-25.18333	-57.08333	PY	08
+Atyra	-25.25	-57.16667	PY	08
+Arroyo Atinguy	-27.38333	-56.8	PY	00
+Bahia de Asuncion	-25.26667	-57.61667	PY	06
+Asuncion	-25.30066	-57.63591	PY	22
+Assetadero	-27.36667	-55.85	PY	11
+Asseradero	-27.21667	-56.16667	PY	11
+Cerro Arrua	-25.58333	-57.35	PY	06
+Arroyo Y Esteros	-25.05	-57.08333	PY	08
+Arroyo Verde	-26.88333	-56.96667	PY	12
+Arroyos y Esteros	-25.06667	-57.1	PY	08
+Arroyo Peguajho Northeast	-25.56667	-57.48333	PY	06
+Arroyo Horco	-27.08333	-58.36667	PY	13
+Arroyo Costa	-26.18333	-56.85	PY	15
+Arroyito	-25.73333	-56.61667	PY	10
+Arroyito	-23.26667	-56.45	PY	07
+Arrocera Softo	-26.73333	-56.9	PY	12
+Arquitecto Tomas Romero Pereira	-26.48333	-55.25	PY	11
+Aregua	-25.3125	-57.38472	PY	06
+Arecutacua	-25.1	-57.38333	PY	08
+Areco	-25.7	-56.66667	PY	15
+Arce Rojas	-23.43333	-59.71667	PY	16
+Arasape	-26.56667	-56.95	PY	12
+Arasa	-26.9	-58.33333	PY	13
+Montanas de Aracanguy	-24.61667	-55.7	PY	00
+Laguna Aquino	-20.66667	-58.05	PY	23
+Cerro Aquino	-25.41667	-57.11667	PY	08
+Rio Aquidaban-mi	-23.16667	-57.5	PY	07
+Rio Aquidaban	-23.11111	-57.61611	PY	07
+Cerro Apyragua	-25.91667	-56.88333	PY	15
+Apya	-24.71667	-56.13333	PY	17
+Valle Apua	-26.03333	-57.25	PY	15
+Rapido de Apipe	-27.46667	-56.71667	PY	00
+Apipe	-27.1	-57.81667	PY	13
+Lago Aperea	-27.43333	-56.7	PY	11
+Rio Apa	-22.1	-58.03333	PY	00
+Oratorio Antonio	-26.71667	-56.96667	PY	12
+Antequera	-24.13333	-57.08333	PY	17
+Angostura	-25.53333	-57.61667	PY	06
+Angelito	-25.8	-55.46667	PY	01
+Angelito	-23.21667	-56.35	PY	07
+Andres Aquirye	-25.25	-56.93333	PY	08
+Monte Anareta	-23.95	-56.15	PY	17
+Anahi	-24.23333	-54.85	PY	19
+Brazo Ana Cua	-27.38333	-56.68333	PY	11
+Cerro Amor	-25.85	-56.13333	PY	10
+Serra de Amambai	-23.16667	-55.5	PY	00
+Alvar Nunez Cabeza de Vaca	-24.45	-54.35	PY	19
+Alto Vera	-26.58333	-55.63333	PY	11
+Cordillera de los Altos	-25.5	-57.15	PY	15
+Altos	-25.2634	-57.24916	PY	08
+Departamento del Alto Parana	-25.5	-54.83333	PY	01
+Departamento de Alto Paraguay	-20.5	-59.16667	PY	23
+Alto Chaco	-21.41667	-60	PY	24
+Monte Alto	-27.53333	-56.36667	PY	11
+Cerro Aleman Cue	-25.28333	-56.33333	PY	04
+Riacho Alegre	-22.1	-58	PY	00
+Alborada Uno	-27.26667	-55.7	PY	11
+Alborada Dos	-27.3	-55.71667	PY	11
+Alberdi	-26.16667	-58.15	PY	13
+Arroyo Aguicue Primero	-25.08333	-54.66667	PY	01
+Aguerito	-22.91667	-56.66667	PY	07
+Fortin Aguarrica	-23.45	-59.9	PY	16
+Rio Aguaray-mi	-23.95	-56.8	PY	17
+Rio Aguaray Guazu	-24.78333	-57.31667	PY	16
+Rio Aguaray Guazu	-24.08333	-56.66667	PY	17
+Arroyo Aguaray	-26.6	-57.35	PY	12
+Aguaray	-19.85	-58.51667	PY	23
+Aguara Charte	-23.83333	-55.48333	PY	19
+Arroyo Aguarabebe	-23.5	-55.9	PY	02
+Aguapey	-27.3	-56.26667	PY	11
+Aguapety	-25.63333	-56.28333	PY	00
+Arroyo Aguai-y	-25.18333	-57.18333	PY	08
+Cerro Aguaity	-25.35	-57.05	PY	08
+Aguaity	-25.33333	-57.03333	PY	08
+Arroyo Aguai-hy	-25.83333	-57.36667	PY	15
+Agua Dulce	-20.01667	-59.76667	PY	23
+Agriex	-26.11667	-54.68333	PY	01
+Agricola Itabo	-25.03333	-54.55	PY	01
+Yerbales Afluentes del Monday	-25.66667	-54.86667	PY	01
+Administracion Lunardelli	-23.23333	-55.85	PY	02
+Cerro Achon	-25.91667	-56.93333	PY	15
+Arroyo Acaroysa	-25.36667	-57.11667	PY	08
+Arroyo Acaray-mi	-25.4	-54.81667	PY	01
+Rio Acaray	-25.48333	-54.7	PY	01
+Represa Acaray	-25.61667	-54.63333	PY	01
+Arroyo Acapyta	-25.55	-55.08333	PY	01
+Cerro Acangue	-22.55	-56.38333	PY	02
+Cerro Acahay	-25.86667	-57.2	PY	15
+Acahay	-25.91667	-57.15	PY	15
+Abai	-26.03333	-55.93333	PY	05
+Gran Chaco	-23	-60	PY	00
+Cerro Cristian	-19.68167	-59.90917	PY	23
+Asuncion	-25.28207	-57.63539	PY	22
+Puerto Carava Vuelta	-23.11639	-57.69472	PY	16
+Estancia Potrero	-23.04139	-57.6975	PY	07
+Estancia Santa Clara	-23.21972	-57.5275	PY	07
+Estancia Santa Maria	-23.535	-57.38111	PY	17
+Estancia Catorce de Mayo	-23.65333	-57.70139	PY	16
+Estancia Cerrito	-23.68083	-57.75667	PY	16
+Estancia Ledesma	-23.62333	-57.95583	PY	16
+Compania Curuzu Nu	-23.24056	-57.39056	PY	07
+Compania Yhugua Guazu	-23.15222	-57.24556	PY	07
+Compania Zanja Cue	-23.26222	-57.22861	PY	07
+Compania Canada	-23.30556	-57.25417	PY	07
+Compania Salinas Cue	-23.27306	-57.07389	PY	07
+Horqueta	-23.34278	-57.05972	PY	07
+Compania Potrero Romero	-23.32583	-57.35722	PY	07
+Compania San Antonio	-23.43028	-57.32222	PY	07
+Compania San Jose	-23.93722	-57.06333	PY	17
+Estancia Cali	-23.06778	-57.00306	PY	07
+Arroyo Saladillo	-23.31972	-57.47556	PY	07
+Estancia Valle-i	-23.49028	-57.045	PY	17
+Estancia Tres Marias	-23.54944	-57.11167	PY	17
+Estancia Cuatro de Mayo	-23.58694	-57.13722	PY	17
+Estancia Itacurubi	-23.94694	-57.15778	PY	17
+Estancia Diana	-23.71111	-57.89444	PY	16
+Estancia Espinillo	-23.98417	-57.93917	PY	16
+Estancia San Isidro	-23.98806	-57.78917	PY	16
+Estancia Serratti	-23.89583	-57.19444	PY	17
+Estancia Buena Vista	-23.97278	-57.24778	PY	16
+Puerto Buena Vista	-23.98556	-57.2525	PY	16
+Puerto Colorado	-23.56861	-57.44639	PY	17
+Puerto Santa Rosa	-23.5825	-57.44056	PY	17
+Puerto Desaguadero	-23.8625	-57.2475	PY	17
+Puerto Laurel	-23.89278	-57.28028	PY	17
+Colonia San Juan	-23.55611	-57.2	PY	17
+Riacho San Enrique	-23.91139	-57.33861	PY	16
+Riacho Carmen	-23.98778	-57.23028	PY	16
+Zenteno	-23.53333	-61.33333	PY	24
+Ytororo	-23.41667	-61.08333	PY	24
+Yatebu-i	-21.6	-61.66667	PY	24
+Aguada Virginia	-21.41667	-61.56667	PY	24
+Villazon	-20.58333	-62.26667	PY	24
+Villanueva San Antonio	-22.9	-61.98333	PY	24
+Villanueva	-22.91667	-62.01667	PY	24
+Veinticinco de Mayo	-22.98333	-61.68333	PY	24
+Tuscal	-23.03333	-61.76667	PY	24
+Tunari	-21.16667	-60.53333	PY	24
+Tronquito	-23.06667	-61.9	PY	24
+Laguna Trinidad	-20.35	-61.58333	PY	00
+Laguna Trinidad	-20.25	-61.38333	PY	00
+Tres Pozos	-23.11667	-61.65	PY	24
+Tres Pozos	-21.51667	-61.41667	PY	24
+Fortin Toledo	-22.33333	-60.35	PY	24
+Toba Quemado	-23.25	-61.41667	PY	24
+Fortin Tinfunque	-23.78333	-60.15	PY	16
+Rio Timane	-20.26667	-60.13333	PY	23
+Tezen	-22.61667	-61.3	PY	24
+Aguada Teresita	-22.36667	-61.9	PY	24
+Fortin Teniente Rueda	-21.81667	-60.81667	PY	24
+Fortin Teniente R. Rueda	-21.86667	-60.7	PY	24
+Fortin Teniente Rojas Silva	-24.03333	-60.05	PY	16
+Fortin Teniente Primero Ramiro Espinola	-21.44472	-61.49083	PY	24
+Fortin Teniente Primero M. Cabello	-23.41667	-61.53333	PY	24
+Fortin Teniente Primero B. Ruiz	-22.71667	-61.95	PY	24
+Teniente Pessolani	-22.78333	-61.05	PY	24
+Teniente Ochoa	-21.7	-61.03333	PY	24
+Fortin Teniente Montiel	-22.78333	-61.85	PY	24
+Teniente Lugo Chilaver	-22.63333	-60.5	PY	24
+Fortin Teniente Juan Echauri Lopez	-21.04389	-61.76167	PY	24
+Teniente H. Gini	-22.75	-61.03333	PY	24
+Fortin Teniente G. Mendoza	-20.11667	-61.91667	PY	23
+Teniente Filgueira	-22.68333	-61.13333	PY	24
+Fortin Teniente F. Delgado	-22.23333	-60.55	PY	24
+Teniente E. Ortiz	-22.46667	-60.46667	PY	24
+Fortin Teniente Emilio Ochoa	-21.75611	-60.96806	PY	24
+Fortin Teniente E. Ayala Velazquez	-23.08333	-61.5	PY	24
+Fortin Teniente Denis Roa	-22.15	-60.58333	PY	24
+Teniente Crovato	-21.75	-60.6	PY	24
+Fortin Teniente Coronel Miguel A. Ramos	-23.95	-60.5	PY	13
+Fortin Teniente Cirilo Antonio Rivarola	-22.28333	-60.46667	PY	24
+Fortin Teniente Aristigueta	-22.35	-60.63333	PY	24
+Fortin Teniente Agripino Enciso	-21.21583	-61.65222	PY	24
+Fortin Teniente A. Espinola	-22.35	-60.4	PY	24
+Fortin Teniente Acosta	-22.68333	-60.53333	PY	24
+Tapera Monte Lindo	-23.81667	-60.45	PY	16
+Tapera El Cuervo	-23.85	-60.36667	PY	16
+Tapera B. Madrid	-24.03333	-60.21667	PY	16
+Fortin Sucre	-20.33333	-60.26667	PY	23
+Canada Strongest	-21.91667	-62.38333	PY	24
+Cerro Soledad	-19.45	-61.7	PY	23
+Siracuas	-21.05	-61.76667	PY	24
+Sauzal	-22.51667	-62.25	PY	24
+Aguada Sauce	-22.28333	-61.75	PY	24
+Sargento Valinotti	-21.56667	-61.36667	PY	24
+Sargento Saracho	-22.85	-61.08333	PY	24
+Fortin Sargento Rodriguez	-20.55	-62.23333	PY	24
+Aguada Santa Elvira	-21.75	-61.86667	PY	24
+San Ramon	-21.1	-60.8	PY	24
+San Joaquin	-21.58333	-61.9	PY	24
+San Antonio	-22.95	-61.95	PY	24
+San Antonio	-19.45	-60.18333	PY	23
+Aguada Salvadora	-22.05	-61.7	PY	24
+Saavedra	-22.68333	-62.15	PY	24
+Rosarito	-21.45	-61.63333	PY	24
+Aguada Roca	-22.18333	-62.21667	PY	24
+Retiro Yaguarete	-21.93333	-60.41667	PY	24
+Represa	-23.46667	-61.16667	PY	24
+Represa	-22.95	-61.7	PY	24
+Quintana	-23.48333	-61.18333	PY	24
+Quebrachal	-22.78333	-62.01667	PY	24
+Puesto Warnes	-19.95	-60.75	PY	23
+Puesto Victoria	-22.23333	-61.9	PY	24
+Puesto Teniente G. Trovatto	-21.96667	-60.45	PY	24
+Puesto Tapacare	-19.58333	-60.61667	PY	23
+Puesto Subieta	-22.48333	-62.05	PY	24
+Puesto Sosa	-23.31667	-60.33333	PY	24
+Puesto Sargento Primero Felix Zaracho	-23.03333	-61.38333	PY	24
+Puesto Sargento B. Figueredo	-21.63333	-61.21667	PY	24
+Puesto Santa Elena	-21.63333	-61.25	PY	24
+Puesto Pena	-22.68333	-62	PY	24
+Puesto Paz	-23.05	-61.25	PY	24
+Puesto Pavon	-23.35	-60.26667	PY	24
+Puesto Panambi	-22.73333	-61.81667	PY	24
+Puesto Pampa Grande	-23.03333	-60.16667	PY	24
+Puesto Palomo	-23.58333	-60.86667	PY	24
+Puesto Palmares	-20.28333	-60.15	PY	23
+Puesto Pajonal	-21.6	-62.26667	PY	24
+Puesto Ortiz	-23.35	-60.43333	PY	24
+Puesto Nuevo	-23.41667	-61.2	PY	24
+Puesto Muneca	-22.03333	-60.56667	PY	24
+Puesto Moreno	-23.4	-60.65	PY	24
+Puesto Montano	-23.43333	-60.2	PY	24
+Puesto Mainumby	-22.58333	-60.13333	PY	24
+Puesto Larrosa	-22.4	-60.36667	PY	24
+Puesto Kilometro Veinte	-22.5	-62.28333	PY	24
+Puesto K	-23.08333	-60.11667	PY	24
+Puesto Jabali	-22.61667	-61.43333	PY	24
+Puesto Horqueta	-23.91667	-60.75	PY	16
+Puesto Gulach	-22.28333	-61.98333	PY	24
+Puesto Guarani	-20.45	-62.15	PY	24
+Puesto Ganadero	-22.13333	-62.1	PY	24
+Puesto Galponcito	-21.68333	-61.18333	PY	24
+Puesto F	-23.13333	-60.15	PY	24
+Puesto Estrella	-21.06667	-62.16667	PY	24
+Puesto Esperanza	-22.55	-62.23333	PY	24
+Puesto Dorado	-22.71667	-62.11667	PY	24
+Puesto Curupayty	-20.46667	-61.96667	PY	24
+Puesto Correa	-23.4	-60.7	PY	24
+Puesto Cordoba	-23.43333	-60.3	PY	24
+Puesto Catan	-23.45	-60.88333	PY	24
+Puesto Careca	-23.6	-60.83333	PY	24
+Puesto Cabo Gimenez	-19.83333	-60.61667	PY	23
+Puesto Bullain	-21.66667	-62.41667	PY	24
+Puesto Alcaraz	-22.7	-61.96667	PY	24
+Primero de Marzo	-23.41667	-61.46667	PY	24
+Primero de Marzo	-23.16667	-61.48333	PY	24
+Fortin Pratts Gill	-22.68333	-61.55	PY	24
+Pozo Verde	-22.25	-61.36667	PY	24
+Pozo Quince de Abril	-21.8	-61.7	PY	24
+Pozo Paucarpata	-22.73333	-61.63333	PY	24
+Fortin Pozo Hondo	-22.3	-62.53333	PY	24
+Pozo Gloria	-22.9	-60.91667	PY	24
+Pozo El Venado	-22.3	-61.31667	PY	24
+Pozo Charata	-22.26667	-61.35	PY	24
+Pozo Chambi	-22.43333	-61.51667	PY	24
+Pozo Anta	-22.86667	-60.76667	PY	24
+Pozo Algarrobo	-22.8	-61.41667	PY	24
+Porvenir	-23.01667	-61.83333	PY	24
+Pirizal el Salto	-22.33333	-61.3	PY	24
+Pirizal	-23.08333	-60.66667	PY	24
+Piquirenda	-20.1	-61.76667	PY	23
+Fortin Pilcomayo	-23.88333	-60.91667	PY	24
+Banados del Rio Pilcomayo	-24	-60.41667	PY	00
+Pilcomayo	-23.53333	-60.46667	PY	24
+Picada Catorce de Mayo	-22.01667	-61.2	PY	24
+Pericote	-22.98333	-61.93333	PY	24
+Fortin Perez	-19.41667	-60.25	PY	23
+Perez	-23.08333	-61.9	PY	24
+Laguna Pelicano	-21.71667	-61.23333	PY	24
+Pastos	-19.45	-61.15	PY	23
+Paso de los Tobas	-23.35	-61.53333	PY	24
+Paria	-21.4	-60.78333	PY	24
+Palo Blanco	-22.28333	-61.83333	PY	24
+Fortin Palmar de las Islas	-19.51667	-60.66667	PY	23
+Palmar	-23.86667	-60.41667	PY	16
+Palmar	-23.53333	-61.26667	PY	24
+Palmar	-23.2	-61.46667	PY	24
+Palmar	-22.45	-61.33333	PY	24
+Palma Chica	-23.26667	-61.66667	PY	24
+Ortiz	-23.58333	-61.23333	PY	24
+Fortin Omasuyos	-21.03333	-61.15	PY	24
+Fortin Nueva Asuncion	-20.7	-61.91667	PY	24
+Moras	-22.5	-62.23333	PY	24
+Monte Rico	-22.25	-62.63333	PY	24
+Mistolar	-23.23333	-61.68333	PY	24
+Fortin Mister Long	-20.58333	-62	PY	24
+Mision Santa Teresa	-22.03333	-60.56667	PY	24
+Mision Santa Rosa	-21.76667	-61.71667	PY	24
+Mision San Leonardo	-23.75	-60.78333	PY	24
+Mision San Jose Estero	-23.8	-61.01667	PY	24
+Mision San Jose Estero	-23.75	-60.98333	PY	24
+Mision Guarani	-22.38333	-62.45	PY	24
+Mision Abajo	-23.81667	-60.73333	PY	16
+Canada Milico	-22.71667	-61.45	PY	24
+Canada Mil	-22.93333	-61.43333	PY	24
+Media Luna	-23.45	-61.36667	PY	24
+Media Luna	-23.4	-61.36667	PY	24
+Fortin Mayor R. Santacruz	-20.23333	-60.43333	PY	23
+Fortin Mayor Rodriguez	-22.63333	-61.3	PY	24
+Fortin Mayor Alberto Gardel	-22.63333	-62.2	PY	24
+Matorral	-23.45	-61.45	PY	24
+Masa Grande	-21.93333	-62.06667	PY	24
+Aguada Marlene	-22.5	-61.78333	PY	24
+Mariscal Estigarribia	-22.03333	-60.63333	PY	24
+Maria Lidia	-23.13333	-60.25	PY	24
+Mandarina	-23.53333	-61.08333	PY	24
+Magarinos	-23.48333	-61.41667	PY	24
+Magarinos	-23.46667	-61.25	PY	24
+Fortin Luis Alberto de Herrera	-22.86667	-60.25	PY	24
+Luchan	-22.28333	-62.6	PY	24
+Los Pozos	-22.88333	-61.98333	PY	24
+Los Naranjos	-23.06667	-61.78333	PY	24
+Loma	-21.83333	-62.33333	PY	24
+Linares Viejo	-23.2	-61.75	PY	24
+Fortin Linares	-23.2	-61.73333	PY	24
+Fortin Linares	-23.15	-61.76667	PY	24
+Fortin Leonardo Britos	-21.63333	-62.28333	PY	24
+Cerro Leon	-20.38333	-60.31667	PY	23
+Las Senoras	-23.08333	-61.68333	PY	24
+Las Mercedes	-21.55	-61.91667	PY	24
+Las Lagunas	-23.31667	-61.3	PY	24
+Las Breas	-22.9	-61.81667	PY	24
+Aguada La Rosa	-21.56667	-61.81667	PY	24
+Lalagua	-23.36667	-61.26667	PY	24
+Laguna Pirizal	-22.88333	-60.81667	PY	24
+Laguna Blanca	-23.41667	-61.01667	PY	24
+Rio Lagerenza	-19.9	-60.93333	PY	23
+Fortin Lagerenza	-20.11667	-61.08333	PY	23
+La Gama	-23.15	-61.43333	PY	24
+Fortin La Faye	-20.9	-61.86667	PY	24
+La Dorada	-22.71667	-62.15	PY	24
+La Cumbrera	-22.58333	-62.13333	PY	24
+Laguna La Bella	-24	-60.08333	PY	16
+Kilometro 262	-22.06667	-60.35	PY	24
+Fortin Junin	-20.13333	-60.2	PY	23
+Fortin Jose M. Lopez	-20.15	-60.18333	PY	23
+Jhovy	-20.3	-60.1	PY	23
+Fortin Jara Troche	-22.41667	-60.65	PY	24
+Aguada Itapua Poty	-22.53333	-61.61667	PY	24
+Aguada Ingui	-22.36667	-61.73333	PY	24
+Fortin Infante Rivarola	-21.7	-62.43333	PY	24
+Independencia	-21.56667	-62.16667	PY	24
+Fortin Hernandarias	-21.96667	-61.5	PY	24
+Gutierrez	-23.4	-61.28333	PY	24
+Guajho	-22.31667	-60.15	PY	24
+Gran Laguna Loa	-21.83333	-61.93333	PY	24
+Laguna Gonzalez	-22.55	-61.93333	PY	24
+General Eugenio A. Garay	-20.51667	-62.13333	PY	24
+Fortin General Diaz	-23.56667	-60.6	PY	16
+Fortin General Caballero Alvarez	-22.95	-61.86667	PY	24
+Fortin Garrapatal	-21.45	-61.5	PY	24
+Ganadera	-23.5	-60.43333	PY	24
+Fulgendo R. Moreno	-23.13333	-60.05	PY	24
+Frias	-20.93333	-60.76667	PY	24
+Florentin Cue	-22.8	-60.56667	PY	24
+Filadelfia	-22.35	-60.03333	PY	24
+Esteros	-23.78333	-61.01667	PY	24
+Estancia Zunilda	-23.45	-60.51667	PY	24
+Estancia Ytororo	-23.45	-60.31667	PY	24
+Estancia Yerovia	-21.1	-61.48333	PY	24
+Estancia Yaguarete	-23.41667	-61.33333	PY	24
+Estancia Yaguarete	-21.35667	-61.22556	PY	24
+Estancia Yacare	-24.01667	-60.16667	PY	16
+Estancia Voon Leppel	-23.5	-60.43333	PY	24
+Estancia Tres Reyes	-23.55	-60.68333	PY	24
+Estancia Teniente Prieto	-21.12583	-61.38639	PY	24
+Estancia Teniente Montania	-21.98139	-60.09639	PY	24
+Estancia Tagua	-21.62417	-60.03694	PY	24
+Estancia Sorpresa	-24.01667	-60.05	PY	16
+Estancia Sombrero Jhovy	-23.66667	-60.38333	PY	16
+Estancia Soledad	-22.81667	-61.85	PY	24
+Estancia Santo Domingo	-22.63333	-60.6	PY	24
+Estancia San Rafael	-21.22639	-60.9525	PY	24
+Estancia San Miguel	-19.46667	-60.55	PY	23
+Estancia San Juan	-21.10556	-60.54639	PY	24
+Estancia San Jose	-19.55	-60.5	PY	23
+Estancia San Jorge	-22	-60.28333	PY	24
+Estancia San Isidro	-21.23333	-60.96667	PY	24
+Estancia San Heriberto	-22.73333	-60.76667	PY	24
+Estancia Sandrina	-22.65	-61.26667	PY	24
+Estancia Samuhu	-21.26611	-61.27694	PY	24
+Estancia Safari	-22.23333	-61.91667	PY	24
+Estancia Pozo Milico	-22.25	-62.08333	PY	24
+Estancia Pozo Leon	-23.46667	-61.3	PY	24
+Estancia Pozo Brillante	-23.05	-60.36667	PY	24
+Estancia Piroy	-21.47556	-61.305	PY	24
+Estancia El Pampero	-21.00389	-61.77222	PY	24
+Estancia Palmares	-21.91667	-60.75	PY	24
+Estancia Nandu	-22.55	-60.76667	PY	24
+Estancia Mistroll Marcado	-23.06667	-61.9	PY	24
+Estancia Mbutu Reta	-22.3	-61.3	PY	24
+Estancia Mary	-22.01667	-60.21667	PY	24
+Estancia Marta Lidia	-23.36667	-60.26667	PY	24
+Estancia Maria Vicenta	-20.98333	-61.43333	PY	24
+Estancia Maria Luisa	-21.61667	-61.91667	PY	24
+Estancia Maria Eugenia	-21.19944	-60.87056	PY	24
+Estancia Maria Auxiliadora	-21.29417	-61.16556	PY	24
+Estancia Los Sauces	-23.25	-61.66667	PY	24
+Estancia Los Laureles	-20	-60.66667	PY	23
+Estancia Los Hijos	-21.60028	-61.18194	PY	24
+Estancia Los Caminantes	-22.56667	-60.68333	PY	24
+Estancia Lorena	-21.37972	-61.26083	PY	24
+Estancia La Victoria	-22.65	-61.4	PY	24
+Estancia La Ventura	-21.93333	-60.71667	PY	24
+Estancia La Patricia	-21.27806	-61.03389	PY	24
+Estancia La Patria	-21.41778	-61.43361	PY	24
+Estancia La Mariposa	-21.72194	-61.34694	PY	24
+Estancia La Madelon	-21.26778	-61.61194	PY	24
+Estancia La Lechiguana	-23.41667	-60.93333	PY	24
+Estancia Laguna	-23.48333	-61.31667	PY	24
+Estancia La Esmeralda	-21.79972	-61.39556	PY	24
+Estancia La Chaquena	-23.41667	-60.98333	PY	24
+Estancia La Aguada	-21.48333	-61.31667	PY	24
+Estancia Josefina	-23.58333	-60.18333	PY	16
+Estancia Ita Reta	-21.28333	-61.56667	PY	24
+Estancia Hernandarias	-21.89861	-61.42111	PY	24
+Estancia Guayacan	-22	-60.25	PY	24
+Estancia Gran Siete	-22.51667	-60.61667	PY	24
+Estancia Ferko	-20.9	-60.26667	PY	24
+Estancia Faro Moro	-21.73472	-60.02111	PY	24
+Estancia Eriana	-21.43306	-61.38444	PY	24
+Estancia Eleonora	-22.08333	-61.6	PY	24
+Estancia El Dorado	-21.31667	-61.58333	PY	24
+Estancia Dos Banderas	-22.45	-60.35	PY	24
+Estancia Dojavina	-21.51667	-61.18333	PY	24
+Estancia del Socorro	-21.32944	-61.22639	PY	24
+Estancia Coe Puajhu	-20.66667	-61.95	PY	24
+Estancia Carmelita	-21.35056	-60.55639	PY	24
+Estancia Brusqueti	-21.25	-61.3	PY	24
+Estancia Berta	-22.55	-61.03333	PY	24
+Estancia Ararapo	-21.31667	-61.13333	PY	24
+Establecimiento Mil	-22.36667	-62.26667	PY	24
+Aguada Esperanza	-22	-61.6	PY	24
+Espectro	-22.48333	-61.45	PY	24
+Esmeralda	-22.25	-62.63333	PY	24
+Laguna Escalante	-23.83333	-60.76667	PY	16
+Entre Rios	-23.03333	-61.93333	PY	24
+Empalme Victoria	-22.15	-62.18333	PY	24
+Canada Emilia	-22.75	-61.56667	PY	24
+El Rastro	-22.33333	-62.48333	PY	24
+El Pocito	-23.4	-60.88333	PY	24
+Aguada Eloisa	-22.18333	-61.91667	PY	24
+El Mojon	-24.03333	-60.38333	PY	16
+El Kastro	-22.36667	-62.5	PY	24
+El Galpon	-22.56667	-62.21667	PY	24
+El Cuervo	-23.83333	-60.36667	PY	16
+El Carmen	-21.63333	-62.25	PY	24
+Dos Tuscas	-22.91667	-61.85	PY	24
+Dorado	-21.61667	-61.91667	PY	24
+Dorado	-21.63333	-61.9	PY	24
+Doctor Pedro P. Pena	-22.45	-62.35	PY	24
+Diez de Octubre	-21.08333	-62.25	PY	24
+Destacamento Militar Numero Dos Teniente Primero Americo Picco	-21.05056	-60.54833	PY	24
+Destacamento Militar Numero Dos Parque Cue	-20.21667	-61.8	PY	24
+Destacamento General P. Colman	-20.38333	-60.51667	PY	23
+Delicias	-22.9	-61.73333	PY	24
+Curupayty	-23.46667	-61.03333	PY	24
+Cerro Cristian	-19.55	-60.1	PY	23
+Fortin Corrales	-22.41667	-60.55	PY	24
+Corral de los Paraguayos	-23.83333	-60.15	PY	16
+Fortin Coronel Hermosa	-22.55	-60.01667	PY	24
+Cerro Coronel F. Cabrera	-19.63333	-61.76667	PY	00
+Cerro Coronel F. Cabrera	-19.56667	-61.83333	PY	00
+Fortin Coroneles Sanchez	-19.33333	-60.01667	PY	00
+Copagro	-21.56667	-61.1	PY	24
+Cooperativa Lagerenza	-19.7	-60.96667	PY	23
+Fortin Conchitas	-22.73333	-61.9	PY	24
+Colonia Sierra Leon	-19.68333	-60.85	PY	23
+Colonia San Alfredo	-19.9	-60.9	PY	23
+Colonia Neuland	-22.66667	-60.11667	PY	24
+Colonia Austria-i	-22.06667	-61.75	PY	24
+Collar Ahorcado	-23.13333	-61.83333	PY	24
+Codo Kononi	-21.85	-62.28333	PY	24
+Cobija	-20.43333	-61.18333	PY	24
+Choroloque	-20.83333	-60.51667	PY	24
+Chivilar	-23.31667	-61.61667	PY	24
+China Muerta	-22.35	-61.6	PY	24
+Cerro Chico	-19.45	-60.55	PY	23
+Laguna Chica	-22.31667	-60.43333	PY	24
+Celina	-21.85	-62.41667	PY	24
+Carmen Ines	-22.41667	-62.4	PY	24
+Carmencita	-22.48333	-62.26667	PY	24
+Fortin Carlos Sisa	-24.05	-60.26667	PY	16
+Canada Oruro	-21.66667	-62.4	PY	24
+Canada Chile	-22.25	-62.16667	PY	24
+Canada Blanca	-22.13333	-61.91667	PY	24
+Calixto Benitez	-22.65	-60.08333	PY	24
+Aguada Cabo Gonzalez	-21.85	-62.1	PY	24
+Fortin Buenos Aires	-22.95	-61.85	PY	24
+Buena Vista	-22.3	-62.58333	PY	24
+Departamento de Boqueron	-21.83333	-61.16667	PY	24
+Bella Vista	-22.78333	-62.11667	PY	24
+Beatriz	-21.81667	-62.31667	PY	24
+Batallon Numero Uno Palmar de las Islas	-19.6	-60.56667	PY	23
+Batallon Ingenieria Numero Cuatro Aquidaban	-21.75417	-60.96444	PY	24
+Bandera Blanca	-23.11667	-61.86667	PY	24
+Ballivian	-22.68333	-62.16667	PY	24
+Fortin Avalos Sanchez	-23.46667	-60.11667	PY	24
+Aurora	-23.43333	-61.33333	PY	24
+Atajado	-22.1	-62.36667	PY	24
+Aguada Asuncion	-21.73333	-61.76667	PY	24
+Fortin Aroma	-20.23333	-60.45	PY	23
+Amarillo Pericote	-22.96667	-61.95	PY	24
+Alurralde	-22	-62.23333	PY	24
+Alianza	-23.63333	-61.13333	PY	24
+Alborada	-22.71667	-61.36667	PY	24
+Aguirre	-23.11667	-60.06667	PY	24
+Aguilera	-23.25	-60.35	PY	24
+Aguero	-23.55	-61.21667	PY	24
+Aguay	-19.45	-61.21667	PY	23
+Achaval	-22.83333	-61.76667	PY	24
+Aca Vera	-23.53333	-60.93333	PY	24
+Aba-Ne-e	-21.93333	-61.93333	PY	24
+Echauri	-21.02917	-61.75556	PY	24
+Parque Nacional Teniente Agripino Enciso	-21.08083	-61.61556	PY	24
+Agripino	-21.26944	-61.61917	PY	24
+Chacore	-21.35139	-61.56472	PY	24
+Centro Experimental Estancia La Patria	-21.40222	-61.57694	PY	24
+Laguna Verde	-21.65806	-61.29556	PY	24
+Estancia La Aguada	-21.51139	-61.36972	PY	24
+Negro	-21.50972	-61.36583	PY	24
+Estancia La Esperanza	-21.53528	-61.27444	PY	24
+Canada	-21.54917	-61.22889	PY	24
+Teniente	-21.70472	-61.01472	PY	24
+Palo	-21.63306	-61.13389	PY	24
+Estancia San Isidro	-21.24778	-61.00861	PY	24
+Estancia Wellcome	-21.33889	-61.29389	PY	24
+Estancia Mari Christie	-21.38167	-61.25722	PY	24
+Soldado	-21.425	-61.42722	PY	24
+Obraje San Miguel	-21.97556	-60.58778	PY	24
+Fortin	-21.97389	-60.645	PY	24
+Camacho	-21.89806	-60.77333	PY	24
+Palmar	-21.80444	-60.82278	PY	24
+Ochoa	-21.77278	-60.94583	PY	24
+Aguada Pyta	-21.06806	-60.595	PY	24
+Colonia Teniente Primero Americo Picco	-21.06222	-60.55694	PY	24
+Aguada Yatebu	-21.09083	-60.58167	PY	24
+Aguada Paraiso	-21.09583	-60.59944	PY	24
+Retiro Carlos Casado S.A.	-21.36833	-60.55917	PY	24
+Retiro Carandayty	-21.96639	-60.31639	PY	24
+Canada Elisa	-21.98444	-60.48472	PY	24
+Concepcion	-23.44175	-57.42712	PY	
+Encarnacion	-27.31667	-55.83333	PY	
+Nueva Asuncion	-20.71667	-61.91667	PY	
+Estadio Defensores del Chaco	-25.29208	-57.65749	PY	06
+2 M Corazon	-23.67786	-56.94677	PY	17
+2 M Corazon Yetuty	-24.19853	-56.95591	PY	17
+Tacumbu	-25.30861	-57.66505	PY	06
+Terport (San Antonio)	-25.37838	-57.62033	PY	06
+Cerra Leon	-25.58793	-57.17628	PY	15
+Gran Asuncion	-25.28386	-57.64179	PY	06
+Sant Ana	-25.31664	-57.66016	PY	06
+De La Costa	-27.33426	-55.86632	PY	11
+Arthur	-27.34646	-55.85832	PY	11
+Catedral	-25.51739	-54.60951	PY	01
+Las Ventanas	-25.50853	-54.67532	PY	01
+Papillon	-26.96621	-55.47296	PY	11
+Cecilia (Asuncion)	-25.2779	-57.6271	PY	06
+Palmas Del Sol	-25.2829	-57.62998	PY	06
+Portal Del Sol	-25.2871	-57.61789	PY	06
+Chaco	-25.28409	-57.63175	PY	06
+Zaphir	-25.2671	-57.6468	PY	16
+Manduvira	-25.2784	-57.6503	PY	16
+Sabe Centre	-25.2744	-57.6359	PY	06
+Manduara	-25.29307	-57.63625	PY	06
+Internacional De Asuncion	-25.28061	-57.63968	PY	06
+Casino Acaray	-25.51836	-54.60524	PY	01
+Urbanian Hostel	-25.28563	-57.64435	PY	06
+Ruta Del Sol Ypacarai	-25.29875	-57.62876	PY	06
+City	-25.28603	-57.63705	PY	06
+Guarani Esplendor	-25.29875	-57.62876	PY	06

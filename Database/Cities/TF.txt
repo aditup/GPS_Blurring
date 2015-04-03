@@ -1,0 +1,1545 @@
+Ile Tromelin	-15.892	54.52324	TF	00
+Ile Europa	-22.35037	40.35953	TF	05
+Bassas da India	-21.41667	39.7	TF	05
+Bassas da India	-21.41667	39.7	TF	05
+Cap Vertical	-46.34316	51.75114	TF	00
+Cap Verdoyant	-46.1164	50.30167	TF	00
+Crique Tournyol du Clos	-46.1	50.28333	TF	00
+Falaise du Toboggan	-46.13333	50.25	TF	00
+Mont des Tetes Grises	-46.4	52.23333	TF	00
+Banc du Taunton	-46.51667	50.33333	TF	00
+Brisant du Tamaris	-46.48425	50.42179	TF	00
+Pointe Sud	-46.15326	50.25397	TF	00
+Eperon Sud	-46.46667	52.3	TF	00
+Styx	-46.46667	51.78333	TF	00
+Val des Sternes	-46.38333	52.3	TF	00
+Crique du Sphinx	-46.4	51.85	TF	00
+Pointe Sombre	-46.35	51.76667	TF	00
+Lac des Skuas	-46.46667	52.35	TF	00
+Pointe Seince	-46.41667	51.86667	TF	00
+Morne Rouge	-46.38333	51.81667	TF	00
+Morne Rouge	-46.1	50.28333	TF	00
+Baie Rocheuse	-46.45	52.25	TF	00
+Mont Richard-Foy	-46.10034	50.22576	TF	00
+Cap de la Reconnaissance	-46.41667	52.18333	TF	00
+Col des Rafales	-46.43333	52.3	TF	00
+Ile de la Possession	-46.4023	51.76145	TF	00
+Port-Alfred	-46.42526	51.88554	TF	00
+Ile des Pingouins	-46.45695	50.38253	TF	00
+Val des Pierriers	-46.41667	52.2	TF	00
+Riviere des Phoquiers	-46.46667	52.3	TF	00
+Plateau des Petrels Bleus	-46.43333	51.8	TF	00
+Petite Ile	-45.97186	50.42984	TF	00
+Baie du Petit Caporal	-46.35	51.78333	TF	00
+Lac Perdu	-46.44147	51.75835	TF	00
+Rocher Perce	-46.37041	51.64836	TF	00
+Rocher Perce	-45.98811	50.40431	TF	00
+Baie du Pacha	-46.46667	52.31667	TF	00
+Arete des Nuees	-46.41667	52.21667	TF	00
+Crete du Nouvel An	-46.1171	50.22219	TF	00
+Pointe Nord-Est	-45.96667	50.46667	TF	00
+Rocher Nord	-45.95232	50.4564	TF	00
+Cap Nord	-46.37768	52.19175	TF	00
+Crique de Noel	-46.46001	51.83253	TF	00
+Cap Neglige	-46.1	50.28333	TF	00
+Crique du Navire	-46.41667	51.86667	TF	00
+Vallee du Naufrage	-46.40112	52.21795	TF	00
+Col de la Muraille	-46.43333	52.25	TF	00
+Plaine des Moraines	-46.45	52.23333	TF	00
+Montsegur	-46.4	52.28333	TF	00
+Rochers des Moines	-46.38227	51.64667	TF	00
+Pointe des Moines	-46.3842	51.64325	TF	00
+Riviere Moby Dick	-46.38333	51.8	TF	00
+Mont du Mischief	-46.45	51.7	TF	00
+Mouillage de la Meurthe	-46.12138	50.30844	TF	00
+Crete de la Meurthe	-46.38333	51.53333	TF	00
+Cap de la Meurthe	-46.35236	51.78966	TF	00
+Pointe Max Douguet	-46.41371	51.8752	TF	00
+Pic du Mascarin	-46.43648	51.74547	TF	00
+Cap du Marquis de Castries	-46.43819	52.31942	TF	00
+Plage des Marmites	-46.46667	52.31667	TF	00
+Mont Marion-Dufresne	-46.41646	52.25704	TF	00
+Baie du Marin	-46.43333	51.88333	TF	00
+Riviere des Manchots	-46.4	52.31667	TF	00
+Crique Loniewsky	-46.06667	50.28333	TF	00
+L'Obelisque	-45.98068	50.41405	TF	00
+Pointe Lieutard	-46.43333	51.88333	TF	00
+Col des Lichens	-46.43333	52.33333	TF	00
+Le Strathmore	-46.15	50.51667	TF	00
+Les Santons	-46.38333	52.3	TF	00
+Pic Lesquin	-46.45801	52.19093	TF	00
+Les Deux Rouquines	-46.41667	51.76667	TF	00
+Les Demons	-46.48333	52.21667	TF	00
+Les Cinq Geants	-46.06234	50.27547	TF	00
+Les Aiguilles	-46.38333	51.68333	TF	00
+Le Pignon Rouge	-46.43333	52.18333	TF	00
+Le Pain de Sucre	-46.41667	51.68333	TF	00
+Le Hangar	-45.96667	50.41667	TF	00
+Le Grand Roc	-46.45	52.31667	TF	00
+Le Donjon	-45.97384	50.42336	TF	00
+Le Donjon	-46.41667	51.85	TF	00
+Le Contrefort	-46.46667	52.26667	TF	00
+Le Chateau	-46.43333	50.36667	TF	00
+Le Chapeau Rouge	-46.1	50.23333	TF	00
+Le Caillou	-45.98333	50.41667	TF	00
+Le Cactus	-46.41667	52.28333	TF	00
+La Voile	-46.47751	52.25692	TF	00
+L'Au-dela	-46.45	51.76667	TF	00
+La Tour Blanche	-46.43737	51.71033	TF	00
+La Tour	-46.43333	52.23333	TF	00
+La Table	-46.1	50.28333	TF	00
+La Sentinelle Rouge	-46.13333	50.26667	TF	00
+La Selle Mexicaine	-46.1	50.23333	TF	00
+La Selle Anglaise	-46.1	50.25	TF	00
+La Redoute	-46.15	50.25	TF	00
+La Pyramide	-46.38333	51.81667	TF	00
+La Petite Manchotiere	-46.4	51.81667	TF	00
+La Petite Aiguille	-45.96667	50.41667	TF	00
+Baie du Laperouse	-46.46014	51.71968	TF	00
+L'Amphitheatre	-46.08333	50.26667	TF	00
+du Geographe La Grotte	-46.41667	51.83333	TF	00
+La Grande Manchotiere	-46.41667	51.86667	TF	00
+La Grande Coulee	-46.37669	51.70644	TF	00
+La Grande Cascade	-46.43333	51.8	TF	00
+La Grande Aiguille	-45.96667	50.41667	TF	00
+La Grand Balcon	-46.11667	50.28333	TF	00
+La Citadelle	-46.41667	52.26667	TF	00
+La Brioche	-46.1	50.25	TF	00
+Labourage et Paturage	-46.38333	51.73333	TF	00
+La Boule	-46.41667	51.78333	TF	00
+La Bonne Mere	-46.43333	52.2	TF	00
+Ilots Jumeaux	-46.15	50.25	TF	00
+Monts Jules Verne	-46.35439	51.75495	TF	00
+Plateau Jeannel	-46.41743	51.80611	TF	00
+Pointe de la Houle	-46.1491	50.26677	TF	00
+Brisants de l'Heroine	-46.2218	50.36029	TF	00
+Cap de l'Heroie	-46.39228	51.64017	TF	00
+Baie de la Hebe	-46.36667	51.78333	TF	00
+Anse des Grandes Orgues	-46.45	52.38333	TF	00
+Grande Ile	-45.96692	50.45444	TF	00
+Pointe de Geographie	-46.08333	50.21667	TF	00
+Cap du Gauss	-46.4706	51.80824	TF	00
+Cap du Gallieni	-46.46914	51.7251	TF	00
+Rochers de la Fortune	-46.46667	51.8	TF	00
+Rocher Fendu	-45.96823	50.41419	TF	00
+Pic Fanning	-46.43333	52.28333	TF	00
+Ile de l'Est	-46.41528	52.22385	TF	00
+Monts Duclesmeur	-46.43411	52.23815	TF	00
+Mont Duclesmeur	-46.43333	52.31667	TF	00
+Sommet Double	-46.1	50.28333	TF	00
+Trou du Diable	-46.46667	51.76667	TF	00
+Cap de la Deception	-46.09428	50.29949	TF	00
+Roche Debout	-46.38333	51.63333	TF	00
+Iles Crozet	-46.41667	51	TF	02
+Archipel des Crozet	-46.41667	51	TF	02
+Mont des Crateres	-46.41131	51.70066	TF	00
+Cratere en Coeur	-46.11667	50.25	TF	00
+Ile aux Cochons	-46.09137	50.22666	TF	00
+Cap Chivaud	-46.39386	51.84627	TF	00
+Crique de la Chaloupe	-46.4	51.86667	TF	00
+Mont Cecille	-46.38497	51.67977	TF	00
+Banc du Castries	-46.33333	50.33333	TF	00
+Vallee de la Cascade	-46.41667	52.36667	TF	00
+Riviere de la Cascade	-46.41667	52.38333	TF	00
+Crique de la Carriere	-46.13333	50.26667	TF	00
+Roche Carree	-46.43701	51.68501	TF	00
+Pointe du Capuchon	-46.45	52.2	TF	00
+Vallee des Branloires	-46.4011	51.78271	TF	00
+Mont Branca	-46.43512	51.83513	TF	00
+Recif du Bougainville	-46.13333	50.31667	TF	00
+Pointe du Bougainville	-46.45084	51.85615	TF	00
+Pas du Bivouac	-46.43333	51.76667	TF	00
+Roche Basse	-46.43333	52.41667	TF	00
+Pointe Basse	-46.35635	51.7025	TF	00
+Anse de l'Aventure	-46.38521	52.22828	TF	00
+Monts Arides	-46.45	52.28333	TF	00
+Rocher de l'Arche	-46.43542	50.38749	TF	00
+Plateau des Apotres	-45.83333	50.33333	TF	00
+Ilots des Apotres	-45.96026	50.40688	TF	00
+Crete de l'Antares	-46.48333	52.33333	TF	00
+Cap de l'Antares	-46.37483	51.80577	TF	00
+Baie Americaine	-46.38571	51.80684	TF	00
+Mont de l'Alouette	-46.38333	51.76667	TF	00
+Col de l'Alouette	-46.43333	52.36667	TF	00
+Base Alfred Faure	-46.43217	51.85839	TF	00
+Baie de l'Aiguille	-46.14243	50.23848	TF	00
+Pic del'Accolade	-46.38333	52.28333	TF	00
+Vallee del'Abondance	-46.4	52.25	TF	00
+Ile Juan de Nova	-17.05449	42.7248	TF	05
+Iles Glorieuses	-11.5	47.33333	TF	05
+Ile du Lys	-11.5	47.36667	TF	00
+Lac Zizi	-49.13398	68.86175	TF	00
+Yvon	-49.35	70.28333	TF	00
+Cap Yule	-48.84624	69.39831	TF	00
+Lac Yseult	-49.36667	69.58333	TF	00
+Crique du You-You	-49.16667	69.41667	TF	00
+Baie du Young William	-49.4	68.88333	TF	00
+Mont Wyville Thomson	-49.56458	70.16076	TF	00
+Roches Wood	-48.93333	69.58333	TF	00
+Mont Wild	-49.58258	70.29055	TF	00
+Presqu'ile Weygand	-48.92589	69.31733	TF	00
+Mont Werth	-49.30954	69.94605	TF	00
+Mont Weineck	-49.31667	69.61667	TF	00
+Cote des Weasels	-49.26951	70.53875	TF	00
+Anse du Vulcan	-49.25	69.85	TF	00
+La Coulee de Vulcain	-49.68999	68.89913	TF	00
+Cratere Vulcain	-37.83147	77.54334	TF	00
+Mont de la Vrille	-49.03333	69.51667	TF	00
+Mont Von Schleinitz	-49.29353	69.55489	TF	00
+Mont de Volz	-49.68666	69.04375	TF	00
+Riviere du Volcan	-49.17041	70.38836	TF	00
+Anse du Volage	-49.5	69.71667	TF	00
+Pointe Vlaming	-37.88074	77.55912	TF	00
+Col de la Visee	-49.48333	68.95	TF	00
+Lac Virgule	-49.03333	69.13333	TF	00
+Ile Violette	-49.11308	69.6723	TF	00
+Col Vilars	-49.41667	69.43333	TF	00
+Mont de la Vigie	-49.26667	69.7	TF	00
+Bassin Victoria	-49.2	69.33333	TF	00
+Montagnes Vertes	-49.25299	70.00964	TF	00
+Roche Verte	-49.41667	70.33333	TF	00
+Ile Verte	-49.50668	70.04446	TF	00
+Morne Vert	-49.15	70.5	TF	00
+Lac Vert	-49.18333	70.16667	TF	00
+Crete Veronique	-49.35255	70.28176	TF	00
+Tables de Vergennes	-49.03178	69.25084	TF	00
+Mont de Venus	-49.43333	69.86667	TF	00
+Crateres Venus	-37.81567	77.56259	TF	00
+Mont Ventoux	-49.16582	69.22432	TF	00
+Trouee du Vent	-48.8559	69.06433	TF	00
+Plateau du Vent	-49.58708	69.80537	TF	00
+Lac de la Vendeenne	-49.58333	69.66667	TF	00
+Ilot Vedette	-49.5	70.2	TF	00
+Ile du Veau Marin	-48.95	69.63333	TF	00
+Bras Vanhoffen	-49.38333	69.9	TF	00
+Lac du Val Mort	-49.28205	68.86941	TF	00
+Glacier Vallot	-49.25644	69.2261	TF	00
+Lac Valerie	-48.86667	68.86667	TF	00
+Mont de la Valdivia	-49.33906	69.70022	TF	00
+Mont Uranie	-49.44454	68.91866	TF	00
+Col de la Tuyere	-49.45	69.01667	TF	00
+Plateau du Tussock	-49.32479	70.05965	TF	00
+Roches Tuilliere	-49.55	69.41667	TF	00
+Detroit de Tucker	-49.11131	69.19836	TF	00
+Lac des Truites	-49.26667	70	TF	00
+Pointe Tromelin	-49.13204	68.79358	TF	00
+Val des Trolls	-49.44658	69.60651	TF	00
+Riviere des Trois Lacs	-49.36667	70.01667	TF	00
+Lac des Trois Glaciers	-49.36667	69.31667	TF	00
+Lac des Trois Enseignes	-49.31667	69.83333	TF	00
+Lac des Trois Cantons	-48.95846	69.04446	TF	00
+Pointe des Trois Bergers	-49.3	69.71667	TF	00
+Lac Tristan	-49.36667	69.53333	TF	00
+Rochers Tremarec	-49.81069	68.79951	TF	00
+Col du Trefle	-49.23333	68.8	TF	00
+Val Travers	-49.32832	69.39827	TF	00
+Mont Trapeze	-49.23116	69.97273	TF	00
+Roche Tournesol	-49.36667	69.98333	TF	00
+Mont de la Tourmente	-49.30324	69.38346	TF	00
+Plateau des Tourbieres	-37.84871	77.53043	TF	00
+Col des Tourbieres	-49.25	70.08333	TF	00
+Lac Toulaz	-49.4	69.51667	TF	00
+Pointe de la Topographie	-49.6	70.01667	TF	00
+Baie du Tonnerre	-49.32547	68.88478	TF	00
+Mont du Toit	-49.19596	70.08558	TF	00
+Mont Tizard	-49.69942	70.0145	TF	00
+Mont de la Tirelire	-49.18603	68.79481	TF	00
+Pointe des Timoniers	-49.1	69.58333	TF	00
+Anse des Timoniers	-48.76667	68.93333	TF	00
+Lac du Tigre	-48.78333	68.95	TF	00
+Table de Thule	-49.19142	69.01507	TF	00
+Anse Thomas	-49.3	69.7	TF	00
+Vallee du Thermometre	-48.9	69.01667	TF	00
+Mont du Theodolite	-48.92539	68.95571	TF	00
+Lac Thalie	-49.23169	69.32761	TF	00
+Roches du Terror	-48.624	69.50008	TF	00
+Cap des Terres Rouges	-49.66352	69.67664	TF	00
+Terres Rouges	-37.86667	77.55	TF	00
+Riviere des Terrasses	-49.21667	70.1	TF	00
+Iles de Ternay	-48.63941	68.73391	TF	00
+Mont des Tempetes	-48.87859	69.0659	TF	00
+Failaise des Tempetes	-49.56671	68.79481	TF	00
+Vallee du Tellurometre	-49.54091	68.86838	TF	00
+Table du Tellurometre	-49.15	70	TF	00
+Versant des Taureaux Sauvages	-37.80903	77.5473	TF	00
+Mont de la Table Haute	-49.17124	68.92061	TF	00
+Table du Mont Lacroix	-48.86667	68.83333	TF	00
+Glacier de la Table	-49.18333	69.01667	TF	00
+Baie de la Table	-49.53303	69.21609	TF	00
+Anse Syenite	-49.63333	69.08333	TF	00
+Ile Swire	-49.15	70.16667	TF	00
+Baie des Swains	-49.58888	69.73012	TF	00
+Pointe Suzanne	-49.43808	70.44152	TF	00
+Anse du Supply	-49.51667	69.78333	TF	00
+Lac Superieur	-49.28333	70.03333	TF	00
+Cratere Superieur	-37.8184	77.55944	TF	00
+Ile Sullivan	-49.4	69.96667	TF	00
+Lac Suisse	-49.06902	69.41298	TF	00
+Ile Suhm	-49.49755	70.15308	TF	00
+Anse Suffren	-49.18333	69.38333	TF	00
+Riviere du Sud	-49.3455	70.13207	TF	00
+Pointe Sud	-38.73742	77.53776	TF	00
+Port du Success	-48.96667	69.58333	TF	00
+Val Studer	-49.26667	70	TF	00
+Riviere Studer	-49.21357	69.87044	TF	00
+Ilot Stoll	-49.45	69.9	TF	00
+Pointe des Sternes	-37.78333	77.55	TF	00
+Lac des Sternes	-49.36667	70.23333	TF	00
+Ile Stafford	-49.46667	70.05	TF	00
+Roches Spry	-48.86667	69.55	TF	00
+Port du Sprightly	-49.61667	69.11667	TF	00
+Ilots de la Souris	-49.45	70.13333	TF	00
+Canon des Sourcils Noirs	-49.68333	70.25	TF	00
+Lac de la Source	-49.31667	69.96667	TF	00
+Vallee des Souilles	-49.55	70.2	TF	00
+Col de la Soufflerie	-49.3	69.33333	TF	00
+Baie du Sondeur	-49.13499	69.46346	TF	00
+Val Sombre	-49.68333	70	TF	00
+Mont de la Solitude	-49.3	69.5	TF	00
+Rocher Solitaire	-49.48333	69.41667	TF	00
+Ilot Solitaire	-49.96023	68.12557	TF	00
+Ile Soe	-49.62867	69.39907	TF	00
+Presqu'ile de la Societe de Geographie	-49.06446	69.10962	TF	00
+Pointe Smith	-48.81667	69.45	TF	00
+Val des Skuas	-49.63333	69.61667	TF	00
+Ile aux Skuas	-49.24472	69.56564	TF	00
+Riviere des Six Lacs	-49.23431	68.89694	TF	00
+Val Sinistre	-49.28333	69.93333	TF	00
+Mont Sinai	-49.14482	69.27188	TF	00
+Roche Simoun	-49.6	69.61667	TF	00
+Ilots Simone	-49.46667	69.83333	TF	00
+Val du Silence	-49.68333	69.95	TF	00
+Mont du Signal	-49.1801	69.59188	TF	00
+Lac Sibelius	-49.38325	69.52669	TF	00
+Ile Sibbald	-48.92814	69.61121	TF	00
+Ilot Sharbau	-49.51667	70.2	TF	00
+Rocher Seyrolle	-48.83333	68.8	TF	00
+Vallee du Sextant	-49.5	68.86667	TF	00
+Roche Sersey	-49.2	68.73333	TF	00
+Riviere du Serail	-49.16667	69.98333	TF	00
+Plateau des Sept Laux	-49.0005	68.80413	TF	00
+Val Senestre	-49.51103	69.47991	TF	00
+Mont de la Selle	-48.80679	68.91085	TF	00
+Lacs de la Selle	-49.35	68.75	TF	00
+Glacier du Sele	-49.53333	69.51667	TF	00
+Col du Secours	-49.05	68.91667	TF	00
+Pointe Scott	-49.11556	70.07149	TF	00
+Pointe Schmith	-38.70043	77.51014	TF	00
+Lac Schimper	-49.35	69.68333	TF	00
+Cap Sauvigny	-48.80315	68.88355	TF	00
+Plateau de Sauveterre	-49.1576	70.01454	TF	00
+Baie Sauvage	-49.7	69.95	TF	00
+Presqu'ile des Sauteurs	-49.12291	69.61583	TF	00
+Lac des Saumons	-49.26667	69.98333	TF	00
+Lac Saturne	-49.38333	69.78333	TF	00
+Plaine des Sarcelles	-49.54012	70.22836	TF	00
+Cap Sandwich	-49.19377	70.55056	TF	00
+Roche Sanadoire	-49.53333	69.36667	TF	00
+Rochers du Salamanca	-49.94818	69.50031	TF	00
+Pointe Saint-Vincent-de-Paul	-49.08333	69.45	TF	00
+Puy Saint-Theodule	-49.47956	69.62397	TF	00
+Mont Saint-Sylvestre	-48.81667	68.95	TF	00
+Ilots Saint-Salvy	-49.16667	69.5	TF	00
+Ilot Saint-Salvy	-49.16214	69.49741	TF	00
+Ile Saint-Paul	-38.71667	77.51667	TF	01
+Mont Saint-Ours	-49.35953	69.2425	TF	00
+Anse de Saint-Malo	-49.34818	69.82424	TF	00
+Ile Saint-Lanne Gramont	-48.92113	69.18309	TF	00
+Etang de Saint-Hubert	-49.36667	70.26667	TF	00
+Abri Saint-Francois	-49.61667	70.25	TF	00
+Col du Saint-Bernard	-49.63333	69.96667	TF	00
+Pic Saint-Allouarn	-49.67947	68.8342	TF	00
+Crique du Sac a Plomb	-49.26667	68.83333	TF	00
+Lac du Sabot	-49.23333	68.83333	TF	00
+Pointe du Sabord	-48.65	68.73333	TF	00
+Anse Sablonneuse	-49.31667	69.71667	TF	00
+Etang de la Sabliere	-49.33333	70.2	TF	00
+Vallee des Sables	-49.6846	68.96205	TF	00
+Anse Sabine	-49.56667	69.76667	TF	00
+Etang des Rubis	-49.35	70.28333	TF	00
+Banc Roure	-38.72438	77.55346	TF	00
+Mont Rouge	-49.58267	70.12672	TF	00
+Glacier Rouge	-49.58333	69.43333	TF	00
+Cap Rouge	-49.07753	70.26317	TF	00
+Butte Rouge	-49.2	70.25	TF	00
+Pointe de Rotheneuf	-49.05	69.46667	TF	00
+Mont Ross	-49.59367	69.49405	TF	00
+Cap Rosnevet	-49.32744	68.66902	TF	00
+Cap Rosily	-49.66547	68.73621	TF	00
+Port Rosa	-49.13333	69.38333	TF	00
+Pointe de la Rookerie	-37.83783	77.51312	TF	00
+Ile Ronde	-49.82752	68.80624	TF	00
+Butte Ronde	-49.23333	70.23333	TF	00
+Mont Rond	-49.61667	70.28333	TF	00
+Ronarc'h Presqu'ile	-49.57606	70.17914	TF	00
+Col Romanche	-49.38333	69.23333	TF	00
+Port Roland Bonaparte	-49.04269	69.64366	TF	00
+Ile du Roland	-48.59031	68.79175	TF	00
+Cap de Rohan	-49.05705	70.39268	TF	00
+Baie Rocheuse	-48.93799	68.81107	TF	00
+Presqu'ile Rochegude	-48.76667	69.01667	TF	00
+Lac Rochegude	-48.68333	69.01667	TF	00
+Mont Robert Bureau	-48.97699	69.33462	TF	00
+Anse Risler	-49.18333	69.65	TF	00
+Ilot Rio	-49.67823	69.67061	TF	00
+Glacier Rink	-49.63333	68.88333	TF	00
+Vallee Ring	-49.10749	68.95093	TF	00
+Anse Ring	-49.08333	69	TF	00
+Mont Richards	-49.08435	69.12903	TF	00
+Ile Richard-Foy	-49.54039	69.74925	TF	00
+Pointe Richard	-49.33333	68.83333	TF	00
+Mouillage Ribault	-37.79864	77.5856	TF	00
+Baie de Rhodes	-48.991	69.41707	TF	00
+Val de Rhemes	-49.4529	69.38214	TF	00
+Val du Retour	-49.04873	68.94695	TF	00
+Parc aux Rennes	-49.35	70.23333	TF	00
+Anse des Rennes	-49.38333	69.93333	TF	00
+Mont du Renne	-49.34827	69.23187	TF	00
+Lac Renee	-48.9	68.96667	TF	00
+Crete Rene Bossiere	-49.45917	68.94959	TF	00
+Ilot du Rendez-vous	-48.45235	68.80218	TF	00
+Etang du Rendez-vous	-49.36667	70.26667	TF	00
+Caverne du Relais	-49.46667	69.28333	TF	00
+Mont du Refuge	-49.6	69.83333	TF	00
+Baie du Recul	-48.88333	69.38333	TF	00
+Baie de Recques	-48.78076	69.05195	TF	00
+Pointe de la Recherche	-37.80033	77.53027	TF	00
+Col de la Recherche	-49.3	69.96667	TF	00
+Mont Raymond Rallier du Baty	-49.62631	68.87006	TF	00
+Ile Ravelo	-49.52097	69.72424	TF	00
+Cap Ratmanoff	-49.24278	70.55491	TF	00
+Val des Rapides	-48.98333	68.98333	TF	00
+Pointe Raoux	-49.16667	69.65	TF	00
+Bras Raoux	-49.28333	69.7	TF	00
+Glacier Raoul Blanchard	-49.5121	68.97335	TF	00
+Peninsule Rallier du Baty	-49.58333	68.91667	TF	00
+Val Raide	-49.65	70.13333	TF	00
+Mont des Rafales	-49.56529	69.10678	TF	00
+Vallee du Radioleine	-49.56057	69.64389	TF	00
+Anse du Radioleine	-49.53333	69.65	TF	00
+Roche Rabre	-48.70599	68.78027	TF	00
+Mont de la Rabouillere	-49.10749	69.45642	TF	00
+Mont Rabot	-49.04295	69.06946	TF	00
+Anse de Quiberon	-49.27821	68.83925	TF	00
+Mont des Quatre Points	-49.36296	69.45271	TF	00
+Eperon de la Quarantaine	-49.31708	68.9144	TF	00
+Pyramide Noire	-49.50683	69.45247	TF	00
+Pyramide Branca	-49.54286	69.61059	TF	00
+Etang des Pylones	-49.35	70.23333	TF	00
+Ilot Py	-49.23333	69.46667	TF	00
+Colline des Puffins	-48.88204	69.4574	TF	00
+Ile aux Prions	-49.13333	69.43333	TF	00
+Pointe Pringle	-48.76007	69.16777	TF	00
+Iles du Prince de Monaco	-49.61273	69.23719	TF	00
+Presqu'ile du Prince de Galles	-49.42944	70.35962	TF	00
+Lac du Presale	-49.03333	69.53333	TF	00
+Ile Powell	-49.44135	70.01086	TF	00
+Col de la Poterne	-49.01667	68.9	TF	00
+Pointe Poste	-49.28333	69.71667	TF	00
+Plage de la Possession	-49.71667	68.93333	TF	00
+Pointe du Portzic	-49.51667	70.13333	TF	00
+Cabane Port-Raymond	-49.33333	69.81667	TF	00
+Port-Raymond	-49.33333	69.81667	TF	00
+Port-Jeanne d'Arc	-49.55181	69.84324	TF	00
+Mont du Portillon	-49.64863	68.93006	TF	00
+Mont Porthos	-49.54607	68.95534	TF	00
+Fjord des Portes Noires	-49.49014	69.14581	TF	00
+Port-Douzieme	-49.51633	70.15195	TF	00
+Port-Couvreux	-49.28453	69.71743	TF	00
+Port-Christmas	-48.67958	69.04431	TF	00
+Port-Bizet	-49.51882	69.89978	TF	00
+Port-aux-Francais	-49.35	70.21667	TF	03
+Ile du Port	-49.1874	69.60367	TF	00
+Cap du Ponant	-48.64021	68.61557	TF	00
+Glacier Pointu	-49.21667	69.11667	TF	00
+Glacier Poinsot	-49.23333	68.91667	TF	00
+Cap Poincare	-49.498	68.81396	TF	00
+Vallee du Podometre	-48.91667	68.98333	TF	00
+Pointe Pleneau	-49.11245	69.21325	TF	00
+Glacier de Plan-Praz	-49.63333	68.93333	TF	00
+Vallee de la Planchette	-49.61086	70.00235	TF	00
+Vallee de la Plage Jaune	-49.68663	68.99369	TF	00
+Anse des Pingouins	-48.98333	69.63333	TF	00
+Glacier de la Pilatte	-49.53333	69.53333	TF	00
+Mont Pietri	-49.04723	69.09811	TF	00
+Mont Pierre Termier	-49.62832	69.91078	TF	00
+Mont Pierre Lejay	-49.27414	69.9621	TF	00
+Glacier Pierre Curie	-49.33031	68.93988	TF	00
+Versant des Phylicas	-37.82187	77.58214	TF	00
+Presqu'ile des Phoquiers	-49.5128	69.66832	TF	00
+Chaussee du Phoque	-38.70127	77.50313	TF	00
+Anse du Phoque	-48.88333	69.11667	TF	00
+Vallee Phonolite	-49.60208	70.11359	TF	00
+Roche Phonolite	-49.43333	70.38333	TF	00
+Port Phonolite	-49.63333	70.16667	TF	00
+Lac Philippi	-49.4	69.83333	TF	00
+Pic Philippe d'Orleans	-49.34827	68.68018	TF	00
+Cap Pherivong	-49.14321	70.18595	TF	00
+Falaise des Petrels Noirs	-49.71911	70.1035	TF	00
+Anse des Petrels	-49.18333	69.9	TF	00
+Etang du Petit Saint-Hubert	-49.35	70.26667	TF	00
+Petit Ross	-49.58363	69.48886	TF	00
+Roche Perry	-49.5769	70.37026	TF	00
+Anse Perot	-49.08333	69.61667	TF	00
+Dome du Pere Gaspard	-49.55335	69.54027	TF	00
+Mont Perdu	-49.49729	69.3988	TF	00
+Lac Perdu	-49.08333	68.83333	TF	00
+Val Perche	-49.4756	69.36625	TF	00
+Riviere des Pepins	-49.16667	70.2	TF	00
+Ile Penn	-49.48737	69.97381	TF	00
+Pointe de Penmarc'h	-49.64579	69.45075	TF	00
+Baie de Penfeld	-49.15501	68.87708	TF	00
+Ile Pender	-49.40342	70.00962	TF	00
+Mont Pegoud	-49.02452	68.85811	TF	00
+Mont Peeper	-49.21667	70.41667	TF	00
+Plage du Peau-Bleue	-49.35	68.83333	TF	00
+Anse Peau-Bleue	-49.38333	68.81667	TF	00
+Falaise de la Pearl	-37.81936	77.5242	TF	00
+Glacier Paul Lemoine	-49.06667	69.15	TF	00
+Patrick	-49.35	70.23333	TF	00
+Cap du Patanela	-48.70377	68.92913	TF	00
+Glacier Pasteur	-49.29629	68.93193	TF	00
+Roches Pasquiou	-49.23333	69.83333	TF	00
+Presqu'ile des Pas Perdus	-49.02505	69.58578	TF	00
+Glacier Pascal	-49.61667	68.8	TF	00
+Lac Parsifal	-49.43333	69.61667	TF	00
+Mont Paris	-49.18648	69.12149	TF	00
+Cap de Paris	-49.36667	68.76667	TF	00
+Anse des Papous	-49.35	70.16667	TF	00
+Port Palliser	-49.00359	69.58045	TF	00
+Mont Palliser	-48.97266	69.54153	TF	00
+Pointe Pages	-49.17461	68.7871	TF	00
+Anse du Pacha	-49.35	70.2	TF	00
+Anse de l'Ours	-49.73333	68.83333	TF	00
+Val de l'Ouest	-49.29445	69.89193	TF	00
+Riviere de l'Ouest	-49.26667	69.85	TF	00
+Pointe Ouest	-38.73262	77.51153	TF	00
+Le Pas de l'Ouest	-49.28333	69.93333	TF	00
+Ile de l'Ouest	-49.34818	68.7106	TF	00
+Chaussee des Otaries	-37.79994	77.53607	TF	00
+Riviere de l'Otarie	-49.35	70.16667	TF	00
+Val d'Ossau	-49.63333	69.88333	TF	00
+Baie d'Orvilliers	-49.04181	69.47678	TF	00
+Pointe de l'Orographie	-49.55	70.01667	TF	00
+Pointe de l'Ornithologue	-49.38333	70.43333	TF	00
+Val des Orgues	-49.51752	69.40484	TF	00
+Cratere de l'Olympe	-37.83261	77.56135	TF	00
+Vallee Olsen	-49.5284	69.59513	TF	00
+La Table de l'Oiseau	-48.6676	69.03125	TF	00
+Baie de l'Oiseau	-48.68657	69.05475	TF	00
+Pointe de l'Oeuf	-49.11667	69.68333	TF	00
+Vallee de l'Octant	-49.46113	68.92106	TF	00
+Pointe de l'Oceanographie	-49.62346	69.23533	TF	00
+Fosse de l'Oceanographie	-49.46012	70.16777	TF	00
+Baie de l'Observatoire	-49.41449	69.90617	TF	00
+Pointe Oakeley	-48.86667	69.5	TF	00
+Crique Nunn	-49.63333	69.43333	TF	00
+Eperon des Nuees	-37.85068	77.56567	TF	00
+Iles Nuageuses	-48.63178	68.71613	TF	00
+Anse Nozal	-48.93333	69.21667	TF	00
+Pointe de la Novara	-37.85203	77.59964	TF	00
+Crete de la Novara	-38.71341	77.52224	TF	00
+Anse du Notothenia	-49.35	69.86667	TF	00
+Riviere Norvegienne	-49.34481	70.34392	TF	00
+Baie Norvegienne	-49.38333	70.36667	TF	00
+Chenal Norton	-49.20196	69.50683	TF	00
+Baie du Noroit	-49.28684	68.74989	TF	00
+Iles Normandes	-49.21875	69.5402	TF	00
+Riviere du Nord	-49.17726	70.13595	TF	00
+Ilot Nord	-38.70106	77.52093	TF	00
+Falaises Noires	-49.05722	68.74827	TF	00
+Plage Noire	-49.3	68.85	TF	00
+Ile Noire	-49.43968	70.10004	TF	00
+Plateau Noir	-49.56343	70.03142	TF	00
+Lac Noir	-49.48333	69.73333	TF	00
+Glacier Noir	-49.6	69.46667	TF	00
+Ravin des Noctambules	-37.84055	77.5802	TF	00
+Ile Ninas	-49.69162	68.748	TF	00
+Lac Nicole	-48.73333	68.93333	TF	00
+Plateau des Neves	-49.53955	69.49939	TF	00
+Mont des Neves	-48.85235	68.96183	TF	00
+Cap Neumayer	-48.95	69.58333	TF	00
+Vallee des Neiges	-49.5824	69.88125	TF	00
+Roches Nefastes	-49.11667	70	TF	00
+Port Navalo	-49.51885	70.22873	TF	00
+Val Naumann	-49.26667	69.31667	TF	00
+Glacier Naumann	-49.26943	69.24922	TF	00
+Lac Nathalie	-49.51667	69.15	TF	00
+Pointe Nares	-49.55	69.8	TF	00
+Ile Murray	-49.52434	70.26361	TF	00
+Mont Muraille	-48.77663	69.12992	TF	00
+Pointe Mowbray	-49.17868	69.93089	TF	00
+Parc aux Moutons	-49.36667	70.23333	TF	00
+Mont des Moutons	-48.84154	69.40535	TF	00
+Val des Moustaches	-49.31667	69.36667	TF	00
+Anse du Mousse	-49.1004	68.7637	TF	00
+Ile aux Moules	-49.4129	69.93948	TF	00
+Chaussee des Moules	-49.4	69.66667	TF	00
+Table des Mouflons	-49.374	69.92174	TF	00
+Riviere des Mouettes	-49.6	70.05	TF	00
+Plateau des Mouettes	-49.12168	69.52399	TF	00
+Vallee de la Mouche	-49.56667	69.03333	TF	00
+Baie de la Mouche	-49.57679	69.071	TF	00
+Mont Moseley	-49.19861	70.06987	TF	00
+Cirque Moseley	-49.18116	70.08152	TF	00
+Pointe du Morne	-49.38045	70.44232	TF	00
+Riviere des Moraines	-49.33325	70.24901	TF	00
+Plaine des Moraines	-49.41982	68.90828	TF	00
+Anse du Monument	-49.33333	68.75	TF	00
+Plateau de Montfleury	-49.07867	69.42097	TF	00
+Pointe du Monolithe	-48.93333	69.15	TF	00
+Monique	-49.51667	70.25	TF	00
+Glacier Monge	-49.55	68.86667	TF	00
+Pointe Molloy	-49.36707	70.08028	TF	00
+Molloy	-49.36006	70.06458	TF	00
+Ilot Moilimou Bedja	-49.43333	69.8	TF	00
+Ilot Moallic	-49.06667	69.65	TF	00
+Roche du Mischief	-49.23435	69.65315	TF	00
+Lac Mireille	-48.88333	69.01667	TF	00
+Ilot Minoucha	-49.16667	69.66667	TF	00
+Rocher du Milieu	-38.70633	77.53124	TF	00
+Port du Milieu	-49.01667	69.58333	TF	00
+Mont du Milieu	-49.30918	69.8949	TF	00
+Riviere Milady	-49.56667	69.06667	TF	00
+Ilot Mierry	-49.3	69.71667	TF	00
+Lac Michele	-48.99454	68.95695	TF	00
+Glacier Michel	-49.08333	69.13333	TF	00
+Ravin du Mica	-49.26667	70.05	TF	00
+Etang de la Meteo	-49.35	70.25	TF	00
+Vallee des Merveilles	-49.30358	69.31475	TF	00
+Mont Mermoz	-49.14456	68.98672	TF	00
+Glacier Mermoz	-49.15	69	TF	00
+Table du Meridien	-49	69	TF	00
+Lac Mercure	-49.38333	69.85	TF	00
+Nunatak Mercanton	-49.30277	69.1669	TF	00
+Roche Mengam	-49.77947	68.75616	TF	00
+Baie du Melissas	-49.45069	68.88831	TF	00
+Mont Melchior	-48.97035	69.06769	TF	00
+Plateau Mejean	-49.15439	70.10714	TF	00
+Lac des Megalestris	-49.55	69.28333	TF	00
+Lac Medoc	-49.41667	70.35	TF	00
+Col des Mecaniciens	-48.83333	68.9	TF	00
+Ile Mayes	-49.47159	69.92859	TF	00
+Ilots Max Christensen	-49.4207	68.85686	TF	00
+Monts Mawson	-49.6614	69.87947	TF	00
+Pointe Maunoir	-48.93333	69.05	TF	00
+Pointe Matley	-49.38333	70.38333	TF	00
+Pointe Matifou	-49.5	69.83333	TF	00
+Port Matha	-48.94003	69.04863	TF	00
+Ile Massar	-49.23333	69.48333	TF	00
+Lac Marville	-49.17534	70.45573	TF	00
+Mont de Martonne	-49.05	69.11667	TF	00
+Martin-de-Vivies	-37.79638	77.57293	TF	00
+Ile Marron	-49.03497	69.62867	TF	00
+Baie de la Marne	-49.16007	69.34117	TF	00
+Marmite Port	-49.2	69.66667	TF	00
+Pointe Marmite	-49.21667	69.65	TF	00
+Fondrieres de la Marmite	-48.95	69.56667	TF	00
+Lac Marjolaine	-48.91667	68.91667	TF	00
+Lac Marioz	-49.42238	69.29783	TF	00
+Glacier Mariotte	-49.26301	68.91953	TF	00
+Mont Marion-Dufresne	-49.4457	69.36569	TF	00
+Cap Marigny	-49.07368	68.73525	TF	00
+Port Marie	-49.01667	69.33333	TF	00
+Detroit de la Marianne	-49.37287	68.79694	TF	00
+Lac Margot	-49.22736	70.03444	TF	00
+Pointe Marcq	-49.11867	69.36955	TF	00
+Couloir Mangin	-48.94803	68.92163	TF	00
+Riviere des Manchots	-49.22842	70.53995	TF	00
+Glacier des Manchots	-49.7	68.85	TF	00
+Baie des Manchots	-38.71032	77.53285	TF	00
+Ilot Malou	-49.5	70.18333	TF	00
+Lac de la Malchance	-49.03949	68.86441	TF	00
+Etang du Magnetisme	-49.35	70.21667	TF	00
+Ilot Madec	-49.11667	69.68333	TF	00
+Anse des Macrocystis	-49.45	69.86667	TF	00
+Ile MacMurdo	-48.89824	69.41539	TF	00
+Cap Mac Lear	-49.62521	70.28763	TF	00
+Mont Mac Lean	-49.61228	69.96405	TF	00
+Mont MacCormick	-48.96667	69.16667	TF	00
+Riviere des Macaronis	-49.59757	70.30407	TF	00
+Mont Lyall	-49.23285	69.93735	TF	00
+Presqu'ile du Lutrin	-49.06094	69.64428	TF	00
+Mont des Lunettes Noires	-49.4238	69.03267	TF	00
+Neve de la Lune	-49.16667	69.05	TF	00
+Pointe Lucky	-48.81636	69.1449	TF	00
+Cascade de la Lozere	-49.08333	69.61667	TF	00
+Lac du Louzou	-49.4	70.31667	TF	00
+Plage des Loups Marins	-37.85	77.51667	TF	00
+Anse Louison	-49.33333	68.66667	TF	00
+Glacier Louis Gentil	-49.58333	69.58333	TF	00
+Port Louise	-49.16591	69.43631	TF	00
+Lacs Louise	-49.14641	69.02781	TF	00
+Cap Louis	-49.34894	68.64716	TF	00
+L'Oppidum	-49.35714	69.71086	TF	00
+Val de Longue Attente	-49.63333	69.05	TF	00
+Ile Longue	-49.53901	69.92161	TF	00
+Baie de Londres	-48.99088	69.1769	TF	00
+Ilot Lolette	-49.51667	70.2	TF	00
+Cap Listenois	-49.11667	70.05	TF	00
+Plage des Lions Marins	-49.41991	68.88851	TF	00
+Etang du Limnigraphe	-49.35	70.28333	TF	00
+Liliane	-49.35	70.25	TF	00
+Cap Ligniville	-48.71769	69.07106	TF	00
+Mont du Lignite	-48.84197	69.06211	TF	00
+Mont Lieutard	-49.67637	69.05129	TF	00
+Baie des Licornes	-49.72369	70.03388	TF	00
+Mont des Lichens	-49.61503	69.80606	TF	00
+Iles Leygues	-48.69693	69.48735	TF	00
+Le Vieux Port	-49.45	69.9	TF	00
+Le Verrou	-49.50642	68.92371	TF	00
+Port Le Verrier	-49.11667	69.56667	TF	00
+Baie Le Verrier	-49.11488	69.60658	TF	00
+Val du Levant	-49.67221	70.07722	TF	00
+Ilot du Levant	-49.15	70.51667	TF	00
+Mont Levallois	-49.06387	68.98996	TF	00
+Le Trou du Ressac	-49.48333	68.83333	TF	00
+Le Triedre	-49.55359	70.07433	TF	00
+Le Tremplin	-49.21667	69.96667	TF	00
+L'Etrave	-49.25	69.13333	TF	00
+Le Toit	-49.57461	70.19667	TF	00
+Le Styx	-49.48333	68.85	TF	00
+Les Trois Vallees	-49.64573	69.91864	TF	00
+Les Trois Swains	-49.71902	69.85709	TF	00
+Les Trois Menestrels	-49.43802	69.1294	TF	00
+Les Trois Lacs	-49.31667	69.95	TF	00
+Les Trois Freres	-49.69055	70.02097	TF	00
+Les Trois Demoiselles	-37.83333	77.51667	TF	00
+Les Terres Froides	-49.2974	70.31207	TF	00
+L'Estacade	-49.26667	70.55	TF	00
+Les Sentinelles	-49.47257	69.16822	TF	00
+Les Ruches	-48.87841	68.94756	TF	00
+Les Rois Mages	-48.96596	69.07305	TF	00
+Les Rognons	-49.2	69.05	TF	00
+Les Restanques	-49.56183	69.05253	TF	00
+Les Ravines	-49.12568	70.42084	TF	00
+Les Quatre Mares	-49.3	70.2	TF	00
+Les Quatre Collines	-38.73321	77.51439	TF	00
+Les Oreilles du Chat	-49.55	70.3	TF	00
+Le Solitaire	-37.80597	77.5277	TF	00
+Le Soc	-49.4	69.13333	TF	00
+Les Marches	-49.15	68.95	TF	00
+Les Mamelles	-49.24296	70.04446	TF	00
+Les Hublots	-49.25	69.11667	TF	00
+Les Hautes Mares	-49.12008	70.32548	TF	00
+Les Grandes Ravines	-37.86731	77.54113	TF	00
+Les Events	-37.82533	77.54699	TF	00
+Les Escarpes	-49.03333	69.45	TF	00
+Les Dombes	-49.29414	70.45097	TF	00
+Les Deux Freres	-38.73394	77.54766	TF	00
+Les Deux Freres	-49.62743	69.00004	TF	00
+Les Deux Cones	-49.23027	68.7941	TF	00
+Les Dents Blanches	-49.58333	68.86667	TF	00
+Les Creneaux	-49.23357	70.14369	TF	00
+Les Chausse-Trapes	-49.01667	69.53333	TF	00
+Les Bosquets	-37.83333	77.55	TF	00
+Les Bessons	-49.63333	69.86667	TF	00
+Les Arenes	-49.65	70.16667	TF	00
+L'Ermite	-49.71667	69.88333	TF	00
+Le Rhigi	-48.96618	69.01184	TF	00
+Le Pouce	-49.53755	70.14259	TF	00
+Le Portillon	-49.68333	68.93333	TF	00
+Le Point Sublime	-49.60812	69.61927	TF	00
+Le Podium	-49.40652	68.94844	TF	00
+Le Plateau	-49.35	70.25	TF	00
+Le Pignon	-37.85766	77.53697	TF	00
+Le Phare	-49.68739	69.90747	TF	00
+Le Petit Channer	-49.4	70.26667	TF	00
+Le Petit Ballon	-49.24056	69.40084	TF	00
+L'Eperon	-49.25367	69.184	TF	00
+Le Peigne	-49.58333	69.36667	TF	00
+Le Pas du Voleur	-49.3	68.88333	TF	00
+Le Pain de Sucre	-49.56218	70.24046	TF	00
+Anse des Leopards	-49.36667	70.01667	TF	00
+Port Leontine	-48.98333	69.01667	TF	00
+Mont Leon Lutaud	-49.64366	69.07097	TF	00
+Ile Leon Lefevre	-49.55058	69.72495	TF	00
+Le Nombril	-49.26667	69.23333	TF	00
+Le Museau de Tanche	-37.84036	77.55772	TF	00
+Le Monument	-49.33333	68.75	TF	00
+Le Mirador	-49.42451	69.68719	TF	00
+Le Marais	-49.35	70.21667	TF	00
+Le Luberon	-49.06667	68.96667	TF	00
+Le Kiosque	-49.51999	69.8566	TF	00
+Le Gueridon	-49.36667	69.5	TF	00
+Le Gros Rognon	-49.59117	68.91076	TF	00
+Le Grand Teton	-49.23453	69.15908	TF	00
+Le Grand Sault	-49.65	70.11667	TF	00
+Le Grand Rempart	-49.38688	69.42882	TF	00
+Le Grand Plateau	-49.04056	68.90359	TF	00
+Le Grand Pierrier	-49.68333	69.85	TF	00
+Le Grand Gendarme	-49.61362	69.53996	TF	00
+Le Grand Etang	-49.24225	70.42681	TF	00
+Le Grand Couloir	-48.86252	68.87091	TF	00
+Le Grand Carre	-49.55182	69.14978	TF	00
+Le Grand Ballon	-49.25049	69.39401	TF	00
+Le Grand Balcon	-37.85422	77.52718	TF	00
+Le Grand Balcon	-49.16452	68.90361	TF	00
+Le Godet	-49.53333	68.86667	TF	00
+Le Galiton	-49.46667	69.9	TF	00
+Le Fourneau	-37.85607	77.58254	TF	00
+Le Dos de Chevre	-38.70867	77.52382	TF	00
+Le Donjon	-49.0121	68.87459	TF	00
+Le Dome Rouge	-49.56667	69.78333	TF	00
+Le Dome	-49.30781	69.09687	TF	00
+Le Doigt de Sainte-Anne	-49.59676	69.38959	TF	00
+Le Diamant	-49.71689	69.06494	TF	00
+Le Cyclope	-37.8132	77.57267	TF	00
+Le Colosse	-48.89756	68.90626	TF	00
+Le Colisee	-49.63333	70.2	TF	00
+Pointe Le Clerc	-49.53333	70.21667	TF	00
+Le Chaudron	-37.84379	77.59442	TF	00
+Le Chateau d'If	-49.35945	70.34862	TF	00
+Le Castel	-49.51667	70.16667	TF	00
+Le Casque	-49.44907	69.05537	TF	00
+Le Brulot	-37.83116	77.55624	TF	00
+Le Bicorne	-49.58666	68.88089	TF	00
+Le Belvedere	-49.65235	70.08773	TF	00
+Le Bastion	-49.57424	70.10607	TF	00
+Glacier Lavoisier	-49.42044	68.97487	TF	00
+Crete des Laves	-49.63018	69.83418	TF	00
+La Verrue	-49.56667	69.15	TF	00
+La Valfroide	-49.26667	69.4	TF	00
+La Valdotaine	-49.38333	69.61667	TF	00
+Pointe Laure	-49.23045	69.5192	TF	00
+La Tournelle	-49.51667	69.66667	TF	00
+La Tour de Pise	-49.59135	70.17202	TF	00
+La Tour	-49.13333	68.8	TF	00
+Rochers Latham	-48.9417	68.83356	TF	00
+La Tete du Mage	-49.498	69.06352	TF	00
+La Tete d'Homme	-49.61414	70.11776	TF	00
+La Terrine	-49.47672	69.42885	TF	00
+La Terrasse des Pingouins	-38.72657	77.51114	TF	00
+La Taupiniere	-49.35	69.85	TF	00
+La Table	-49.56289	69.2684	TF	00
+Plateau du Larzac	-49.1785	69.95793	TF	00
+L'Arve	-49.18656	69.25355	TF	00
+Fjord Larose	-49.48487	69.30536	TF	00
+Baie Larose	-49.58333	69.33333	TF	00
+Vallee de Larmor	-49.64382	69.02195	TF	00
+Anse de Larmor	-49.66667	69.08333	TF	00
+La Quille	-49.67894	69.7848	TF	00
+La Quille	-38.71013	77.53605	TF	00
+La Queue du Chat	-49.55	70.28333	TF	00
+La Pyramide Mexicaine	-49.00952	69.25325	TF	00
+La Puce	-49.27814	69.14162	TF	00
+La Proue	-49.33333	69.2	TF	00
+Nunatak de Lapparent	-49.35945	69.18595	TF	00
+La Porte du Vent	-49.11667	68.88333	TF	00
+Presqu'ile des Lapins Pie	-48.98515	69.60607	TF	00
+Port aux Lapins	-49.58333	69.28333	TF	00
+Glacier La Perouse	-49.55	68.9	TF	00
+Bras du Laperouse	-49.46667	69.78333	TF	00
+La Pagode	-49.56538	70.13869	TF	00
+Mont de Lans	-49.36068	69.26945	TF	00
+Ilot Langue	-49.03333	69.16667	TF	00
+Glacier de la Langue	-49.61667	68.91667	TF	00
+Pointe de Langle	-48.96667	69.63333	TF	00
+Lac Lancelot	-49.47035	69.673	TF	00
+La Muraille de Chine	-49.58333	70.3	TF	00
+La Mortadelle	-49.398	69.13993	TF	00
+La Montjoie	-48.98333	68.83333	TF	00
+Glacier Lame	-49.46485	69.01918	TF	00
+Glacier Lamarck	-49.36667	68.93333	TF	00
+L'Alster	-49.4	69.65	TF	00
+La Lapine	-49.56667	69.61667	TF	00
+Baie Laissez Porter	-49.02914	69.0286	TF	00
+L'Ailefroide	-49.31667	69.95	TF	00
+L'Aiguille Noire	-49.61201	68.90961	TF	00
+L'Aiguille	-49.56667	70.15	TF	00
+La Grisanche	-49.38333	69.61667	TF	00
+La Grande Marmite	-37.83883	77.5535	TF	00
+La Grande Marche	-37.84502	77.55375	TF	00
+La Grande Coulee	-49.67426	68.76806	TF	00
+La Grande Casse	-49.59428	68.79561	TF	00
+La Grande Cascade	-49.28333	70.13333	TF	00
+La Grande Bastide	-49.28072	69.77477	TF	00
+La Dent du Chat	-49.55	70.21667	TF	00
+Presqu'ile des Lacs	-49.34604	68.87852	TF	00
+Plateau des Lacs	-49.52345	69.76529	TF	00
+Nunatak Lacroix	-49.34454	68.98018	TF	00
+Mont Lacroix	-48.85386	68.82345	TF	00
+La Coupole	-49.6	70.23333	TF	00
+La Coupee	-49.11667	69.41667	TF	00
+La Citadelle	-49.18258	70.23151	TF	00
+La Cathedrale	-49.56667	70.25	TF	00
+La Camargue	-49.19141	70.48205	TF	00
+La Cale	-37.79425	77.57385	TF	00
+La Caldeira	-37.84798	77.55279	TF	00
+La Calanque	-49.51667	70.13333	TF	00
+Isthme du Lac	-49.32132	69.80355	TF	00
+Ilot Laboureur	-49.25	69.45	TF	00
+Presqu'ile La Bourdonnais	-49.5515	69.19282	TF	00
+Ilot Labernede	-49.08333	69.65	TF	00
+La Bastille	-49.04472	69.53906	TF	00
+K1	-49.46667	69.5	TF	00
+Pointe Krille	-49.01667	69.61667	TF	00
+Lac des Korrigans	-49.36667	69.8	TF	00
+Lac Koeslin	-49.4	69.61667	TF	00
+Port Kirk	-49.28462	69.8036	TF	00
+Cap Kidder	-49.36667	70.06667	TF	00
+Port du Ketch	-49.48333	69.9	TF	00
+Cap Kersaint	-49.26122	69.72894	TF	00
+Ilots Kernabat	-49.64588	68.73213	TF	00
+Iles Kerguelen	-49.25	69.16667	TF	00
+Ile Kerguelen	-49.25	69.5	TF	00
+Archipel des Kerguelen	-49.25	69.16667	TF	03
+Ile Kent Sud	-49.03333	70.13333	TF	00
+Ile Kent Nord	-49.01667	70.13333	TF	00
+Ilots Kent	-49.02965	70.13107	TF	00
+Baie Keller	-49.18862	69.43961	TF	00
+Roches Kay	-48.95	69.58333	TF	00
+Bras Karl Luyken	-49.3649	69.8629	TF	00
+Glacier Jussieu	-49.43333	69.08333	TF	00
+Roches Jumelles	-49.31667	70.35	TF	00
+Mont Jullemier	-49.08169	69.08649	TF	00
+Bras Jules Laboureur	-49.46503	69.89545	TF	00
+Port Jules Girard	-49.08213	69.45723	TF	00
+Ile Jules	-49.01667	69.03333	TF	00
+Pointe Jubie	-48.88382	69.24029	TF	00
+Lac de Jougne	-49.51667	69.35	TF	00
+Ilots Joubin	-49.60844	69.28657	TF	00
+Rochers Jouault	-49.65	69.11667	TF	00
+Lac Josette	-49.31667	69.3	TF	00
+Riviere des Jones	-49.36667	69.98333	TF	00
+Glacis des Jones	-37.86648	77.57142	TF	00
+Anse Joly	-49.10882	69.16351	TF	00
+Pic Joliot-Curie	-49.46352	68.99108	TF	00
+Presqu'ile Joffre	-49.05	69.53333	TF	00
+Cap Jeannel	-49.06902	70.45226	TF	00
+Presqu'ile Jeanne d'Arc	-49.64795	69.99956	TF	00
+Chenal du Jean-Baptiste Charcot	-48.78528	68.76939	TF	00
+Jean	-49.35	70.25	TF	00
+Plage Jaune	-49.71667	69.01667	TF	00
+Lac Jaune	-49.46015	69.14136	TF	00
+Mont des Jaspes	-49.06955	68.78515	TF	00
+Lac des Jaspes	-49.3	69.96667	TF	00
+Anse du Jardin	-48.83333	69.01667	TF	00
+Mont Jalu	-49.26803	69.91964	TF	00
+Lac de Jade	-49.03333	68.88333	TF	00
+Anse Jacques Bourcart	-49.48333	69.78333	TF	00
+Jacotte	-49.35	70.2	TF	00
+Lac Isou	-49.00271	68.84039	TF	00
+Mont de l'Iseran	-49.38746	69.29304	TF	00
+Presqu'ile Isabelle	-48.93333	69.1	TF	00
+Baie Irlandaise	-49.27085	69.46049	TF	00
+Pont Iono	-49.35	70.23333	TF	00
+Etang Iono	-49.35	70.23333	TF	00
+Baie Invisible	-49.2	68.78333	TF	00
+Table de l'Institut	-49.50624	68.96538	TF	00
+Ile Inskip	-49.50492	69.98745	TF	00
+Glacier de l'Infernet	-49.63333	68.83333	TF	00
+Cratere Inferieur	-37.81369	77.56071	TF	00
+Baie Inconnue	-49.03666	68.79907	TF	00
+Mouillage des Iles Borda	-49.21667	69.45	TF	00
+Port des Iles	-49.48333	70.06667	TF	00
+Glacier Idrac	-49.26667	68.91667	TF	00
+Anse de l'Iceberg	-48.71423	68.92566	TF	00
+Ilot Hynes	-49.48333	70.15	TF	00
+Pointe Hutchison	-38.73358	77.54999	TF	00
+Baie Hurley	-49.46667	69.75	TF	00
+Les Hauts de Hurlevent	-49.66667	70.16667	TF	00
+Chenal du Hunter	-49.22987	69.55342	TF	00
+Mont d'Humieres	-49.05	69.4	TF	00
+Mont Hulot	-49.05	69.6	TF	00
+Ile Hull	-49.39286	69.98905	TF	00
+Ilots Howlett	-48.82615	69.40728	TF	00
+Ile Howe	-48.85949	69.43856	TF	00
+Ile Hould	-49.46547	69.77353	TF	00
+Anse de Houat	-49.05	69.16667	TF	00
+Ile Hoskyn	-49.39384	70.02637	TF	00
+Pointe Hosken	-37.79472	77.57528	TF	00
+Baie du Hopeful	-49.08436	69.63052	TF	00
+Mont Hooker	-49.20714	69.97637	TF	00
+Presqu'ile Hoche	-49.15634	69.40812	TF	00
+Port d'Hiver	-49.23631	69.49207	TF	00
+Coulee Heurtin	-37.81571	77.57755	TF	00
+Ile Heugh	-49.43338	69.94623	TF	00
+Lac Herve	-48.87796	68.8356	TF	00
+Plateau d'Hermance	-49.41343	69.55324	TF	00
+Lac d'Hermance	-49.44106	69.55389	TF	00
+Lac Hera	-49.15	69.1	TF	00
+Ile Henry	-49.1	69.7	TF	00
+Mont Henri Rallier du Baty	-49.60886	68.86501	TF	00
+Fjord Henri Bossiere	-49.40844	69.67983	TF	00
+Mont de l'Hemicycle	-49.14925	69.39491	TF	00
+Ilots Heloise	-49.51667	69.95	TF	00
+Port Helene	-49.06667	69.3	TF	00
+Cratere Hebert	-37.87147	77.55102	TF	00
+Mont Havergal	-48.69348	69.02026	TF	00
+Haut Roc	-49.68249	69.87193	TF	00
+La Vallee Haute	-49.49596	68.93569	TF	00
+Ile Haute	-49.37605	69.91532	TF	00
+Mont Haug	-49.6	69.9	TF	00
+Roche Harston	-49.466	70.45057	TF	00
+Pointe du Harem	-49.38333	70.25	TF	00
+Lac Hanna	-49.31667	69.51667	TF	00
+Halage des Swains	-49.55	69.78333	TF	00
+Halage des Naufrages	-49.63311	70.1363	TF	00
+Anse du Halage	-49.55	69.8	TF	00
+Cairn Guynemer-Ouest	-49.13333	68.95	TF	00
+Pic Guynemer	-49.13169	68.98302	TF	00
+Glacier Guynemer	-49.13333	69	TF	00
+Pointe Guite	-49.42993	70.2708	TF	00
+Lac de Guilvinec	-49.38333	69.7	TF	00
+Ile Guillou	-49.47965	69.8113	TF	00
+Mont Guillaume Grandidier	-49.06266	69.1567	TF	00
+Guillaume	-49.35	70.15	TF	00
+Ilot Guibon	-49.25	69.46667	TF	00
+Ilot Guerite	-48.73333	69.13333	TF	00
+Caverne du Gruyere	-49.46667	69.3	TF	00
+Pylone Groupe de Recherches Ionospheriques	-49.35	70.23333	TF	00
+Etang du Groupe de Recherches Ionospheriques	-49.35	70.25	TF	00
+Cap des Grottes	-49.66627	69.62133	TF	00
+Anse des Grottes	-49.53333	69.8	TF	00
+Anse du Gros Ventre III	-49.38333	69.86667	TF	00
+Anse du Gros Ventre	-49.72095	68.93165	TF	00
+Anse Grimaldi	-49.6	69.13333	TF	00
+Mont du Gresil	-49.14588	69.0613	TF	00
+Baie Greenland	-49.62582	70.20258	TF	00
+Ilot Greak	-49.48333	70.01667	TF	00
+Eperon du Gravimetre	-49.37488	68.95022	TF	00
+Ilot Gras	-49.13333	69.43333	TF	00
+Grand Ross	-49.6	69.5	TF	00
+Riviere de la Grande Muraille	-49.28333	70.15	TF	00
+Baie de la Grande Gueule	-48.87071	69.2215	TF	00
+Lac de la Grande Chaudiere	-49.35	68.7	TF	00
+Trou du Grand Calme	-49.7	69.96667	TF	00
+Grand Bois	-37.81667	77.58333	TF	00
+Gracieuse	-49.36667	70.26667	TF	00
+Etang Gracie	-49.36667	70.28333	TF	00
+Monts des Graces	-49.21696	69.25085	TF	00
+Riviere des Gorges	-49.58333	70.25	TF	00
+Cote des Gorfous Dores	-49.06667	70.28333	TF	00
+Plage des Gorfous	-37.80072	77.58054	TF	00
+Pointe Goodenough	-37.79221	77.55713	TF	00
+Torrent des Godons	-49.26667	69.35	TF	00
+Ilots Godec	-49.1	69.56667	TF	00
+Ilots de Glenan	-49.56667	69.95	TF	00
+Roches Glass	-48.77345	69.64153	TF	00
+Pointe Glandaz	-49.13333	69.43333	TF	00
+Anse des Glacons	-49.30444	68.90245	TF	00
+Riviere des Glaciers	-49.36443	70.00586	TF	00
+Col Glace	-49.55	68.93333	TF	00
+Mont du Givre	-49.17806	69.0441	TF	00
+Ilots Gibson	-49.44286	69.97805	TF	00
+Gertrude	-49.51667	70.21667	TF	00
+Mont Gergovie	-49.3	69.75	TF	00
+Cap George	-49.69729	70.22053	TF	00
+Cap de la Geologie	-49.56667	70.31667	TF	00
+Col du Geographe	-48.93333	68.98333	TF	00
+Pointe de la Geodesie	-49.55	69.86667	TF	00
+Plateau des Geodes	-49.01667	69.35	TF	00
+Glacier General Perrier	-49.43333	69.06667	TF	00
+Glacier du Gendarme	-49.61667	69.51667	TF	00
+Bassin de la Gazelle	-49.3	69.68333	TF	00
+Mont Gay-Lussac	-49.42832	68.96325	TF	00
+Cirque de Gavarnie	-49.08333	68.86667	TF	00
+Presqu'ile du Gauss	-49.39902	69.85533	TF	00
+Mont Gaspard	-48.95546	69.08957	TF	00
+Lac Gandillot	-49.5	69.76667	TF	00
+Mont Gampert	-49.33054	69.45616	TF	00
+Pic Gamma	-49.23333	70.15	TF	00
+Roches du Gallieni	-48.71838	69.58588	TF	00
+Presqu'ile Gallieni	-49.56667	69.53333	TF	00
+Massif Gallieni	-49.575	69.49031	TF	00
+Riviere des Galets	-49.49154	69.59368	TF	00
+Cote des Galets	-37.81896	77.52135	TF	00
+Cap du Gaillard	-49.11012	68.7699	TF	00
+Ile Gaby	-49.65695	69.77576	TF	00
+Colline Gabrielle	-49.35	70.21667	TF	00
+Pointe des Gabiers	-49.1	69.56667	TF	00
+Anse des Gabiers	-48.75245	68.93982	TF	00
+Ilot Futifu	-49.51667	70.18333	TF	00
+Mont des Fumerolles	-49.61667	68.81667	TF	00
+Port Fuller	-48.88715	69.4806	TF	00
+Pointe des Fuligineux	-49.35	69.88333	TF	00
+Rochers Frossard	-48.96667	69.66667	TF	00
+Lac Froid	-49.23333	70	TF	00
+Glacier Fresnel	-49.43333	69.01667	TF	00
+Baie de la Fresnaye	-49.51667	69.16667	TF	00
+Territory of the French Southern and Antarctic Lands	-43	67	TF	00
+Ilots Francoise	-49.48333	69.85	TF	00
+Francoise	-49.35	70.25	TF	00
+Francois	-49.35	70.23333	TF	00
+Pointe Francis Michel	-48.87566	68.79064	TF	00
+Iles Francis	-49.01103	69.65076	TF	00
+Lac Francine	-49.35	69.35	TF	00
+Ile de la Frances	-49.36704	68.75741	TF	00
+Cap Francais	-48.67292	69.05633	TF	00
+Baie du Francais	-49.10579	69.18995	TF	00
+Glaciers Fourrier	-49.36667	69.3	TF	00
+Plateau du Four	-49.48333	70.13333	TF	00
+Lac des Fougeres	-49.41667	69.68333	TF	00
+Iles de la Fortune	-49.51296	68.42379	TF	00
+Glacier Forel	-49.18333	68.98333	TF	00
+Mont Fontaine	-48.86015	69.13089	TF	00
+Plateau des Fondrieres	-49.35	70.03333	TF	00
+Bras de la Fonderie	-49.3074	69.70969	TF	00
+Ile Foch	-49.01667	69.28333	TF	00
+Glacier Flusin	-49.05	69.11667	TF	00
+Port Fleuriais	-49.11667	69.35	TF	00
+Plateau des Flaques	-49.11095	69.09445	TF	00
+Mont de la Flamme	-49.28333	69.36667	TF	00
+Mont du Filon	-49.20997	69.37637	TF	00
+Anse Feuillade	-48.93333	69.11667	TF	00
+Plage du Feu de Joie	-49.63333	68.78333	TF	00
+Cap Feron	-48.78169	69.17752	TF	00
+Pierrier du Fernand	-37.83838	77.51544	TF	00
+Mont du Fernand	-37.84465	77.52258	TF	00
+Baie Fermee	-49.37017	68.86476	TF	00
+Ruisseau de la Ferme	-49.35	70.21667	TF	00
+Mont Ferguson	-49.69037	70.15744	TF	00
+Mont du Fer a Cheval	-49.02628	68.95908	TF	00
+Portes de Fer	-49.45	69.75	TF	00
+Lac de la Fente	-49.18333	68.8	TF	00
+Mont des Fees	-49.55661	70.28134	TF	00
+Faux Sommet	-37.81667	77.55	TF	00
+Mont Fauve	-49.15333	69.16502	TF	00
+Fausse Pointe	-37.84457	77.51494	TF	00
+Presqu'ile Fanny	-49.22362	69.48213	TF	00
+Roche Famin	-49.35	68.81667	TF	00
+Mont de la Faille	-49.22823	68.8277	TF	00
+Col de la Faille	-49.21565	68.84862	TF	00
+Glacier de l'Explorateur	-49.32836	69.22153	TF	00
+Anse de l'Excursion	-48.86667	68.95	TF	00
+Mont Evans	-49.68638	69.92735	TF	00
+Port de l'Eure	-49.23333	69.45	TF	00
+Cairn de l'Eure	-48.68333	69.05	TF	00
+Lac Euphrosine	-49.23267	69.39109	TF	00
+Val de l'Etrier	-49.45076	69.23195	TF	00
+Col de l'Etrier	-49.43333	69.26667	TF	00
+Caverne de l'Etrier	-49.46667	69.21667	TF	00
+Pointe de l'Etoile	-49.4	70.33333	TF	00
+Mont Etienne Peau	-49.22859	69.92194	TF	00
+Pointe de l'Etang	-49.36667	70.46667	TF	00
+Col Estrech	-49.38333	69.3	TF	00
+Cap d'Estaing	-48.66094	69.02781	TF	00
+Riviere de l'Est	-49.16979	70.43516	TF	00
+Plaine de l'Est	-49.21667	70.41667	TF	00
+Pointe de l'Esperance	-49.58333	70	TF	00
+Crique Esnault	-48.58333	68.81667	TF	00
+Glacier Esclangon	-49.68333	68.85	TF	00
+Etang Eridan	-49.35	70.26667	TF	00
+Mont Erebus	-49.62983	68.89898	TF	00
+Val d'Equerre	-49.06502	68.92779	TF	00
+Baie de l'Equerre	-48.91667	69.21667	TF	00
+Eperon du Cratere	-49.05	69.13333	TF	00
+Plage des Epaves	-49	68.88333	TF	00
+Pointe de l'Epave	-49.35	70.13333	TF	00
+Bras Enzensperger	-49.47407	69.82578	TF	00
+Lacs d'Entremont	-49.473	69.45411	TF	00
+Col d'Entremers	-49.45	69.26667	TF	00
+Val des Entrelacs	-49.19899	69.25389	TF	00
+Presqu'ile d'Entrecasteaux	-49.59897	69.1106	TF	00
+Pointe d'Entrecasteaux	-37.8566	77.5196	TF	00
+Lac d'Entr'Aigues	-49.43578	69.47905	TF	00
+Haut Val d'Entr'Aigues	-49.40479	69.34487	TF	00
+Neve de l'Entonnoir	-49.1	69.11667	TF	00
+Val d'Enfer	-49.44729	69.64268	TF	00
+Les Portes de l'Enfer	-49.46667	68.83333	TF	00
+Lac d'Enfer	-49.48333	69.7	TF	00
+Lac Emmy	-49.34392	69.59144	TF	00
+Lac Elsa	-49.32381	69.54526	TF	00
+Port Elisabeth	-49.20546	69.86654	TF	00
+Colline Elisabeth	-49.35	70.21667	TF	00
+Cap Elisabeth	-49.13333	70.18333	TF	00
+Lac Eliane	-48.68333	68.98333	TF	00
+Mare aux Elephants	-37.79454	77.5697	TF	00
+Riviere de l'Elephant	-49.61667	70.15	TF	00
+Promontoire Elephant	-48.98333	69.1	TF	00
+Port Edmond Perrier	-48.87381	68.90244	TF	00
+Anse de l'Ecume	-48.69375	68.93753	TF	00
+Anse aux Ecueils	-49.50775	69.69128	TF	00
+Lac de l'Ecubier	-49.1	68.81667	TF	00
+Baie de l'Eclipse	-49.05	69.63333	TF	00
+Anse de l'Echouage	-49.35	70.23333	TF	00
+Rochers Eboules	-37.81289	77.59033	TF	00
+Ravin des Eboulements	-49.35	69.93333	TF	00
+Pointe de l'Eboulement	-37.8212	77.59402	TF	00
+Lac Eaton	-49.39277	69.8895	TF	00
+Anse des Durvillea	-49.36667	70.06667	TF	00
+Rocher Durandal	-37.80228	77.52681	TF	00
+Anse du Duncan	-49.35	68.8	TF	00
+Glacier Dumont d'Urville	-49.24435	69.17432	TF	00
+Ilots Dumet	-49.5	69.86667	TF	00
+Crateres Dumas	-37.80224	77.57397	TF	00
+Nunatak Dulong	-49.4	69.1	TF	00
+Anse Duguay-Trouin	-49.58333	69.15	TF	00
+Glacier Dufour	-49.43333	69.05	TF	00
+Baie Ducheyron	-48.67035	68.98701	TF	00
+Plateau des Drumlins	-49.32468	70.19471	TF	00
+Etang des Dragons	-49.33333	70.26667	TF	00
+Riviere du Doute	-49.2	69.93333	TF	00
+Baie Doumergue	-49.17227	69.67394	TF	00
+Mont Doumer	-48.95553	68.94965	TF	00
+Ilot Douguet	-49.1	69.68333	TF	00
+Hauts-fonds du Doudart-de-Lagree	-48.71236	69.76682	TF	00
+Mont Double	-49.53391	68.95624	TF	00
+Lagune du Doris	-49.23333	70.55	TF	00
+Lac Doris	-48.93333	68.93333	TF	00
+Halage du Doris	-49.23333	69.45	TF	00
+Cap Donatien Cot	-49.66667	70.25	TF	00
+Mont Docteur Recamier	-49.10005	69.39028	TF	00
+Roches du Docteur Green	-49.53333	69.98333	TF	00
+Mont de la Dives	-37.84956	77.54948	TF	00
+Presqu'ile de la Discovery	-48.72899	69.02943	TF	00
+Glacier de la Diosaz	-49.41138	69.12529	TF	00
+Table de Diomede	-49.13267	70.08764	TF	00
+Ilots Dimsey	-49.38333	69.96667	TF	00
+Port Dimanche	-48.98302	69.56218	TF	00
+Cap Digby	-49.1027	70.52	TF	00
+Roche Diane	-49.6	69.6	TF	00
+Volcan du Diable	-49.48985	69.72301	TF	00
+Col du Diable	-49.1	68.85	TF	00
+Lac des Deux Ilots	-49.35723	69.55209	TF	00
+Mont des Deux Benitiers	-49.50784	68.87354	TF	00
+Anse du Dessinateur	-48.81636	68.87992	TF	00
+Baie de la Desolation	-48.78333	68.86667	TF	00
+Rochers du Desespoir	-49.0707	70.15278	TF	00
+Glacier Descartes	-49.39108	68.94527	TF	00
+Monts de la Deroute	-49.00084	68.99588	TF	00
+Denise	-49.35	70.23333	TF	00
+Pointe Denis	-49.35	70.18333	TF	00
+Port Deniau	-49.03333	69.43333	TF	00
+Plage Demi-Lune	-49.65	69.6	TF	00
+Col Demi-Lune	-49.28333	69.78333	TF	00
+Pic Delta	-49.23333	70.16667	TF	00
+Cap de la Decouverte	-49.60679	68.76685	TF	00
+Etang de la Decharge	-49.35	70.21667	TF	00
+Lac de la Deception	-49.41667	69.65	TF	00
+Iles Dayman	-48.84569	69.5426	TF	00
+Iles Davis	-48.71946	69.18613	TF	00
+Pointe des Dauphins	-49.36667	70.03333	TF	00
+Ile Dauphine	-48.72017	69.47257	TF	00
+Baie de la Dauphine	-48.71667	69.03333	TF	00
+Cap Dauphin	-49.68719	69.08516	TF	00
+Plaine de Dante	-49.54516	69.3722	TF	00
+Col de Dante	-49.5	69.33333	TF	00
+Val Daniele	-49.25368	69.30333	TF	00
+Cap Daniel	-49.14367	69.98426	TF	00
+Glacier Cuvier	-49.56667	68.93333	TF	00
+Port Curieuse	-49.36667	68.8	TF	00
+Presqu'ile Cumberland	-48.79269	69.08945	TF	00
+Pointe du Cuir Sale	-48.97212	68.79703	TF	00
+Mont Crozier	-49.29473	69.98249	TF	00
+Mont Crozet	-49.46334	69.39198	TF	00
+Ile de Croy	-48.63814	68.64256	TF	00
+Mont Crosbie	-49.65386	69.95128	TF	00
+Lac de la Croix du Sud	-49.21667	69.38333	TF	00
+Torrent des Cristaux	-49.46667	69.3	TF	00
+Pointe Cristal	-48.81255	69.01565	TF	00
+Lac de Cristal	-49.05	69.55	TF	00
+Piste des Cretes	-49.35	70.28333	TF	00
+Port Credner	-49.03333	69.33333	TF	00
+Pic du Cratere	-49.58719	69.51299	TF	00
+La Table du Cratere	-49.58895	69.59232	TF	00
+Lac du Cratere	-49.03333	69.13333	TF	00
+Glacier du Cratere	-49.66667	68.86667	TF	00
+Bassin du Cratere	-38.7182	77.53055	TF	00
+Ilot du Cran de Mire	-49.16667	69.71667	TF	00
+Pointe Cox	-48.85093	69.21485	TF	00
+Ilots Cox	-48.8488	69.21893	TF	00
+Lac de Courmayeur	-49.35	69.5	TF	00
+Peninsule Courbet	-49.25	70.16667	TF	00
+Mont Courbet	-49.22773	70.19314	TF	00
+Cap Coupe	-48.72054	68.9026	TF	00
+Col du Coup de Tabac	-49.48333	69.26667	TF	00
+Cap Cotter	-49.05297	70.31928	TF	00
+Val de Coste Noire	-49.43333	69.35	TF	00
+Lac de la Cornue	-49.35	70.4	TF	00
+Pointe des Cormorans	-49.35	70.21667	TF	00
+Ilot des Cormorans	-49.55	69.08333	TF	00
+La Porte du Cook	-49.36667	69.28333	TF	00
+Calotte Glaciaire Cook	-49.30374	69.03872	TF	00
+Vallee des Contacts	-49.52221	69.07603	TF	00
+Mont du Commandant	-49.71081	68.97382	TF	00
+Ile Colomban	-49.21272	69.63878	TF	00
+Etang des Collets	-49.33333	70.21667	TF	00
+Ile aux Cochons	-49.4777	70.04641	TF	00
+Ile Clugny	-48.75271	68.71698	TF	00
+Chenal Clery	-49.14531	69.59077	TF	00
+Baie Clemenceau	-48.74472	69.0331	TF	00
+Lac Claudine	-48.63333	68.63333	TF	00
+Claude	-49.35	70.26667	TF	00
+Roches Clark	-49.43333	70.05	TF	00
+Riviere la Claree	-49.5	69.63333	TF	00
+La Roche Claire	-49.68333	70.08333	TF	00
+Glacier du Cirque	-49.2	69.03333	TF	00
+Ile du Cimetiere	-49.49382	70.0831	TF	00
+Lac Chun	-49.35	69.7	TF	00
+Lac Christiane	-49.35	69.95	TF	00
+Christiane	-49.35	70.23333	TF	00
+Ilot aux Choux	-49.28333	69.7	TF	00
+Anse aux Choux	-48.8	69.1	TF	00
+Anse Chivaud	-49.08333	69.61667	TF	00
+Port du Chionis	-49.28333	69.71667	TF	00
+Pointe des Chionis	-49.43483	70.27868	TF	00
+Baie de Chimay	-49.55854	69.1771	TF	00
+Etang du Chien Errant	-49.35	70.28333	TF	00
+Pointe du Chien	-49.20741	69.852	TF	00
+Riviere des Chicanes	-49.5383	69.08222	TF	00
+Mont Chenu	-49.06271	68.86691	TF	00
+Roche du Chenal	-49.12876	69.75873	TF	00
+Bois du Chaudron	-37.83333	77.58333	TF	00
+Ilot du Chaton	-49.46667	70.08333	TF	00
+Chateau-Gaillard	-49.50111	69.16839	TF	00
+Riviere du Chateau	-49.34634	70.31575	TF	00
+Monts du Chateau	-49.24314	70.12283	TF	00
+Ile du Chateau	-49.49473	69.92459	TF	00
+Cirque du Chateau	-49.24205	70.13997	TF	00
+Ile du Chat	-49.47141	70.0917	TF	00
+Pic Chastain	-49.60439	68.99136	TF	00
+Riviere des Chasseurs	-49.14221	70.04368	TF	00
+Mont Chasseneige	-49.19987	70.00846	TF	00
+Glacier Chasles	-49.45288	69.00935	TF	00
+Cap de Chartres	-49.09866	70.23735	TF	00
+Baie Charrier	-49.13333	70.03333	TF	00
+Pointe Charlotte	-49.29995	70.53222	TF	00
+Mont Charles Velain	-49.61636	69.05954	TF	00
+Pic Charcot	-48.58675	68.78684	TF	00
+Vallee du Charbon	-49.21667	69.96667	TF	00
+Ravin du Charbon	-49.56667	69.81667	TF	00
+Anse du Charbon	-48.8	68.96667	TF	00
+Mont Chaotique	-48.98515	68.92939	TF	00
+Baie Chanzy	-49.18613	69.37211	TF	00
+Ilot Channer	-49.3824	70.18524	TF	00
+Fosse de Channer	-49.4	70.16667	TF	00
+Lac de Chamonix	-49.22035	69.13639	TF	00
+Glacier de Chamonix	-49.23923	69.10607	TF	00
+Cap Chabrillat	-49.15	69.66667	TF	00
+Ilot Cezembre	-48.83333	69.13333	TF	00
+Pointe du Centre	-48.91667	69.1	TF	00
+Baie du Centre	-48.91667	69.08333	TF	00
+Plateau Central	-49.38892	69.57735	TF	00
+Etang des Centaures	-49.35	70.28333	TF	00
+Port Cenis	-49.01667	69.13333	TF	00
+Pointe Cayla	-49.1	69.65	TF	00
+Vallee des Cavernes	-49.41667	69.46667	TF	00
+Anse de la Caverne	-49.6	70.3	TF	00
+Glacier Cauchy	-49.25358	68.91822	TF	00
+Riviere des Cataractes	-49.15048	70.22727	TF	00
+Ile de Castries	-48.68352	69.48534	TF	00
+Castor et Pollux	-49.51778	69.04842	TF	00
+Glacier de Casse Deserte	-49.55	69.46667	TF	00
+Col de Casse Deserte	-49.55	69.45	TF	00
+Vallee du Casque	-49.44304	69.0915	TF	00
+Baie des Cascades	-49.15553	70.15244	TF	00
+Glacier de la Cascade	-49.65	68.9	TF	00
+Dome Carva	-49.57337	68.88801	TF	00
+Anse du Cartographe	-49.13333	69.21667	TF	00
+Mont Carroz	-49.31165	69.2113	TF	00
+Ilots Carrington	-49.45	70.03333	TF	00
+Presqu'ile Carnot	-49.24724	69.49634	TF	00
+Ile de la Carmen	-49.00819	69.50395	TF	00
+Pointe Carels	-48.93333	69.41667	TF	00
+Mont Carels	-48.95102	69.37575	TF	00
+Anse de la Carcasse	-49.1	69.6	TF	00
+Mont Carbenay	-49.53755	69.33891	TF	00
+Pointe du Canot	-48.68333	69.51667	TF	00
+Pointe del Cano	-37.87308	77.53694	TF	00
+Anse de la Canicule	-49.65	69.81667	TF	00
+Ilots Cancale	-48.91636	69.59649	TF	00
+Etang des Canards	-49.41667	70.28333	TF	00
+Anse aux Canards	-49.35	70.23333	TF	00
+Pont de la Canardiere	-49.35	70.21667	TF	00
+Ile du Canard	-49.24021	69.61166	TF	00
+Anse de Camaret	-49.18333	68.85	TF	00
+Mont Calliope	-49.39579	68.87614	TF	00
+Pointe des Calcedoines	-49.33333	70.5	TF	00
+Baie Caille	-48.86667	69.11667	TF	00
+Ilots Cagne	-49.13027	69.98062	TF	00
+Riviere Cachee	-49.31667	70.11667	TF	00
+Baie Cachee	-49.21667	69.43333	TF	00
+Pointe du Cabot Bleu	-37.86667	77.58333	TF	00
+Pointe des Cabanes	-49.1	70.23333	TF	00
+Riviere du Bungay	-49.34651	70.45604	TF	00
+Mont Bungay	-49.3269	70.44645	TF	00
+Glacier Buffon	-49.61769	69.58959	TF	00
+Ilot Buchanan	-49.56375	70.33413	TF	00
+Ile Bryer	-49.41716	69.9788	TF	00
+Mont des Brumes	-49.09417	68.82145	TF	00
+Mont Brouillard	-49.41875	69.34636	TF	00
+Mont Bromley	-48.96667	69.36667	TF	00
+Cap Brissac	-48.76139	68.93394	TF	00
+Pointe Brise-Lames	-49.38586	68.81426	TF	00
+Baie du Brise-Lames	-48.80528	69.13719	TF	00
+Roche Brisee	-49.41667	70.31667	TF	00
+Cap des Brisants	-48.88656	69.34913	TF	00
+Pointe du Brisant	-48.67274	69.47299	TF	00
+Ile Briggs	-49.5	69.96667	TF	00
+Ile Briand	-48.90669	69.43922	TF	00
+Pointe Breusing	-49.08333	69.35	TF	00
+Baie Bretonne	-49.43333	68.76667	TF	00
+Pointe de la Breche	-49.18422	69.90809	TF	00
+Lac de la Breche	-49.26667	68.86667	TF	00
+Pointe Bras	-48.98333	69.15	TF	00
+Iles de Boynes	-50.01405	68.86552	TF	00
+Ilot Boyle	-49.48333	70.2	TF	00
+Crete du Bout de l'An	-48.83333	69	TF	00
+Trouee de la Boussole	-48.82821	69.06417	TF	00
+Mont Bourges	-48.89437	69.05642	TF	00
+Cap Bourbon	-49.72853	68.77735	TF	00
+Presqu'le Bouquet de la Grye	-49.27694	69.67973	TF	00
+Bassin de Boulogne	-49.23333	69.45	TF	00
+Presqu'iile du Bougainville	-49.51667	69.26667	TF	00
+Borne du Bougainville	-38.71291	77.53375	TF	00
+Anse du Bougainville	-49.3	69.7	TF	00
+Roches Boudoux	-49.08333	68.7	TF	00
+Lac du Bouchet	-49.37212	69.22952	TF	00
+Plateau du Bouc	-49.27168	69.88222	TF	00
+Lac de la Botte	-49.05	69.58333	TF	00
+Pointe Bossuet	-49.06667	69.46667	TF	00
+Roches Bosler	-48.81667	69.43333	TF	00
+Rocher du Bosco	-49.4	69.96667	TF	00
+Mont des Bornes	-49.1	69.55	TF	00
+Riviere du Borgne	-49.33333	70.16667	TF	00
+Lac Borgen	-49.51667	69.1	TF	00
+Iles Borda	-49.21787	69.47	TF	00
+Glacier Borda	-49.56667	68.88333	TF	00
+Lac Bontemps	-49.28783	69.48073	TF	00
+Glacier de Bonne Pierre	-49.56667	69.45	TF	00
+Cap Bon Espoir	-49.23373	68.77495	TF	00
+Anse du Bon Coin	-49.06667	69.63333	TF	00
+Mouillage Bon Abri	-49.08635	69.623	TF	00
+Bras Bolinders	-49.61667	70.08333	TF	00
+Ravin Bol de Punch du Diable	-48.91667	69.05	TF	00
+Table de Boisguehenneuc	-49.53586	69.43669	TF	00
+Ilots Bobzien	-48.99332	69.62972	TF	00
+Col du Blizzard	-49.18054	68.95176	TF	00
+Lac Bleu	-49.61556	69.87339	TF	00
+Lac Bleu	-37.84645	77.55118	TF	00
+Pointe Bleriot	-48.95	68.85	TF	00
+Table Blanche	-49.20155	69.40191	TF	00
+Baie Blanche	-48.91162	69.12196	TF	00
+Mont Blanc	-49.46059	69.468	TF	00
+Lac Blanc	-49.21667	68.91667	TF	00
+Glacier Blanc	-49.58333	69.43333	TF	00
+Col de la Bise	-49.11104	68.88639	TF	00
+Roche Bird	-48.86407	69.71296	TF	00
+Glacier Biot	-49.43333	69	TF	00
+Pointe de la Biologie	-49.53333	69.8	TF	00
+Anse Betsy	-49.15155	70.19811	TF	00
+Ile Bethell	-49.00058	69.47097	TF	00
+Lac de la Besace	-49.16667	70.4	TF	00
+Mont Berlioz	-49.64198	69.99938	TF	00
+Ilot Berland	-48.93333	69.35	TF	00
+Pointe Berger	-49.31667	68.85	TF	00
+Baie de Benodet	-49.11667	68.8	TF	00
+Chaussee de Beniguet	-49.43333	70.08333	TF	00
+Pointe du Ben Edra	-49.64422	69.12386	TF	00
+Anse de Belzebuth	-49.7	69.85	TF	00
+Ile Bellouard	-49.21547	69.68684	TF	00
+Collines de Bellevue	-49.24252	70.31691	TF	00
+Belle-Ile	-49.24295	69.73488	TF	03
+Etang des Beliers	-49.35	70.25	TF	00
+Ile du Belier	-49.3	69.7	TF	00
+Mont du Bel Air	-49.56298	70.07748	TF	00
+Havre du Beau Temps	-49.3	69.61667	TF	00
+Table de Beaulieu	-49.52478	69.39166	TF	00
+Bras Baudissin	-49.40917	69.77224	TF	00
+Ilot Baudin	-48.9	69.45	TF	00
+Pointe Bats	-49.18333	69.65	TF	00
+Pointe Basse	-49.43333	69.91667	TF	00
+Recif Bas	-49.21667	69.76667	TF	00
+Piste du Bas	-49.35	70.26667	TF	00
+Isthme Bas	-49.40217	70.29317	TF	00
+Ilot Bas	-48.93333	69.13333	TF	00
+Anse de la Banquise	-49.4	70.33333	TF	00
+Mont Balthazar	-48.98702	69.03737	TF	00
+Roches Balfour	-49.50084	70.49344	TF	00
+Anse des Baleines Noires	-49.06875	70.4409	TF	00
+Baie de la Baleine	-49.13063	69.3603	TF	00
+Mont Bailey	-49.2	69.88333	TF	00
+Baie Bailey	-49.18333	69.91667	TF	00
+Lac de la Baignoire	-49.25	68.8	TF	00
+Pointe de la Baignade	-49.35	70.21667	TF	00
+Pointe Babin	-49	69.18333	TF	00
+Gave de l'Azorella	-49.38333	69.75	TF	00
+Colline de l'Azorella	-49.07529	70.40161	TF	00
+Monts des Aviateurs	-48.9113	68.86849	TF	00
+Plan d'Aval	-49.41667	69.4	TF	00
+Lac Aval	-49.25	69.96667	TF	00
+Ile Australia	-49.4617	69.847	TF	00
+Roche de l'Austral	-48.97176	69.70199	TF	00
+Lac Austral	-49.7	70.11667	TF	00
+Baie de l'Aurore Australe	-49.3755	70.21109	TF	00
+Mont d'Auris	-49.49197	69.35328	TF	00
+Val d'Auge	-49.33333	69.91667	TF	00
+Baie d'Audierne	-49.65	69.28333	TF	00
+Mont Aubert de la Rue	-49.56667	69.65	TF	00
+Cap Aubert	-48.66973	68.9387	TF	00
+Roche de l'Atlantis	-49.3	69.73333	TF	00
+Mont Athos	-49.54002	68.93289	TF	00
+Lac Athena	-49.16627	69.12752	TF	00
+Pointe de l'Astronomie	-49.53333	70.03333	TF	00
+Baie des Astronomes	-49.03409	69.58995	TF	00
+Lac d'Aste	-49.08071	69.52859	TF	00
+Mont d'Artagnan	-49.53613	68.89947	TF	00
+Pointe de l'Armorique	-49.45	69.93333	TF	00
+Lac d'Armor	-49.45855	69.70727	TF	00
+Plateau Armengaud	-49.3	69.83333	TF	00
+Lac d'Argoat	-49.48333	69.71667	TF	00
+Pointe de l'Arche	-48.69286	69.06884	TF	00
+Pointe Araud	-49.1	69.66667	TF	00
+Mont Aramis	-49.54978	68.97676	TF	00
+Glacier Arago	-49.6	68.95	TF	00
+Iles d'Apres	-48.65686	68.77353	TF	00
+Baie de l'A-Pic	-49.70013	70.20035	TF	00
+Lac Aphrodite	-49.18231	69.15209	TF	00
+Val d'Aoste	-49.33737	69.44787	TF	00
+Cratere Antonelli	-37.80563	77.55029	TF	00
+Lacs Antares	-49.25	69.23333	TF	00
+Ile de l'Antares	-49.50418	70.23522	TF	00
+Anse de l'Antarctic	-49.70005	70.13812	TF	00
+Cap Ann	-49.13333	70.15	TF	00
+Crete Anita	-49.35	70.26667	TF	00
+Pointe d'Anieres	-48.72505	69.1192	TF	00
+Monts de l'Angle Droit	-49.09809	68.90945	TF	00
+Rochers Anglade	-49.51667	68.8	TF	00
+Ilot Anezin	-49.23333	69.48333	TF	00
+Monts Andree Aubert de la Rue	-49.61075	69.63601	TF	00
+Val Andre	-49.61667	68.93333	TF	00
+Roche Andre	-49.67537	69.25284	TF	00
+Riviere de l'Amphi	-49.58333	69.05	TF	00
+Glacier de l'Amphi	-49.53333	68.95	TF	00
+Plaine Ampere	-49.46667	69.2	TF	00
+Glacier Ampere	-49.39718	69.18944	TF	00
+Cascade Amouretti	-49.1	69.56667	TF	00
+Amour	-49.36667	70.08333	TF	00
+Plan d'Amont	-49.41667	69.38333	TF	00
+Presqu'ile Amiral Humann	-49.1026	69.61012	TF	00
+Presqu'ile Amiral Douglas	-49.43846	69.77093	TF	00
+Mont Amery	-49.31618	70.00669	TF	00
+Riviere des Americains	-49.35	70.08333	TF	00
+Ile Altazin	-49.63187	69.74414	TF	00
+Plateau des Alouettes	-49.26423	69.28594	TF	00
+Glacier de l'Alouette	-49.06667	69.13333	TF	00
+Pointe Alnet	-49.3	69.71667	TF	00
+Roche Allen	-48.83333	69.51667	TF	00
+Cap Allaire	-49.26387	69.78719	TF	00
+Mont de l'Alidade	-49.30297	68.86902	TF	00
+Lac Alicia	-49.46667	69.88333	TF	00
+Alice	-49.35	70.26667	TF	00
+Mont Alfred Grandidier	-49.50465	69.56414	TF	00
+Anse Aldebert	-49.3	69.7	TF	00
+Epave de l'Alberta	-49.48333	70.08333	TF	00
+Riviere Alberic	-49.68333	70.25	TF	00
+Riviere des Albatros	-49.3504	70.38285	TF	00
+Glacier des Albatros	-49.7	68.85	TF	00
+Anse des Albatros	-48.68333	69.5	TF	00
+Cap d'Aiguillon	-48.84566	68.78151	TF	00
+Cap des Aiguilles	-49.72017	69.99479	TF	00
+Port Agnes	-49.16667	69.61667	TF	00
+Lac Aglae	-49.22646	69.26991	TF	00
+Glacier Agassiz	-49.18719	69.06387	TF	00
+Baie de l'African	-49.16667	68.83333	TF	00
+Mont de l'Aeronavale	-49.48902	68.8429	TF	00
+Vallee de l'Acoena	-49.61957	69.9402	TF	00
+Baie Accessible	-49.11109	70.17297	TF	00
+Vallon des Abris	-49.35	70.21667	TF	00
+Cap de l'Abri	-49.32921	68.78573	TF	00
+Pointe Abelard	-49.51667	69.9	TF	00
+Ilots Abbott	-49.10957	70.04173	TF	00
+Iles Eparses de l'ocean Indien	-17.04333	42.7448	TF	05
+La Terre-Adelie	-59.99856	138.9913	TF	04

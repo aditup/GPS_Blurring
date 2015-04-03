@@ -1,0 +1,32 @@
+Williams Reef	-54.44861	3.41833	BV	00
+Cape Valdivia	-54.3875	3.35556	BV	00
+Rustad Knoll	-54.44917	3.33194	BV	00
+Rover Anchorage	-54.45	3.35	BV	00
+Posadowsky Glacier	-54.41667	3.36667	BV	00
+Norvegia Point	-54.43222	3.29028	BV	00
+Norris Reef	-54.405	3.27778	BV	00
+Morrell Reef	-54.45	3.48333	BV	00
+Cape Meteor	-54.42278	3.43389	BV	00
+Cape Lollo	-54.41139	3.42778	BV	00
+Lindsay Reef	-54.43333	3.48333	BV	00
+Horntvedt Glacier	-54.39306	3.36111	BV	00
+Horn Reef	-54.46667	3.35	BV	00
+Cape Fie	-54.44444	3.41583	BV	00
+Cape Circoncision	-54.39667	3.29167	BV	00
+Christensen Glacier	-54.44611	3.35056	BV	00
+Cato Point	-54.45111	3.31944	BV	00
+Bouvetoya	-54.42222	3.35833	BV	00
+Benn Skerries	-54.45	3.31667	BV	00
+Randibaen	-54.45111	3.38889	BV	00
+Motte Sound	-54.45333	3.31944	BV	00
+Black Cliff	-54.43833	3.42333	BV	00
+Engelbrecht Glacier	-54.43556	3.30278	BV	00
+Esmarch Coast	-54.425	3.29306	BV	00
+Morgenstierne Coast	-54.40139	3.33056	BV	00
+Vogt Coast	-54.44444	3.375	BV	00
+Mowinckel Coast	-54.43472	3.42722	BV	00
+Nyroysa	-54.40972	3.28611	BV	00
+Randi Glacier	-54.44361	3.39333	BV	00
+Wilhelm II Plateau	-54.41528	3.32361	BV	00
+Ole Hoiland Pillar	-54.39806	3.40222	BV	00
+Skarven	-54.39722	3.28056	BV	00

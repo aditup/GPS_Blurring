@@ -1,0 +1,4290 @@
+Doga	36.56671	-96.79559	US	OK
+Dixon	35.15952	-96.52168	US	OK
+Apple	34.1276	-95.41746	US	OK
+Cavanal	34.98038	-94.69828	US	OK
+Bethel	34.59424	-98.15921	US	OK
+Dale	35.39007	-97.04503	US	OK
+Clarksville	35.82566	-95.51414	US	OK
+Christie	35.95814	-94.69023	US	OK
+Cole	35.10229	-97.57281	US	OK
+Fairview City Wells	36.36309	-98.39869	US	OK
+Yuba	33.80954	-96.20443	US	OK
+Township of Grant	35.7056	-98.95315	US	OK
+Karma	33.77399	-96.20582	US	OK
+Ward	35.23732	-94.7255	US	OK
+Natura	35.7401	-95.93555	US	OK
+South Village	35.91312	-96.64224	US	OK
+Noxie	36.97147	-95.73248	US	OK
+Phroso	36.28087	-98.81787	US	OK
+Page	34.71066	-94.54967	US	OK
+Port	35.2045	-99.30731	US	OK
+Uncas	36.79559	-96.92976	US	OK
+Sand Bluff	34.1276	-95.79942	US	OK
+Rogers	36.91702	-95.19774	US	OK
+Watts	36.10925	-94.57022	US	OK
+Williams	35.16482	-94.54855	US	OK
+James Fork	35.16333	-94.64528	US	OK
+1908 Cut-Off	33.69317	-94.64465	US	OK
+23rd and Portland Shops	35.49284	-97.58254	US	OK
+29th and Kentucky Shops	35.43589	-97.54226	US	OK
+6900 North May	35.54089	-97.56532	US	OK
+Abidoe Hollow	35.91538	-95.17635	US	OK
+Township of Abilene	34.90562	-98.35589	US	OK
+Abundant Life Temple	34.00704	-96.39082	US	OK
+Abundant Life Assembly of God	35.43645	-97.57504	US	OK
+Acme	34.79896	-98.01921	US	OK
+Ada	34.77453	-96.67834	US	OK
+Adair	36.43676	-95.27136	US	OK
+Township of Adair	36.44176	-95.19469	US	OK
+Addielee	35.95897	-94.63689	US	OK
+Addington	34.24454	-97.96698	US	OK
+Adel	34.57927	-95.59442	US	OK
+Afton	36.69369	-94.96302	US	OK
+Afton Interchange	36.72285	-94.9344	US	OK
+Township of Afton	36.72507	-94.9294	US	OK
+Agawam	34.8734	-97.94615	US	OK
+Township of Agency	35.7626	-95.45858	US	OK
+Agra	35.89478	-96.87225	US	OK
+Ahloso	34.73509	-96.63751	US	OK
+Airview Tabernacle	36.02482	-96.00666	US	OK
+Township of Akers	34.31398	-97.31419	US	OK
+Akins	35.50704	-94.69078	US	OK
+Akins Hollow	35.65537	-94.65439	US	OK
+Township of Akins	35.49731	-94.628	US	OK
+Albany	33.88149	-96.16276	US	OK
+Township of Albany	33.83066	-96.19193	US	OK
+Albert	35.23284	-98.41145	US	OK
+Albion	34.66288	-95.09996	US	OK
+Alcorn	36.61309	-97.3931	US	OK
+Alden	34.97534	-98.58534	US	OK
+Alderson	34.9001	-95.69193	US	OK
+Township of Alderson	34.90149	-95.81416	US	OK
+Aledo	35.82727	-99.12426	US	OK
+Alethia Temple	35.45478	-97.35392	US	OK
+Alex	34.91479	-97.77865	US	OK
+Township of Alex	34.90285	-97.83365	US	OK
+Alfalfa	35.21895	-98.60729	US	OK
+Alfalfa	35.48088	-99.11537	US	OK
+Township of Alfalfa	35.59727	-98.36423	US	OK
+Township of Alfalfa	36.64725	-97.51977	US	OK
+Township of Alfalfa	34.2362	-98.63089	US	OK
+Alikchi	34.16288	-95.06912	US	OK
+Aline	36.50976	-98.44897	US	OK
+Township of Aline	36.49448	-98.43924	US	OK
+Allen	34.87898	-96.41251	US	OK
+Township of Allen	34.44453	-97.09196	US	OK
+Township of Allen	34.80842	-96.45862	US	OK
+Allison	33.89593	-96.37166	US	OK
+Township of Allison	36.46392	-97.61977	US	OK
+Alluwe	36.61037	-95.4872	US	OK
+Township of Alluwe	36.6412	-95.48553	US	OK
+Alma	34.41953	-97.61225	US	OK
+Alpers	34.49258	-97.38725	US	OK
+Alpha	35.87032	-98.10034	US	OK
+Alston	36.43615	-99.29038	US	OK
+Alsuma	36.0951	-95.8636	US	OK
+Altona	35.7831	-98.17117	US	OK
+Township of Altona	35.7556	-98.15867	US	OK
+Altus	34.63813	-99.33398	US	OK
+Altus Air Force Base	34.66396	-99.27425	US	OK
+Altus Christian Fellowship	34.63896	-99.33564	US	OK
+Alum Bluff	35.80981	-94.91829	US	OK
+Alva	36.80503	-98.66647	US	OK
+Township of Alva	36.81114	-98.7587	US	OK
+Amabel	36.01089	-96.83808	US	OK
+Amber	35.16034	-97.87921	US	OK
+Township of Amber	35.1584	-97.83365	US	OK
+America	33.81539	-94.54854	US	OK
+Ames	36.24587	-98.18534	US	OK
+Amherst Square	35.53645	-97.53032	US	OK
+Amorita	36.92447	-98.29174	US	OK
+Anchor	35.83566	-95.40303	US	OK
+Anchor of Hope Tabernacle	36.16398	-95.97444	US	OK
+Anderson	35.82645	-96.99031	US	OK
+Anderson	35.0873	-96.98447	US	OK
+Anadarko	35.07256	-98.24366	US	OK
+Anderson Landing Strip	36.26226	-97.87672	US	OK
+Angora	35.84171	-99.44455	US	OK
+Township of Antelope	35.95422	-97.29198	US	OK
+Anthon	35.74033	-99.01315	US	OK
+Antioch	34.72508	-97.40558	US	OK
+Antioch	34.1001	-96.82834	US	OK
+Antlers	34.23121	-95.62025	US	OK
+Township of Antlers	34.24038	-95.6433	US	OK
+Antlers Waterworks	34.25343	-95.62553	US	OK
+Apache	34.89368	-98.36589	US	OK
+Apache Downs	34.89534	-98.47339	US	OK
+Apache Wye	35.04367	-98.35672	US	OK
+Apostolado Hispano	36.17343	-95.96972	US	OK
+Apostolic Assembly	35.44784	-97.50754	US	OK
+Apostolic Faith Tabernacle	35.38867	-97.51865	US	OK
+Apostolic Tabernacle	36.18259	-95.91777	US	OK
+Apostolics of Stillwater	36.17366	-97.07004	US	OK
+Apperson	36.75115	-96.76614	US	OK
+Appletree Square	35.36201	-97.53087	US	OK
+Arapaho	35.57783	-98.96453	US	OK
+Arapaho Point	34.6859	-98.61756	US	OK
+Township of Arapaho	35.59727	-98.95592	US	OK
+Township of Arapahoe	35.8556	-98.56425	US	OK
+Arcadia	35.66672	-97.3267	US	OK
+Arch	34.77454	-95.6611	US	OK
+Ardmore	34.17426	-97.14363	US	OK
+Arkansas-Oklahoma Synod	36.10454	-95.90194	US	OK
+Arkoma	35.35454	-94.4341	US	OK
+Arlington	35.57896	-96.67974	US	OK
+Arlington Memory Gardens	35.50556	-97.39139	US	OK
+Armstrong	34.05148	-96.34527	US	OK
+Archer Playground	36.16315	-95.94749	US	OK
+Arnet Gap	34.15455	-94.65772	US	OK
+Arnett	36.13504	-99.77484	US	OK
+Arnett	34.74728	-99.9651	US	OK
+Aron	35.68257	-96.51223	US	OK
+Arpelar	34.94204	-95.96555	US	OK
+Arrowhead Point	34.68507	-98.3395	US	OK
+Artillery Bowl	34.66146	-98.41561	US	OK
+Artillery Village	34.63896	-98.41394	US	OK
+Township of Armstrong	36.79314	-95.4947	US	OK
+Asher	34.98952	-96.92363	US	OK
+Ashland	34.76787	-96.06972	US	OK
+Ashley	36.80447	-98.5248	US	OK
+Askew Hollow	35.02788	-95.08163	US	OK
+Asphaltum	34.26009	-97.67503	US	OK
+Assembly of God East Side	35.62177	-95.95944	US	OK
+Assembly of God Glad Tidings	34.66729	-99.31647	US	OK
+Assembly of God North Side	35.62538	-95.9875	US	OK
+Assembly of God Redfork	36.10148	-96.03417	US	OK
+Township of Athens	36.38615	-99.93651	US	OK
+Atlee	34.09343	-97.63253	US	OK
+Atoka	34.38593	-96.12833	US	OK
+Atoka State Game Refuge	34.53037	-96.00333	US	OK
+Atwood	34.9562	-96.33862	US	OK
+Township of Auburn	36.2806	-97.08643	US	OK
+Township of Austin	36.20282	-99.65873	US	OK
+Township of Autry	36.28616	-96.9642	US	OK
+Autwine	36.72198	-97.23004	US	OK
+Avant	36.48953	-96.06222	US	OK
+Avard	36.69892	-98.78898	US	OK
+Township of Avard	36.72503	-98.8087	US	OK
+Avery	35.88423	-96.75225	US	OK
+Avoca	35.01397	-96.93058	US	OK
+Township of Avoca	34.9723	-96.86419	US	OK
+Aydelotte	35.44424	-96.91169	US	OK
+Aylesworth	34.02815	-96.62666	US	OK
+Babbs	34.94839	-99.05952	US	OK
+Bache	34.89426	-95.6486	US	OK
+Bacone	35.76704	-95.34024	US	OK
+Bado	36.21698	-98.74287	US	OK
+Bailey	34.71619	-97.79809	US	OK
+Bad Lands	34.69979	-98.75174	US	OK
+Baker Hollow	34.81066	-95.12691	US	OK
+Bald Knob	35.95621	-95.21746	US	OK
+Bald Knob	35.19204	-94.80106	US	OK
+Bald Knob	36.35176	-95.40414	US	OK
+Bald Knob	35.43594	-95.99833	US	OK
+Bald Knob	34.87788	-95.64415	US	OK
+Baldwin Prairie	34.87899	-95.1708	US	OK
+Baldy Point	34.90173	-99.33147	US	OK
+Township of Bales	35.41118	-97.0628	US	OK
+Ballard	36.09453	-94.58939	US	OK
+Township of Ballard	36.09175	-94.60022	US	OK
+Ballou	36.14593	-95.19024	US	OK
+Banneker Kindergarten	35.62677	-95.96749	US	OK
+Banner	35.51283	-97.84894	US	OK
+Township of Banner	34.98062	-98.56423	US	OK
+Township of Banner	35.8556	-98.89759	US	OK
+Township of Banner	36.46392	-97.942	US	OK
+Township of Banner	36.64447	-97.95312	US	OK
+Township of Banner	35.94171	-97.83922	US	OK
+Township of Banner	36.20284	-96.75864	US	OK
+Banty	34.06982	-96.09498	US	OK
+Banzet	36.94285	-95.25163	US	OK
+Baptist General Congregation	35.50895	-97.56587	US	OK
+Baptist Hispanic Mission	35.51672	-98.97786	US	OK
+Baptist Orphanage	35.53561	-97.54615	US	OK
+Baptist Student Union	34.66507	-99.33425	US	OK
+Baptist Student Union-Edmond	35.65478	-97.47532	US	OK
+Baptist Tabernacle	36.36898	-95.84832	US	OK
+Baptist Temple	36.75703	-95.94054	US	OK
+Bateman Woods	34.70174	-98.44533	US	OK
+Battiest	34.39344	-94.92495	US	OK
+Township of Baucum	34.58341	-99.31425	US	OK
+Baugh	36.21897	-96.31751	US	OK
+Baum	34.26815	-96.98085	US	OK
+Beamer Hollow	36.32369	-94.67828	US	OK
+Beams of Light Tabernacle	36.13648	-95.94083	US	OK
+Bear Den Hollow	34.76093	-95.12163	US	OK
+Bear Suck Knob	34.80538	-95.23052	US	OK
+Bearden	35.34814	-96.38862	US	OK
+Township of Bearden	35.33897	-96.34195	US	OK
+Bears Glen	36.18675	-96.26557	US	OK
+Township of Beard	36.80836	-98.18646	US	OK
+Beartoter Hollow	36.32119	-94.713	US	OK
+Beaver Lookout Tower	35.66954	-94.81245	US	OK
+Township of Beaver	35.09871	-95.20302	US	OK
+Township of Beaver	35.34172	-98.57534	US	OK
+Township of Beaver	34.3862	-98.19199	US	OK
+Beavers Bend	34.13844	-94.70188	US	OK
+Bebee	34.84508	-96.79168	US	OK
+Beckwith	36.19703	-94.70995	US	OK
+Township of Beck	35.52232	-95.38081	US	OK
+Bee	34.12204	-96.57222	US	OK
+Bee Bluff	35.05538	-95.18163	US	OK
+Bedwell	35.15982	-94.71689	US	OK
+Beggs	35.7426	-96.07027	US	OK
+Township of Beggs	35.79177	-96.03638	US	OK
+Beland	35.69177	-95.53581	US	OK
+Belfonte	35.54426	-94.55494	US	OK
+Bell	35.71814	-94.57605	US	OK
+Beetle Bluff	35.59426	-95.05551	US	OK
+Township of Belle	36.63892	-98.59758	US	OK
+Bellemont	35.46313	-96.77113	US	OK
+Belleville	33.92566	-97.54363	US	OK
+Bellvue	35.90091	-96.38723	US	OK
+Belton	35.82311	-97.09503	US	OK
+Belva	36.49892	-98.9751	US	OK
+Belzoni	34.18566	-95.46552	US	OK
+Ben Smith Hollow	36.31731	-94.97107	US	OK
+Bender	36.93309	-97.13754	US	OK
+Bengal	34.83288	-95.06191	US	OK
+Township of Bennington	33.93621	-96.00859	US	OK
+Bennington	34.00454	-96.03776	US	OK
+Township of Bentley	34.21398	-96.02526	US	OK
+Township of Benton	36.10282	-99.6865	US	OK
+Berch Hole	35.82732	-95.10107	US	OK
+Berean Fellowship	36.13315	-95.82443	US	OK
+Berlin	35.45061	-99.62538	US	OK
+Township of Berlin	35.48616	-99.69205	US	OK
+Bernice	36.61591	-94.91774	US	OK
+Bernice Point	36.6148	-94.9119	US	OK
+Township of Berry	36.64725	-97.83922	US	OK
+Bentley	34.21482	-96.07888	US	OK
+Township of Berwyn	34.31259	-97.06418	US	OK
+Bessie	35.38588	-98.98814	US	OK
+Township of Bessie	35.38061	-98.99203	US	OK
+Bet Ami Congregation	35.49367	-97.59949	US	OK
+Bethany	35.51867	-97.63226	US	OK
+Bethany First Assembly of God	35.5195	-97.63699	US	OK
+Bethany Sewage Disposal	35.67005	-97.59643	US	OK
+Bethel	34.35983	-94.83745	US	OK
+Bethel Acres	35.30868	-97.02558	US	OK
+Bethel Assembly of God	35.50061	-97.54476	US	OK
+Bethel Assembly of God	34.53619	-97.95281	US	OK
+Bethel Baptist Temple	36.10065	-96.04278	US	OK
+Bethel Temple	35.71899	-95.37441	US	OK
+Bethel Temple	35.61483	-95.97888	US	OK
+Bethel Temple Assembly of God	35.45645	-97.44587	US	OK
+Township of Bettina	35.18894	-99.59898	US	OK
+Bible Baptist Temple	36.19148	-95.90777	US	OK
+Bible Evanglistic Temple	35.98283	-97.01836	US	OK
+Bible Temple	35.33951	-96.90836	US	OK
+Big Acorn Hollow	36.31425	-94.9344	US	OK
+Big Beaver Hollow	36.33731	-94.86662	US	OK
+Big Bend	36.0276	-95.30719	US	OK
+Big Bottom	36.11732	-95.61137	US	OK
+Big Bend	36.5056	-96.94393	US	OK
+Big Bull Pasture	34.74201	-98.69479	US	OK
+Big Cedar	34.64594	-94.64884	US	OK
+Big Hollow	35.76815	-94.93134	US	OK
+Big Hollow	36.53008	-94.90662	US	OK
+Bigheart	36.85173	-96.22583	US	OK
+Township of Bilby	34.99453	-96.38084	US	OK
+Billings	36.52892	-97.44394	US	OK
+Bills Corner	36.29005	-97.06754	US	OK
+Township of Bigheart	36.54452	-96.19195	US	OK
+Binger	35.30895	-98.342	US	OK
+Bird Hollow	35.02649	-95.1408	US	OK
+Biscuit Knob	34.51648	-96.55723	US	OK
+Township of Bishop	36.28337	-98.8587	US	OK
+Bison	36.19643	-97.89006	US	OK
+Township of Bixby	35.90121	-95.84332	US	OK
+Black Bear	36.3406	-97.21976	US	OK
+Bixby	35.94204	-95.88332	US	OK
+Township of Black Bear	36.37782	-97.29199	US	OK
+Black Fork	34.85538	-94.61939	US	OK
+Black Fork	34.45982	-95.19246	US	OK
+Township of Black Dog	36.31258	-96.19195	US	OK
+Black Fox Bluff	36.34814	-94.84829	US	OK
+Black Fox Hollow	36.12231	-94.80634	US	OK
+Black Hollow	36.38092	-95.01079	US	OK
+Black Kettle National Grassland	35.68358	-99.76313	US	OK
+Black Sulphur Hollow	34.20872	-94.93467	US	OK
+Blackburn	36.37312	-96.59614	US	OK
+Township of Blackburn	34.03065	-97.92809	US	OK
+Township of Blackburn	36.35562	-96.59197	US	OK
+Blackgum	35.60982	-94.98968	US	OK
+Township of Blackgum	35.59176	-94.96412	US	OK
+Blackjack	35.43065	-94.63772	US	OK
+Blackland	36.82921	-96.49224	US	OK
+Blacksmith Hollow	36.12509	-95.05968	US	OK
+Blackwell	36.80448	-97.28282	US	OK
+Township of Blackwell	36.81948	-97.29754	US	OK
+Blaine Bottom	35.34482	-94.85356	US	OK
+Blaine Stadium	36.71781	-97.07754	US	OK
+Township of Blaine	36.54726	-97.51977	US	OK
+Blair	34.77951	-99.33536	US	OK
+Blanch	35.78314	-94.66606	US	OK
+Blanchard	35.13784	-97.65809	US	OK
+Blanco	34.75121	-95.77443	US	OK
+Blanton	36.42781	-97.927	US	OK
+Blocker	35.06149	-95.56832	US	OK
+Bloomington	35.00172	-99.63093	US	OK
+Township of Bloomington	34.94033	-99.62815	US	OK
+Blowout Hollow	34.46121	-95.54053	US	OK
+Blue	33.99649	-96.22999	US	OK
+Blue Mound	36.79758	-95.38164	US	OK
+Blue Mound	35.96982	-95.4258	US	OK
+Blue Mound	36.81703	-95.82304	US	OK
+Township of Blue Mound	35.95843	-95.37802	US	OK
+Blue Ribbon Downs	35.4762	-94.84411	US	OK
+Bluejacket	36.7998	-95.07108	US	OK
+Bluff	33.93982	-95.69302	US	OK
+Township of Bluff	36.9278	-97.51977	US	OK
+Board Hollow	35.52037	-94.53327	US	OK
+Boatman	36.25843	-95.18441	US	OK
+Boehler	34.17093	-95.88359	US	OK
+Boggy Bend Ford	34.49843	-96.07777	US	OK
+Boggy Cutoff	34.17149	-95.83831	US	OK
+Boggy Depot	34.2987	-96.30249	US	OK
+Boggy Hollow	35.50065	-94.92773	US	OK
+Boggy Cutoff	33.94871	-95.58691	US	OK
+Bokchito	34.01732	-96.14276	US	OK
+Township of Bokchito	34.03898	-96.18638	US	OK
+Bokoshe	35.18649	-94.78578	US	OK
+Township of Bokoshe	35.17788	-94.77106	US	OK
+Bokhoma	33.82289	-94.58299	US	OK
+Township of Boles	36.03204	-95.81527	US	OK
+Boley	35.49341	-96.48362	US	OK
+Bolin Hollow	35.73676	-94.84301	US	OK
+Bomar	33.85955	-97.12696	US	OK
+Bond	34.81426	-95.65443	US	OK
+Bollenbach Landing Strip	36.04754	-98.04478	US	OK
+Bookertee	35.36732	-96.08334	US	OK
+Boone	34.89868	-98.462	US	OK
+Township of Boone	34.89868	-98.47117	US	OK
+Bordeaux	35.11426	-94.87356	US	OK
+Township of Boone	35.41673	-97.41698	US	OK
+Boswell	34.02732	-95.86914	US	OK
+Boudinot	34.81341	-97.10836	US	OK
+Boughtman Hollow	35.85954	-95.19718	US	OK
+Boulangerville	36.95645	-96.21833	US	OK
+Boulanger Landing	36.97006	-96.20027	US	OK
+Boulder Turnoff	34.72507	-98.67868	US	OK
+Township of Bourland	34.19454	-98.07809	US	OK
+Bouse Junction	36.4217	-98.88898	US	OK
+Bowden	36.06287	-96.08722	US	OK
+Bowers	34.91232	-95.41914	US	OK
+Bowlegs	35.14619	-96.67002	US	OK
+Township of Bowman	35.65282	-99.92539	US	OK
+Bowring	36.87813	-96.11999	US	OK
+Box	34.97146	-97.15002	US	OK
+Box	35.58121	-94.97634	US	OK
+Township of Boyd	35.85282	-98.69481	US	OK
+Boynton	35.64871	-95.65609	US	OK
+Braden	35.28426	-94.50133	US	OK
+Braden Bottom	35.29565	-94.52439	US	OK
+Township of Braden	35.28759	-94.503	US	OK
+Bradley	34.87813	-97.70837	US	OK
+Township of Bradley	34.90285	-97.71976	US	OK
+Brady	34.62286	-97.28252	US	OK
+Township of Brady	34.57647	-97.31141	US	OK
+Braggs	35.66343	-95.19802	US	OK
+Braidwood	34.94843	-94.79579	US	OK
+Braithwaite	35.37366	-99.05842	US	OK
+Braman	36.92364	-97.33366	US	OK
+Braman Interchange	36.92697	-97.34866	US	OK
+Boy Scout Bluff	35.85426	-94.90551	US	OK
+Bray	34.63786	-97.81753	US	OK
+Brent	35.36787	-94.79356	US	OK
+Township of Brent	35.36676	-94.78078	US	OK
+Brewer	34.81315	-95.86083	US	OK
+Brewer Bend	35.59871	-95.17718	US	OK
+Township of Brewer	35.68343	-95.19746	US	OK
+Township of Brewer	36.9417	-96.8142	US	OK
+Briarglen Square	36.2001	-95.83388	US	OK
+Briartown	35.29732	-95.23969	US	OK
+Brico	35.08811	-99.06924	US	OK
+Township of Briggs	35.94592	-94.84051	US	OK
+Briggs	35.92703	-94.87468	US	OK
+Brink	36.84114	-98.6123	US	OK
+Brinkman	35.01006	-99.51676	US	OK
+Township of Brinton	35.27229	-97.06419	US	OK
+Bristow	35.83063	-96.39112	US	OK
+Bristow Interchange	35.85036	-96.38417	US	OK
+Bristow Point	35.12176	-95.61249	US	OK
+Township of Bristow	35.84452	-96.39473	US	OK
+Britton	35.56561	-97.53115	US	OK
+Britton Assembly of God	35.56811	-97.52782	US	OK
+Britton Square	35.56617	-97.56754	US	OK
+Brixton Square	35.557	-97.64199	US	OK
+Township of Brogdon	34.4362	-96.54472	US	OK
+Broken Arrow	36.0526	-95.79082	US	OK
+Broken Arrow Baptist Temple	36.07593	-95.77943	US	OK
+Broken Arrow Waterworks	35.98093	-95.78665	US	OK
+Broken Bow	34.02928	-94.7391	US	OK
+Broken Bow Lookout Tower	34.04733	-94.73855	US	OK
+Bromide Junction	34.40426	-96.43278	US	OK
+Bromide	34.41843	-96.49694	US	OK
+Township of Brooken	35.2126	-95.39748	US	OK
+Brooksville	35.19813	-96.96836	US	OK
+Brown	34.08898	-96.48027	US	OK
+Township of Brown	35.59593	-95.62248	US	OK
+Township of Brown	34.72507	-98.14199	US	OK
+Township of Brown	34.02232	-97.69197	US	OK
+Township of Brown	35.08897	-96.55862	US	OK
+Township of Brown	34.34453	-97.88087	US	OK
+Broxton	34.9859	-98.40922	US	OK
+Brush Narrows	34.68704	-95.75221	US	OK
+Brushy	35.55704	-94.7255	US	OK
+Brushy Knob	35.29704	-94.84023	US	OK
+Brushy Mound	36.40259	-95.65387	US	OK
+Brushy Prairie	36.11871	-95.61748	US	OK
+Bryan Baptist Association	33.99704	-96.40027	US	OK
+Bryan Institute	36.08982	-95.94805	US	OK
+Township of Bryan	36.19037	-95.15441	US	OK
+Township of Bryan	34.56398	-96.45861	US	OK
+Township of Bryan	34.31398	-98.55867	US	OK
+Township of Bryan	36.72225	-97.63088	US	OK
+Township of Bryan	35.5959	-97.0892	US	OK
+Township of Bryan	35.79177	-95.81971	US	OK
+Bryant	35.39065	-96.06472	US	OK
+Bryant Square	35.65005	-97.45865	US	OK
+Bucher	35.91421	-98.35757	US	OK
+Buck Point	36.73869	-96.06971	US	OK
+Buckeye Mission	35.09536	-96.59057	US	OK
+Township of Bucklucksy	34.93898	-95.87944	US	OK
+Buffalo	36.83559	-99.6304	US	OK
+Buffalo Head	34.22315	-96.36749	US	OK
+Township of Buffalo	34.72232	-95.26969	US	OK
+Township of Buffalo	35.32783	-99.9365	US	OK
+Township of Buffalo	36.54725	-97.73089	US	OK
+Township of Buffalo	36.81114	-99.66984	US	OK
+Township of Buffalo	36.55282	-97.18643	US	OK
+Buffalo Gap	34.7484	-98.76507	US	OK
+Bug Tussle	35.03093	-95.68999	US	OK
+Bull Hollow	36.3137	-94.90718	US	OK
+Bullet Prairie	34.27954	-96.71806	US	OK
+Bullette Playground	36.16787	-95.97916	US	OK
+Bunch	35.68259	-94.76106	US	OK
+Township of Bunch	35.69176	-94.75856	US	OK
+Burbank	36.69504	-96.73198	US	OK
+Burg	34.58065	-95.9961	US	OK
+Burks Hollow	34.21872	-94.91967	US	OK
+Burlington	36.90003	-98.42285	US	OK
+Burmah	35.82699	-99.07482	US	OK
+Burnett	35.15591	-97.08086	US	OK
+Township of Burnett	35.14174	-97.05863	US	OK
+Burney	35.43455	-95.82249	US	OK
+Township of Burney	33.94177	-97.30585	US	OK
+Burneyville	33.90788	-97.28891	US	OK
+Township of Burnham	36.28061	-96.77253	US	OK
+Burris Valley	34.64954	-95.57109	US	OK
+Burt	34.45036	-99.08091	US	OK
+Burwell	34.18594	-95.15134	US	OK
+Bushyhead	36.46148	-95.49414	US	OK
+Butler	35.63671	-99.18593	US	OK
+Butner	35.26091	-96.4589	US	OK
+Buzzard Gap	34.89371	-95.23969	US	OK
+Buzzard Hollow	35.71148	-94.7705	US	OK
+Buzzard Hollow	35.85537	-95.13774	US	OK
+Buzzard Hollow	35.04871	-95.04663	US	OK
+Buzzard Roost Hollow	35.76509	-95.04107	US	OK
+Buzzards Roost	34.94593	-94.76634	US	OK
+Byars	34.87425	-97.05002	US	OK
+Township of Byars	34.89175	-97.06141	US	OK
+Byng	34.8612	-96.66557	US	OK
+Byron	36.90197	-98.29396	US	OK
+Byron State Fish Hatchery	36.83864	-98.18229	US	OK
+Township of Byron	36.91392	-98.27535	US	OK
+Cabaniss	34.94176	-96.02472	US	OK
+Cache	34.62952	-98.62867	US	OK
+Cache Bottom	35.28676	-94.68883	US	OK
+Cache Indian Mission	34.95728	-98.56812	US	OK
+Cache Wye	34.70951	-98.6284	US	OK
+Township of Cache	34.90562	-98.56423	US	OK
+Township of Cache	34.28342	-98.31422	US	OK
+Caddo	34.12676	-96.26332	US	OK
+Township of Caddo	34.08898	-96.31277	US	OK
+Township of Caddo	35.42228	-98.57534	US	OK
+Cade	34.09871	-95.98998	US	OK
+Calera	33.93454	-96.4286	US	OK
+Township of Calera	33.89177	-96.32527	US	OK
+Cairo	34.59065	-96.13194	US	OK
+Calhoun	35.10371	-94.74606	US	OK
+Calida	36.19313	-96.29807	US	OK
+Calumet	35.60116	-98.11867	US	OK
+Township of Calumet	35.59727	-98.15589	US	OK
+Calunchety Hollow	36.20758	-94.69384	US	OK
+Callahan	36.29587	-97.56894	US	OK
+Calvary Assembly of God	35.0826	-94.62967	US	OK
+Calvary Assembly of God	36.13033	-97.02448	US	OK
+Calvary Baptist Tabernacle	35.43645	-97.50365	US	OK
+Calvary Tabernacle	35.25784	-97.40726	US	OK
+Calvary Temple	35.637	-97.49643	US	OK
+Calvary Temple Assembly of God	33.99787	-96.37416	US	OK
+Calvary Temple Assembly of God	36.1612	-96.04528	US	OK
+Calven Hollow	36.11121	-95.19107	US	OK
+Township of Calvin	34.88065	-96.2475	US	OK
+Camargo	36.01727	-99.28927	US	OK
+Calvin	34.96787	-96.24862	US	OK
+Camelot Square	35.59172	-97.55087	US	OK
+Cameron	35.13399	-94.53467	US	OK
+Township of Cameron	35.15565	-94.54189	US	OK
+Canadian	35.17732	-95.65527	US	OK
+Canadian Fork	35.24315	-95.52776	US	OK
+Canadian Shores	35.17482	-95.74027	US	OK
+Township of Canadian	35.04591	-97.18919	US	OK
+Township of Canadian	35.0626	-95.66693	US	OK
+Township of Canadian	35.6806	-98.36423	US	OK
+Canadian Square	35.50783	-97.93616	US	OK
+Caney	34.23231	-96.21416	US	OK
+Township of Caney	34.21398	-96.18082	US	OK
+Township of Caney	36.91395	-96.19194	US	OK
+Canteen	36.85503	-97.2631	US	OK
+Canton	36.05365	-98.58842	US	OK
+Township of Canton	36.0306	-98.56147	US	OK
+Township of Cantonment	36.10837	-98.56147	US	OK
+Canute	35.42199	-99.27953	US	OK
+Capron	36.8967	-98.57758	US	OK
+Carbon	34.92621	-95.63915	US	OK
+Carbondale	36.09537	-96.02028	US	OK
+Carbondale Assembly of God	36.09009	-96.01694	US	OK
+Cardinal Cove	33.87094	-96.75944	US	OK
+Carl	34.95811	-99.94038	US	OK
+Carleton	36.01504	-98.52036	US	OK
+Carlisle	35.50065	-95.02634	US	OK
+Township of Carlisle	36.71392	-97.40866	US	OK
+Carlton	36.01448	-98.51536	US	OK
+Township of Carlton	36.03059	-98.47813	US	OK
+Township of Carmel	34.43897	-99.45314	US	OK
+Carmen	36.57892	-98.4623	US	OK
+Carnegie	35.10367	-98.60367	US	OK
+Carnegie Cove	35.1795	-98.47617	US	OK
+Carney	35.80839	-97.01281	US	OK
+Carpenter	35.53033	-99.37176	US	OK
+Carpenters Point	35.60899	-96.07778	US	OK
+Carrier	36.47698	-98.02228	US	OK
+Carson	35.16593	-96.08861	US	OK
+Township of Carr	34.18481	-98.7809	US	OK
+Township of Carson	36.46671	-97.19199	US	OK
+Carter	35.21894	-99.50565	US	OK
+Carter Nine	36.74476	-96.66142	US	OK
+Carters Corner	35.28954	-95.66304	US	OK
+Carters Landing	35.79731	-94.90384	US	OK
+Cartersville	35.23149	-94.84495	US	OK
+Cartoco	36.08729	-96.71419	US	OK
+Cartwright	33.85288	-96.56194	US	OK
+Carver	34.52342	-97.48447	US	OK
+Carwile	36.46337	-98.30118	US	OK
+Casady Square	35.56478	-97.54893	US	OK
+Township of Case	35.37229	-97.29198	US	OK
+Casey	36.28256	-96.6742	US	OK
+Cashion	35.7981	-97.67866	US	OK
+Township of Cass	35.42229	-97.29198	US	OK
+Castle	35.47452	-96.38223	US	OK
+Township of Castle	35.51953	-96.35306	US	OK
+Caston	34.95732	-94.83301	US	OK
+Cat Hollow	34.31593	-95.87415	US	OK
+Cat Hollow	34.33121	-95.94887	US	OK
+Cat Hollow	34.21733	-94.64716	US	OK
+Catale	36.56092	-95.37192	US	OK
+Catesby	36.49309	-99.9629	US	OK
+Cathedral de Adoracion	35.43534	-97.54115	US	OK
+Cathedral of Deliverance	35.42562	-97.58393	US	OK
+Catholic Diocese of Tulsa	36.14926	-95.99055	US	OK
+Catholic Diocese of Tulsa	36.01787	-95.93333	US	OK
+Catholic Rectory	36.67118	-96.33195	US	OK
+Catholic Sisters Convent	35.6226	-95.96249	US	OK
+Catoosa	36.18899	-95.74582	US	OK
+Catoosa First Assembly of God	36.18426	-95.74971	US	OK
+Township of Catoosa	36.19176	-95.73221	US	OK
+Catfish Point	36.64063	-94.82857	US	OK
+Cedar	35.01843	-94.9894	US	OK
+Cedar Bluff	35.94982	-95.18524	US	OK
+Cedar Bluff	36.75037	-95.6497	US	OK
+Cayuga	36.63424	-94.67995	US	OK
+Cedar Crest	36.11343	-95.22913	US	OK
+Cedar Dale Indian Mission	35.08756	-98.53951	US	OK
+Cedar Hollow	34.45787	-95.92638	US	OK
+Cedar Hollow	35.87176	-95.14996	US	OK
+Cedar Hollow	35.99092	-94.89662	US	OK
+Cedar Hollow	35.34399	-95.875	US	OK
+Cedar Knob	34.74649	-94.96662	US	OK
+Cedar Knob	35.24704	-94.44716	US	OK
+Cedar Knobb	35.24704	-94.44772	US	OK
+Cedar Knoll	35.88615	-98.31035	US	OK
+Cedar Point	36.6373	-94.91968	US	OK
+Cedar Valley	35.86421	-97.56199	US	OK
+Township of Cedar Valley	35.8556	-98.26423	US	OK
+Cedar Village	34.44231	-97.13419	US	OK
+Township of Cedar	35.4195	-98.34756	US	OK
+Township of Cedar	35.56394	-98.70869	US	OK
+Township of Cedar	35.85005	-97.61143	US	OK
+Township of Cedar	36.92503	-98.91148	US	OK
+Township of Cedardale	36.28059	-99.05871	US	OK
+Cedars	35.27426	-94.44272	US	OK
+Cement	34.93201	-98.14033	US	OK
+Cement Gap	34.86423	-99.27453	US	OK
+Township of Cement	35.6806	-98.042	US	OK
+Centrahoma	34.60981	-96.34556	US	OK
+Central Cathedral	36.14593	-95.83332	US	OK
+Central High	34.62313	-98.08976	US	OK
+Central Mid-High	35.34256	-97.47142	US	OK
+Centralia	36.79675	-95.35331	US	OK
+Centre 71	36.05982	-95.88471	US	OK
+Centre 71 Annex	36.06232	-95.88916	US	OK
+Centre of America	35.60839	-97.54421	US	OK
+Centro Christiano Fe A Dios	35.41395	-97.54837	US	OK
+Cerebral Palsy Institute	35.21896	-97.42475	US	OK
+Ceres	36.47726	-97.28255	US	OK
+Cestos	36.14421	-99.09371	US	OK
+Chambers	34.86982	-95.82471	US	OK
+Chance	36.06036	-94.65522	US	OK
+Township of Chance	36.0862	-94.71411	US	OK
+Chandler	35.70173	-96.88086	US	OK
+Cedardale	36.31893	-98.99649	US	OK
+Chandler Interchange	35.71812	-96.88864	US	OK
+Township of Chandler	34.78062	-98.35033	US	OK
+Township of Chandler	34.89729	-98.03643	US	OK
+Township of Chandler	35.68201	-96.90308	US	OK
+Chaney	36.4792	-99.84873	US	OK
+Channing Unitarian-Universalist	35.64255	-97.48337	US	OK
+Chattanooga	34.42286	-98.65645	US	OK
+Township of Checotah	35.47788	-95.50581	US	OK
+Cheek	34.07843	-97.28252	US	OK
+Checotah	35.4701	-95.52304	US	OK
+Chelsea	36.53565	-95.43247	US	OK
+Township of Chelsea	36.5537	-95.43553	US	OK
+Cherokee	36.75447	-98.35674	US	OK
+Cherokee Chute	35.32343	-94.54633	US	OK
+Cherokee Seaplane Base	36.58341	-94.9169	US	OK
+Cherokee State Game Refuge	35.6701	-95.08607	US	OK
+Township of Cherokee	36.04177	-95.25163	US	OK
+Township of Cherokee	36.10283	-97.19198	US	OK
+Cherry Tree	35.74148	-94.64328	US	OK
+Chester	36.21643	-98.92093	US	OK
+Cheyenne	35.61394	-99.67149	US	OK
+Cheyenne Butte	35.78171	-98.22729	US	OK
+Chewey	36.1037	-94.76745	US	OK
+Cheyenne Point	35.59172	-99.24482	US	OK
+Township of Cheyenne	35.67505	-99.69205	US	OK
+Cheyenne Valley	36.3692	-98.65786	US	OK
+Township of Chickasaw	34.72509	-96.69196	US	OK
+Chickasha	35.05257	-97.93643	US	OK
+Chickasha Square	35.02257	-97.93199	US	OK
+Township of Chickasha	35.06673	-97.94199	US	OK
+Chicken Hollow	36.38148	-95.0269	US	OK
+Chigger Cove	36.57813	-94.87273	US	OK
+Chigley	34.59342	-97.07835	US	OK
+Childers	36.77175	-95.5397	US	OK
+Childrens Blend Ministries	36.22954	-95.98639	US	OK
+Chilesville	35.55202	-96.47668	US	OK
+Chilocco	36.98892	-97.06976	US	OK
+Chinese Missions	36.11838	-97.06531	US	OK
+Chism	34.91286	-96.93696	US	OK
+Chitwood	34.85479	-97.82809	US	OK
+Chloeta	36.42314	-94.97079	US	OK
+Choate Prairie	35.1526	-95.80833	US	OK
+Chockie	34.58204	-95.99833	US	OK
+Choctaw	35.49756	-97.26892	US	OK
+Chisney	35.14646	-96.92641	US	OK
+Choctaw Sewage Lagoon	35.49339	-97.51198	US	OK
+Township of Choctaw	35.52089	-97.29198	US	OK
+Choctaw Village	33.89622	-94.80022	US	OK
+Choska Bottom	35.83038	-95.62248	US	OK
+Chouteau	36.18593	-95.34302	US	OK
+Chouteau Lock	35.85704	-95.37025	US	OK
+Township of Chouteau	36.20843	-95.30858	US	OK
+Christ Deliverance Missionary	35.50534	-97.48004	US	OK
+Christ Ministries	36.11704	-95.83304	US	OK
+Christ Temple Paw Community	35.49784	-97.49476	US	OK
+Christ the Redeemer Lutheran	36.06065	-95.95361	US	OK
+Christian Assembly of God	36.08204	-95.83304	US	OK
+Christian Extended Family	36.16426	-95.95861	US	OK
+Christian Faith	35.65283	-97.49004	US	OK
+Christian Helping Hands	34.36481	-97.96337	US	OK
+Christian Science Reading Room	36.11394	-97.05976	US	OK
+Township of Christie	35.95981	-94.71412	US	OK
+Cimarron Baptist Association	35.98534	-96.75391	US	OK
+Cimarron City	35.88949	-97.60171	US	OK
+Township of Cimarron	36.10837	-98.29202	US	OK
+Township of Cimarron	35.94171	-97.95311	US	OK
+Township of Cimarron	35.88061	-96.99475	US	OK
+Township of Cimarron	36.23059	-98.17534	US	OK
+Township of Cimarron	36.1973	-96.33918	US	OK
+Township of Cimarron	35.97784	-96.85864	US	OK
+Circle of Love Foundation	36.30621	-95.6047	US	OK
+Citra	34.79648	-96.37639	US	OK
+City Rescue Mission	35.46117	-97.51671	US	OK
+City View	34.84145	-99.35203	US	OK
+City of Adair Waterworks	36.43953	-95.20858	US	OK
+City of Tulsa Water Intake	36.36981	-95.12969	US	OK
+City of Vinita Water Intake	36.49842	-95.04191	US	OK
+Civit	34.78925	-97.12558	US	OK
+Claremore	36.3126	-95.61609	US	OK
+Claremore Interchange	36.30121	-95.59109	US	OK
+Claremore Mound	36.3851	-95.65942	US	OK
+Township of Clark	35.84727	-99.18927	US	OK
+Clarks Heights	35.37646	-97.00086	US	OK
+Township of Clarkson	36.0306	-97.29198	US	OK
+Clarita	34.48287	-96.43333	US	OK
+Township of Clay	36.64725	-98.33368	US	OK
+Clayton	34.58955	-95.35275	US	OK
+Township of Clayton	36.03061	-96.9642	US	OK
+Clearview	35.39704	-96.18639	US	OK
+Clearwater Hollow	34.7876	-94.77745	US	OK
+Clematis	35.64785	-96.76891	US	OK
+Clemscott	34.34731	-97.45669	US	OK
+Township of Cleo	36.40837	-98.4698	US	OK
+Cleora	36.57897	-94.97107	US	OK
+Cleveland	36.31007	-96.46419	US	OK
+Township of Cleveland	36.02782	-99.31149	US	OK
+Clifton	35.5159	-96.91197	US	OK
+Clebit	34.39038	-95.02023	US	OK
+Climate Control Institute	36.15037	-95.90444	US	OK
+Township of Clinton	35.50838	-98.93925	US	OK
+Clothier	35.31979	-97.41476	US	OK
+Cloud Chief	35.25255	-98.84313	US	OK
+Clinton	35.51561	-98.96731	US	OK
+Township of Cloud	36.95003	-98.47535	US	OK
+Cloudy	34.30205	-95.28107	US	OK
+Clyde	36.84642	-97.82117	US	OK
+Cloudy Lookout Tower	34.38927	-95.25024	US	OK
+Coalton	35.49761	-95.93916	US	OK
+Cobalt Junction	34.16259	-97.51197	US	OK
+Cobb	34.08482	-96.40777	US	OK
+Township of Cobb	35.34732	-95.39747	US	OK
+Cockrum Hollow	35.91538	-95.20718	US	OK
+Cody	35.80532	-98.69064	US	OK
+Cody	36.31895	-96.71031	US	OK
+Cogar	35.33395	-98.13061	US	OK
+Coil	34.65815	-96.52973	US	OK
+Colbert	33.85316	-96.50249	US	OK
+Township of Colbert	33.84732	-96.4586	US	OK
+Township of Colbert	34.97785	-97.56142	US	OK
+Colcord	36.26425	-94.693	US	OK
+Township of Coldwater	36.72225	-98.0559	US	OK
+Coleman	34.27148	-96.41916	US	OK
+Coleman Hollow	36.33981	-94.86884	US	OK
+Coleman Hollow	36.12176	-95.20163	US	OK
+Collinsville	36.36454	-95.83888	US	OK
+Township of Collinsville	36.3076	-95.75832	US	OK
+Colonade	35.56395	-97.56865	US	OK
+Colonial Square	35.56478	-97.56615	US	OK
+Colony	35.34867	-98.67674	US	OK
+Township of Columbia	36.0306	-97.72533	US	OK
+Comanche	34.36897	-97.96392	US	OK
+Comanche Indian Mission	34.63313	-98.38839	US	OK
+Comanche Tribal Complex	34.72896	-98.40005	US	OK
+Commerce	36.9334	-94.87301	US	OK
+Commerce Galleria	35.56756	-97.5656	US	OK
+Community Praise Temple	34.61285	-98.38894	US	OK
+Compton	34.80454	-95.02135	US	OK
+Compton Hollow	34.80177	-95.0169	US	OK
+Concho	35.6156	-97.9945	US	OK
+Conley Hollow	34.76899	-94.96412	US	OK
+Connerville	34.44759	-96.63612	US	OK
+Township of Connewango	35.34172	-98.25589	US	OK
+Conser	34.84038	-94.68495	US	OK
+Coodys Bluff	36.69842	-95.56414	US	OK
+Cook	34.2712	-96.19721	US	OK
+Coodys Bluff	36.71926	-95.55248	US	OK
+Cook Hollow	35.88482	-95.19302	US	OK
+Cookietown	34.27509	-98.45339	US	OK
+Cookson	35.71093	-94.91995	US	OK
+Cookson Bluff	35.70426	-94.96773	US	OK
+Township of Cookson	35.70287	-94.93773	US	OK
+Cooper	36.81115	-96.75198	US	OK
+Township of Cooper	35.94448	-98.042	US	OK
+Township of Cooper	34.89867	-98.88368	US	OK
+Coopers Hollow	34.78232	-95.22608	US	OK
+Cooperton	34.86756	-98.86674	US	OK
+Copeland	36.65591	-94.82829	US	OK
+Copan	36.89758	-95.92609	US	OK
+Copic Slab	35.60981	-94.55911	US	OK
+Cora	36.79781	-98.91704	US	OK
+Township of Coralea	34.7334	-99.7601	US	OK
+Corbett	34.97341	-97.22947	US	OK
+Township of Cordell	35.25561	-98.9948	US	OK
+Cordell	35.29061	-98.98841	US	OK
+Corn	35.37811	-98.78202	US	OK
+Cornatzar	36.63897	-95.10774	US	OK
+Cornerstone Fellowship	35.91287	-94.96968	US	OK
+Cornish	34.15898	-97.59697	US	OK
+Coronado Square	35.53617	-97.58587	US	OK
+Township of Coronado	36.03059	-98.04756	US	OK
+Corum	34.36231	-98.10421	US	OK
+Cottingham	35.96228	-96.95225	US	OK
+Cotton Valley	36.97091	-95.85887	US	OK
+Cottonwood	34.55593	-96.20389	US	OK
+Cottonwood	35.36843	-94.54911	US	OK
+Cottrells Mission	34.72036	-97.02058	US	OK
+Council Cove	36.71868	-94.74023	US	OK
+Council Hollow	36.72146	-94.72967	US	OK
+Country Square	35.04732	-94.63134	US	OK
+Counts	34.67343	-95.57887	US	OK
+Cove Acres	34.83146	-98.337	US	OK
+Covenant Fellowship	35.98201	-96.7578	US	OK
+Covington	36.30754	-97.58644	US	OK
+Cow Bog Hollow	36.04564	-94.72273	US	OK
+Cowden	35.24783	-98.71201	US	OK
+Cowden Junction	35.29089	-98.71146	US	OK
+Coweta	35.95177	-95.65081	US	OK
+Township of Coweta	35.9501	-95.66693	US	OK
+Cowhead Divide	34.60344	-94.85467	US	OK
+Cowlington	35.27537	-94.72856	US	OK
+Township of Cowlington	35.29454	-94.76134	US	OK
+Cowskin Prairie	36.58591	-94.6205	US	OK
+Cox City	34.72535	-97.7317	US	OK
+Coxs Corner	34.63757	-98.21227	US	OK
+Coyle	35.95672	-97.23448	US	OK
+Township of Coyle	34.59453	-97.09058	US	OK
+Craig	34.84038	-95.62748	US	OK
+Crane Hollow	34.57177	-94.93634	US	OK
+Craig	34.03844	-94.62882	US	OK
+Township of Cravens	34.87649	-95.25164	US	OK
+Crawford	35.82699	-99.79956	US	OK
+Crazy Nance Hollow	36.32453	-94.723	US	OK
+Crazy Hollow	35.9812	-94.66772	US	OK
+Creata	34.51924	-99.54704	US	OK
+Crekola	35.70566	-95.48748	US	OK
+Crescent	35.95254	-97.59477	US	OK
+Township of Crescent	35.93615	-97.6156	US	OK
+Township of Crescent	35.94171	-97.60866	US	OK
+Creta	34.51674	-99.54981	US	OK
+Criner	34.97146	-97.56448	US	OK
+Township of Crittenden	35.94454	-95.06412	US	OK
+Cromwell	35.34008	-96.45723	US	OK
+Cropper	36.44114	-97.69005	US	OK
+Township of Crosby	34.48063	-98.43922	US	OK
+Township of Cross	34.81118	-98.03643	US	OK
+Township of Cross	36.70837	-97.08921	US	OK
+Crowder	35.12399	-95.66999	US	OK
+Township of Crowell	36.31115	-98.67814	US	OK
+Crusher	34.35065	-97.02946	US	OK
+Crusher Hollow	34.79371	-95.01246	US	OK
+Township of Crutcho	35.51951	-97.36698	US	OK
+Crystal	34.22676	-95.93026	US	OK
+Cumberland	34.06454	-96.59972	US	OK
+Cumberland Cut	34.09537	-96.55027	US	OK
+Cumberland Levee	34.10204	-96.56861	US	OK
+Cummings-Cole CME	35.76204	-95.54914	US	OK
+Curchece	36.21897	-96.29279	US	OK
+Curtis	36.4392	-99.1426	US	OK
+Curtis Cove	34.52147	-98.87868	US	OK
+Cushing	35.98506	-96.76697	US	OK
+Custer City	35.66505	-98.88314	US	OK
+The Cutoff	35.06038	-94.60328	US	OK
+Cyril	34.89646	-98.2006	US	OK
+Township of Dabney	35.10839	-99.94205	US	OK
+Dacoma	36.65948	-98.56314	US	OK
+Daggett	35.70173	-96.78697	US	OK
+Daisy	34.53593	-95.7397	US	OK
+Daisy Interchange	34.52954	-95.75498	US	OK
+Township of Dale	36.28615	-99.65873	US	OK
+Township of Dale	36.92503	-96.98087	US	OK
+Dane	36.21698	-98.61953	US	OK
+Township of Dane	36.20282	-98.64481	US	OK
+Darlington State Game Bird Hatchery	35.57422	-98.01283	US	OK
+Township of Darlington	35.60283	-98.05866	US	OK
+Darrow	36.09809	-98.38841	US	OK
+Darwin	34.24788	-95.77942	US	OK
+Township of Darling	35.59732	-95.43636	US	OK
+Davenport	35.70479	-96.7653	US	OK
+Davidson	34.24092	-99.07563	US	OK
+Davis	34.50453	-97.11946	US	OK
+Davis Hollow	36.10954	-95.18607	US	OK
+Township of Davis	35.4084	-96.88086	US	OK
+Dawes	36.88146	-94.99135	US	OK
+Dawson	36.17982	-95.9086	US	OK
+Township of Dawson	36.20843	-95.90444	US	OK
+Township of Dawson	35.93616	-98.93926	US	OK
+Township of Day	36.02782	-99.6865	US	OK
+Dead Man Hollow	35.57842	-94.51133	US	OK
+Deadman Gap	34.77232	-94.87218	US	OK
+Deadman Hollow	35.8551	-95.20968	US	OK
+Deadman Hollow	34.58066	-94.94995	US	OK
+Deep Fork	35.35954	-95.61082	US	OK
+Township of Deep Fork	35.70283	-97.29198	US	OK
+Deep Fork Unit	35.45399	-95.88416	US	OK
+Township of Degnan	34.96538	-95.34192	US	OK
+Degroat	36.33648	-95.60387	US	OK
+Del City	35.44201	-97.44087	US	OK
+Del City First Assembly of God	35.43562	-97.44948	US	OK
+Del Haven Tabernacle	35.45812	-97.44226	US	OK
+Dela	34.20038	-95.52219	US	OK
+Delaware	36.7787	-95.63942	US	OK
+Degnan	34.94732	-95.35331	US	OK
+Township of Delaware	35.06951	-98.15866	US	OK
+Delhi	35.17477	-99.67649	US	OK
+Township of Delhi	35.18755	-99.7226	US	OK
+Denman	34.93788	-95.02524	US	OK
+Dempsey	35.51755	-99.82289	US	OK
+Dennison Hollow	35.96314	-94.72828	US	OK
+Dennis	36.53925	-94.88412	US	OK
+Denny	34.57009	-96.84668	US	OK
+Township of Dent	35.43896	-96.69196	US	OK
+Denton	34.66646	-98.12449	US	OK
+Denton	34.65785	-98.12893	US	OK
+Dentonville	35.7412	-96.13972	US	OK
+Denver	35.23257	-97.28225	US	OK
+Depew	35.80285	-96.50612	US	OK
+Township of Depew	35.81535	-96.54473	US	OK
+Township of Detroit	36.24448	-99.33094	US	OK
+Devils Backbone	34.14094	-94.69077	US	OK
+Devils Backbone	34.33649	-95.16218	US	OK
+Devils Den	34.28148	-96.70139	US	OK
+Devils Hollow	34.76816	-95.09218	US	OK
+Devils Hollow	36.94979	-94.71523	US	OK
+Devol	34.19592	-98.59006	US	OK
+Township of Devol	34.1862	-98.55589	US	OK
+Dewar	35.45816	-95.94139	US	OK
+Dewey	36.79592	-95.93554	US	OK
+Township of Dewey	35.59589	-97.19475	US	OK
+Township of Dewey	35.86949	-98.78648	US	OK
+Township of Dewey	35.81394	-99.47816	US	OK
+Township of Deyo	34.55285	-98.56284	US	OK
+Dibble	35.0334	-97.62976	US	OK
+Dick Johnson Cut-Off	33.73678	-94.82355	US	OK
+Dickson	34.18732	-96.98446	US	OK
+Dighton	35.4676	-95.89305	US	OK
+Dilar Cove	36.56008	-94.80023	US	OK
+Dill City	35.27672	-99.13508	US	OK
+Township of Dill	34.93478	-99.1948	US	OK
+Dillard	34.18732	-97.40474	US	OK
+Dilworth	36.94142	-97.2281	US	OK
+Township of Dirigo	36.81392	-97.51977	US	OK
+Township of Diamond	35.10288	-95.06274	US	OK
+Disney	36.48119	-95.01496	US	OK
+Divine Guidance Assembly-Faith	35.42006	-97.5067	US	OK
+Divide	34.47593	-95.30941	US	OK
+Dixon Hollow	34.87811	-99.98122	US	OK
+Township of Dixon	35.77505	-98.47535	US	OK
+Township of Doby	36.7917	-99.78651	US	OK
+Dodge	36.57369	-94.65606	US	OK
+Dog Hollow	36.06925	-94.85495	US	OK
+Dollie Hollow	36.53534	-96.47669	US	OK
+Dotyville	36.85896	-94.90885	US	OK
+Dougherty	34.39953	-97.05557	US	OK
+Douglas	36.26059	-97.66922	US	OK
+Douglas	36.18371	-95.88082	US	OK
+Dover	35.98143	-97.91117	US	OK
+Dow	34.87676	-95.60026	US	OK
+Township of Dow	34.86954	-95.58359	US	OK
+Township of Downs	35.77505	-97.72255	US	OK
+Doxey	35.32422	-99.58315	US	OK
+Township of Doyle	34.89729	-98.25866	US	OK
+Drace	36.34032	-97.20615	US	OK
+Drake	34.39787	-96.95085	US	OK
+Drakes Corner	35.98589	-96.87364	US	OK
+Driftwood	36.8792	-98.35952	US	OK
+Township of Driftwood	36.8417	-98.36424	US	OK
+Township of Driftwood	36.92781	-98.5948	US	OK
+Drummond	36.30031	-98.0359	US	OK
+Drumright	35.9884	-96.60113	US	OK
+Drumb	34.92982	-95.48109	US	OK
+Dry Hollow	36.09287	-95.08413	US	OK
+Dry Hollow	36.74563	-96.21389	US	OK
+Dry Hollow	34.74564	-96.82307	US	OK
+Dry Prong	36.55337	-99.91263	US	OK
+Township of Dryden	34.79173	-99.80315	US	OK
+Duchess Landing	35.39176	-95.41609	US	OK
+Dudley	35.81145	-97.06642	US	OK
+Township of Duke	34.66951	-99.56148	US	OK
+Duland	33.96732	-95.70497	US	OK
+Duke	34.66146	-99.57009	US	OK
+Duncan	34.5023	-97.95781	US	OK
+Duncan Waterworks	34.51246	-97.89245	US	OK
+Dundee	34.2312	-97.54503	US	OK
+Dunlap	36.6067	-99.6754	US	OK
+Durant	33.99399	-96.37082	US	OK
+Durant Waterworks	34.05315	-96.34166	US	OK
+Durham	35.84199	-99.92484	US	OK
+Durwood	34.17676	-96.96473	US	OK
+Dustin	35.27065	-96.03083	US	OK
+Township of Dustin	35.20843	-96.05861	US	OK
+Dutton	35.20395	-98.09449	US	OK
+Dwight Mission	35.55093	-94.84523	US	OK
+Dwight Mission	35.54759	-94.85189	US	OK
+Eagle City	35.9331	-98.59175	US	OK
+Township of Eagle Chief	36.5917	-98.48091	US	OK
+Eagle Hollow	35.59814	-94.56911	US	OK
+Township of Eagle	36.08618	-96.66141	US	OK
+Township of Eagle	36.63892	-98.8087	US	OK
+Eagles Bluff	36.03148	-94.91968	US	OK
+Eagles Bluff	36.33897	-94.74717	US	OK
+Eagletown	34.03428	-94.57493	US	OK
+Eakly	35.30533	-98.55784	US	OK
+Earl	34.20176	-96.89779	US	OK
+Township of Earl	34.20009	-97.6642	US	OK
+Earlsboro	35.26757	-96.80335	US	OK
+Township of Earlsboro	35.21952	-96.8003	US	OK
+Eason	35.0148	-97.1303	US	OK
+Township of Eason	34.99174	-97.05863	US	OK
+East Anadarche Arm	34.09982	-97.05973	US	OK
+Township of Eagle	36.4681	-96.85865	US	OK
+Township of East Bressie	36.56949	-96.95865	US	OK
+East Dike	34.7659	-98.95952	US	OK
+East Jesse	34.5812	-96.51223	US	OK
+Township of East McKinley	35.06395	-98.24477	US	OK
+East Junction	35.52644	-98.96453	US	OK
+East Town Village	34.2326	-95.60608	US	OK
+East Tulsa Interchange	36.16871	-95.74943	US	OK
+Township of East Walnut	35.40839	-98.13089	US	OK
+East Tulsa	36.17259	-95.94083	US	OK
+East Yard	35.45562	-97.49726	US	OK
+Eastern Oklahoma Presbyterian	36.15565	-95.94027	US	OK
+Eastern Village	36.13315	-95.83499	US	OK
+Eastland Apostolic Tabernacle	36.14093	-95.84332	US	OK
+Eastland Assembly	36.13315	-95.83888	US	OK
+Eastman	33.98843	-97.26474	US	OK
+Eastport	33.789	-94.48187	US	OK
+Eastside	36.87146	-94.71662	US	OK
+Economy Square	35.43534	-97.56198	US	OK
+Econtuchka	35.40563	-96.78891	US	OK
+Township of Econtuchka	35.31396	-96.68918	US	OK
+Eddy	36.7317	-97.45866	US	OK
+Township of Eden	36.20283	-97.09198	US	OK
+Edgewater Acres	36.44232	-95.62887	US	OK
+Edith	36.80281	-99.21122	US	OK
+Edmond	35.65283	-97.4781	US	OK
+Edmond Sewage Disposal	35.69172	-97.52893	US	OK
+Township of Edmond	35.68616	-97.49615	US	OK
+Edna	35.70398	-96.21056	US	OK
+El Reno	35.53227	-97.95505	US	OK
+El Reno Federal Reformatory	35.53477	-98.00727	US	OK
+Township of El Reno	35.5195	-97.89199	US	OK
+El Tabernaculo Defe	35.43506	-97.55004	US	OK
+Elba	36.40287	-95.67943	US	OK
+Township of Elberta	36.46115	-98.59203	US	OK
+Eldon	35.92814	-94.84023	US	OK
+Eldorado	34.47202	-99.64815	US	OK
+Township of Eldorado	34.48618	-99.68926	US	OK
+Elephant Knob	35.50483	-95.98722	US	OK
+Elgin	34.78035	-98.29227	US	OK
+Eli	35.9876	-95.1894	US	OK
+Elk City	35.41199	-99.40426	US	OK
+Township of Elk	35.44449	-99.43648	US	OK
+Township of Elk	35.51951	-97.19475	US	OK
+Elkhorn Prairie	36.33342	-94.77162	US	OK
+Ellaville	35.10147	-96.80946	US	OK
+Ellerville	36.0312	-94.90218	US	OK
+Elliott	36.9423	-95.62942	US	OK
+Elmer	34.48119	-99.35092	US	OK
+Township of Elmer	34.46119	-99.29759	US	OK
+Elmore City	34.62286	-97.39641	US	OK
+Township of Elmore	34.67369	-97.43641	US	OK
+Emerson Mission	34.36259	-98.42672	US	OK
+Emet	34.20259	-96.54222	US	OK
+Emmanuel Tabernacle Paw	35.55978	-97.53171	US	OK
+Emmanuel Temple of Praise	35.32229	-96.93363	US	OK
+Empire City	34.42036	-98.02698	US	OK
+Empy	36.2223	-96.32001	US	OK
+Emsey	35.76756	-97.02447	US	OK
+England	35.88453	-94.668	US	OK
+England Hollow	35.9487	-94.66189	US	OK
+Emerald Vista Recreation Site	34.71649	-94.67467	US	OK
+Enid	36.39559	-97.87839	US	OK
+Enid Interchange	36.40032	-97.32671	US	OK
+Township of Enid	36.36948	-97.83922	US	OK
+Ennis Knob	34.69063	-98.39533	US	OK
+Enos	33.89455	-96.75389	US	OK
+Enterprise	35.22982	-95.37997	US	OK
+Enville	33.98371	-96.9864	US	OK
+Eola	34.55036	-97.4403	US	OK
+Episcopal Diocese of Oklahoma	35.47645	-97.51643	US	OK
+Episcopal Diocese of Oklahoma	35.43978	-97.55004	US	OK
+Episcopal Diocese of Oklahoma	36.15148	-95.9875	US	OK
+Eram	35.61705	-95.75499	US	OK
+Erick	35.21533	-99.86649	US	OK
+Township of Erick	35.23061	-99.84205	US	OK
+Erie	36.9992	-97.07532	US	OK
+Esau Junction	36.35367	-96.70475	US	OK
+Esplanade Village	35.42395	-97.53143	US	OK
+Estella	36.68481	-95.28719	US	OK
+Eternal Truth Holy Temple	36.19287	-95.97389	US	OK
+Ethel	34.22955	-95.54413	US	OK
+Etna	36.37059	-97.74672	US	OK
+Etowah	35.12702	-97.16891	US	OK
+Eubanks	34.42204	-95.58497	US	OK
+Eucha	36.39203	-94.88301	US	OK
+Eufaula	35.28722	-95.5825	US	OK
+Township of Eufaula	35.31538	-95.56415	US	OK
+Township of Euchee	35.83064	-96.25861	US	OK
+Evangelistic Tabernacle	34.74232	-95.10691	US	OK
+Evangelistic Temple	36.08565	-95.97555	US	OK
+Evans Knob	34.66841	-98.40339	US	OK
+Eureka Valley	35.8551	-95.0819	US	OK
+Eville	34.0051	-96.98723	US	OK
+Evening Shade	35.62454	-94.92856	US	OK
+Township of Excelsior	35.94171	-97.72255	US	OK
+Exhibition Pasture	34.73534	-98.69757	US	OK
+Fair Oaks	36.14815	-95.70859	US	OK
+Fairfax	36.57366	-96.7042	US	OK
+Township of Fairfax	36.57505	-96.55864	US	OK
+Fairland	36.75118	-94.84746	US	OK
+Fairlawn Cemeteries	34.39036	-97.9592	US	OK
+Fairmont	36.35559	-97.70561	US	OK
+Township of Fairmont	36.35281	-97.82533	US	OK
+Fairvalley	36.73559	-99.02454	US	OK
+Fairview	36.26892	-98.4798	US	OK
+Fairview City Wells	36.3267	-98.40396	US	OK
+Fairview Hollow	36.35536	-94.92162	US	OK
+Township of Fairview	36.9278	-97.61977	US	OK
+Township of Fairview	36.24448	-98.4698	US	OK
+Faith Assembly of God	35.36174	-96.87808	US	OK
+Faith Cathedral	34.72119	-97.21697	US	OK
+Faith Christian Fellowship	35.51616	-98.98175	US	OK
+Faith Hope and Love Missionary	35.40645	-97.46504	US	OK
+Faith Manna Bible Mission	35.71899	-96.06472	US	OK
+Faith Tabernacle	35.82731	-94.57605	US	OK
+Faith Tabernacle	34.37315	-96.10916	US	OK
+Faith Tabernacle	35.45839	-97.58254	US	OK
+Faith Tabernacle Association Incorporated	35.45728	-97.5831	US	OK
+Faith Temple	34.74564	-97.21224	US	OK
+Faith Temple Assembly	35.97621	-95.88693	US	OK
+Fame	35.36232	-95.64582	US	OK
+Family Worship Foursquare	33.98815	-96.39055	US	OK
+Fargo	36.37615	-99.62373	US	OK
+Farris	34.2626	-95.86665	US	OK
+Township of Farris	34.30565	-95.8697	US	OK
+Farwell	34.8859	-98.0056	US	OK
+Fat Horse Hollow	35.67037	-94.75856	US	OK
+Fanshawe	34.95093	-94.90829	US	OK
+Fay	35.81338	-98.65786	US	OK
+Faxon	34.45702	-98.57895	US	OK
+Featherston	35.07871	-95.48998	US	OK
+Feigel Point	34.64507	-98.35616	US	OK
+Felker	34.04066	-95.05217	US	OK
+Fellowship of Christ Outreach	35.98954	-95.88666	US	OK
+Fellowship of Christian Students	36.12561	-97.06087	US	OK
+Township of Fern	35.34033	-98.34617	US	OK
+Festival Square	36.15259	-95.98916	US	OK
+Fewell	34.51816	-95.05385	US	OK
+Fidlers Bend	36.17342	-94.72217	US	OK
+Finley	34.32843	-95.49497	US	OK
+Township of Finley	34.4376	-95.25857	US	OK
+Fillmore	34.27426	-96.49611	US	OK
+First Assembly of God	35.9962	-96.11278	US	OK
+First Assembly of God	35.51699	-98.97759	US	OK
+First Assembly of God	34.74203	-97.22141	US	OK
+First Assembly of God	35.0134	-97.95282	US	OK
+First Assembly of God	34.65229	-99.31397	US	OK
+First Assembly of God	36.80031	-97.28977	US	OK
+First Assembly of God	36.73115	-97.06948	US	OK
+First Assembly of God	34.65868	-98.9498	US	OK
+First Assembly of God	35.23871	-94.63494	US	OK
+First Assembly of God	34.5112	-96.95363	US	OK
+First Assembly of God	35.38034	-97.5042	US	OK
+First Assembly of God	35.62483	-95.97416	US	OK
+First Assembly of God	36.31368	-96.47224	US	OK
+First Assembly of God	35.98395	-96.76808	US	OK
+First Assembly of God	36.11116	-97.05753	US	OK
+First Assembly of God	34.77148	-96.67529	US	OK
+First Assembly of God	35.33118	-96.91252	US	OK
+First Assembly of God	36.32232	-95.63554	US	OK
+First Assembly of God	35.46065	-94.79717	US	OK
+First Assembly of God	36.14203	-96.11556	US	OK
+First Assembly of God	35.94315	-95.88055	US	OK
+First Assembly of God	35.15811	-99.17452	US	OK
+Fisher	36.12925	-96.14223	US	OK
+Fisher Bottom	36.14259	-96.16667	US	OK
+Fite	36.72342	-96.07943	US	OK
+Fittstown	34.61481	-96.63445	US	OK
+Fitzhugh	34.66592	-96.77501	US	OK
+Township of Fitzhugh	34.57509	-96.79196	US	OK
+Fivemile Corner	34.36231	-98.22643	US	OK
+Five Mile	36.9834	-94.693	US	OK
+Fivemile Hollow	36.18675	-94.7105	US	OK
+Fivemile Hollow	34.19289	-94.66966	US	OK
+Flagpole Lookout Tower	34.60232	-95.41525	US	OK
+Flashman Lookout Tower	34.47982	-95.00968	US	OK
+Fleetwood	33.89677	-97.85114	US	OK
+Fletcher	34.82312	-98.24422	US	OK
+Flint	36.18731	-94.708	US	OK
+Flora	34.52593	-96.03194	US	OK
+Flusche	35.66788	-95.53553	US	OK
+Flynn	35.40173	-97.48754	US	OK
+Township of Flynn	36.03059	-98.3698	US	OK
+Township of Flynn	36.20837	-97.72255	US	OK
+Fobb	33.91121	-96.84611	US	OK
+Fobb Bottom	33.87094	-96.85723	US	OK
+Fogel	34.70705	-94.4555	US	OK
+Foley	35.68394	-98.84953	US	OK
+Folsom	34.19343	-96.42055	US	OK
+Fonda	36.14754	-98.75898	US	OK
+Township of Foraker	36.91393	-96.55863	US	OK
+Fords	34.81203	-96.62612	US	OK
+Foreman	35.33482	-94.63689	US	OK
+Foraker	36.87226	-96.56557	US	OK
+Fork Handle Hollow	35.61898	-94.573	US	OK
+Forney	34.02982	-95.61969	US	OK
+Forrester	34.87621	-94.53078	US	OK
+Forrester	34.87232	-94.52661	US	OK
+Fort Arbuckle Ruins	34.52768	-97.24863	US	OK
+Fort Cobb	35.09784	-98.43561	US	OK
+Township of Fort Cobb	35.0695	-98.46422	US	OK
+Fort Coffee	35.28926	-94.58439	US	OK
+Fort Coffee Bottom	35.30065	-94.55716	US	OK
+Fort Gibson	35.7976	-95.25052	US	OK
+Fort Gibson Stockade	35.80371	-95.25718	US	OK
+Fort Oakland Indian Tribe Site	36.6742	-97.26338	US	OK
+Fort Sill Apache Tribal Complex	34.9284	-98.35644	US	OK
+Fort Sill National Historic Site	34.66591	-98.382	US	OK
+Fort Supply	36.57365	-99.57234	US	OK
+Fort Towson	34.01872	-95.26634	US	OK
+Fort Washita	34.10287	-96.54639	US	OK
+Forty Foot Hole	34.70479	-98.6834	US	OK
+Forty One	35.29172	-99.29203	US	OK
+Foss	35.45449	-99.16981	US	OK
+Foster	34.61647	-97.48919	US	OK
+Four Corners	36.66586	-97.87589	US	OK
+Four Corners	35.86923	-97.01864	US	OK
+Four Corners	35.44177	-95.91111	US	OK
+Fourche Maline	34.92343	-94.80079	US	OK
+Fourche Maline Arm	34.08899	-97.05057	US	OK
+Fowler	35.50729	-97.05308	US	OK
+Fox	34.3637	-97.49225	US	OK
+Township of Foyil	36.46398	-95.52525	US	OK
+Francis	34.8737	-96.59557	US	OK
+Township of Francis	34.90283	-99.80871	US	OK
+Township of Francis	34.88064	-96.63085	US	OK
+Foyil	36.43482	-95.51942	US	OK
+Frankfort	36.97587	-96.67975	US	OK
+Franklin	35.27646	-97.33559	US	OK
+Franks	34.60648	-96.64279	US	OK
+Frederick	34.39203	-99.01841	US	OK
+Freedom	36.76892	-99.11288	US	OK
+Frey	36.01979	-96.6103	US	OK
+Friendship	34.6959	-99.22897	US	OK
+Frink	34.88426	-95.78944	US	OK
+Frisco	34.64787	-96.5789	US	OK
+Frisco Tank	34.72876	-98.35086	US	OK
+Township of Frisco	33.814	-94.57799	US	OK
+Township of Frisco	35.60561	-97.80866	US	OK
+Frisco Depot	34.60119	-98.39477	US	OK
+Frogville	33.89761	-95.31273	US	OK
+Frost	35.88422	-97.24698	US	OK
+Township of Frye	36.03204	-95.90388	US	OK
+Full Gospel Assembly of God	35.99923	-96.76753	US	OK
+Fulton Arm	34.8159	-98.33005	US	OK
+Gaar Corner	34.79675	-96.86196	US	OK
+Gabriel	35.92843	-95.06496	US	OK
+Gage	36.31559	-99.75762	US	OK
+Gaddy	35.33313	-97.00086	US	OK
+Galcatcher Hollow	36.3587	-94.91829	US	OK
+Township of Galena	36.50837	-98.69203	US	OK
+Gan Hollow	35.64926	-94.71995	US	OK
+Gano	36.01479	-96.75503	US	OK
+Gans	35.38898	-94.69217	US	OK
+Township of Gans	35.40009	-94.70022	US	OK
+Gansel	36.28004	-97.37227	US	OK
+Gap	34.60482	-95.97333	US	OK
+Gap Prairie	35.37621	-95.3208	US	OK
+Garden City	36.11065	-96.00305	US	OK
+Garber	36.43698	-97.58561	US	OK
+Garland	35.31899	-95.05162	US	OK
+Township of Garland	36.36948	-97.942	US	OK
+Township of Garner	34.25843	-96.75584	US	OK
+Garnett	36.18704	-95.82665	US	OK
+Township of Garrett	34.25843	-96.63083	US	OK
+Garretts Bluff	33.89399	-95.75608	US	OK
+Garvin	33.954	-94.94244	US	OK
+Township of Garvey	36.42504	-99.01982	US	OK
+Gary Playground	36.14509	-95.94138	US	OK
+Gas City	34.4498	-98.08698	US	OK
+Gay	33.95344	-95.62135	US	OK
+Geary	35.63116	-98.31729	US	OK
+Gene Autry	34.2837	-97.03807	US	OK
+Township of George	36.72225	-99.68651	US	OK
+Georges Fork	35.51121	-95.24135	US	OK
+Gerlach	36.43587	-99.45261	US	OK
+Geronimo	34.48119	-98.38311	US	OK
+Gerty	34.83676	-96.28973	US	OK
+Ghost Hollow	36.49203	-94.97302	US	OK
+Ghost Hollow	36.30423	-96.54253	US	OK
+Ghost Hollow	36.03423	-96.89336	US	OK
+Ghost Mound	35.40255	-98.6134	US	OK
+Gibbon	36.9428	-97.98228	US	OK
+Gibson	35.87093	-95.35191	US	OK
+Gibson Hollow	35.76315	-95.03329	US	OK
+Gideon	36.00954	-95.03329	US	OK
+Gilbert	36.78975	-97.94756	US	OK
+Gilbert	35.3609	-96.99697	US	OK
+Township of Gibbs	34.43898	-96.8114	US	OK
+Gilland	36.53314	-96.15417	US	OK
+Gilmore	35.05288	-94.523	US	OK
+Glad Tidings Assembly of God	35.33313	-96.93197	US	OK
+Glass Hollow	35.63564	-94.57327	US	OK
+Glencoe	36.22866	-96.92559	US	OK
+Township of Glencoe	36.20283	-96.9642	US	OK
+Glendale	34.92316	-94.70939	US	OK
+Glenoak	36.72814	-95.80887	US	OK
+Glenpool	35.95537	-96.00888	US	OK
+Township of Glenpool	35.93037	-96.00583	US	OK
+Township of Glenrose	36.55282	-97.28643	US	OK
+Glover	34.07039	-94.898	US	OK
+Goats Bluff	34.87593	-94.85662	US	OK
+Gobbler Knob	34.54565	-96.56389	US	OK
+Gobblers Knob	34.76593	-95.12746	US	OK
+Gobblers Knob	34.5626	-94.89023	US	OK
+Gobblers Knob	34.8076	-95.03829	US	OK
+Gobblers Knob	35.72646	-96.7853	US	OK
+Gobblers Knob	34.24927	-94.55133	US	OK
+Gods Tabernacle	36.0037	-96.11944	US	OK
+Going Snake	35.99175	-94.65022	US	OK
+Golden	34.03455	-94.89633	US	OK
+Township of Goldsby	35.1584	-97.5642	US	OK
+Goldville Divide	34.75399	-94.7444	US	OK
+Goltry	36.53253	-98.15173	US	OK
+Good News Fellowship	34.0115	-94.7341	US	OK
+Township of Good	36.7917	-99.52817	US	OK
+Goldsby	35.14118	-97.47698	US	OK
+Goodhope Bottom	36.06788	-95.54303	US	OK
+Goodin Arm	34.81035	-98.3345	US	OK
+Goodland	33.98177	-95.55524	US	OK
+Goodwater	33.91011	-94.57327	US	OK
+Goodnight	35.95144	-97.14059	US	OK
+Goose Neck Bend	36.8862	-95.61137	US	OK
+Gooseneck Bend	35.74315	-95.21968	US	OK
+Gore	35.52926	-95.11718	US	OK
+Gore Landing	35.52315	-95.09579	US	OK
+Township of Gore	36.81114	-97.95312	US	OK
+Gospel Rescue Mission	35.74538	-95.37219	US	OK
+Gospel Tabernacle	35.45288	-95.97666	US	OK
+Goss	34.55093	-95.69137	US	OK
+Gotebo	35.07033	-98.87229	US	OK
+Gould	34.6709	-99.77121	US	OK
+Gowen	34.88149	-95.47692	US	OK
+Township of Gowen	34.88065	-95.4197	US	OK
+Grace Apostolic Temple	36.23231	-95.97805	US	OK
+Grace Family Fellowship	35.28311	-98.98897	US	OK
+Gracemont	35.18839	-98.26061	US	OK
+Township of Gracemont	35.14728	-98.25866	US	OK
+Grady	34.02038	-97.66558	US	OK
+Graham	34.34064	-97.43447	US	OK
+Township of Graham	34.4362	-97.43641	US	OK
+Grainola	36.93726	-96.65058	US	OK
+Grainville	36.84003	-97.22838	US	OK
+Grand Boulevard Assembly	35.42839	-97.52865	US	OK
+Grand Rapids	34.50676	-96.94974	US	OK
+Township of Grand View	35.15839	-98.35311	US	OK
+Township of Grand	35.91949	-99.68372	US	OK
+Grandview Heights	35.71427	-95.36636	US	OK
+Township of Grandview	35.94176	-94.95857	US	OK
+Granite	34.96228	-99.38064	US	OK
+Township of Granite	34.96395	-99.41703	US	OK
+Goodwin	36.19671	-99.93512	US	OK
+Grant	33.94316	-95.51357	US	OK
+Grant Square	35.41951	-97.54671	US	OK
+Township of Grant	35.8556	-99.3226	US	OK
+Township of Grant	36.46392	-97.51977	US	OK
+Township of Grant	35.85004	-97.83644	US	OK
+Grants Gap	34.48509	-96.03527	US	OK
+Grassy Hollow	34.39232	-95.86193	US	OK
+Grassy Hollow	34.36093	-95.86554	US	OK
+Graveyard Bluff	33.95427	-96.9764	US	OK
+Gray	36.13037	-96.08056	US	OK
+Gray Horse	36.54977	-96.64781	US	OK
+Gray Squirrel Hollow	36.03925	-94.73217	US	OK
+Grays Hollow	36.49675	-94.94857	US	OK
+Grayson	35.50316	-95.87277	US	OK
+Township of Grayson	34.15565	-97.81975	US	OK
+Greasy	35.66731	-94.70078	US	OK
+Green	35.97703	-94.62661	US	OK
+Green	36.38593	-95.28941	US	OK
+Green Pastures	35.52228	-97.33587	US	OK
+Township of Green Valley	36.54726	-98.58925	US	OK
+Greenville	34.00732	-97.12585	US	OK
+Greenway Village	36.10593	-95.92388	US	OK
+Greenwood	34.19232	-95.58775	US	OK
+Greenwood Playground	36.16843	-95.98527	US	OK
+Township of Greenwood	36.46948	-99.65873	US	OK
+Greer Downs	34.8895	-99.51815	US	OK
+Gregory	36.17065	-95.57248	US	OK
+Grimes	35.46616	-99.76094	US	OK
+Groundhog Hollow	36.37036	-94.99496	US	OK
+Gulftown	35.45649	-95.91111	US	OK
+Gulf Junction	34.72897	-97.20336	US	OK
+Guthrie	35.87894	-97.42532	US	OK
+Township of Guthrie	35.88338	-97.40865	US	OK
+Gypsy	35.71174	-96.45945	US	OK
+Township of Hackberry	36.28615	-97.83644	US	OK
+Township of Haddon	36.02782	-99.07816	US	OK
+Hail Hollow	36.35731	-94.90412	US	OK
+Haileyville	34.85454	-95.5822	US	OK
+Township of Hale	34.97784	-98.46422	US	OK
+Township of Halford	34.0626	-96.90862	US	OK
+Hamden	34.14232	-95.56663	US	OK
+Township of Hamilton	35.68343	-96.04194	US	OK
+Hamlin Hollow	35.6812	-94.76939	US	OK
+Hammon	35.63283	-99.38177	US	OK
+Hammon Junction	35.65616	-99.37538	US	OK
+Hancock Bend	36.84175	-95.54664	US	OK
+Hanna	35.2051	-95.89028	US	OK
+Township of Hanna	35.20704	-95.92528	US	OK
+Township of Hanraty	34.50843	-96.15861	US	OK
+Hanson	35.43454	-94.69883	US	OK
+Township of Hanson	35.44176	-94.71689	US	OK
+Happy Hollow	34.52482	-95.74637	US	OK
+Happy Hollow	33.89232	-96.70861	US	OK
+Happy Hollow	36.55367	-96.41057	US	OK
+Happyland	34.79675	-96.54945	US	OK
+Harden City	34.60731	-96.59973	US	OK
+Hardwood	34.44037	-96.39194	US	OK
+Hardy	36.97087	-96.79836	US	OK
+Harjo	35.21341	-96.8278	US	OK
+Harmon	36.14476	-99.56039	US	OK
+Harmony Star	36.3076	-95.47109	US	OK
+Harrah	35.48951	-97.16364	US	OK
+Township of Harper	36.0306	-98.68925	US	OK
+Harris Bend	33.72233	-94.74577	US	OK
+Harris	33.75039	-94.7291	US	OK
+Township of Harris	35.70843	-95.29191	US	OK
+Township of Harris	34.43759	-96.67251	US	OK
+Harrisburg	34.43481	-97.78975	US	OK
+Harrison	35.42009	-94.86745	US	OK
+Township of Harrison	35.8556	-99.01426	US	OK
+Township of Harrison	34.7223	-97.7142	US	OK
+Township of Harrison	35.77227	-97.93922	US	OK
+Township of Harrison	35.0445	-98.84201	US	OK
+Hartshorne	34.8451	-95.55748	US	OK
+Township of Hartzell	35.59589	-97.3642	US	OK
+Harvard Village	36.12537	-95.93999	US	OK
+Harvest Time Tabernacle	36.87618	-94.87746	US	OK
+Harvestime Assembly of God	36.80564	-95.93582	US	OK
+Hasenbach Arm	34.7959	-98.337	US	OK
+Haskell	35.82038	-95.67415	US	OK
+Township of Haskell	34.64454	-96.19472	US	OK
+Township of Haskell	34.37092	-98.79479	US	OK
+Hastings	34.22676	-98.11004	US	OK
+Hastings Hollow	35.62509	-94.80884	US	OK
+Hart	34.71425	-96.91724	US	OK
+Hatchetville	34.94201	-98.44395	US	OK
+Hawley	36.75308	-98.01923	US	OK
+Haworth	33.8465	-94.65271	US	OK
+Haworth Tower	33.80178	-94.66743	US	OK
+Hay Hollow	36.88702	-96.06415	US	OK
+Haydenville	35.59537	-96.26361	US	OK
+Hayrick Mound	36.95702	-95.38386	US	OK
+The Haystack	35.072	-99.59732	US	OK
+Haywood	34.88732	-95.94833	US	OK
+Hazel Dell	35.44896	-97.0003	US	OK
+Township of Hazel	34.38064	-99.04758	US	OK
+Hazelnut Hollow	36.21425	-94.6655	US	OK
+Hayward	36.27781	-97.51255	US	OK
+Township of Hazlie	36.02785	-96.38084	US	OK
+Township of Headrick	34.59452	-99.18092	US	OK
+Healdton	34.23315	-97.4878	US	OK
+Headrick	34.62757	-99.13814	US	OK
+Heavener	34.88927	-94.60078	US	OK
+Heavener	34.87121	-94.603	US	OK
+Township of Heavener	34.90288	-94.56134	US	OK
+Hectorville	35.84204	-95.92527	US	OK
+Township of Helena	36.53614	-98.26979	US	OK
+Helena	36.54614	-98.27007	US	OK
+Hells Hollow	34.75843	-94.91773	US	OK
+Hendrix	33.77371	-96.40582	US	OK
+Hennepin	34.50897	-97.34697	US	OK
+Hennessey	36.1092	-97.89867	US	OK
+Township of Henry	35.41955	-95.9475	US	OK
+Township of Henry	36.10283	-96.96975	US	OK
+Henryetta	35.43983	-95.98194	US	OK
+Herd	36.86451	-96.20083	US	OK
+Herring	35.61005	-99.51788	US	OK
+Hess	34.4648	-99.27231	US	OK
+Hester	34.80117	-99.43342	US	OK
+Hewitt	34.16898	-97.40474	US	OK
+Township of Hewitt	34.1862	-97.43641	US	OK
+Hext	35.24755	-99.75288	US	OK
+Heyburn	35.9123	-96.28389	US	OK
+Heyls Hole	34.69007	-98.44061	US	OK
+Hiawatha	34.8926	-94.46717	US	OK
+Hibsaw	35.70367	-97.14087	US	OK
+Hickory	34.55676	-96.86029	US	OK
+Hiawana Prairie	34.41343	-95.95638	US	OK
+Hickory Hollow	36.34648	-95.73054	US	OK
+Township of Hickory	34.02926	-97.15862	US	OK
+Township of Hickory	36.92508	-95.68359	US	OK
+Township of Hickory	36.9278	-97.73922	US	OK
+Hickory Point	36.64202	-94.79468	US	OK
+Hider Hollow	36.35342	-94.88995	US	OK
+Higgins	34.81149	-95.43359	US	OK
+High Point	34.84538	-94.84551	US	OK
+High Top	34.7851	-95.20441	US	OK
+High Top	34.57232	-94.76356	US	OK
+Township of Highland	34.97784	-98.36422	US	OK
+Hightower	34.63063	-99.2537	US	OK
+Highway 9 Landing	35.2401	-95.49248	US	OK
+Hinton	35.47144	-98.35562	US	OK
+Hinton Hollow	35.99565	-95.20218	US	OK
+Hinkle	34.4498	-99.00952	US	OK
+Hird	34.81064	-96.65196	US	OK
+Hisaw Bottom	35.44204	-95.05718	US	OK
+Hisle	36.47676	-95.47636	US	OK
+Hitchcock	35.96893	-98.34841	US	OK
+Hitchita	35.51982	-95.75138	US	OK
+Hiway Tabernacle	34.88842	-96.88669	US	OK
+Hocker	35.29005	-99.47398	US	OK
+Hochatown	34.15233	-94.75272	US	OK
+Hoffman	35.48927	-95.84277	US	OK
+Hodgen	34.84177	-94.63134	US	OK
+Hog Hollow	36.06173	-96.84614	US	OK
+Hog Pen Public Access	36.94256	-96.17999	US	OK
+Township of Hogan	36.30009	-95.32525	US	OK
+Hogeye Hollow	34.6801	-95.59915	US	OK
+Hogshooter Bluff	36.09925	-94.79217	US	OK
+Hogshooter	36.6987	-95.85443	US	OK
+Hogskin Hollow	36.10621	-95.18552	US	OK
+Holdenville	35.08036	-96.39918	US	OK
+Holdenville State Fish Hatchery	35.02675	-96.37279	US	OK
+Hollis	34.68839	-99.91205	US	OK
+Holiday Square	35.45395	-97.40698	US	OK
+Township of Hollis	34.68062	-99.94482	US	OK
+Hollister	34.34231	-98.8709	US	OK
+Hollow	36.88758	-95.26997	US	OK
+Hollywood Corners	35.27645	-97.44142	US	OK
+Township of Holton	34.46813	-98.80868	US	OK
+Holy Family Cathedral	36.14787	-95.99	US	OK
+Holy Land Temple	35.53645	-97.34503	US	OK
+Hominy	36.41424	-96.3953	US	OK
+Township of Hominy	36.43896	-96.4253	US	OK
+Honobia	34.53899	-94.93745	US	OK
+Hontubby	34.85038	-94.56606	US	OK
+Hooper	34.15926	-98.17393	US	OK
+Hoot Owl	36.35981	-95.12135	US	OK
+Hoot Owl Hollow	35.69509	-94.58633	US	OK
+Hoot Owl Hollow	35.95868	-96.43779	US	OK
+Hoot Owl Hollow	35.82177	-95.97333	US	OK
+Hoover	34.5212	-97.24724	US	OK
+Hope	34.56897	-97.8367	US	OK
+Township of Hope	34.59452	-97.68642	US	OK
+Hopeton	36.68809	-98.66592	US	OK
+Township of Hopeton	36.63892	-98.69759	US	OK
+Hopewell	34.23342	-96.37305	US	OK
+Township of Hopewell	36.1056	-99.90873	US	OK
+Township of Hopping	34.8973	-97.21419	US	OK
+Horntown	35.08703	-96.24778	US	OK
+Horseshoe Bend	36.7623	-96.13805	US	OK
+Horseshoe Bend	35.96816	-95.56331	US	OK
+Horseshoe Bend	36.28148	-95.95	US	OK
+Township of Houston	34.78621	-94.68912	US	OK
+Howard	36.49537	-95.45886	US	OK
+Howe	34.95121	-94.63717	US	OK
+Township of Howe	34.94732	-94.67523	US	OK
+Hoyt	35.27176	-95.30219	US	OK
+Huckleberry Hollow	35.05732	-95.08885	US	OK
+Hucmac	36.05754	-98.7962	US	OK
+Hudlow Hollow	34.8562	-96.00416	US	OK
+Huff Landing Strip	36.03282	-98.01311	US	OK
+Hughes	34.94927	-94.9719	US	OK
+Hugo	34.01066	-95.50968	US	OK
+Hugo Interchange	34.02538	-95.54691	US	OK
+Hulah	36.92868	-96.03526	US	OK
+Hulbert	35.9326	-95.14135	US	OK
+Township of Hulbert	35.92788	-95.19052	US	OK
+Hulen	34.50397	-98.22143	US	OK
+Township of Hulen	34.55008	-98.22949	US	OK
+Township of Hulen	34.47508	-98.20865	US	OK
+Hulwe	36.60175	-95.17247	US	OK
+Hummel Knoll	34.69507	-98.40728	US	OK
+Humphreys	34.55591	-99.23731	US	OK
+Hughart	35.2026	-95.29636	US	OK
+Township of Hunter	33.95843	-95.81275	US	OK
+Township of Hunter	34.56535	-98.95869	US	OK
+Huntley	34.99729	-98.27116	US	OK
+Hunter	36.56364	-97.66116	US	OK
+Huskey	33.94594	-95.27829	US	OK
+Hutchinson Landing Strip	35.69922	-98.73508	US	OK
+Hy 10 Landing	35.61537	-95.17691	US	OK
+Hydro	35.5495	-98.57813	US	OK
+Township of Hydro	35.50561	-98.57535	US	OK
+I-See-O Tank	34.70422	-98.31503	US	OK
+IXL	35.52258	-96.38834	US	OK
+Iconium	35.86922	-97.18781	US	OK
+Idabel	33.89566	-94.82633	US	OK
+Immanuel Fellowship	35.22119	-96.67141	US	OK
+Immanuel Fellowship	35.22646	-96.6703	US	OK
+Imo	36.35392	-97.97784	US	OK
+Impson Valley	34.31204	-95.73942	US	OK
+Independence	34.88399	-94.68189	US	OK
+Indiahoma	34.61979	-98.75146	US	OK
+Indiahoma Wye	34.69562	-98.70534	US	OK
+Township of Indiahoma	34.59452	-98.77257	US	OK
+Indian City	35.03728	-98.22588	US	OK
+Independence	35.72505	-98.9337	US	OK
+Indian Mission	36.04315	-96.09694	US	OK
+Indian Mission	34.44788	-94.62578	US	OK
+Indian Mission	35.72316	-95.98083	US	OK
+Indian Village	36.41063	-96.38502	US	OK
+Township of Indian	35.97507	-96.66141	US	OK
+Indianapolis	35.55144	-98.86258	US	OK
+Indianola	35.16288	-95.77472	US	OK
+Indogco	35.17674	-96.56613	US	OK
+Indonesian Full Gospel Fellowship	36.12033	-97.03365	US	OK
+Ingalls	36.10172	-96.88142	US	OK
+Ingersoll	36.79642	-98.3948	US	OK
+Ingram	35.70645	-97.08503	US	OK
+Inola	36.15121	-95.50942	US	OK
+Township of Inola	36.14065	-95.52081	US	OK
+Interchange 128B	35.53561	-97.49476	US	OK
+Interchange 129	35.53673	-97.48532	US	OK
+Interchange 130	35.50784	-97.46059	US	OK
+Interchange 130	35.54034	-97.46143	US	OK
+Interchange 132A	35.52228	-97.46004	US	OK
+Interchange 134	35.55284	-97.45643	US	OK
+Interchange 135	35.56589	-97.4517	US	OK
+Interchange 136	35.58034	-97.44282	US	OK
+Interchange 137	35.59478	-97.43309	US	OK
+Interchange 138A	35.60117	-97.43032	US	OK
+Interchange 138B	35.61256	-97.42532	US	OK
+Interchange 139	35.62367	-97.42532	US	OK
+Interchange 278	35.4776	-95.31108	US	OK
+International Word Fellowship	36.19149	-95.34636	US	OK
+Iona	34.61703	-97.02974	US	OK
+Township of Iowa	35.88617	-97.09198	US	OK
+Township of Iowa	35.77506	-97.19198	US	OK
+Township of Iron Mound	35.85005	-97.53088	US	OK
+Iron Post	35.72647	-96.40556	US	OK
+Iron Post	36.15815	-95.14135	US	OK
+Iron Stob Corner	33.89566	-94.94744	US	OK
+Irving	34.04232	-98.05309	US	OK
+Township of Irwin	36.20282	-99.49206	US	OK
+Isabella	36.23559	-98.34007	US	OK
+Isles' End Cove	36.57397	-94.85801	US	OK
+Ituna	36.48309	-97.96951	US	OK
+Township of Ivanhoe	36.28059	-99.9254	US	OK
+Jacks	36.04448	-97.9095	US	OK
+Jackson Prairie	36.86479	-94.67078	US	OK
+Township of Jackson	36.72787	-95.89887	US	OK
+Township of Jackson	34.72232	-96.24195	US	OK
+Township of Jackson	34.33064	-98.44755	US	OK
+Jacktown	35.50701	-97.00058	US	OK
+Jacob Hollow	34.3801	-95.77665	US	OK
+Jadie Lookout	33.90789	-94.52215	US	OK
+James A Manning State Fish Hatchery	34.71868	-98.49145	US	OK
+James Arthur Manning State Fish Hatchery	34.7209	-98.49172	US	OK
+James Fork	35.16306	-94.64472	US	OK
+Jamestown	36.56954	-95.62998	US	OK
+Jamesville	35.7551	-95.64054	US	OK
+Township of Jacobs	35.07092	-96.31417	US	OK
+Township of Jarvis	36.92503	-97.83922	US	OK
+Jasper	34.0276	-95.74747	US	OK
+Jay	36.42119	-94.7969	US	OK
+Jean	35.92703	-96.23667	US	OK
+Jaydee	34.75287	-96.43917	US	OK
+Jefferson	36.72059	-97.79061	US	OK
+Township of Jefferson	36.89508	-95.88998	US	OK
+Township of Jefferson	35.23062	-98.13088	US	OK
+Township of Jefferson	34.57648	-96.35583	US	OK
+Township of Jefferson	34.1862	-98.45589	US	OK
+Township of Jefferson	36.46948	-99.9254	US	OK
+Township of Jefferson	36.91947	-98.8087	US	OK
+Township of Jefferson	36.2806	-99.44205	US	OK
+Jehovahs Witnesses	35.91677	-95.88666	US	OK
+Jehovahs Witnesses East Congregation	34.59396	-98.35588	US	OK
+Jenks	36.02287	-95.96833	US	OK
+Jenks Levee	36.0176	-95.97305	US	OK
+Township of Jenks	36.0251	-95.99361	US	OK
+Jennings	36.18118	-96.56975	US	OK
+Jesse	34.58204	-96.52973	US	OK
+Township of Jester	34.97783	-99.81427	US	OK
+Jet	36.66614	-98.18118	US	OK
+Township of Jeter	34.00844	-95.59191	US	OK
+Jester	35.00922	-99.6951	US	OK
+Jim Brown Hollow	35.87954	-95.14524	US	OK
+Jobes	36.43894	-96.72087	US	OK
+Jimtown	33.86205	-97.36946	US	OK
+John Watie Hollow	35.64731	-94.59328	US	OK
+Johns Valley	34.4651	-95.61359	US	OK
+Johnson	35.40563	-96.84169	US	OK
+Johnson Hollow	36.53425	-94.93413	US	OK
+Township of Johnson	35.21118	-97.61976	US	OK
+Township of Johnson	36.11671	-99.31427	US	OK
+Johnsonville	34.89563	-97.05363	US	OK
+Jollyville	34.46064	-97.1303	US	OK
+Jonah	36.44448	-97.94895	US	OK
+Jones	35.56589	-97.28698	US	OK
+Township of Jones	36.42504	-98.81426	US	OK
+Township of Jordan Valley	36.27229	-96.45863	US	OK
+Joy	34.5937	-97.14224	US	OK
+Jubys	36.20369	-96.28446	US	OK
+Jumbo	34.44538	-95.73553	US	OK
+Justice	36.29287	-95.56664	US	OK
+KAEZ	35.49006	-97.43781	US	OK
+KCNN Radio Tower	35.49923	-97.51615	US	OK
+KEBC Radio Tower	35.41506	-97.51004	US	OK
+KEMC	35.56034	-97.48559	US	OK
+KFSA Radio Tower	35.3912	-94.47022	US	OK
+KGCV	35.46617	-97.48087	US	OK
+KJIL Radio Tower	35.49811	-97.62004	US	OK
+KLCO	35.01871	-94.6555	US	OK
+KRMC Radio Towers	35.39756	-97.45115	US	OK
+KTEN	34.90175	-96.67724	US	OK
+KTVY	35.52617	-97.48948	US	OK
+Kadashan Bottom	35.91371	-95.74776	US	OK
+Kale Dick Hollow	35.81232	-95.1369	US	OK
+Kansas	36.20509	-94.79773	US	OK
+Karns	35.62394	-98.22478	US	OK
+Township of Karoma	36.53614	-98.15868	US	OK
+Katie	34.57953	-97.35225	US	OK
+Kaw City	36.76031	-96.83337	US	OK
+Township of Kaw	36.83615	-96.82531	US	OK
+Keefton	35.58982	-95.33941	US	OK
+Keener Knob	35.94121	-95.08663	US	OK
+Keetonville	36.30649	-95.70832	US	OK
+Keith	36.09177	-95.46469	US	OK
+Township of Keith	36.89725	-98.47535	US	OK
+Kellond	34.26371	-95.64025	US	OK
+Keenan	36.27587	-99.56956	US	OK
+Kellyville	35.9437	-96.21361	US	OK
+Kellyville	36.75868	-94.69828	US	OK
+Township of Kellyville	36.00036	-96.25056	US	OK
+Township of Kellyville	35.96119	-96.24195	US	OK
+Kelso	36.70564	-95.10997	US	OK
+Kemp	33.76955	-96.35415	US	OK
+Township of Kemp	33.78343	-96.31137	US	OK
+Kendrick	35.78479	-96.77808	US	OK
+Kenefic	34.14815	-96.36221	US	OK
+Kengle	36.13648	-96.05139	US	OK
+Kennady	35.01454	-94.76106	US	OK
+Township of Kennady	35.06399	-94.82523	US	OK
+Kennedy Hollow	34.44732	-95.93471	US	OK
+Township of Kennedy	35.77227	-98.58091	US	OK
+Kent	34.11316	-95.62302	US	OK
+Kenwood	36.31453	-94.98579	US	OK
+Keota	35.25565	-94.92162	US	OK
+Township of Keowee	36.55003	-97.942	US	OK
+Ketchum	36.52453	-95.02385	US	OK
+Key West	35.70563	-96.62668	US	OK
+Keys	35.79815	-94.96773	US	OK
+Kiamichi	34.63538	-95.17885	US	OK
+Township of Kiamichi	34.28205	-95.29468	US	OK
+Kickapoo Mission	35.46395	-97.08642	US	OK
+Township of Kickapoo	35.5209	-97.0892	US	OK
+Kickingbird Square	35.53339	-97.55615	US	OK
+Kiersey	34.00565	-96.46555	US	OK
+Kiheki	36.67313	-96.21583	US	OK
+Kildare	36.80976	-97.0492	US	OK
+Township of Kildare	36.81115	-97.08921	US	OK
+Kill Hollow	36.14314	-94.6955	US	OK
+Kiefer	35.94482	-96.06528	US	OK
+Township of King	34.46953	-97.83087	US	OK
+Kingfisher	35.86143	-97.93172	US	OK
+King Hollow	34.75704	-96.14417	US	OK
+Kingfisher Hollow	36.08787	-95.0319	US	OK
+Township of Kingfisher	35.84727	-97.95311	US	OK
+Kingston	33.99871	-96.71972	US	OK
+Kinta	35.11926	-95.23775	US	OK
+Kiowa	34.72065	-95.89916	US	OK
+Township of Kiowa	34.73065	-95.94194	US	OK
+Township of Kiowa	36.81114	-99.93096	US	OK
+Township of Kiowa	35.57783	-99.45315	US	OK
+Township of Kirk	33.94039	-94.96689	US	OK
+Kolb Landing Strip	35.47061	-99.02259	US	OK
+Komalty	35.04756	-98.99035	US	OK
+Konawa	34.95953	-96.7528	US	OK
+Township of Konawa	34.97508	-96.69196	US	OK
+Kosoma	34.34843	-95.61303	US	OK
+Township of Kosoma	34.42232	-95.67525	US	OK
+Krebs	34.92787	-95.71582	US	OK
+Kremlin	36.54725	-97.83145	US	OK
+Township of Kremlin	36.54725	-97.81978	US	OK
+Krittenbrink Landing Strip	36.72031	-97.75755	US	OK
+Kullituklo	33.85205	-94.72216	US	OK
+Township of Kully Chaha	35.08343	-94.53356	US	OK
+Kusa	35.44927	-95.92416	US	OK
+Lacey	36.11615	-98.08617	US	OK
+Township of Lacey	36.10837	-98.04756	US	OK
+Laden	35.7176	-96.0475	US	OK
+Lafayette	35.17399	-95.10357	US	OK
+Township of Lagoon	36.20284	-96.65864	US	OK
+Lahoma	36.38753	-98.08979	US	OK
+Lamar	35.09954	-96.1275	US	OK
+Lamberson	34.79482	-95.01357	US	OK
+Lambert	36.68309	-98.42313	US	OK
+Lamey Slash	34.17121	-95.78609	US	OK
+Lamont	36.69059	-97.55644	US	OK
+Township of Lamont	36.72225	-97.51977	US	OK
+Lancaster Hollow	35.04482	-95.0444	US	OK
+Lane	34.29871	-95.98804	US	OK
+Lane Hollow	36.35703	-94.88051	US	OK
+Landing Strip Fifteen	34.70979	-98.43561	US	OK
+Langley	36.46397	-95.04774	US	OK
+Langston	35.94505	-97.25531	US	OK
+Lanes Bluff	36.35425	-94.87218	US	OK
+Lasley Landing Strip	35.35867	-98.57062	US	OK
+Last Chance	35.53675	-96.26445	US	OK
+Latham	35.12343	-94.80551	US	OK
+Latimer Playground	36.16982	-95.97333	US	OK
+Latta	34.74703	-96.70585	US	OK
+Laurenwood Square	36.04315	-95.81665	US	OK
+Laverne	36.70975	-99.89346	US	OK
+Township of Laverne	36.72503	-99.93096	US	OK
+Laverty	34.99062	-98.07532	US	OK
+Lawhead Hollow	36.49675	-94.96246	US	OK
+Lark	33.85094	-96.74472	US	OK
+Lawrence	34.68648	-96.73307	US	OK
+Lawrence Landing Strip	35.12117	-98.5295	US	OK
+Township of Lawrence	34.55285	-98.45867	US	OK
+Lawrie	35.95671	-97.42337	US	OK
+Lawton	34.60869	-98.39033	US	OK
+Lawton Baptist Tabernacle	34.62063	-98.46839	US	OK
+Lawton Downs	34.58424	-98.31227	US	OK
+Township of Lawton	35.94171	-98.36979	US	OK
+Township of Lawton	34.67507	-98.43644	US	OK
+Lawtonka Acres	34.7784	-98.53173	US	OK
+Township of LeBron	36.11393	-97.50866	US	OK
+Leach	36.20481	-94.92245	US	OK
+Township of Lawrie	35.94171	-97.40865	US	OK
+Leader	34.72898	-96.47723	US	OK
+Leander	36.22313	-96.30612	US	OK
+Leatherbury Landing Strip	34.79451	-98.48728	US	OK
+Lebanon	33.98232	-96.90778	US	OK
+Lebow Hollow	34.16483	-94.91661	US	OK
+Lee Heights	33.99593	-96.34888	US	OK
+Leedey	35.87005	-99.34677	US	OK
+Township of Leeper	34.59314	-96.95863	US	OK
+Leflore	34.89871	-94.98024	US	OK
+Lecox	35.40228	-97.65032	US	OK
+Lehigh	34.46926	-96.21639	US	OK
+Lela	36.31894	-96.92448	US	OK
+Leliaetta	36.01732	-95.36802	US	OK
+Lenapah	36.85064	-95.63609	US	OK
+Township of Lenapah	36.81509	-95.68359	US	OK
+Lenna	35.37649	-95.76944	US	OK
+Lenora	36.04115	-99.06204	US	OK
+Lenox	34.69566	-94.82467	US	OK
+Leon	33.87927	-97.42919	US	OK
+Leonard	35.92038	-95.79943	US	OK
+Leonel	35.99115	-98.65314	US	OK
+Lep	36.79059	-96.72503	US	OK
+Lequire	35.10454	-95.10746	US	OK
+Leroy	36.21036	-96.25696	US	OK
+Township of Lester	35.51399	-96.13083	US	OK
+Letitia	34.57952	-98.21171	US	OK
+Township of Lewis	34.34176	-96.18638	US	OK
+Lewisville	35.1201	-95.27691	US	OK
+Lexington	35.01479	-97.33558	US	OK
+Township of Lexington	35.04868	-97.30864	US	OK
+Liberty	33.73621	-96.34276	US	OK
+Liberty	36.07481	-94.98079	US	OK
+Liberty	35.47759	-94.54244	US	OK
+Liberty	34.44925	-97.96476	US	OK
+Liberty	35.85871	-95.97749	US	OK
+Township of Liberty	35.25423	-97.54754	US	OK
+Township of Liberty	35.38065	-95.00301	US	OK
+Township of Liberty	35.94171	-98.58369	US	OK
+Township of Liberty	36.72225	-97.73089	US	OK
+Township of Liberty	36.28617	-96.85865	US	OK
+Township of Liberty	36.72225	-98.7087	US	OK
+Township of Liberty	36.43615	-99.10871	US	OK
+Life Tabernacle	35.43812	-97.54865	US	OK
+Lige	34.6584	-99.01869	US	OK
+Light Through the Gospel	35.95561	-97.23754	US	OK
+Lima	35.17397	-96.59974	US	OK
+Lily of the Valley Cogic	35.5595	-97.3417	US	OK
+Limestone	36.31593	-95.74915	US	OK
+Limestone Draw	36.79703	-95.8922	US	OK
+Limestone Gap	34.60065	-95.97138	US	OK
+Limestone Hollow	35.81315	-95.15357	US	OK
+Lincoln	34.49396	-99.76037	US	OK
+Township of Lincoln	35.69728	-97.36698	US	OK
+Township of Lincoln	36.72781	-98.33646	US	OK
+Township of Lincoln	35.77504	-98.31423	US	OK
+Township of Lincoln	35.15839	-98.13088	US	OK
+Township of Lincoln	34.55008	-98.35311	US	OK
+Township of Lincoln	36.11393	-98.68925	US	OK
+Township of Lincoln	36.38059	-97.61977	US	OK
+Township of Lincoln	35.41954	-96.15584	US	OK
+Township of Lincoln	35.22508	-96.55863	US	OK
+Lincolnville	36.94368	-94.75717	US	OK
+Lindley	36.20615	-98.23285	US	OK
+Lindsay	34.8348	-97.60253	US	OK
+Township of Lindsay	34.79174	-97.5642	US	OK
+Lions Cove	35.62732	-96.07861	US	OK
+Lions Point	35.62454	-96.07528	US	OK
+Lipe Mound	36.41371	-95.63998	US	OK
+Little	35.34813	-96.67196	US	OK
+Little Baldy	34.71201	-98.64701	US	OK
+Little Axe	35.23257	-97.21253	US	OK
+Little Beaver Hollow	36.33925	-94.86356	US	OK
+Little Chief	36.66588	-96.64031	US	OK
+Little City	34.08621	-96.61611	US	OK
+Little Fourche Maline	34.91232	-95.15802	US	OK
+Little High Top	34.76177	-95.24358	US	OK
+Little Jim Mission	35.24035	-97.21336	US	OK
+Little Knob	35.21343	-95.30358	US	OK
+Township of Little Robe	36.06393	-98.79204	US	OK
+Township of Little Robe	35.97782	-99.94206	US	OK
+Township of Little	36.92781	-99.54206	US	OK
+Living Water Teaching	36.03732	-95.81665	US	OK
+Loco	34.32925	-97.68114	US	OK
+Township of Loco	34.34453	-97.63086	US	OK
+Locust Playground	36.14287	-95.98305	US	OK
+Logan Hollow	34.44454	-95.6222	US	OK
+Lodi	35.00926	-95.04218	US	OK
+Township of Logan	35.64172	-98.53091	US	OK
+Township of Logan	36.38059	-98.04756	US	OK
+Township of Logan	35.85282	-97.72255	US	OK
+Lona Valley	35.14121	-95.27386	US	OK
+Township of Lone Mound	35.4195	-98.46423	US	OK
+Lone Oak	35.39065	-94.54883	US	OK
+Lone Pine	34.18899	-95.81442	US	OK
+Lone Prairie Lookout Tower	36.26258	-94.7755	US	OK
+Township of Lone Star	36.03066	-95.70859	US	OK
+London Square	36.07982	-95.95861	US	OK
+Long	35.49759	-94.58466	US	OK
+Lone Wolf	34.9895	-99.24952	US	OK
+Long Boggs Hollow	34.76066	-95.27553	US	OK
+Long Mound	36.47232	-95.60553	US	OK
+Long Prairie	34.9151	-95.10163	US	OK
+Township of Long	35.56398	-94.54188	US	OK
+Township of Long	35.61949	-98.58368	US	OK
+Longdale	36.13337	-98.55064	US	OK
+Longtown	35.24538	-95.51276	US	OK
+Township of Longwood	36.72504	-96.9642	US	OK
+Lookeba	35.36283	-98.367	US	OK
+Lookout	36.93697	-99.27678	US	OK
+Lookout Point	36.73091	-96.1825	US	OK
+Lost City	35.98787	-95.13635	US	OK
+Township of Looney	34.63062	-99.71426	US	OK
+Lotsee	36.13342	-96.20945	US	OK
+Louis	34.56535	-99.80149	US	OK
+Love Joy and Peace Incorporated	36.03177	-95.82749	US	OK
+Love of God Tabernacle	35.44673	-97.50754	US	OK
+Lovedale	36.76725	-99.39205	US	OK
+Loveland	34.30536	-98.77173	US	OK
+Township of Loveland	34.28342	-98.7809	US	OK
+Lovell	36.05698	-97.63533	US	OK
+Loves Valley	33.87899	-97.01556	US	OK
+Loving	34.86705	-94.47994	US	OK
+Low Gap	34.51454	-95.68109	US	OK
+Township of Lowe	36.92225	-97.29199	US	OK
+Township of Lowe	36.20282	-97.41421	US	OK
+Township of Lowrance	34.46815	-96.94196	US	OK
+Lowrey	36.09814	-94.92218	US	OK
+Loyal	35.97115	-98.1209	US	OK
+Lucien	36.27476	-97.45477	US	OK
+Township of Lucile	34.97785	-97.83365	US	OK
+Lugert	34.89589	-99.27536	US	OK
+Ludlow	34.53621	-94.85078	US	OK
+Lula	34.70065	-96.43223	US	OK
+Lundy Divide	34.7976	-94.67912	US	OK
+Lusta	36.2426	-95.33719	US	OK
+Luther	35.66173	-97.19559	US	OK
+Township of Luther	35.682	-97.19475	US	OK
+Lutie	34.92343	-95.26191	US	OK
+Lyman	36.84031	-96.74336	US	OK
+Township of Lynn Lane	36.11176	-95.79193	US	OK
+Township of Lynn	35.77227	-97.83644	US	OK
+Lynn Lane	36.14788	-95.77971	US	OK
+Lyons	35.7512	-94.71106	US	OK
+Macarthurs Square	35.52256	-97.61699	US	OK
+Township of Machire	35.21538	-95.29191	US	OK
+Mackie	35.68616	-99.79455	US	OK
+Macomb	35.14674	-97.00891	US	OK
+Macomb-Y	35.14646	-96.92669	US	OK
+Madge	34.90033	-99.95844	US	OK
+Madill	34.09038	-96.77167	US	OK
+Township of Madison	36.5612	-95.93832	US	OK
+Township of Madge	34.93061	-99.94205	US	OK
+Maguire	35.13118	-97.30003	US	OK
+Mail Hollow	35.91815	-94.9294	US	OK
+Manar Landing Strip	34.8884	-98.34061	US	OK
+Township of Manchester	36.92503	-98.05867	US	OK
+Manes Hollow	35.84454	-94.91356	US	OK
+Manchester	36.99391	-98.03756	US	OK
+Mangum	34.872	-99.50426	US	OK
+Township of Mangum	34.93895	-99.53092	US	OK
+Manitou	34.50758	-98.98341	US	OK
+Mann Arm	34.83423	-98.37283	US	OK
+Mannford	36.13341	-96.35446	US	OK
+Township of Mannford	36.10563	-96.42529	US	OK
+Mannsville	34.18593	-96.88056	US	OK
+Maple	35.47148	-94.62661	US	OK
+Township of Maple	35.49172	-98.14755	US	OK
+Township of Maquire	34.46397	-99.05869	US	OK
+Maramec	36.24201	-96.68031	US	OK
+Marble City	35.58037	-94.82106	US	OK
+Township of Mangan	34.46952	-98.57534	US	OK
+Township of Marble	35.58343	-94.83356	US	OK
+Marietta	35.84342	-94.658	US	OK
+Marietta	33.93704	-97.11668	US	OK
+Marina Cove	35.17339	-98.44617	US	OK
+Township of Marion	36.11393	-99.00871	US	OK
+Market Square	36.89674	-94.87773	US	OK
+Market Square	36.06038	-95.79915	US	OK
+Markham	36.06118	-96.60752	US	OK
+Marland	36.56087	-97.15115	US	OK
+Marlow	34.64813	-97.95809	US	OK
+Marlow	34.59036	-97.95587	US	OK
+Marsden	34.05565	-97.19557	US	OK
+Martha	34.72534	-99.38703	US	OK
+Township of Martha	34.72507	-99.34203	US	OK
+Martin	35.56649	-95.3108	US	OK
+Martin Arm	34.86034	-98.3545	US	OK
+Township of Martin	35.42232	-95.18635	US	OK
+Township of Martin	34.56951	-99.8226	US	OK
+Marty	34.52952	-99.50787	US	OK
+Masham	36.44922	-96.85365	US	OK
+Mason	35.56619	-96.35223	US	OK
+Masonic Temple	35.8781	-97.41337	US	OK
+Township of Mathewson	35.68616	-97.74199	US	OK
+Massey Point	35.06426	-95.64499	US	OK
+Matoy	34.1351	-96.05998	US	OK
+Township of Matoy	34.10287	-96.06137	US	OK
+Maud	35.13036	-96.77585	US	OK
+Maxwell	34.90342	-96.84418	US	OK
+Matoaka	36.6787	-95.97832	US	OK
+Township of Maxwell	34.89453	-96.83085	US	OK
+May	36.61698	-99.74734	US	OK
+May Square	35.40839	-97.56421	US	OK
+Mayfair Village	35.52006	-97.56476	US	OK
+Mayhew	34.06093	-95.88609	US	OK
+Maysville	34.8173	-97.40586	US	OK
+Mazie	36.1076	-95.3633	US	OK
+Township of Mazie	36.10565	-95.33358	US	OK
+McAlester	34.93343	-95.76971	US	OK
+McBride	33.93538	-96.63333	US	OK
+McCarty	34.67036	-97.3178	US	OK
+McClure	35.65144	-99.30565	US	OK
+McCool	35.50311	-98.50229	US	OK
+McCord	36.67865	-97.03726	US	OK
+Township of McDaniels	35.44455	-95.8211	US	OK
+McCurtain	35.14982	-94.97079	US	OK
+McEachin Hollow	35.6162	-94.79939	US	OK
+McFadden Cove	36.70476	-96.9342	US	OK
+McFarlin	36.20593	-95.53331	US	OK
+McGee	34.82564	-96.95724	US	OK
+Township of McElroy	36.20285	-96.55863	US	OK
+McGee Hollow	35.86426	-95.18579	US	OK
+McGee Valley	34.50065	-95.81915	US	OK
+McKey	35.48259	-94.88495	US	OK
+Township of McKey	35.46398	-94.85023	US	OK
+McKiddyville	35.08757	-97.21197	US	OK
+Township of McKinley	36.54725	-98.04756	US	OK
+Township of McKinley	35.68201	-96.96975	US	OK
+Township of McKinley	36.68059	-98.93926	US	OK
+McLain	35.56649	-95.26885	US	OK
+Township of McLain	35.59593	-95.19191	US	OK
+McKnight	34.76617	-99.91232	US	OK
+McLoud	35.4359	-97.09142	US	OK
+McMahon	36.31587	-97.2456	US	OK
+McMahon Woods	34.67924	-98.38811	US	OK
+Township of McMaster	34.81534	-98.56284	US	OK
+Township of McNeal	36.2806	-99.54206	US	OK
+Township of McPherson	34.34453	-98.0642	US	OK
+McQueen	34.66673	-99.70176	US	OK
+McWillie	36.53587	-98.35452	US	OK
+Mead	33.99954	-96.50916	US	OK
+Meat Hollow	34.17594	-94.92995	US	OK
+Township of Medford	36.81392	-97.73089	US	OK
+Medicine Bluffs	34.68396	-98.417	US	OK
+Medford	36.80697	-97.73366	US	OK
+Medicine Tank	34.79763	-98.72283	US	OK
+Meeker	35.5034	-96.9028	US	OK
+Meers	34.78284	-98.57895	US	OK
+Mehan	36.04506	-96.94253	US	OK
+Mekko	35.0001	-95.75388	US	OK
+Mellette	35.21732	-95.71582	US	OK
+Melody Lane	36.02537	-95.98222	US	OK
+Memory Gardens	34.96176	-95.72666	US	OK
+Meno	36.38614	-98.17785	US	OK
+Township of Meno	36.40837	-98.15868	US	OK
+Meridian	35.842	-97.24698	US	OK
+Meridian	35.46588	-99.96456	US	OK
+Meridian	34.42731	-97.97809	US	OK
+Township of Meridian	35.4806	-99.92261	US	OK
+Merrick	35.85644	-97.14114	US	OK
+Merritt	35.36977	-99.50537	US	OK
+Township of Merritt	35.32783	-99.44204	US	OK
+Messer	34.08733	-95.46941	US	OK
+Metory	35.84037	-95.03829	US	OK
+Metz Landing Strip	36.23754	-98.02478	US	OK
+Miami	36.87451	-94.87746	US	OK
+Miami Interchange	36.86479	-94.84995	US	OK
+Micawber	35.62452	-96.51223	US	OK
+Middick Store	34.29814	-99.13175	US	OK
+Middleberg	35.10618	-97.73504	US	OK
+Middleton	36.95586	-97.11421	US	OK
+Township of Midland	34.77786	-96.8364	US	OK
+Midlothian	35.63729	-96.92253	US	OK
+Midway	34.42509	-96.21527	US	OK
+Midway	35.49256	-97.08864	US	OK
+Midway	36.07254	-97.5331	US	OK
+Midway	35.75482	-95.7486	US	OK
+Midway	35.61007	-96.56474	US	OK
+Midway	35.71949	-99.92345	US	OK
+Midway Village	35.45951	-97.44559	US	OK
+Midwest City	35.44951	-97.3967	US	OK
+Milburn	34.24093	-96.54917	US	OK
+Mile 16	34.24592	-97.99948	US	OK
+Milfay	35.75507	-96.56585	US	OK
+Township of Middleberg	35.06673	-97.72532	US	OK
+Milo	34.33259	-97.33947	US	OK
+Milton	35.16176	-94.86356	US	OK
+Township of Milton	35.15565	-94.87245	US	OK
+Minco	35.31284	-97.94449	US	OK
+Mingo	36.22065	-95.86888	US	OK
+Mission Mid Del	35.46284	-97.38892	US	OK
+Township of Missouri	36.37782	-97.08921	US	OK
+Moccasin Bend	36.87118	-94.75717	US	OK
+Modoc Valley	36.83507	-94.64745	US	OK
+Moffett Bottom	35.38815	-94.50272	US	OK
+Mohawk	36.20593	-95.92749	US	OK
+Moffett	35.39037	-94.44688	US	OK
+Money Bean Hollow	35.94398	-95.10663	US	OK
+Township of Monroe	34.97788	-94.52245	US	OK
+Monroe	34.9926	-94.51689	US	OK
+Township of Moodys	36.06398	-94.94051	US	OK
+Moon	33.82428	-94.5716	US	OK
+Moore	35.33951	-97.4867	US	OK
+Moore Baptist Temple	35.31284	-97.47559	US	OK
+Moodys	36.0312	-94.95773	US	OK
+Township of Moore	35.79177	-95.7086	US	OK
+Township of Moore	35.13063	-96.91141	US	OK
+Mooreland	36.4392	-99.20482	US	OK
+Township of Mooreland	36.42781	-99.22538	US	OK
+Moorewood	35.74033	-99.34899	US	OK
+Moravia	35.11922	-99.51009	US	OK
+Township of Morgan	34.15843	-97.15863	US	OK
+Township of Morgan	36.55281	-99.71151	US	OK
+Township of Morgan	34.38065	-96.95307	US	OK
+Morgans Corner	36.36814	-96.21417	US	OK
+Moreville	36.78618	-94.7919	US	OK
+Morris	35.6076	-95.86027	US	OK
+Township of Morris	35.59732	-95.80305	US	OK
+Morrison	36.29727	-97.00809	US	OK
+Morse	35.53675	-96.28223	US	OK
+Township of Morse	35.50842	-96.24473	US	OK
+Morvin	35.20341	-97.01586	US	OK
+Moseley Prairie	36.17786	-94.63856	US	OK
+Township of Mound Valley	35.50561	-98.49479	US	OK
+The Mound	36.75509	-96.00165	US	OK
+Township of Mound	36.10562	-96.77531	US	OK
+Mounds	35.87648	-96.06111	US	OK
+Township of Mounds	35.92787	-96.09194	US	OK
+Mouse Hollow	35.9056	-99.26594	US	OK
+Moyers	34.32621	-95.65358	US	OK
+Mudeater Bend	36.80452	-94.8244	US	OK
+Mulberry Hollow	35.84342	-94.70689	US	OK
+Muldrow	35.4062	-94.59883	US	OK
+Township of Muldrow	35.41954	-94.60022	US	OK
+Mulehead Bottom	35.36232	-94.88662	US	OK
+Township of Muncrief	34.97785	-97.39892	US	OK
+Township of Murdock	36.46948	-99.75873	US	OK
+Murell Hollow	36.03092	-94.72606	US	OK
+Township of Murphy	36.11398	-95.19052	US	OK
+Murphy	36.14704	-95.24469	US	OK
+Township of Murray	34.55009	-96.25583	US	OK
+Muse	34.67205	-94.76273	US	OK
+Township of Muse	34.65844	-94.69189	US	OK
+Muskogee	35.74788	-95.36969	US	OK
+Muskogee Baptist Temple	35.73899	-95.34358	US	OK
+Muskogee Price Mart	35.77093	-95.35525	US	OK
+Muskrat Hollow	36.47591	-94.86357	US	OK
+Murry Spur	35.25982	-94.54855	US	OK
+Mustang	35.38423	-97.72449	US	OK
+Mutual	36.23143	-99.16816	US	OK
+Myers	36.75339	-96.40084	US	OK
+Myriad Gardens	35.46534	-97.51809	US	OK
+Township of Myrick	34.27509	-96.50583	US	OK
+NW Oklahoma City Sludge Lagoon	35.59194	-97.59086	US	OK
+Nanos	36.79645	-96.26944	US	OK
+Township of Naples	34.97785	-97.7142	US	OK
+Narcissa	36.80118	-94.9269	US	OK
+Township of Narcissa	36.83896	-94.92524	US	OK
+Nardin	36.80559	-97.44588	US	OK
+The Narrows	34.69562	-98.6659	US	OK
+Nani-chito	34.42233	-94.64689	US	OK
+Nash	36.66614	-98.05034	US	OK
+Township of Nash	35.76954	-95.19746	US	OK
+Nashoba Y	34.48288	-95.28135	US	OK
+National Stockyards	35.45339	-97.55948	US	OK
+Natura Mission	35.74093	-95.92721	US	OK
+Township of Natura	35.79177	-95.91971	US	OK
+Township of Navajo	34.75562	-99.23369	US	OK
+Navina	35.79894	-97.56032	US	OK
+Neal	35.33313	-96.78974	US	OK
+Nebo	34.36148	-96.95279	US	OK
+Needmore	35.13118	-97.21225	US	OK
+Neff	35.07288	-94.59189	US	OK
+Negro Bend	34.32593	-95.93554	US	OK
+The Narrows	34.39149	-94.693	US	OK
+Negro Hollow	34.76982	-94.99024	US	OK
+Negro Jake Hollow	35.79231	-94.84023	US	OK
+Neill	34.82174	-97.51253	US	OK
+Nelagoney	36.62646	-96.24223	US	OK
+Nellie	34.57952	-98.12449	US	OK
+Nelson	34.12732	-95.68525	US	OK
+Neodesha	36.04621	-95.43442	US	OK
+New Bethel Assembly of God	36.00288	-95.6997	US	OK
+New Covenant Fellowship	36.12533	-97.0467	US	OK
+New Liberty	35.36366	-99.7176	US	OK
+New Life Assembly of God	36.70092	-95.63165	US	OK
+New Lima	35.17174	-96.59252	US	OK
+New Mannford	36.12285	-96.35751	US	OK
+New Oberlin	33.89482	-95.85136	US	OK
+New Prue	36.25314	-96.27085	US	OK
+New Tulsa	36.0751	-95.67276	US	OK
+Newalla	35.40507	-97.16281	US	OK
+Township of Newburg	34.81953	-96.35306	US	OK
+Newby	35.71147	-96.35195	US	OK
+Township of Newby	35.70286	-96.32528	US	OK
+Newcastle	35.24729	-97.59976	US	OK
+Newkirk	36.88225	-97.05337	US	OK
+Township of Newkirk	36.92503	-97.08365	US	OK
+Newport	34.25287	-97.27474	US	OK
+Newport	35.56367	-97.62004	US	OK
+Nichols	36.52008	-96.13806	US	OK
+Nichols Hollow	35.89204	-95.18163	US	OK
+Nicut	35.58398	-94.55938	US	OK
+Nida	34.14315	-96.49888	US	OK
+Nida Point	34.16371	-96.59611	US	OK
+Night Hawk Airpatch	36.18926	-95.54053	US	OK
+Niles	35.4345	-98.25478	US	OK
+Noble	35.13924	-97.39475	US	OK
+Township of Noble	35.16396	-97.30864	US	OK
+Township of Noble	36.54725	-97.61977	US	OK
+Township of Noble	36.28615	-97.19199	US	OK
+Nobletown	35.20313	-96.52974	US	OK
+Nobscot	35.84866	-98.73564	US	OK
+Noel	36.78114	-98.71925	US	OK
+Nolia	34.47649	-95.15163	US	OK
+Norge	34.9884	-97.99699	US	OK
+Norman	35.22257	-97.43948	US	OK
+Norman Tabernacle	35.23312	-97.38837	US	OK
+Township of Norman	35.22562	-97.39614	US	OK
+Norris	34.99899	-94.97051	US	OK
+Non	34.77787	-96.24084	US	OK
+Township of North Cement	34.97229	-98.13088	US	OK
+Township of North Choctaw	35.5959	-96.88086	US	OK
+Township of North Cimarron	35.92505	-97.19753	US	OK
+Township of North Cobb	35.15284	-98.46423	US	OK
+Township of North Elk	35.24172	-99.18925	US	OK
+North Enid	36.43559	-97.86895	US	OK
+Township of North Enid	36.46392	-97.83645	US	OK
+Township of North Fork	35.16116	-99.43787	US	OK
+Township of North Fox	35.76951	-96.78086	US	OK
+Township of North Keokuk	35.76951	-96.68641	US	OK
+Township of North Lathram	35.15561	-98.56423	US	OK
+North McAlester	34.95593	-95.76082	US	OK
+North Miami	36.91729	-94.87968	US	OK
+North Pole	34.09177	-94.88939	US	OK
+North Sobol	34.18594	-95.23857	US	OK
+North Village	35.98562	-96.65197	US	OK
+Township of North Wichita	35.5959	-96.96419	US	OK
+Notch Mound	36.84814	-95.36136	US	OK
+Notiechtown	35.57676	-95.09162	US	OK
+Nowata	36.70065	-95.63803	US	OK
+Township of Nowata	36.72787	-95.68359	US	OK
+Nowhere	35.15923	-98.44228	US	OK
+Numa	36.80336	-97.60616	US	OK
+Township of Numa	36.76392	-97.61977	US	OK
+Nuyaka	35.65315	-96.13972	US	OK
+O'Conner	36.56003	-98.93593	US	OK
+Township of OBryan	36.91947	-99.13094	US	OK
+OETA Channel 3	35.18149	-95.33692	US	OK
+Township of Oak View	36.02782	-97.60866	US	OK
+Township of Oak	35.68338	-98.18645	US	OK
+Township of Oakdale	36.35837	-97.41143	US	OK
+Township of Oakdale	35.1695	-98.74479	US	OK
+Township of Oakes	34.06399	-95.7058	US	OK
+Oakhurst	36.07537	-96.06444	US	OK
+Oakland	34.1001	-96.79389	US	OK
+Oakman	34.83231	-96.61696	US	OK
+Oaks	36.1662	-94.85467	US	OK
+Oaktree Assembly of God	35.66728	-97.48976	US	OK
+Oakwood	35.93171	-98.70509	US	OK
+Oberlin	33.87371	-95.85164	US	OK
+Oberlin Ferry	33.86316	-95.80858	US	OK
+Obi Hollow	35.6187	-94.62744	US	OK
+Ochelata	36.60009	-95.97971	US	OK
+Octavia	34.52677	-94.703	US	OK
+Township of Octavia	34.55149	-94.703	US	OK
+Township of Odell	33.95843	-96.65861	US	OK
+Odetta	34.66396	-98.84368	US	OK
+Ogeechee	36.76257	-94.8144	US	OK
+Oglesby	36.62648	-95.85665	US	OK
+Township of Ohio	36.20282	-99.86429	US	OK
+Township of Ogle	35.68065	-95.41969	US	OK
+Oil City	34.52313	-98.07309	US	OK
+Oil City	34.27454	-97.41836	US	OK
+Oil Well Hollow	34.66177	-95.64887	US	OK
+Oilton	36.08451	-96.58363	US	OK
+Okarche	35.72588	-97.97644	US	OK
+Okay	35.85065	-95.3183	US	OK
+Okeene	36.11615	-98.31702	US	OK
+Okemah	35.43259	-96.30501	US	OK
+Township of Okemah	35.41953	-96.30862	US	OK
+Okesa	36.71286	-96.13472	US	OK
+Okfuskee	35.59537	-96.22834	US	OK
+Township of Okfuskee	35.59731	-96.32528	US	OK
+Oklahoma 15 Interchange	36.53559	-97.34394	US	OK
+Oklahoma Christian Health	35.66394	-97.47837	US	OK
+Oklahoma City	35.46756	-97.51643	US	OK
+Township of Oklahoma City	35.50978	-97.61976	US	OK
+Oklahoma High Top	34.92455	-94.49161	US	OK
+Oklahoma State Reformatory	34.97783	-99.3937	US	OK
+Oklahoma	35.49209	-97.50328	US	OK
+Okmulgee	35.62344	-95.96055	US	OK
+Okmulgee Waterworks	35.62399	-96.00861	US	OK
+Okoee	36.5187	-95.09469	US	OK
+Oktaha	35.57649	-95.47498	US	OK
+Old Allison	33.88149	-96.33721	US	OK
+Old Bennington	34.0476	-96.02526	US	OK
+Old Bliss	36.54754	-97.14449	US	OK
+Old Channel	34.4062	-96.34694	US	OK
+Old Eucha	36.34481	-94.94523	US	OK
+Old Farris	34.24399	-95.87526	US	OK
+Old Fort Towson Historic Site	34.02788	-95.25634	US	OK
+Old Retrop	35.14533	-99.34258	US	OK
+Old Scott	34.36092	-97.43975	US	OK
+Old Town Trading Post	36.31894	-96.85365	US	OK
+Oleta	34.19955	-95.34385	US	OK
+Township of Oleta	36.35837	-99.65873	US	OK
+Olive	33.90788	-96.44805	US	OK
+Olive	36.0284	-96.48001	US	OK
+Township of Olive	36.02507	-96.47529	US	OK
+Township of Olive	36.38059	-97.51421	US	OK
+Township of Oliver	36.21393	-99.96429	US	OK
+Olney	34.47259	-96.36111	US	OK
+Olustee	34.54868	-99.42231	US	OK
+Township of Olustee	34.57785	-99.45315	US	OK
+Omega	35.87032	-98.19784	US	OK
+Township of Omega	35.8556	-98.15867	US	OK
+Onapa	35.40593	-95.55332	US	OK
+Oneta	36.01899	-95.70804	US	OK
+Oneida	35.97087	-98.06728	US	OK
+Ontario	36.98757	-94.763	US	OK
+Oologah	36.44704	-95.70832	US	OK
+Township of Oologah	36.45259	-95.74026	US	OK
+Oowala	36.42343	-95.6147	US	OK
+Township of Oowala	36.37982	-95.56109	US	OK
+Opah	36.75118	-96.29334	US	OK
+Open Door Fellowship	34.50897	-97.95198	US	OK
+Ord	33.9101	-95.4994	US	OK
+Orienta	36.36003	-98.47397	US	OK
+Oriental	35.53648	-96.22889	US	OK
+Orion	36.2167	-98.7787	US	OK
+Orlando	36.14893	-97.3781	US	OK
+Township of Orlando	36.10421	-97.39199	US	OK
+Orr	34.03204	-97.53558	US	OK
+Osage	36.29285	-96.41585	US	OK
+Osage Hollow	36.70952	-94.75023	US	OK
+Osage Reservation	36.62919	-96.39849	US	OK
+Osage Junction	36.53533	-96.71837	US	OK
+Osage Mound	36.01232	-95.46997	US	OK
+Township of Osage	35.87784	-96.86975	US	OK
+Township of Osborn	36.21393	-97.83644	US	OK
+Oscar	33.98399	-97.75281	US	OK
+Oseuma	36.7298	-94.89079	US	OK
+Oswalt	34.0276	-97.33474	US	OK
+Otoe	36.38393	-97.18338	US	OK
+Township of Otoe	36.43893	-97.01143	US	OK
+Otoe-Missouria Indian Agency	36.49115	-97.07504	US	OK
+Ottawa	36.85674	-94.78773	US	OK
+Township of Ottawa	36.84174	-94.78912	US	OK
+Township of Otoe	35.76951	-96.97253	US	OK
+Otter Hollow	34.45982	-95.79109	US	OK
+Township of Otter	36.55281	-99.9254	US	OK
+Township of Otter	36.28615	-97.61977	US	OK
+Township of Otter	36.63614	-99.70318	US	OK
+Township of Otter	35.94171	-98.15867	US	OK
+Overbrook	34.06732	-97.14112	US	OK
+Overcup Bottoms	36.71314	-95.5747	US	OK
+Owasso	36.26954	-95.85471	US	OK
+Township of Owasso	36.28482	-95.90999	US	OK
+Owen	36.99924	-95.93165	US	OK
+Township of Owen	36.63615	-97.31421	US	OK
+Ozark	34.63813	-99.21175	US	OK
+Paden	35.50785	-96.56751	US	OK
+Township of Paden	35.46396	-96.54751	US	OK
+Padgett Bluff	35.59204	-95.2058	US	OK
+Township of Page	34.7251	-94.553	US	OK
+Township of Painter	34.55285	-98.6684	US	OK
+Panama	35.16732	-94.67245	US	OK
+Panola	34.92871	-95.2133	US	OK
+Panther	35.13482	-94.99857	US	OK
+Panther Hollow	35.05982	-95.04552	US	OK
+Paoli	34.82674	-97.25919	US	OK
+Paradise Point	36.67424	-94.77273	US	OK
+Paradise View	36.14426	-95.30219	US	OK
+Township of Paradise	36.02922	-97.19198	US	OK
+Parallel	35.89866	-98.83148	US	OK
+Township of Parsons	36.92503	-98.16423	US	OK
+Parvin	36.07198	-98.17423	US	OK
+Township of Pascoe	35.70287	-96.15583	US	OK
+Patterson	34.95482	-95.40164	US	OK
+Township of Patterson	36.38059	-97.72533	US	OK
+Township of Patterson	36.92781	-99.31428	US	OK
+Patton	36.47676	-95.2558	US	OK
+Township of Patterson	34.06398	-98.04754	US	OK
+Paw Paw	35.33232	-94.51355	US	OK
+Paw Paw Bottom	35.33954	-94.52161	US	OK
+Township of Paw Paw	35.35287	-94.53633	US	OK
+Pawhuska	36.66784	-96.33723	US	OK
+Pawnee	36.33783	-96.80392	US	OK
+Pauls Valley	34.74008	-97.22225	US	OK
+Township of Pawnee	35.87784	-96.75586	US	OK
+Township of Pawnee	36.10284	-96.85447	US	OK
+Payne	34.90618	-97.53003	US	OK
+Payne Hollow	35.5862	-94.83634	US	OK
+Payson	35.55035	-96.8553	US	OK
+Peacock Hollow	34.47148	-95.9236	US	OK
+Pearson	35.07285	-96.9178	US	OK
+Pearsonia	36.80172	-96.45085	US	OK
+Peavine	35.88981	-94.61411	US	OK
+Peavine Hollow	36.06814	-94.88245	US	OK
+Peckham	36.88698	-97.17587	US	OK
+Peek	35.97032	-99.63094	US	OK
+Peggs	36.08093	-95.0994	US	OK
+Township of Peggs	36.06259	-95.0669	US	OK
+Pemeta	36.02451	-96.61558	US	OK
+Penn 89	35.37867	-97.54865	US	OK
+Township of Penn	36.77781	-99.0726	US	OK
+Township of Penn	36.72503	-99.18649	US	OK
+Peno Corner	35.33315	-94.46716	US	OK
+Pensacola	36.45509	-95.13052	US	OK
+Pentecostal Holiness Oklahoma Conference	35.41923	-97.31809	US	OK
+Pentecostal Tabernacle	36.75731	-95.99804	US	OK
+Pentecostal Temple	35.02422	-99.0773	US	OK
+Peoria	36.91534	-94.66995	US	OK
+Township of Peoria	36.91673	-94.76967	US	OK
+Peppertree Square	35.55394	-97.62726	US	OK
+Perimeter Square	36.06787	-95.97611	US	OK
+Perimeter Square	36.11815	-95.8511	US	OK
+Perkins	35.97394	-97.03364	US	OK
+Township of Perkins	35.95839	-97.07531	US	OK
+Pernell	34.56147	-97.51003	US	OK
+Perry	36.28949	-97.2881	US	OK
+Township of Perry	35.06951	-97.43781	US	OK
+Pershing	36.5934	-96.27528	US	OK
+Petarsy Indian Mission	34.74924	-98.38644	US	OK
+Petersburg	33.9551	-97.56975	US	OK
+Petersen Landing Strip	35.59894	-99.96622	US	OK
+Petes Corner	36.29032	-97.10365	US	OK
+Petros	34.86955	-94.60884	US	OK
+Pettit	35.76482	-94.96551	US	OK
+Pharoah	35.42037	-96.12306	US	OK
+Pickens	34.39649	-95.0119	US	OK
+Picket Prairie	35.90009	-96.1275	US	OK
+Pickett	34.78203	-96.77474	US	OK
+Piedmont	35.642	-97.74643	US	OK
+Pierce	35.43482	-95.71638	US	OK
+Pickwick	33.8676	-96.52666	US	OK
+Pike	33.96454	-97.3253	US	OK
+Pilot Knob	33.99594	-95.1719	US	OK
+Pine Bluff	36.11203	-94.81467	US	OK
+Pin Oak Acres	36.12899	-95.27052	US	OK
+Pine Hollow	35.69037	-94.9794	US	OK
+Pine Hollow	34.14815	-95.8072	US	OK
+Pine Hollow	34.78509	-96.07361	US	OK
+Pine Hollow	35.62592	-94.63105	US	OK
+Pine Knob	34.99343	-95.69221	US	OK
+Pine Hollow	35.60676	-95.02301	US	OK
+Pine Top	34.67732	-95.74193	US	OK
+Piney	35.88453	-94.54189	US	OK
+Pinhook Corner	35.5362	-94.88495	US	OK
+Pioneer Square	36.12811	-97.0517	US	OK
+Pioneer Woman Monument	36.71004	-97.06643	US	OK
+Pink	35.26063	-97.11975	US	OK
+Pirtle	33.98899	-96.26777	US	OK
+Piper	36.1742	-98.26757	US	OK
+Plainview	35.07339	-99.72232	US	OK
+Plainview	34.11344	-95.12162	US	OK
+Plainview	36.84114	-99.24122	US	OK
+Platter	33.90704	-96.53499	US	OK
+Player	36.09618	-96.60308	US	OK
+Pleasant Valley	35.98949	-97.30059	US	OK
+Township of Poarch	35.23477	-99.43648	US	OK
+Pocasset	35.19367	-97.95255	US	OK
+Township of Pocasset	35.17506	-97.9531	US	OK
+Pocola	35.23121	-94.478	US	OK
+Township of Pocola	35.24176	-94.48911	US	OK
+Point of the Pines	35.91648	-94.9344	US	OK
+Plunketville	34.41427	-94.48855	US	OK
+Polecat Hollow	35.54731	-94.65744	US	OK
+Ponca City	36.70698	-97.08559	US	OK
+Ponca City Kindergarten	36.71504	-97.06226	US	OK
+Ponca Cove	36.73754	-96.92365	US	OK
+Ponca Indian Agency	36.60504	-97.0806	US	OK
+Township of Ponca	35.87785	-96.63085	US	OK
+Poole	35.60895	-97.2267	US	OK
+Pontotoc	34.4887	-96.62584	US	OK
+Pooleville	34.41953	-97.39975	US	OK
+Port of Catoosa	36.22426	-95.73637	US	OK
+Port of Dunkin	35.97343	-95.48497	US	OK
+Port of Muskogee	35.78565	-95.2983	US	OK
+Porter	35.87093	-95.52248	US	OK
+Township of Porter	35.84177	-95.50303	US	OK
+Portland Square	35.49089	-97.58254	US	OK
+Porum	35.35621	-95.26552	US	OK
+Porum Gap	35.36232	-95.30497	US	OK
+Township of Porum	35.34038	-95.29191	US	OK
+Porcupine Butte	35.73227	-98.16478	US	OK
+Possum Ford Bend	33.98039	-94.93133	US	OK
+Possum Hollow	35.40255	-98.70563	US	OK
+Post Oak	34.07121	-97.42169	US	OK
+Pot Hollow	35.58815	-95.03107	US	OK
+Potato Knob	35.46954	-94.98912	US	OK
+Poteau	35.05371	-94.62356	US	OK
+Township of Pottawatomie	35.41951	-97.19197	US	OK
+Township of Poteau	35.0501	-94.66134	US	OK
+Powell	33.9551	-96.8625	US	OK
+Powers	35.44978	-97.95227	US	OK
+Prague	35.48674	-96.68502	US	OK
+Prairie Hollow	34.33287	-95.8747	US	OK
+Prairie Hollow	34.3837	-96.0336	US	OK
+Township of Prairie Valley	35.23201	-98.04199	US	OK
+Prairie View Mission	34.65092	-96.96891	US	OK
+Township of Prairie	35.45283	-98.042	US	OK
+Township of Prairie	36.64725	-98.05312	US	OK
+Praise Cathedral International	36.15426	-95.95361	US	OK
+Prattville	36.10453	-96.11861	US	OK
+Prattwood Assembly of God	36.10509	-96.12861	US	OK
+Prentiss	35.36394	-99.80566	US	OK
+Presbyterian Urban Mission	35.47812	-97.53754	US	OK
+Preston	35.71149	-95.99166	US	OK
+Price	36.13565	-96.06833	US	OK
+Township of Price	34.23204	-97.81975	US	OK
+Price-75 Development	36.71315	-95.95193	US	OK
+Primera Iglesia Bautista Hispana	35.24507	-97.44976	US	OK
+Pritchard	34.08426	-96.14721	US	OK
+Procter Hollow	35.56453	-94.56244	US	OK
+Proctor Hollow	36.31564	-94.97773	US	OK
+Proctor	35.9662	-94.77745	US	OK
+Provence	34.15121	-97.02084	US	OK
+Prue	36.23813	-96.31668	US	OK
+Pruit Valley	35.20732	-95.13996	US	OK
+Pruitt City	34.42009	-97.5103	US	OK
+Pryor	36.30843	-95.31691	US	OK
+Pryor First Assembly of God	36.31259	-95.31552	US	OK
+Pryor Water Intake	36.22454	-95.24608	US	OK
+Pulaski	35.81369	-96.43973	US	OK
+Pumpkin Hollow	35.96565	-94.86856	US	OK
+Purcell	35.01368	-97.36114	US	OK
+Purdy	34.71591	-97.58753	US	OK
+Township of Pursley	34.81118	-97.7142	US	OK
+Putnam	35.8556	-98.96843	US	OK
+Pyramid Corners	36.80174	-95.1433	US	OK
+Qualls	35.72037	-95.03301	US	OK
+Pyaramid Corners	36.80119	-95.1433	US	OK
+Township of Quanna	34.63896	-98.61423	US	OK
+Quapaw	36.95451	-94.78801	US	OK
+Township of Quapaw	36.9584	-94.8169	US	OK
+Township of Quartz	34.84451	-99.36981	US	OK
+Quay	36.15951	-96.71086	US	OK
+Quetone Point	34.74257	-98.55423	US	OK
+Quinlan	36.45448	-99.04538	US	OK
+Township of Quinlan	36.30003	-98.31424	US	OK
+Quinton	35.12288	-95.37109	US	OK
+Township of Quinton	35.12232	-95.43776	US	OK
+R and D Aviation Landing Strip	34.50369	-98.33755	US	OK
+Rabbit Hollow	35.60453	-94.55855	US	OK
+Rabornville	36.20536	-96.32751	US	OK
+Racetrack Prairie	34.08928	-94.51938	US	OK
+Racetrack Prairie	34.2751	-95.73748	US	OK
+Radio Tower (KKCC)	35.48199	-98.98286	US	OK
+Raiford	35.26788	-95.78694	US	OK
+Township of Rainey	35.16811	-98.95174	US	OK
+Township of Rainey	35.1695	-98.9948	US	OK
+Ralph	35.50894	-99.01203	US	OK
+Ralston	36.50394	-96.73226	US	OK
+Ramona	36.53037	-95.9236	US	OK
+Randlett	34.17731	-98.46367	US	OK
+Randlett Water Supply	34.08898	-98.46978	US	OK
+Randolph	34.19121	-96.74278	US	OK
+Township of Raney	35.0695	-99.73093	US	OK
+Rankin	35.62449	-99.92456	US	OK
+Township of Ratliff	34.25843	-96.88084	US	OK
+Township of Ratliffe	34.06122	-95.48913	US	OK
+Rattan	34.20038	-95.41302	US	OK
+Rattlesnake Bluff	34.13455	-94.67633	US	OK
+Ratliff City	34.44897	-97.50947	US	OK
+Rattlesnake Hollow	35.30482	-95.925	US	OK
+Ravia	34.24176	-96.75139	US	OK
+Township of Rawdon	35.96393	-99.51983	US	OK
+Ray Hollow	34.47787	-95.85304	US	OK
+Ray Mission	35.91343	-95.25607	US	OK
+Rayford	34.43453	-97.09474	US	OK
+Reagan	34.34898	-96.72167	US	OK
+Reams	35.06565	-95.69999	US	OK
+Red Bird	35.88566	-95.58887	US	OK
+Red Bluff	35.04065	-95.02329	US	OK
+Red Bluff	35.32088	-99.07953	US	OK
+Township of Red Fork	36.1112	-96.14528	US	OK
+Red Hollow	34.45397	-99.31731	US	OK
+Red Fork	36.10593	-96.025	US	OK
+Red Horse	35.48701	-97.4192	US	OK
+Red Oak	34.95093	-95.08024	US	OK
+Township of Red Mound	35.34174	-96.55307	US	OK
+Township of Red Oak	34.97232	-95.07663	US	OK
+Redbank Hollow	34.80371	-94.84579	US	OK
+Redbird Smith	35.56621	-95.02051	US	OK
+Redden	34.50649	-95.84471	US	OK
+Redland	35.30482	-94.62439	US	OK
+Redland Bottom	35.28843	-94.608	US	OK
+Township of Redland	35.34315	-94.63633	US	OK
+Redoak Hollow	34.36426	-97.34974	US	OK
+Redland	33.91011	-94.67382	US	OK
+Reed	34.90061	-99.69565	US	OK
+Reed Point	36.65896	-94.76162	US	OK
+Township of Reed	36.20282	-97.61977	US	OK
+Reeder Ford	35.57898	-94.51966	US	OK
+Reeding	35.79088	-97.77005	US	OK
+Reeves Ravine	34.1876	-96.69417	US	OK
+Refuge Headquaters	36.37286	-94.95079	US	OK
+Reichert	34.86927	-94.75412	US	OK
+Reichert	34.86316	-94.74801	US	OK
+Reigning Life Assembly of God	35.51145	-97.3817	US	OK
+Remy	35.45648	-94.53411	US	OK
+Remy Hollow	35.44537	-94.51744	US	OK
+Renfrow	36.92558	-97.65588	US	OK
+Township of Renfrow	36.81114	-97.41143	US	OK
+Township of Reno	35.59727	-97.86421	US	OK
+Township of Reno	36.64725	-97.73089	US	OK
+Rentiesville	35.52149	-95.49498	US	OK
+Reorganized Chuch of Jesus	36.80142	-98.64897	US	OK
+Remington	36.64449	-96.72114	US	OK
+Retrop	35.15978	-99.35981	US	OK
+Revival of Faith	35.37895	-97.51365	US	OK
+Rexroat	34.21648	-97.40474	US	OK
+Reydon	35.65366	-99.919	US	OK
+Reynolds	34.66537	-95.9311	US	OK
+Rhea	35.84171	-99.23482	US	OK
+Township of Richard	34.76813	-98.25727	US	OK
+Richards Spur	34.76007	-98.387	US	OK
+Richards Spur Mission	34.76257	-98.38644	US	OK
+Richardsville	35.47843	-95.68082	US	OK
+Richland	35.58005	-97.80477	US	OK
+Township of Richland	35.11394	-99.8476	US	OK
+Township of Richland	34.59452	-98.05448	US	OK
+Township of Richland	34.43758	-99.17814	US	OK
+Richmond	36.19087	-99.05232	US	OK
+Richville	34.93787	-95.67443	US	OK
+Riddle Store	34.50731	-97.50864	US	OK
+Rider Hollow	35.72481	-94.77439	US	OK
+Township of Rider	36.43676	-95.34858	US	OK
+Ridley	34.70368	-98.37811	US	OK
+Ringling	34.17843	-97.59253	US	OK
+Ringold	34.2151	-95.12523	US	OK
+Ringwood	36.37948	-98.24535	US	OK
+Ripley	36.01784	-96.90558	US	OK
+Ritts Junction	35.74118	-96.51223	US	OK
+Rigsby	36.20619	-96.36224	US	OK
+Robbers Roost	34.49509	-96.98279	US	OK
+Robert S Kerr Arboretum	34.69399	-94.63161	US	OK
+Roberta	33.92649	-96.30249	US	OK
+Robinson Corner	34.08537	-96.60139	US	OK
+Robinson Landing	34.77701	-98.53034	US	OK
+Robison Landing	34.77868	-98.5345	US	OK
+Roff	34.62759	-96.84085	US	OK
+Rogers Mound	36.79148	-95.50803	US	OK
+Roland	35.4212	-94.51466	US	OK
+Township of Roland	35.43342	-94.50855	US	OK
+Roll	35.77921	-99.7115	US	OK
+Romia	33.83816	-96.16998	US	OK
+Romulus	35.11646	-96.92335	US	OK
+Ron	34.79228	-99.85982	US	OK
+Ron Stephens Stadium	34.61285	-98.40811	US	OK
+Roos Landing Strip	34.51842	-96.85751	US	OK
+Roosevelt	34.84867	-99.02174	US	OK
+Rose	36.21953	-95.02968	US	OK
+Rose Lookout Tower	36.16731	-95.02635	US	OK
+Township of Rose	36.20283	-96.85309	US	OK
+Rosedale	34.91841	-97.18391	US	OK
+Ross Hollow	35.84704	-94.91245	US	OK
+Rosston	36.81336	-99.93402	US	OK
+Rossville	35.59395	-96.99892	US	OK
+Rough Hollow	34.33399	-95.79248	US	OK
+Rough Hollow	34.3426	-95.83304	US	OK
+Rough Hollow	34.11261	-95.07828	US	OK
+Round Mound	36.57032	-96.73781	US	OK
+Round Mound	36.43259	-95.60276	US	OK
+Round Top	34.82093	-95.01246	US	OK
+Row	36.27869	-94.6905	US	OK
+Rubottom	33.94038	-97.45697	US	OK
+Roxana	36.10143	-97.65727	US	OK
+Rufe	34.12372	-95.14412	US	OK
+Russell	34.76812	-99.66732	US	OK
+Russellville	35.15176	-95.43526	US	OK
+Ruthdale	36.81509	-95.73748	US	OK
+Township of Ryals	35.33899	-95.87805	US	OK
+Ryan	34.0201	-97.95754	US	OK
+SW Oklahoma City Sludge Lagoon	35.32411	-97.36484	US	OK
+Sacred Heart	35.00119	-96.80946	US	OK
+Sadie	35.38787	-94.85412	US	OK
+Township of Sadie	35.38065	-94.86967	US	OK
+Sageeyah	36.37121	-95.65304	US	OK
+Saint Elijah Antiochian Orthodox	35.48617	-97.5481	US	OK
+Saint Elizabeth Mission	36.6323	-94.81718	US	OK
+Saint Francis DeSales Seminary	35.56283	-97.64532	US	OK
+Saint Josephs Old Cathedral	35.47228	-97.51837	US	OK
+Saint Louis	35.07424	-96.85308	US	OK
+Township of Saint Louis	35.07508	-96.86141	US	OK
+Saint Pauls Episcopal Cathedral	35.47478	-97.51559	US	OK
+Saint Vincents de Paul Society	35.38784	-97.54476	US	OK
+Sait Fairground	35.4745	-97.56976	US	OK
+Salem	35.76647	-94.573	US	OK
+Salem	35.38399	-95.92861	US	OK
+Salina	36.29287	-95.1533	US	OK
+Township of Saline	36.30009	-95.08357	US	OK
+Township of Saline	36.77503	-99.39761	US	OK
+Sallisaw	35.46037	-94.78745	US	OK
+Township of Saline	36.68614	-98.18923	US	OK
+Township of Sallisaw	35.44176	-94.78356	US	OK
+Sally Bull Hollow	35.71286	-94.57605	US	OK
+Township of Salonia	34.83482	-95.08635	US	OK
+Salt Fork	36.63503	-97.58894	US	OK
+Township of Salt Fork	36.64725	-97.61977	US	OK
+Salt Plains National Wildlife Refuge	36.75327	-98.22348	US	OK
+Salt Prairie	34.71482	-96.09583	US	OK
+Salvation Army	35.99231	-96.11111	US	OK
+Salvation Army	36.7537	-95.99471	US	OK
+Salvation Army Cove	35.61232	-96.08028	US	OK
+Sam Suell Hollow	33.98232	-97.7992	US	OK
+Sams Point	35.19399	-95.6936	US	OK
+Sand Gap	34.39093	-96.05027	US	OK
+Sand Point	33.96454	-96.5625	US	OK
+Sanders	35.92064	-94.70689	US	OK
+Sanders	36.81481	-95.4497	US	OK
+Sandtown Bottom	35.41482	-94.96773	US	OK
+Sandy	34.81256	-99.96483	US	OK
+Sans Bois	35.29176	-94.85717	US	OK
+Sans Bois	35.13065	-95.15608	US	OK
+Township of Sans Bois	35.29732	-94.92662	US	OK
+Santa Fe	34.41981	-97.69253	US	OK
+Township of Santa Fe	36.37782	-97.19199	US	OK
+Sapulpa	35.9987	-96.11417	US	OK
+Sapulpa Interchange	36.01037	-96.11528	US	OK
+Township of Sapulpa	36.03065	-96.08639	US	OK
+Sardis	34.66593	-95.4097	US	OK
+Sasakwa	34.9487	-96.52529	US	OK
+Satterwhite	34.56481	-97.40502	US	OK
+Township of Savanna	34.8126	-95.8336	US	OK
+Savanna	34.82899	-95.84388	US	OK
+Saylor Bottom	35.38398	-94.91551	US	OK
+Sayre	35.29116	-99.6401	US	OK
+Township of Sayre	35.32783	-99.68927	US	OK
+Sawyer	34.01372	-95.37162	US	OK
+Schlegel	36.00757	-96.67863	US	OK
+Schuler Bend	34.03039	-94.95689	US	OK
+Schulter	35.51455	-95.95666	US	OK
+Township of Schulter	35.52233	-95.94194	US	OK
+Scipio	35.05482	-95.95667	US	OK
+Scott	35.37672	-98.23644	US	OK
+Scott Hollow	36.03481	-94.72662	US	OK
+Scraper Hollow	35.94675	-94.688	US	OK
+Scraper	36.08953	-94.85051	US	OK
+Scullin	34.5187	-96.86251	US	OK
+Sealy	34.95647	-96.50334	US	OK
+Seascout Point	35.60093	-96.07639	US	OK
+Township of Seay	36.03059	-98.26424	US	OK
+Security Square	36.11899	-95.85471	US	OK
+Sedan	34.97173	-98.7609	US	OK
+Sedimentation Basin	35.61116	-97.66421	US	OK
+Township of Seger	35.31117	-98.74201	US	OK
+Seiling	36.1481	-98.92426	US	OK
+Township of Seiling	36.11393	-98.90593	US	OK
+Selman	36.80198	-99.49095	US	OK
+Seminole	35.22452	-96.67057	US	OK
+Sentinel	35.15783	-99.17536	US	OK
+Sequoyah	36.37343	-95.56081	US	OK
+Sequoyah National Wildlife Refuge	35.437	-95.03259	US	OK
+Settlement	34.87593	-94.69662	US	OK
+Seven Oaks	35.48148	-94.73217	US	OK
+Sevenmile Corner	34.11343	-96.14721	US	OK
+Township of Severs	35.59594	-95.95305	US	OK
+Seward	35.7981	-97.48838	US	OK
+Township of Seward	35.79172	-97.51421	US	OK
+Sha-To-She	36.21314	-96.27723	US	OK
+Shady Point	35.1301	-94.65856	US	OK
+Township of Shady Point	35.15843	-94.67106	US	OK
+Township of Shahan	35.94593	-95.72109	US	OK
+Shalom	35.487	-97.49476	US	OK
+Township of Shannon	35.85704	-95.31413	US	OK
+Township of Shannon	35.90285	-96.55307	US	OK
+Sharon	36.27587	-99.33566	US	OK
+Sharp Hollow	34.56204	-95.81943	US	OK
+Shattuck	36.27587	-99.88123	US	OK
+Shawnee	35.32729	-96.9253	US	OK
+Shay	33.93288	-96.775	US	OK
+Shea	36.3842	-97.78089	US	OK
+Shawnee Indian Sanatorium	35.29535	-96.9228	US	OK
+Township of Sheldon	36.20282	-99.75873	US	OK
+Shekinah Christian Fellowship	36.36482	-95.83693	US	OK
+Township of Sheridan	36.28615	-98.04756	US	OK
+Township of Sheridan	36.20004	-98.8587	US	OK
+Township of Sherman	36.10837	-97.83922	US	OK
+Sherwood	34.33122	-94.77828	US	OK
+Shidler	36.78198	-96.66114	US	OK
+Shiloh	35.80561	-97.15948	US	OK
+Shinewell	33.88123	-94.51326	US	OK
+Shirk	36.12203	-96.1275	US	OK
+Township of Shirley	35.06951	-98.03643	US	OK
+Shoals	33.89788	-95.39773	US	OK
+Shopton	35.72649	-95.35719	US	OK
+Short	35.57148	-94.49133	US	OK
+Short	35.56398	-94.52188	US	OK
+Short Hollow	34.80955	-94.74412	US	OK
+Shorty Cox Hollow	34.20427	-94.93661	US	OK
+Shrewder	34.76867	-99.75565	US	OK
+Shropshire Valley	35.20232	-95.0869	US	OK
+Shults	33.89567	-94.73938	US	OK
+Sickle	35.97115	-98.7787	US	OK
+Township of Sickle	35.94171	-98.70592	US	OK
+Sickles	35.36283	-98.44784	US	OK
+Township of Sickles	35.34172	-98.46423	US	OK
+Sikh Gurdwara of Oklahoma	35.48728	-97.60226	US	OK
+Silo	34.04149	-96.47416	US	OK
+Silo Cove	36.92729	-96.15499	US	OK
+Silver City	36.09035	-96.49446	US	OK
+Shuler Bend	34.03039	-94.95717	US	OK
+Simpson	34.15287	-96.88945	US	OK
+Township of Simpson	35.34177	-95.71138	US	OK
+Township of Simpson	36.11393	-99.15871	US	OK
+Site of Old Fort Coffee	35.31843	-94.59772	US	OK
+Skagway	35.89342	-96.22528	US	OK
+Skedee	36.3795	-96.70503	US	OK
+Township of Skedee	36.38061	-96.74476	US	OK
+Township of Skeleton	36.10837	-97.71422	US	OK
+Skiatook	36.36842	-96.00138	US	OK
+Skiatook First Assembly of God	36.35454	-96.00166	US	OK
+Township of Skiatook	36.37093	-95.92944	US	OK
+Township of Skeleton	36.28615	-97.73089	US	OK
+Skullyville	35.24843	-94.59355	US	OK
+Skyline Urban Ministry	35.48839	-97.53504	US	OK
+Skyline-Urban Ministry	35.44978	-97.50365	US	OK
+Slate Bluff	36.67509	-95.56442	US	OK
+Slaughterville	35.08729	-97.33503	US	OK
+Sleeper Hollow	35.76871	-95.20718	US	OK
+Slick	35.77703	-96.26611	US	OK
+Slim	34.08427	-95.1044	US	OK
+Smacker	35.01343	-94.66467	US	OK
+Smith Hollow	35.83898	-94.75967	US	OK
+Smith Hollow	35.63954	-94.77439	US	OK
+Smith Hollow	35.56731	-94.56022	US	OK
+Smith Village	35.45089	-97.45726	US	OK
+Smith-Lee	33.88704	-96.0247	US	OK
+Smithville	34.46677	-94.64383	US	OK
+Smokestack Hollow	35.0301	-95.2283	US	OK
+Snake Den Bluff	36.07343	-95.57498	US	OK
+Sneed Acres	34.63646	-98.39005	US	OK
+Snow	34.39593	-95.41275	US	OK
+Snow Valley	34.40038	-95.42386	US	OK
+Snyder	34.65896	-98.95174	US	OK
+Sobol	34.16121	-95.23857	US	OK
+Sobol Lookout Tower	34.13233	-95.23885	US	OK
+Soldani	36.7592	-96.79753	US	OK
+Soldier Hollow	36.35508	-94.89884	US	OK
+Sonny Gile Hollow	35.63509	-94.59077	US	OK
+Sooner	35.23256	-97.85366	US	OK
+Soonerville	35.92756	-96.83753	US	OK
+Soper	34.03288	-95.69719	US	OK
+Sorrels	35.02927	-94.64689	US	OK
+Souters Bend	36.30118	-96.54114	US	OK
+Township of South Choctaw	35.51951	-96.88086	US	OK
+Township of South Cimarron	35.84867	-97.19198	US	OK
+South Coffeyville	36.99452	-95.62026	US	OK
+South Cut Bank	33.68844	-94.71132	US	OK
+Township of South Cement	34.90284	-98.15588	US	OK
+Township of South Elk	35.15839	-99.2198	US	OK
+Township of South Fox	35.68201	-96.76974	US	OK
+South Heights Assembly of God	35.98481	-96.11417	US	OK
+Township of South Keokuk	35.68201	-96.66418	US	OK
+Township of South Lathram	35.07228	-98.56423	US	OK
+Township of South Seminole	35.51951	-96.7753	US	OK
+Southard	36.05587	-98.47536	US	OK
+Southwest Tabernacle of Praise	35.42089	-97.53254	US	OK
+Spade Hollow	36.25398	-94.9719	US	OK
+Township of South Wichita	35.51951	-96.96975	US	OK
+Spanish Baptist Mission	35.02978	-99.09508	US	OK
+Spaulding	35.01397	-96.44001	US	OK
+Spavinaw	36.3912	-95.04663	US	OK
+Township of Speairs	33.98204	-96.31277	US	OK
+Speer	34.11344	-95.5558	US	OK
+Township of Speermoore	36.63892	-99.91985	US	OK
+Speermore	36.60753	-99.99152	US	OK
+Spelter City	35.45844	-95.96333	US	OK
+Spencer	35.52284	-97.37726	US	OK
+Spencer	35.49867	-97.38226	US	OK
+Spencerville	34.14233	-95.35829	US	OK
+Sperry	36.29731	-95.99139	US	OK
+Spiro	35.24121	-94.61994	US	OK
+Township of Spiro	35.25287	-94.628	US	OK
+Squaretop	35.07534	-98.30172	US	OK
+Squaw Hollow	36.35759	-95.29747	US	OK
+Stafford	35.53672	-99.12203	US	OK
+Staley	33.82677	-96.52999	US	OK
+Stanley	34.5401	-95.46969	US	OK
+Stapp	34.7551	-94.62384	US	OK
+Star	35.31121	-94.86495	US	OK
+Star	34.67121	-95.53887	US	OK
+Star Bluff	35.54759	-94.52799	US	OK
+Star Killer Hollow	35.65037	-94.71106	US	OK
+Star Valley	34.63118	-99.8426	US	OK
+Stark Hollow	34.81649	-94.86051	US	OK
+Township of Starr	34.7223	-98.03643	US	OK
+Steamboat Mound	36.82703	-95.51748	US	OK
+Stecker	34.95756	-98.31589	US	OK
+Steedman	34.81564	-96.48001	US	OK
+Steel Junction	34.04066	-94.77549	US	OK
+Steely Hollow	35.97842	-94.92607	US	OK
+Stealy	34.92813	-97.40642	US	OK
+Township of Stell	35.33618	-97.18919	US	OK
+Stella	35.31923	-97.21281	US	OK
+Township of Stella	36.95003	-98.39757	US	OK
+Township of Stephens	34.24453	-98.86979	US	OK
+Sterling	34.75035	-98.17171	US	OK
+Stidham	35.36871	-95.69971	US	OK
+Stigler	35.25371	-95.12302	US	OK
+Stillwater	36.11561	-97.05837	US	OK
+Township of Stillwater	36.14172	-97.13087	US	OK
+Stilwell	35.81453	-94.62856	US	OK
+Township of Stilwell	35.8237	-94.58355	US	OK
+Stinchcomb Wildlife Refuge	35.53394	-97.67754	US	OK
+Township of Stone	36.40837	-98.3698	US	OK
+Stonebluff	35.88593	-95.73693	US	OK
+Stones Corner	35.87121	-95.60665	US	OK
+Stonewall	34.65259	-96.52612	US	OK
+Township of Stonewall	34.60842	-96.56973	US	OK
+Stoney Point	36.55924	-94.86746	US	OK
+Stoney Point	35.59592	-94.663	US	OK
+Stony Point	35.84786	-94.69467	US	OK
+Stony Point	35.84786	-94.7055	US	OK
+Stony Point	35.25287	-94.66856	US	OK
+Story	34.85535	-97.45864	US	OK
+Township of Stone Bluff	35.88343	-95.6947	US	OK
+Strang	36.41064	-95.1308	US	OK
+Stratford	34.79675	-96.95946	US	OK
+Township of Stratford	34.8098	-97.06419	US	OK
+Township of Strauss	34.40286	-98.31422	US	OK
+Township of Strike Axe	36.69174	-96.20583	US	OK
+Stringtown	34.46676	-96.05333	US	OK
+Stringtown	34.44953	-98.15476	US	OK
+Township of Stringtown	34.49454	-96.00582	US	OK
+Strohm	36.64311	-96.55558	US	OK
+Strong City	35.67033	-99.59955	US	OK
+Stroud	35.74868	-96.65807	US	OK
+Stroud Interchange	35.75646	-96.66752	US	OK
+Stroud Sewage Lagoon	35.75821	-96.64733	US	OK
+Stuart	34.90148	-96.09889	US	OK
+Township of Stuart	34.88065	-96.14195	US	OK
+Stubbeman Village	35.20146	-97.44781	US	OK
+Success	36.61286	-95.03496	US	OK
+Sugar Hollow	35.84732	-95.22024	US	OK
+Sugden	34.08204	-97.97837	US	OK
+Sugar Loaf Mound	35.70699	-98.72258	US	OK
+Sulphur Bend	36.69479	-94.76079	US	OK
+Sulphur	34.50787	-96.96835	US	OK
+Township of Sulphur	34.24594	-94.93495	US	OK
+Summit	35.66593	-95.42275	US	OK
+Sumner	36.31893	-97.12143	US	OK
+Township of Sumner	36.20281	-97.942	US	OK
+Sumpter	36.88364	-97.29449	US	OK
+Sun Set Pool	34.73103	-98.72399	US	OK
+Township of Sunny Slope	35.70285	-96.57529	US	OK
+Sunray	34.41258	-97.96504	US	OK
+Sunrise	35.52065	-96.12306	US	OK
+Sunrise	35.45621	-95.91777	US	OK
+Sunset	35.75449	-98.9687	US	OK
+Sunset Corner	35.23843	-94.67217	US	OK
+Sunkist	34.14204	-95.88609	US	OK
+Sunshine Hollow	34.3451	-95.52747	US	OK
+Township of Supply	36.54726	-99.54206	US	OK
+Sunsweet	36.58259	-95.32414	US	OK
+Svoboda	34.71035	-98.95591	US	OK
+Township of Sutton	35.68343	-95.64193	US	OK
+Swappingback Mission	35.68644	-98.22478	US	OK
+Sweetwater	35.42227	-99.9115	US	OK
+Sweetwater Hollow	36.55619	-94.88107	US	OK
+Sweetwater Prairie	36.51869	-94.86996	US	OK
+Swink	34.01788	-95.20218	US	OK
+Sycamore	36.40508	-94.71328	US	OK
+Sycamore Cove	36.75424	-94.74051	US	OK
+Sycamore Hollow	34.40231	-97.03057	US	OK
+Sycamore Lookout Tower	34.77566	-94.89746	US	OK
+Sylvian	35.34785	-96.56557	US	OK
+Tabernacle	36.80975	-97.28477	US	OK
+Tabernacle of Praise	35.36117	-97.50448	US	OK
+Tabernacle of Praise	34.76953	-96.67557	US	OK
+Tabler	35.04423	-97.81976	US	OK
+Township of Tabler	35.06673	-97.83365	US	OK
+Tablerville	34.16455	-94.59605	US	OK
+Tabor	35.80175	-96.26361	US	OK
+Sycamore Square	36.41976	-97.90811	US	OK
+Tag Hollow	36.37981	-95.04441	US	OK
+Taft	35.76177	-95.54637	US	OK
+Tahlequah	35.91537	-94.96996	US	OK
+Tahlequah Christian Outreach	35.91426	-94.96218	US	OK
+Tahlequah Hollow	36.14314	-94.703	US	OK
+Tahona	35.16149	-94.60328	US	OK
+Tailholt	35.83676	-94.84217	US	OK
+Talala	36.52982	-95.70137	US	OK
+Township of Taliaferro	34.08343	-96.80028	US	OK
+Talihina	34.75149	-95.04802	US	OK
+Township of Talihina	34.69038	-94.93773	US	OK
+Township of Talala	36.55398	-95.72276	US	OK
+Township of Tallahasse	35.84732	-95.41692	US	OK
+Tallant	36.59758	-96.19056	US	OK
+Taloah	34.25898	-96.20249	US	OK
+Taloga	36.03865	-98.96371	US	OK
+Township of Taloga	36.02226	-98.93926	US	OK
+Tam-Bao Buddhist Temple	36.13593	-95.79054	US	OK
+Tamaha	35.39621	-94.98356	US	OK
+Tandy Town	34.93399	-95.77416	US	OK
+Tangier	36.42087	-99.53345	US	OK
+Township of Taloka	35.33899	-95.08635	US	OK
+Tatums	34.48286	-97.46169	US	OK
+Taupa	34.60396	-98.51034	US	OK
+Taylor	35.24811	-99.38231	US	OK
+Taylor	34.1737	-98.33116	US	OK
+Taylor	34.62229	-98.95035	US	OK
+Taylor Bluff	35.2901	-95.33192	US	OK
+Taylor Corner Gin	34.21814	-98.92368	US	OK
+Township of Taylor	35.3584	-97.56365	US	OK
+Teague Hollow	35.64009	-94.77967	US	OK
+Taylor Ferry	35.94427	-95.27913	US	OK
+Tecumseh	35.25785	-96.93669	US	OK
+Tecumseh Junction	35.31146	-96.87419	US	OK
+Teesquatnee Hollow	36.33286	-94.84134	US	OK
+Tegarden	36.79781	-98.9701	US	OK
+Telamay Hollow	36.03842	-94.8994	US	OK
+Temple	34.27203	-98.23588	US	OK
+Temple of Faith Full Gospel	35.49367	-97.52337	US	OK
+Temple of Healing	35.52284	-97.49198	US	OK
+Temple of Praise PCG	35.23313	-96.67502	US	OK
+Templo de Albanza	35.43951	-97.52059	US	OK
+Tenkiller	35.80065	-94.86384	US	OK
+Teresita	36.10954	-94.99274	US	OK
+Terlton	36.18813	-96.4903	US	OK
+Terral	33.89677	-97.93642	US	OK
+Texanna	35.34732	-95.43692	US	OK
+Texas Hole	34.3951	-95.90026	US	OK
+Township of Texas	34.19176	-98.29199	US	OK
+Township of Texas	35.42505	-98.66979	US	OK
+Texola	35.21922	-99.99122	US	OK
+Township of Texola	35.23616	-99.94761	US	OK
+Texoma Speedway	33.8901	-96.21498	US	OK
+Thackerville	33.79344	-97.14307	US	OK
+The 101 Centre	36.4192	-99.3865	US	OK
+The Consortium	36.11315	-95.97527	US	OK
+The Holy City	34.74285	-98.5909	US	OK
+The Holy City	34.74257	-98.59034	US	OK
+The May and Grand Shoppes	35.547	-97.56476	US	OK
+The Quarters	36.74648	-95.97665	US	OK
+The Village	35.56089	-97.55143	US	OK
+The Village Square	35.56783	-97.56699	US	OK
+The Village at Aspen Square	36.04704	-95.81471	US	OK
+Thomas	35.74422	-98.74758	US	OK
+Thomas Hollow	34.39064	-97.28113	US	OK
+Township of Thomas	34.18759	-96.54194	US	OK
+Thompson Bend	34.01594	-94.93828	US	OK
+Thompson Corner	35.91537	-95.08274	US	OK
+Three Finger Cove	36.68674	-94.74995	US	OK
+Three Sticks Monument	34.61288	-94.65745	US	OK
+Three-Way Corner	35.29089	-98.412	US	OK
+Ti	34.70927	-95.66137	US	OK
+Ti Valley	34.71177	-95.66332	US	OK
+Tia Juana	36.47897	-95.00329	US	OK
+Tiak Lookout Tower	33.83678	-94.70827	US	OK
+Tiawah	36.26121	-95.56081	US	OK
+Township of Ti	34.6876	-95.68776	US	OK
+Tiger	36.18871	-95.80471	US	OK
+Township of Tiger	36.06396	-96.5753	US	OK
+Township of Tiger	35.58621	-96.08083	US	OK
+Township of Tilley	34.79451	-99.60315	US	OK
+Timberlane	36.21258	-96.26196	US	OK
+Tiner	34.04122	-94.63355	US	OK
+Tinker Air Force Base	35.42555	-97.39682	US	OK
+Tinders Bend	36.89864	-96.97698	US	OK
+Tip	36.35092	-95.18413	US	OK
+Tipps Point	34.07926	-97.09362	US	OK
+Tipton	34.50285	-99.14091	US	OK
+Tishomingo	34.23621	-96.67861	US	OK
+Tishomingo National Fish Hatchery	34.35037	-96.71417	US	OK
+Tishomingo National Wildlife Refuge	34.17812	-96.63975	US	OK
+Titanic	35.90092	-94.77217	US	OK
+Todd	36.66675	-95.0533	US	OK
+Togo	36.41976	-98.76481	US	OK
+Township of Tohee	35.7695	-97.08642	US	OK
+Tom	33.73595	-94.57299	US	OK
+Tom Lookout	33.74845	-94.57215	US	OK
+Tonkawa	36.67837	-97.31004	US	OK
+Township of Tonkawa	34.96951	-98.25588	US	OK
+Township of Tonkawa	36.71115	-97.29199	US	OK
+Tonnece	36.27869	-94.61189	US	OK
+Torpedo	36.72703	-96.04304	US	OK
+Touzalin	36.33337	-99.97485	US	OK
+Toppers	35.97066	-95.30969	US	OK
+Townley Hollow	34.02315	-97.39557	US	OK
+Township 1	36.92646	-95.06607	US	OK
+Township 1	36.21675	-94.9419	US	OK
+Township 10	36.92369	-95.36803	US	OK
+Township 2	36.92452	-95.26136	US	OK
+Township 2	36.21675	-94.69189	US	OK
+Township 3	36.81814	-95.31692	US	OK
+Township 3	36.44175	-94.9419	US	OK
+Township 4	36.81813	-95.06941	US	OK
+Township 4	36.44174	-94.69189	US	OK
+Township 5	36.69175	-95.31775	US	OK
+Township 5	36.58341	-94.9169	US	OK
+Township 6	36.57785	-94.69189	US	OK
+Township 7	36.65008	-95.0683	US	OK
+Township 8	36.55703	-95.19191	US	OK
+Township 9	36.72508	-95.0683	US	OK
+Tri-City	35.28923	-97.60115	US	OK
+Tribbey	35.11535	-97.05336	US	OK
+Trojan Square	36.02315	-95.97638	US	OK
+Trot Hollow	35.59954	-94.81273	US	OK
+Trestle Ford	34.99232	-94.48022	US	OK
+Trousdale	35.04119	-97.0428	US	OK
+Troy	34.32732	-96.78167	US	OK
+True Vine Southeast Mission	35.43923	-97.51059	US	OK
+Tryon	35.86978	-96.96392	US	OK
+Tsa La Gi Indian Village	35.86648	-94.95857	US	OK
+Tucker	35.30371	-94.73022	US	OK
+Tucker Bottom	35.31537	-94.713	US	OK
+Tucker Cove	36.95118	-96.1111	US	OK
+Tucker Hollow	34.35316	-95.49441	US	OK
+Tucker Knob	35.06954	-95.31386	US	OK
+Tucker Tower	34.04926	-97.08585	US	OK
+Tullahassee	35.83482	-95.43775	US	OK
+Tully Hollow	35.98315	-94.87884	US	OK
+Tulsa	36.15398	-95.99277	US	OK
+Tulsa Baptist Temple	36.14593	-95.95138	US	OK
+Tulsa State Fairground	36.13676	-95.92777	US	OK
+Township of Tulsa	36.14787	-95.94361	US	OK
+Tuna Bunch Hollow	35.67759	-94.60689	US	OK
+Tupelo	34.60481	-96.42417	US	OK
+Turkey Bluff	35.68704	-94.98329	US	OK
+Turkey Ford	36.66757	-94.71551	US	OK
+Turkey Hollow	36.02925	-94.71467	US	OK
+Turkey Knob	35.30537	-95.21247	US	OK
+Turley	36.24204	-95.97583	US	OK
+Township of Turnbull	34.90285	-97.5642	US	OK
+Township of Turner	35.48066	-95.67527	US	OK
+Township of Turner	34.44453	-97.21419	US	OK
+Tushka	34.32037	-96.16721	US	OK
+Tuskahoma	34.61788	-95.27663	US	OK
+Township of Tuskahoma	34.58343	-95.25052	US	OK
+Tuskegee	35.65314	-96.28111	US	OK
+Tussy	34.50675	-97.54308	US	OK
+Tuttle	35.29089	-97.81227	US	OK
+Township of Tuttle	35.28617	-97.84199	US	OK
+Tuxedo Assembly of God	36.75703	-95.93776	US	OK
+Twelvemile Prairie	34.15398	-96.45972	US	OK
+Twentynine Hollow	35.05426	-95.13246	US	OK
+Twin Mounds	35.44394	-98.61896	US	OK
+Twin Mounds	36.78479	-96.24944	US	OK
+Twin Mounds	36.11589	-96.77808	US	OK
+Twin Mounds	36.43676	-95.6197	US	OK
+Twin Mounds	35.9301	-96.02472	US	OK
+Twin Mounds	36.56981	-95.96749	US	OK
+Twin Oaks	36.20536	-94.85134	US	OK
+Tyler	34.10371	-96.90973	US	OK
+Tyner	36.73892	-97.29227	US	OK
+Tynon Bluffs	36.5398	-94.95802	US	OK
+Tyrola	34.90703	-96.69557	US	OK
+Ulan	35.11621	-95.88639	US	OK
+Ultima Thule	34.05928	-94.47882	US	OK
+Tyas Bend	33.8801	-97.33085	US	OK
+Unger	34.02621	-95.78192	US	OK
+Union	36.02893	-97.80116	US	OK
+Union	36.07371	-95.86471	US	OK
+Union Cemeteries	35.23091	-96.80002	US	OK
+Union City	35.39172	-97.94144	US	OK
+Township of Union City	35.39172	-97.9031	US	OK
+Union Valley	34.69426	-96.58279	US	OK
+Township of Union	36.46392	-97.71422	US	OK
+Township of Union	35.29728	-97.94199	US	OK
+Township of Union	36.02782	-97.84478	US	OK
+Township of Union	35.76951	-96.89753	US	OK
+Township of Union	36.03062	-96.7753	US	OK
+Township of Union	35.40839	-98.79757	US	OK
+Township of Union	36.57781	-99.18649	US	OK
+Upper Sandtown Bottom	35.4351	-95.01495	US	OK
+Ury	34.05176	-96.37305	US	OK
+Utica	33.90149	-96.22137	US	OK
+Valley Brook	35.40201	-97.48143	US	OK
+Valley Gin	34.24731	-98.94118	US	OK
+Township of Valley	35.6306	-98.25589	US	OK
+Township of Valley	36.81392	-97.83922	US	OK
+Township of Valley	36.27506	-96.59197	US	OK
+Township of Valley	36.72225	-98.59203	US	OK
+Valliant	34.00233	-95.09384	US	OK
+Vamoosa	34.98564	-96.67002	US	OK
+Van Hollow	35.65009	-94.62244	US	OK
+Vance Air Force Base	36.33976	-97.91645	US	OK
+Township of Van	36.40837	-98.27535	US	OK
+Township of Vann	35.48482	-95.19052	US	OK
+Vanoss	34.76397	-96.87196	US	OK
+Vaughn Hollow	35.09399	-95.12691	US	OK
+Velma	34.46008	-97.67392	US	OK
+Vera	36.44926	-95.88082	US	OK
+Verden	35.0834	-98.08783	US	OK
+Verdigris	36.23482	-95.69109	US	OK
+Vernon	35.21565	-95.92583	US	OK
+Township of Vernon	36.92503	-97.19199	US	OK
+Vertao Electronic Site	34.68038	-94.60884	US	OK
+Veterans Colony	34.80621	-95.30497	US	OK
+Vian	35.49843	-94.96967	US	OK
+Vian Garden of Memories	35.51232	-94.97106	US	OK
+Township of Vian	35.49176	-94.96412	US	OK
+Vici	36.14976	-99.29816	US	OK
+Victor	34.96649	-94.7869	US	OK
+Township of Victor	35.05424	-97.58642	US	OK
+Victory	34.65229	-99.43898	US	OK
+Victory Assembly of God	35.07062	-98.23727	US	OK
+Victory Assembly of God	35.4895	-97.53726	US	OK
+Victory Baptist Temple	35.46784	-97.37642	US	OK
+Victory Life	34.00537	-96.40971	US	OK
+Victory Life Fellowship	34.7787	-96.6839	US	OK
+Vien Grac Buddhist Temple	35.50812	-97.42948	US	OK
+Village Square	36.14064	-96.105	US	OK
+Township of Vincent	35.1584	-97.71421	US	OK
+Vinco	35.95367	-97.03753	US	OK
+Township of Verdigris	36.26399	-95.56109	US	OK
+Vining	36.76753	-98.16423	US	OK
+Vinita	36.63869	-95.15413	US	OK
+Vinita Interchange	36.63258	-95.13274	US	OK
+Vinita Waterworks	36.54786	-95.09274	US	OK
+Vinson	34.90061	-99.85982	US	OK
+Virgil	34.06983	-95.38246	US	OK
+Vivian	35.28982	-95.71638	US	OK
+Township of Waconda	35.50838	-98.36978	US	OK
+Wade	33.88899	-96.07609	US	OK
+Wadena	34.4026	-95.59692	US	OK
+Wagoner	35.95954	-95.36941	US	OK
+Wainwright	35.6126	-95.56442	US	OK
+Wakita	36.88336	-97.922	US	OK
+Township of Wakita	36.92503	-97.95312	US	OK
+Township of Waldron	35.24451	-97.74476	US	OK
+Walker Hollow	35.62426	-94.63633	US	OK
+Walker Square	35.40673	-97.52032	US	OK
+Walker Stadium	34.17398	-97.15307	US	OK
+Township of Walker	34.70425	-97.0628	US	OK
+Walkingstick Hollow	35.63704	-94.82967	US	OK
+Township of Wall	34.59452	-97.91976	US	OK
+Walls	35.03704	-94.90912	US	OK
+Wallville	34.76813	-97.50392	US	OK
+Walnut Square	35.40534	-97.54921	US	OK
+Township of Walnut	35.22784	-98.35589	US	OK
+Township of Walnut	36.20282	-97.19198	US	OK
+Walters	34.35981	-98.30783	US	OK
+Township of Waltham	36.81115	-96.96976	US	OK
+Wandel	35.88504	-97.7456	US	OK
+Wanette	34.96202	-97.03252	US	OK
+Wann	36.91536	-95.80442	US	OK
+Wapanucka	34.37398	-96.42444	US	OK
+Wardville	34.65371	-96.03027	US	OK
+Township of Ware	36.81114	-98.05312	US	OK
+Warr Acres	35.52256	-97.61893	US	OK
+Warren	34.78312	-99.20842	US	OK
+Warner	35.49426	-95.30552	US	OK
+Township of Warren Valley	36.28337	-97.41143	US	OK
+Washington	35.05896	-97.48448	US	OK
+Warwick	35.6859	-97.00419	US	OK
+Township of Washington	33.80844	-97.13085	US	OK
+Township of Washington	36.20837	-98.04756	US	OK
+Township of Washington	35.33895	-98.03922	US	OK
+Washington-Osage Baptist Association	36.76537	-95.93582	US	OK
+Washita	35.10284	-98.34089	US	OK
+Washita	34.54703	-97.13141	US	OK
+Washita National Wildlife Refuge	35.61494	-99.26266	US	OK
+Washita Point	33.92121	-96.59472	US	OK
+Township of Washita	35.56116	-99.18926	US	OK
+Township of Washita	35.81393	-99.93928	US	OK
+Washunga	36.78365	-96.83809	US	OK
+Wasseta	34.07982	-96.31027	US	OK
+Watchorn	36.42005	-96.99671	US	OK
+Waterfowl Refuge	34.14538	-95.44968	US	OK
+Waterfowl Refuge	35.92369	-96.33834	US	OK
+Waterfowl Refuge	34.90371	-94.8269	US	OK
+Watkins	35.98093	-96.01166	US	OK
+Township of Watkins	36.28615	-97.29199	US	OK
+Watonga	35.84477	-98.41313	US	OK
+Township of Watonga	35.86393	-98.41702	US	OK
+Watova	36.61731	-95.65581	US	OK
+Township of Watova	36.64815	-95.68359	US	OK
+Watson	34.43733	-94.55744	US	OK
+Waterloo	35.72533	-97.4781	US	OK
+Waukomis	36.28031	-97.89811	US	OK
+Township of Waukomis	36.28615	-97.942	US	OK
+Waurika	34.16704	-97.99754	US	OK
+Wayne	34.91813	-97.31447	US	OK
+Township of Wayne	34.90702	-97.35308	US	OK
+Waynoka	36.58226	-98.87981	US	OK
+Township of Waynoka	36.53337	-98.9087	US	OK
+Wayside	36.84842	-95.86331	US	OK
+Weatherford	35.52616	-98.70757	US	OK
+Weathers	34.65954	-95.58359	US	OK
+Webb City	36.80698	-96.70864	US	OK
+Webb	35.92782	-99.1326	US	OK
+Township of Webb	35.9306	-99.18649	US	OK
+Township of Webster	36.24726	-99.18927	US	OK
+Weed Hollow	34.39703	-97.79087	US	OK
+Weeks	33.86843	-95.83414	US	OK
+Wekiwa	36.15314	-96.17306	US	OK
+Township of Wekiwa	36.1487	-96.12806	US	OK
+Welch	36.87369	-95.0958	US	OK
+Welch Store	33.89567	-94.65243	US	OK
+Weleetka	35.33565	-96.13639	US	OK
+Township of Weleetka	35.34176	-96.06972	US	OK
+Well Hollow	34.78677	-94.76579	US	OK
+Welling	35.87787	-94.90106	US	OK
+Wells Hollow	35.55065	-94.91245	US	OK
+Township of Wells	35.94171	-98.26423	US	OK
+Wellston	35.69423	-97.06336	US	OK
+Township of Wellston	35.68201	-97.09197	US	OK
+Welon	34.65201	-99.34648	US	OK
+Welty	35.62452	-96.40529	US	OK
+Werning	35.43672	-99.01286	US	OK
+Wes	36.21202	-96.26918	US	OK
+Wesley	34.58787	-95.89777	US	OK
+Wesley Foundation Ministries	35.65783	-97.40809	US	OK
+West Anadarche Arm	34.11037	-97.10251	US	OK
+Township of West Bressie	36.55282	-97.08365	US	OK
+West Compton Hollow	34.80066	-95.01857	US	OK
+West Cleo	36.40559	-98.46536	US	OK
+West Dike	34.76034	-99.03619	US	OK
+West Fork	34.85506	-98.76479	US	OK
+West Fork	34.38816	-95.46025	US	OK
+West Fort Smith	35.39704	-94.43994	US	OK
+West Fort Towson	34.02288	-95.27384	US	OK
+Township of West McKinley	35.06951	-98.35311	US	OK
+West Muskogee	35.73704	-95.41192	US	OK
+West Point	36.18839	-96.8542	US	OK
+West Seneca	36.83673	-94.61995	US	OK
+Township of West Walnut	35.44172	-98.26978	US	OK
+West Tulsa	36.13509	-96.0025	US	OK
+West Windy Prairie	34.41509	-96.00138	US	OK
+Westmoore Community Covenent	35.37645	-97.52143	US	OK
+Township of Weston	36.81114	-97.19199	US	OK
+Westport	36.21897	-96.32474	US	OK
+Westville	35.99258	-94.568	US	OK
+Township of Westville	35.97508	-94.58355	US	OK
+Wet Prairie	36.44397	-94.64022	US	OK
+Wetumka	35.23759	-96.24167	US	OK
+Township of Wetumka	35.1862	-96.22251	US	OK
+Wewoka	35.15869	-96.49335	US	OK
+Wheatland	35.39784	-97.65226	US	OK
+Wheeler Hollow	34.80066	-94.82606	US	OK
+Wheeler Landing Strip	35.30144	-98.58895	US	OK
+Whippoorwill	36.91229	-96.12999	US	OK
+Whiskey Gap	36.46176	-95.3308	US	OK
+Whiskey Hollow	35.81315	-95.20691	US	OK
+Whiskey Knob	34.84954	-95.99583	US	OK
+Whisky Hollow	34.45649	-95.81776	US	OK
+Whisky Hollow	34.47287	-95.86165	US	OK
+Whisky Hollow	34.13816	-94.91772	US	OK
+Whisky Hollow	36.72564	-96.11277	US	OK
+Whitaker Bend	33.70511	-94.72771	US	OK
+White Bead	34.76341	-97.30197	US	OK
+Township of White Bread	35.23061	-98.25866	US	OK
+White Eagle	36.64559	-97.07865	US	OK
+White Eagle	36.60837	-97.07615	US	OK
+White Mound	34.37231	-97.00779	US	OK
+White Oak	35.72565	-95.02968	US	OK
+White Oak	36.62036	-95.26414	US	OK
+White Van Hollow	35.68092	-94.58994	US	OK
+Township of White	33.82233	-94.82244	US	OK
+White Wolf Ceremonial Grounds	34.75924	-98.45756	US	OK
+Whitebead	34.76091	-97.30058	US	OK
+Township of Whitebread	34.78619	-97.31419	US	OK
+Township of Whitehorse	36.81392	-98.91704	US	OK
+Whitesboro	34.6926	-94.88523	US	OK
+Whitewolf Ceremonial Grounds	34.75924	-98.45367	US	OK
+Whitworth Bend	36.65448	-97.52421	US	OK
+Wichita Mission	35.12534	-98.23839	US	OK
+Township of Wichita	34.76951	-98.7809	US	OK
+Wilburton	34.91871	-95.30914	US	OK
+Township of Wilcox	35.96116	-99.85317	US	OK
+Wild Horse Gap	34.57982	-95.52109	US	OK
+Wild Horse Prairie	35.77121	-95.11524	US	OK
+Wildcat Hollow	34.42009	-95.98832	US	OK
+Wildcat Hollow	35.61037	-94.65467	US	OK
+Wildhorse	35.91284	-96.80391	US	OK
+Wildcat Point	35.76481	-94.91745	US	OK
+Wildhorse Hollow	35.02871	-94.84301	US	OK
+Wildhorse Prairie	35.89952	-96.3464	US	OK
+Wilkerson Hollow	35.97425	-94.66911	US	OK
+Will Rogers Downs	36.31121	-95.53248	US	OK
+Will and Wileys Aerodrome	36.32565	-95.64692	US	OK
+Willard	36.97253	-99.7254	US	OK
+William Ross Hollow	35.65564	-94.66883	US	OK
+Willis	33.88566	-96.82917	US	OK
+Township of Willis	33.93343	-96.79195	US	OK
+Willow	35.05144	-99.50953	US	OK
+Willow View	35.05841	-97.26503	US	OK
+Integris Mental Health System	35.49544	-97.3817	US	OK
+Township of Willow	35.23061	-98.46423	US	OK
+Township of Willow	35.07505	-99.56426	US	OK
+Wilson	34.34592	-96.35472	US	OK
+Wilson	34.16204	-97.42586	US	OK
+Wilson	35.5076	-96.03472	US	OK
+Wilson Hollow	34.35593	-95.90248	US	OK
+Wilson Point	36.72868	-94.7694	US	OK
+Township of Wilson	34.15843	-97.00862	US	OK
+Township of Wilson	34.05844	-95.2919	US	OK
+Township of Wilson	34.29176	-96.34194	US	OK
+Township of Wilson	36.90281	-99.69207	US	OK
+Wilzetta	35.55035	-96.73557	US	OK
+Winchester	35.78621	-95.99222	US	OK
+Winchester	36.95725	-98.79731	US	OK
+Winganon	36.55398	-95.56109	US	OK
+Winset Hollow	36.11675	-94.80912	US	OK
+Winship Prairie	34.09039	-94.55827	US	OK
+Winter Valley	34.75395	-98.69673	US	OK
+Winters Hollow	35.42121	-95.15024	US	OK
+Wirt	34.23093	-97.53169	US	OK
+Wister	34.96732	-94.72467	US	OK
+Township of Wister	34.96954	-94.81968	US	OK
+Witch Hole	34.40888	-96.54046	US	OK
+Witcher	35.59395	-97.42282	US	OK
+Witteville	35.08649	-94.65078	US	OK
+Wolco	36.53842	-96.07138	US	OK
+Wolf	35.08758	-96.65863	US	OK
+Wolf Hollow	35.95788	-95.18052	US	OK
+Wolf Hollow	34.18733	-94.93411	US	OK
+Wolf Point	36.65896	-94.73745	US	OK
+Township of Wolf	35.11952	-96.69752	US	OK
+Township of Wood	36.28615	-97.51421	US	OK
+Woodall	35.83482	-95.06829	US	OK
+Woodard Corner	35.52204	-96.15889	US	OK
+Wooded Hollow	36.00177	-95.22913	US	OK
+Township of Woodland	35.94171	-97.51699	US	OK
+Township of Woodrow	36.38615	-99.76984	US	OK
+Woods	35.43534	-97.26475	US	OK
+Woodford	34.3387	-97.28446	US	OK
+New Woodville	33.96982	-96.65361	US	OK
+Woodward	36.43365	-99.39039	US	OK
+Woodward Hollow	36.54313	-94.84273	US	OK
+Township of Woodward	36.41948	-99.41983	US	OK
+Woolaroc	36.66091	-96.11444	US	OK
+Wooster Mound	36.60285	-96.31723	US	OK
+Word of Life Fellowship	35.04034	-97.95365	US	OK
+Worman Junction	35.91314	-96.27834	US	OK
+Wright City	34.06011	-95.00328	US	OK
+Township of Wright	34.10843	-97.66419	US	OK
+Wyandotte	36.7934	-94.72523	US	OK
+Township of Wyandotte	36.8334	-94.69189	US	OK
+Wynnewood	34.64342	-97.16447	US	OK
+Wynona	36.54618	-96.32723	US	OK
+Yahola	35.7626	-95.60692	US	OK
+Yale	36.11423	-96.69919	US	OK
+Yankee Bill Prairie	36.81424	-94.6455	US	OK
+Township of Wray	33.9251	-97.84475	US	OK
+Yarnaby	33.79093	-96.25693	US	OK
+Yanush	34.70982	-95.31386	US	OK
+Yeager	35.15758	-96.33945	US	OK
+Yellow Bird Hollow	36.48924	-94.73773	US	OK
+Township of Yeager	35.18758	-96.35584	US	OK
+Yellowjacket Hollow	34.67677	-95.61526	US	OK
+Township of Yellowstone	36.92503	-99.03649	US	OK
+Yerby	35.00065	-94.678	US	OK
+Yewed	36.68225	-98.41008	US	OK
+Yonkers	36.05288	-95.2608	US	OK
+Yorktown Shops	35.58006	-97.53254	US	OK
+Yost	36.20088	-97.01143	US	OK
+Yokum Hollow	36.08593	-95.04274	US	OK
+Yukon	35.50672	-97.76254	US	OK
+Township of Yukon	35.51117	-97.76143	US	OK
+Zafra	34.50844	-94.48855	US	OK
+Zaneis	34.17259	-97.49919	US	OK
+Zeb	35.82176	-95.05468	US	OK
+Township of Zella	34.63757	-98.22116	US	OK
+Zena	36.49619	-94.85357	US	OK
+Zion	35.78259	-94.63494	US	OK
+Zion Full Gospel Tabernacle	34.5037	-97.1178	US	OK
+Zoe	34.76788	-94.62828	US	OK
+Addington Bend	33.82816	-97.0639	US	OK
+Township of Brown	34.04454	-96.51416	US	OK
+Cato	36.14587	-98.03256	US	OK
+Russett	34.1901	-96.80501	US	OK
+Dead Woman Mound	35.47589	-98.50479	US	OK
+Heman	36.53503	-98.94398	US	OK
+Glenn	34.31787	-97.19557	US	OK
+Polk	36.60837	-97.45421	US	OK
+Nashoba	34.48205	-95.21524	US	OK
+Stephens Gap	34.15733	-94.70022	US	OK
+Whitmire	35.94425	-94.66384	US	OK
+Turner	33.9401	-97.31668	US	OK
+Rambo	36.26894	-96.88948	US	OK
+Cheyenne Playground	36.17954	-95.9975	US	OK
+Canon Gallinas	36.94502	-102.78103	US	OK
+Adobe Draw	36.78169	-102.49574	US	OK
+Autograph Cliff	36.83252	-102.64936	US	OK
+Baker	36.86947	-101.01794	US	OK
+Balko	36.63003	-100.68487	US	OK
+Beaver	36.81614	-100.51987	US	OK
+Township of Beaver North	36.88058	-100.6921	US	OK
+Township of Beaver South	36.63058	-100.75876	US	OK
+Township of Benton	36.71947	-100.29209	US	OK
+Boise City	36.72947	-102.51324	US	OK
+Boyd	36.70336	-100.82821	US	OK
+Bryans Corner	36.61642	-100.82849	US	OK
+Township of Blue Grass	36.59726	-100.0643	US	OK
+Burrows Draw	36.94669	-102.36963	US	OK
+Burton	36.79836	-102.16129	US	OK
+Castaneda	36.88113	-102.5213	US	OK
+Township of Cathage	36.92225	-101.81155	US	OK
+Catholic Rectory	36.7278	-102.51824	US	OK
+Township of Cleveland	36.67502	-102.45324	US	OK
+Conrad	36.6153	-102.37351	US	OK
+Coopers Arroyo	36.96058	-102.94771	US	OK
+Devils Backbone	36.94697	-100.05208	US	OK
+Dry Sand Draw	36.71114	-101.49599	US	OK
+Township of Elmwood	36.68614	-100.47265	US	OK
+Eva	36.79836	-101.90683	US	OK
+Felt	36.56753	-102.79353	US	OK
+Floris	36.86975	-100.71127	US	OK
+Four Corners	36.76197	-101.90683	US	OK
+French Draw	36.81224	-102.42185	US	OK
+Forgan	36.90697	-100.53932	US	OK
+Township of Friendship	36.92225	-101.44488	US	OK
+Township of Garland	36.96947	-100.17542	US	OK
+Township of Garrett	36.89169	-102.45324	US	OK
+Goodwell	36.5953	-101.63655	US	OK
+Township of Goodwell	36.57503	-101.656	US	OK
+Township of Grand Valley	36.71947	-101.06155	US	OK
+Gray	36.55836	-100.82376	US	OK
+Township of Gresham	36.5528	-102.85881	US	OK
+Griggs	36.6028	-102.12239	US	OK
+Guymon	36.6828	-101.48155	US	OK
+Township of Guymon	36.61947	-101.42544	US	OK
+Gallinas Canon	36.94419	-102.77964	US	OK
+Hardesty	36.61642	-101.19071	US	OK
+Township of Hackberry	36.61392	-101.05877	US	OK
+Township of Hooker	36.88058	-101.20877	US	OK
+Hopkins	36.79947	-102.08212	US	OK
+Hough	36.87086	-101.5771	US	OK
+Hovey	36.8628	-101.67905	US	OK
+Hooker	36.86003	-101.2135	US	OK
+Kenton	36.90308	-102.96326	US	OK
+Township of Kenton	36.91947	-102.8227	US	OK
+Keyes	36.80974	-102.25546	US	OK
+King Draw	36.92724	-102.4138	US	OK
+Knowles	36.87336	-100.19347	US	OK
+Township of Knowles	36.8417	-100.29209	US	OK
+Libbey	36.93724	-101.97489	US	OK
+Logan	36.57281	-100.21736	US	OK
+Township of Logan	36.57781	-100.29208	US	OK
+Ludlam	36.76058	-102.39463	US	OK
+Township of Marella	36.58058	-102.17545	US	OK
+McCullough	36.84836	-102.17684	US	OK
+Mexhoma	36.71947	-102.98465	US	OK
+Mocane	36.89364	-100.37265	US	OK
+Mouser	36.87058	-101.41516	US	OK
+Muncy	36.82002	-101.76266	US	OK
+Township of Nabisco	36.84725	-101.04211	US	OK
+Nevitt Draw	36.93919	-102.40685	US	OK
+Midway	36.87003	-101.36072	US	OK
+Optima	36.75836	-101.35627	US	OK
+Township of Optima	36.78614	-101.33377	US	OK
+Panoma	36.83391	-101.25961	US	OK
+Township of Pleasant View	36.94725	-101.06155	US	OK
+Range	36.54392	-101.08321	US	OK
+Razor Blade Mesa	36.94613	-102.56352	US	OK
+Sand Draw	36.51031	-101.08655	US	OK
+Township of Sandy Hook	36.91947	-102.17545	US	OK
+Site of Old Fort Nichols	36.75391	-102.92631	US	OK
+Sophia	36.52892	-100.39681	US	OK
+Slapout	36.61587	-100.10874	US	OK
+Sturgis	36.89391	-102.07017	US	OK
+Straight	36.87669	-101.44877	US	OK
+Township of Texhoma	36.58058	-101.81155	US	OK
+Texhoma	36.50503	-101.78294	US	OK
+Township of Turney	36.76391	-101.81433	US	OK
+Turpin	36.86753	-100.87738	US	OK
+Tyrone	36.95419	-101.06544	US	OK
+Unity	36.76197	-101.70877	US	OK
+Township of Wheeless	36.70558	-102.83937	US	OK
+Wheeless	36.71919	-102.89437	US	OK
+Winchester Mesa	36.89474	-102.54297	US	OK
+Elmwood	36.61642	-100.52265	US	OK
+Fluor	36.96642	-101.051	US	OK
+Regnier	36.99391	-102.85715	US	OK
+Doolin	36.79891	-101.99295	US	OK
+Sulphur Municipal	34.51667	-96.98333	US	OK
+Hominy Municipal	36.43333	-96.38333	US	OK
+Tulsa Nexrad	36.18333	-95.56667	US	OK
+Oklahoma City Nexrad	35.33333	-97.28333	US	OK
+J-B Airstrip	36.525	-97.75861	US	OK
+Immanuel Lutheran MO Synod	35.50778	-97.54222	US	OK
+Great Plains MCC	34.58389	-98.40944	US	OK
+Residence Ok City South	35.3896	-97.4945	US	OK
+Savannahs Country B & B	36.17891	-95.71532	US	OK
+Hawthorn Tinker AFB	35.4436	-97.4203	US	OK
+Embassy Stes Oklahoma City Arp	35.446	-97.601	US	OK
+MICROTEL CLAREMORE	36.333	-95.5954	US	OK
+MICROTEL HINTON	35.4861	-98.3535	US	OK
+MICROTEL SALLISAW	35.4506	-94.808	US	OK
+ESA OKLAHOMA CITY-NW	35.52535	-97.5607	US	OK
+MICROTEL TULSA EST ADMIRAL PLC	36.1606	-95.794	US	OK
+MICROTEL BROKEN BOW	34.0088	-94.7394	US	OK
+MICROTEL IDABEL	33.869	-94.7992	US	OK
+MICROTEL OKLAHOMA CITY MOORE	35.3152	-97.4894	US	OK
+ESD OKLAHOMA CITY-NW	35.54478	-97.60805	US	OK
+STUDIOPLUS TULSA CENTRAL	36.1177	-95.889	US	OK
+ESA TULSA-CENTRAL	36.1141	-95.8922	US	OK
+HAMPTON STES LAWTON OK	34.6233	-98.4296	US	OK
+MICROTEL MIAMI  OK	36.8712	-94.8554	US	OK
+MICROTEL THACKERVILLE	33.7902	-97.1328	US	OK
+MICROTEL ARDMORE	34.1878	-97.171	US	OK
+MICROTEL PRYOR	36.276	-95.2985	US	OK
+Boone Pickens Stadium	36.12569	-97.06654	US	OK
+Nescatunga	36.75306	-98.15278	US	OK
+City of Catoosa	36.18319	-95.76624	US	OK
+City of Cedar Valley	35.87525	-97.49694	US	OK
+City of Centrahoma	34.61041	-96.3436	US	OK
+City of Chandler	35.70973	-96.87783	US	OK
+City of Cherokee	36.75471	-98.35506	US	OK
+City of Chickasha	35.04103	-97.94723	US	OK
+City of Choctaw	35.47995	-97.26658	US	OK
+City of Claremore	36.31434	-95.60988	US	OK
+City of Cleveland	36.31093	-96.47128	US	OK
+City of Alva	36.80109	-98.66791	US	OK
+City of Anadarko	35.06523	-98.24406	US	OK
+City of Antlers	34.23251	-95.62138	US	OK
+City of Ardmore	34.19439	-97.12525	US	OK
+City of Atoka	34.38551	-96.1314	US	OK
+City of Beggs	35.72617	-96.02848	US	OK
+City of Bethany	35.50717	-97.64173	US	OK
+City of Bixby	35.9455	-95.8775	US	OK
+City of Blanchard	35.15482	-97.65879	US	OK
+City of Bristow	35.83379	-96.39414	US	OK
+City of Broken Arrow	36.03668	-95.78086	US	OK
+City of Cache	34.62969	-98.61799	US	OK
+City of Idabel	33.90414	-94.82939	US	OK
+City of Jay	36.42725	-94.79545	US	OK
+City of Jenks	35.99805	-95.97377	US	OK
+City of Collinsville	36.37287	-95.85944	US	OK
+City of Comanche	34.29104	-97.95566	US	OK
+City of Commerce	36.93166	-94.87053	US	OK
+City of Coweta	35.95368	-95.62754	US	OK
+City of Crescent	35.95225	-97.59401	US	OK
+City of Cushing	35.97984	-96.76033	US	OK
+City of Davis	34.44642	-97.18398	US	OK
+City of Dewey	36.79133	-95.93272	US	OK
+City of Drumright	35.98932	-96.599	US	OK
+City of Duncan	34.52095	-97.96008	US	OK
+City of Durant	33.99569	-96.39381	US	OK
+City of Edmond	35.66894	-97.41592	US	OK
+City of El Reno	35.54302	-97.96602	US	OK
+City of Elgin	34.78482	-98.30098	US	OK
+City of Enid	36.40611	-97.87009	US	OK
+City of Erick	35.21535	-99.86855	US	OK
+City of Eufaula	35.29217	-95.58615	US	OK
+City of Frederick	34.3507	-98.98878	US	OK
+City of Garber	36.43651	-97.58094	US	OK
+City of Geary	35.60601	-98.3033	US	OK
+City of Glenpool	35.94974	-96.00465	US	OK
+City of Guymon	36.69012	-101.47774	US	OK
+City of Haileyville	34.85416	-95.57844	US	OK
+City of Harrah	35.47983	-97.18642	US	OK
+City of Hartshorne	34.83884	-95.55857	US	OK
+City of Healdton	34.23354	-97.48684	US	OK
+City of Heavener	34.89192	-94.60748	US	OK
+City of Henryetta	35.44209	-95.98476	US	OK
+City of Hollis	34.68943	-99.91544	US	OK
+City of Hominy	36.42214	-96.39295	US	OK
+City of Hooker	36.8612	-101.21605	US	OK
+City of Hugo	34.01218	-95.51151	US	OK
+City of Lehigh	34.47072	-96.22088	US	OK
+City of Lexington	35.01788	-97.33444	US	OK
+City of Lindsay	34.8394	-97.61035	US	OK
+City of Mangum	34.87838	-99.50395	US	OK
+City of Marietta	33.93554	-97.12418	US	OK
+City of Marlow	34.62968	-97.958	US	OK
+City of Maud	35.13333	-96.77838	US	OK
+City of McAlester	34.92627	-95.76986	US	OK
+City of Medford	36.80372	-97.73788	US	OK
+City of Miami	36.88764	-94.872	US	OK
+City of Minco	35.3174	-97.95182	US	OK
+City of Morris	35.59577	-95.87118	US	OK
+City of Muskogee	35.74297	-95.35668	US	OK
+City of Mustang	35.39168	-97.72461	US	OK
+City of New Cordell	35.29723	-98.98159	US	OK
+City of Newcastle	35.24041	-97.59984	US	OK
+City of Newkirk	36.88167	-97.05544	US	OK
+City of Noble	35.13856	-97.37101	US	OK
+City of Norman	35.2335	-97.34704	US	OK
+City of Nowata	36.69855	-95.63821	US	OK
+City of Oilton	36.08215	-96.58194	US	OK
+City of Okemah	35.42966	-96.30049	US	OK
+City of Oklahoma City	35.46765	-97.51379	US	OK
+City of Okmulgee	35.60402	-95.98106	US	OK
+City of Owasso	36.28842	-95.83118	US	OK
+City of Pauls Valley	34.73772	-97.23094	US	OK
+City of Pawhuska	36.66899	-96.33137	US	OK
+City of Perkins	35.97805	-97.02993	US	OK
+City of Perry	36.28486	-97.30713	US	OK
+City of Piedmont	35.67838	-97.75277	US	OK
+City of Poteau	35.04305	-94.63566	US	OK
+City of Prague	35.49189	-96.69453	US	OK
+City of Purcell	35.02465	-97.37082	US	OK
+City of Kingfisher	35.84391	-97.93802	US	OK
+City of Konawa	34.95818	-96.75353	US	OK
+City of Krebs	34.92995	-95.71996	US	OK
+Town of Arkoma	35.33747	-94.44385	US	OK
+Town of Armstrong	34.05282	-96.34478	US	OK
+Town of Arnett	36.13508	-99.77119	US	OK
+Town of Asher	34.98842	-96.92547	US	OK
+Town of Ashland	34.7668	-96.07062	US	OK
+Town of Atwood	34.95492	-96.33671	US	OK
+Town of Avant	36.48862	-96.05985	US	OK
+Town of Bearden	35.35677	-96.38523	US	OK
+Town of Beaver	36.81513	-100.52352	US	OK
+Town of Bennington	34.00383	-96.03757	US	OK
+Town of Bernice	36.62202	-94.91084	US	OK
+Town of Bessie	35.38542	-98.98932	US	OK
+Town of Bethel Acres	35.30481	-97.03701	US	OK
+Town of Billings	36.53516	-97.42249	US	OK
+Town of Binger	35.31042	-98.3432	US	OK
+Town of Blackburn	36.37307	-96.59652	US	OK
+Town of Blair	34.77989	-99.33294	US	OK
+Town of Bluejacket	36.8008	-95.07407	US	OK
+Town of Bokchito	34.01787	-96.14169	US	OK
+Town of Bokoshe	35.19081	-94.79031	US	OK
+Town of Boley	35.49033	-96.47929	US	OK
+Town of Boswell	34.02807	-95.86845	US	OK
+Town of Bowlegs	35.14734	-96.66908	US	OK
+Town of Boynton	35.64943	-95.65425	US	OK
+Town of Bradley	34.87791	-97.70866	US	OK
+Town of Braggs	35.66305	-95.19849	US	OK
+Town of Braman	36.92375	-97.33523	US	OK
+Town of Bray	34.616	-97.82072	US	OK
+Town of Bromide	34.418	-96.49485	US	OK
+Town of Brooksville	35.2103	-96.9609	US	OK
+Town of Buffalo	36.83624	-99.62894	US	OK
+Town of Burbank	36.69646	-96.72921	US	OK
+Town of Burlington	36.90014	-98.42342	US	OK
+Town of Butler	35.58065	-99.19105	US	OK
+City of Sapulpa	36.00224	-96.11673	US	OK
+City of Sayre	35.29511	-99.60918	US	OK
+City of Seiling	36.15155	-98.92532	US	OK
+City of Seminole	35.23461	-96.65012	US	OK
+City of Shawnee	35.36049	-96.92751	US	OK
+City of Shidler	36.78076	-96.65963	US	OK
+City of Snyder	34.65525	-98.9533	US	OK
+City of Spencer	35.51079	-97.37154	US	OK
+City of Stigler	35.2566	-95.11848	US	OK
+City of Stillwater	36.13154	-97.07396	US	OK
+City of Stroud	35.76799	-96.64732	US	OK
+City of Sulphur	34.48152	-97.00975	US	OK
+City of Tahlequah	35.91157	-94.97729	US	OK
+City of Tecumseh	35.26389	-96.93378	US	OK
+City of The Village	35.57059	-97.55671	US	OK
+City of Thomas	35.74761	-98.74942	US	OK
+City of Tishomingo	34.23872	-96.68058	US	OK
+City of Tonkawa	36.68394	-97.31131	US	OK
+City of Tupelo	34.60244	-96.42039	US	OK
+City of Tuttle	35.30679	-97.75565	US	OK
+City of Vinita	36.64021	-95.16161	US	OK
+City of Wagoner	35.96402	-95.37926	US	OK
+City of Walters	34.36118	-98.35638	US	OK
+City of Warr Acres	35.52844	-97.61822	US	OK
+City of Watonga	35.84961	-98.41661	US	OK
+City of Waurika	34.1846	-98.02447	US	OK
+City of Waynoka	36.58464	-98.87853	US	OK
+City of Weatherford	35.53869	-98.68756	US	OK
+City of Wetumka	35.24091	-96.239	US	OK
+City of Wewoka	35.14413	-96.49669	US	OK
+City of Wilburton	34.91835	-95.3047	US	OK
+City of Wilson	34.16846	-97.42599	US	OK
+City of Woodward	36.42461	-99.40595	US	OK
+City of Wynnewood	34.64418	-97.16268	US	OK
+City of Yale	36.11498	-96.70091	US	OK
+City of Yukon	35.5203	-97.76364	US	OK
+Town of Adair	36.4365	-95.27262	US	OK
+Town of Addington	34.24308	-97.96609	US	OK
+Town of Afton	36.69647	-94.95785	US	OK
+Town of Agra	35.89507	-96.87019	US	OK
+Town of Albion	34.66229	-95.09923	US	OK
+Town of Alderson	34.90083	-95.69005	US	OK
+Town of Alex	34.92274	-97.7763	US	OK
+Town of Aline	36.50957	-98.44869	US	OK
+Town of Allen	34.87738	-96.41299	US	OK
+Town of Amber	35.16016	-97.88206	US	OK
+Town of Ames	36.24709	-98.18671	US	OK
+Town of Amorita	36.92403	-98.29364	US	OK
+Town of Apache	34.89376	-98.3581	US	OK
+Town of Arapaho	35.57786	-98.95936	US	OK
+Town of Arcadia	35.66549	-97.32551	US	OK
+Town of Covington	36.30762	-97.58816	US	OK
+Town of Cowlington	35.3106	-94.78787	US	OK
+Town of Coyle	35.95405	-97.23884	US	OK
+Town of Cromwell	35.33989	-96.45701	US	OK
+Town of Crowder	35.12335	-95.6681	US	OK
+Town of Custer City	35.66377	-98.88692	US	OK
+Town of Cyril	34.89866	-98.20304	US	OK
+Town of Dacoma	36.65958	-98.5635	US	OK
+Town of Davenport	35.70934	-96.76432	US	OK
+Town of Davidson	34.24211	-99.07812	US	OK
+Town of Delaware	36.77887	-95.64256	US	OK
+Town of Depew	35.80096	-96.50734	US	OK
+Town of Devol	34.19542	-98.58812	US	OK
+Town of Dewar	35.45835	-95.94762	US	OK
+Town of Dibble	35.01543	-97.62805	US	OK
+Town of Dickson	34.18764	-96.99698	US	OK
+Town of Dill City	35.28204	-99.13361	US	OK
+Town of Disney	36.47697	-95.01944	US	OK
+Town of Dougherty	34.40047	-97.0514	US	OK
+Town of Douglas	36.26041	-97.66749	US	OK
+Town of Dover	35.98136	-97.91084	US	OK
+Town of Drummond	36.30118	-98.03581	US	OK
+Town of Dustin	35.27121	-96.03197	US	OK
+Town of Eakly	35.3054	-98.55606	US	OK
+Town of Earlsboro	35.32772	-96.8014	US	OK
+Town of East Duke	34.6628	-99.56963	US	OK
+Town of Eldorado	34.47295	-99.64984	US	OK
+Town of Elmer	34.48086	-99.35197	US	OK
+Town of Elmore City	34.62993	-97.3909	US	OK
+Town of Empire City	34.47373	-98.05664	US	OK
+Town of Pocasset	35.19515	-97.95459	US	OK
+Town of Pocola	35.24561	-94.47745	US	OK
+Town of Porter	35.8683	-95.52023	US	OK
+Town of Porum	35.35685	-95.26343	US	OK
+Town of Prue	36.24957	-96.2667	US	OK
+Town of Putnam	35.85589	-98.96794	US	OK
+Town of Quapaw	36.95549	-94.79228	US	OK
+Town of Quinton	35.12485	-95.36761	US	OK
+Town of Ralston	36.50354	-96.73754	US	OK
+Town of Ramona	36.53212	-95.92597	US	OK
+Town of Randlett	34.17735	-98.46392	US	OK
+Town of Ratliff City	34.44917	-97.51552	US	OK
+Town of Rattan	34.20037	-95.41312	US	OK
+Town of Ravia	34.24068	-96.75653	US	OK
+Town of Red Oak	34.95086	-95.08147	US	OK
+Town of Redbird	35.88711	-95.58719	US	OK
+Town of Renfrow	36.92484	-97.65705	US	OK
+Town of Rentiesville	35.53306	-95.48495	US	OK
+Town of Reydon	35.65023	-99.9237	US	OK
+Town of Ringling	34.17841	-97.59199	US	OK
+Town of Ringwood	36.38176	-98.24111	US	OK
+Town of Ripley	36.01682	-96.90463	US	OK
+Town of Roff	34.62883	-96.84112	US	OK
+Town of Roland	35.415	-94.51308	US	OK
+Town of Roosevelt	34.84769	-99.02266	US	OK
+Town of Rosedale	34.91882	-97.18551	US	OK
+Town of Rosston	36.81281	-99.93272	US	OK
+Town of Ryan	34.02123	-97.95411	US	OK
+Town of Saint Louis	35.08121	-96.85966	US	OK
+Town of Etowah	35.12911	-97.16393	US	OK
+Town of Fair Oaks	36.15418	-95.67707	US	OK
+Town of Fairfax	36.56975	-96.708	US	OK
+Town of Fairland	36.75068	-94.84821	US	OK
+Town of Fairmont	36.35523	-97.70446	US	OK
+Town of Fanshawe	34.96755	-94.90532	US	OK
+Town of Fargo	36.37422	-99.62195	US	OK
+Town of Faxon	34.46028	-98.57936	US	OK
+Town of Fitzhugh	34.65809	-96.76654	US	OK
+Town of Fletcher	34.82185	-98.24136	US	OK
+Town of Foraker	36.87216	-96.56911	US	OK
+Town of Forgan	36.90677	-100.53778	US	OK
+Town of Fort Cobb	35.09919	-98.43621	US	OK
+Town of Fort Coffee	35.29416	-94.57265	US	OK
+Town of Fort Gibson	35.77669	-95.25997	US	OK
+Town of Fort Supply	36.5722	-99.57355	US	OK
+Town of Fort Towson	34.03411	-95.30237	US	OK
+Town of Foss	35.45004	-99.17076	US	OK
+Town of Foster	34.59412	-97.49282	US	OK
+Town of Foyil	36.43088	-95.52148	US	OK
+Town of Francis	34.87424	-96.59265	US	OK
+Town of Freedom	36.7681	-99.11308	US	OK
+Town of Friendship	34.69784	-99.22869	US	OK
+Town of Gage	36.31821	-99.75772	US	OK
+Town of Gans	35.38749	-94.69503	US	OK
+Town of Garvin	33.95598	-94.93482	US	OK
+Town of Gene Autry	34.31523	-97.03845	US	OK
+Town of Geronimo	34.48512	-98.38917	US	OK
+Town of Gerty	34.83567	-96.28895	US	OK
+Town of Glencoe	36.23126	-96.93026	US	OK
+Town of Goldsby	35.12853	-97.47415	US	OK
+Town of Goltry	36.5319	-98.15139	US	OK
+Town of Goodwell	36.59431	-101.63261	US	OK
+Town of Gore	35.54164	-95.11304	US	OK
+Town of Gotebo	35.0711	-98.87437	US	OK
+Town of Gould	34.6693	-99.77369	US	OK
+Town of Gracemont	35.18776	-98.25711	US	OK
+Town of Grainola	36.93794	-96.64879	US	OK
+Town of Granite	34.95616	-99.37035	US	OK
+Town of Grayson	35.50534	-95.87185	US	OK
+Town of Hammon	35.63232	-99.38324	US	OK
+Town of Hanna	35.20417	-95.88933	US	OK
+Town of Hardesty	36.61474	-101.19364	US	OK
+Town of Haskell	35.81873	-95.68051	US	OK
+Town of Hastings	34.22428	-98.10871	US	OK
+Town of Haworth	33.84026	-94.65714	US	OK
+Town of Headrick	34.62684	-99.13737	US	OK
+Town of Helena	36.54659	-98.27151	US	OK
+Town of Hendrix	33.77526	-96.40704	US	OK
+Town of Hennessey	36.1056	-97.8989	US	OK
+Town of Hickory	34.55711	-96.85787	US	OK
+Town of Hinton	35.47966	-98.35886	US	OK
+Town of Hitchcock	35.96766	-98.3497	US	OK
+Town of Hitchita	35.51981	-95.75181	US	OK
+Town of Hoffman	35.48886	-95.84489	US	OK
+Town of Hollister	34.34112	-98.87053	US	OK
+Town of Hoot Owl	36.36	-95.12144	US	OK
+Town of Horntown	35.08689	-96.24763	US	OK
+Town of Howe	34.95004	-94.64079	US	OK
+Town of Hulbert	35.93148	-95.1437	US	OK
+Town of Hunter	36.56369	-97.66246	US	OK
+Town of Hydro	35.54799	-98.57968	US	OK
+Town of Indiahoma	34.61988	-98.75209	US	OK
+Town of Indianola	35.16338	-95.776	US	OK
+Town of Inola	36.11399	-95.55195	US	OK
+Town of IXL	35.52272	-96.38807	US	OK
+Town of Jefferson	36.72035	-97.79089	US	OK
+Town of Jennings	36.18229	-96.56898	US	OK
+Town of Jet	36.6664	-98.18137	US	OK
+Town of Johnson	35.40561	-96.84175	US	OK
+Town of Jones	35.56618	-97.29009	US	OK
+Town of Kansas	36.20565	-94.78911	US	OK
+Town of Katie	34.58331	-97.33883	US	OK
+Town of Kellyville	35.94632	-96.20618	US	OK
+Town of Kemp	33.76951	-96.35436	US	OK
+Town of Kendrick	35.78537	-96.77552	US	OK
+Town of Kenefic	34.15004	-96.36425	US	OK
+Town of Keota	35.25688	-94.92247	US	OK
+Town of Ketchum	36.51061	-95.04183	US	OK
+Town of Keyes	36.80768	-102.25184	US	OK
+Town of Kiefer	35.9438	-96.05243	US	OK
+Town of Kildare	36.80825	-97.04996	US	OK
+Town of Kingston	33.99789	-96.69522	US	OK
+Town of Kinta	35.11929	-95.23783	US	OK
+Town of Kiowa	34.72227	-95.90182	US	OK
+Town of Knowles	36.87306	-100.19303	US	OK
+Town of Kremlin	36.54657	-97.83232	US	OK
+Town of Lahoma	36.38811	-98.08874	US	OK
+Town of Lamar	35.09419	-96.12377	US	OK
+Town of Lambert	36.68321	-98.42374	US	OK
+Town of Lamont	36.69132	-97.55824	US	OK
+Town of Langley	36.46226	-95.05477	US	OK
+Town of Langston	35.93238	-97.26301	US	OK
+Town of Laverne	36.70525	-99.89705	US	OK
+Town of Le Flore	34.89846	-94.97585	US	OK
+Town of Leedey	35.86873	-99.34505	US	OK
+Town of Lenapah	36.85134	-95.6357	US	OK
+Town of Leon	33.87734	-97.42905	US	OK
+Town of Liberty	35.84974	-95.9798	US	OK
+Town of Lima	35.17373	-96.59847	US	OK
+Town of Loco	34.32953	-97.68065	US	OK
+Town of Lone Wolf	34.99042	-99.24566	US	OK
+Town of Longdale	36.13367	-98.55098	US	OK
+Town of Lookeba	35.36303	-98.36383	US	OK
+Town of Lotsee	36.13341	-96.20911	US	OK
+Town of Loveland	34.30462	-98.77081	US	OK
+Town of Loyal	35.97278	-98.11839	US	OK
+Town of Luther	35.66803	-97.19053	US	OK
+Town of Macomb	35.1479	-97.00866	US	OK
+Town of Manchester	36.99443	-98.03509	US	OK
+Town of Manitou	34.50711	-98.98091	US	OK
+Town of Mannford	36.12991	-96.33445	US	OK
+Town of Mannsville	34.18574	-96.89736	US	OK
+Town of Maramec	36.24197	-96.6805	US	OK
+Town of Marble City	35.58237	-94.81862	US	OK
+Town of Marland	36.56112	-97.15291	US	OK
+Town of Martha	34.726	-99.38665	US	OK
+Town of May	36.6174	-99.74848	US	OK
+Town of Maysville	34.8683	-97.37623	US	OK
+Town of McCurtain	35.15089	-94.96685	US	OK
+Town of McLoud	35.40669	-97.09989	US	OK
+Town of Mead	34.00076	-96.51097	US	OK
+Town of Meeker	35.48529	-96.89509	US	OK
+Town of Meno	36.38817	-98.17796	US	OK
+Town of Meridian	35.844	-97.24571	US	OK
+Town of Milburn	34.24007	-96.55202	US	OK
+Town of Moffett	35.39039	-94.47229	US	OK
+Town of Mooreland	36.43809	-99.20442	US	OK
+Town of Morrison	36.29348	-97.01839	US	OK
+Town of Mounds	35.85739	-96.05709	US	OK
+Town of Muldrow	35.40397	-94.59685	US	OK
+Town of Mutual	36.23043	-99.16793	US	OK
+Town of Nash	36.66499	-98.05208	US	OK
+Town of New Alluwe	36.61003	-95.48873	US	OK
+Town of New Woodville	33.9687	-96.65494	US	OK
+Town of Norge	34.98923	-97.99406	US	OK
+Town of North Enid	36.44571	-97.86338	US	OK
+Town of North Miami	36.92014	-94.87968	US	OK
+Town of Oakland	34.0974	-96.79777	US	OK
+Town of Oaks	36.16958	-94.85262	US	OK
+Town of Oakwood	35.93148	-98.70303	US	OK
+Town of Ochelata	36.60094	-95.98119	US	OK
+Town of Okarche	35.71896	-97.97569	US	OK
+Town of Okay	35.84775	-95.31623	US	OK
+Town of Okeene	36.11707	-98.31647	US	OK
+Town of Oktaha	35.57762	-95.47781	US	OK
+Town of Olustee	34.5475	-99.42403	US	OK
+Town of Oologah	36.44337	-95.70863	US	OK
+Town of Optima	36.762	-101.34969	US	OK
+Town of Orlando	36.11604	-97.36907	US	OK
+Town of Osage	36.29489	-96.41796	US	OK
+Town of Paden	35.5076	-96.56659	US	OK
+Town of Panama	35.17152	-94.67066	US	OK
+Town of Paoli	34.8261	-97.26263	US	OK
+Town of Pensacola	36.45556	-95.12923	US	OK
+Town of Peoria	36.91524	-94.66981	US	OK
+Town of Pink	35.23263	-97.10014	US	OK
+Town of Byars	34.87237	-97.05409	US	OK
+Town of Byng	34.8659	-96.66781	US	OK
+Town of Byron	36.90146	-98.29457	US	OK
+Town of Caddo	34.12881	-96.26784	US	OK
+Town of Calera	33.93121	-96.42992	US	OK
+Town of Calumet	35.60137	-98.12464	US	OK
+Town of Calvin	34.9672	-96.25304	US	OK
+Town of Camargo	36.0179	-99.28829	US	OK
+Town of Cameron	35.1351	-94.5359	US	OK
+Town of Canadian	35.17414	-95.64965	US	OK
+Town of Caney	34.23558	-96.21701	US	OK
+Town of Canton	36.05496	-98.58836	US	OK
+Town of Canute	35.42197	-99.27752	US	OK
+Town of Capron	36.89668	-98.57757	US	OK
+Town of Carmen	36.57909	-98.45778	US	OK
+Town of Carnegie	35.10238	-98.5995	US	OK
+Town of Carney	35.80644	-97.01531	US	OK
+Town of Carrier	36.47859	-98.0172	US	OK
+Town of Carter	35.21746	-99.50382	US	OK
+Town of Cashion	35.80391	-97.6753	US	OK
+Town of Castle	35.47532	-96.38352	US	OK
+Town of Cement	34.93621	-98.13635	US	OK
+Town of Central High	34.617	-98.08915	US	OK
+Town of Chattanooga	34.42425	-98.65409	US	OK
+Town of Chelsea	36.53234	-95.43548	US	OK
+Town of Cheyenne	35.60547	-99.67201	US	OK
+Town of Chouteau	36.18841	-95.33612	US	OK
+Town of Cimarron City	35.88867	-97.60226	US	OK
+Town of Clayton	34.58564	-95.35616	US	OK
+Town of Clearview	35.39709	-96.19078	US	OK
+Town of Colbert	33.85789	-96.50426	US	OK
+Town of Colcord	36.26472	-94.69202	US	OK
+Town of Cole	35.09925	-97.56625	US	OK
+Town of Colony	35.3486	-98.67128	US	OK
+Town of Cooperton	34.86621	-98.87589	US	OK
+Town of Copan	36.90072	-95.92539	US	OK
+Town of Corn	35.37912	-98.78154	US	OK
+Town of Cornish	34.16371	-97.59671	US	OK
+Town of Salina	36.29073	-95.15175	US	OK
+Town of Sasakwa	34.94689	-96.52532	US	OK
+Town of Savanna	34.83527	-95.83576	US	OK
+Town of Sawyer	34.02055	-95.37742	US	OK
+Town of Schulter	35.51093	-95.95661	US	OK
+Town of Sentinel	35.15709	-99.17347	US	OK
+Town of Shady Point	35.12773	-94.66868	US	OK
+Town of Sharon	36.27549	-99.33813	US	OK
+Town of Shattuck	36.26508	-99.87737	US	OK
+Town of Silo	34.03586	-96.47467	US	OK
+Town of Skedee	36.38043	-96.70391	US	OK
+Town of Skiatook	36.36968	-96.01932	US	OK
+Town of Slaughterville	35.09102	-97.28792	US	OK
+Town of Slick	35.77874	-96.26809	US	OK
+Town of Smith Village	35.45079	-97.45701	US	OK
+Town of Smithville	34.46891	-94.64612	US	OK
+Town of Soper	34.03223	-95.69629	US	OK
+Town of South Coffeyville	36.99338	-95.62193	US	OK
+Town of Spaulding	35.01318	-96.44058	US	OK
+Town of Spavinaw	36.39251	-95.05023	US	OK
+Town of Sperry	36.29785	-95.99162	US	OK
+Town of Spiro	35.24096	-94.62322	US	OK
+Town of Sterling	34.74982	-98.17291	US	OK
+Town of Stidham	35.36857	-95.70079	US	OK
+Town of Stonewall	34.65152	-96.52564	US	OK
+Town of Strang	36.4122	-95.13452	US	OK
+Town of Stratford	34.79523	-96.96027	US	OK
+Town of Stringtown	34.46772	-96.05394	US	OK
+Town of Strong City	35.66993	-99.60029	US	OK
+Town of Stuart	34.90109	-96.09946	US	OK
+Town of Sugden	34.08248	-97.97882	US	OK
+Town of Summit	35.66783	-95.42178	US	OK
+Town of Sweetwater	35.42221	-99.91161	US	OK
+Town of Taft	35.76077	-95.54549	US	OK
+Town of Talala	36.52944	-95.70108	US	OK
+Town of Talihina	34.75224	-95.04104	US	OK
+Town of Taloga	36.04026	-98.96411	US	OK
+Town of Tamaha	35.40589	-95.01805	US	OK
+Town of Tatums	34.47792	-97.4661	US	OK
+Town of Temple	34.27298	-98.23523	US	OK
+Town of Terlton	36.18578	-96.49033	US	OK
+Town of Terral	33.89664	-97.93823	US	OK
+Town of Texhoma	36.50531	-101.78759	US	OK
+Town of Texola	35.22223	-99.99278	US	OK
+Town of Thackerville	33.79344	-97.14264	US	OK
+Town of Tipton	34.5021	-99.13836	US	OK
+Town of Tribbey	35.09919	-97.09372	US	OK
+Town of Tryon	35.88159	-96.96548	US	OK
+Town of Tullahassee	35.84183	-95.43869	US	OK
+Town of Tushka	34.31788	-96.16753	US	OK
+Town of Tyrone	36.95553	-101.06798	US	OK
+Town of Union City	35.40188	-97.9043	US	OK
+Town of Valley Brook	35.40267	-97.48142	US	OK
+Town of Valliant	34.00425	-95.08945	US	OK
+Town of Velma	34.45476	-97.6617	US	OK
+Town of Vera	36.42406	-95.893	US	OK
+Town of Verden	35.08335	-98.08732	US	OK
+Town of Verdigris	36.25325	-95.66054	US	OK
+Town of Vian	35.50183	-94.9699	US	OK
+Town of Vici	36.1487	-99.29935	US	OK
+Town of Wainwright	35.6134	-95.56561	US	OK
+Town of Wakita	36.88171	-97.92377	US	OK
+Town of Wanette	34.96263	-97.03185	US	OK
+Town of Wann	36.91468	-95.80468	US	OK
+Town of Wapanucka	34.3736	-96.4253	US	OK
+Town of Warner	35.49016	-95.30844	US	OK
+Town of Warwick	35.68816	-97.00164	US	OK
+Town of Washington	35.05826	-97.49226	US	OK
+Town of Watts	36.10729	-94.57177	US	OK
+Town of Waukomis	36.28329	-97.90379	US	OK
+Town of Wayne	34.91711	-97.31657	US	OK
+Town of Webb City	36.80742	-96.71195	US	OK
+Town of Welch	36.87387	-95.0947	US	OK
+Town of Weleetka	35.34179	-96.13549	US	OK
+Town of Wellston	35.68602	-97.06147	US	OK
+Town of Westport	36.19524	-96.33575	US	OK
+Town of Westville	35.99041	-94.57429	US	OK
+Town of Willow	35.05144	-99.50998	US	OK
+Town of Winchester	35.79061	-95.99832	US	OK
+Town of Wister	34.96972	-94.72052	US	OK
+Town of Wright City	34.0646	-95.00755	US	OK
+Town of Wyandotte	36.79258	-94.72314	US	OK
+Town of Wynona	36.54576	-96.32667	US	OK
+Town of Yeager	35.15674	-96.34002	US	OK
+Township of Collinsville	36.37606	-95.8378	US	OK
+Township of Hulen	34.55042	-98.21967	US	OK
+Township of Penn	36.73746	-99.19424	US	OK
+Simms	35.3844	-95.19891	US	OK
+Lyons Switch	35.77938	-94.69336	US	OK
+Marble City Community	35.54196	-94.82174	US	OK
+McKey	35.49189	-94.8489	US	OK
+Sour John	35.62055	-95.14332	US	OK
+New Eucha	36.39135	-94.85257	US	OK
+Pump Back	36.27067	-95.11748	US	OK
+Sams Corner	36.19823	-95.21659	US	OK
+Watts Community	36.05336	-94.56288	US	OK
+West Peavine	35.91332	-94.64809	US	OK
+Wickliffe	36.29544	-95.10629	US	OK
+Sycamore	35.53733	-94.93835	US	OK
+Altus Air Force Base	34.66087	-99.27945	US	OK
+Fort Sill	34.68145	-98.51926	US	OK
+Vance Air Force Base	36.34213	-97.90887	US	OK
+Admiral Drive-In	36.16333	-95.89333	US	OK
+Airline Drive-In	36.70889	-97.10667	US	OK
+Beacon Drive-In	35.85333	-97.42417	US	OK
+Bricktown	35.46645	-97.50913	US	OK
+Molly's Landing	36.19499	-95.72745	US	OK
+Daily Grill - Tulsa	36.15399	-95.9911	US	OK
+Pearl's Crabtown	35.46647	-97.50742	US	OK
+Ernest Whitworth Marland Mansion	36.71694	-97.06083	US	OK
+The Price Tower	36.74806	-95.97694	US	OK
+Manard	35.8122	-95.1183	US	OK
+Family Video	35.65366	-97.53114	US	OK
+KEOJ - FM (Caney)	36.97394	-95.90608	US	OK
+Camino Villa	36.06457	-95.75521	US	OK
+Boise City LORAN-C Transmitter	36.50575	-102.89986	US	OK
+Big Splash	36.13389	-95.92322	US	OK
+Tulsa State Fairground	36.13632	-95.92438	US	OK
+Taft Fire Association	35.76099	-95.54589	US	OK
+Wainwright Volunteer Fire Association	35.61473	-95.56489	US	OK
+Strother Rural Fire Association	35.34856	-96.66448	US	OK
+Durant Fire and Rescue Headquarters	33.99305	-96.37891	US	OK
+Porum Landing Fire Protection Association	35.36184	-95.36283	US	OK
+Drumright Fire and Rescue	35.9882	-96.60281	US	OK
+Bethel Volunteer Fire Fighters Association	34.35994	-94.83526	US	OK
+Hopewell Community Firefighters Association	34.2228	-96.37315	US	OK
+Freeny Valley Firefighters	34.11382	-96.15606	US	OK
+Green Country Fire and Rescue	36.20653	-96.20838	US	OK
+McKey Rural Fire Association	35.45837	-94.88541	US	OK
+Denoya Rural Firefighters	36.76448	-96.70927	US	OK
+Grayhorse Fire Protection	36.54905	-96.64742	US	OK
+Greasy Community Fire Association	35.66708	-94.69634	US	OK
+Christie Volunteer Fire Association	35.94853	-94.6902	US	OK
+Blackland Fire Corporation	36.83165	-96.50459	US	OK
+Deep Fork National Wildlife Refuge	35.57315	-95.95661	US	OK
+Black Dog Fire Association	36.23783	-96.05509	US	OK
+Happyland Volunteer Fire Association	34.79658	-96.5536	US	OK
+Kenwood Fire Association	36.31459	-94.98551	US	OK
+Reichert Community Fire Association	34.86889	-94.75563	US	OK
+Covington Volunteer Fire and Rescue	36.30558	-97.58735	US	OK
+Oak Cliff Rural Fire Protection	35.7395	-97.46077	US	OK
+Harmon Community Firefighters	36.14395	-99.56003	US	OK
+New Hope Volunteer Fire Association	35.00008	-98.17704	US	OK
+Berlin Volunteer Fire Association	35.45104	-99.62761	US	OK
+Sedan Volunteer Fire Association	34.97124	-98.76149	US	OK
+Elmwood Firefighters	36.61749	-100.5226	US	OK
+Catesby Firefighters Association	36.49341	-99.9463	US	OK
+Sickles Volunteer Fire Association	35.36147	-98.44779	US	OK
+Wheeless - Mexhoma Firefighters	36.71949	-102.89571	US	OK
+Kenton Firefighters	36.90274	-102.96186	US	OK
+Griggs Rural Fire Protection	36.61713	-102.19567	US	OK
+Sandy Sanders Wildlife Management Agency Headquarters	35.02287	-99.76613	US	OK
+Ringwood Fire and Rescue	36.37835	-98.24609	US	OK
+Buffalo Fire and Rescue	36.83793	-99.62995	US	OK
+Elmer Rural Volunteer Fire Association	34.47917	-99.3526	US	OK
+Caddo Nation Firefighters	35.29098	-98.26448	US	OK
+Central High Volunteer Firefighters	34.60798	-98.08968	US	OK
+Hollister Volunteer Firefighters	34.34389	-98.87105	US	OK
+Strong City Volunteer Fire Association	35.67082	-99.5989	US	OK
+Geary Rural Fire and Rescue	35.63182	-98.31815	US	OK
+Baker Fire Protection Association	36.86798	-101.0174	US	OK
+Independence Arch	36.95222	-102.87611	US	OK
+Centennial Arch	34.72306	-98.72444	US	OK
+Neuwirth Airstrip	34.57461	-98.4826	US	OK
+Baker Airstrip	35.47697	-97.92843	US	OK
+Bearden Private Airstrip	34.7303	-97.60587	US	OK
+Ragtime Aerodrome	36.3519	-95.86507	US	OK
+Temple B'Nai Israel	35.52008	-97.54841	US	OK
+Emanuel Synagogue	35.51913	-97.52801	US	OK
+Living Faith Ministries	35.41402	-97.283	US	OK
+Saint Gregory's Abbey	35.36726	-96.95324	US	OK
+Chief Sapulpa Burying Ground	35.98611	-96.10083	US	OK
+Central Oklahoma Community Mental Health	35.21904	-97.42776	US	OK
+Norman Regional Health System Norman	35.23008	-97.44001	US	OK
+Drumright Medical Clinic	35.98137	-96.60679	US	OK
+George Nigh Rehabilitation Institute	35.66746	-95.96015	US	OK
+Integris Bass Pavilion	36.39262	-97.87409	US	OK
+Northeast Oklahoma Eye Institute	36.04327	-95.95363	US	OK
+Mercy Regional Ambulance Squad	35.74768	-96.65577	US	OK
+Mercy Regional of Oklahoma - Vinita	36.63725	-95.15723	US	OK
+Wellston Ambulance	35.69501	-97.06535	US	OK
+Lone Wolf Community Ambulance	34.98992	-99.24867	US	OK
+Chandler Ambulance	35.70864	-96.87787	US	OK
+Erick Ambulance	35.21471	-99.86265	US	OK
+Southwest Oklahoma Ambulance Authority	34.69165	-99.9145	US	OK
+Stratford Ambulance	34.79589	-96.96171	US	OK
+Taloga Ambulance	36.04062	-98.96423	US	OK
+Mannford Ambulance	36.1269	-96.35832	US	OK
+Leedey Ambulance	35.86871	-99.3462	US	OK
+Ballard Aviation of Hugo	34.03257	-95.5396	US	OK
+Hominy Community Medical Trust Authority EMS	36.41531	-96.39583	US	OK
+Mediflight Oklahoma	35.27349	-96.67144	US	OK
+Trinity Health Transit	35.40575	-97.49231	US	OK
+Cherokee Nation Ambulance	35.85476	-94.98447	US	OK
+Velma Community Ambulance	34.4525	-97.67155	US	OK
+American Medical Response Duncan	34.50994	-97.96658	US	OK
+American Medical Response Marlow	34.62877	-97.96618	US	OK
+Alva Ambulance	36.80657	-98.66539	US	OK
+Mercy Regional of Oklahoma	36.2589	-95.85193	US	OK
+Waynoka Ambulance	36.58484	-98.88083	US	OK
+Hooker Municipal Ambulance	36.85984	-101.21251	US	OK
+Stilwell Ambulance	35.81103	-94.62716	US	OK
+Jesse Chisholm Grave Site	35.72639	-98.29083	US	OK
+Baptist Mission Cemeter	36.03528	-94.58333	US	OK
+Reverend Jesse Bushyhead Grave	36.03583	-94.58278	US	OK
+Chickasaw Children's Village	34.0133	-96.68351	US	OK
+American Institute of Medical Technology	36.06199	-95.92364	US	OK
+Technical Institute of Cosmetology Arts and Sciences	36.15255	-95.98131	US	OK
+Career Point Institute	36.11749	-95.85321	US	OK
+Institute of Hair Design	35.34912	-96.91336	US	OK
+ITT Technical Institute Oklahoma City	35.52215	-97.54528	US	OK
+American Beauty Institute	34.94781	-95.76474	US	OK
+ITT Technical Institute Tulsa	36.0761	-95.88216	US	OK
+Arkansas-White-Red Region - 2-digit Hydrologic Unit Code - 11	36.08337	-98.37138	US	OK
+Carlton Landing	35.20461	-95.54455	US	OK
+Wyndham Garden Stillwater	36.13139	-97.05119	US	OK
+Howard Johnson Tulsa East Arpt	36.14908	-95.84777	US	OK
+The Tulsa Select	36.09539	-95.92075	US	OK
+Wyndham Garden Oklahoma City A	35.44318	-97.60247	US	OK
+Laquinta Oklahoma City Northwest	35.54497	-97.60843	US	OK
+Reniassance Tulsa	36.06467	-95.85811	US	OK

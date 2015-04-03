@@ -1,0 +1,236 @@
+Westpunt	12.6	-70.03333	AW	00
+Westhaven	12.51667	-70.05	AW	00
+Wayaca	12.5	-70	AW	00
+Washington	12.55	-70.03333	AW	00
+Wariruri	12.55	-69.98333	AW	00
+Warawara	12.5	-69.96667	AW	00
+Vader Piet	12.46667	-69.88333	AW	00
+Urirama	12.58333	-70	AW	00
+Ceru Urataca	12.51667	-69.96667	AW	00
+Turibana	12.56667	-70.03333	AW	00
+Sero Tres Cabes	12.58333	-70.01667	AW	00
+Sero Tijshi	12.48333	-69.98333	AW	00
+Rooi Thomas	12.5	-69.9	AW	00
+Tarabana	12.51667	-70.01667	AW	00
+Tanki Lender	12.53333	-70.01667	AW	00
+Tanki Flip	12.55	-70.03333	AW	00
+Rooi Tambu	12.5	-69.9	AW	00
+Tamarijn	12.53333	-69.96667	AW	00
+Rooi Taki	12.46667	-69.96667	AW	00
+Suplado	12.5	-69.91667	AW	00
+Sero Sumpina	12.55	-69.98333	AW	00
+Sumpina	12.53333	-69.96667	AW	00
+Rooi Spoki	12.43333	-69.9	AW	00
+Spaans Lagoen	12.46667	-69.96667	AW	00
+Spaans Lagoen	12.46667	-69.96667	AW	00
+Solito	12.51667	-70.01667	AW	00
+Soledad	12.55	-70	AW	00
+Smal	12.43333	-69.95	AW	00
+Siribana	12.51667	-69.98333	AW	00
+Sint Nicolaashaven	12.43333	-69.9	AW	00
+Sint Nicolaasbaai	12.41667	-69.88333	AW	00
+Sint Nicolaas	12.43333	-69.9	AW	00
+Sint Anna	12.56667	-70.03333	AW	00
+Simeon Antonio	12.48333	-70	AW	00
+Shiribana	12.53333	-70	AW	00
+Shete	12.5	-69.93333	AW	00
+Shabiruri	12.51667	-69.96667	AW	00
+Shaba	12.55	-70.01667	AW	00
+Ceru Colorado	12.41667	-69.86667	AW	00
+Sero Blanco	12.51667	-70.01667	AW	00
+Rooi Santo	12.6	-70.03333	AW	00
+Santa Martha	12.5	-69.98333	AW	00
+Santa Lucia	12.53333	-69.95	AW	00
+Santa Helena	12.51667	-70.03333	AW	00
+Santa Cruz	12.5	-69.96667	AW	00
+San Fuego	12.5	-69.95	AW	00
+Salina Cerca	12.56667	-70.03333	AW	00
+Sabania Abao	12.51667	-69.95	AW	00
+Sabaneta	12.45	-69.93333	AW	00
+Sabana Liber	12.55	-70.01667	AW	00
+Tanki Sabana Grandi	12.5	-69.98333	AW	00
+Sabana Grandi	12.5	-69.98333	AW	00
+Sabana Blanco	12.51667	-70.01667	AW	00
+Sabana Berde	12.5	-70.01667	AW	00
+Sabana Basora	12.46667	-69.95	AW	00
+Rooi Prikichi	12.53333	-69.96667	AW	00
+Rooi Master	12.45	-69.91667	AW	00
+Rooi Hundo	12.43333	-69.88333	AW	00
+Rooi Congo	12.45	-69.9	AW	00
+Rooi Cochi	12.45	-69.93333	AW	00
+Rooi Bosal	12.48333	-69.96667	AW	00
+Rooi Afo	12.51667	-70	AW	00
+Roncado	12.53333	-70.01667	AW	00
+Seco di Rogans	12.58333	-70.03333	AW	00
+Rincon	12.46667	-69.86667	AW	00
+Tanki Real	12.56667	-70.01667	AW	00
+Rooi Prins	12.48333	-69.9	AW	00
+Boca Prins	12.5	-69.9	AW	00
+Primavera	12.5	-70	AW	00
+Rooi Prikichi	12.55	-69.96667	AW	00
+Sero Preto	12.51667	-70	AW	00
+Sero Preto	12.45	-69.9	AW	00
+Ser'i Pos di Noord	12.56667	-69.98333	AW	00
+Boca di Pos di Nord	12.56667	-70	AW	00
+Pos Chikitu	12.56667	-70.06667	AW	00
+Pos Chikito	12.45	-69.95	AW	00
+Pos Abao	12.53333	-70.03333	AW	00
+Ponton	12.53333	-70.03333	AW	00
+Ceru Plat	12.55	-69.98333	AW	00
+Piedra Plat	12.51667	-69.98333	AW	00
+Piedra Cacho	12.5	-69.93333	AW	00
+Picaron	12.5	-69.95	AW	00
+Pavia	12.51667	-69.98333	AW	00
+Sero Patrishi	12.53333	-70.01667	AW	00
+Paraguana	12.55	-70.01667	AW	00
+Paradijs	12.53333	-70.03333	AW	00
+Paradera	12.53333	-70	AW	00
+Palu Marga	12.46667	-69.9	AW	00
+Paardenbaai	12.51667	-70.03333	AW	00
+Oranjestad	12.52398	-70.02703	AW	00
+Oosthaven	12.51667	-70.05	AW	00
+Nune	12.53333	-70	AW	00
+Noordkaap	12.53333	-69.93333	AW	00
+Noord Cura Cabai	12.45	-69.93333	AW	00
+Noord	12.56667	-70.01667	AW	00
+Nanki	12.41667	-69.88333	AW	00
+Morgenster	12.51667	-70	AW	00
+Mon Pos	12.51667	-69.96667	AW	00
+Modansa	12.53333	-70	AW	00
+Moco	12.55	-70	AW	00
+Mira Lama	12.48333	-69.93333	AW	00
+Meiveld	12.51667	-70	AW	00
+Matividiri	12.53333	-69.95	AW	00
+Matadera	12.55	-70.01667	AW	00
+Rooi Master	12.43333	-69.91667	AW	00
+Master	12.45	-69.95	AW	00
+Maria Mai	12.48333	-69.95	AW	00
+Marawiel	12.53333	-69.98333	AW	00
+Rooi Manonchi	12.51667	-70.03333	AW	00
+Manshebu	12.53333	-70.05	AW	00
+Malmok	12.6	-70.06667	AW	00
+Mahuma	12.5	-69.98333	AW	00
+Boca Mahos	12.55	-69.96667	AW	00
+Madiki	12.51667	-70.03333	AW	00
+Macuarima	12.5	-69.96667	AW	00
+Mabon	12.45	-69.91667	AW	00
+Ser'i Lopes	12.53333	-69.98333	AW	00
+Tanki Lender	12.53333	-70.01667	AW	00
+Rooi Lamunchi	12.45	-69.95	AW	00
+Lagoen	12.46667	-70	AW	00
+Klein Lagoen	12.4	-69.86667	AW	00
+Kleine Jamanota	12.48333	-69.95	AW	00
+Boca Ketu	12.51667	-69.93333	AW	00
+Kaas di Paloma	12.48333	-70.01667	AW	00
+Juwana Morto	12.43333	-69.88333	AW	00
+Jucuri	12.5	-70	AW	00
+Jan Flemming	12.48333	-69.96667	AW	00
+Ser'i Janchi	12.55	-70.01667	AW	00
+Jamanota	12.48333	-69.95	AW	00
+Ceru Jamanota	12.48333	-69.93333	AW	00
+Indiaanskop	12.41667	-69.9	AW	00
+Rooi Hundu	12.43333	-69.9	AW	00
+Hudishibana	12.61667	-70.05	AW	00
+Hooiberg	12.55	-69.98333	AW	00
+Hadicurari	12.58333	-70.03333	AW	00
+Habrie	12.5	-70.03333	AW	00
+Gran Tonel	12.48333	-69.91667	AW	00
+Sero Grandi	12.58333	-70.01667	AW	00
+Boca Grandi	12.58333	-70	AW	00
+Boca Grandi	12.43333	-69.86667	AW	00
+Ser'i Gerard	12.55	-69.98333	AW	00
+Gasparito	12.55	-70.03333	AW	00
+Rooi Frances	12.46667	-69.96667	AW	00
+Fontein	12.5	-69.9	AW	00
+Fofoti	12.5	-70.03333	AW	00
+Rooi Fluit	12.51667	-69.93333	AW	00
+Tanki Flip	12.55	-70.03333	AW	00
+Falcon	12.53333	-70.01667	AW	00
+Rooi Dwars	12.48333	-69.9	AW	00
+Boca Druif	12.5	-69.9	AW	00
+Druif	12.6	-70.01667	AW	00
+Druif	12.55	-70.05	AW	00
+Druif	12.53333	-70.06667	AW	00
+Dos Playa	12.5	-69.91667	AW	00
+De Vuyst	12.43333	-69.88333	AW	00
+Daimari	12.53333	-69.93333	AW	00
+Dacota	12.5	-70.01667	AW	00
+Curimiao	12.56667	-70.01667	AW	00
+Cura Cabai	12.43333	-69.91667	AW	00
+Boca Cura	12.58333	-70	AW	00
+Cunucu Abao	12.55	-70.03333	AW	00
+Cumana	12.51667	-70.01667	AW	00
+Cudawecha	12.55	-70	AW	00
+Cudarebe	12.61667	-70.06667	AW	00
+Sero Cristal	12.55	-69.98333	AW	00
+Sero Corobori	12.53333	-69.96667	AW	00
+Rooi Congo	12.43333	-69.9	AW	00
+Ser'i Compa	12.5	-69.96667	AW	00
+Commandeursbaai	12.43333	-69.95	AW	00
+Sero Colorado	12.41667	-69.86667	AW	00
+Seco di Coco	12.56667	-70.03333	AW	00
+Rooi Cochi	12.43333	-69.93333	AW	00
+Coba Lodo	12.5	-69.95	AW	00
+Boca Chikitu	12.56667	-69.98333	AW	00
+Catiri	12.53333	-70.01667	AW	00
+Catashi	12.5	-69.95	AW	00
+Boca Catalina	12.6	-70.05	AW	00
+Cashero	12.51667	-69.98333	AW	00
+Cas di Paloma	12.48333	-70	AW	00
+Tanki Cas Ariba	12.5	-69.95	AW	00
+Cas Ariba	12.5	-69.95	AW	00
+Sero Canashito	12.5	-70	AW	00
+Canashito	12.5	-69.98333	AW	00
+Camacuri	12.5	-70.01667	AW	00
+California	12.61667	-70.03333	AW	00
+Calabas	12.55	-70	AW	00
+Largo Cadushi	12.51667	-69.96667	AW	00
+Sero Cabai	12.48333	-69.93333	AW	00
+Butucu	12.46667	-69.9	AW	00
+Bushiribana	12.55	-69.96667	AW	00
+Budui	12.55	-69.96667	AW	00
+Bucuti	12.51667	-70.03333	AW	00
+Bucurui	12.55	-70.03333	AW	00
+Bubali	12.55	-70.03333	AW	00
+Bringamosa	12.48333	-69.95	AW	00
+Brasil	12.45	-69.91667	AW	00
+Punta Brabu	12.53333	-70.05	AW	00
+Boton	12.48333	-69.95	AW	00
+Rooi Bosal	12.46667	-69.98333	AW	00
+Sero Bonchi	12.5	-69.93333	AW	00
+Blumond	12.5375	-69.99861	AW	00
+Sero Biento	12.51667	-70	AW	00
+Punta Basora	12.41667	-69.85	AW	00
+Basiruti	12.56667	-70.03333	AW	00
+Bank Jerome	12.41667	-69.86667	AW	00
+Balashi	12.48333	-69.96667	AW	00
+Babijn	12.53333	-69.98333	AW	00
+Rooi Awa Marga	12.53333	-69.95	AW	00
+Aruba	12.5	-69.96667	AW	00
+Arikok	12.51667	-69.93333	AW	00
+Arasji	12.61667	-70.06667	AW	00
+Arashi	12.6	-70.05	AW	00
+Angochi	12.51667	-69.95	AW	00
+Andicuri	12.53333	-69.95	AW	00
+Anaubi	12.6	-70.03333	AW	00
+Ceru Alto Vista	12.56667	-70.01667	AW	00
+Ser'i Alejandro	12.45	-69.93333	AW	00
+Rooi Afo	12.53333	-70	AW	00
+Kenepa	12.47222	-69.92917	AW	00
+Occidental Grand Aruba - All Inclusive	12.588	-70.0459	AW	00
+Divi Aruba All Inclusive	12.544	-70.0553	AW	00
+Tamarijn Aruba All Inclusive	12.5413	-70.0524	AW	00
+Talk of the Town	12.5147	-70.0234	AW	00
+La Cabana Villas	12.5587	-70.0506	AW	00
+OCCIDENTAL GRAND ARUBA	12.5676	-70.0406	AW	00
+DIVI ARUBA PHOENIX	12.5676	-70.0406	AW	00
+Boegoeroei	12.55431	-70.03012	AW	
+riu palace aruba	12.57065	-70.05694	AW	
+divi tamarijn aruba	12.50788	-69.97409	AW	
+Ocean 105	12.50788	-69.97409	AW	
+Malmok	12.60087	-70.05064	AW	
+Riu Palace Aruba All Inclusive	12.56602	-70.04842	AW	
+Blue Residences Aruba	12.5605	-70.05432	AW	
+Riu Palace Antillas All Inclusive Adults Only	12.5652	-70.04844	AW	
+Oceana Ocean View	12.53279	-70.0491	AW	
+Aruba Harmony Apartments	12.53322	-70.02918	AW	

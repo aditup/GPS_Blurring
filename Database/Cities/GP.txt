@@ -1,0 +1,1378 @@
+Grande Ravine	15.84335	-61.63985	GP	00
+Pointe Zozio	15.88279	-61.57055	GP	00
+Pointe a Zombi	16.18589	-61.7835	GP	00
+Etang Zombi	16.03295	-61.62382	GP	00
+Anse a Zombi	16.18429	-61.78351	GP	00
+Plateau Zimbimbe	16.04005	-61.64233	GP	00
+Zevallos	16.30558	-61.30304	GP	00
+Morne Zambi	16.251	-61.19082	GP	00
+Ilet Yonka	16.16667	-61.58333	GP	00
+Trou de la Voute	16.35	-61.5	GP	00
+Ilets a la Voute	16.35	-61.51667	GP	00
+Vital	15.91724	-61.22695	GP	00
+Vipart	16.33333	-61.4	GP	00
+Pointe Violon	15.95055	-61.68027	GP	00
+Violon	15.95	-61.68333	GP	00
+Vince	16.23333	-61.6	GP	00
+Anse Vinaigri	16.19727	-61.4683	GP	00
+Pointe Villers	16.25	-61.8	GP	00
+Village	16.13012	-61.76864	GP	00
+Morne Vigie	15.85168	-61.6463	GP	00
+Riviere des Vieux Habitants	16.06073	-61.76662	GP	00
+Vieux-Habitants	16.0589	-61.76595	GP	GP
+Riviere du Vieux-Fort	16.35081	-61.75145	GP	00
+Riviere du Vieux Fort	15.98711	-61.30092	GP	00
+Pointe du Vieux-Fort	16.3556	-61.75952	GP	00
+Pointe du Vieux-Fort	15.94837	-61.7072	GP	00
+Ilet du Vieux-Fort	15.99789	-61.30707	GP	00
+Etang du Vieux Fort	16.35259	-61.75631	GP	00
+Anse du Vieux-Fort	16.35599	-61.7531	GP	00
+Anse du Vieux Fort	15.98894	-61.30277	GP	00
+Vieux-Fort	15.99058	-61.29886	GP	00
+Vieux-Fort	15.95131	-61.69908	GP	GP
+Vieux Bourg	16.34164	-61.51148	GP	00
+Pointe de la Vieille Anse	15.88333	-61.58333	GP	00
+Vieille Anse	15.88333	-61.58333	GP	00
+Vidon	15.90055	-61.24827	GP	00
+Ravine Viard	16.32456	-61.68378	GP	00
+Pointe Viard	16.49852	-61.45101	GP	00
+Plage de Viard	16.16678	-61.58506	GP	00
+Vezoux	16.29478	-61.27647	GP	00
+Versailles	16.22098	-61.6017	GP	00
+Vernou	16.18002	-61.65551	GP	00
+Vermont	16.39956	-61.46349	GP	00
+Verge	15.94097	-61.25916	GP	00
+Pointe de la Verdure	16.2	-61.5	GP	00
+Verdier	16.2	-61.6	GP	00
+Pointe du Vent	16.24007	-61.31735	GP	00
+Pointe du Vent	15.87954	-61.56861	GP	00
+Cascade Vauchelet	16.0332	-61.68735	GP	00
+Anse du Vanovre	15.85785	-61.58804	GP	00
+Vanniers	15.92323	-61.27938	GP	00
+Vallon Vrimouth	15.94128	-61.26997	GP	00
+Vallee d'Or	16.26667	-61.25	GP	00
+Valeau	16.03624	-61.71883	GP	GP
+Valeau	16.01667	-61.7	GP	00
+Anse du Val de l'Orge	16.03949	-61.75456	GP	00
+Banc des Vaisseaux	16.13333	-61.28333	GP	00
+Pointe a Vache	15.87097	-61.63552	GP	00
+Fort de l'Union	16.21667	-61.53333	GP	00
+Pointe Turlet	15.97029	-61.70987	GP	00
+Anse Turlet	15.97334	-61.71089	GP	00
+Riviere du Trou aux Chiens	15.98648	-61.61458	GP	00
+Montagne du Trou aux Chiens	16	-61.63333	GP	00
+Pointe du Trou a Meynal	16.34477	-61.71603	GP	00
+Pointe des Trois Vaches	16.49273	-61.48578	GP	00
+Pointe des Trois Rivieres	15.96697	-61.64467	GP	00
+Trois-Rivieres	15.97567	-61.64509	GP	GP
+Trois-Ilets	15.93038	-61.32961	GP	00
+Troisieme Bras	16.25	-61.68333	GP	00
+Trioncelle	16.26199	-61.5855	GP	00
+Riviere de la Trinite	16.21667	-61.6	GP	00
+Ravine Trianon	15.9	-61.33333	GP	00
+Pointe la Trembleuse	16.31919	-61.0324	GP	00
+Sommet a la Touffe	16.18333	-61.75	GP	00
+Pointe a Tortue	16.4794	-61.42659	GP	00
+Acul a Tortue	16.48333	-61.41667	GP	00
+Ilet Tome	16.15143	-61.57099	GP	00
+Ti-Charlie	15.8788	-61.59901	GP	00
+Thibault	15.87903	-61.2668	GP	00
+Tete Rouge	15.86519	-61.58954	GP	00
+Tete Allegre	16.26917	-61.74456	GP	00
+Tete a l'Anglais	16.3814	-61.76465	GP	00
+Tete a Boeuf	16.4718	-61.41557	GP	00
+Terre-de-Haut	15.86626	-61.58268	GP	GP
+Terre de Haut	16.17792	-61.10792	GP	00
+Terre-de-Haut	15.86667	-61.58333	GP	00
+Terre-de-Bas	15.85	-61.61667	GP	GP
+Terre-de-Bas	15.85011	-61.64417	GP	GP
+Terre de Bas	16.17001	-61.11888	GP	00
+Terre-de-Bas	15.85	-61.61667	GP	00
+Terre-de-Bas	15.84242	-61.63008	GP	
+Pointe a la Taste	15.96667	-61.61667	GP	00
+Pointe Tarare	16.25784	-61.19893	GP	00
+Anse Tarare	16.25645	-61.20226	GP	00
+Pointe de Tali	15.93032	-61.19517	GP	00
+Roche Table	17.97343	-62.92571	GP	00
+Surgy	16.26645	-61.33509	GP	00
+Pointe Sud	15.83947	-61.63354	GP	00
+Bras du Sud	16.23901	-61.78011	GP	00
+Baleine du Sud	16.1645	-61.11165	GP	00
+Subercazeaux	16.29527	-61.65934	GP	00
+Anse a la Source	15.96667	-61.63333	GP	00
+Soufriere	16.04496	-61.66394	GP	00
+Trou du Souffleur	16.48333	-61.41667	GP	00
+Pointe du Souffleur	16.09305	-61.7732	GP	00
+Morne Souffleur	16.32101	-61.04959	GP	00
+Anse du Souffleur	16.42418	-61.5337	GP	00
+Acul du Souffleur	16.48333	-61.41667	GP	00
+Pointe du Souffieur	16.47606	-61.4203	GP	00
+Pointe Soldat	16.30058	-61.80188	GP	00
+Morne Soldat	16.09593	-61.72588	GP	00
+Sofaia	16.29497	-61.72572	GP	00
+Plaine de la Simoniere	16.26272	-61.32558	GP	00
+Pointe Sillon	16.19875	-61.78653	GP	00
+Anse Sillon	16.20021	-61.78618	GP	00
+Siblet	15.93299	-61.31286	GP	00
+Seze	16.25	-61.28333	GP	00
+Sevray	16.05	-61.75	GP	00
+Riviere Sens	15.98443	-61.7187	GP	00
+Accul de Sel	16.42657	-61.39858	GP	00
+Havre a Seines	15.86667	-61.61667	GP	00
+Seforge	16.26667	-61.36667	GP	00
+Morne Sec	15.85956	-61.63405	GP	00
+Morne Savon	16.03726	-61.70755	GP	00
+Pointe de la Savane Brulee	16.4	-61.41667	GP	00
+Anse de la Savane Brulee	16.4058	-61.40397	GP	00
+Pointe de la Savane	16.5	-61.45	GP	00
+Savane	15.97915	-61.63223	GP	00
+Caye a Saute	16.1	-61.56667	GP	00
+Satge	16.01667	-61.61667	GP	00
+Pointe Saragot	15.96832	-61.2234	GP	00
+Mont Sans Toucher	16.1	-61.68333	GP	00
+Ravine Sans-Nom	16.25464	-61.6298	GP	00
+Anse Salmon	16.33333	-61.3	GP	00
+Pointe des Salines	16.25	-61.18333	GP	00
+Anse des Salines	16.25178	-61.18264	GP	00
+Pointe de la Saline	16.20381	-61.44313	GP	00
+Riviere Salee	16.31523	-61.71877	GP	00
+Riviere Salee	16.25194	-61.55026	GP	00
+Ravine Salee	15.98333	-61.71667	GP	00
+Pointe Saint Vast	16.28162	-61.59802	GP	00
+Saint-Val-Labique	16	-61.75	GP	00
+Riviere Saint-Sauveur	16.0115	-61.5884	GP	00
+Anse Saint-Sauveur	16.01067	-61.58754	GP	00
+Saint-Sauveur	16.0116	-61.5887	GP	00
+Montagne Saint-Robert	16.05522	-61.72345	GP	00
+Saint-Prix	16.41667	-61.43333	GP	00
+Saint-Pierre	16.45028	-61.52955	GP	00
+Saint-Marc	15.90987	-61.27309	GP	00
+Riviere de Saint-Louis	15.95027	-61.32122	GP	00
+Riviere Saint-Louis	16.02528	-61.71381	GP	00
+Montagne Saint-Louis	16.05	-61.7	GP	00
+Baie de Saint-Louis	15.95735	-61.32748	GP	00
+Saint-Louis	15.9549	-61.31784	GP	GP
+Bras Saint-Jean-Baptiste	16.20385	-61.69778	GP	00
+Mont Saint-Jean	16.15236	-61.73395	GP	00
+Bras de Saint-Jean	16.2	-61.66667	GP	00
+Pointe Saint-Jacques	15.96733	-61.63012	GP	00
+Saint-Jacques	16.48396	-61.46667	GP	00
+Ilet Saint-Hilaire	16.16667	-61.56667	GP	00
+Saint-Gilles	15.98333	-61.63333	GP	00
+Saint-Germain	15.97481	-61.25381	GP	00
+Saint-Francois	16.25	-61.25	GP	GP
+Saint-Francois	16.25264	-61.27414	GP	GP
+Saint-Felix	16.20879	-61.45734	GP	00
+Les Saintes - Terre-de-Haut	15.86447	-61.58	GP	GP
+Mouillage des Saintes	15.86667	-61.58333	GP	00
+Sainte-Rose	16.33238	-61.69793	GP	GP
+Sainte-Marthe	16.26287	-61.2691	GP	00
+Sainte-Marie des Bois	16.06667	-61.58333	GP	00
+Riviere de Sainte-Marie	16.10076	-61.56077	GP	00
+Port de Sainte-Marie	16.1	-61.56667	GP	00
+Foret de Sainte-Marie	16.0897	-61.62742	GP	00
+Baie Sainte-Marie	16.27372	-61.24264	GP	00
+Sainte-Marie	16.28333	-61.25	GP	00
+Sainte-Marie	16.10046	-61.56282	GP	00
+Pointe Sainte-Marguerite	16.38077	-61.40296	GP	00
+Anse Sainte-Marguerite	16.3873	-61.40492	GP	00
+Sainte-Marguerite	16.35441	-61.40416	GP	00
+Sainte-Marguerite	16.38509	-61.41597	GP	00
+Sainte-Madeleine	16.28333	-61.3	GP	00
+Sainte-Croix	15.93166	-61.25395	GP	00
+Sainte-Claire	16.12572	-61.57387	GP	00
+Pointe de Sainte-Anne	16.21667	-61.38333	GP	00
+Anse de Sainte-Anne	16.22026	-61.38886	GP	00
+Sainte-Anne	16.22636	-61.37919	GP	GP
+Saint-Claude	16.02409	-61.70215	GP	GP
+Baie de Saint-Christophe	16.28333	-61.56667	GP	00
+Mangles de Saint-Charles	15.94355	-61.316	GP	00
+Fort Saint-Charles	15.98333	-61.71667	GP	00
+Saint-Charles	15.93333	-61.3	GP	00
+Saint-Charles	15.99386	-61.70518	GP	00
+Saint-Bernard	16.25596	-61.24941	GP	00
+Anse a Saint	16.21018	-61.41732	GP	00
+Saiette	16.31667	-61.45	GP	00
+Ravine de Sable	16.48333	-61.51667	GP	00
+Pointe de Sable	16.16667	-61.13333	GP	00
+Ile de Sable	16.2	-61.45	GP	00
+Bras de Sable	16.23152	-61.67001	GP	00
+Anse de Sable	16.15	-61.78333	GP	00
+Anse de Sable	16.11587	-61.56797	GP	00
+Ruillier	16.26667	-61.65	GP	00
+Routhiers	16.03918	-61.59634	GP	00
+Rousset	16.01667	-61.65	GP	00
+Ravine Roussel	16.25	-61.68333	GP	00
+Pointe a Roussel	16.25	-61.18333	GP	00
+Roussel	16.22126	-61.64793	GP	00
+Roussel	15.89875	-61.32292	GP	00
+Roussel	16	-61.7	GP	00
+Rousseau	16.53333	-61.41667	GP	00
+Pointe de Roujol	16.17842	-61.58005	GP	00
+Pointe Roujol	16.5	-61.46667	GP	00
+Morne Rouge d'en Haut	16.33402	-61.04051	GP	00
+Riviere Rouge	16.05	-61.71667	GP	00
+Morne Rouge	15.86667	-61.58333	GP	00
+Morne Rouge	15.88666	-61.29662	GP	00
+Rose Riviere	16.14602	-61.57611	GP	00
+Pointe Roseau	16.21667	-61.41667	GP	00
+Plage de Roseau	16.09034	-61.55941	GP	00
+Pointe la Rose	16.15041	-61.57387	GP	00
+Banc Rose	16.21667	-61.53333	GP	00
+Morne Rodriguez	15.86667	-61.58333	GP	00
+Anse Rodriguez	15.85708	-61.57974	GP	00
+Pointe Rodrigue	15.85799	-61.576	GP	00
+Plage de Rocroy	16.04606	-61.76082	GP	00
+Anse a Rocroy	16.03333	-61.76667	GP	00
+Pointe des Rochers	16.25	-61.3	GP	00
+Anse des Rochers	16.24157	-61.30807	GP	00
+Pointe a Roche	16.35	-61.71667	GP	00
+Robert	15.90179	-61.25158	GP	00
+Plage de la Riviere Saint-Louis	15.93333	-61.31667	GP	00
+Pointe de la Riviere a Goyaves	16.12955	-61.56041	GP	00
+Pointe a Rifflet	16.33774	-61.78479	GP	00
+Rifflet	16.33749	-61.7837	GP	00
+Pointe a Ride	16.1	-61.78333	GP	00
+Richeval	16.34565	-61.45477	GP	00
+Richeplaine	16.2751	-61.33675	GP	00
+Fort Richepanse	15.98642	-61.72287	GP	00
+Richemont	16.4	-61.46667	GP	00
+Ribourgeon	15.97648	-61.26739	GP	00
+Pointe a Retz	16.36477	-61.50102	GP	00
+Retz	15.91667	-61.33333	GP	00
+Reneville	16.28832	-61.31161	GP	00
+Renard	16.3	-61.31667	GP	00
+Pointe du Rempart	16.33333	-61.3	GP	00
+Reizet-Sainte-Marie	16.28726	-61.65339	GP	00
+Ravine Chaude	16.22777	-61.66828	GP	00
+Ilets a Rats	16.21667	-61.53333	GP	00
+Ilet Rat	16.34785	-61.52303	GP	00
+Pointe a Raquettes	16.41403	-61.40031	GP	00
+Plage la Ramee	16.33642	-61.71061	GP	00
+Plage des Raisins Clairs	16.25	-61.26667	GP	00
+Pointe des Raisiniers	16.38333	-61.51667	GP	00
+Radelin	16.31667	-61.78333	GP	00
+Crete a Racoon	16.01667	-61.63333	GP	00
+Anse Rabin	16.34222	-61.52594	GP	00
+Rabi	15.9	-61.25	GP	00
+Pointe du Quesy	16.10323	-61.77445	GP	00
+Quatrieme Bras	16.23333	-61.7	GP	00
+Quatre Chemins	16.28004	-61.49613	GP	00
+Anse du Puy	16.2	-61.5	GP	00
+Banc Provencal	16.23333	-61.55	GP	00
+Prise d'Eau	16.20879	-61.6519	GP	00
+Sec Pripri	16.35666	-61.66484	GP	00
+Pressec	16.46667	-61.46667	GP	00
+Premiere Chute	16.04436	-61.65304	GP	00
+Riviere du Premier Bras	16.26513	-61.69045	GP	00
+Poyen	16.35	-61.45	GP	00
+Poyen	16.28333	-61.66667	GP	00
+Pouzzole	16.42521	-61.52229	GP	00
+Anse a Poulain	16.05	-61.76667	GP	00
+Poucet	16.21667	-61.5	GP	00
+Port-Louis	16.41901	-61.53131	GP	GP
+Port Louis	15.91136	-61.2849	GP	00
+Portland	16.3242	-61.32353	GP	00
+Portland	16.4621	-61.43719	GP	00
+Portel	15.91011	-61.30419	GP	00
+Lagon de la Porte d'Enfer	16.48333	-61.43333	GP	00
+Anse Porte d'Enfer	16.32381	-61.29683	GP	00
+Porte d'Enfer	16.48932	-61.44149	GP	00
+Porte d'Enfer	16.31667	-61.3	GP	00
+Port Blanc	16.23275	-61.45729	GP	00
+Baie de Pont Pierre	15.87375	-61.56884	GP	00
+Ravine Pompiere	15.92958	-61.19542	GP	00
+Pombiray	16.28375	-61.30401	GP	00
+Poisson Distellerie	15.92546	-61.32245	GP	00
+Pointe des Poiriers	16.46667	-61.41667	GP	00
+Caye a Poirier	15.91667	-61.18333	GP	00
+Poirier	16.24433	-61.36986	GP	00
+Anse de la Pointe Nord	16.50772	-61.46499	GP	00
+Pointe-Noire	16.23086	-61.78783	GP	GP
+Pointe Montagne	15.99797	-61.61553	GP	00
+Pointe a Raie	16.35	-61.48333	GP	00
+Pointe a Plumes	16.25	-61.2	GP	00
+Anse a Plume	16.25477	-61.19303	GP	00
+Plessis-Nogent	16.35426	-61.736	GP	00
+Riviere du Plessis	16.03333	-61.73333	GP	00
+Pointe Plate	16.45422	-61.53504	GP	00
+Pointe Plate	15.99305	-61.24757	GP	00
+Pointe Plate	15.94654	-61.69996	GP	00
+Pointe Plate	15.84251	-61.59119	GP	00
+Caye Plate	16.18333	-61.53333	GP	00
+Planel	16.0514	-61.69357	GP	00
+Plaisance	16.23692	-61.3944	GP	00
+Pointe Pistolet	16.5	-61.46667	GP	00
+Anse Pistolet	16.5023	-61.46131	GP	00
+Pointe Pisiou	15.98473	-61.2326	GP	00
+Pirogue	15.89998	-61.28715	GP	00
+Anse Pineau	15.97791	-61.23027	GP	00
+Morne Piment	16.2162	-61.74207	GP	00
+Pointe Pigeon	16.15	-61.78333	GP	00
+Anse Pigeon	16.15183	-61.77573	GP	00
+Pigeon	16.14782	-61.77123	GP	00
+Pointe des Pies	16.25037	-61.26582	GP	00
+Pointe Pierre Chene	15.84723	-61.64987	GP	00
+Morne Pierre Chene	15.85	-61.65	GP	00
+Pointe Pierre	16.21667	-61.41667	GP	00
+Pichon	16.42523	-61.46874	GP	00
+Pichery	15.89445	-61.24204	GP	00
+Philipsbourg	16.43786	-61.47144	GP	00
+Ilet a Petrelluzzi	16.22898	-61.55597	GP	00
+Petit Tabac	16.33333	-61.05	GP	00
+Petits Ilets	16.33333	-61.7	GP	00
+Petit Saut d'Eau	16.08333	-61.66667	GP	00
+Petit-Sans-Toucher	16.09236	-61.68018	GP	00
+Anse Petit Sable	15.86884	-61.63717	GP	00
+Anse du Petit Portland	16.49139	-61.4412	GP	00
+Petit Portland	16.45785	-61.44154	GP	00
+Pointe du Petit Nord	16.31157	-61.09045	GP	00
+Pointe Petit Negre	16.44645	-61.40405	GP	00
+Petit Moyen	16.1	-61.7	GP	00
+Petit Morne Rouge	16.33263	-61.04035	GP	00
+Pointe du Petit Marigot	16.01667	-61.56667	GP	00
+Pointe du Petit Havre	16.2078	-61.4251	GP	00
+Petit Havre	16.20682	-61.43423	GP	00
+Riviere du Petit Garbet	15.97073	-61.62858	GP	00
+Pointe du Petit Francois	16.43455	-61.40005	GP	00
+Pointe de la Petite Vigie	16.48362	-61.50338	GP	00
+Pointe Petite Tortue	16.51168	-61.46992	GP	00
+Iles de la Petite Terre	16.17065	-61.1165	GP	00
+Petit Etang Paille	16.00661	-61.65548	GP	00
+Anse du Petit Etang	15.87793	-61.5963	GP	00
+Petites Salines	16.25	-61.18333	GP	00
+Petites Mamelles	16.05	-61.61667	GP	00
+Pointe Petite Savane	16.50154	-61.45927	GP	00
+Anse Petite Savane	16.31395	-61.27443	GP	00
+Petites-Anses	15.85	-61.63333	GP	00
+Petites Anses	15.85109	-61.64907	GP	00
+Morne Petite Saline	16.24778	-61.17709	GP	00
+Petite Riviere Ferry	16.28568	-61.77934	GP	00
+Petite Ravine Boucan	16.27952	-61.69477	GP	00
+Petite Porte	16.31667	-61.28333	GP	00
+Petite Pointe	16.1	-61.78333	GP	00
+Riviere Petite Plaine	16.22114	-61.78453	GP	00
+Petite Anse Pain de Sucre	15.86313	-61.59916	GP	00
+Petite Anse	16.1	-61.76667	GP	00
+Petite Anse	16.09527	-61.7717	GP	00
+Petite Anse	15.86667	-61.58333	GP	00
+Petite Anse	15.87819	-61.23542	GP	00
+Riviere Petit David	16.15989	-61.71513	GP	00
+Petit Cul-de-Sac Marin	16.20785	-61.56257	GP	00
+Petit Carbet	15.96667	-61.63333	GP	00
+Petit-Bourg	16.19135	-61.59159	GP	GP
+Pointe du Petit Bas Vent	16.34956	-61.77579	GP	00
+Anse Perrin	16.31276	-61.53503	GP	00
+Riviere du Perou	16.0543	-61.56244	GP	00
+Anse de la Perle	16.34261	-61.77878	GP	00
+Riviere des Peres	16.04286	-61.57154	GP	00
+Riviere des Peres	16.01109	-61.74618	GP	00
+Pointe des Peres	16.01082	-61.74624	GP	00
+Morne Perelle	15.9651	-61.68	GP	00
+Anse du Pere	16.05	-61.76667	GP	00
+Roches Percees	15.87391	-61.56635	GP	00
+Pointe Percee	16.49941	-61.47976	GP	00
+Pointe Percee	16.5	-61.46667	GP	00
+Pointe Percee	16.48703	-61.43397	GP	00
+Pelisson	15.93062	-61.26641	GP	00
+Recif des Peignes	16.1081	-61.55928	GP	00
+Morne Pavillon	16.24597	-61.1814	GP	00
+Pavillon	16.26053	-61.41587	GP	00
+Pavillon	15.92196	-61.20547	GP	00
+Pointe Paul Thomas	16.28177	-61.80431	GP	00
+Morne Patrice	16.33333	-61.51667	GP	00
+Pointe a Patate	16.40269	-61.40423	GP	00
+Ilet a Patate	16.23333	-61.55	GP	00
+Anse Patate	16.35151	-61.38485	GP	00
+Pointe Pasquereau	16.27919	-61.61182	GP	00
+Pasquereau	16.27365	-61.61575	GP	00
+Partarieux	15.88333	-61.31667	GP	00
+Parnasse	16.02347	-61.68469	GP	00
+Morne Paquette	15.85204	-61.63065	GP	00
+Riviere Palmiste	16.15716	-61.62834	GP	00
+Plateau du Palmiste	16.00484	-61.68122	GP	00
+Morne Palmiste	16.11667	-61.75	GP	00
+Arete Palmiste	16.11667	-61.65	GP	00
+Palais-Sainte-Marguerite	16.35	-61.38333	GP	00
+Anse Pajot	15.8611	-61.64455	GP	00
+Pain de Sucre	15.8643	-61.59884	GP	00
+Etang Paille	16.00664	-61.65567	GP	00
+Pagesy	16.11667	-61.76667	GP	00
+Baleine de l'Ouest	16.16667	-61.13333	GP	00
+Coulee Oubliee	15.87726	-61.28972	GP	00
+Mont d'Or	16.05845	-61.71442	GP	00
+Riviere de Onze Heures	16.19176	-61.59047	GP	00
+Anse Noyer	16.34258	-61.71636	GP	00
+Ravine du Nord-Ouest	16.33557	-61.36911	GP	00
+Baie du Nord-Ouest	16.33701	-61.3676	GP	00
+Bras du Nord	16.23924	-61.78016	GP	00
+Riviere Noire	16.03333	-61.7	GP	00
+Pointe Noire	16.25	-61.8	GP	00
+Pointe Noire	15.8645	-61.62284	GP	00
+Pointe Nogent	16.35749	-61.72924	GP	00
+Anse de Nogent	16.35784	-61.7345	GP	00
+Nez Casse	16.04817	-61.67292	GP	00
+Neuf-Chateau	16.08125	-61.60136	GP	00
+Nesmond	15.92885	-61.23028	GP	00
+Neree	16.26481	-61.49957	GP	00
+Pointe a Negresse	16.17885	-61.78337	GP	00
+Anse a Negresse	16.17783	-61.78319	GP	00
+Pointe a Negre	15.85141	-61.61832	GP	00
+Ilet a Negre	16.19967	-61.57299	GP	00
+Neau	16.2	-61.61667	GP	00
+Fort Napoleon	15.87543	-61.58203	GP	00
+Anse des Muriers	15.85379	-61.61601	GP	00
+Chateau Murat	15.86667	-61.28333	GP	00
+Murat	15.87874	-61.30249	GP	00
+Anse a Mulets	16.31667	-61.01667	GP	00
+Banc Mouton Vert	16.17091	-61.53892	GP	00
+Riviere Moustique	16.33348	-61.70269	GP	00
+Plage de Moustique	15.96667	-61.3	GP	00
+Morne Moustique	16.11463	-61.67993	GP	00
+Moustique	16.30552	-61.67102	GP	00
+Moustique	15.97753	-61.30467	GP	00
+Mouchoir Carre	16.18608	-61.53058	GP	00
+Pointe Morphy	16.24306	-61.80154	GP	00
+Morphy	16.24712	-61.79741	GP	00
+Morne Rouge	16.30558	-61.65635	GP	00
+Pointe du Morne Maurice	16.4	-61.41667	GP	00
+Arete du Morne Gourbeyre	16.08333	-61.65	GP	00
+Crete du Morne Courbeyre	16.09165	-61.64957	GP	00
+Morne Bourg	16.18733	-61.59625	GP	00
+Plateau du Morne aux Pailles	16.06667	-61.73333	GP	00
+Pointe du Morne-aux-Fous	16.29492	-61.80288	GP	00
+Pointe Morne a Savon	16.23333	-61.55	GP	00
+Anse du Morne-a-l'Eau	16.34445	-61.51366	GP	00
+Morne-a-l'Eau	16.33339	-61.4588	GP	GP
+Pointe Morne	16.32739	-61.29704	GP	00
+Ravine Morissel	15.87812	-61.23877	GP	00
+Riviere Morin Premier Bras	16.10902	-61.60894	GP	00
+Moringlane	15.92601	-61.30324	GP	00
+Pointe Morel	15.88341	-61.5733	GP	00
+Morne Morel	15.87519	-61.5728	GP	00
+Riviere Moreau	16.12993	-61.59802	GP	00
+Morne Montval	16.06315	-61.71685	GP	00
+Montval	16.05911	-61.72396	GP	00
+Montplaisir	16.31937	-61.68543	GP	00
+Montebello	16.17624	-61.60142	GP	00
+Montalegre	16.43413	-61.50351	GP	00
+Montalegre	16.25	-61.66667	GP	00
+Ravine Montagne	15.86958	-61.27374	GP	00
+Plateau de la Montagne	16.33333	-61.01667	GP	00
+Baie de la Montagne	15.88333	-61.25	GP	00
+Anse du Mont	16.20066	-61.45599	GP	00
+Ilet a Monroux	16.22056	-61.53182	GP	00
+Monroc	16.44184	-61.49903	GP	00
+Mon Repos	15.91506	-61.29494	GP	00
+Pointe a Mombin	16.34873	-61.01676	GP	00
+Morne a Mitre	16.09059	-61.6675	GP	00
+Riviere Mitan	16.32109	-61.78897	GP	00
+Anse a Mire	15.86667	-61.58333	GP	00
+Pointe Miquelon	15.85278	-61.64919	GP	00
+Ravine Michellet	16.13333	-61.58333	GP	00
+Metivier	16.08333	-61.75	GP	00
+Col Merwart	16.1	-61.71667	GP	00
+Merlet	15.97634	-61.30075	GP	00
+Pointe Menard	16.00388	-61.28959	GP	00
+Menard	16.00069	-61.2862	GP	00
+Pointe a Meise	16.21667	-61.4	GP	00
+Morne Mazeau	16.28827	-61.76573	GP	00
+Mazeau	16.2948	-61.78839	GP	00
+Pointe Mazarin	15.95823	-61.70871	GP	00
+Banc du Mazarin	16.21667	-61.55	GP	00
+Anse de Mays	15.97827	-61.31279	GP	00
+Mayoumbe	15.9672	-61.25219	GP	00
+Caye a Mayeux	15.86667	-61.33333	GP	00
+Anse Maurice	16.39482	-61.40458	GP	00
+Matouba	16.0403	-61.69025	GP	00
+Mathurin Noel	16.1	-61.76667	GP	00
+Mateliane	16.09459	-61.66365	GP	00
+Grotte Mastong	16.5	-61.46667	GP	00
+Massol	16.08333	-61.75	GP	00
+Massioux	16.46598	-61.46508	GP	00
+Ravine Massicot	15.86667	-61.26667	GP	00
+Pointe Massicot	15.98333	-61.31667	GP	00
+Morne du Massacre	15.9713	-61.31641	GP	00
+Caye Martinique	16.13333	-61.56667	GP	00
+Pointe Marsolle	16.13608	-61.77275	GP	00
+Anse Marsolle	16.13453	-61.77153	GP	00
+Marquisat	16.04146	-61.57245	GP	00
+Ravine du Marquis	16.11833	-61.7733	GP	00
+Pointe du Marquis	16.11696	-61.77416	GP	00
+Riviere Marion	16.06667	-61.7	GP	00
+Pointe Marine	16.27016	-61.80914	GP	00
+Pointe du Marigot	16.23333	-61.8	GP	00
+Pointe du Marigot	16.08333	-61.76667	GP	00
+Baie du Marigot	15.87731	-61.57695	GP	00
+Anse du Marigot	16.08333	-61.76667	GP	00
+Anse du Marigot	16.03333	-61.56667	GP	00
+Anse Marigot	16.23503	-61.79214	GP	00
+Marigot	16.08174	-61.76717	GP	00
+Marie-Therese	16.45268	-61.44552	GP	00
+Marie-Louise	15.9786	-61.2821	GP	00
+Marie-Galante	15.86905	-61.27002	GP	GP
+Marie-Galante	15.9359	-61.2705	GP	00
+Mare Gaillard	16.21559	-61.43865	GP	00
+Pointe du Marechal	15.91926	-61.33341	GP	00
+Marechal	15.91836	-61.32818	GP	00
+Marchand	16.31947	-61.42043	GP	00
+Marchand	16.28333	-61.66667	GP	00
+Ilet Mangue a Laurette	16.32293	-61.6373	GP	00
+Pointe des Mangles	16.43095	-61.53731	GP	00
+Pointe Mancenillier	16.34003	-61.00311	GP	00
+Anse du Mancenillier	16.25393	-61.25477	GP	00
+Malignon	16.29417	-61.43165	GP	00
+Pointe Malherbe	16.31667	-61.26667	GP	00
+Malgretout	16.45175	-61.45654	GP	00
+Malgre Tout	16.26616	-61.26207	GP	00
+Maletie	15.98333	-61.25	GP	00
+Pointe de Malendure	16.17396	-61.7827	GP	00
+Anse de Malendure	16.16667	-61.78333	GP	00
+Riviere Malanga	16.03784	-61.68163	GP	00
+Maisoncelle	16.37823	-61.46651	GP	00
+Pointe Mahaut	16.19511	-61.78734	GP	00
+Anse Mahaut	16.19685	-61.78675	GP	00
+Mahaut	16.19281	-61.78124	GP	00
+Riviere Mahault	16.25543	-61.60926	GP	00
+Baie Mahault	16.33333	-61.01667	GP	00
+Baie Mahault	16.26992	-61.59222	GP	00
+Mahaudiere	16.43333	-61.41667	GP	00
+Mahaudiere	16.46744	-61.50521	GP	00
+Morne Madis	15.85	-61.63333	GP	00
+Riviere Madelonnette	16.25273	-61.68407	GP	00
+Pointe de la Madeleine	16.02557	-61.74816	GP	00
+Pointe Madeleine	16.28501	-61.57595	GP	00
+Madeleine	16.03571	-61.73813	GP	00
+Riviere Madeclair	16.07342	-61.62017	GP	00
+Pointe Macou	16.34649	-61.52314	GP	00
+Ilet Macou	16.35013	-61.52694	GP	00
+Pointe Macodi	16.26667	-61.23333	GP	00
+Pointe Machette	16.14307	-61.77859	GP	00
+Anse Machette	16.15	-61.78333	GP	00
+L'Union	16.25	-61.51667	GP	00
+Louisiane	16.26127	-61.39646	GP	00
+Morne a Louis	16.18536	-61.74938	GP	00
+Riviere Lostau	16.16133	-61.77603	GP	00
+L'Orme a Boudin	16.08333	-61.71667	GP	00
+Morne Lorette	16.31667	-61.51667	GP	00
+Anse Loquet	16.25402	-61.24232	GP	00
+Longval	16.26667	-61.5	GP	00
+Longmont	16.01667	-61.6	GP	00
+Caye de la Loire	16.11667	-61.56667	GP	00
+Littoral	15.96075	-61.31766	GP	00
+L'Ilet	16.28333	-61.51667	GP	00
+L'Habituee	16.02159	-61.60312	GP	00
+Arete Lezarde	16.12539	-61.68402	GP	00
+Pointe a Lezard	16.1396	-61.77971	GP	00
+Anse a Lezard	16.13333	-61.78333	GP	00
+Anse Le Tourneaux	16.13333	-61.78333	GP	00
+L'Etang Noir	15.93858	-61.24564	GP	00
+Lesueur	16.18333	-61.78333	GP	00
+Lesueur	16.08333	-61.75	GP	00
+Les Trois Tortues	16.0978	-61.77351	GP	00
+Les Trois Pointes	15.95465	-61.7096	GP	00
+Les Sources	15.93679	-61.29793	GP	00
+Lesser Antilles	15.4391	-61.34596	GP	00
+Les Saintes	15.8585	-61.59497	GP	00
+Les Sables	16.29773	-61.0842	GP	00
+Les Quilles	15.83697	-61.59869	GP	00
+Les Portlands	16.46667	-61.43333	GP	00
+Les Plaines	16.2244	-61.76902	GP	00
+Lespine	15.89676	-61.27529	GP	00
+Le Souffleur	16.48333	-61.41667	GP	00
+Le Souffleur	16.32299	-61.28944	GP	00
+Le Souffleur	16.25	-61.18333	GP	00
+Le Souffleur	16.31755	-61.03717	GP	00
+Les Mangles	16.39157	-61.45968	GP	00
+Les Mamelles	16.17047	-61.73184	GP	00
+Les Hauts	15.95076	-61.28535	GP	00
+Les Grands Fonds	16.26667	-61.43333	GP	00
+Les Galets Mabouya	15.93362	-61.20403	GP	00
+Les Galets	16.29631	-61.09225	GP	00
+Les Caraibes	16.48333	-61.5	GP	00
+Les Basses	15.87106	-61.28513	GP	00
+Les Bas	15.98538	-61.27602	GP	00
+Les Balisiers	15.91595	-61.24385	GP	00
+Les Augustins	15.84007	-61.6146	GP	00
+Le Salut	15.89119	-61.24457	GP	00
+Les Abymes	16.27095	-61.50451	GP	GP
+L'Ermitage	16.43496	-61.45806	GP	00
+Le Ravinot	16.25	-61.3	GP	00
+Le Petit Marigot	16.03333	-61.56667	GP	00
+Le Pate	15.872	-61.62772	GP	00
+Riviere Lenglet	16.10202	-61.61471	GP	00
+Le Mouton	16.33333	-61	GP	00
+Le Moule	16.33315	-61.34728	GP	GP
+Lemercier	16.33175	-61.35388	GP	00
+Le Marquis	16.11667	-61.78333	GP	00
+Le Marigot	16.03333	-61.56667	GP	00
+Le Mabouya	15.95	-61.2	GP	00
+Le Haut du Morne	15.9032	-61.22677	GP	00
+Le Gros Loup	16.10608	-61.55154	GP	00
+Le Gouffre Pointe	15.96616	-61.70843	GP	00
+Le Gouffre	16.31648	-61.80044	GP	00
+Le Gouffre	16.44343	-61.40236	GP	00
+Le Gosier	16.20685	-61.49329	GP	GP
+Morne Leger	16.18862	-61.72604	GP	00
+Le Galion Riviere	15.98579	-61.7225	GP	00
+Le Diamant	16.20076	-61.43416	GP	00
+Le Citronnier	16.23333	-61.35	GP	00
+L'Echelle	16.03992	-61.65729	GP	00
+Le Chameau	15.8565	-61.59567	GP	00
+Anse Lavolvaine	16.44787	-61.5368	GP	00
+La Vierge	15.84012	-61.61495	GP	00
+Laureal	16.3196	-61.3454	GP	00
+Pointe a Launay	15.94665	-61.69675	GP	00
+La Tortue	16.11667	-61.78333	GP	00
+Pointe Latonier	16.51667	-61.48333	GP	00
+Latapie	15.96667	-61.63333	GP	00
+Pointe Latanier	16.32118	-61.65187	GP	00
+Banc Latanier	16.32623	-61.61873	GP	00
+Lasserre	16.31976	-61.43601	GP	00
+La Source	16.13333	-61.76667	GP	00
+La Rosiere	16.24414	-61.65306	GP	00
+La Rosette	16.33964	-61.37865	GP	00
+La Rose	15.94646	-61.26382	GP	00
+La Roche	16.24779	-61.17136	GP	00
+Baleine du Large	15.88333	-61.58333	GP	00
+La Retraite	16.22854	-61.61542	GP	00
+La Retraite	16.21667	-61.76667	GP	00
+La Redonde	15.85083	-61.59204	GP	00
+Riviere La Ramee	16.33667	-61.71204	GP	00
+La Ramee	16.33258	-61.70939	GP	00
+La Poule et les Poussins	17.95175	-62.94659	GP	00
+Laporte	16.35	-61.78333	GP	00
+La Plaine	15.99696	-61.62482	GP	00
+Banc de La Perle	16.35	-61.8	GP	00
+Pointe a Lanneau	16.00937	-61.58841	GP	00
+Langlois	16.33333	-61.4	GP	00
+La Moustique Riviere	16.17383	-61.57977	GP	00
+Lamotte	16.25	-61.4	GP	00
+Lami	15.88333	-61.3	GP	00
+Riviere du Lamentin	16.27477	-61.62452	GP	00
+Baie du Lamentin	16.27949	-61.6226	GP	00
+Lamentin	16.27105	-61.63124	GP	GP
+Pointe Lambis	16.3029	-61.54591	GP	00
+La Martiniere	16.31667	-61.36667	GP	00
+La Madeleine	16.01141	-61.64067	GP	00
+La Madeleine	16.06775	-61.55892	GP	00
+La Lise	16.15782	-61.77488	GP	00
+La Lezarde Riviere	16.21364	-61.58573	GP	00
+Lalanne	16.40973	-61.51833	GP	00
+Morne Lalane	15.87472	-61.27778	GP	00
+La Jaille	16.25793	-61.57473	GP	00
+La Grivelliere	16.07172	-61.72869	GP	00
+La Grange	16.13333	-61.56667	GP	00
+La Grande Pointe	16.46006	-61.40835	GP	00
+Pointe de La Grande Falaise	16.50049	-61.44662	GP	00
+La Grande Falaise	16.49881	-61.44928	GP	00
+La Grande Falaise	16.4764	-61.42495	GP	00
+La Grande Baie	16.21667	-61.5	GP	00
+La Grande Anse	15.96027	-61.66629	GP	00
+La Grande Anse	16.32447	-61.79101	GP	00
+Pointe du Lagon	16.49042	-61.43904	GP	00
+La Goguette	16.44977	-61.51643	GP	00
+La Galere	16.25	-61.21667	GP	00
+La Femme Folle	16.34369	-61.61367	GP	00
+La Desirade	16.31838	-61.05194	GP	00
+La Cuve	16.31667	-61.26667	GP	00
+Lacroix	16.4	-61.43333	GP	00
+La Couronne	16.24924	-61.73879	GP	00
+La Coulisse	16.06942	-61.7326	GP	00
+La Coulee	16.25	-61.25	GP	00
+La Coche	15.83613	-61.60927	GP	00
+La Citerne	16.03405	-61.65581	GP	00
+Pointe La Chaise	16.24211	-61.17654	GP	00
+Roche La Caille	15.88333	-61.58333	GP	00
+Labuthie	16.32782	-61.51235	GP	00
+La Boucan	16.28233	-61.66892	GP	00
+Anse Laborde	16.48333	-61.48333	GP	00
+La Biche	16.33657	-61.65117	GP	00
+La Berthaudiere	16.47772	-61.47768	GP	00
+La Belle Hotesse	15.96974	-61.31868	GP	00
+La Baleine	15.87769	-61.58582	GP	00
+Pointe Kicali	16.32013	-61.07268	GP	00
+Petite Anse Kahouanne	16.24816	-61.19129	GP	00
+Ilet a Kahouanne	16.36688	-61.77973	GP	00
+Anse Kahouanne	16.2519	-61.22153	GP	00
+Kahouanne	16.25	-61.2	GP	00
+Pointe a Joubert	16.11092	-61.77428	GP	00
+Joubert	15.89252	-61.27595	GP	00
+Riviere Jeta	16.03333	-61.58333	GP	00
+Ravine Jery	16.0676	-61.76904	GP	00
+Ravine Jeannot	15.87081	-61.28388	GP	00
+Morne Jeanneton	16.22905	-61.72338	GP	00
+Ravine Jean Bourgeois	16.08193	-61.56905	GP	00
+Bains Jaunes	16.03532	-61.66731	GP	00
+Jarry	16.23595	-61.55798	GP	GP
+Riviere Janikeete	16.25006	-61.67364	GP	00
+Pointe J'ai Fouille	16.33166	-61.53541	GP	00
+Caye a Jacquot	16.33333	-61.63333	GP	00
+Anse a Jacques	16.20847	-61.42361	GP	00
+Jacquelot	15.9406	-61.21698	GP	00
+Baie des Irois	15.98333	-61.31667	GP	00
+Riviere Inconnue	16.3	-61.68333	GP	00
+Morne Incapable	16.10101	-61.67702	GP	00
+Crete de l'Incapable	16.11667	-61.66667	GP	00
+Ilet Perou	16.05622	-61.56952	GP	00
+Pointe a l'Ile	16.36756	-61.77799	GP	00
+Crete des Icaques	16.07467	-61.69863	GP	00
+Hurault	16.05	-61.56667	GP	00
+Houelmont	15.98101	-61.70389	GP	00
+Houelbourg	16.23807	-61.57206	GP	00
+Riviere Houaromond	16.25332	-61.59122	GP	00
+Hoguet	16.11667	-61.78333	GP	00
+Riviere aux Herbes	16.00217	-61.71668	GP	00
+Riviere Hemin	16.11667	-61.6	GP	00
+Heloin	15.90486	-61.23335	GP	00
+Pointe du Helleux	16.24123	-61.3244	GP	00
+Pointe du Havre	15.84112	-61.6293	GP	00
+Haut-Morne	16.28333	-61.23333	GP	00
+Haut Morne	15.84797	-61.63585	GP	00
+Hauteurs-Lezarde	16.19788	-61.60594	GP	00
+Haut de la Montagne	16.44281	-61.47512	GP	00
+Mouton de Haut	16.18333	-61.11667	GP	00
+Mouton de Haut	16.33333	-61.33333	GP	00
+Anse d'en Haut	16.32189	-61.02769	GP	00
+Hameau	16.4	-61.41667	GP	00
+Haie Bebel	16.33225	-61.68646	GP	00
+Ilet a la Hache	16.18333	-61.56667	GP	00
+Pointe des Habitants	16.06155	-61.77019	GP	00
+Anse Guyonneau	16.22583	-61.78611	GP	00
+Morne Guimbel	16.05	-61.68333	GP	00
+Guillot	16.28722	-61.26656	GP	00
+Guillocheau	16.31667	-61.33333	GP	00
+Guignes	15.96537	-61.26633	GP	00
+Pointe de la Guerite	16.4128	-61.53198	GP	00
+Anse de la Guerite	16.4043	-61.52884	GP	00
+Ravine Guenon	15.88333	-61.23333	GP	00
+Guenette	16.31667	-61.31667	GP	00
+Guadeloupe	16.25	-61.58333	GP	00
+Guadeloupe	16.25939	-61.55111	GP	00
+Grosse Pointe	16.00729	-61.27593	GP	00
+Grosse Pointe	15.99111	-61.24207	GP	00
+Grosse Pointe	15.87161	-61.56661	GP	00
+Grosse Corde	16.04245	-61.63359	GP	00
+Gros Sable	16.2408	-61.33772	GP	00
+Pointe Gros Rempart	16.32728	-61.0135	GP	00
+Pointe Gros Nez	15.98072	-61.23037	GP	00
+Gros Mouton a Fajou	16.35425	-61.57454	GP	00
+Gros Mouton a Caret	16.35326	-61.62218	GP	00
+Pointe du Gros Morne	16.31214	-61.80178	GP	00
+Pointe Gros Morne	16.40817	-61.40169	GP	00
+Anse Gros Morne	16.31775	-61.2814	GP	00
+Gros Morne	16.21667	-61.78333	GP	00
+Gros Morne	16	-61.65	GP	00
+Gros Morne	16.31352	-61.79774	GP	00
+Gros Morne	16.06667	-61.73333	GP	00
+Gros Morne	16	-61.68333	GP	00
+Gros Morne	16.31667	-61.28333	GP	00
+Gros Morne	15.88501	-61.24083	GP	00
+Caye Gros Loup	16.21667	-61.55	GP	00
+Pointe des Gros Caps	16.4702	-61.41258	GP	00
+Pointe du Gros Cap	15.89628	-61.21418	GP	00
+Gros Cap	16.40611	-61.41784	GP	00
+Gros Cap	16.35271	-61.76541	GP	00
+Gros-Cap	15.84867	-61.65114	GP	00
+Pointe Gros Boeuf	16.24375	-61.29433	GP	00
+Pointe Gris-Gris	16.40067	-61.52852	GP	00
+Anse du Gris-Gris	16.39299	-61.5228	GP	00
+Morne Grisel	16.35	-61.51667	GP	00
+Plaine de Grippon	16.33333	-61.43333	GP	00
+Grigne au Vent	15.98333	-61.25	GP	00
+Gresset	16.06667	-61.56667	GP	00
+Grenade	16.1	-61.75	GP	00
+Grelin	15.95865	-61.27419	GP	00
+Pointe Granger	16.31599	-61.6409	GP	00
+Grand Souffler	15.86858	-61.57254	GP	00
+Grands Fonds	16.26353	-61.42419	GP	00
+Grand Saut d'Eau	16.08551	-61.65652	GP	00
+Grand-Sans-Toucher	16.08938	-61.68445	GP	00
+Anse Grand Ravine	15.9778	-61.61843	GP	00
+Grand Pierre	15.9682	-61.28936	GP	00
+Pointe du Grand Nord	16.31867	-61.07547	GP	00
+Grand Moyen	16.08333	-61.7	GP	00
+Grand Montagne	16.31314	-61.06087	GP	00
+Pointe du Grand Marigot	16.03416	-61.56431	GP	00
+Grand Ilet	16.1807	-61.5736	GP	00
+Grand Ilet	15.83687	-61.59003	GP	00
+Grand Gouffre	16.0026	-61.2671	GP	00
+Grand Fond	15.86101	-61.64337	GP	00
+Morne Grande Voute	15.97034	-61.70012	GP	00
+Pointe de la Grande Vigie	16.51416	-61.46444	GP	00
+Grande-Terre	16.31754	-61.42873	GP	00
+Grand Etang	15.93333	-61.21667	GP	00
+Grand Etang	16.02739	-61.62902	GP	00
+Grandes Salines	16.25238	-61.18773	GP	00
+Pointe de la Grande Savane	16.16667	-61.11667	GP	00
+Grande Savane	16.18433	-61.61739	GP	00
+Grande Riviere de la Capesterre	16.05257	-61.55608	GP	00
+Grande Riviere a Goyaves	16.29911	-61.6072	GP	00
+Pointe de la Grande Riviere	16.30334	-61.60321	GP	00
+Grande Riviere	16.08333	-61.71667	GP	00
+Grande Pointe	15.97243	-61.61881	GP	00
+Riviere de la Grande Plaine	16.20983	-61.78268	GP	00
+Anse de la Grande Plaine	16.20736	-61.78323	GP	00
+Grande Plaine	16.20725	-61.77633	GP	00
+Grande Decouverte	16.05896	-61.67158	GP	00
+Grande Cascade	16.03333	-61.66667	GP	00
+Ravine Grande Boucan	16.27872	-61.66914	GP	00
+Grande Anse a la Duche	16.1	-61.78333	GP	00
+Riviere de la Grande Anse	16.31667	-61.8	GP	00
+Riviere Grande Anse	15.96076	-61.65918	GP	00
+Pointe de la Grande Anse	15.9604	-61.65878	GP	00
+Grande Anse	16.30351	-61.07406	GP	00
+Grande Anse	15.9654	-61.66499	GP	00
+Grande Anse	15.91385	-61.32455	GP	00
+Grande Anse	15.85732	-61.62334	GP	00
+Grande Anse	16.35	-61.73333	GP	00
+Grande Anse	16.3	-61.06667	GP	00
+Grande Anse	15.9	-61.33333	GP	00
+Grande Anse	15.86095	-61.6219	GP	00
+Grande Anse	15.86382	-61.57595	GP	00
+Grand Cul-de-Sac Marin	16.32151	-61.58966	GP	00
+Grand Croix	16.04946	-61.7477	GP	00
+Grand Case	15.93375	-61.21762	GP	00
+Grand'Case	16.21667	-61.78333	GP	00
+Riviere du Grand Carbet	16.0216	-61.57459	GP	00
+Grand-Bourg	15.88346	-61.31484	GP	GP
+Grand Bois	16.24271	-61.46359	GP	00
+Pointe du Grand Bas Vent	16.351	-61.76934	GP	00
+Grand Bassin	15.95998	-61.24053	GP	00
+Ilets Grand Banc	16.33895	-61.03538	GP	00
+Pointe du Grand Abaque	16.34948	-61.01055	GP	00
+Grand Abaque	16.34059	-61.03069	GP	00
+La Petite Riviere a Goyaves	16.1293	-61.56062	GP	00
+Ilets a Goyaves	16.16797	-61.78979	GP	00
+Goyave	16.13517	-61.57401	GP	GP
+Pointe du Gouvernail	15.86192	-61.64688	GP	00
+Pointe a la Gourde	16.2578	-61.20943	GP	00
+Ilet a Gourde	16.25838	-61.20606	GP	00
+Anse a la Gourde	16.26011	-61.21445	GP	00
+Morne Gourbeyre	16.1	-61.66667	GP	00
+Gourbeyre	15.99377	-61.69138	GP	GP
+Ilet du Gosier	16.19929	-61.49096	GP	00
+Plateau du Gommier	16.01438	-61.67808	GP	00
+Gommier	15.98333	-61.68333	GP	00
+Ravine Gombo	16.26132	-61.6974	GP	00
+Mont Gobelin	15.96667	-61.7	GP	00
+Pointe du Glacis	16.5	-61.48333	GP	00
+Giromon	16.03333	-61.63333	GP	00
+Morne Giraumon	16.01667	-61.66667	GP	00
+Giraud	15.94756	-61.27012	GP	00
+Girard	15.91225	-61.21337	GP	00
+Girard	16.37455	-61.4346	GP	00
+Ravine Gil	16.25	-61.7	GP	00
+Gest	16.07794	-61.74988	GP	00
+Gensolin	16.31624	-61.47369	GP	00
+Pointe Geffrier	16.35	-61.53333	GP	00
+Gay	15.92208	-61.31623	GP	00
+Gay	15.9	-61.23333	GP	00
+Ravine Gaschet	16.39539	-61.50728	GP	00
+Garnier	16.31409	-61.49722	GP	00
+Garel	15.94537	-61.25321	GP	00
+Ravine Gardel	16.31667	-61.33333	GP	00
+Gardel	16.3	-61.31667	GP	00
+Banc Ganganne	16.33333	-61.65	GP	00
+Anse du Gallet	16.16573	-61.77695	GP	00
+Gallard	16.00919	-61.69356	GP	00
+Anse Galette	16.06667	-61.76667	GP	00
+L'Anse des Galets	16.29928	-61.09721	GP	00
+Anse Galets	16.34255	-61.00514	GP	00
+Pointe Galet	15.91667	-61.2	GP	00
+Anse Galet	15.86667	-61.65	GP	00
+Anse Galet	15.86432	-61.59078	GP	00
+Galebas	16.3022	-61.67472	GP	00
+Banc Frotte-ton-Cul	16.29191	-61.5791	GP	00
+Fromager	16.31667	-61.06667	GP	00
+French West Indies	16.5	-62	GP	00
+Pointe Fregule	16.30306	-61.09778	GP	00
+Anse Francoeur	16.25599	-61.80567	GP	00
+Ilet aux Fous	16.34008	-61.68999	GP	00
+Anse des Fous	16.29611	-61.80273	GP	00
+Pointe Fouillole	16.22592	-61.53263	GP	00
+Crete Fougas	16.01247	-61.65269	GP	00
+Fouche	16.24302	-61.40162	GP	00
+Ilet Fortune	16.15005	-61.56166	GP	00
+Etang Fortin	16	-61.65	GP	00
+Riviere du Fort	16.12492	-61.59103	GP	00
+Anse a la Fontaine	16.01744	-61.57971	GP	00
+Anse Fontaine	16.46378	-61.52428	GP	00
+Fontaine	16.31667	-61.4	GP	00
+Fonds d'Or	16.3	-61.35	GP	00
+Fonds Cacao	16.03418	-61.59321	GP	00
+Anse du Fond Cure	15.86667	-61.58333	GP	00
+Pointe de Folle Anse	15.94089	-61.33618	GP	00
+Mangles de Folle Anse	15.93333	-61.31667	GP	00
+Folle Anse	15.95	-61.33333	GP	00
+Riviere Flore	16.06667	-61.71667	GP	00
+Pointe Fleur d'Epee	15.9864	-61.30592	GP	00
+Mouillage de Fleur d'Epee	16.2	-61.53333	GP	00
+Fort Fleur d'Epee	16.21667	-61.5	GP	00
+Banc Flandre	16.4	-60.9	GP	00
+Ravine Figuier	16.26267	-61.80409	GP	00
+Anse du Figuier	16.35	-61.53333	GP	00
+Anse Fideling	15.85352	-61.62071	GP	00
+Fexland	16.35	-61.46667	GP	00
+Pointe la Feuillere	15.88868	-61.22194	GP	00
+Pointe a Feuille	16.3563	-61.49951	GP	00
+Riviere Ferry	16.28	-61.80246	GP	00
+Pointe Ferry	16.27257	-61.8094	GP	00
+Anse Ferry	16.27859	-61.80355	GP	00
+Ferry	16.27836	-61.80203	GP	00
+Ravine Ferre	16.13665	-61.58509	GP	00
+Pointe du Fer a Cheval	15.85343	-61.61527	GP	00
+Anse du Fer-a-Cheval	16.38333	-61.51667	GP	00
+Morne Felicienne	16.3	-61.26667	GP	00
+Foret de Fefe	16.06751	-61.63473	GP	00
+Favreau	16.25	-61.3	GP	00
+Faup	15.91395	-61.3081	GP	00
+Ilet a Fajou	16.34979	-61.58632	GP	00
+Pointe de l'Ermitage	16.1263	-61.77389	GP	00
+Pointe l'Epine	16.32024	-61.66577	GP	00
+Porte d'Enfer	16.31383	-61.07857	GP	00
+Emilien	16.31667	-61.43333	GP	00
+Ravine aux Ecrevisses	16.03333	-61.71667	GP	00
+Cascade aux Ecrevisses	16.16667	-61.66667	GP	00
+Mare de l'Ecluse	16.3	-61.36667	GP	00
+Anse d'Echelle	16.29471	-61.09016	GP	00
+Anse a Eblain	16.21617	-61.4051	GP	00
+Pointe a l'Eau	15.88098	-61.58109	GP	00
+La Manche d'Eau	16.27677	-61.55702	GP	00
+Anse a l'Eau	16.3067	-61.26563	GP	00
+Duzer	16.34459	-61.73101	GP	00
+Durocher	15.91597	-61.26992	GP	00
+Durivage	16.224	-61.39975	GP	00
+Pointe Dupuy	16.30916	-61.63729	GP	00
+Baie Dupuy	16.26667	-61.6	GP	00
+Anse Dupuy	16.3	-61.65	GP	00
+Anse Dupuy	15.9523	-61.7079	GP	00
+Dupuy	16.25842	-61.61335	GP	00
+Dupre	16.22629	-61.39118	GP	00
+Caye a Dupont	16.15	-61.55	GP	00
+Riviere Dugommier	16.00533	-61.69391	GP	00
+Ducos	15.89095	-61.29005	GP	00
+Morne Dubreuil	15.96667	-61.68333	GP	00
+Dubois	16.2	-61.6	GP	00
+Dubois	15.95	-61.71667	GP	00
+Dubois	15.91928	-61.23354	GP	00
+Ilet Duberran	16.34943	-61.50861	GP	00
+Dubedou	16.29974	-61.29218	GP	00
+Anse a Douville	16.14417	-61.57698	GP	00
+Douville	16.26098	-61.37623	GP	00
+Douville	16.14625	-61.59123	GP	00
+Pointe Double	16.33337	-61.001	GP	00
+Anse a Dos	15.85432	-61.64764	GP	00
+Dorot	15.95816	-61.25694	GP	00
+Dorilas	16.08333	-61.76667	GP	00
+Pointe a Donne	16.23333	-61.56667	GP	00
+Dole	15.98937	-61.66979	GP	00
+Riviere de la Digue	16.24587	-61.61675	GP	00
+Diavet	16.31649	-61.68939	GP	00
+Trou a Diable	15.88333	-61.6	GP	00
+Le Trou a Diable	15.94875	-61.24663	GP	00
+Devilet	16.01667	-61.68333	GP	00
+Anse Devant	15.86437	-61.59715	GP	00
+Riviere du Deuxieme Bras	16.25	-61.66667	GP	00
+Destrelan	16.25457	-61.58249	GP	00
+Desruisseaux	15.94697	-61.2172	GP	00
+Desplan	16.21667	-61.76667	GP	00
+Desmarais	15.95566	-61.30836	GP	00
+Desmarais	16.14201	-61.76561	GP	00
+La Desirade	16.28333	-61.08333	GP	GP
+La Desirade	16.31667	-61.03333	GP	GP
+Pointe Deshayes	16.30335	-61.80033	GP	00
+Anse Deshayes	16.3068	-61.79729	GP	00
+Deshauteurs	16.24955	-61.43079	GP	00
+Riviere Deshaies	16.29829	-61.77461	GP	00
+Pointe Deshaies	15.87461	-61.24253	GP	00
+Deshaies	16.30647	-61.79419	GP	GP
+Pointe du Desert	16.3066	-61.05122	GP	00
+Descostiers	16.28333	-61.65	GP	00
+Pointe a Desbonnes	16.48227	-61.42873	GP	00
+Acul a Desbonnes	16.48333	-61.43333	GP	00
+Desbonnes	16.33083	-61.75191	GP	00
+Desbonnes	16.48348	-61.44534	GP	00
+D'Equainville	16.25	-61.38333	GP	00
+De Poyen	16.18333	-61.61667	GP	00
+Morne Dejel	15.85	-61.63333	GP	00
+Degrat	16.25	-61.18333	GP	00
+David	16.53333	-61.46667	GP	00
+Riviere Dauriac	16.05	-61.61667	GP	00
+Darboussier	16.23086	-61.53346	GP	00
+Morne Cybele	16.3275	-61.03569	GP	00
+Ravine a la Cure	16.11667	-61.78333	GP	00
+Anse a la Croix	16.29565	-61.25577	GP	00
+Pointe Criquet	16.2	-61.48333	GP	00
+Anse Criquet	16.20079	-61.47619	GP	00
+Creuilly	16.36667	-61.4	GP	00
+Anse Crawen	15.85694	-61.60288	GP	00
+Morne a Craie	15.85927	-61.58473	GP	00
+Ilet Crabiere	16.32199	-61.67007	GP	00
+Pointe de la Couronne Conchou	16.33221	-61.31216	GP	00
+Courcelles	16.25627	-61.33184	GP	00
+Pointe du Courant	16.24667	-61.28568	GP	00
+Banc des Couillons	16.23333	-61.53333	GP	00
+Anse a Coudroy	16.21667	-61.4	GP	00
+Anse Coudrier	15.96462	-61.22239	GP	00
+Ravine Coudes	16.33301	-61.45118	GP	00
+Pointe du Corps de Garde	16.2	-61.46667	GP	00
+Pointe du Corps de Garde	16.04899	-61.76469	GP	00
+Anse du Corps de Garde	16.33333	-61.71667	GP	00
+Anse des Corps	16.4154	-61.40076	GP	00
+Riviere Corossol	16.16156	-61.69858	GP	00
+Pointe Coquelet	15.86667	-61.58333	GP	00
+Pointe Coq-Souris	15.98205	-61.61456	GP	00
+Morne a Coq	15.85	-61.61667	GP	00
+Pointe Constant	16.0781	-61.55899	GP	00
+Morne Constant	15.95	-61.23333	GP	00
+Pointe a Congre	15.90025	-61.33124	GP	00
+Riviere Coneau	16.23333	-61.66667	GP	00
+Anse Conchou	16.33108	-61.31799	GP	00
+Conchou	16.33333	-61.31667	GP	00
+Plateau Concessions Schoelcher	16	-61.65	GP	00
+Ravine Comeille	16.31667	-61.31667	GP	00
+Banc Colombie	15.96667	-61.46667	GP	00
+Pointe des Colibris	16.29033	-61.09628	GP	00
+Pointe des Colibris	16.24321	-61.17442	GP	00
+Pointe des Colibris	15.8323	-61.58508	GP	00
+Riviere a Colas	16.18704	-61.78212	GP	00
+Pointe a Colas	16.18957	-61.78412	GP	00
+Ilet a Colas	16.3457	-61.57485	GP	00
+Anse a Colas	16.03401	-61.75169	GP	00
+Anse Colas	16.18768	-61.78296	GP	00
+Morne du Col	16.05842	-61.6674	GP	00
+Pointe a Cointe	15.86667	-61.6	GP	00
+Anse a Cointe	15.86011	-61.601	GP	00
+Pointe Coin a Nous	16.33972	-61.53009	GP	00
+Riviere du Coin	16.23572	-61.58765	GP	00
+Coignet	16.36667	-61.41667	GP	00
+Etang Cocoyer	16.3	-61.36667	GP	00
+Cocoyer	16.23877	-61.48383	GP	00
+Cocotier	15.94861	-61.29681	GP	00
+Ilet a Cochons	16.21445	-61.54099	GP	00
+Trou a Coa	16.23883	-61.34178	GP	00
+Plage de Clugny	16.35364	-61.75381	GP	00
+Clugny	16.31366	-61.40581	GP	00
+Pointe a Claude	16.50489	-61.47765	GP	00
+Riviere Class	16.0846	-61.64299	GP	00
+Pointe a Claire	16.3315	-61.04811	GP	00
+Pointe Cimetiere Cato	16.23809	-61.79639	GP	00
+Pointe du Cimetiere	15.97585	-61.31843	GP	00
+Morne du Cimetiere	16.25	-61.53333	GP	00
+Ilet a Christophe	16.29477	-61.56996	GP	00
+Gouffre a Chien	15.85	-61.61667	GP	00
+Secs a Chevaux	16.333	-61.5652	GP	00
+Cheval Marin	15.85	-61.61667	GP	00
+Chevalier	16.30776	-61.51486	GP	00
+Dos de Cheval	16.00923	-61.64112	GP	00
+Chazeau	16.29076	-61.46636	GP	00
+Anse a Chaux	15.86884	-61.63405	GP	00
+Anse a Chaux	15.86667	-61.63333	GP	00
+Bains Chauds du Matouba	16.0506	-61.67363	GP	00
+Ravine Chaude	16.23333	-61.68333	GP	00
+Pointe des Chateaux	16.24529	-61.17719	GP	00
+Anse des Chateaux	16.24699	-61.1745	GP	00
+Chateau-Gaillard	16.30895	-61.39698	GP	00
+Ilet a Chasse	16.22377	-61.55744	GP	00
+Chassaing	16.25707	-61.23445	GP	00
+Chartreux	16.23523	-61.66401	GP	00
+Charneau	16	-61.66667	GP	00
+Banc Charitable	16.35637	-61.5598	GP	00
+Pointe Chapeau	16.46754	-61.41038	GP	00
+Champfleury	15.98149	-61.68064	GP	00
+Anse Champagne	16.25063	-61.26352	GP	00
+Chalet	15.96729	-61.31462	GP	00
+Morne Cezanne	16.16577	-61.71547	GP	00
+Riviere Cercelle	16.16201	-61.58381	GP	00
+Baie Cercelle	16.27116	-61.61048	GP	00
+Pointe Cavalle	15.97682	-61.22914	GP	00
+Castel	16.25857	-61.66709	GP	00
+Pointe Castalia	16.48914	-61.49331	GP	00
+Anse Castalia	16.49118	-61.48834	GP	00
+Morne Cassis-Bois	16.47491	-61.41845	GP	00
+Ravine Cassis	16.43765	-61.5121	GP	00
+Ilet a Cassin	16.23333	-61.56667	GP	00
+Pointe du Cassecou	15.95	-61.68333	GP	00
+Morne Carriere	15.98333	-61.71667	GP	00
+Morne Carmichael	16.05446	-61.66309	GP	00
+Ilet a Caret	16.35568	-61.62673	GP	00
+Anse a Cardonnet	16.11667	-61.78333	GP	00
+Riviere du Carbet	16.05	-61.63333	GP	00
+Pointe du Carbet	16.02272	-61.57203	GP	00
+Chutes du Carbet	16.04369	-61.64442	GP	00
+Carbet	16.01667	-61.58333	GP	00
+Caraque	16.25015	-61.48795	GP	00
+Riviere Caranguais	16.06811	-61.56081	GP	00
+Montagne de Caranguais	16.08333	-61.58333	GP	00
+Carangaise	16.08042	-61.57102	GP	00
+Monts Caraibes	15.97211	-61.69074	GP	00
+Anse Caraibes	16.48333	-61.5	GP	00
+Trou Caraibe	16.35	-61.51667	GP	00
+Ravine Caraibe	15.8635	-61.63978	GP	00
+Pointe Caraibe	16.33625	-61.70427	GP	00
+Pointe Caraibe	16.2	-61.46667	GP	00
+Anse Caraibe	16.21395	-61.78389	GP	00
+Pointe du Capucin	16.50493	-61.46186	GP	00
+Capesterre-Belle-Eau	16.04322	-61.56596	GP	GP
+Riviere de la Capesterre	16.0844	-61.64296	GP	00
+Pointe de la Capesterre	16.05347	-61.55544	GP	00
+Montagne de la Capesterre	16.07347	-61.65041	GP	00
+Anse de la Capesterre	15.9	-61.21667	GP	00
+Capesterre-de-Marie-Galante	15.88333	-61.21667	GP	GP
+Plateau de Cantamerle	16.01667	-61.63333	GP	00
+Pointe Canot	16.19684	-61.46466	GP	00
+Anse Canot	15.98312	-61.30648	GP	00
+Trou Canard	16.16699	-61.12513	GP	00
+Cambrefort	16.06968	-61.57763	GP	00
+Cambrai	16.0015	-61.27552	GP	00
+Calvaire	16.26291	-61.38679	GP	00
+Calebassier	15.94596	-61.23513	GP	00
+Riviere Caillou	16.23181	-61.78997	GP	00
+Morne Cafetiere	16.33333	-61.78333	GP	00
+Cafeiere	16.32553	-61.7707	GP	00
+Cadet de Reine	16.1	-61.75	GP	00
+Morne Cadet	15.97631	-61.69231	GP	00
+Cadet	16.26783	-61.68601	GP	00
+Cadet	15.88297	-61.23654	GP	00
+Pointe Cachiman	16.51667	-61.46667	GP	00
+Pointe a Cabrits	16.26275	-61.21839	GP	00
+Pointe a Cabrit	15.87715	-61.60137	GP	00
+Ilet a Cabrit	16.19719	-61.57556	GP	00
+Ilet a Cabrit	15.87534	-61.59459	GP	00
+Budan	16.24289	-61.60826	GP	00
+Brument	16.41556	-61.50556	GP	00
+Brouel	16.08333	-61.76667	GP	00
+Ravine de la Briqueterie	16.11075	-61.56924	GP	00
+Brion	16.32193	-61.46006	GP	00
+Banc des Bricks	16.23333	-61.55	GP	00
+Pointe le Breton	16.33271	-61.78914	GP	00
+Anse Bremegene	16.28333	-61.58333	GP	00
+Brefort	16.26667	-61.63333	GP	00
+Ilet a la Breche	16.18333	-61.58333	GP	00
+Riviere Bras David	16.20222	-61.65947	GP	00
+Boyer	15.98333	-61.65	GP	00
+Ravine Bouteiller	16.13014	-61.59806	GP	00
+Anse du Bourg	15.86951	-61.58276	GP	00
+Anse Bourdelle	16.21747	-61.403	GP	00
+Riviere Bourceau	16.14147	-61.74704	GP	00
+Bouquinquant	15.88909	-61.27399	GP	00
+Bouliqui	16.25592	-61.45886	GP	00
+Anse a la Boule	15.96667	-61.63333	GP	00
+Bouille	16.18333	-61.6	GP	00
+Riviere de Bouillante	16.13237	-61.7703	GP	00
+Anse de Bouillante	16.12924	-61.77089	GP	00
+Bouillante	16.13041	-61.76919	GP	GP
+Morne Boudoute	16.01667	-61.63333	GP	00
+Morne Boucanier	15.98757	-61.68417	GP	00
+Pointe a Botrel	16.21777	-61.78464	GP	00
+Anse Botrel	16.21968	-61.78459	GP	00
+Bosredon	16.31262	-61.48383	GP	00
+Ravine Bornon	15.88333	-61.31667	GP	00
+Boricaud	16.2813	-61.44557	GP	00
+Borel	16.26667	-61.61667	GP	00
+Boree	15.9546	-61.22743	GP	00
+Bord de Mer	15.96858	-61.64271	GP	00
+Anse du Bord de la Mer au Frais	16.31667	-61.06667	GP	00
+Pointe Boquet	16.48613	-61.49766	GP	00
+Bontemps-Rameau	15.92265	-61.21335	GP	00
+Morne Bontemps	16.0848	-61.6804	GP	00
+Bonneval	15.89465	-61.31664	GP	00
+Anse du Bonnet	16.32665	-61.30284	GP	00
+Bonnet	15.92319	-61.28584	GP	00
+Bonne Mere	16.26956	-61.67534	GP	00
+Bonfils	16.06667	-61.56667	GP	00
+Bon	15.95	-61.31667	GP	00
+Bombo	16.25598	-61.38112	GP	00
+Boivin	16.26667	-61.36667	GP	00
+Pointe a Boitte	16.23333	-61.8	GP	00
+Boisvin	16.30006	-61.35176	GP	00
+Boisvin	16.26595	-61.45087	GP	00
+Ilet a Boissard	16.22262	-61.55297	GP	00
+Boisripeau	16.28333	-61.48333	GP	00
+Boismorin	16.4	-61.48333	GP	00
+Pointe Bois Joli	15.85721	-61.60623	GP	00
+Plage de Bois Jolan	16.23625	-61.34917	GP	00
+Anse Bois d'Inde	15.98333	-61.23333	GP	00
+Bois Debout	16.0245	-61.58693	GP	00
+Falaise Bois Chandelle	16.49733	-61.47956	GP	00
+Blondin	16.03333	-61.75	GP	00
+Riviere a Blondeau	15.95251	-61.67718	GP	00
+Morne Blin	16.33333	-61.53333	GP	00
+Bassin Bleu	16.01702	-61.66411	GP	00
+Blanchet	16.32506	-61.41484	GP	00
+Blanchet	15.9899	-61.71641	GP	00
+La Falaise Blanche	16.50843	-61.47418	GP	00
+Bisdary	15.99086	-61.70931	GP	00
+Bis	16.27535	-61.6883	GP	00
+Bielle	15.91805	-61.26682	GP	00
+Bichemin	16.07742	-61.74426	GP	00
+Bezard	15.93395	-61.2377	GP	00
+Betin	16.44981	-61.51407	GP	00
+Besnard	16.38355	-61.43892	GP	00
+Besnard	16.08333	-61.58333	GP	00
+Anse Besia	16.31151	-61.64197	GP	00
+Anse Bertrand	16.46667	-61.53333	GP	00
+Morne Bernard	16.33333	-61.51667	GP	00
+Anse Bernard	15.98935	-61.61186	GP	00
+Berard	16.26536	-61.3586	GP	00
+Anse du Belley	16.23098	-61.36949	GP	00
+Bellevue	16.44058	-61.44579	GP	00
+Bellevue	15.92736	-61.2415	GP	00
+Belle-Plaine	16.2896	-61.52179	GP	00
+Belle Hotesse	16.25852	-61.76795	GP	00
+Belle Esperance	16.31298	-61.50851	GP	00
+Belle-Allee	16.2547	-61.30468	GP	00
+Pointe Bellacaty	16.41858	-61.39893	GP	00
+Morne Bel-Air	16.12029	-61.70041	GP	00
+Bel Air	16.07021	-61.75645	GP	00
+Pointe Beautiran	16.38333	-61.5	GP	00
+Beausoleil	16.25929	-61.79283	GP	00
+Beausejour	15.90863	-61.22395	GP	00
+Beausejour	16.07782	-61.72746	GP	00
+Beaurenom	15.88228	-61.30938	GP	00
+Beauregard	15.88945	-61.25644	GP	00
+Beauregard	16.12254	-61.61588	GP	00
+Beauport	16.41776	-61.51508	GP	00
+Beauplan	16.40962	-61.46832	GP	00
+Riviere de Beaugendre	16.07948	-61.76891	GP	00
+Pointe Beaugendre	16.07956	-61.76916	GP	00
+Beaugendre	16.08952	-61.75458	GP	00
+Morne Beaufils	15.87889	-61.28459	GP	00
+Bazin	16.36978	-61.44588	GP	00
+Bazin	16.26984	-61.49587	GP	00
+Caye Bateau	16.1	-61.56667	GP	00
+Bas Vent	16.3423	-61.77072	GP	00
+Basse-Terre - Le Baillif	16.01368	-61.74243	GP	GP
+Arrondissement de la Basse-Terre	16.16667	-61.66667	GP	GP
+Basse-Terre	15.99854	-61.72548	GP	GP
+Basse-Terre	16.14943	-61.67806	GP	00
+Pointe des Basses	15.86661	-61.27952	GP	00
+Pointe Basse	15.83595	-61.59815	GP	00
+Bas du Fort	16.21667	-61.5	GP	00
+Mouton de Bas	16.16667	-61.11667	GP	00
+Mouton de Bas	16.33333	-61.35	GP	00
+Crete Banza	16.03333	-61.63333	GP	00
+Pointe des Bananiers	16	-61.6	GP	00
+Riviere de Bananier	16.00329	-61.5991	GP	00
+Anse du Bananier	15.87443	-61.59748	GP	00
+Bananier	16.00149	-61.59949	GP	00
+Ravine Banane	16.23333	-61.66667	GP	00
+Anse Ballet	15.90432	-61.33093	GP	00
+Anse Ballet	15.9	-61.31667	GP	00
+Ballet	15.90441	-61.32719	GP	00
+Riviere du Baillif	16.02183	-61.7469	GP	00
+Baillif	16.02019	-61.74632	GP	GP
+Riviere de Baille-Argent	16.25919	-61.8059	GP	00
+Anse de Baille-Argent	16.2639	-61.80682	GP	00
+Baille-Argent	16.25646	-61.80015	GP	00
+Baie Mahault	16.32897	-61.02147	GP	00
+Baie-Mahault	16.26738	-61.58543	GP	GP
+Anse a la Baie	16.27888	-61.24674	GP	00
+Pointe a Bacchus	16.20445	-61.58301	GP	00
+Morne Babin	16.35	-61.53333	GP	00
+Plage de l'Autre Bord	16.33333	-61.33333	GP	00
+Ausset	16.06667	-61.76667	GP	00
+Morne Aubin	16.31667	-61.51667	GP	00
+Etang As de Pique	16.02386	-61.64292	GP	00
+Caye d'Argent	16.21667	-61.53333	GP	00
+Pointe Archange Neau	16.36362	-61.3936	GP	00
+Anse Archange Neau	16.35994	-61.3912	GP	00
+Banc Apollon	16.21667	-61.55	GP	00
+Pointe d'Antigues	16.43811	-61.54112	GP	00
+Pointe de l'Anse Rouge	16.2	-61.41667	GP	00
+Ravine de l'Anse Patate	16.35098	-61.38586	GP	00
+Pointe de l'Anse La Fontaine	16.46088	-61.52847	GP	00
+Pointe de l'Anse des Corps	16.41667	-61.41667	GP	00
+Pointe de l'Anse Bertrand	16.47072	-61.51754	GP	00
+Anse-Bertrand	16.47206	-61.50778	GP	GP
+Ravine de l'Anse a l'Ecu	16.36667	-61.4	GP	00
+Pointe de l'Anse a l'Ecu	16.37692	-61.40205	GP	00
+Morne l'Anse a l'Eau	16.30926	-61.2679	GP	00
+Pointe de l'Anse a Chaux	15.88333	-61.6	GP	00
+Banc des Anneaux	16.31819	-61.56213	GP	00
+Ilet a l'Anglais	16.2	-61.56667	GP	00
+Le Dos d'Ane	16.30995	-61.76101	GP	00
+Col aux Ananas	16.08333	-61.68333	GP	00
+Pointe Allegre	16.36159	-61.74369	GP	00
+Anse Allegre	16.36667	-61.73333	GP	00
+Pointe a l'Aiguille	16.20513	-61.78405	GP	00
+Agapy	15.98333	-61.25	GP	00
+Pointe de l'Acomat	15.96667	-61.63333	GP	00
+Acomat	16.21342	-61.76513	GP	00
+Pointe de l'Accul	16.21697	-61.39467	GP	00
+Morne Abymes	15.85795	-61.63776	GP	00
+Pointe a l'Abbe	16.14987	-61.77569	GP	00
+CARIBBEAN PRINCESS CONDOS	16.1612	-61.6764	GP	
+Sofitel Vieilletour Guadeloupe	16.214	-61.4845	GP	
+Saint John Perse	16.2498	-61.5299	GP	
+Habitation Grande Anse	16.3011	-61.7844	GP	
+La Toubana	16.2315	-61.3821	GP	
+Karibea Le Clipper	16.2162	-61.4986	GP	
+VILLAGE DE SAINTE ANNE	16.21337	-61.43195	GP	GP
+LA MAISON CREOLE	16.2675	-61.5264	GP	
+LE VALLON	16.2675	-61.5264	GP	
+RESIDENCE MARIFA	16.2675	-61.5264	GP	
+RESIDENCE TERRASSES DE ILLET	16.2675	-61.5264	GP	
+SAINT JOHN PERSE	16.2675	-61.5264	GP	
+LE ROTABAS	16.2675	-61.5264	GP	
+SOFITEL VIEILLETOUR GUADELOUPE	16.2675	-61.5264	GP	
+TOUBANA	16.2675	-61.5264	GP	
+LE TOINY	16.1612	-61.6764	GP	
+LE MERIDIEN LA COCOTERAIE	16.2675	-61.5264	GP	
+SUNSEAS RESIDENCE ANSE MARGOT	16.1612	-61.6764	GP	
+SUNSEAS VACATION VILLAS	16.1612	-61.6764	GP	
+Guadeloupe	16.25011	-61.58369	GP	GP
+Guadeloupe	16.24988	-61.58365	GP	GP
+Les Abymes	16.26667	-61.5	GP	GP
+Vieux-Habitants	16.05	-61.75	GP	GP
+Vieux-Fort	15.95	-61.68333	GP	GP
+Trois-Rivieres	15.96667	-61.63333	GP	GP
+Terre-de-Haut	15.86595	-61.58051	GP	GP
+Sainte-Rose	16.33333	-61.68333	GP	GP
+Sainte-Anne	16.23333	-61.36667	GP	GP
+Saint-Louis	15.95	-61.3	GP	GP
+Saint-Francois	16.25	-61.26667	GP	GP
+Saint-Claude	16.01667	-61.68333	GP	GP
+Port-Louis	16.41667	-61.51667	GP	GP
+Pointe-Noire	16.23333	-61.78333	GP	GP
+Petit-Bourg	16.18333	-61.58333	GP	GP
+Lamentin	16.26667	-61.61667	GP	GP
+Grand-Bourg	15.88333	-61.3	GP	GP
+Goyave	16.13333	-61.56667	GP	GP
+Gourbeyre	15.98333	-61.68333	GP	GP
+Deshaies	16.3	-61.78333	GP	GP
+Capesterre-de-Marie-Galante	15.88333	-61.21667	GP	GP
+Capesterre-Belle-Eau	16.04895	-61.56618	GP	GP
+Bouillante	16.13333	-61.76667	GP	GP
+Basse-Terre	16	-61.71667	GP	GP
+Baillif	16.01667	-61.73333	GP	GP
+Baie-Mahault	16.26667	-61.58333	GP	GP
+Le Moule	16.33333	-61.33333	GP	GP
+Le Gosier	16.2	-61.48333	GP	GP
+Anse-Bertrand	16.46667	-61.5	GP	GP
+Morne-a-l'Eau	16.33333	-61.45	GP	GP
+La Desirade	16.31667	-61.03333	GP	GP
+Bureau de Poste de Les Abymes Principal	16.27435	-61.50472	GP	GP
+Bureau de Poste de Baie Mahault	16.26327	-61.58755	GP	GP
+Bureau de Poste de Baillif	16.01715	-61.74605	GP	GP
+Bureau de Poste de Basse Terre	15.9911	-61.72747	GP	GP
+Bureau de Poste de Capesterre Belle Eau	16.05262	-61.56374	GP	GP
+Bureau de Poste de Capesterre Marie Galante	15.89156	-61.2221	GP	GP
+Bureau de Poste de Gourbeyre	15.99541	-61.69201	GP	GP
+Bureau de Poste de Le Gosier	16.2064	-61.49379	GP	GP
+Bureau de Poste de Goyave	16.1335	-61.5754	GP	
+Bureau de Poste de Lamentin	16.27133	-61.63284	GP	GP
+Bureau de Poste de Petit Bourg	16.1931	-61.59135	GP	GP
+Bureau de Poste de Port Louis	16.41664	-61.53083	GP	
+Bureau de Poste de Sainte Anne	16.22502	-61.38568	GP	GP
+Bureau de Poste de Terre De Bas	15.85001	-61.64283	GP	GP
+Bureau de Poste de Vieux Habitants	16.06011	-61.76464	GP	GP
+Bureau de Poste de Les Mangles	16.39266	-61.46052	GP	GP
+Bureau de Poste de Aeroport Pole Caraibes	16.2618	-61.52398	GP	GP
+Bureau de Poste de Abymes Raizet Sud	16.25551	-61.53	GP	GP
+Bureau de Poste de Les Abymes Milenis	16.26552	-61.51259	GP	GP
+Bureau de Poste de Gourbeyre Marina	15.98458	-61.71847	GP	GP
+Auberge De La Vieille Tour	16.2	-61.4833	GP	GP
+Pierre & Vacances Premium Les Tamarins	16.23037	-61.37244	GP	GP
+Jardin Malanga	15.99218	-61.63973	GP	GP

@@ -1,0 +1,1389 @@
+Fond Blanc de l'Ilet a Ramiers	14.55	-61.08333	MQ	MQ
+Ilet Bouchard	14.62746	-60.85274	MQ	MQ
+Rocher Zombis	14.48521	-60.89526	MQ	MQ
+Pointe Zombi	14.62125	-60.87634	MQ	MQ
+Zobeide	14.75	-61.13333	MQ	MQ
+Zabeth	14.68333	-60.96667	MQ	MQ
+Col Yang Ting	14.74224	-61.13141	MQ	MQ
+Watel	14.71667	-60.98333	MQ	MQ
+Voltaire	14.68333	-60.95	MQ	MQ
+Volga-Plage	14.6	-61.06667	MQ	MQ
+Anse a Voile	14.85338	-61.21823	MQ	MQ
+Vivies	14.82675	-61.10925	MQ	MQ
+Vive	14.84616	-61.08875	MQ	MQ
+Ravine Vilaine	14.61667	-61.06667	MQ	MQ
+Pointe de la Vierge	14.6	-61.08333	MQ	MQ
+Pointe de la Vierge	14.6	-61.03333	MQ	MQ
+Banc de la Vierge	14.58333	-61.1	MQ	MQ
+Vieille Terre	14.53333	-60.9	MQ	MQ
+Victoire	14.6	-60.93333	MQ	MQ
+Viala	14.81667	-61.21667	MQ	MQ
+Morne Vert-Pre	14.69524	-60.98591	MQ	MQ
+Vert-Pre	14.69449	-60.98965	MQ	MQ
+Morne Vert	14.71729	-61.15643	MQ	MQ
+Morne Vert	14.58583	-60.96649	MQ	MQ
+Verrier	14.68221	-61.14801	MQ	MQ
+Morne Vente	14.65	-61.15	MQ	MQ
+Morne Vent	14.46667	-60.86667	MQ	MQ
+Riviere du Vauclin	14.54925	-60.83827	MQ	MQ
+Pointe du Vauclin	14.56798	-60.82504	MQ	MQ
+Montagne du Vauclin	14.55716	-60.89099	MQ	MQ
+Cayes du Vauclin	14.56667	-60.81667	MQ	MQ
+Baie du Vauclin	14.549	-60.83427	MQ	MQ
+Pointe Vatable	14.53908	-61.018	MQ	MQ
+Morne Valentin	14.58816	-60.90525	MQ	MQ
+Morne Val d'Or	14.43333	-60.88333	MQ	MQ
+Val d'Or	14.43333	-60.86667	MQ	MQ
+Val d'Or	14.52884	-60.953	MQ	MQ
+Val d'Or	14.43467	-60.87533	MQ	MQ
+Valatte	14.53333	-60.9	MQ	MQ
+Cul-de-Sac aux Vaches	14.53333	-61.01667	MQ	MQ
+Caye a Vache	14.56667	-61.05	MQ	MQ
+Union en Haut	14.78445	-61.01804	MQ	MQ
+Union en Bas	14.77915	-61.01817	MQ	MQ
+Union-Dostaly	14.6	-60.88333	MQ	MQ
+Urion	14.70295	-61.1288	MQ	MQ
+Anse Turin	14.71667	-61.18333	MQ	MQ
+Trou Terre	14.68333	-60.93333	MQ	MQ
+Trou Maringouins	14.6	-61	MQ	MQ
+Ravine Trou Laurent	14.46667	-60.88333	MQ	MQ
+Trou Grec	14.79588	-61.03683	MQ	MQ
+Morne Trou Bois	14.73333	-60.9	MQ	MQ
+Baie du Trou au Diable	14.46359	-60.92475	MQ	MQ
+Anse des Trois Rivieres	14.47125	-60.96542	MQ	MQ
+Trois Rivieres	14.46667	-60.96667	MQ	MQ
+Mouillage des Trois Ilets	14.55	-61.03333	MQ	MQ
+Banc des Trois Cayes	14.45	-60.9	MQ	MQ
+Anse Trois Airs	14.51667	-61.1	MQ	MQ
+Havre de la Trinite	14.74188	-60.95822	MQ	MQ
+Trianon	14.61667	-60.91667	MQ	MQ
+Baie du Tresor	14.76499	-60.89183	MQ	MQ
+Riviere Trenelle	14.52954	-60.97959	MQ	MQ
+Anse Trabaud	14.4	-60.85	MQ	MQ
+Ravine Touza	14.60816	-61.10375	MQ	MQ
+Touza	14.62409	-61.0922	MQ	MQ
+Tourtet	14.63333	-61.06667	MQ	MQ
+Riviere Tournedos	14.83741	-61.12625	MQ	MQ
+Baie des Tourelles	14.6	-61.06667	MQ	MQ
+Anse Tonnoir	14.43333	-60.88333	MQ	MQ
+Ilet a Tois Roux	14.41074	-60.83258	MQ	MQ
+Thoraille	14.51586	-60.97129	MQ	MQ
+Ravine Thieubert	14.68333	-61.16667	MQ	MQ
+Ilet Thiery	14.62557	-60.84808	MQ	MQ
+Pointe Theogene	14.53708	-60.82675	MQ	MQ
+Pointe Thalemont	14.641	-60.88858	MQ	MQ
+Baie Thalemont	14.63866	-60.89283	MQ	MQ
+Hauteurs de Terreville	14.64641	-61.10983	MQ	MQ
+Terreville	14.65	-61.1	MQ	MQ
+Terres Sainville	14.6065	-61.07599	MQ	MQ
+Pointe Tenos	14.80824	-61.00181	MQ	MQ
+Taupiniere	14.46667	-60.98333	MQ	MQ
+Fort Tartenson	14.60454	-61.08397	MQ	MQ
+Pointe de Tartane	14.76575	-60.91234	MQ	MQ
+Ilet Tartane	14.76432	-60.92233	MQ	MQ
+Cul-de-Sac Tartane	14.76091	-60.88791	MQ	MQ
+Baie de Tartane	14.76225	-60.91817	MQ	MQ
+Tartane	14.76033	-60.91633	MQ	MQ
+Table du Diable	14.77516	-60.87191	MQ	MQ
+Table au Diable	14.38333	-60.86667	MQ	MQ
+Morne Sulpice	14.49917	-60.87425	MQ	MQ
+Suffrin	14.55	-60.96667	MQ	MQ
+Sucrerie	14.56667	-60.9	MQ	MQ
+Spoutourne	14.74983	-60.93091	MQ	MQ
+Riviere Souter	14.6	-61.06667	MQ	MQ
+Pointe du Souffleur	14.86491	-61.19991	MQ	MQ
+Soudon	14.63333	-60.98333	MQ	MQ
+Caye Sobbe	14.55	-61.01667	MQ	MQ
+Banc du Singe	14.45	-60.9	MQ	MQ
+Sinai	14.71833	-61.03833	MQ	MQ
+Simson	14.67652	-61.15412	MQ	MQ
+Riviere du Simon	14.58333	-60.86667	MQ	MQ
+Pointe Simon	14.59958	-61.07866	MQ	MQ
+Baie du Simon	14.59745	-60.86879	MQ	MQ
+Sidot	14.70625	-61.15912	MQ	MQ
+Morne Siberie	14.81667	-61.18333	MQ	MQ
+Serail	14.6775	-61.05573	MQ	MQ
+Anse Sellier	14.87529	-61.13471	MQ	MQ
+Seguineau	14.83333	-61.03333	MQ	MQ
+Riviere Seche	14.76367	-61.19183	MQ	MQ
+Sebastopol	14.59838	-60.96966	MQ	MQ
+Scierie	14.8155	-61.12983	MQ	MQ
+Morne Schoelcher	14.61667	-61.1	MQ	MQ
+Case Navire	14.61774	-61.099	MQ	MQ
+Savane Petit	14.76667	-61.11667	MQ	MQ
+Sarraut	14.64191	-60.97508	MQ	MQ
+Sarcelle	14.52633	-61.02591	MQ	MQ
+Riviere de Sans-Souci	14.56667	-60.86667	MQ	MQ
+Pointe Sans-Souci	14.5711	-60.84288	MQ	MQ
+Cayes de Sans-Souci	14.58333	-60.81667	MQ	MQ
+Baie de Sans-Souci	14.57298	-60.84906	MQ	MQ
+Sans Pareil	14.507	-60.96575	MQ	MQ
+Seche San Justan	14.56667	-61.03333	MQ	MQ
+Cap Salomon	14.50949	-61.09944	MQ	MQ
+Salines Dillon	14.41093	-60.87204	MQ	MQ
+Salines Birot	14.40973	-60.88108	MQ	MQ
+Pointe des Salines	14.39757	-60.87734	MQ	MQ
+Grande Anse des Salines	14.4	-60.88333	MQ	MQ
+Etang des Salines	14.40337	-60.87017	MQ	MQ
+Riviere Salee	14.5516	-60.99901	MQ	MQ
+Saint-Vincent	14.50167	-60.87909	MQ	MQ
+Saint-Roch	14.6	-60.95	MQ	MQ
+Rade de Saint-Pierre	14.73333	-61.18333	MQ	MQ
+Arrondissement de Saint-Pierre	14.75	-61.18333	MQ	MQ
+Saint-Pierre	14.74383	-61.17533	MQ	MQ
+Saint-Pierre	14.59474	-60.94666	MQ	MQ
+Baie de Saintpee	14.65	-60.88333	MQ	MQ
+Saint-Maurice	14.70458	-61.14274	MQ	MQ
+Cap Saint-Martin	14.86049	-61.21241	MQ	MQ
+Saint Lucia Channel	14.15	-60.95	MQ	MQ
+Fort Saint-Louis	14.59757	-61.07159	MQ	MQ
+Saint-Laurent	14.58333	-60.91667	MQ	MQ
+Saint-Joseph	14.67099	-61.03905	MQ	MQ
+Saint-Joseph	14.73333	-60.96667	MQ	MQ
+Saint-James	14.63333	-61.01667	MQ	MQ
+Riviere Saint-Jacques	14.7965	-61.00305	MQ	MQ
+Baie de Saint-Jacques	14.80124	-61.00391	MQ	MQ
+Sainte-Therese	14.6	-61.06667	MQ	MQ
+Pointe Sainte-Marthe	14.71667	-61.18333	MQ	MQ
+Riviere Sainte-Marie	14.78333	-61	MQ	MQ
+Rade de Sainte-Marie	14.78691	-60.99192	MQ	MQ
+Loup de Sainte-Marie	14.8	-60.98333	MQ	MQ
+Ilet Sainte-Marie	14.78333	-60.98333	MQ	MQ
+Sainte-Marie	14.78392	-60.99274	MQ	MQ
+Caye de Sainte-Luce	14.45	-60.91667	MQ	MQ
+Sainte-Luce	14.46733	-60.92708	MQ	MQ
+Pointe Sainte-Catherine	14.74775	-60.96155	MQ	MQ
+Mouillage Sainte-Anne	14.43527	-60.88396	MQ	MQ
+Sainte-Anne	14.43314	-60.88115	MQ	MQ
+Saint-Charles	14.48941	-61.03901	MQ	MQ
+Ilet Saint-Aubin	14.77025	-60.9695	MQ	MQ
+Morne Saint-Arroman	14.73333	-61.05	MQ	MQ
+Saint-Aroman	14.7462	-61.03477	MQ	MQ
+Saingaule	14.5	-60.91667	MQ	MQ
+Sagesse	14.50758	-60.98791	MQ	MQ
+Pointe du Sable Blanc	14.66484	-60.89708	MQ	MQ
+Pointe de Sable	14.59458	-61.03652	MQ	MQ
+Le Banc de Sable	14.76667	-60.96667	MQ	MQ
+Rue Paille	14.73333	-60.96667	MQ	MQ
+Pointe Royale	14.66574	-60.91033	MQ	MQ
+Riviere Roxelane	14.74832	-61.1785	MQ	MQ
+Rousseau	14.65	-61.01667	MQ	MQ
+Riviere Rouge Pierre Denis	14.7	-61.05	MQ	MQ
+Pointe Rouge	14.75916	-60.94158	MQ	MQ
+Pointe Rouge	14.7	-60.9	MQ	MQ
+Morne Rouge	14.76563	-61.13033	MQ	MQ
+Morne Rouge	14.58333	-61.03333	MQ	MQ
+Riviere Rosiere	14.63333	-61.01667	MQ	MQ
+Morne des Roseaux	14.73216	-61.05974	MQ	MQ
+Cul-de-Sac des Roseaux	14.64724	-60.90266	MQ	MQ
+Pointe Roseau	14.65241	-60.88575	MQ	MQ
+Morne Rose	14.67125	-61.13132	MQ	MQ
+Ilet de la Rose	14.67025	-60.88258	MQ	MQ
+Caye Ronde	14.63333	-60.86667	MQ	MQ
+Caye Ronde	14.46667	-60.88333	MQ	MQ
+Roland	14.80531	-61.2191	MQ	MQ
+Rodon	14.75169	-61.00587	MQ	MQ
+Banc de Roches Madreporiques	14.66667	-60.83333	MQ	MQ
+Roches Carrees	14.6291	-60.97441	MQ	MQ
+Pointe Rochelle	14.75333	-60.94734	MQ	MQ
+Pointe Roche Cornee	14.75	-60.9	MQ	MQ
+Riviere Roche	14.8736	-61.12553	MQ	MQ
+Havre du Robert	14.66892	-60.92949	MQ	MQ
+Mouillage de la Riviere Salee	14.55	-61.01667	MQ	MQ
+Riviere-Salee	14.52724	-60.97813	MQ	MQ
+Anse Riviere Rouge	14.84891	-61.07799	MQ	MQ
+Mouillage de la Riviere-Pilote	14.45	-60.91667	MQ	MQ
+Riviere-Pilote	14.47746	-60.9035	MQ	MQ
+Riviere l'Or	14.66604	-61.07316	MQ	MQ
+Riviere Calecon	14.61667	-60.96667	MQ	MQ
+Riviere Cacao	14.65708	-60.94266	MQ	MQ
+Coulee Riviere Blanche	14.78333	-61.18333	MQ	MQ
+Anse Riviere	14.75783	-60.94224	MQ	MQ
+Riviere	14.46667	-60.85	MQ	MQ
+Rive Chancel	14.63333	-60.98333	MQ	MQ
+Riviere Ribodeau	14.63333	-61.06667	MQ	MQ
+Reynoird	14.65049	-60.92817	MQ	MQ
+Reunion	14.68875	-60.92724	MQ	MQ
+Ressource	14.73339	-60.99183	MQ	MQ
+Ressource	14.6097	-60.98614	MQ	MQ
+Pointe Rene	14.61966	-60.88292	MQ	MQ
+Regale-de-Saint-Esprit	14.53333	-60.91667	MQ	MQ
+Morne de la Regale	14.73333	-60.9	MQ	MQ
+Morne Regale	14.53333	-60.91667	MQ	MQ
+Regale	14.53333	-60.91667	MQ	MQ
+Morne Reduit-Masson	14.50069	-61.07877	MQ	MQ
+Morne Reduit	14.51312	-61.08814	MQ	MQ
+Redoute	14.62025	-61.07515	MQ	MQ
+Reculee	14.77829	-61.03753	MQ	MQ
+Ravine Vilaine	14.63333	-61.06667	MQ	MQ
+Ravine Touza	14.63408	-61.09183	MQ	MQ
+Ravine-Chien	14.51667	-60.95	MQ	MQ
+Ravine Braie	14.5	-60.88333	MQ	MQ
+Ravine Acajou	14.5	-60.91667	MQ	MQ
+Riviere Ravine	14.80924	-61.11073	MQ	MQ
+Anse Ravine	14.5269	-61.095	MQ	MQ
+Ilet aux Rats	14.68608	-60.90017	MQ	MQ
+Rateau	14.51284	-61.02008	MQ	MQ
+Ilet Ramville	14.69391	-60.88883	MQ	MQ
+Ilet a Ramiers	14.54401	-61.07865	MQ	MQ
+Pointe Raisiniers	14.85333	-61.08508	MQ	MQ
+Baie des Raisiniers	14.73333	-60.96667	MQ	MQ
+Raisin	14.66083	-60.96083	MQ	MQ
+Ilet Ragot	14.68808	-60.88317	MQ	MQ
+Foret de Rabuchon	14.68333	-61.06667	MQ	MQ
+Rabat-Joie	14.46707	-60.84842	MQ	MQ
+Riviere Quiembon	14.65	-61	MQ	MQ
+Quartier Vert-Pre	14.59141	-60.97525	MQ	MQ
+Quartier Vente	14.63333	-61.08333	MQ	MQ
+Quartier Semaine	14.81875	-61.13208	MQ	MQ
+Quartiers Anse a l'Ane	14.53333	-61.06667	MQ	MQ
+Quartier Sainte-Catherine	14.61667	-61.1	MQ	MQ
+Quartier Rollin	14.51667	-60.9	MQ	MQ
+Quartier Roches Carrees	14.63333	-60.96667	MQ	MQ
+Quartier Riviere Roche	14.86617	-61.13933	MQ	MQ
+Quartier Riviere Pomme	14.7	-60.98333	MQ	MQ
+Quartier Riviere Monsieur	14.66917	-61.06979	MQ	MQ
+Quartier Riviere Monsieur	14.61667	-61.05	MQ	MQ
+Quartier Riviere Bambous	14.58208	-60.93317	MQ	MQ
+Quartier Ravine	14.5	-60.9	MQ	MQ
+Quartier Rabuchon	14.6781	-61.06904	MQ	MQ
+Quartier Prefontaine	14.51679	-60.92404	MQ	MQ
+Quartier Poix Doux Bocage	14.6795	-60.98308	MQ	MQ
+Quartier Plateau Tiberge	14.65	-61.06667	MQ	MQ
+Quartier Petit Paradis	14.63333	-61.03333	MQ	MQ
+Quartier Perou	14.75169	-61.03458	MQ	MQ
+Quartier Pays Mele	14.62917	-61.01883	MQ	MQ
+Quartier Palmene	14.5582	-60.9191	MQ	MQ
+Quartier Morne Theodore	14.76517	-61.04583	MQ	MQ
+Quartier Morne Mignolle	14.75	-61	MQ	MQ
+Quartier Morne Covin	14.67652	-61.13727	MQ	MQ
+Quartier Morne Carrette	14.57867	-60.95318	MQ	MQ
+Quartier Morne Calebasse	14.61667	-61.06667	MQ	MQ
+Quartier Morne a Roche	14.75	-60.98333	MQ	MQ
+Quartier Morne Acajou	14.56667	-60.91667	MQ	MQ
+Quartier Monsieur	14.72095	-61.17975	MQ	MQ
+Quartier Monplaisir	14.53333	-60.9	MQ	MQ
+Quartier Lucon	14.77997	-61.03008	MQ	MQ
+Quartier Lowinsky	14.518	-60.87917	MQ	MQ
+Quartier Lelubois	14.48358	-60.89488	MQ	MQ
+Quartier Lecomte	14.693	-60.95358	MQ	MQ
+Quartier la Sabine	14.66933	-60.99066	MQ	MQ
+Quartier la Nau	14.53575	-60.921	MQ	MQ
+Quartier l'Allee	14.66667	-61.01667	MQ	MQ
+Quartier la Fontaine	14.63307	-61.06893	MQ	MQ
+Quartier la Felix	14.54825	-60.87017	MQ	MQ
+Quartier la Dessaint	14.69759	-60.99524	MQ	MQ
+Quartier la Beauville	14.57766	-60.969	MQ	MQ
+Quartier Humbert	14.56667	-60.9	MQ	MQ
+Quartier Grosan	14.7	-60.98333	MQ	MQ
+Quartier Grand Bassin	14.56667	-60.9	MQ	MQ
+Quartier Glotin	14.68533	-61.00784	MQ	MQ
+Quartier Gillot	14.6	-60.9	MQ	MQ
+Quartier Galette	14.68333	-60.98333	MQ	MQ
+Quartier Fonds Zamy	14.55	-60.88333	MQ	MQ
+Quartier Fond Mulatre	14.53333	-60.88333	MQ	MQ
+Quartier Fond Guillet	14.76667	-61.13333	MQ	MQ
+Quartier Firmin	14.55	-60.9	MQ	MQ
+Quartier du Morne Valentin	14.58333	-60.91667	MQ	MQ
+Quartier du Fort	14.75243	-61.18761	MQ	MQ
+Quartier Desmartinieres	14.52141	-60.91707	MQ	MQ
+Quartier Descossieres	14.7445	-60.99525	MQ	MQ
+Quartier Deschamps	14.81425	-61.11883	MQ	MQ
+Quartier Desbrosses	14.63333	-61.06667	MQ	MQ
+Quartier de l'Orangerie	14.81006	-61.23146	MQ	MQ
+Quartier de l'Ex-voto	14.75	-61.2	MQ	MQ
+Quartier de la T. S. F.	14.6	-61.06667	MQ	MQ
+Quartier Dabadie	14.63333	-61.06667	MQ	MQ
+Quartier Cyrille	14.82226	-61.08083	MQ	MQ
+Quartier Coulee d'Or	14.55	-60.88333	MQ	MQ
+Quartier Cocoyer	14.50319	-61.07471	MQ	MQ
+Quartier Chevre	14.50959	-60.88567	MQ	MQ
+Quartier Chere Epice	14.695	-60.97624	MQ	MQ
+Quartier Boue	14.56667	-60.9	MQ	MQ
+Quartier Bonnain	14.7	-60.98333	MQ	MQ
+Quartier Bon Air	14.74301	-61.00825	MQ	MQ
+Quartier Bocage	14.746	-60.98677	MQ	MQ
+Quartier Bellevue	14.6	-61.1	MQ	MQ
+Quartier Bellevue	14.53333	-60.88333	MQ	MQ
+Quartier Bedzy	14.72691	-61.14283	MQ	MQ
+Quartier Beco	14.72535	-61.13408	MQ	MQ
+Quartier Beauvallon	14.71242	-61.15087	MQ	MQ
+Quartier Beauregard	14.52815	-60.87697	MQ	MQ
+Quartier Beaujolais	14.52185	-60.87123	MQ	MQ
+Quartier Bas Ceron	14.81075	-61.07592	MQ	MQ
+Quartier Balata	14.68333	-61.03333	MQ	MQ
+Quartier Bac	14.58333	-60.9	MQ	MQ
+Quartier Anse Azerot	14.76667	-60.98333	MQ	MQ
+Quartier Abricot	14.53283	-60.92665	MQ	MQ
+Puyferrat	14.50458	-60.84975	MQ	MQ
+Providence	14.68333	-60.98333	MQ	MQ
+Riviere Prosperite	14.65	-61.01667	MQ	MQ
+Propriete Poulet	14.8	-61.13333	MQ	MQ
+Proprete	14.73333	-61.1	MQ	MQ
+Presqu'ile	14.67235	-61.01297	MQ	MQ
+Riviere du Precheur	14.80188	-61.22665	MQ	MQ
+Pointe de la Prairie	14.59514	-60.851	MQ	MQ
+Riviere Potiche	14.86667	-61.16667	MQ	MQ
+Baie de la Poterie	14.58396	-61.01853	MQ	MQ
+Poste Colon	14.65	-61.06667	MQ	MQ
+Pont de Chaines	14.61667	-61.06667	MQ	MQ
+Pontalery	14.66499	-60.95274	MQ	MQ
+Riviere Ponce	14.85325	-61.16486	MQ	MQ
+Pomponne	14.46667	-60.9	MQ	MQ
+Pointe a Pommes	14.43333	-60.83333	MQ	MQ
+Pomare	14.53333	-60.88333	MQ	MQ
+Poiriers	14.72216	-61.00893	MQ	MQ
+Poirier	14.45	-60.91667	MQ	MQ
+Poirier	14.46174	-60.86566	MQ	MQ
+Poirer	14.78333	-60.86667	MQ	MQ
+Pointe Savane	14.69409	-60.90909	MQ	MQ
+Pointe Larose	14.63333	-60.9	MQ	MQ
+Riviere de la Pointe la Mare	14.78191	-61.21367	MQ	MQ
+Pointe la Mare	14.78291	-61.21417	MQ	MQ
+Pointe Jean-Claude	14.7	-60.91667	MQ	MQ
+Pointe Jacob	14.5839	-60.86592	MQ	MQ
+Pointe Fort	14.66667	-60.91667	MQ	MQ
+Pointe des Negres	14.60032	-61.09598	MQ	MQ
+Pointe Athanase	14.54424	-60.83383	MQ	MQ
+Riviere Pocquet	14.86312	-61.09806	MQ	MQ
+Morne Plume	14.8	-61.18333	MQ	MQ
+Riviere Plet	14.467	-60.88342	MQ	MQ
+Plateforme	14.81898	-61.0261	MQ	MQ
+Plateau-Didier	14.61667	-61.08333	MQ	MQ
+Plaisable	14.7	-61.96667	MQ	MQ
+Placide	14.55	-60.86667	MQ	MQ
+Riviere Piroque	14.81349	-61.10558	MQ	MQ
+Morne Piquet	14.7	-61.11667	MQ	MQ
+Caye Pinsonnelle	14.61667	-60.83333	MQ	MQ
+Pointe Pimantee	14.46667	-60.96667	MQ	MQ
+Riviere Pilote	14.46725	-60.91725	MQ	MQ
+Petite Riviere Pilote	14.48309	-60.90943	MQ	MQ
+Pointe Pie	14.40433	-60.89166	MQ	MQ
+Pointe Philippeaux	14.46091	-60.93825	MQ	MQ
+Savane des Petrifications	14.4	-60.85	MQ	MQ
+Morne des Petrifications	14.40741	-60.86499	MQ	MQ
+Ilet Petit Vincent	14.68783	-60.92041	MQ	MQ
+Petit Versailles	14.45637	-60.86354	MQ	MQ
+Petit Trou	14.48333	-60.86667	MQ	MQ
+Petit Sable	14.43333	-60.83333	MQ	MQ
+Petit Paradis	14.55724	-60.96031	MQ	MQ
+Pointe Petit Negre	14.75984	-60.87238	MQ	MQ
+Petit Morne	14.54301	-60.96935	MQ	MQ
+Petit Morne	14.61667	-60.98333	MQ	MQ
+Petit Ilet Duprey	14.45924	-60.88484	MQ	MQ
+Petit Ilet	14.55	-61	MQ	MQ
+Riviere Petit Galion	14.71667	-60.98333	MQ	MQ
+Petit Galion	14.7	-61.95	MQ	MQ
+Petite Savane	14.78883	-61.14316	MQ	MQ
+Petite Riviere Salee	14.76667	-60.98333	MQ	MQ
+Petite Riviere Salee	14.75	-60.96667	MQ	MQ
+Petite Riviere Rouge	14.68333	-61.03333	MQ	MQ
+Petite Riviere du Carbet	14.71418	-61.16811	MQ	MQ
+Petite Riviere	14.65	-60.96667	MQ	MQ
+Pointe Petite Poterie	14.45	-60.9	MQ	MQ
+Petite Pinsonnelle	14.6	-60.83333	MQ	MQ
+Petite Morne	14.6	-61.01667	MQ	MQ
+Ilet Petite Martinique	14.68575	-60.90966	MQ	MQ
+Riviere Petite Lezarde	14.68333	-61	MQ	MQ
+Petite Lezarde	14.68333	-60.98333	MQ	MQ
+Ile Petite Grenade	14.56817	-60.83589	MQ	MQ
+Petite Gamelle	14.59169	-60.93227	MQ	MQ
+Petite France	14.58333	-60.86667	MQ	MQ
+Petite Caye	14.63333	-60.86667	MQ	MQ
+Petite Anse Macabou	14.50457	-60.82266	MQ	MQ
+Petite Anse du Diamant	14.46654	-61.07044	MQ	MQ
+Petite Anse	14.46667	-61.06667	MQ	MQ
+Petite Anse	14.78591	-60.98959	MQ	MQ
+Petit Bresil	14.73333	-60.96667	MQ	MQ
+Petit Bourg	14.54557	-60.97179	MQ	MQ
+Petit Bonhomme	14.80641	-61.17916	MQ	MQ
+Morne Persil	14.43333	-60.85	MQ	MQ
+Morne Perou	14.50799	-60.86804	MQ	MQ
+Morne Perou	14.75962	-61.02846	MQ	MQ
+Perou	14.50862	-60.87735	MQ	MQ
+Ilet la Perle	14.83764	-61.23222	MQ	MQ
+Haut Perinelle	14.78175	-61.17092	MQ	MQ
+Riviere des Peres	14.75	-61.18333	MQ	MQ
+Pointe des Peres	14.54183	-61.03376	MQ	MQ
+Pointe des Peres	14.46592	-60.92534	MQ	MQ
+Morne des Peres	14.50883	-61.01808	MQ	MQ
+Pelletier	14.65881	-60.98247	MQ	MQ
+Montagne Pelee	14.80965	-61.16638	MQ	MQ
+Ilet Pele	14.6148	-60.84831	MQ	MQ
+Pecoul	14.85712	-61.10025	MQ	MQ
+Morne Pavillon	14.62674	-60.95225	MQ	MQ
+Morne Pavillon	14.50041	-61.024	MQ	MQ
+Morne Patate	14.80137	-61.04269	MQ	MQ
+Parnasse	14.753	-61.14133	MQ	MQ
+Cayes Pariadis	14.53333	-60.8	MQ	MQ
+Riviere de Paquemar	14.52254	-60.83452	MQ	MQ
+Cul-de-Sac de Paquemar	14.51804	-60.82977	MQ	MQ
+Palmistes	14.4895	-61.05391	MQ	MQ
+Morne Palmiste	14.76525	-61.05575	MQ	MQ
+Palmiste	14.63333	-61.03333	MQ	MQ
+Palmiste	14.57834	-60.87467	MQ	MQ
+Pointe Pain de Sucre	14.81106	-61.00625	MQ	MQ
+Pain de Sucre	14.78783	-61.037	MQ	MQ
+Pain de Sucre	14.83333	-61.18333	MQ	MQ
+Pain de Sucre	14.8002	-61.0216	MQ	MQ
+Ilet Oscar	14.62723	-60.85301	MQ	MQ
+Pont O'Neil	14.46667	-60.86667	MQ	MQ
+Riviere Oman	14.46667	-60.96667	MQ	MQ
+Morne des Olives	14.68433	-61.04863	MQ	MQ
+Caye d'Olbian	14.46667	-61.01667	MQ	MQ
+Ravine Numa	14.76667	-60.96667	MQ	MQ
+Nouvelle Cite	14.76667	-61.01667	MQ	MQ
+Nord Plage	14.86667	-61.15	MQ	MQ
+Riviere Noire	14.80756	-61.11429	MQ	MQ
+Anse Noire	14.52635	-61.09101	MQ	MQ
+Pointe des Negres	14.59849	-61.09108	MQ	MQ
+Riviere la Nau	14.55054	-60.91942	MQ	MQ
+Baie des Mulets	14.56636	-60.84582	MQ	MQ
+Morne Mouton	14.84792	-61.19249	MQ	MQ
+Moulin-l'Etang	14.85968	-61.10231	MQ	MQ
+Moulin a Vent	14.68242	-60.954	MQ	MQ
+Moulin a Eau	14.66667	-60.96667	MQ	MQ
+Morne-Vert	14.70518	-61.15169	MQ	MQ
+Morne Vert	14.58333	-60.95	MQ	MQ
+Morne Vente	14.65	-61.15	MQ	MQ
+Morne Vent	14.46667	-60.86667	MQ	MQ
+Morne Vallon	14.81492	-61.05369	MQ	MQ
+Morne Sulpice	14.48333	-60.86667	MQ	MQ
+Morne Serpent	14.61667	-60.95	MQ	MQ
+Anse Morne Rouge	14.87154	-61.18277	MQ	MQ
+Morne Rouge	14.46667	-60.88333	MQ	MQ
+Morne Pois	14.43333	-60.86667	MQ	MQ
+Morne Poirier	14.73764	-60.98721	MQ	MQ
+Morne Poirier	14.66667	-61.05	MQ	MQ
+Morne-Pichevin	14.6	-61.06667	MQ	MQ
+Morne Pavillon	14.75216	-60.91325	MQ	MQ
+Morne Pavillon	14.61667	-60.95	MQ	MQ
+Morne la Valeur	14.55	-60.95	MQ	MQ
+Riviere Morne Jacques	14.83741	-61.12633	MQ	MQ
+Morne Honore	14.5226	-60.92198	MQ	MQ
+Morne Gamelle	14.59981	-60.92996	MQ	MQ
+Morne Galbas	14.7	-60.96667	MQ	MQ
+Morne Flambeau	14.48333	-60.83333	MQ	MQ
+Morne Etoile	14.74609	-61.15008	MQ	MQ
+Morne Etoile	14.75	-61.13333	MQ	MQ
+Foret du Morne des Olives	14.7	-61.06667	MQ	MQ
+Morne des Esses	14.7428	-61.02477	MQ	MQ
+Morne Congo	14.75	-60.98333	MQ	MQ
+Morne Ceron	14.8145	-61.06833	MQ	MQ
+Morne Capot	14.81766	-61.10349	MQ	MQ
+Morne Bois	14.8	-61.05	MQ	MQ
+Morne Blanc	14.48333	-61.05	MQ	MQ
+Morne Bel	14.73333	-60.96667	MQ	MQ
+Morne Baldara	14.56667	-60.9	MQ	MQ
+Morne-Balai	14.83175	-61.13125	MQ	MQ
+Morne Baguidi	14.51042	-61.09706	MQ	MQ
+Montravail	14.48102	-60.94383	MQ	MQ
+Montjoly	14.70081	-61.1301	MQ	MQ
+Montgerald	14.47225	-60.881	MQ	MQ
+Banc Monsigny	14.56667	-61.05	MQ	MQ
+Riviere Monsieur	14.59776	-61.05237	MQ	MQ
+Trou Monnerot	14.61667	-60.88333	MQ	MQ
+Monnerot	14.61667	-60.88333	MQ	MQ
+Monmarche	14.48333	-60.85	MQ	MQ
+Monesie	14.48333	-60.93333	MQ	MQ
+Mondesir-Pointe Sable	14.45	-60.86667	MQ	MQ
+Mondesir	14.46667	-60.86667	MQ	MQ
+Mondesir	14.43333	-60.86667	MQ	MQ
+Caye Mocos	14.46667	-60.98333	MQ	MQ
+Morne Moco	14.75013	-60.99463	MQ	MQ
+Caye Mitan	14.66667	-60.85	MQ	MQ
+Banc Mitan	14.76667	-60.95	MQ	MQ
+Banc Mitan	14.58333	-61.08333	MQ	MQ
+Anse Mitan	14.55	-61.05	MQ	MQ
+Loup Ministre	14.78333	-60.93333	MQ	MQ
+Banc du Milieu	14.46667	-60.88333	MQ	MQ
+Ilet Metrente	14.61667	-60.86667	MQ	MQ
+Merveilleuse	14.75	-60.98333	MQ	MQ
+Pointe Merle	14.55	-61.01667	MQ	MQ
+Pointe Melon	14.68791	-60.91133	MQ	MQ
+Medecin	14.51073	-60.9932	MQ	MQ
+Mayol	14.49725	-60.90616	MQ	MQ
+Maximin	14.71667	-61	MQ	MQ
+Maxime	14.81667	-61.08333	MQ	MQ
+Pointe Maurice	14.45	-61.06667	MQ	MQ
+Maupeou	14.52291	-60.99333	MQ	MQ
+Maugee	14.47766	-61.01375	MQ	MQ
+Anse Mathurin	14.54158	-61.0739	MQ	MQ
+Mathilde	14.55	-60.91667	MQ	MQ
+Pointe de Massy-Massy	14.51667	-60.81667	MQ	MQ
+Baie de Massy-Massy	14.53366	-60.83165	MQ	MQ
+Anse Masse	14.81667	-61.03333	MQ	MQ
+Martinique	14.66667	-61	MQ	00
+Martinique	14.66281	-61.00416	MQ	MQ
+Pointe Martineau	14.77516	-60.97892	MQ	MQ
+Loup Marseillais	14.68333	-60.86667	MQ	MQ
+Marlet	14.65783	-60.91742	MQ	MQ
+Pointe Marin	14.45176	-60.88346	MQ	MQ
+Cul-de-Sac du Marin	14.45	-60.88333	MQ	MQ
+Arrondissement du Marin	14.46667	-60.86667	MQ	MQ
+Pointe de Marigot	14.82997	-61.02871	MQ	MQ
+Pointe de Marigot	14.47133	-61.00591	MQ	MQ
+Anse Marigot	14.66667	-61.16667	MQ	MQ
+Marigot	14.82248	-61.03127	MQ	MQ
+Pointe Marignan	14.43333	-60.83333	MQ	MQ
+Rocher Marie-Therese	14.72108	-60.92617	MQ	MQ
+Marie Noire	14.45	-60.9	MQ	MQ
+Pointe Marie-Catherine	14.48333	-60.81667	MQ	MQ
+Morne Marguerite	14.43333	-60.86667	MQ	MQ
+Loup Marguerite	14.75	-60.96667	MQ	MQ
+Anses Marettes	14.55	-61.06667	MQ	MQ
+Mare Poirier	14.48333	-61	MQ	MQ
+Mareil	14.52426	-60.99775	MQ	MQ
+Pointe Maree	14.46667	-60.81667	MQ	MQ
+Mare Capron	14.49183	-60.88496	MQ	MQ
+Pointe la Mare	14.78208	-61.21392	MQ	MQ
+Pointe Marcussy	14.73199	-60.93666	MQ	MQ
+Mansarde-Rancee	14.6465	-60.9199	MQ	MQ
+Mansarde Catalogne	14.66667	-60.95	MQ	MQ
+Saut Manoel	14.76667	-61.15	MQ	MQ
+Morne Manioc	14.43333	-60.86667	MQ	MQ
+Maniba	14.65	-61.13333	MQ	MQ
+Riviere la Manche	14.55626	-60.99285	MQ	MQ
+Morne Manceau	14.68801	-60.94692	MQ	MQ
+Morne Malgre-Tout	14.6	-60.86667	MQ	MQ
+Malgre-Tout	14.41667	-60.86667	MQ	MQ
+Malevaut	14.51066	-60.84033	MQ	MQ
+Morne Male	14.45	-60.86667	MQ	MQ
+Banc Major	14.46667	-60.88333	MQ	MQ
+Maison Rouge	14.46667	-60.85	MQ	MQ
+Mahaut	14.61667	-61.01667	MQ	MQ
+Riviere Mahault	14.74657	-61.16981	MQ	MQ
+Pont Madeleine	14.5	-60.9	MQ	MQ
+Pointe Macre	14.46667	-60.81667	MQ	MQ
+Macre	14.46667	-60.83333	MQ	MQ
+Riviere de Macouba	14.87828	-61.14863	MQ	MQ
+Pointe de Macouba	14.8786	-61.14794	MQ	MQ
+Morne Macouba	14.81508	-61.16992	MQ	MQ
+Anse du Macouba	14.87747	-61.14513	MQ	MQ
+Macouba	14.86885	-61.15693	MQ	MQ
+Macedoine	14.8	-61.06667	MQ	MQ
+Cayes de Macabou	14.51667	-60.81667	MQ	MQ
+Macabou	14.5	-60.85	MQ	MQ
+Anse Mabouyas	14.45	-60.95	MQ	MQ
+Pointe Lynch	14.67874	-60.9295	MQ	MQ
+Lynch	14.68333	-60.93333	MQ	MQ
+L'Union	14.65	-61.13333	MQ	MQ
+Lunette-Bouille	14.61667	-61.06667	MQ	MQ
+Morne Lucon	14.78333	-61.03333	MQ	MQ
+Luciole	14.76667	-60.98333	MQ	MQ
+Lourdes	14.55	-60.96667	MQ	MQ
+Lourdes	14.49258	-60.89589	MQ	MQ
+Loup-Garou	14.66667	-60.85	MQ	MQ
+Riviere du Lorrain	14.83202	-61.03944	MQ	MQ
+Morne du Lorrain	14.7245	-61.08517	MQ	MQ
+Riviere du Longvilliers	14.6	-61	MQ	MQ
+Riviere du Long Pre	14.61667	-61	MQ	MQ
+Long-Pre	14.61667	-61	MQ	MQ
+Long-Bois	14.66692	-61.03141	MQ	MQ
+Long Bois	14.63333	-61	MQ	MQ
+Ilet Long	14.61187	-60.85537	MQ	MQ
+Limbe	14.78333	-61.03333	MQ	MQ
+Lheureux	14.68333	-60.96667	MQ	MQ
+Lezarde Riviere	14.56064	-60.99858	MQ	MQ
+Pointe Lezarde	14.48333	-61.08333	MQ	MQ
+Le Vauclin	14.54524	-60.83883	MQ	MQ
+Riviere Levassor	14.6	-61.08333	MQ	MQ
+Le Trou	14.71667	-61.18333	MQ	MQ
+Les Trois Ponts	14.753	-61.17004	MQ	MQ
+Les Trois-Ilets	14.539	-61.03608	MQ	MQ
+Les Trois Ilets	14.54416	-61.03658	MQ	MQ
+Lestrade	14.69809	-60.94541	MQ	MQ
+Les Quatre Chemins	14.46667	-60.86667	MQ	MQ
+L'Esperance	14.53721	-61.05287	MQ	MQ
+Les Flamboyants	14.43333	-60.88333	MQ	MQ
+Les Deux-Terres	14.69775	-61.01774	MQ	MQ
+Les Deux Courants	14.6	-60.91667	MQ	MQ
+Lescouet	14.48333	-60.88333	MQ	MQ
+Lescouet	14.5	-64.9	MQ	MQ
+Les Coteaux	14.49507	-60.98517	MQ	MQ
+Les Boucaniers	14.43333	-60.88333	MQ	MQ
+Les Anses-d'Arlet	14.48333	-61.08333	MQ	MQ
+Les Anglais des Grottes	14.43475	-60.86091	MQ	MQ
+Saint-Esprit	14.55	-60.93333	MQ	MQ
+Les Abymes	14.80662	-61.2256	MQ	MQ
+Le Robert	14.67751	-60.94228	MQ	MQ
+Lero	14.74289	-60.99589	MQ	MQ
+L'Ermitage	14.6	-61.06667	MQ	MQ
+L'Ermitage	14.66667	-61.05	MQ	MQ
+Le Precheur	14.80169	-61.22466	MQ	MQ
+Le Precheur	14.83333	-61.2	MQ	MQ
+Le Poteau	14.85	-61.1	MQ	MQ
+Lepinay	14.50566	-60.92066	MQ	MQ
+L'Enclos	14.61667	-61.11667	MQ	MQ
+Le Mouillage	14.73333	-61.16667	MQ	MQ
+Le Morne-Vert	14.70698	-61.14617	MQ	MQ
+Le Morne-Rouge	14.76667	-61.13333	MQ	MQ
+Le Morne des Olives	14.68333	-61.05	MQ	MQ
+Le Morne aux Boeufs	14.68333	-61.16667	MQ	MQ
+Le Marin	14.47212	-60.86973	MQ	MQ
+Le Lorrain	14.83292	-61.05667	MQ	MQ
+Le Lamentin	14.608	-61.00933	MQ	MQ
+Le Francois	14.61557	-60.90308	MQ	MQ
+Le Diamant	14.47949	-61.027	MQ	MQ
+Le Coin	14.7	-61.18333	MQ	MQ
+Rocher Leclerc	14.63308	-60.90441	MQ	MQ
+Le Centre	14.75	-61.18333	MQ	MQ
+Le Carbet	14.71033	-61.18242	MQ	MQ
+Le Cap	14.46667	-60.85	MQ	MQ
+Lazaret	14.55	-61.05	MQ	MQ
+La Yoyoye	14.66667	-60.95	MQ	MQ
+Lavison	14.48683	-60.96009	MQ	MQ
+Ilet Lavigne	14.63249	-60.88741	MQ	MQ
+La Vierge	14.71499	-61.02133	MQ	MQ
+La Vierge	14.46667	-60.86667	MQ	MQ
+Riviere La Vatable	14.53702	-61.02459	MQ	MQ
+La Vatable	14.53032	-61.03325	MQ	MQ
+Laugier	14.52029	-60.98096	MQ	MQ
+Arrondissement de La Trinite	14.73333	-60.96667	MQ	MQ
+La Trinite	14.73758	-60.96286	MQ	MQ
+La Tracee Riviere	14.71667	-60.96667	MQ	MQ
+La Tracee	14.7	-60.98333	MQ	MQ
+Anse La Touche	14.73333	-61.18333	MQ	MQ
+La Tocnay	14.5	-60.86667	MQ	MQ
+La Tete de Singe	14.46667	-61	MQ	MQ
+Pointe La Table	14.76867	-60.87279	MQ	MQ
+La Suin	14.55	-60.9	MQ	MQ
+La Suffrin	14.46667	-60.9	MQ	MQ
+La Source	14.46667	-60.85	MQ	MQ
+La Salle	14.78333	-61	MQ	MQ
+La Salette	14.58333	-60.98333	MQ	MQ
+Pointe Larose	14.66474	-60.88225	MQ	MQ
+Banc de Larose	14.66667	-60.9	MQ	MQ
+La Rodate	14.65	-61.06667	MQ	MQ
+La Rochelle	14.57824	-60.97991	MQ	MQ
+Pointe Laroche	14.84582	-61.07333	MQ	MQ
+La Richard	14.5865	-60.95183	MQ	MQ
+La Renee	14.51667	-60.9	MQ	MQ
+Lareinty	14.6	-61	MQ	MQ
+La Regale	14.64395	-61.05868	MQ	MQ
+Plateau Larcher	14.66667	-61.1	MQ	MQ
+Morne Larcher	14.45	-61.05	MQ	MQ
+La Poulette	14.7	-60.98333	MQ	MQ
+La Pointe	14.54133	-61.0065	MQ	MQ
+La Pointe	14.61667	-60.9	MQ	MQ
+Morne La Plaine	14.51349	-61.07457	MQ	MQ
+La Plaine	14.50812	-61.06554	MQ	MQ
+Morne La Pirogue	14.63333	-61.08333	MQ	MQ
+Ilet Lapin	14.77622	-60.87466	MQ	MQ
+La Petite Riviere	14.59171	-60.9846	MQ	MQ
+La Palun	14.53333	-60.96667	MQ	MQ
+La Pagerie	14.52941	-61.05416	MQ	MQ
+L'Anse Noire	14.52535	-61.08926	MQ	MQ
+L'Anse Mitan	14.53333	-61.05	MQ	MQ
+L'Anse Caffar	14.46667	-61.05	MQ	MQ
+La Monnerot	14.63333	-60.93333	MQ	MQ
+La Moise	14.73333	-60.95	MQ	MQ
+Pointe du Lamentin	14.6	-61.01667	MQ	MQ
+Cohe du Lamentin	14.6017	-61.02709	MQ	MQ
+La Medaille	14.7	-61.08333	MQ	MQ
+Lamberton	14.53608	-60.95949	MQ	MQ
+La Mauny	14.5	-60.9	MQ	MQ
+La Massel	14.5	-60.86667	MQ	MQ
+Riviere La Mare	14.6942	-61.15331	MQ	MQ
+La Manzo	14.5885	-60.94459	MQ	MQ
+La Mamisse	14.46667	-60.85	MQ	MQ
+La Lezarde Riviere	14.55	-61	MQ	MQ
+Zone Industrielle de La Lezarde	14.6	-61.01667	MQ	MQ
+Ravine Lajus	14.7	-61.18333	MQ	MQ
+Lajus	14.7	-61.18333	MQ	MQ
+Ajoupa-Bouillon	14.81667	-61.11667	MQ	MQ
+La Jambette	14.604	-61.04233	MQ	MQ
+La Huvet	14.46667	-60.86667	MQ	MQ
+Pointe Lahoussaye	14.87729	-61.13883	MQ	MQ
+Pointe Lahoussaye	14.77874	-60.981	MQ	MQ
+La Haut	14.63333	-60.94569	MQ	MQ
+La-Haut	14.5224	-60.95381	MQ	MQ
+La-Haut	14.66667	-60.98333	MQ	MQ
+La Garenne	14.81348	-61.03108	MQ	MQ
+Riviere Lagarde	14.87704	-61.15187	MQ	MQ
+La Francisque	14.58033	-60.92934	MQ	MQ
+La Fouquette	14.46667	-60.85	MQ	MQ
+La Fontenay	14.54326	-60.93608	MQ	MQ
+La Fontaine	14.63333	-61.08333	MQ	MQ
+La Ferme Saint-Jacques	14.78302	-61.04264	MQ	MQ
+Morne La Ferme	14.5264	-61.04312	MQ	MQ
+Lafayette	14.68477	-61.17479	MQ	MQ
+La Favorite	14.63333	-61.03333	MQ	MQ
+La Farelle	14.59276	-60.93773	MQ	MQ
+La Durand	14.68283	-61.06393	MQ	MQ
+La Duprey	14.45011	-60.90554	MQ	MQ
+La Digue	14.7	-60.95	MQ	MQ
+Morne La Diablesse	14.43333	-60.85	MQ	MQ
+La Dessaint	14.71667	-61.18333	MQ	MQ
+La Denval	14.77191	-61.18217	MQ	MQ
+La Demarche	14.64426	-61.11086	MQ	MQ
+La Debuc	14.45	-60.88333	MQ	MQ
+Pointe La Croix	14.56667	-61.01667	MQ	MQ
+Loup Lacroix	14.75	-60.96667	MQ	MQ
+La Croix	14.49075	-61.07091	MQ	MQ
+La Crique	14.74332	-60.98416	MQ	MQ
+La Cotonnerie	14.6	-60.91667	MQ	MQ
+La Citerne	14.73333	-60.96667	MQ	MQ
+La Chopotte	14.61667	-60.91667	MQ	MQ
+La Cesaire	14.61583	-61.0025	MQ	MQ
+La Casse	14.45	-60.83333	MQ	MQ
+La Carriere	14.5	-60.85	MQ	MQ
+La Caravelle	14.76667	-60.88333	MQ	MQ
+La Capoul	14.57233	-60.93888	MQ	MQ
+La Canelle	14.66667	-60.96667	MQ	MQ
+La Californie	14.62224	-61.02892	MQ	MQ
+La Bonnie	14.63325	-60.92934	MQ	MQ
+La Boissiere	14.54875	-60.90583	MQ	MQ
+La Berry	14.46667	-60.86667	MQ	MQ
+La Beleme	14.64991	-61.01241	MQ	MQ
+La Baume	14.53233	-60.87491	MQ	MQ
+La Batterie	14.63333	-61.13333	MQ	MQ
+La Bateliere	14.6	-61.1	MQ	MQ
+La Baie des Anglais	14.41817	-60.86199	MQ	MQ
+Josseaud	14.51667	-60.88333	MQ	MQ
+Jonction	14.66667	-61.01667	MQ	MQ
+Morne Joli-Coeur	14.41667	-60.88333	MQ	MQ
+Morne Jeannette	14.65	-61.1	MQ	MQ
+Jeanne d'Arc	14.63333	-61.01667	MQ	MQ
+Pointe Jean Claude	14.72108	-60.925	MQ	MQ
+Jean-Baptiste	14.45	-60.9	MQ	MQ
+Pointe Jacques	14.6	-60.86667	MQ	MQ
+Morne Jacqueline	14.47285	-61.07628	MQ	MQ
+Pointe Jacob	14.74733	-60.95242	MQ	MQ
+Pointe Jacob	14.58396	-60.84575	MQ	MQ
+Morne Jacob	14.76833	-61.09133	MQ	MQ
+Pointe Hyacinthe	14.66641	-60.90566	MQ	MQ
+Hyacinthe	14.65	-60.9	MQ	MQ
+Hauteurs Riviere Roche	14.85691	-61.13413	MQ	MQ
+Hauteurs Dumas	14.85	-61.13333	MQ	MQ
+Hauteurs Bourdon	14.84799	-61.14391	MQ	MQ
+Ilet Hardy	14.41699	-60.83133	MQ	MQ
+Riviere Hackaert	14.87185	-61.1231	MQ	MQ
+Morne Habitue	14.53471	-61.05912	MQ	MQ
+Pointe Guotony	14.68333	-61.16667	MQ	MQ
+Guinee-Fleury	14.5266	-60.9412	MQ	MQ
+Guerin	14.87048	-61.15256	MQ	MQ
+Guenot	14.48827	-60.90231	MQ	MQ
+Pointe des Grottes	14.54039	-61.03015	MQ	MQ
+Anse Grosse Roche	14.48333	-60.81667	MQ	MQ
+Grosse Ravine	14.7	-60.96667	MQ	MQ
+Gros Roche	14.64833	-60.89617	MQ	MQ
+Baie Gros Raisin	14.73583	-60.90375	MQ	MQ
+Le Gros-Morne	14.7	-61	MQ	MQ
+Gros Morne	14.52647	-61.08714	MQ	MQ
+Banc du Gros Ilet	14.56667	-61.08333	MQ	MQ
+Gros Ilet	14.54841	-61.01942	MQ	MQ
+Pointe des Grives	14.59102	-61.04956	MQ	MQ
+Pointe Gribouldin	14.8	-61.23333	MQ	MQ
+Cul-de-Sac Grenade	14.56667	-60.85	MQ	MQ
+Grand'Riviere	14.87354	-61.17946	MQ	MQ
+Grand-Pointe	14.46658	-60.99108	MQ	MQ
+Ravine Grand Jean	14.45117	-60.89883	MQ	MQ
+Pointe Grandjean	14.74594	-60.8945	MQ	MQ
+Baie Grandjean	14.74383	-60.89682	MQ	MQ
+Riviere Grand Fond	14.45	-60.86667	MQ	MQ
+Grand Fond	14.46667	-60.83333	MQ	MQ
+Grand Fond	14.79883	-61.13542	MQ	MQ
+Grand Fond	14.71667	-60.95	MQ	MQ
+Grand Fond	14.61592	-60.93182	MQ	MQ
+Grand Fond	14.4799	-60.87997	MQ	MQ
+Grande Terre	14.38333	-60.86667	MQ	MQ
+Grande-Seche	14.58333	-61.06667	MQ	MQ
+Banc Grande Savane	14.6	-61.03333	MQ	MQ
+Grande Savane	14.56667	-60.95	MQ	MQ
+Grande Riviere Pilote	14.48333	-60.9	MQ	MQ
+Pointe de la Grande Riviere	14.87497	-61.18002	MQ	MQ
+Grande Riviere	14.87441	-61.17809	MQ	MQ
+Anse de la Grande Pointe	14.76667	-60.91084	MQ	MQ
+Grande Case	14.63333	-60.98333	MQ	MQ
+Grande Case	14.63683	-60.90183	MQ	MQ
+Grande Case	14.57316	-60.92921	MQ	MQ
+Grande Anse Macabou	14.49532	-60.82083	MQ	MQ
+Grande Anse du Diamant	14.47833	-61.01983	MQ	MQ
+Riviere Grande Anse	14.83721	-61.06118	MQ	MQ
+Baie Grande Anse	14.83839	-61.05856	MQ	MQ
+Grande Anse	14.7015	-61.18142	MQ	MQ
+Grande Anse	14.5	-61.08333	MQ	MQ
+Grande Anse	14.45	-60.81667	MQ	MQ
+Grandchamp	14.65	-60.98333	MQ	MQ
+Anse Gouraud	14.6	-61.1	MQ	MQ
+Gondeau-Saint-Joseph	14.64974	-61.02442	MQ	MQ
+Riviere Gondeau	14.61667	-61.03333	MQ	MQ
+Gondeau	14.61667	-61.03333	MQ	MQ
+Morne Gommier	14.46608	-60.899	MQ	MQ
+Glotin	14.68333	-61	MQ	MQ
+Gerbault	14.71667	-60.95	MQ	MQ
+Gerbault	14.6	-61.05	MQ	MQ
+Roches Genty	14.47897	-61.0676	MQ	MQ
+Morne Genty	14.46667	-61.06667	MQ	MQ
+Pointe Gentil	14.65	-60.88333	MQ	MQ
+Baie de Genipa	14.55275	-60.99325	MQ	MQ
+Gaschette	14.68333	-60.95	MQ	MQ
+Morne Gardier	14.5	-61.03333	MQ	MQ
+Garanne	14.82529	-61.21279	MQ	MQ
+Morne Gamelle	14.5985	-60.93415	MQ	MQ
+Banc Gamelle	14.61667	-60.88333	MQ	MQ
+Banc Gamelle	14.58333	-61.05	MQ	MQ
+Pointe Galy	14.55	-61.05	MQ	MQ
+Gallochat	14.52335	-61.0786	MQ	MQ
+Riviere du Galion	14.721	-60.94133	MQ	MQ
+Ilet du Galion	14.73057	-60.93292	MQ	MQ
+Baie du Galion	14.73398	-60.92596	MQ	MQ
+Galion	14.71667	-60.96667	MQ	MQ
+Anse des Galets	14.85662	-61.21617	MQ	MQ
+Anse Galet	14.5417	-61.07734	MQ	MQ
+Gabourin	14.58333	-60.91667	MQ	MQ
+Gaalon	14.65	-60.88333	MQ	MQ
+Pointe Fusette	14.467	-60.92258	MQ	MQ
+Morne Fume	14.74756	-61.13696	MQ	MQ
+Baie du Francois	14.63333	-60.9	MQ	MQ
+Baie de Francois	14.62692	-60.89584	MQ	MQ
+Foyer Massy-Massy	14.52884	-60.85837	MQ	MQ
+Foyer Habitation Palmire	14.53333	-60.86667	MQ	MQ
+Anse Four a Chaux	14.68333	-61.16667	MQ	MQ
+Four a Chaux	14.61644	-60.99506	MQ	MQ
+Four a Chaux	14.6	-61	MQ	MQ
+Banc Foucambert	14.56667	-61.05	MQ	MQ
+Anse de Fortune	14.5	-61.1	MQ	MQ
+Banc du Fort-Saint-Louis	14.60017	-61.06342	MQ	MQ
+Martinique-Aime-Cesaire	14.59103	-61.00317	MQ	MQ
+Baie de Fort-de-France	14.57496	-61.05087	MQ	MQ
+Arrondissement de Fort-de-France	14.6	-61.08333	MQ	MQ
+Fort-de-France	14.60892	-61.07334	MQ	MQ
+Pointe du Fort	14.546	-60.83302	MQ	MQ
+Pointe Fort	14.679	-60.92401	MQ	MQ
+Pointe Fort	14.62366	-60.89617	MQ	MQ
+Loup Fort	14.75	-60.96667	MQ	MQ
+Fontane	14.56667	-60.86667	MQ	MQ
+Fontaine-Didier	14.65	-61.1	MQ	MQ
+Fontaine de Moutte	14.63491	-61.05958	MQ	MQ
+Fond-Zombi	14.64983	-61.06416	MQ	MQ
+Fonds Brules	14.65	-60.96667	MQ	MQ
+Fonds Boheme	14.68333	-61.13333	MQ	MQ
+Fond Saint-Jacques	14.78333	-61	MQ	MQ
+Fonds-Saint-Denis	14.73333	-61.13333	MQ	MQ
+Fond Rousseau	14.64166	-61.10341	MQ	MQ
+Fond Rose	14.75	-61.11667	MQ	MQ
+Fond Repos	14.45	-60.85	MQ	MQ
+Fond Panier	14.57747	-60.98639	MQ	MQ
+Fond Nigaud	14.61667	-61.1	MQ	MQ
+Fond Nicolas	14.63333	-60.95	MQ	MQ
+Fond Moustiques	14.41667	-60.88333	MQ	MQ
+Fond Moulin	14.85708	-61.18641	MQ	MQ
+Fond Masson	14.53983	-60.94158	MQ	MQ
+Fond Mascret	14.73383	-61.13958	MQ	MQ
+Fond Marie-Reine	14.75956	-61.13197	MQ	MQ
+Riviere Fond Laillet	14.66417	-61.16748	MQ	MQ
+Riviere Fond Lahaye	14.62391	-61.11817	MQ	MQ
+Fond-Lahaye	14.61667	-61.1	MQ	MQ
+Fond Hubert	14.55	-60.86667	MQ	MQ
+Fond Grande Anse	14.8	-61.06667	MQ	MQ
+Fond Giromond	14.65	-60.96667	MQ	MQ
+Fond-Gens-Libres	14.8245	-61.07791	MQ	MQ
+Fond Gens Libres	14.48483	-60.86543	MQ	MQ
+Fond Galion	14.7	-60.96667	MQ	MQ
+Fond Fleury	14.46948	-61.07291	MQ	MQ
+Fond Dore	14.65	-61.06667	MQ	MQ
+Fond d'Orange	14.59681	-60.95818	MQ	MQ
+Baie de Fond d'Or	14.82423	-61.02915	MQ	MQ
+Fond d'Or	14.60065	-60.95841	MQ	MQ
+Fond Collat	14.61667	-61.1	MQ	MQ
+Riviere Fond Capot	14.69509	-61.14624	MQ	MQ
+Fond Capot	14.67535	-61.17422	MQ	MQ
+Fond Canonville	14.77949	-61.21158	MQ	MQ
+Fond Cacao	14.65	-61.03333	MQ	MQ
+Fond Brule	14.78333	-61	MQ	MQ
+Fond Bourlet Haut	14.65	-61.13333	MQ	MQ
+Riviere Fond Bourlet	14.63171	-61.1387	MQ	MQ
+Fond Bourlet	14.63333	-61.13333	MQ	MQ
+Riviere Fond Boucher	14.65375	-61.16018	MQ	MQ
+Fond Boucher	14.65	-61.15	MQ	MQ
+Fond Bernier	14.61667	-61.11667	MQ	MQ
+Riviere Fond Bellemare	14.62822	-61.12679	MQ	MQ
+Fond Bellemare	14.63182	-61.13192	MQ	MQ
+Fond Abattoir	14.77716	-61.14401	MQ	MQ
+Morne de la Folie	14.78639	-61.22148	MQ	MQ
+Plateau Fofo	14.61667	-61.1	MQ	MQ
+Floreal	14.61667	-61.05	MQ	MQ
+Champ Flore	14.75331	-61.11604	MQ	MQ
+Fleury	14.80837	-61.04832	MQ	MQ
+Morne Flambeau	14.49158	-60.86023	MQ	MQ
+Mouillage des Flamands	14.6	-61.08333	MQ	MQ
+Banc des Flamands	14.6	-61.08333	MQ	MQ
+Baie des Flamands	14.60034	-61.06892	MQ	MQ
+Pointe Figuiers	14.45	-60.91667	MQ	MQ
+Anse Figuiers	14.45	-60.91667	MQ	MQ
+Morne Figue	14.75	-60.96667	MQ	MQ
+Pointe Ferret	14.74782	-60.89041	MQ	MQ
+Ferret	14.74799	-60.89659	MQ	MQ
+Cul-de-Sac Ferre	14.46667	-60.81667	MQ	MQ
+Cap Ferre	14.47282	-60.81184	MQ	MQ
+Ferre	14.46667	-60.83333	MQ	MQ
+Ferme Saint-Jacques	14.79332	-61.01704	MQ	MQ
+Feral	14.54241	-60.96274	MQ	MQ
+Fenelon	14.58333	-60.98333	MQ	MQ
+Pointe Faula	14.53333	-60.83333	MQ	MQ
+Faubourg Schoelcher	14.48333	-60.9	MQ	MQ
+Fantaisie	14.61667	-61.05	MQ	MQ
+Riviere Falaise	14.82883	-61.10475	MQ	MQ
+Eyma	14.86404	-61.12085	MQ	MQ
+Eudorcait	14.76343	-61.02347	MQ	MQ
+Pointe Etienne	14.55419	-61.04988	MQ	MQ
+Pointe l'Etang	14.45	-60.81667	MQ	MQ
+Morne de l'Etang	14.74058	-61.04775	MQ	MQ
+Anse l'Etang	14.76754	-60.90443	MQ	MQ
+Morne des Esses	14.75062	-61.0244	MQ	MQ
+Pointe Esperance	14.54264	-61.04088	MQ	MQ
+Esperance	14.61667	-60.9	MQ	MQ
+Cap Enrage	14.64831	-61.15003	MQ	MQ
+Pointe d'Enfer	14.39575	-60.85918	MQ	MQ
+Edouard	14.7181	-61.16967	MQ	MQ
+Pointe l'Ecurie	14.69676	-60.90725	MQ	MQ
+Riviere des Ecrevisses	14.78014	-61.12366	MQ	MQ
+Pointe les Ebichets	14.45	-60.81667	MQ	MQ
+Ilet a Eau	14.68333	-60.9	MQ	MQ
+Duvallon	14.66667	-61.16667	MQ	MQ
+Durocher	14.64858	-60.99283	MQ	MQ
+Duquesne	14.58614	-60.94201	MQ	MQ
+Ilet Duquesnay	14.45	-60.88333	MQ	MQ
+Ravine Dupotiche	14.88333	-61.13333	MQ	MQ
+Pointe Duplessis	14.61667	-60.86667	MQ	MQ
+Morne Dunoyer	14.56667	-60.88333	MQ	MQ
+Pointe Dunkerque	14.42017	-60.89295	MQ	MQ
+Riviere Dumauze	14.65	-61.1	MQ	MQ
+Dumaine	14.71941	-61.02041	MQ	MQ
+Dumaine	14.58333	-60.9	MQ	MQ
+Duhamelin	14.81555	-61.03677	MQ	MQ
+Anse Dufour	14.86049	-61.21016	MQ	MQ
+Anse Dufour	14.7745	-60.98167	MQ	MQ
+Anse Dufour	14.52054	-61.10145	MQ	MQ
+Duferret	14.72566	-60.97491	MQ	MQ
+Ducos	14.57529	-60.97453	MQ	MQ
+Riviere Duclos	14.65	-61.08333	MQ	MQ
+Morne Duclos	14.66667	-61.11667	MQ	MQ
+Duchene	14.64557	-60.96183	MQ	MQ
+Pointe Duchaxel	14.56667	-61.01667	MQ	MQ
+Pointe Ducassous	14.53333	-60.83333	MQ	MQ
+Pointe Ducassous	14.53085	-60.82415	MQ	MQ
+Banc de la Douane	14.46667	-60.88333	MQ	MQ
+Morne Dornier	14.72191	-61.13846	MQ	MQ
+Morne Dore	14.61667	-61	MQ	MQ
+Morne Dore	14.58333	-61.01667	MQ	MQ
+Trou Domingue	14.78333	-60.98333	MQ	MQ
+Dominante	14.79426	-61.04845	MQ	MQ
+Dominant	14.7	-60.98333	MQ	MQ
+Dizac	14.47441	-61.05074	MQ	MQ
+Mouillage de la Dillon	14.58333	-61.06667	MQ	MQ
+Riviere de la Digue	14.70686	-60.93114	MQ	MQ
+Anse a Dieque	14.75949	-60.9671	MQ	MQ
+Plateau Didier	14.61667	-61.08333	MQ	MQ
+Rocher du Diamant	14.44292	-61.0385	MQ	MQ
+Pointe du Diamant	14.45	-61.05	MQ	MQ
+Morne du Diamant	14.46491	-61.05459	MQ	MQ
+Marigot du Diamant	14.47658	-61.00409	MQ	MQ
+Banc du Diamant	14.43333	-61.03333	MQ	MQ
+Diaka	14.46667	-60.86667	MQ	MQ
+Pointe du Diable	14.77997	-60.88583	MQ	MQ
+Riviere des Deux Courants	14.61768	-60.90041	MQ	MQ
+Deux Choux	14.73333	-61.1	MQ	MQ
+Desruisseaux	14.53291	-60.89458	MQ	MQ
+Desroses	14.61667	-60.93333	MQ	MQ
+Desmarinieres	14.51666	-60.94475	MQ	MQ
+Desmarinieres	14.73333	-60.96667	MQ	MQ
+Desirade	14.65	-60.98333	MQ	MQ
+Pointe Desgras	14.58333	-61.01667	MQ	MQ
+Desforts	14.71667	-60.96667	MQ	MQ
+Desert	14.46598	-60.94432	MQ	MQ
+Fort Desaix	14.61441	-61.07133	MQ	MQ
+Derriere Morne	14.75	-60.98333	MQ	MQ
+Derriere-Bois	14.657	-61.01811	MQ	MQ
+Demare	14.82833	-61.12649	MQ	MQ
+Delivry	14.47896	-60.92216	MQ	MQ
+Pointe Degras	14.63583	-60.89101	MQ	MQ
+Pointe Davy	14.48508	-61.07946	MQ	MQ
+Daubert	14.66667	-60.98333	MQ	MQ
+Morne Daniel	14.76667	-61	MQ	MQ
+Ravine Cypre	14.46667	-60.86667	MQ	MQ
+Croix Rivail	14.60362	-60.96155	MQ	MQ
+Croix Odilon	14.7	-60.98333	MQ	MQ
+Croix Blanche	14.68333	-61	MQ	MQ
+Croisee Soldat	14.71667	-60.98333	MQ	MQ
+Croisee Palmiste	14.73333	-60.96667	MQ	MQ
+Croisee Manioc	14.66767	-61.02292	MQ	MQ
+Croisee Decius	14.46667	-60.85	MQ	MQ
+Banc de la Crique	14.43333	-60.9	MQ	MQ
+Baie de la Crique	14.74894	-60.96429	MQ	MQ
+Creve-Coeur	14.45	-61.25	MQ	MQ
+Cressay	14.69251	-60.93934	MQ	MQ
+Crassous	14.80948	-61.04439	MQ	MQ
+Morne Crapaud	14.43333	-60.86667	MQ	MQ
+Morne Covin	14.68533	-61.13827	MQ	MQ
+Pointe Courcher	14.65008	-60.89001	MQ	MQ
+Morne Coupier	14.45	-60.83333	MQ	MQ
+Riviere des Coulisses	14.55216	-60.95319	MQ	MQ
+Anse Couleuvre	14.8417	-61.22629	MQ	MQ
+Riviere Coulee d'Or	14.53333	-60.85	MQ	MQ
+Ravine de la Coulee des Bandits	14.48333	-60.83333	MQ	MQ
+Pointe Couche	14.63333	-60.9	MQ	MQ
+Pointe Coton	14.41667	-60.83333	MQ	MQ
+Anse Cosmy	14.75325	-60.96648	MQ	MQ
+Anse Corps de Garde	14.46216	-60.94292	MQ	MQ
+Corps de Garde	14.47179	-60.94738	MQ	MQ
+Coridon	14.61667	-61.06667	MQ	MQ
+Plateau de la Concorde	14.66667	-61.1	MQ	MQ
+Concorde	14.5185	-61.04966	MQ	MQ
+Concorde	14.75849	-61.00618	MQ	MQ
+Anse Collat	14.625	-61.11174	MQ	MQ
+Cocoyer	14.83321	-61.22304	MQ	MQ
+Cocotte	14.56923	-60.98421	MQ	MQ
+Riviere Coco	14.69689	-61.14963	MQ	MQ
+Morne Coco	14.58333	-60.96667	MQ	MQ
+Anse Coco	14.65816	-60.88483	MQ	MQ
+Cluny	14.61667	-61.08333	MQ	MQ
+Morne Clochette	14.47835	-61.05687	MQ	MQ
+Riviere Cloche	14.80269	-61.12079	MQ	MQ
+Pointe du Clapotage	14.70691	-60.91309	MQ	MQ
+Clairiere	14.6	-61.08333	MQ	MQ
+Riviere Claire	14.84692	-61.08566	MQ	MQ
+Riviere Claire	14.75	-61.18333	MQ	MQ
+Cite Petit Manoir	14.6	-61	MQ	MQ
+Cite Dillon	14.6	-61.05	MQ	MQ
+Cite Dehautmont	14.81667	-61.03333	MQ	MQ
+Choisy	14.65909	-61.0195	MQ	MQ
+Morne Choiseul	14.63333	-61.13333	MQ	MQ
+Choiseul	14.63627	-61.13958	MQ	MQ
+Ilets aux Chiens	14.44424	-60.81625	MQ	MQ
+Trou Chien	14.84433	-61.07125	MQ	MQ
+Ilet Chevalier	14.43041	-60.82734	MQ	MQ
+Chevalier	14.49039	-60.90774	MQ	MQ
+Chertine	14.75369	-61.0128	MQ	MQ
+Cheneaux	14.86954	-61.15743	MQ	MQ
+Pointe a Chaux	14.73533	-60.90959	MQ	MQ
+Pointe des Chaudieres	14.56824	-60.82566	MQ	MQ
+Anse Chaudiere	14.46667	-61.08333	MQ	MQ
+Riviere Chaude	14.76667	-61.03333	MQ	MQ
+Chateau Lezards	14.57591	-61.00508	MQ	MQ
+Pointe Chateaugue	14.83633	-61.04266	MQ	MQ
+Chateau Gaillard	14.52183	-61.00999	MQ	MQ
+Chateauboeuf	14.61783	-61.05067	MQ	MQ
+Riviere Charpentier	14.81024	-61.01873	MQ	MQ
+Loup Charpentier	14.71667	-60.9	MQ	MQ
+Anse Charpentier	14.80793	-61.01161	MQ	MQ
+Charpentier	14.80937	-61.03085	MQ	MQ
+Ilet des Chardons	14.67391	-60.88009	MQ	MQ
+Morne Chapeau Negre	14.68333	-61.1	MQ	MQ
+Anse Chandelier	14.76954	-60.87373	MQ	MQ
+Pointe Champomont	14.66666	-60.94016	MQ	MQ
+Champigny	14.57329	-60.99695	MQ	MQ
+Champ Flore	14.75	-61.13333	MQ	MQ
+Champfleury	14.46667	-60.83333	MQ	MQ
+Chambort	14.63789	-61.01567	MQ	MQ
+Anse Chalvet	14.85478	-61.08863	MQ	MQ
+Chalvet	14.85206	-61.09375	MQ	MQ
+Chalot	14.73352	-61.16099	MQ	MQ
+Morne Cesaire	14.6695	-61.08708	MQ	MQ
+Morne du Ceron	14.83602	-61.22654	MQ	MQ
+Anse du Ceron	14.47649	-60.98192	MQ	MQ
+Anse Ceron	14.83607	-61.23049	MQ	MQ
+Pointe Cerisier	14.58333	-60.85	MQ	MQ
+Fonds Ceremaux	14.75641	-60.95308	MQ	MQ
+Cedalise	14.46667	-60.88333	MQ	MQ
+Baie de Cayol	14.70325	-60.90991	MQ	MQ
+Pointe Catherine	14.40791	-60.89374	MQ	MQ
+Morne Castagne	14.75	-60.95	MQ	MQ
+Anse Cassius	14.86542	-61.199	MQ	MQ
+Riviere Case-Pilote	14.64258	-61.13964	MQ	MQ
+Case-Pilote	14.64283	-61.13846	MQ	MQ
+Riviere Case-Navire	14.61366	-61.10891	MQ	MQ
+Case Navire	14.61667	-61.1	MQ	MQ
+Pointe des Carrieres	14.58333	-61.05	MQ	MQ
+Morne Carriere	14.51124	-60.85458	MQ	MQ
+Banc de la Carriere	14.6	-61.06667	MQ	MQ
+Carrere	14.58167	-61.00533	MQ	MQ
+Roches Carrees	14.63333	-60.96667	MQ	MQ
+Morne Caroline	14.65973	-61.13658	MQ	MQ
+Caroline	14.71125	-60.99274	MQ	MQ
+Morne Caritan	14.43333	-60.88333	MQ	MQ
+Anse Caritan	14.41667	-60.88333	MQ	MQ
+Caritan	14.43333	-60.88333	MQ	MQ
+Banc Carcasse	14.6	-61.03333	MQ	MQ
+Riviere du Carbet	14.70899	-61.18458	MQ	MQ
+Rocher de la Caravelle	14.8	-60.88333	MQ	MQ
+Presqu'ile de la Caravelle	14.75462	-60.90553	MQ	MQ
+Morne Caraibe	14.49676	-60.93077	MQ	MQ
+Pointe Caracoli	14.7581	-60.87313	MQ	MQ
+Morne Carabin	14.79833	-61.072	MQ	MQ
+Carabin	14.79708	-61.07132	MQ	MQ
+Riviere Capot	14.8529	-61.08425	MQ	MQ
+Morne Capot	14.68571	-61.15393	MQ	MQ
+Cap Chevalier	14.44674	-60.83808	MQ	MQ
+Morne du Cap	14.65	-61.15	MQ	MQ
+Canton Suisse	14.69544	-61.14325	MQ	MQ
+Canot	14.85013	-61.08763	MQ	MQ
+Pointe Canon	14.83333	-61.05	MQ	MQ
+Caye Canon	14.75	-60.96667	MQ	MQ
+Pointe Canicule	14.8666	-61.10575	MQ	MQ
+Camee	14.46667	-60.9	MQ	MQ
+Morne Californie	14.61667	-61.03333	MQ	MQ
+Californie	14.59919	-60.95112	MQ	MQ
+Pointe Calebassier	14.75566	-60.94675	MQ	MQ
+Riviere Calebasse	14.79332	-61.12398	MQ	MQ
+Morne Calebasse	14.79716	-61.14991	MQ	MQ
+Pointe Cailloux	14.45908	-60.87017	MQ	MQ
+Anse Caffard	14.46798	-61.045	MQ	MQ
+Cafe	14.7	-61.95	MQ	MQ
+Anse Cafard	14.4751	-61.08215	MQ	MQ
+Cadette	14.56667	-60.88333	MQ	MQ
+Morne des Cadets	14.73414	-61.15137	MQ	MQ
+Cadet	14.66667	-60.98333	MQ	MQ
+Riviere des Cacaos	14.55	-60.95	MQ	MQ
+Ilet Cabrits	14.39027	-60.86742	MQ	MQ
+Morne Cabrit	14.6	-61.03333	MQ	MQ
+Morne Burgot	14.5	-61.03333	MQ	MQ
+Pointe Burgos	14.49358	-61.08895	MQ	MQ
+Rocher Burgaux	14.84425	-61.063	MQ	MQ
+Pointe Burgaux	14.84299	-61.06459	MQ	MQ
+Brin d'Amour	14.73832	-60.97765	MQ	MQ
+Caye Brigantine	14.63333	-60.86667	MQ	MQ
+Brevette	14.71667	-60.96667	MQ	MQ
+Morne des Bretons	14.657	-61.11582	MQ	MQ
+Ravine Braie	14.48333	-60.88333	MQ	MQ
+Pointe Boyoca	14.65825	-60.88333	MQ	MQ
+Boutaud	14.6735	-60.97983	MQ	MQ
+Pointe du Bout	14.56158	-61.05158	MQ	MQ
+Anse du Bout	14.77597	-60.8771	MQ	MQ
+Hauteurs Bourdon	14.85	-61.13333	MQ	MQ
+Bouillon	14.83333	-61.1	MQ	MQ
+Ravine Bouille	14.6	-61.06667	MQ	MQ
+Banc Boucher	14.56667	-61.03333	MQ	MQ
+Boucan	14.46667	-60.88333	MQ	MQ
+Bossou	14.58333	-60.91667	MQ	MQ
+Pointe Borgnesse	14.44782	-60.89858	MQ	MQ
+Borel	14.48333	-60.91667	MQ	MQ
+Loup Bordelais	14.71667	-60.86667	MQ	MQ
+Bord de Mer	14.70366	-60.93908	MQ	MQ
+Bontemps	14.56667	-60.93333	MQ	MQ
+Bon Repos	14.81384	-61.08891	MQ	MQ
+Bonneville	14.75356	-60.99507	MQ	MQ
+Bonneau	14.69149	-60.95475	MQ	MQ
+Bonnaire	14.6195	-60.92025	MQ	MQ
+Bois Zombi	14.65812	-60.97085	MQ	MQ
+Boisville	14.79108	-61.22516	MQ	MQ
+Anse Bois Vert	14.767	-60.87433	MQ	MQ
+Morne Bois Soldat	14.59225	-60.89574	MQ	MQ
+Bois Soldat	14.6	-60.9	MQ	MQ
+Bois Rouge	14.60581	-60.97766	MQ	MQ
+Coulee de Bois Neuf	14.46667	-60.88333	MQ	MQ
+Bois Neuf	14.71667	-60.95	MQ	MQ
+Bois Neuf	14.68333	-60.95	MQ	MQ
+Bois Neuf	14.64607	-61.04524	MQ	MQ
+Bois-Neuf	14.58333	-60.93333	MQ	MQ
+Bois Neuf	14.46667	-60.83333	MQ	MQ
+Morne Bois-Michel	14.45	-60.9	MQ	MQ
+Bois Lezards	14.72697	-61.02947	MQ	MQ
+Bois la Charles	14.55163	-60.95076	MQ	MQ
+Bois du Parc	14.66667	-61.05	MQ	MQ
+Pointe Bois d'Inde	14.5565	-61.03825	MQ	MQ
+Morne Bois d'Inde	14.66467	-61.11137	MQ	MQ
+Bois d'Inde	14.7	-61	MQ	MQ
+Bois Carre	14.61667	-61	MQ	MQ
+Morne aux Boeufs	14.69242	-61.17742	MQ	MQ
+Blondel	14.73317	-61.17225	MQ	MQ
+Blin	14.74374	-60.91933	MQ	MQ
+Riviere Blanche	14.76375	-61.19317	MQ	MQ
+Riviere Blanche	14.66667	-61	MQ	MQ
+Pointe Blanche	14.54095	-61.07821	MQ	MQ
+Morne Blanc	14.48991	-61.04717	MQ	MQ
+Birot	14.70626	-60.99749	MQ	MQ
+Morne Biron	14.45	-60.85	MQ	MQ
+Pointe a Biki	14.76287	-60.92485	MQ	MQ
+Morne Bigot	14.5	-61.06667	MQ	MQ
+Riviere du Bezaudin	14.76667	-61	MQ	MQ
+Bezaudin	14.75987	-61.04383	MQ	MQ
+Bernard	14.45	-60.88333	MQ	MQ
+Benquette	14.56667	-60.85	MQ	MQ
+Anse Benitier	14.76086	-60.87234	MQ	MQ
+Anse Belune	14.73333	-60.93333	MQ	MQ
+Morne Bellevue	14.73608	-61.06883	MQ	MQ
+Morne Bellevue	14.43333	-60.88333	MQ	MQ
+Bellevue	14.73333	-61	MQ	MQ
+Bellevue	14.47858	-60.94957	MQ	MQ
+Bellevue	14.85811	-61.15606	MQ	MQ
+Bellevue	14.86062	-61.15169	MQ	MQ
+Bellevue	14.78333	-61.03333	MQ	MQ
+Bellevue	14.7	-60.98333	MQ	MQ
+Bellevue	14.61667	-60.93333	MQ	MQ
+Bellevue	14.6	-60.9	MQ	MQ
+Anse Belleville	14.8	-61.23333	MQ	MQ
+Belleville	14.81592	-61.23458	MQ	MQ
+Belle Languette	14.45	-60.83333	MQ	MQ
+Bellegarde	14.6	-60.93333	MQ	MQ
+Bellefontaine	14.67079	-61.16942	MQ	MQ
+Belle Etoile	14.76667	-60.98333	MQ	MQ
+Belle Etoile	14.48333	-60.83333	MQ	MQ
+Belle Ame	14.62999	-60.94699	MQ	MQ
+Bellay	14.49314	-60.92866	MQ	MQ
+Anse Belgrade	14.73333	-60.95	MQ	MQ
+Belfort	14.64544	-61.01149	MQ	MQ
+Anse Belfond	14.86542	-61.10436	MQ	MQ
+Belfond	14.44557	-60.88099	MQ	MQ
+Bel Event	14.68333	-61.15	MQ	MQ
+Bel-Air	14.54894	-60.87604	MQ	MQ
+Becouya	14.66667	-60.98333	MQ	MQ
+Riviere de Beausejour	14.55116	-60.93305	MQ	MQ
+Morne Beausejour	14.53333	-60.86667	MQ	MQ
+Beausejour	14.82485	-61.23253	MQ	MQ
+Beausejour	14.73333	-60.95	MQ	MQ
+Beausejour	14.68333	-60.95	MQ	MQ
+Beausejour	14.53333	-60.93333	MQ	MQ
+Riviere de Beauregard	14.61206	-60.87994	MQ	MQ
+Morne Beauregard	14.43333	-60.86667	MQ	MQ
+Beauregard	14.6	-60.9	MQ	MQ
+Beauregard	14.4309	-60.87709	MQ	MQ
+Morne Beaujolais	14.51667	-60.85	MQ	MQ
+Beauchette	14.64166	-60.99058	MQ	MQ
+Beauchamp	14.61667	-60.95	MQ	MQ
+Baudelle	14.53333	-60.91667	MQ	MQ
+Ilet Baude	14.45	-60.86667	MQ	MQ
+Pointe de la Batterie	14.75675	-60.94442	MQ	MQ
+Pointe de la Batterie	14.73541	-60.89066	MQ	MQ
+Pointe Bateau	14.62191	-60.88808	MQ	MQ
+Morne Bataillon	14.76667	-60.96667	MQ	MQ
+Riviere de Basse-Pointe	14.86917	-61.11292	MQ	MQ
+Anse Basse-Pointe	14.86992	-61.11804	MQ	MQ
+Basse-Pointe	14.86954	-61.11504	MQ	MQ
+Pointe Banane	14.71667	-60.91667	MQ	MQ
+Riviere Bambous	14.78333	-61	MQ	MQ
+Bambous	14.51667	-60.88333	MQ	MQ
+Riviere du Balisier	14.75	-61.16667	MQ	MQ
+Morne Balisier	14.76299	-61.13696	MQ	MQ
+Pointe de la Baleine	14.51682	-61.10316	MQ	MQ
+Morne Baldara	14.57783	-60.90883	MQ	MQ
+Balata-Tourtet	14.63333	-61.08333	MQ	MQ
+Morne Balata	14.63108	-60.96075	MQ	MQ
+Balata	14.46667	-60.86667	MQ	MQ
+Balata	14.75568	-60.91443	MQ	MQ
+Pointe Baignoire	14.82141	-61.02273	MQ	MQ
+Pointe Baham	14.41133	-60.83858	MQ	MQ
+Anse Bagasse	14.87422	-61.17541	MQ	MQ
+Bac	14.58333	-60.96667	MQ	MQ
+Anse Azerot	14.76925	-60.97684	MQ	MQ
+Augrain	14.66667	-60.95	MQ	MQ
+Pointe Athanase	14.5345	-60.82767	MQ	MQ
+Anse d'Arlets	14.48939	-61.08127	MQ	MQ
+Pointe d'Arlet	14.50705	-61.09944	MQ	MQ
+Grande Anse d'Arlet	14.5025	-61.08752	MQ	MQ
+Pointe de l'Anse l'Etang	14.76898	-60.90931	MQ	MQ
+Anse Figuiers	14.46241	-60.91359	MQ	MQ
+Riviere Anse Couleuvre	14.84095	-61.22597	MQ	MQ
+Riviere de l'Anse Ceron	14.81667	-61.21667	MQ	MQ
+Anse Azerot	14.76667	-60.96667	MQ	MQ
+Anse a l'Ane	14.53408	-61.07291	MQ	MQ
+Baie des Anglais	14.42466	-60.84488	MQ	MQ
+Pointe Angboeuf	14.55013	-61.03689	MQ	MQ
+Anse a l'Ane	14.5417	-61.06598	MQ	MQ
+Ancienne Distillerie Chevalier de Villarcon	14.43333	-60.83333	MQ	MQ
+Morne Amerique du Sud	14.41667	-60.88333	MQ	MQ
+Morne Amerique du Nord	14.41667	-60.88333	MQ	MQ
+Alma	14.7	-61.1	MQ	MQ
+Pointe de l'Aliment	14.606	-60.86983	MQ	MQ
+Pointe d'Alet	14.55013	-61.06092	MQ	MQ
+Source Agathe	14.66667	-61.08333	MQ	MQ
+Ravine Adinet	14.81667	-61.11667	MQ	MQ
+Adinet	14.81808	-61.12083	MQ	MQ
+Adelaide Maillet	14.51667	-60.9	MQ	MQ
+Morne Acajou	14.57033	-60.91774	MQ	MQ
+Acajou	14.61667	-61.01667	MQ	MQ
+Morne Aca	14.45	-60.9	MQ	MQ
+Absalon	14.68333	-61.1	MQ	MQ
+Abondance	14.53733	-60.88308	MQ	MQ
+Abandonne	14.82258	-61.12325	MQ	MQ
+Recif Philippot	19.80833	-72.34167	MQ	MQ
+Karibea Valmeniere	14.6262	-61.0557	MQ	
+Karibea Squash	14.6034	-61.0802	MQ	
+Sofitel Bakoua Martinique	14.5237	-61.0177	MQ	
+Karibea Domaine de Ste Marie	14.7705	-60.9896	MQ	
+Residence Village Creole	14.5488	-61.0557	MQ	
+DIAMANT BLEU	14.5897	-61.0061	MQ	
+RESIDENCE MERCURE DIAMANT	14.5897	-61.0061	MQ	
+DOMAINE DE L ANSE RAMIER	14.5333	-61.0333	MQ	
+Martinique	14.63554	-61.02281	MQ	MQ
+Martinique	14.66655	-60.99961	MQ	MQ
+Martinique	14.66639	-60.99985	MQ	MQ
+Ajoupa-Bouillon	14.8247	-61.1144	MQ	MQ
+Les Anses-d'Arlet	14.4911	-61.0803	MQ	MQ
+Basse-Pointe	14.8686	-61.1203	MQ	MQ
+Le Carbet	14.7122	-61.1831	MQ	MQ
+Case-Pilote	14.6431	-61.1389	MQ	MQ
+Le Diamant	14.48	-61.0256	MQ	MQ
+Ducos	14.5761	-60.9758	MQ	MQ
+Fonds-Saint-Denis	14.7389	-61.1322	MQ	MQ
+Fort-de-France	14.6072	-61.0694	MQ	MQ
+Le Francois	14.6153	-60.9028	MQ	MQ
+Grand'Riviere	14.8733	-61.1814	MQ	MQ
+Le Gros-Morne	14.7081	-61.0075	MQ	MQ
+Le Lamentin	14.6153	-61.0019	MQ	MQ
+Le Lorrain	14.8328	-61.0556	MQ	MQ
+Macouba	14.8761	-61.145	MQ	MQ
+Marigot	14.8214	-61.0283	MQ	MQ
+Le Marin	14.4714	-60.8708	MQ	MQ
+Le Morne-Rouge	14.7728	-61.1347	MQ	MQ
+Le Precheur	14.8011	-61.2247	MQ	MQ
+Riviere-Pilote	14.4869	-60.9033	MQ	MQ
+Riviere-Salee	14.5289	-60.9814	MQ	MQ
+Le Robert	14.6775	-60.9392	MQ	MQ
+Saint-Esprit	14.5606	-60.9372	MQ	MQ
+Saint-Joseph	14.66622	-61.03725	MQ	MQ
+Saint-Pierre	14.7431	-61.1753	MQ	MQ
+Sainte-Anne	14.4353	-60.8814	MQ	MQ
+Sainte-Luce	14.4683	-60.9217	MQ	MQ
+Sainte-Marie	14.7814	-60.9936	MQ	MQ
+Schoelcher	14.6161	-61.1014	MQ	MQ
+La Trinite	14.7386	-60.9631	MQ	MQ
+Les Trois-Ilets	14.5381	-61.0344	MQ	MQ
+Le Vauclin	14.545	-60.84	MQ	MQ
+Le Morne-Vert	14.7075	-61.1444	MQ	MQ
+Bellefontaine	14.6739	-61.1644	MQ	MQ
+Marina du Francois	14.62024	-60.88955	MQ	
+Esplanade Schoelcher	14.61554	-61.10276	MQ	
+Trou Cochon	14.56072	-60.84226	MQ	
+Bureau de Poste de L Ajoupa Bouillon	14.82623	-61.11269	MQ	MQ
+Bureau de Poste de Les Anses D Arlet	14.4908	-61.08032	MQ	
+Bureau de Poste de Le Carbet	14.71207	-61.18338	MQ	MQ
+Bureau de Poste de Case Pilote	14.64206	-61.13789	MQ	
+Bureau de Poste de Le Diamant	14.48024	-61.02398	MQ	MQ
+Bureau de Poste de Ducos	14.57571	-60.97293	MQ	MQ
+Bureau de Poste de Fort De France Liberte	14.6036	-61.06846	MQ	
+Bureau de Poste de Le Francois	14.61389	-60.90236	MQ	MQ
+Bureau de Poste de Le Lamentin Bourg	14.61606	-61.00173	MQ	MQ
+Bureau de Poste de Le Lorrain	14.83181	-61.05556	MQ	MQ
+Bureau de Poste de Macouba	14.87667	-61.1409	MQ	MQ
+Bureau de Poste de Le Marigot	14.82167	-61.02819	MQ	
+Bureau de Poste de Le Morne Rouge	14.77163	-61.13483	MQ	
+Bureau de Poste de Riviere Pilote	14.48397	-60.90621	MQ	
+Bureau de Poste de Riviere Salee Principal	14.53094	-60.98188	MQ	MQ
+Bureau de Poste de Le Robert Bourg	14.67759	-60.93905	MQ	MQ
+Bureau de Poste de Saint Esprit	14.56218	-60.93731	MQ	MQ
+Bureau de Poste de Saint Pierre	14.74071	-61.17591	MQ	MQ
+Bureau de Poste de Sainte Anne	14.43596	-60.88113	MQ	MQ
+Bureau de Poste de Sainte Marie Principal	14.78464	-60.99298	MQ	
+Bureau de Poste de La Trinite	14.74143	-60.96317	MQ	MQ
+Bureau de Poste de Les Trois Ilets	14.5382	-61.03458	MQ	MQ
+Bureau de Poste de Le Vauclin	14.54461	-60.84082	MQ	MQ
+Bureau de Poste de Le Morne Vert	14.70694	-61.14444	MQ	
+Bureau de Poste de Belle Fontaine	14.67304	-61.16437	MQ	MQ
+Bureau de Poste de Fort De France Floreal	14.62808	-61.07082	MQ	MQ
+Bureau de Poste de Riviere Salee Petit Bourg	14.54613	-60.96857	MQ	
+Bureau de Poste de Fort De France Cluny	14.6124	-61.07962	MQ	MQ
+Bureau de Poste de Fort De France Redoute	14.62945	-61.05561	MQ	
+Bureau de Poste de Fort De France Sainte Therese	14.61027	-61.05302	MQ	
+Bureau de Poste de Fort De France Terres Sainville	14.61041	-61.07189	MQ	
+Bureau de Poste de Le Robert Vert Pre	14.69245	-60.97383	MQ	MQ
+Bureau de Poste de Schoelcher Bateliere	14.60794	-61.0924	MQ	MQ
+Fond Marie-Riene	14.76766	-61.12128	MQ	MQ
+Karibea Residence Le Camelia	14.5485	-61.0536	MQ	MQ
+Residence Mercure Diamant	14.47784	-61.01375	MQ	MQ
+Karibea Residence Le Corail	14.4677	-60.94877	MQ	MQ
+Karibea Residence La Goelette	14.76048	-60.91314	MQ	MQ
+La Pagerie	14.55567	-61.0515	MQ	MQ
+Karibea Residence Le Camelia	14.5485	-61.0536	MQ	MQ

@@ -1,0 +1,2632 @@
+Pic de Font Blanca	42.64991	1.53335	AD	00
+Pic de Mil-Menut	42.63333	1.65	AD	B3
+Roc Mele	42.58765	1.74028	AD	00
+Pic des Langounelles	42.61203	1.47364	AD	00
+Pic de les Abelletes	42.52535	1.73343	AD	A9
+Estany de les Abelletes	42.52915	1.73362	AD	A9
+Port Vieux de la Coume d'Ose	42.62568	1.61823	AD	00
+Port de la Cabanette	42.6	1.73333	AD	B3
+Port Dret	42.60172	1.45562	AD	00
+Costa de Xurius	42.50692	1.47569	AD	07
+Font de la Xona	42.55003	1.44986	AD	04
+Xixerella	42.55327	1.48736	AD	04
+Xixerella	42.55294	1.48764	AD	00
+Riu Xic	42.57165	1.67554	AD	02
+Pas del Xic	42.5	1.58333	AD	00
+Roc del Xeig	42.56386	1.48328	AD	04
+Collada del Xeig	42.57512	1.49009	AD	04
+Fonts Vives	42.5	1.56667	AD	00
+Roc de Vista	42.49922	1.48118	AD	07
+Obaga de Vista	42.47935	1.44621	AD	06
+Coll de Vista	42.46667	1.58333	AD	00
+Coll de Vista	42.47552	1.44173	AD	00
+Visanseny	42.57488	1.61616	AD	02
+Roc de la Vinya	42.52776	1.56446	AD	03
+Bosc de Villar	42.60135	1.5434	AD	05
+Torrent de Vila	42.53414	1.56678	AD	03
+Vila	42.53176	1.56654	AD	03
+Basers de Vicenc	42.47669	1.4829	AD	06
+Pla de Vias	42.59001	1.65996	AD	02
+Vial del Cardaire	42.56372	1.50503	AD	04
+Font del Vi	42.52342	1.47698	AD	04
+Font Verda	42.5557	1.55859	AD	05
+Costa Verda	42.48368	1.66221	AD	03
+Costa Verda	42.48333	1.56667	AD	00
+Serrat de Ventader	42.49157	1.43183	AD	06
+Bony de Vellatocina	42.61246	1.50594	AD	05
+Pleta Vella	42.51667	1.61667	AD	00
+Sola Vell	42.46667	1.48333	AD	00
+Port Vell	42.65315	1.55207	AD	00
+Port Negre del Pallars	42.56799	1.44412	AD	00
+Bancal Vedeller	42.60103	1.45896	AD	04
+Vedat del Xeig	42.56386	1.48328	AD	04
+Vedat dels Plans	42.53983	1.50408	AD	04
+Vedat de Coll de les Cases	42.57491	1.49849	AD	04
+Serra del Vedat	42.46667	1.48333	AD	00
+Planades del Vedat	42.53939	1.50116	AD	04
+Veda de Sorteny	42.62075	1.55042	AD	05
+Veda del Castellar	42.62578	1.50914	AD	05
+Coma de Varilles	42.63797	1.52599	AD	05
+Portella de les Vaques	42.56734	1.44421	AD	00
+Pas de les Vaques	42.58129	1.70146	AD	02
+Collada de les Vaques	42.56354	1.56884	AD	00
+Roc del Vaquer	42.63442	1.47968	AD	05
+Valls de la Coma	42.60079	1.63691	AD	02
+Vall d'Incles	42.58386	1.66331	AD	02
+Vall de Soldeu	42.56103	1.68234	AD	02
+Riu de la Vall del Riu	42.57178	1.61415	AD	02
+Estany Gran de la Vall del Riu	42.60065	1.59278	AD	02
+Cascada de la Vall del Riu	42.57326	1.61423	AD	02
+Cami de la Vall del Riu	42.58421	1.61129	AD	02
+Bosc de la Vall del Riu	42.58333	1.61667	AD	02
+Vall del Riu	42.59499	1.60747	AD	02
+Coll de Vall Civera	42.48818	1.66373	AD	00
+Obac de la Vall	42.46667	1.5	AD	00
+Riu Valira d'Orient	42.51123	1.53686	AD	00
+Riu Valira del Nord	42.34645	1.44271	AD	00
+Estanys de la Val del Riu	42.60398	1.59622	AD	02
+Vaca Morta	42.5681	1.76256	AD	02
+Riu d'Urina	42.5594	1.58998	AD	02
+Serrat de la Uina	42.55975	1.52393	AD	05
+Obaga de la Tuta	42.48885	1.44734	AD	06
+Cova de la Tuta	42.48678	1.44548	AD	06
+Roca del Tut	42.54941	1.45701	AD	04
+Coll de Turer	42.55784	1.46979	AD	04
+Font del Tudo	42.43333	1.53333	AD	00
+Estany de les Truites	42.57705	1.44801	AD	04
+Serra de Tristaina	42.65048	1.47705	AD	00
+Riu de Tristaina	42.615	1.53707	AD	05
+Pic de Tristaina	42.65265	1.49242	AD	00
+Clot de Tres Torrents	42.54063	1.53382	AD	04
+Bony de Tres Corts	42.52911	1.53538	AD	04
+Travenc	42.60215	1.69377	AD	02
+Pleta de la Trava	42.48333	1.61667	AD	00
+Coll de la Trava	42.47973	1.47555	AD	06
+Bosc de la Trava	42.48333	1.63333	AD	00
+Font dels Traginers	42.43333	1.51667	AD	00
+Pla de les Toves	42.46667	1.45	AD	00
+Torrent del Tossalroi	42.46667	1.51667	AD	00
+Tossal Gran	42.47986	1.4892	AD	00
+Tossalet i Vinyals	42.48597	1.49025	AD	07
+Bosc del Tossal de les Poselles	42.53331	1.50326	AD	04
+Tossal	42.46667	1.48333	AD	00
+Tosquers	42.56587	1.48763	AD	04
+Bosc del Tosquer	42.57189	1.52369	AD	05
+Bosc del Tosquer	42.53793	1.6007	AD	03
+Bosc de la Tosca	42.43333	1.45	AD	00
+Tosa d'Incles	42.58675	1.68935	AD	02
+Cap de Tosa d'Entor	42.60016	1.65212	AD	02
+Tosa de les Mussoles	42.62199	1.68087	AD	02
+Pic de la Tosa de Juclar	42.60199	1.72093	AD	02
+Collada de la Tosa de Caraup	42.60371	1.6548	AD	02
+Planell de la Tosa	42.52916	1.45614	AD	04
+Bosc de la Tosa	42.54986	1.57558	AD	02
+Torrent Tort	42.53072	1.58053	AD	03
+Torretinya	42.45141	1.51497	AD	06
+Prat d'en Torres	42.59851	1.51773	AD	05
+Torrentill	42.46667	1.5	AD	00
+Cami de Torrent Forcat	42.46667	1.51667	AD	00
+Torre dels Soldats	42.45021	1.58341	AD	00
+Torrapuis	42.53573	1.52558	AD	04
+Pic de Torradella	42.59369	1.62372	AD	02
+Pala de la Torradella	42.59144	1.62356	AD	02
+Obaga de Torradella	42.5952	1.62615	AD	02
+Borda del Torner	42.5815	1.48657	AD	04
+Planell de la Tora	42.55261	1.61504	AD	02
+Clots de la Tora	42.46667	1.58333	AD	00
+Prat del Toni	42.5595	1.6221	AD	02
+Moli del Tomas	42.57774	1.6505	AD	02
+Cortals de Tolse	42.45	1.48333	AD	00
+Bosc de Tolse	42.45	1.48333	AD	00
+Tolse	42.45	1.48333	AD	00
+Basera dels Tolls de l'Olla	42.48484	1.45301	AD	06
+Tolls de l'Olla	42.46667	1.56667	AD	00
+Torrent del Tirader	42.53145	1.58845	AD	03
+Terres de Serra	42.4779	1.50509	AD	06
+Terres de Sant Miguel	42.5	1.58333	AD	00
+Terres del Torrent Prego	42.54814	1.59154	AD	02
+Terres del Sola	42.54187	1.54338	AD	04
+Terres de Jacques	42.56995	1.61431	AD	02
+Obaga de les Terres de Casamanya	42.57117	1.55095	AD	05
+Terrer Roig	42.58892	1.45395	AD	04
+Clots dels Terregalls	42.62292	1.61256	AD	02
+Terregalls	42.5	1.51667	AD	00
+Terra del Pou	42.46667	1.48333	AD	00
+Terra Bogada	42.46667	1.5	AD	00
+Coma de Teix	42.46667	1.46667	AD	00
+Font de les Taules	42.55315	1.55727	AD	05
+Coma Tarterosa	42.48716	1.45937	AD	06
+Bosc de la Tarterosa	42.60215	1.64186	AD	02
+Tarter Gran	42.58148	1.45787	AD	04
+Tartera Gran	42.48102	1.47442	AD	06
+Pont del Tarter	42.57811	1.64897	AD	02
+Coll de la Tapia	42.46667	1.48333	AD	00
+Roc del Tampuent	42.58498	1.48339	AD	04
+Basers de les Tallades	42.50094	1.46747	AD	07
+Bosc de la Tallada Nova	42.58466	1.47311	AD	04
+Cami de la Tallada	42.48333	1.56667	AD	00
+Bosc del Tabanell	42.58113	1.50496	AD	05
+Suriguera	42.58664	1.60654	AD	02
+Sudornar	42.58341	1.45016	AD	04
+Font del Sucre	42.52245	1.47512	AD	04
+Costa de la Sucarana	42.6067	1.49918	AD	05
+Canya de la Sucarana	42.60509	1.50477	AD	05
+Borda del Sucarana	42.55439	1.58269	AD	02
+Riu de Sorteny	42.6236	1.54769	AD	05
+Pla de Sorteny	42.62188	1.56503	AD	05
+Marrades de Sorteny	42.62147	1.55236	AD	05
+Sorteny	42.61675	1.57936	AD	05
+Riu de les Soronelles	42.53933	1.64583	AD	03
+Collada de les Soronelles	42.54792	1.65159	AD	00
+Pic de les Sorobilles	42.56677	1.53956	AD	05
+Riu de Sornas	42.56314	1.52724	AD	05
+Clot de Sornas	42.57766	1.55066	AD	05
+Sornas	42.56461	1.52757	AD	05
+Riu de Suriguera	42.58564	1.60996	AD	02
+Solana del Soriguer	42.56963	1.55225	AD	05
+Clot Sord	42.60053	1.65448	AD	02
+Sola de Soquer	42.45422	1.48127	AD	06
+Riu de Soplanas	42.5792	1.62939	AD	02
+Borda de Som	42.57027	1.59043	AD	02
+Roc de Solobre	42.48333	1.51667	AD	00
+Bosc de Solobre	42.49044	1.50667	AD	07
+Bosc del Soleador	42.60191	1.52112	AD	05
+Cami de Soldeu	42.57724	1.65827	AD	02
+Bosc de Soldeu	42.57907	1.67292	AD	02
+Soldeu	42.57688	1.66769	AD	02
+Solana del Solanyo	42.53909	1.54785	AD	04
+Riu del Solanyo	42.5403	1.54193	AD	04
+Bosc del Solanyo	42.55022	1.44836	AD	04
+Solans	42.53893	1.60137	AD	03
+Solanet de Ramio	42.5	1.56667	AD	00
+Terregalls del Solanet	42.62685	1.60523	AD	00
+Bosc del Solanet	42.54591	1.47924	AD	04
+Solanes de la Peguera	42.45	1.51667	AD	00
+Serra de les Solanelles	42.54876	1.6657	AD	02
+Riu de les Solanelles	42.55334	1.68271	AD	00
+Collet de les Solanelles	42.56068	1.63082	AD	02
+Collada de les Solanelles	42.54489	1.66049	AD	03
+Clot de les Solanelles	42.56109	1.63812	AD	02
+Cabana de les Solanelles	42.54391	1.66123	AD	03
+Solanelles	42.54973	1.671	AD	02
+Solana del Lloser d'Ordino	42.54731	1.52097	AD	05
+Riu de la Solana del Forn	42.56243	1.67948	AD	02
+Obagot de la Solana del Forn	42.54984	1.66303	AD	02
+Solana del Forn	42.55607	1.66272	AD	02
+Solana de l'Estall Serrer	42.5	1.61667	AD	00
+Solana de les Aubes	42.56034	1.56774	AD	05
+Prats de la Solana	42.56836	1.77496	AD	02
+Cami de la Solana	42.43333	1.45	AD	00
+Bosc de la Solana	42.52218	1.47205	AD	04
+Sola de Soldeu	42.57771	1.67266	AD	02
+Serra del Sola de Sispony	42.53045	1.47634	AD	04
+Pic del Sola d'Erts	42.56847	1.5048	AD	00
+Sola d'Erts	42.56153	1.49656	AD	04
+Sola de Riambert	42.57859	1.5287	AD	05
+Serra del Sola de Ramio	42.5	1.58333	AD	00
+Sola de Ramio	42.5	1.58333	AD	00
+Bosc del Sola d'Envalira	42.56267	1.6847	AD	02
+Sola d'Engordany	42.51969	1.53707	AD	08
+Sola d'Enclar	42.50652	1.48914	AD	07
+Cresta del Sola de Nadal	42.51667	1.51667	AD	00
+Aspres del Sola de Nadal	42.51667	1.51667	AD	00
+Sola de Mossers	42.45914	1.46328	AD	06
+Sola de Mereig	42.56667	1.58333	AD	02
+Sola del Tarter	42.5849	1.64905	AD	02
+Sola dels Sulls	42.48333	1.56667	AD	00
+Sola dels Plans	42.58384	1.62968	AD	02
+Serra del Sola del Quart Mitger	42.54577	1.53975	AD	00
+Sola del Quart Mitger	42.54238	1.53702	AD	04
+Sola del Pui	42.55503	1.51236	AD	04
+Cap del Sola de les Comes	42.57856	1.49624	AD	00
+Sola de la Moixella	42.45	1.48333	AD	00
+Balmes del Sola de l'Allau	42.59436	1.53815	AD	05
+Sola de l'Aldosa	42.57983	1.62252	AD	02
+Sola de la Farga	42.49531	1.60986	AD	08
+Sola d'Arcabell	42.43418	1.48333	AD	06
+Sola d'Andorra	42.51091	1.50732	AD	07
+Sola d'Aixovall	42.47959	1.47873	AD	00
+Riu del Sola	42.5437	1.47792	AD	04
+Clot del Sola	42.46667	1.46667	AD	00
+Carrera del Sola	42.53874	1.57666	AD	03
+Costa del Sodorn	42.49828	1.46311	AD	07
+Pla del Socarrat	42.55393	1.60269	AD	02
+Cami del Socarrat	42.58267	1.63922	AD	02
+Bosc del Socarrat	42.58627	1.64155	AD	02
+Vial de la Socarrada de Coll Carnisser	42.58996	1.46444	AD	04
+Pala de Sobre l'Estany	42.61391	1.72592	AD	02
+Pala de Sobre les Basses	42.59149	1.70692	AD	02
+Basers de Sobre la Pleta	42.59261	1.46359	AD	04
+Planells Sobirans	42.58908	1.46404	AD	04
+Riu del Sisquero	42.6013	1.6973	AD	02
+Cami del Sisquero	42.6013	1.69494	AD	02
+Sola de Sispony	42.53091	1.48454	AD	04
+Cami de Sispony	42.52857	1.46901	AD	04
+Sispony	42.53368	1.51613	AD	04
+Pletes del Siscaro	42.59425	1.70477	AD	02
+Estanys del Siscaro	42.58654	1.70713	AD	02
+Pic de Siscarou	42.6	1.73333	AD	00
+Siscaro	42.58977	1.71206	AD	02
+Marrades del Siscar	42.59179	1.71304	AD	02
+Basses del Siscar	42.5951	1.71725	AD	02
+Sincloset	42.48947	1.50151	AD	07
+Port de Siguer	42.64974	1.56563	AD	00
+Bosc del Sigarro	42.51667	1.6	AD	00
+Portella de Satut	42.46672	1.64327	AD	00
+Cabana de Setut	42.48283	1.64367	AD	08
+Basses de Setut	42.48333	1.65	AD	00
+Setut	42.4761	1.64936	AD	08
+Carretera de Seturia	42.54378	1.45346	AD	04
+Cami de Seturia	42.54238	1.45994	AD	04
+Bordes de Seturia	42.54502	1.44014	AD	04
+Seturia	42.54951	1.43686	AD	04
+Tarteres de la Serrera	42.61736	1.58304	AD	05
+Riu de la Serrera	42.62295	1.57525	AD	05
+Pleta de la Serrera	42.62083	1.57954	AD	05
+Pic de la Serrera	42.62562	1.60103	AD	00
+Pas de la Serrera	42.62197	1.57915	AD	05
+Clots de la Serrera	42.61722	1.59939	AD	05
+Aspres de la Serrera	42.61261	1.58919	AD	05
+Cami del Serrat Pla	42.43333	1.46667	AD	00
+Bosc del Serrat Llong	42.52286	1.48807	AD	04
+Planell del Serrat del Tronc	42.58134	1.6222	AD	02
+Pic de Serra Seca	42.50757	1.7089	AD	03
+Riu de Serrana	42.54978	1.51102	AD	04
+Pic de Serra Mitjana	42.47479	1.61523	AD	08
+Estany de Serra Mitjana	42.46667	1.6	AD	00
+Cap de la Serra dels Isards	42.58606	1.59218	AD	02
+Serrat dels Serradells	42.61961	1.53763	AD	05
+Cortal de la Serra	42.53914	1.49664	AD	04
+Cap de la Serra	42.61738	1.60429	AD	00
+Roc de la Senyoreta	42.45	1.48333	AD	00
+Bosc de la Senyoreta	42.45	1.48333	AD	00
+Senyal Negre	42.64862	1.56174	AD	05
+Senyal de Missa	42.46667	1.48333	AD	00
+Roc de Senders	42.5	1.53333	AD	00
+Sella	42.56258	1.59241	AD	02
+Riu del Seig	42.57064	1.61092	AD	02
+Sola de Segudet	42.56053	1.53745	AD	05
+Riu de Segudet	42.5579	1.54232	AD	05
+Segudet	42.55713	1.53808	AD	05
+Estany Segon	42.61012	1.72483	AD	02
+Torrent del Segalars	42.53784	1.58428	AD	03
+Cami de Sedornet	42.58966	1.51235	AD	05
+Bordes de Sedornet	42.59057	1.51759	AD	05
+Costa Seda	42.48678	1.50183	AD	07
+Planells Secants	42.43333	1.53333	AD	00
+Riu Sec	42.52218	1.47458	AD	04
+Estany Sec	42.46667	1.61667	AD	00
+Borda del Savoiano	42.55854	1.52635	AD	05
+Serra de la Sauvata	42.5735	1.57811	AD	02
+Costa de la Sauvata	42.57536	1.58103	AD	02
+Roc del Sastre	42.5779	1.62507	AD	02
+Pont Sassanat	42.5	1.55	AD	00
+Saquet	42.55487	1.59841	AD	02
+Roc de Sant Vicenc	42.49551	1.49497	AD	07
+Collet de Sant Vicenc	42.49704	1.49334	AD	07
+Sola de Santserra	42.47677	1.4572	AD	06
+Sant Roma de Vila	42.53083	1.56861	AD	03
+Sant Roma de les Bons	42.5407	1.58768	AD	03
+Bosc de Sant Roma	42.45	1.5	AD	00
+Sant Roma	42.4527	1.49807	AD	06
+El Tarter	42.57952	1.65362	AD	02
+Sant Miquel d'Engolasters	42.51094	1.56008	AD	07
+Sant Miquel de Fontaneda	42.45	1.46667	AD	00
+Sola de Sant Miquel	42.58601	1.66094	AD	02
+Roc de Sant Miquel	42.58209	1.65845	AD	02
+Drecera de Sant Marti	42.47776	1.4936	AD	06
+Sant Marti	42.47537	1.49683	AD	06
+Sant Marti	42.47459	1.49488	AD	06
+Sant Julia de Loria	42.46247	1.48247	AD	06
+Sant Julia de Loria	42.46372	1.49129	AD	06
+Riu de Sant Josep	42.56485	1.75281	AD	02
+Clot de Sant Josep	42.57901	1.70707	AD	02
+Sant Joan de Caselles	42.57116	1.60761	AD	02
+Serrat de Sant Jaume	42.53379	1.60619	AD	03
+Sant Jaume	42.58068	1.63858	AD	02
+Sant Jaume	42.53417	1.60528	AD	03
+Sant Esteve	42.43333	1.48333	AD	00
+Sant Esteve	42.43333	1.45	AD	00
+Sant Cristofol	42.45	1.5	AD	00
+Sant Cristofol	42.5346	1.52486	AD	04
+Sola de Sant Cerni	42.46667	1.5	AD	00
+Eglesia de Sant Cerni	42.56667	1.59738	AD	02
+Sant Cerni	42.46905	1.50228	AD	06
+Sant Antoni de la Grella	42.52713	1.52117	AD	04
+Tunels de Sant Antoni	42.51667	1.51667	AD	00
+Pont de Sant Antoni	42.52436	1.52128	AD	04
+Pont de Santa Creu	42.56566	1.59976	AD	02
+Santa Coloma	42.49454	1.49897	AD	07
+Santa Caterina	42.54588	1.51957	AD	04
+Cortal del Sansa	42.49205	1.51749	AD	07
+Portella de Sanfons	42.57284	1.43574	AD	00
+Pic de Sanfons	42.58707	1.42735	AD	00
+Roc de la Salve	42.53454	1.59271	AD	03
+Bosc de la Salvata	42.45	1.51667	AD	00
+Solana del Saltader	42.56683	1.53328	AD	05
+Clot del Saltader	42.56926	1.47607	AD	04
+Roc del Salt	42.58333	1.58333	AD	02
+Clot del Salt	42.58747	1.59385	AD	02
+Rius de les Salses	42.63331	1.50223	AD	05
+Pont de les Salines	42.61018	1.53765	AD	05
+Costa de les Salines	42.61087	1.54022	AD	05
+Bosc de les Salines	42.60991	1.52954	AD	05
+Basses de les Salamandres	42.60389	1.66216	AD	02
+Costa de la Salamandra	42.55212	1.43516	AD	04
+Costa Salamandra	42.50371	1.48734	AD	07
+Roca de la Sabina	42.57144	1.47162	AD	04
+Cortal del Sabater	42.45	1.48333	AD	00
+Bosc del Sabater	42.45	1.48333	AD	00
+Borda del Sabater	42.4451	1.48251	AD	06
+Torrent del Ruider	42.57705	1.47981	AD	04
+Roc del Ruider	42.58063	1.48135	AD	04
+Pala del Ruf	42.58765	1.44952	AD	04
+Basses del Ruf	42.5867	1.45048	AD	04
+Serrat de Rudielles	42.49491	1.45848	AD	00
+Vial de Rubials	42.48312	1.45005	AD	06
+Torrent de Rubials	42.48414	1.45363	AD	06
+Solana de Rubials	42.48401	1.44628	AD	06
+Rua del Terrer Roi	42.43333	1.5	AD	00
+Bosc de Roures	42.60024	1.52409	AD	05
+Collet de Roques Negres	42.45	1.45	AD	00
+Roques Negres	42.45	1.45	AD	00
+Serrat de Roques Grosses	42.58121	1.59754	AD	02
+Fontanal de les Roques	42.5311	1.46618	AD	04
+Pleta de les Romes	42.6438	1.55782	AD	05
+Font Roja	42.54252	1.44615	AD	04
+Font Roja	42.47534	1.49847	AD	06
+Bassa Roja	42.60119	1.66433	AD	02
+Grau Roig	42.58134	1.47244	AD	04
+Borda de Roig	42.57414	1.58993	AD	02
+Fonts Roges	42.57051	1.45914	AD	04
+Fonts Roges	42.56407	1.64446	AD	02
+Basses Roges	42.46667	1.55	AD	00
+Font Rodona	42.5482	1.42423	AD	04
+Costa Rodona	42.64918	1.48466	AD	05
+Costa Rodona	42.58166	1.44422	AD	04
+Costa Rodona	42.5542	1.72321	AD	02
+Boiga Rodona	42.43333	1.53333	AD	00
+Bosc del Rodol	42.49006	1.57324	AD	08
+Turo Rodo	42.57146	1.54149	AD	05
+Roc Rodo	42.55877	1.43352	AD	04
+Roc Rodo	42.56921	1.49279	AD	04
+Pla de Rodo	42.54287	1.43557	AD	04
+Estany Rodo	42.51667	1.68333	AD	00
+Estany Rodo	42.49518	1.65469	AD	03
+Bony Rodo	42.61625	1.54478	AD	05
+Rocs Tous	42.54082	1.5801	AD	03
+Rocs Negres	42.54128	1.61407	AD	03
+Planell del Roc Gros	42.58879	1.48831	AD	04
+Bosc del Roc Gros	42.58606	1.48585	AD	04
+Serra del Roc del Rellotge	42.61479	1.57912	AD	05
+Font del Roc del Porquer	42.59237	1.45511	AD	04
+Roca Podrida	42.55124	1.50757	AD	04
+Costa de Roca Negra	42.58879	1.58678	AD	02
+Planell de la Roca Grossa	42.56664	1.70066	AD	02
+Planell de Roca Grossa	42.56066	1.67345	AD	02
+Rocafort	42.46667	1.48333	AD	00
+Solana de la Roca de la Sabina	42.57064	1.47456	AD	04
+Vial de la Roca	42.55689	1.61052	AD	02
+Pala de la Roca	42.55818	1.61607	AD	02
+Bosc de la Roca	42.5514	1.45579	AD	04
+Pont del Riu Montaner	42.53	1.52027	AD	04
+Cami del Riu del Seig	42.56535	1.60304	AD	02
+Riu del Seig	42.56905	1.61063	AD	02
+Forat del Riu dels Clots de Massat	42.56117	1.69283	AD	02
+Fonts del Riu de les Cebes	42.6203	1.59057	AD	05
+Costa del Riu de les Cebes	42.6208	1.5871	AD	05
+Collada del Riu de les Cebes	42.62258	1.58847	AD	05
+Bony del Riu de les Cebes	42.61744	1.58969	AD	05
+Prats del Riu	42.46667	1.5	AD	00
+Sola del Riguer	42.5	1.55	AD	00
+Obaga del Riguer	42.48333	1.53333	AD	00
+Bordes de Rigoder	42.53794	1.61648	AD	03
+Bosc de les Ribes	42.55492	1.54882	AD	05
+Riberal d'Envalira	42.52817	1.70602	AD	03
+Ribassot	42.57875	1.4849	AD	04
+Torrent de Ribassols	42.57626	1.48074	AD	04
+Torrent Ribal	42.57798	1.47811	AD	04
+Tosa de Riba Escorjada	42.55522	1.65207	AD	02
+Solanelles de Riba Escorjada	42.56203	1.63508	AD	02
+Planells de Riba Escorjada	42.56712	1.63987	AD	02
+Cami de Riba Escorjada	42.57117	1.642	AD	02
+Cami de Riba Escorjada	42.55858	1.60283	AD	02
+Riba Escorjada	42.55967	1.64338	AD	02
+Bosc de Riba	42.5564	1.58376	AD	02
+Bosc del Riambert	42.57647	1.52146	AD	05
+Riu de Rialb	42.61495	1.53726	AD	05
+Portella de Rialb	42.63958	1.5341	AD	05
+Basera de Rialb	42.64523	1.56312	AD	05
+Rialb	42.64767	1.5509	AD	05
+Pala de Rep	42.54246	1.60643	AD	02
+Coll del Rep	42.44937	1.47223	AD	06
+Cap de Rep	42.54325	1.61092	AD	00
+Rep	42.54767	1.5992	AD	02
+Roc del Rellotge	42.61638	1.57199	AD	05
+Roc del Rellotge	42.56333	1.62611	AD	02
+Font de les Reineres	42.60175	1.68188	AD	02
+Solana de la Regalissia	42.48783	1.42167	AD	06
+Obaga de Redort	42.55721	1.55846	AD	05
+Redort	42.55959	1.55223	AD	05
+Clot de la Rectoria	42.51922	1.49863	AD	04
+Serrat del Rec d'Areny	42.58945	1.46259	AD	04
+Bosc de Rebols	42.46667	1.51667	AD	00
+Pont de la Rebollissa	42.61707	1.53638	AD	05
+Llanesques de les Rebes	42.62512	1.6278	AD	02
+Clot de les Rebes	42.62141	1.63071	AD	02
+Rebaixant del Maia	42.56396	1.74459	AD	02
+Port de Rat	42.62127	1.47371	AD	07
+Bosc de Rasets	42.43333	1.53333	AD	00
+Rasa de Perafita	42.48333	1.58333	AD	00
+Costa Rasa	42.46667	1.45	AD	00
+Bosc de la Rasa	42.46667	1.53333	AD	00
+Presa de Ransol	42.57816	1.63948	AD	02
+Carretera de Ransol	42.58082	1.63251	AD	02
+Ransol	42.58137	1.63812	AD	02
+Roca de Ramio	42.5	1.56667	AD	00
+Ramio	42.49877	1.57189	AD	08
+Cami Ral	42.54763	1.59256	AD	02
+Cami Ral	42.53785	1.5906	AD	03
+Radonella	42.48629	1.44949	AD	06
+Radio Andorra	42.5282	1.57089	AD	03
+Racons	42.55774	1.58461	AD	02
+Pic de la Raconada de la Maiana	42.46449	1.60858	AD	00
+Clots de la Raconada de la Maiana	42.46667	1.6	AD	00
+Pic de Racofred	42.60201	1.45053	AD	00
+Raco de l'Estany de Cabana Sorda	42.61791	1.66791	AD	02
+Pleta del Raco	42.62703	1.5708	AD	05
+Pleta del Raco	42.58225	1.4517	AD	04
+Bassa del Raco	42.61919	1.49881	AD	05
+Pleta de la Rabassa	42.62944	1.55699	AD	05
+Carretera de la Rabassa	42.43333	1.51667	AD	00
+Canya de la Rabassa	42.62594	1.55252	AD	05
+Bosc de la Rabassa	42.43791	1.51425	AD	06
+Solana del Querol	42.58728	1.52907	AD	05
+Riu del Querol	42.58903	1.66775	AD	02
+Riu del Querol	42.58598	1.52234	AD	05
+Pleta del Querol	42.59565	1.65851	AD	02
+Estanyo del Querol	42.59981	1.6597	AD	02
+Serrat de la Quera	42.51667	1.51667	AD	00
+Bosc de la Quera	42.51667	1.51667	AD	00
+Roc del Quer	42.62409	1.55442	AD	05
+Roc del Quer	42.5496	1.51454	AD	04
+Roc del Quer	42.57692	1.48272	AD	04
+Roc del Quer	42.5283	1.60242	AD	03
+Roc del Quer	42.5661	1.59185	AD	02
+Roc de Quer	42.48008	1.46912	AD	06
+Planell del Quer	42.62387	1.55877	AD	05
+Bosc del Quer	42.51667	1.6	AD	00
+Sola del Quart de Nagol	42.48333	1.51667	AD	00
+Collet Purgat	42.46667	1.48333	AD	00
+Pont de Puntal	42.62258	1.54489	AD	05
+Bosc de Puntal	42.62599	1.54425	AD	05
+Puntal	42.62472	1.54669	AD	05
+Vial dels Pujols	42.48183	1.4881	AD	07
+Tarteres dels Pujols	42.48185	1.48395	AD	07
+Roc del Pujol	42.46667	1.5	AD	00
+Pujant de Donges	42.45	1.5	AD	00
+Borda del Puigcernal	42.56265	1.59776	AD	00
+Pui d'Olivesa	42.45	1.48333	AD	00
+Estany Primer	42.63721	1.49019	AD	05
+Estany Primer	42.61033	1.71783	AD	02
+Estany Primer	42.51667	1.68333	AD	00
+Torrent Prego	42.54684	1.59127	AD	02
+Bosc dels Prats Sobirans	42.52555	1.47568	AD	04
+Planells dels Prats Nous	42.5855	1.48386	AD	04
+Bordes dels Prats Nous	42.58447	1.48453	AD	04
+Riu de Prats	42.56017	1.59108	AD	02
+Prats	42.56003	1.59396	AD	02
+Solana de Prat Primer	42.48333	1.55	AD	00
+Planell de Prat Primer	42.48333	1.55	AD	00
+Obaga de Prat Primer	42.48333	1.55	AD	00
+Font de Prat Primer	42.48333	1.55	AD	00
+Collada de Prat Primer	42.47276	1.55792	AD	00
+Clots de Prat Primer	42.48333	1.55	AD	00
+Prat Primer	42.48233	1.54981	AD	00
+Collada de Prat Porceller	42.46667	1.45	AD	00
+Font del Prat de Roca	42.57779	1.58582	AD	02
+Font del Prat dels Pollins	42.5708	1.59126	AD	02
+Basers del Prat del Quart	42.6133	1.63098	AD	02
+Font del Prat del Gep	42.57591	1.58712	AD	02
+Torrent del Prat del Gaspar	42.53199	1.5721	AD	03
+Bosc del Prat de l'Estel	42.53853	1.46661	AD	04
+Riu del Prat del Comellar	42.58058	1.64828	AD	02
+Solana del Prat del Bosc	42.57626	1.47104	AD	04
+Riu del Prat del Bosc	42.54289	1.48072	AD	04
+Pont del Prat del Bosc	42.53966	1.47108	AD	04
+Bosc del Prat del Bosc	42.53597	1.46995	AD	04
+Obagues del Prat de la Posella	42.4853	1.45137	AD	06
+Basera del Prat de la Farga	42.48759	1.4521	AD	06
+Basers del Prat de la Creu	42.60307	1.63132	AD	02
+Obaga dels Pradets	42.48796	1.44994	AD	06
+Roc dels Pous	42.55231	1.62614	AD	02
+Bosc dels Pous	42.55656	1.49076	AD	04
+Serrat del Pouet	42.55401	1.51422	AD	04
+Costa del Pou	42.58243	1.59081	AD	02
+Bosc de les Poselletes	42.54128	1.45091	AD	04
+Bony de la Posella	42.58484	1.47764	AD	04
+Posada dels Pastors	42.57602	1.48744	AD	04
+Font de la Posada	42.46667	1.45	AD	00
+Serrat de la Posa	42.55568	1.6752	AD	02
+Turo del Port Vell	42.65233	1.5624	AD	00
+Pic del Port Vell	42.57205	1.44341	AD	00
+Clot de Port Negre	42.46667	1.56667	AD	00
+Basers de les Portes	42.48037	1.49438	AD	07
+Portella de la Portelleta	42.46667	1.65	AD	00
+Tossa Plana de Lles	42.46855	1.65882	AD	00
+Font de la Portelleta	42.46667	1.66667	AD	00
+Collada de la Portelleta	42.47242	1.66211	AD	00
+Riu de les Portelles	42.61047	1.63773	AD	02
+Clots de la Portella de Setut	42.46667	1.63333	AD	00
+Pleta de la Portella	42.57144	1.72112	AD	02
+Collada de la Portella	42.46667	1.63333	AD	00
+Riu del Port Dret	42.59367	1.46047	AD	04
+Estany del Port Dret	42.60273	1.45965	AD	04
+Costa del Port Dret	42.57726	1.70005	AD	02
+Clots del Port Dret	42.57581	1.6921	AD	02
+Cami del Port Dret	42.57838	1.6655	AD	02
+Cami del Port de Setut	42.46667	1.63333	AD	00
+Basses del Port de Rat	42.62133	1.4783	AD	05
+Font del Port de Cabus	42.54542	1.42199	AD	04
+Planades del Port	42.56656	1.44682	AD	04
+Costa del Port	42.5644	1.44451	AD	04
+Costa del Port	42.54178	1.71481	AD	02
+Clots del Port	42.46667	1.58333	AD	00
+Clot del Port	42.48333	1.65	AD	00
+Cami del Port	42.48333	1.58333	AD	00
+Roc del Porquer	42.59128	1.45625	AD	04
+Oratori del Pont d'Aixovall	42.47634	1.49225	AD	06
+Riu Pollos	42.57642	1.48026	AD	04
+Bosc de la Pollentia	42.53428	1.50692	AD	04
+Roc del Poll	42.61563	1.53439	AD	05
+Roc de Podoina	42.45	1.5	AD	00
+Serrat de les Pletes	42.48898	1.42836	AD	06
+Serrat de la Pleta Vella	42.6022	1.55262	AD	05
+Solana de la Pleta del Perro	42.54463	1.62608	AD	00
+Bony de la Pleta de Jan	42.62168	1.63325	AD	02
+Roc de la Pleta	42.59192	1.46039	AD	04
+Costa de la Pleta	42.59311	1.4588	AD	04
+Bosc de la Pleta	42.55188	1.4437	AD	04
+Cami dels Plans	42.58474	1.61547	AD	02
+Cami dels Plans	42.54272	1.51091	AD	04
+Bosc dels Plans	42.58529	1.62801	AD	02
+Bordes dels Plans	42.5388	1.51414	AD	04
+Obaga dels Plannels de la Regalissia	42.48847	1.41656	AD	06
+Planes de Fels	42.58837	1.52915	AD	05
+Solana de les Planes	42.57533	1.53622	AD	05
+Riu de les Planes	42.63268	1.49923	AD	05
+Pleta de les Planes	42.63802	1.50503	AD	05
+Pic de l' Albeille	42.6457	1.49929	AD	07
+Les Planes	42.56142	1.54925	AD	05
+Collet de les Planes	42.5695	1.52628	AD	05
+Collada de les Planes	42.64205	1.49446	AD	05
+Bosc de les Planes	42.51667	1.6	AD	00
+Bony de les Planes	42.54357	1.52038	AD	04
+Serrat dels Planells Grans	42.52932	1.53013	AD	04
+Cabana dels Planells de Rialb	42.64523	1.55612	AD	05
+Planells de Rialb	42.64581	1.55151	AD	05
+Riu dels Planells de Caraup	42.60607	1.63868	AD	02
+Planells d'Arcalis	42.62729	1.49428	AD	05
+Serrat del Planell Lluent	42.56733	1.51685	AD	05
+Bony del Planell Gran	42.63333	1.55	AD	05
+Bosc de Planavilla	42.56413	1.68923	AD	02
+Planavilla	42.56321	1.68796	AD	02
+Bosc de la Planassa	42.55595	1.50304	AD	04
+Bosc de Plana en Blanca	42.54537	1.57216	AD	03
+Tarteres de Plana de Gral	42.58561	1.48903	AD	04
+Tosa Plana	42.46667	1.6	AD	00
+Torrent de la Plana	42.53156	1.59115	AD	03
+Serra Plana	42.58241	1.60201	AD	02
+Serra Plana	42.56386	1.48328	AD	04
+Sierra Plana	42.48201	1.43218	AD	00
+Cortal de la Plana	42.48333	1.53333	AD	00
+Coll de la Plana	42.45	1.5	AD	00
+Cami de la Plana	42.48333	1.55	AD	00
+Bosquet de la Plana	42.5	1.53333	AD	00
+Bosc de la Plana	42.5429	1.55557	AD	04
+Bordes de la Plana	42.53156	1.58964	AD	03
+Borda de la Plana	42.54311	1.55196	AD	04
+Serrat del Pla Morell	42.53349	1.53325	AD	04
+Torrent de Plamanera	42.52687	1.56739	AD	03
+Bosc del Pla de Rodo	42.54166	1.43056	AD	04
+Bosc del Pla de Miretes	42.52884	1.48301	AD	04
+Pic del Pla de l'Ingla	42.48333	1.63333	AD	00
+Pla de l'Ingla	42.48537	1.63328	AD	08
+Riu del Pla de l'Estany	42.58291	1.46502	AD	04
+Pleta del Pla de l'Estany	42.59231	1.45975	AD	04
+Estret del Pla de l'Estany	42.59425	1.45909	AD	04
+Pla de l'Estany	42.59491	1.44823	AD	04
+Cami del Pla de les Pedres	42.55354	1.67946	AD	00
+Cami del Pla del Bosc	42.54894	1.60827	AD	02
+Bosc del Pla de la Cot	42.53053	1.47154	AD	04
+Pleta de Pixolell	42.58834	1.62962	AD	02
+Costes de Pixolell	42.58929	1.6257	AD	02
+Pont de la Pixistella	42.55914	1.49401	AD	04
+Obac de la Pixistella	42.55412	1.49543	AD	04
+Bosc de la Pixistella	42.55377	1.49168	AD	04
+Font Pixadera	42.5	1.56667	AD	00
+Roca del Piso	42.53904	1.63363	AD	03
+Borda del Pirot	42.58344	1.64785	AD	02
+Pirineu	42.51667	1.55	AD	00
+Bosc de la Pinosa de Llumeneres	42.46667	1.51667	AD	00
+Bosc de la Pinosa	42.60066	1.6744	AD	02
+Bosc de la Pinosa	42.45	1.5	AD	00
+Serrat Pinos	42.54954	1.68115	AD	03
+Collada de Pimes	42.43217	1.54311	AD	00
+Borda del Piedro	42.58235	1.64009	AD	02
+Bosc del Pi de Montsalla	42.53107	1.49221	AD	04
+Cami del Pi de la Creu	42.55145	1.60517	AD	02
+Bosc del Pico	42.5	1.55	AD	00
+Basers del Pic de la Cabaneta	42.61534	1.60766	AD	02
+Font Picadora	42.57051	1.56966	AD	02
+Bony de la Pica	42.50477	1.46105	AD	00
+Basses del Pic	42.61844	1.61746	AD	02
+Bosc del Peu dels Pessons	42.51667	1.68333	AD	00
+Font dels Pets	42.58927	1.48376	AD	04
+Coll Petit	42.56423	1.44128	AD	00
+Riu dels Pessons	42.51667	1.7	AD	00
+Pic dels Pessons	42.52035	1.66088	AD	03
+Collada dels Pessons	42.5	1.65	AD	00
+Pleta dels Pescadors	42.48333	1.65	AD	00
+Pesada de Pal	42.56386	1.48328	AD	04
+Pont de Pesada	42.56977	1.48673	AD	04
+Basera de Pesada	42.56651	1.48135	AD	04
+Pesada	42.5668	1.48564	AD	04
+Roc de Persoma	42.48414	1.48823	AD	07
+Plana Perdiguera	42.55428	1.44871	AD	04
+Pic de Percanela	42.58847	1.49587	AD	00
+Bordes de Percanela	42.57821	1.48602	AD	04
+Percanela	42.58346	1.4859	AD	04
+Cami de Per Baix	42.56214	1.68099	AD	00
+Riu de Perafita	42.49788	1.55874	AD	08
+Pleta de Perafita	42.48333	1.58333	AD	00
+Planells de Perafita	42.48333	1.58333	AD	00
+Estanys de Perafita	42.46905	1.58985	AD	08
+Costa de Perafita	42.48333	1.58333	AD	00
+Cami de Perafita	42.5	1.56667	AD	00
+Cabana de Perafita	42.48333	1.58333	AD	00
+Perafita	42.47655	1.58376	AD	08
+Roc de la Penya	42.52515	1.54521	AD	04
+Costa Pentinada	42.48333	1.53333	AD	00
+Riu de la Peguera	42.45	1.51667	AD	00
+Conreu de la Peguera	42.45	1.53333	AD	00
+Carretera de la Peguera	42.46667	1.55	AD	00
+Bosc de la Peguera	42.46321	1.52655	AD	00
+Bordes de la Peguera	42.45422	1.53426	AD	06
+Serrat de les Pedrusques	42.59306	1.50159	AD	05
+Torrent Pedros	42.45	1.48333	AD	00
+Bosc de Pedres Blanques	42.53777	1.48713	AD	04
+Pla de les Pedres	42.55444	1.67856	AD	02
+Pont Pedregat	42.57742	1.47878	AD	04
+Corral de Pedra	42.56651	1.70511	AD	02
+Corral de Pedra	42.56325	1.64618	AD	02
+Bosc de Paulelles	42.53686	1.54808	AD	04
+Borda de Paulelles	42.53853	1.54255	AD	04
+Riu del Pas Mal	42.5392	1.64306	AD	03
+Costa del Pas del Monjo	42.63839	1.56322	AD	05
+Pas del Monjo	42.63948	1.55893	AD	05
+Bosc del Pas de la Clau	42.51667	1.61667	AD	00
+Solana del Pas de la Casa	42.53457	1.71993	AD	02
+Riu del Pas de la Casa	42.56482	1.75259	AD	00
+Pas de la Casa	42.54277	1.73361	AD	03
+Pas de la Casa	42.54438	1.7253	AD	02
+Partida d'Ensucaranes	42.51667	1.55	AD	00
+Partida de l'Any de la Part	42.55442	1.52183	AD	05
+Partida de la Grella	42.51741	1.51683	AD	07
+Borda de les Pardines	42.53079	1.60117	AD	03
+Tossal de la Pardina	42.49728	1.48444	AD	07
+Bosc del Pardal	42.54927	1.50231	AD	04
+Riu de la Palomera	42.5748	1.78635	AD	00
+Cap de la Palomera	42.58278	1.78097	AD	00
+Pont de Palomer	42.56386	1.48328	AD	04
+Pic de Palomer	42.56386	1.48328	AD	04
+Obaga de Palomer	42.56386	1.48328	AD	04
+Callissa de Palomer	42.56386	1.48328	AD	04
+Palomer	42.56131	1.48241	AD	04
+Feixa Pallola	42.43333	1.46667	AD	00
+Serrat Pallero	42.45	1.45	AD	00
+Prat de Paleta	42.48333	1.6	AD	00
+Serrat de la Palanqueta	42.55525	1.60829	AD	02
+Riu de la Palanqueta	42.55718	1.60094	AD	02
+Pont de les Palanques	42.54386	1.51785	AD	04
+Planell de la Palanca	42.55347	1.68858	AD	02
+Pic de la Pala de Coll Carnisser	42.59459	1.47382	AD	04
+Pic de la Pala Alta	42.60845	1.62464	AD	02
+Sola de Pal	42.55274	1.46643	AD	04
+Riu de Pal	42.56071	1.49661	AD	04
+Pont de Pal	42.5448	1.47461	AD	04
+Carretera de Pal	42.54338	1.47206	AD	04
+Bosc de Pal	42.53588	1.47433	AD	04
+Pal	42.54592	1.47524	AD	04
+Serra de Padern	42.52701	1.54866	AD	00
+Riu de Padern	42.52855	1.52235	AD	04
+Pic de Padern	42.52356	1.54688	AD	00
+Bosc de Padern	42.52467	1.53627	AD	04
+Coll Pa	42.54752	1.43602	AD	04
+Coll Pa	42.48333	1.56667	AD	00
+Riu de l'Ovella	42.53193	1.59284	AD	03
+Port de l'Ovella	42.55303	1.42241	AD	00
+Bosc de l'Ovella	42.53051	1.59384	AD	03
+Font de l'Ossa	42.50644	1.48659	AD	07
+Cova de l'Ossa	42.46667	1.48333	AD	00
+Cova de l'Ossa	42.45	1.48333	AD	00
+Canya de l'Ossa	42.55999	1.51809	AD	00
+Carretera d'Os de Civis	42.49492	1.44451	AD	00
+Clots de l'Os	42.57997	1.68574	AD	02
+Clot de l'Os	42.58723	1.67019	AD	02
+Tosa d'Ortafa	42.56337	1.7207	AD	02
+Tarteres d'Ortafa	42.56903	1.7097	AD	02
+Font d'Ortafa	42.56717	1.71685	AD	02
+Collet d'Ortafa	42.56122	1.71145	AD	02
+Clots d'Ortafa	42.56571	1.71543	AD	02
+Ortafa	42.56332	1.71868	AD	02
+Bony de l'Orri Vell	42.53662	1.63667	AD	03
+Riu dels Orris	42.48333	1.63333	AD	00
+Prats dels Orris	42.53691	1.63153	AD	03
+Pleta dels Orris	42.5357	1.6321	AD	03
+Bosc de l'Orri del Call	42.59608	1.64144	AD	02
+Serrat de l'Orri de Gasto	42.49133	1.4611	AD	06
+Serrat de l'Orri	42.58524	1.66698	AD	02
+Pont de l'Orri	42.58606	1.66534	AD	02
+Obaga de l'Orri	42.46667	1.45	AD	00
+Borda de l'Orri	42.54615	1.43858	AD	04
+Solana dels Oriols	42.57281	1.47931	AD	04
+Cap dels Oriols	42.57287	1.47536	AD	04
+Pont d'Ordino	42.5492	1.52373	AD	07
+Ordino	42.59758	1.52573	AD	05
+Coll d'Ordino	42.55615	1.57147	AD	07
+Ordino	42.55623	1.53319	AD	05
+Font de les Ordigues	42.51667	1.56667	AD	00
+Font de l'Ordigal	42.46667	1.46667	AD	00
+Roc de l'Oral	42.5279	1.56694	AD	03
+Planells d'Olio	42.5241	1.59349	AD	03
+Obagueta de Canti	42.56505	1.52159	AD	05
+Riu de les Obagues	42.59112	1.6368	AD	02
+Bosc de les Obagues	42.59065	1.63402	AD	02
+Bosc de l'Obaga Sobirana	42.55643	1.47383	AD	04
+Clots de l'Obaga de Torradella	42.59645	1.62658	AD	02
+Serra de l'Obaga d'Enclar	42.49958	1.46665	AD	07
+Obaga d'Enclar	42.49838	1.47794	AD	07
+Bosc de l'Obaga de l'Ossa	42.54392	1.49063	AD	04
+Obaga de l'Estall Serrer	42.48333	1.6	AD	00
+Obaga de la Gonarda	42.54389	1.52801	AD	04
+Obaga de Juclar	42.61163	1.69687	AD	02
+Obaga de Juberri	42.43333	1.48333	AD	00
+Bosc de l'Obaga de Gali	42.55153	1.48317	AD	04
+Obaga de Fontverd	42.48333	1.58333	AD	00
+Obaga d'Ansalonga	42.56519	1.51696	AD	05
+Obaga d'Andorra	42.49187	1.52507	AD	07
+Cami de l'Obaga	42.54669	1.53089	AD	05
+Serrat dels Obacs	42.60029	1.50959	AD	05
+Fonts dels Obacs	42.60387	1.50625	AD	05
+Obac d'Incles	42.58036	1.69356	AD	02
+Obac de Soldeu	42.57024	1.66563	AD	02
+Obac de Sispony	42.52146	1.48941	AD	04
+Bosc de l'Obac de Salla	42.55783	1.50194	AD	04
+Obac d'Envalira	42.56302	1.67599	AD	02
+Obac del Tarter	42.57138	1.64661	AD	02
+Obac dels Cortals	42.51667	1.61667	AD	00
+Obac de les Escaldes i Engordany	42.5	1.53333	AD	00
+Obac de la Cebollera	42.62316	1.58556	AD	05
+Pont de l'Obac de Fontaneda	42.45	1.46667	AD	00
+Obac de Canillo	42.57112	1.62986	AD	02
+Obac d'Anyos	42.52973	1.53937	AD	04
+Serrat de l'Obac	42.479	1.4951	AD	00
+Rec de l'Obac	42.5	1.53333	AD	00
+Prats de l'Obac	42.53532	1.62229	AD	03
+Font de l'Obac	42.5	1.56667	AD	00
+Coll d'Obac	42.49608	1.47191	AD	07
+Torrent dels Nyerros	42.47728	1.47323	AD	06
+Carretera General Numero Un	42.43553	1.47311	AD	00
+Carretera General Numero Tres	42.62483	1.47817	AD	00
+Carretera General Numero Duo	42.54474	1.73694	AD	00
+Pleta Nova	42.62218	1.51767	AD	05
+Obaga de Nou Fonts	42.47199	1.54409	AD	06
+Nou Fonts	42.46667	1.53333	AD	00
+Estany de la Nou	42.47541	1.57692	AD	08
+Pic de Noe	42.60991	1.73506	AD	00
+Basera del Niu de l'Aliga	42.50003	1.4535	AD	07
+Collades de Nier	42.60933	1.54309	AD	05
+Bosc de les Neres	42.53828	1.5615	AD	03
+Bony de les Neres	42.54663	1.56395	AD	00
+Roques Negres	42.5067	1.46974	AD	07
+Rocs Negres	42.5557	1.61505	AD	02
+Serrat Negre	42.57999	1.48426	AD	04
+Riu Negre	42.45	1.48333	AD	00
+Pic Negre	42.56677	1.44377	AD	00
+Pic Negre	42.45859	1.56322	AD	00
+Forat Negre	42.49809	1.49726	AD	07
+Estany Negre	42.58728	1.43609	AD	04
+Bosc Negre	42.57141	1.54563	AD	05
+Bosc Negre	42.5241	1.59021	AD	03
+Bosc Negre	42.52294	1.48419	AD	04
+Bosc Negre	42.5	1.56667	AD	00
+Bosc Negre	42.48333	1.51667	AD	00
+Bony Negre	42.57037	1.45583	AD	04
+Roca Negra	42.58969	1.58439	AD	02
+Torrent del Nedo	42.46667	1.5	AD	00
+Font de la Navina	42.55535	1.56233	AD	05
+Llosers de Naudi	42.57616	1.5631	AD	05
+Carretera de Nagol	42.46651	1.4938	AD	06
+Nagol	42.47142	1.50231	AD	06
+Sola de Nadal	42.5119	1.51669	AD	07
+Obaga de les Mussoles	42.56118	1.63747	AD	02
+Pla Mussola	42.52884	1.55448	AD	03
+Cami de la Muntanya	42.5	1.56667	AD	00
+Pleta de les Mules	42.43333	1.53333	AD	00
+Bosc del Mulassar	42.57848	1.52499	AD	05
+Basers del Motxo	42.59552	1.63384	AD	02
+Riu de Mossers	42.45	1.46667	AD	00
+Pleta Mosquera	42.6274	1.51863	AD	05
+Tosa de Moscatosa	42.54857	1.71597	AD	02
+Clots de Moscatosa	42.55541	1.70827	AD	02
+Pont de Mos	42.59224	1.63704	AD	02
+Plana Mortalla	42.58463	1.54277	AD	05
+Estany Mort	42.62445	1.62194	AD	02
+Estany Mort	42.57904	1.71441	AD	02
+Canya dels Moros	42.55145	1.51503	AD	04
+Pleta de Moreto	42.54809	1.69674	AD	02
+Planell de Moreto	42.5528	1.68627	AD	02
+Bosc de Moreto	42.54392	1.69376	AD	03
+Estany Moreno	42.51508	1.63914	AD	03
+Tosal de la Truita	42.45922	1.58747	AD	00
+Riu de Montuell	42.51667	1.58333	AD	00
+Cap de Montuell	42.51333	1.61365	AD	03
+Roc de Montmantell	42.60423	1.46887	AD	00
+Riu de Montmantell	42.59136	1.46052	AD	04
+Pleta de Montmantell	42.59732	1.46834	AD	04
+Obaga de Montmantell	42.59674	1.4722	AD	04
+Font de Montmantell	42.59894	1.47009	AD	04
+Estanys de Montmantell	42.60381	1.46704	AD	04
+Collada de Montmantell	42.60275	1.47318	AD	00
+Cami de Montmantell	42.59017	1.46338	AD	04
+Montmantell	42.59947	1.46733	AD	04
+Pic de Montmalus	42.50888	1.68638	AD	03
+Estany de Montmalus	42.5	1.68333	AD	00
+Collada de Montmalus	42.50869	1.69473	AD	03
+Montmalus	42.5	1.7	AD	03
+Riu de Montaup	42.56747	1.59777	AD	02
+Prats de Montaup	42.57493	1.58747	AD	02
+Collet de Montaup	42.56863	1.58737	AD	02
+Carrera de Montaup	42.56908	1.59783	AD	02
+Montaup	42.58328	1.58156	AD	02
+Riu Montaner	42.52997	1.52206	AD	04
+Collada de Montaner	42.51595	1.46467	AD	00
+Riu de Montalari	42.53888	1.58863	AD	03
+Bordes de Montalari	42.54459	1.5863	AD	03
+Monjol de Cabana Sorda	42.61161	1.67424	AD	02
+Tossal Momo	42.52994	1.4751	AD	04
+Pleta dels Moltons	42.55335	1.73321	AD	02
+Obaga de la Mollerra	42.60215	1.51245	AD	05
+Pont de Molleres	42.55331	1.58885	AD	02
+Bosc de les Molleres	42.51667	1.56667	AD	00
+Molleres	42.55093	1.58985	AD	02
+Molleres	42.54986	1.58974	AD	02
+Bosc de la Mollera	42.60495	1.51865	AD	05
+Bordes de la Mollera	42.60164	1.51828	AD	05
+Torrent de la Molina	42.45	1.51667	AD	00
+Riu de la Molina	42.52798	1.59489	AD	03
+Obaga de la Molina	42.56386	1.48328	AD	04
+Obaga de la Molina	42.45	1.51667	AD	00
+Grau de la Molina	42.52949	1.5937	AD	03
+Cami de la Molina	42.53161	1.58848	AD	03
+Bordes de la Molina	42.51667	1.58333	AD	00
+Plana Moleta	42.56976	1.53479	AD	05
+Roc de les Moles	42.53018	1.51543	AD	04
+Pont de les Moles	42.59552	1.52756	AD	05
+Pont de la Mola	42.57536	1.6681	AD	02
+Roc del Moixo	42.57046	1.50273	AD	00
+Borda del Moixellaire	42.45	1.45	AD	00
+Torrent de la Moixella	42.43333	1.48333	AD	00
+Riu de la Moixella	42.45	1.48333	AD	00
+Bosc de la Moixella	42.45	1.46667	AD	00
+Serra Mitjana	42.46667	1.61667	AD	00
+Serra Mitjana	42.46516	1.58235	AD	08
+Bony de Mitgeu	42.5489	1.52954	AD	04
+Collet de la Mira	42.57255	1.52893	AD	05
+Serrat dels Miquelets	42.55108	1.61109	AD	02
+Font dels Miquelets	42.57697	1.43574	AD	04
+Tosa del Mig	42.57655	1.69324	AD	02
+Serra del Mig	42.58858	1.71834	AD	02
+Roc del Mig	42.57501	1.72491	AD	02
+Estany del Mig	42.63999	1.48612	AD	07
+Coma del Mig	42.64563	1.52462	AD	05
+Collada del Mig	42.62054	1.54526	AD	05
+Clots del Mig	42.57986	1.55588	AD	05
+Carrera del Mig	42.56384	1.61223	AD	02
+Basers del Mig	42.58834	1.70615	AD	02
+Clots de Mes Amunt de la Pleta	42.61131	1.48752	AD	05
+Pleta de Mes Amunt	42.51667	1.63333	AD	00
+Estany de Mes Amunt	42.6457	1.48659	AD	07
+Carretera de Meritxell	42.55121	1.59119	AD	02
+Meritxell	42.55403	1.59087	AD	02
+Rec de Mereig	42.56667	1.58333	AD	02
+Pont de Mereig	42.55934	1.58854	AD	02
+Planells de Mereig	42.56667	1.58333	AD	02
+Bosc de Mereig	42.56868	1.58129	AD	02
+Bordes de Mereig	42.56464	1.58526	AD	02
+Mereig	42.56264	1.57602	AD	02
+Font de la Mentirosa	42.43333	1.51667	AD	00
+Estany dels Meners de la Coma	42.62361	1.60882	AD	02
+Riu dels Meners	42.61277	1.63617	AD	02
+Font dels Meners	42.61667	1.6	AD	05
+Font dels Meners	42.46667	1.48333	AD	00
+Collada dels Meners	42.62062	1.6048	AD	00
+Pic de la Menera	42.51667	1.71667	AD	00
+Clots de la Menera	42.51667	1.71667	AD	00
+Bosc del Menadis	42.45	1.46667	AD	00
+Meligar d'Emportona	42.53217	1.66015	AD	03
+Serrat de Meligar	42.54626	1.44326	AD	04
+Estany del Meligar	42.5274	1.66166	AD	03
+Roc del Melic	42.58047	1.58066	AD	02
+Pic de Medecourbe	42.6037	1.44264	AD	00
+Cami dels Matxos	42.5	1.56667	AD	00
+Basera Mateu	42.50269	1.50398	AD	07
+Serrat dels Matets	42.56672	1.49141	AD	04
+Bosc del Matet	42.62403	1.53429	AD	05
+Bosc de les Matelles	42.51801	1.47496	AD	04
+Clot de la Mata	42.56749	1.68127	AD	02
+Bosc de la Mata	42.59979	1.69319	AD	02
+Bosc de la Mata	42.59224	1.61171	AD	02
+Massolina	42.5	1.61667	AD	00
+Riu de Massat	42.55653	1.68751	AD	02
+Cortal del Masover	42.53285	1.53723	AD	04
+Mas de Ribafeta	42.56932	1.48858	AD	04
+Pont del Mas d'En Soler	42.5798	1.51869	AD	05
+Devesa del Mas d'Alins	42.45	1.45	AD	00
+Carretera del Mas d'Alins	42.45	1.46667	AD	00
+Borda del Mas d'Alins	42.43333	1.45	AD	00
+Mas d'Alins	42.44126	1.44944	AD	06
+Mas d'Alins	42.44348	1.45443	AD	06
+Sola del Mas	42.45	1.5	AD	00
+Obac del Mas	42.57144	1.49581	AD	04
+Cami del Mas	42.45	1.5	AD	00
+Bordes del Mas	42.45	1.5	AD	00
+Allau del Mas	42.56765	1.48845	AD	04
+Borda del Marticella	42.58368	1.65164	AD	02
+Cortal del Marti	42.53567	1.53847	AD	04
+Collet Marti	42.50552	1.48635	AD	07
+Collet Marti	42.47303	1.46887	AD	06
+Borda del Marti	42.56897	1.59918	AD	02
+Marrades Negres	42.57228	1.7048	AD	02
+Marrades Negres	42.55795	1.55097	AD	05
+Cami de les Marrades	42.53786	1.5042	AD	04
+Bony de les Marrades	42.54092	1.50455	AD	04
+Roc de Maria	42.5003	1.49313	AD	07
+Pont de la Margineda	42.48365	1.49224	AD	07
+Coll de la Manyiga	42.46667	1.53333	AD	00
+Coll de la Manyiga	42.4696	1.49038	AD	06
+Cortals de Manyat	42.48017	1.51203	AD	06
+Manyat	42.47939	1.51985	AD	06
+Riu del Manegor	42.60201	1.68654	AD	02
+Pleta del Manegor	42.61267	1.69282	AD	02
+Bosc de la Mandurana	42.56982	1.62191	AD	02
+Borda del Mandico	42.51667	1.55	AD	00
+Pont del Mamo	42.54785	1.48444	AD	04
+Roca Major	42.43333	1.5	AD	00
+Clot dels Mais	42.57069	1.62539	AD	02
+Planada dels Maians	42.54873	1.62167	AD	02
+Pic dels Maians	42.55209	1.62803	AD	02
+Costa dels Maians	42.55027	1.61898	AD	02
+Bosc dels Maians	42.48333	1.51667	AD	00
+Bony dels Maians	42.54386	1.62442	AD	00
+Pic de la Maiana	42.4821	1.60014	AD	08
+Collada de la Maiana	42.47976	1.60265	AD	08
+Tosa del Maia	42.56378	1.72821	AD	02
+Pleta del Maia	42.56099	1.7327	AD	02
+Pic del Maia	42.55466	1.71977	AD	02
+Obagot del Maia	42.56672	1.73307	AD	02
+Riu Madriu	42.50943	1.54568	AD	08
+Basers de Madona	42.60994	1.63188	AD	02
+L'Ovella	42.56233	1.60592	AD	02
+Los Travessers	42.56164	1.43962	AD	04
+L'Orri Amagat	42.59685	1.60474	AD	02
+L'Obagueta	42.54089	1.54696	AD	04
+Roc dels Llumeners	42.58906	1.47003	AD	04
+Riu de Llumeneres	42.46591	1.49579	AD	00
+Plana de Llumeneres	42.46667	1.51667	AD	00
+Cortal de Llumeneres	42.46667	1.5	AD	00
+Llumeneres	42.47229	1.51165	AD	06
+Bordes del Lloset	42.54185	1.5916	AD	02
+Lloset	42.53874	1.59457	AD	03
+Costa del Lloser de Naudi	42.57112	1.56958	AD	02
+Solana del Lloser	42.46667	1.45	AD	00
+Roc del Lloser	42.5876	1.51161	AD	05
+Tossal de la Llosada	42.54862	1.64567	AD	00
+Tosa de la Llosada	42.55129	1.64243	AD	02
+Riu de la Llosada	42.53619	1.61625	AD	03
+Obaga de la Llosada	42.54673	1.6326	AD	00
+Emprius de la Llosada	42.5463	1.6213	AD	02
+Basers de la Llosada	42.55113	1.63183	AD	02
+Riu Llosa	42.45	1.46667	AD	00
+Grau de la Llosa	42.62194	1.55236	AD	05
+Collet de la Llosa	42.57032	1.50283	AD	00
+Clots de la Llosa	42.61333	1.6217	AD	02
+Llorts	42.59625	1.52658	AD	05
+Bosc de les Llongues	42.55721	1.51093	AD	04
+Costa dels Llomassos	42.59041	1.45983	AD	04
+Pleta del Llomar	42.6142	1.56759	AD	05
+Clot del Llomar	42.52741	1.47854	AD	04
+Cami de la Llobatera	42.54812	1.50327	AD	04
+Torrent Llimois	42.49047	1.44754	AD	06
+Solana dels Llimois	42.49232	1.44052	AD	06
+Bosc de Llevai	42.5307	1.5444	AD	04
+Basers de la Llessa	42.48608	1.50702	AD	07
+Planell de la Llentiga	42.60461	1.52266	AD	05
+Casa Llecsia	42.57104	1.60069	AD	02
+Borda del Llecsia	42.58495	1.60095	AD	02
+Solana dels Llaurers	42.48231	1.43966	AD	06
+Obaga dels Llaurers	42.48097	1.44011	AD	06
+Bony dels Llaurers	42.48121	1.43487	AD	00
+Roc Llarg	42.55818	1.44707	AD	04
+Pont del Llarg	42.59616	1.67607	AD	02
+Fontanal Llarg	42.53185	1.46839	AD	04
+Casa Llarg	42.55931	1.59943	AD	02
+Solana dels Llampells	42.52579	1.46476	AD	04
+Torrent de la Llampa	42.57077	1.60617	AD	02
+Riu dels Llacs	42.54507	1.44076	AD	04
+Pleta dels Llacs	42.59817	1.62899	AD	02
+Pic dels Llacs	42.53503	1.41396	AD	00
+Pales dels Llacs	42.59904	1.62713	AD	02
+Font dels Llacs	42.54244	1.42846	AD	04
+Bosc dels Llacs	42.54088	1.42477	AD	04
+L'Horto	42.5796	1.63641	AD	02
+L'Horto	42.56319	1.52458	AD	05
+L'Hortell	42.61733	1.51791	AD	05
+Les Tres Oles	42.51667	1.55	AD	00
+Les Tres Fonts	42.50641	1.46933	AD	07
+Les Tarteres	42.45	1.48333	AD	00
+L'Estanyassa	42.58209	1.65641	AD	02
+Les Tallades	42.61458	1.54634	AD	05
+L'Estall	42.49682	1.58792	AD	08
+Les Sorobilles	42.56543	1.53667	AD	05
+Les Solanelles	42.54755	1.59018	AD	02
+Les Sobiranes	42.62006	1.53988	AD	05
+Les Salses	42.63444	1.50223	AD	05
+Les Salines	42.60952	1.53697	AD	05
+Les Ribaltes	42.53008	1.5385	AD	04
+Les Rebes	42.62361	1.62581	AD	02
+Les Queroles	42.60323	1.5323	AD	05
+Les Portes	42.48089	1.49157	AD	07
+Les Planes de Sornas	42.57083	1.52928	AD	05
+Les Planes	42.63953	1.50119	AD	05
+Les Planes	42.52464	1.60837	AD	03
+Les Planades	42.5934	1.6753	AD	02
+Les Pedrusques	42.51667	1.63333	AD	00
+Les Pedrasses	42.55482	1.51072	AD	04
+Les Pardines	42.58344	1.48246	AD	04
+Les Pardines	42.44036	1.46227	AD	06
+Les Obagues	42.57687	1.48975	AD	04
+Les Neres	42.54258	1.56479	AD	03
+Les Molleres	42.54674	1.52351	AD	04
+Les Llanasques	42.5836	1.58723	AD	02
+Les Forques	42.54833	1.52712	AD	04
+Les Fonts	42.60615	1.60625	AD	02
+Les Fonts	42.5947	1.48082	AD	04
+Les Feixes	42.55514	1.4403	AD	04
+Les Feixes	42.53861	1.45768	AD	04
+Les Fargues	42.48333	1.6	AD	00
+les Escaldes	42.50729	1.53414	AD	08
+Les Deveses	42.54383	1.64605	AD	03
+Les Costes	42.52398	1.55538	AD	03
+Les Costeres	42.53266	1.52889	AD	04
+Les Comelletes	42.47914	1.46376	AD	06
+Les Comarques	42.54857	1.52	AD	04
+Les Colleroles	42.59099	1.59767	AD	02
+Les Codolles	42.53446	1.50897	AD	04
+Les Claperes	42.54494	1.50455	AD	04
+Les Carboneres	42.47666	1.46438	AD	06
+Les Canyorques	42.58211	1.43103	AD	04
+Les Canadilles	42.49364	1.49334	AD	07
+Les Bordes	42.57634	1.62642	AD	02
+Les Bons	42.53873	1.58649	AD	03
+Les Bagelles	42.46667	1.5	AD	00
+Les Aubes	42.51667	1.55	AD	00
+Les Aspades	42.56287	1.55414	AD	05
+Les Angleves	42.54057	1.53037	AD	04
+Les Allaus	42.62721	1.53052	AD	05
+Les Agols	42.51155	1.60424	AD	03
+Les Abelletes	42.53066	1.72639	AD	02
+L'Ensegur	42.5872	1.54184	AD	05
+L'Avetar	42.59915	1.68906	AD	02
+Planell de Laverdu	42.62864	1.52424	AD	05
+Laverdu	42.63304	1.52764	AD	05
+La Vaquerissa	42.54769	1.45013	AD	04
+L'Ausany	42.61344	1.53633	AD	05
+La Uina	42.55895	1.52377	AD	05
+La Trava	42.57554	1.62109	AD	02
+La Trava	42.57416	1.52822	AD	05
+La Tosa	42.56175	1.46098	AD	04
+L'Assalador	42.49152	1.43032	AD	06
+L'Asparro	42.47992	1.50667	AD	00
+La Solaneta	42.52849	1.53123	AD	04
+La Solanella	42.46667	1.5	AD	00
+La Solana	42.57456	1.76177	AD	02
+La Serreta	42.5876	1.62035	AD	02
+La Serradora	42.46667	1.46667	AD	00
+La Serra	42.45204	1.49609	AD	00
+La Senyoreta	42.44778	1.4893	AD	08
+L'Artiga	42.57096	1.59987	AD	02
+L'Artic	42.49572	1.45577	AD	07
+La Rovira	42.45	1.46667	AD	00
+La Roca	42.55221	1.58532	AD	02
+L'Armiana	42.57573	1.60519	AD	02
+La Riberola	42.45	1.48333	AD	00
+La Rabassa	42.62552	1.55498	AD	05
+La Rabassa	42.44028	1.51778	AD	06
+La Quera	42.51667	1.51667	AD	00
+La Preso	42.62154	1.57364	AD	05
+La Posa	42.5368	1.59306	AD	03
+La Portelleta	42.47546	1.65856	AD	08
+La Portella	42.55393	1.62753	AD	02
+La Portella	42.45	1.5	AD	00
+La Portella	42.57369	1.71828	AD	02
+La Polguera	42.56667	1.58333	AD	02
+La Pleta	42.55046	1.44052	AD	04
+La Planada	42.60699	1.59823	AD	02
+La Plana	42.51667	1.51667	AD	00
+La Plana	42.5	1.55	AD	00
+La Pinatella	42.53266	1.61262	AD	03
+La Peracaus	42.5657	1.59271	AD	02
+La Pera	42.57488	1.47925	AD	04
+La Peguera	42.45	1.53333	AD	00
+La Pedregosa	42.58985	1.61645	AD	02
+La Palomera	42.57684	1.77933	AD	02
+L'Angonella	42.60583	1.50034	AD	05
+L'Andorrana	42.54849	1.42741	AD	04
+La Muga	42.48002	1.65954	AD	08
+La Molina	42.51423	1.59202	AD	03
+La Moixella	42.44354	1.47136	AD	06
+La Mentirosa	42.43333	1.51667	AD	00
+La Massana	42.55417	1.48333	AD	04
+la Massana	42.54499	1.51483	AD	04
+La Margineda	42.48466	1.50064	AD	07
+La Mandurana	42.57114	1.62462	AD	02
+L'Alzinar	42.47714	1.5017	AD	06
+La Lomera	42.46667	1.48333	AD	00
+La Llosada	42.54836	1.63039	AD	02
+Serrat de La Llonga	42.56263	1.52186	AD	05
+La Llonga	42.56179	1.51971	AD	05
+l'Aldosa de canillo	42.57895	1.62902	AD	02
+l'Aldosa	42.54391	1.52289	AD	04
+L'Airola	42.46667	1.46667	AD	00
+La Gonarda	42.54806	1.53	AD	04
+La Gonarda	42.54912	1.53408	AD	05
+La Ginebrosa	42.55363	1.51747	AD	04
+La Garganta	42.54049	1.59177	AD	03
+La Gargallera	42.47685	1.44967	AD	06
+La Fonteta	42.58026	1.47157	AD	04
+La Fita	42.55005	1.44583	AD	04
+La Cuina	42.56386	1.48328	AD	04
+La Creu de les Portes	42.47892	1.49168	AD	06
+La Coruvilla	42.58784	1.46964	AD	04
+La Cortinada	42.57423	1.51845	AD	05
+La Cortada	42.45	1.5	AD	00
+La Comella	42.51667	1.68333	AD	00
+La Comella	42.50087	1.52984	AD	07
+La Comarqueta	42.57917	1.72321	AD	02
+La Comarqueta	42.48333	1.63333	AD	00
+La Colilla	42.53164	1.61138	AD	03
+La Colilla	42.5	1.58333	AD	00
+La Clota	42.57923	1.5354	AD	05
+La Caubella	42.57862	1.4894	AD	04
+La Castelleta	42.53993	1.5263	AD	04
+La Carbonera	42.46667	1.63333	AD	00
+La Caolla	42.5	1.61667	AD	00
+La Callisa	42.57178	1.48315	AD	04
+La Cabeca	42.48925	1.45982	AD	06
+La Cabanella	42.52345	1.46791	AD	04
+La Burna	42.59189	1.4898	AD	04
+La Borda Nova	42.62152	1.53243	AD	05
+La Bor	42.54709	1.5862	AD	02
+La Boixosa	42.56855	1.53286	AD	05
+La Becosa	42.60816	1.54473	AD	05
+La Bauma	42.48333	1.61667	AD	00
+La Basseta	42.48333	1.65	AD	00
+La Basera	42.57952	1.65435	AD	02
+La Baladosa	42.59889	1.68519	AD	02
+Tosa de Juclar	42.59891	1.71251	AD	02
+Solana de Juclar	42.60583	1.69833	AD	02
+Riu de Juclar	42.6018	1.68654	AD	02
+Pleta de Juclar	42.60352	1.71105	AD	02
+Obaga de Juclar	42.61667	1.7	AD	00
+Collada de Juclar	42.61471	1.72938	AD	00
+Cami de Juclar	42.60175	1.69735	AD	02
+Alt de Juclar	42.60986	1.7031	AD	02
+Juclar	42.60509	1.71161	AD	02
+Carretera de la Juberrussa	42.45	1.48333	AD	00
+Bosc de la Juberrussa	42.43333	1.48333	AD	00
+Bordes de la Juberrussa	42.43816	1.48068	AD	06
+Juberrussa	42.43333	1.48333	AD	00
+Juberri	42.44	1.49194	AD	06
+Font de la Jubanya	42.58079	1.44891	AD	04
+Coll Jovell	42.45941	1.52663	AD	06
+Coll Jovell	42.50159	1.56354	AD	08
+Coll Jovell	42.48461	1.47814	AD	06
+Jovell	42.57923	1.63206	AD	02
+Coll de Jou	42.51698	1.54992	AD	08
+Coll de Jou	42.45747	1.47602	AD	06
+Cami del Jou	42.56155	1.50074	AD	04
+Bosc del Jou	42.56322	1.51112	AD	04
+Solana del Jorda	42.51667	1.6	AD	00
+Borda del Joansaus	42.5828	1.64346	AD	02
+Portella de Joan Antoni	42.51559	1.71693	AD	03
+Pleta de Jes Agols	42.51667	1.6	AD	00
+Borda del Gep	42.57594	1.58635	AD	02
+Borda del Jarca	42.57321	1.58747	AD	02
+Borda del Jarca	42.55826	1.59543	AD	02
+Borda del Janramon	42.57355	1.59051	AD	02
+Turo de Jan	42.61892	1.63672	AD	02
+Riu de Jan	42.61285	1.63635	AD	02
+Pala de Jan	42.62549	1.64009	AD	02
+Coms de Jan	42.61805	1.63927	AD	02
+Collada de Jan	42.62817	1.63884	AD	00
+Estany de l'Isla	42.61939	1.68264	AD	02
+Font dels Isards	42.577	1.70628	AD	02
+Costa dels Isards	42.58421	1.5977	AD	02
+Coll dels Isards	42.52354	1.73304	AD	00
+Pla de l'Ingla	42.48333	1.61667	AD	00
+Collet de l'Infern	42.48964	1.60742	AD	08
+Torrent dels Indrets	42.48323	1.45495	AD	06
+Riu d'Incles	42.57679	1.65524	AD	02
+Prats d'Incles	42.59369	1.66955	AD	02
+Port de Fontargente	42.61953	1.70387	AD	00
+Pont d'Incles	42.58373	1.66351	AD	02
+Cami d'Incles	42.58418	1.66309	AD	02
+Bosc d'Incles	42.5846	1.67136	AD	02
+Estany de l'Illa	42.49788	1.65983	AD	03
+Obagues de la Iesca	42.4836	1.43802	AD	06
+Bosc de l'Hoste	42.55963	1.67755	AD	02
+Bosc de l'Hostal del Poll	42.61325	1.6394	AD	02
+Riu dels Hortons	42.52242	1.47444	AD	04
+Bosc dels Hortons	42.53255	1.54551	AD	04
+Torrent dels Hortells	42.45	1.48333	AD	00
+Serra de l'Hortell	42.61638	1.51097	AD	05
+Pic de l'Hortell	42.61935	1.50795	AD	05
+Torrent dels Hortals	42.53629	1.5758	AD	03
+Serra de l'Honor	42.53592	1.52315	AD	04
+Roca Herbosa	42.48333	1.56667	AD	00
+Pleta de Guitard	42.52623	1.59045	AD	03
+Cortal del Guitard	42.45	1.5	AD	00
+Tartera de les Guineus	42.56969	1.69277	AD	02
+Roc de la Guilla	42.51667	1.56667	AD	00
+Bony de les Guardioles	42.54755	1.52043	AD	00
+Serra de la Guardiola	42.57045	1.6911	AD	02
+Obaga de la Guardiola	42.57215	1.68911	AD	02
+Planell de la Guardia	42.61145	1.52168	AD	05
+Roques Grosses	42.58924	1.67157	AD	02
+Riba Grossa	42.56335	1.60073	AD	02
+Roc Gros	42.58861	1.48961	AD	04
+Riu Gros	42.57353	1.67228	AD	02
+Alt del Griu	42.52555	1.65212	AD	03
+Riu del Grill	42.51667	1.6	AD	00
+Font de les Greixes	42.46667	1.45	AD	00
+Clot de les Greixes	42.46667	1.45	AD	00
+Cami de les Gravades	42.54396	1.51847	AD	04
+Clot dels Gravaders	42.46667	1.55	AD	00
+Pleta dels Graus	42.48333	1.56667	AD	00
+Grau Roig	42.53227	1.70132	AD	03
+Obaga de Graupont	42.49088	1.46987	AD	06
+Clot de Graupont	42.49609	1.46656	AD	07
+Grau d'Incles	42.5783	1.65511	AD	02
+Grau del Cabrer	42.56998	1.72454	AD	02
+Plana del Grau	42.58331	1.51367	AD	05
+Costa del Grau	42.57061	1.60268	AD	02
+Planell Gran de la Cebollera	42.62682	1.58943	AD	05
+Costa de les Grandalles	42.53808	1.7048	AD	02
+Planell Gran	42.6337	1.5408	AD	05
+Planell Gran	42.58569	1.67189	AD	02
+Planell Gran	42.57056	1.46343	AD	04
+Planell Gran	42.56467	1.69326	AD	02
+Planell Gran	42.55837	1.64327	AD	02
+Planell Gran	42.46667	1.56667	AD	00
+Costa Gran	42.61699	1.63029	AD	02
+Costa Gran	42.59788	1.60946	AD	02
+Costa Gran	42.51099	1.48904	AD	07
+Basera Gran	42.50751	1.48236	AD	07
+Plana de Gral	42.58299	1.48861	AD	04
+Canya de les Grailes	42.48333	1.51667	AD	00
+Canya de les Grailes	42.46667	1.46667	AD	00
+Roc del Grailer	42.56397	1.50496	AD	04
+Tartera del Goter	42.57056	1.73797	AD	02
+Roc del Goter	42.57239	1.73842	AD	02
+Pala del Goter	42.57032	1.73437	AD	02
+Bosc de la Gonarda	42.54801	1.53775	AD	05
+Coll de Goma	42.54553	1.54031	AD	00
+Planell de Ginestar	42.59698	1.54616	AD	05
+Bony de la Ginebrera	42.45	1.46667	AD	00
+Font del Ginebre	42.43333	1.45	AD	00
+Prat del Gilet	42.51667	1.6	AD	00
+Borda del Germa	42.45	1.48333	AD	00
+Costa de les Gerderes	42.54957	1.6102	AD	02
+Cortal del Genret	42.45	1.5	AD	00
+Clot del Gel	42.5173	1.4899	AD	04
+Solana de la Gaverna	42.51667	1.6	AD	00
+Font de la Gavatxa	42.53333	1.73333	AD	02
+Borda del Gasto	42.45	1.46667	AD	00
+Serrat de la Garriga	42.53939	1.62256	AD	03
+Crestes de Gargantillar	42.50781	1.65814	AD	03
+Collades de Gargantillar	42.5	1.65	AD	00
+Clots de Gargantillar	42.5	1.65	AD	00
+Gargantillar	42.49915	1.6483	AD	03
+Roc de la Garganta	42.5437	1.59169	AD	02
+Pas dels Gargalls	42.59165	1.68511	AD	02
+Bosc de la Gargallosa	42.56836	1.51365	AD	05
+Torrent del Gargallet	42.45	1.53333	AD	00
+Font del Gargallet	42.45	1.53333	AD	00
+Clotada del Gargallet	42.45	1.55	AD	00
+Solana de Galliner	42.56606	1.47298	AD	04
+Riu de Galliner	42.56977	1.47741	AD	04
+Galliner	42.56343	1.46325	AD	04
+Planell de la Gallina	42.43333	1.5	AD	00
+Coll de la Gallina	42.45922	1.45162	AD	06
+Borda del Gabriel	42.56667	1.58333	AD	02
+Font Freda	42.63524	1.5592	AD	05
+Font Freda	42.56174	1.4694	AD	04
+Font Freda	42.45	1.5	AD	00
+Font Fred	42.48333	1.6	AD	00
+Francoli	42.48667	1.43511	AD	06
+Obaga Fosca	42.48519	1.43043	AD	06
+Collada Fosca	42.43333	1.5	AD	00
+Bosc Fosc	42.56947	1.67178	AD	02
+Pleta del Forquillo	42.60728	1.70623	AD	02
+Collet de Forns	42.48732	1.48209	AD	07
+Prat del Fornet	42.55815	1.61392	AD	02
+Font del Fornell	42.45	1.5	AD	00
+Forn de Cals	42.56871	1.60352	AD	02
+Turo del Forn	42.63585	1.57541	AD	05
+Torrent del Forn	42.5	1.51667	AD	00
+Serrat del Forn	42.54871	1.51075	AD	04
+Roca del Forn	42.55946	1.61606	AD	02
+Riu del Forn	42.55778	1.59026	AD	02
+Portella del Forn	42.63275	1.58426	AD	00
+Planells del Forn	42.55417	1.61499	AD	02
+Obaga del Forn	42.48864	1.43928	AD	06
+Clots del Forn	42.63158	1.57228	AD	05
+Carretera del Forn	42.56208	1.59835	AD	02
+Carrerada del Forn	42.5669	1.61415	AD	02
+Cami del Forn	42.56071	1.59889	AD	02
+Estanys Forcats	42.60018	1.44597	AD	04
+Torrent Forcat	42.45	1.51667	AD	00
+Estany Forcat	42.4942	1.63972	AD	08
+Estany Forcat	42.5	1.63333	AD	00
+Forats de l'Ossa	42.61977	1.52652	AD	05
+Forat Fosc	42.5564	1.56427	AD	05
+Riu de Forat de Rius	42.57803	1.62981	AD	02
+Collada del Forat de Malhiverns	42.6	1.43333	AD	00
+Cresta del Forat dels Malhiverns	42.6	1.43333	AD	00
+Forat dels Malhiverns	42.59531	1.44377	AD	04
+Forat dels Clots de Massat	42.56001	1.70714	AD	02
+Forat d'Arau	42.5734	1.48535	AD	04
+Coma del Forat	42.62348	1.477	AD	05
+Font de Fontverd	42.5	1.6	AD	00
+Fontverd	42.48333	1.6	AD	00
+Fontverd	42.49748	1.59695	AD	08
+Riu de les Fonts de la Tosa	42.59602	1.67605	AD	02
+Tosa de les Fonts	42.55805	1.65046	AD	02
+Pic de les Fonts	42.6084	1.60249	AD	02
+Pic de les Fonts	42.60063	1.47724	AD	00
+Estany de les Fonts	42.51598	1.66895	AD	03
+Comella de les Fonts	42.45	1.46667	AD	00
+Clots de les Fonts	42.5881	1.68805	AD	02
+Clot de les Fonts	42.55697	1.64922	AD	02
+Clot de les Fonts	42.46667	1.45	AD	00
+Clotada de les Fonts	42.59775	1.48002	AD	04
+Bosc de les Fonts	42.56688	1.60726	AD	02
+Aspre de les Fonts	42.59563	1.47729	AD	04
+Bosc de la Font Roja	42.54333	1.44516	AD	04
+Collet de Font Podrida	42.58988	1.46272	AD	04
+Costa de Font Freda	42.63548	1.56426	AD	05
+Font de Fontdui	42.57538	1.68802	AD	02
+Obaga de la Font dels Pets	42.59025	1.48514	AD	04
+Torrent de la Font dels Pals	42.45	1.51667	AD	00
+Font del Sola	42.58717	1.66349	AD	02
+Costa de la Font dels Miquelets	42.57586	1.43352	AD	04
+Font dels Comellassos	42.59412	1.67353	AD	02
+Bosc de la Font del Pi	42.58354	1.52835	AD	05
+Bosc de la Font del Pascol	42.54025	1.55562	AD	04
+Bosc de la Font del Gipal	42.52633	1.50694	AD	04
+Bosc de la Font del Bisbe	42.54098	1.45762	AD	04
+Planell de la Font de l'Altar	42.53916	1.42528	AD	04
+Oratori de la Font de Joans	42.47766	1.48219	AD	06
+Basers de la Font de Joans	42.47838	1.48064	AD	06
+Fontauzina	42.57891	1.6341	AD	02
+Cami de Fontargent	42.60215	1.6801	AD	02
+Pont de Fontaneda	42.46667	1.48333	AD	00
+Boscarro de Fontaneda	42.45	1.48333	AD	00
+Fontaneda	42.45432	1.46402	AD	06
+Fontanals del Pui	42.46667	1.48333	AD	00
+Bosc dels Fontanals	42.55753	1.58096	AD	02
+Font del Fontanal	42.46667	1.5	AD	00
+Riu de Font Amagada	42.53223	1.522	AD	04
+Planell de la Font	42.56589	1.67041	AD	02
+Costa de la Font	42.53296	1.51347	AD	04
+Clot de la Font	42.59796	1.66158	AD	02
+Clots Fondos	42.55409	1.61914	AD	02
+Collada Fonda	42.46667	1.63333	AD	00
+Cortal del Folc	42.45	1.5	AD	00
+Planell del Fogal	42.62512	1.56465	AD	05
+Planell de les Flores	42.62311	1.49165	AD	05
+Roc del Fiter	42.45	1.51667	AD	00
+Borda del Fiter	42.5784	1.62382	AD	02
+Bosc de la Fita	42.57231	1.54006	AD	05
+Coll de Finestres	42.43333	1.55	AD	00
+Coll de la Finestra	42.5	1.53333	AD	00
+Bosc de la Finestra	42.54666	1.45886	AD	04
+Font de Ferrus	42.51667	1.51667	AD	00
+Font de Ferro del Planell Gran	42.54671	1.61429	AD	02
+Font de Ferro	42.58845	1.58506	AD	02
+Font de Ferro	42.46667	1.48333	AD	00
+Solana de Ferreroles	42.60525	1.56256	AD	05
+Riu de Ferreroles	42.6044	1.53471	AD	05
+Planells de Ferreroles	42.59958	1.55382	AD	05
+Collada de Ferreroles	42.60697	1.56699	AD	05
+Clots de Ferreroles	42.60336	1.562	AD	05
+Pont de Ferreres	42.60419	1.53519	AD	05
+Font del Feritxet	42.51667	1.6	AD	00
+Feritxet	42.51667	1.6	AD	00
+Font del Fenoll	42.58134	1.46023	AD	04
+Bosc dels Feners	42.43333	1.5	AD	00
+Bordes dels Fenerols	42.52944	1.49515	AD	04
+Fener Llong	42.54446	1.54147	AD	04
+Fener de Comadejo	42.50116	1.49079	AD	07
+Torrent dels Fenerals	42.48988	1.45307	AD	00
+Obagues dels Fenerals	42.495	1.45638	AD	00
+Bosc de les Fenemores	42.53148	1.48777	AD	04
+Borda del Fenemars	42.58436	1.63302	AD	02
+Bosc del Felegrill	42.53185	1.53401	AD	04
+Bosc de les Feixes	42.54362	1.43729	AD	04
+Feixar de Setut	42.46667	1.63333	AD	00
+Feixar del Baladre	42.64656	1.54028	AD	05
+Pic del Feixar	42.46667	1.63333	AD	00
+Font del Feixar	42.46667	1.63333	AD	00
+Feixants de Xixerella	42.55764	1.4807	AD	04
+Clots de la Febrerrussa	42.46667	1.55	AD	00
+Sola de Faucellers	42.45	1.5	AD	00
+Pont de Faucellers	42.45	1.5	AD	00
+Faucellers	42.45	1.5	AD	00
+Serrat de la Farga	42.45	1.53333	AD	00
+Pont de la Farga	42.61537	1.53755	AD	05
+Roc del Far	42.43333	1.5	AD	00
+Plana del Far	42.48288	1.42084	AD	06
+Fangots de Moreto	42.55204	1.69108	AD	02
+Fangots dels Maians	42.55288	1.61912	AD	02
+Fangot Gran	42.53907	1.63785	AD	03
+Canya de les Falgueres	42.45	1.46667	AD	00
+Falconeres	42.55484	1.69515	AD	02
+Serra de Falcobi	42.63484	1.54979	AD	05
+Canya dels Eucassers	42.5465	1.61842	AD	02
+Cabana de l' Eucasser	42.63086	1.48341	AD	07
+Cabana de l'Eucasser	42.61919	1.56884	AD	05
+Cabana de l'Eucasser	42.58442	1.62337	AD	02
+Pala Estreta	42.55048	1.70431	AD	02
+Torrent Estret	42.53266	1.57426	AD	03
+Cortal de Estevet	42.5	1.53333	AD	00
+Collada dels Estanys Forcats	42.6009	1.44186	AD	00
+Clots de l'Estany Segon	42.61094	1.72785	AD	02
+Estanys de Tristaina	42.64217	1.48615	AD	07
+Estanys del Pessons	42.5203	1.67881	AD	03
+Estanys de l'Obac	42.51365	1.67523	AD	03
+Estanys de la Solana	42.52211	1.6699	AD	03
+Estanys de Juclar	42.61052	1.72038	AD	02
+Serra dels Estanys	42.58996	1.5899	AD	02
+Riu dels Estanys	42.59571	1.60917	AD	02
+Collada dels Estanys	42.5876	1.59176	AD	02
+Cami dels Estanys	42.48333	1.65	AD	00
+Cabana dels Estanys	42.48333	1.65	AD	00
+Estanyons de Banyell	42.64377	1.57144	AD	05
+Pic dels Estanyons	42.46569	1.62303	AD	00
+Estanys dels Estanyons	42.46667	1.61667	AD	00
+Bosc dels Estanyons	42.48333	1.63333	AD	00
+Serra de l'Estanyo	42.60471	1.58675	AD	00
+Saleres de l'Estanyo	42.61248	1.57287	AD	05
+Riu de l'Estanyo	42.62067	1.56516	AD	05
+Pic de l'Estanyo	42.6088	1.59235	AD	00
+Estret de l'Estanyo	42.61368	1.57032	AD	05
+Estany de l'Estanyo	42.60914	1.57817	AD	05
+Clots de l'Estanyo	42.61042	1.57692	AD	05
+Serrat de l'Estany Negre	42.58394	1.43566	AD	04
+Rocs de l'Estany Negre	42.58829	1.43773	AD	04
+Basses de l'Estany Negre	42.58442	1.43495	AD	04
+Bony de l'Estany Mort	42.62361	1.61733	AD	02
+Roc de l'Estany Moreno	42.51667	1.63333	AD	00
+Pala de l'Estany Gran	42.60257	1.58948	AD	02
+Riu de l' Estany Esbalcat	42.63612	1.51736	AD	07
+Port de l'Estany Esbalcat	42.64542	1.51113	AD	00
+Costa de l'Estany de Mes Avall	42.60646	1.48747	AD	05
+Clots de l'Estany de Mes Avall	42.60153	1.48654	AD	05
+Costa de l'Estany de Mes Amunt	42.61256	1.47817	AD	05
+Costa de l'Estany del Mig	42.64431	1.47867	AD	05
+Riu de l'Estany de l'Isla	42.61193	1.69266	AD	02
+Solana de l'Estany de l'Illa	42.5	1.65	AD	00
+Baser de l'Estany de les Truites	42.57257	1.44451	AD	04
+Turo de l'Estany de la Nou	42.46667	1.58333	AD	00
+Cami de l'Estany de la Nou	42.48333	1.58333	AD	00
+Riu de l' Estany de Creussans	42.63292	1.47976	AD	07
+Vial de l'Estany Blau	42.5	1.61667	AD	00
+Turo de l'Estany Blau	42.5	1.61667	AD	00
+Riu de l'Estany Blau	42.5	1.61667	AD	00
+Serrat de l'Estany	42.51667	1.56667	AD	00
+Riu de l'Estany	42.58005	1.43898	AD	04
+Pla de l'Estany	42.59123	1.4611	AD	04
+Pleta de l'Estall Serrer	42.48333	1.61667	AD	00
+Planells de l'Estall Serrer	42.48333	1.61667	AD	00
+Bosc de l'Estall Serrer	42.48333	1.61667	AD	00
+Estall Serrer	42.48333	1.61667	AD	00
+Estall Serrer	42.473	1.62239	AD	08
+Roc de l'Estall	42.5	1.58333	AD	00
+Planell de l'Estall	42.54876	1.55062	AD	05
+Collada de l'Estall	42.54716	1.55016	AD	00
+Carretera de l'Estall	42.53393	1.52854	AD	04
+Borda de l'Estall	42.54596	1.54906	AD	04
+Pleta de l'Estaleritx	42.61646	1.54788	AD	05
+Collada de l'Estaleritx	42.61807	1.55085	AD	05
+Pont dels Esquirols	42.57477	1.48105	AD	04
+Roc de les Esquiroles	42.46667	1.5	AD	00
+Roc de les Esquiroles	42.45	1.48333	AD	00
+Roc d'Esquers	42.5	1.55	AD	00
+Roc de l'Espluga	42.46667	1.46667	AD	00
+Planell de l'Espluga	42.46667	1.46667	AD	00
+Tosa dels Espiolets	42.56006	1.65554	AD	02
+L'Espeluga	42.55839	1.44043	AD	04
+L'Espeluga	42.52634	1.55452	AD	03
+Pont de l'Espalmera	42.54252	1.47288	AD	04
+Riu de l'Escobet	42.46667	1.51667	AD	00
+Escobet	42.46667	1.51667	AD	00
+Pic d'Escobes	42.60734	1.73082	AD	00
+Comella dels Esclops	42.43333	1.48333	AD	00
+Sola d'Escas	42.54456	1.50089	AD	04
+Cami d'Escas	42.54655	1.51004	AD	04
+Escas	42.54643	1.50895	AD	04
+Roc d'Escalluquer	42.55554	1.49978	AD	04
+Bosc d'Escalluquer	42.55186	1.49707	AD	04
+Escalluquer	42.55414	1.49976	AD	04
+Vial de l'Escala	42.47679	1.49596	AD	00
+Estany Esbalcat	42.64002	1.51371	AD	07
+Obac d'Erts	42.55946	1.49799	AD	04
+Erts	42.56218	1.4968	AD	04
+Costa de les Eroles	42.56178	1.44998	AD	04
+Solana de l'Era de Mitges	42.46667	1.45	AD	00
+Refugi d'Envalira	42.5476	1.70276	AD	02
+Port d'Envalira	42.54037	1.71989	AD	02
+Bordes d'Envalira	42.55803	1.68805	AD	02
+Envalira	42.53594	1.70421	AD	00
+Sola d'Entremesaiques	42.50094	1.55771	AD	00
+Pont d'Entremesaigues	42.5	1.56667	AD	00
+Entremesaigues	42.49679	1.56261	AD	08
+Roca Entravessada	42.59782	1.44123	AD	00
+Font de les Entrades	42.56386	1.48328	AD	04
+Bosc de l'Entrada	42.54881	1.46295	AD	04
+Cami d'Entor	42.58248	1.63945	AD	02
+Bosc d'Entor	42.58466	1.64894	AD	02
+Entor	42.59433	1.64987	AD	02
+Collada d'Entinyola	42.52499	1.65305	AD	03
+Clots d'Entinyac	42.57983	1.69515	AD	02
+Tarteres d'Entalas	42.54065	1.63619	AD	03
+Bosc d'En Som	42.56667	1.58333	AD	02
+Serra de l'Ensegur	42.58376	1.55546	AD	05
+Riu de l'Ensegur	42.59473	1.52732	AD	05
+Obaga de l'Ensegur	42.58331	1.53967	AD	05
+Collada de l'Ensegur	42.58868	1.53577	AD	05
+Clot de l'Ensegur	42.58961	1.5518	AD	05
+Cami de l'Ensegur	42.58325	1.52252	AD	05
+Bosc de l'Ensegur	42.59451	1.54865	AD	05
+Bordes de l'Ensegur	42.59078	1.54308	AD	05
+Aspres de l'Ensegur	42.58723	1.55578	AD	05
+Solana d'Ensagents	42.51667	1.63333	AD	00
+Riu d'Ensagents	42.52674	1.61294	AD	03
+Obaga d'Ensagents	42.51667	1.63333	AD	00
+Estanys d'Ensagents	42.52041	1.64793	AD	03
+Ensagents	42.51388	1.64759	AD	03
+Costa d'Enradort	42.54165	1.66476	AD	03
+Collada d'Enradort	42.53932	1.66187	AD	03
+Rec d'Engordany	42.51667	1.53333	AD	00
+Engordany	42.51115	1.54118	AD	08
+Pla d'Engolasters	42.5	1.56667	AD	00
+Estany d'Engolasters	42.51966	1.56772	AD	07
+Carretera d'Engolasters	42.51667	1.56667	AD	00
+Engolasters	42.50811	1.57464	AD	00
+Estany d'Engait	42.51059	1.7174	AD	03
+Engait	42.50609	1.71908	AD	03
+Serrat de l'Enfreu	42.56849	1.56076	AD	05
+Riu de l'Enfreu	42.56502	1.54648	AD	05
+Bosc de l'Enfreu	42.5682	1.55594	AD	05
+Borda d'Endrieta	42.55544	1.57817	AD	02
+Obaga d'Encortesa	42.45	1.51667	AD	00
+Carretera Encortesa	42.45	1.5	AD	00
+Encortesa	42.45	1.51667	AD	00
+Cami d'Encodina	42.62337	1.53026	AD	05
+Encodina	42.62567	1.52968	AD	05
+Serra d'Enclar	42.51408	1.48329	AD	00
+Riu d'Enclar	42.49043	1.49648	AD	00
+Prat d'Enclar	42.50126	1.48508	AD	07
+Bony de Carroi	42.50997	1.46819	AD	00
+Cami d'Enclar	42.5025	1.48053	AD	07
+Bosc d'Enclar	42.49181	1.48228	AD	07
+Font de l'Enciam	42.62205	1.52133	AD	05
+Carrerons d'Encenrera	42.53099	1.68982	AD	00
+Encenrera	42.53341	1.68911	AD	03
+Clots d'Encarners	42.59276	1.5797	AD	02
+Basera d'Encarners	42.50304	1.45805	AD	07
+Basera d'Encarners	42.46667	1.55	AD	00
+Borda d'En Cadena	42.53823	1.56675	AD	03
+Pleta d'Emportona	42.53707	1.65366	AD	03
+Emportona	42.53312	1.65546	AD	03
+Riu de l'Empallador	42.54219	1.70202	AD	02
+Clots d'Embolcar	42.61646	1.61102	AD	02
+Basers d'Embolcar	42.61394	1.6195	AD	02
+El Vilar	42.57204	1.608	AD	02
+El Vedat	42.47057	1.48064	AD	06
+El Turer	42.55929	1.53664	AD	05
+El Trillar	42.46667	1.5	AD	00
+El Torrentill	42.45	1.48333	AD	00
+El Tamany	42.63187	1.51518	AD	05
+Els Tarters	42.56963	1.68029	AD	02
+Els Tarterals	42.48333	1.51667	AD	00
+Els Rebolians	42.53724	1.52576	AD	04
+Els Quatre Rocs	42.46667	1.53333	AD	00
+Els Pujols	42.48156	1.4888	AD	07
+Els Puiols	42.57512	1.63174	AD	02
+Els Pletius	42.61209	1.67938	AD	02
+Els Plans	42.58143	1.63273	AD	02
+Els Plans	42.45084	1.50641	AD	00
+Els Plans	42.45019	1.50019	AD	06
+Els Plans	42.54028	1.51239	AD	04
+Els Pessons	42.5142	1.67006	AD	03
+Els Pallers	42.56423	1.74918	AD	02
+Els Pallerils	42.59139	1.53195	AD	05
+Els Padals	42.57657	1.65967	AD	02
+Els Orris	42.5461	1.47148	AD	04
+Els Oriosos	42.53762	1.53384	AD	04
+El Sola	42.55667	1.52521	AD	05
+Els Obacs	42.60193	1.50122	AD	05
+Els Obacs	42.54201	1.47518	AD	04
+Els Maians	42.54486	1.62073	AD	02
+Els Llacs	42.53911	1.41857	AD	04
+Els Indrets	42.48045	1.45183	AD	06
+Els Hortells	42.45	1.5	AD	00
+Els Graus	42.57324	1.73219	AD	02
+Els Graus	42.48225	1.55983	AD	08
+Els Fontanals	42.57257	1.68206	AD	02
+Els Feners	42.58831	1.65999	AD	02
+Els Feners	42.47903	1.48333	AD	00
+Els Fenerols	42.54173	1.57006	AD	03
+Els Fenerols	42.53	1.50245	AD	04
+Els Fenerals	42.49616	1.46055	AD	07
+Els Estanys	42.49009	1.64027	AD	00
+Els Estanyons	42.46667	1.61667	AD	00
+Els Espiolets	42.56457	1.66073	AD	02
+El Serrat	42.6183	1.53912	AD	05
+El Seig	42.52782	1.58797	AD	03
+Els Cuiners	42.62806	1.55488	AD	05
+Els Cortals	42.53338	1.58853	AD	00
+Els Corralets	42.56486	1.54481	AD	05
+Els Colls	42.55124	1.52235	AD	05
+Els Collets	42.53745	1.51755	AD	04
+Els Collells	42.56386	1.48328	AD	04
+Els Colells	42.59698	1.69565	AD	02
+Els Colells	42.51487	1.69788	AD	03
+Els Clots	42.57353	1.60914	AD	02
+Els Clots	42.54712	1.44106	AD	04
+Els Caubets	42.55465	1.47674	AD	04
+Els Carabedius	42.46288	1.45798	AD	06
+Els Botaders	42.48333	1.56667	AD	00
+Els Bedres	42.54335	1.48419	AD	04
+Els Becolans	42.62554	1.54181	AD	05
+Els Bassots	42.55745	1.65972	AD	02
+Els Aubells	42.56379	1.54585	AD	05
+Els Astrells	42.5	1.56667	AD	00
+Els Assaladors	42.55635	1.66664	AD	02
+Els Aspres	42.57305	1.45408	AD	04
+Els Aspedius	42.48333	1.53333	AD	00
+El Saquet	42.59881	1.53659	AD	05
+Els Amorriadors	42.51667	1.6	AD	00
+El Riguer	42.48972	1.54661	AD	00
+El Remugar	42.56292	1.5427	AD	05
+El Ramer	42.56878	1.48373	AD	04
+El Ponader	42.53678	1.6084	AD	03
+El Pletiu	42.5	1.6	AD	00
+El Planellet	42.61892	1.52621	AD	05
+El Pla	42.53984	1.58888	AD	03
+El Pas Mal	42.54321	1.64298	AD	03
+El Pardal	42.54911	1.49922	AD	04
+El Palinquero	42.57896	1.65949	AD	02
+El Noguer	42.51092	1.55374	AD	08
+El Mollar	42.53282	1.59311	AD	03
+El Moixeret	42.5801	1.51068	AD	05
+El Meligar	42.5089	1.62562	AD	03
+El Mas	42.57228	1.49383	AD	04
+El Maia	42.56137	1.72854	AD	02
+El Madriu	42.49335	1.58389	AD	08
+El Llempo	42.58002	1.59682	AD	02
+El Jou	42.5642	1.50676	AD	04
+El Griu	42.52872	1.64282	AD	03
+El Fornet	42.55678	1.61138	AD	02
+El Fornell	42.51667	1.51667	AD	00
+El Fornell	42.45	1.5	AD	00
+El Forn	42.5557	1.60914	AD	02
+El Fontanal	42.46667	1.5	AD	00
+El Cubil	42.43333	1.55	AD	00
+El Cubil	42.53434	1.677	AD	03
+El Cresper	42.52483	1.57313	AD	03
+El Cortalet	42.55326	1.51527	AD	04
+El Cortalet	42.51667	1.56667	AD	00
+El Corbater	42.54496	1.707	AD	02
+El Confos	42.51667	1.58333	AD	00
+El Collell	42.45	1.5	AD	00
+El Colitx	42.59107	1.51346	AD	05
+El Clos	42.53468	1.60417	AD	03
+El Castellar	42.63768	1.51298	AD	05
+El Carregador	42.56548	1.53021	AD	05
+El Cardemeller	42.54131	1.4615	AD	04
+El Bullidor	42.54594	1.72068	AD	02
+El Brossos	42.60951	1.52668	AD	05
+El Braibal	42.50758	1.59208	AD	03
+El Bosquet	42.55797	1.52881	AD	05
+El Boscarro	42.46667	1.48333	AD	00
+Cami d'Easagents	42.53349	1.61341	AD	03
+Pleta de Duedra	42.62554	1.49494	AD	05
+Pleta de Duedra	42.61985	1.5637	AD	05
+Plana Duedra	42.59393	1.52289	AD	05
+Planella del Duc	42.45	1.5	AD	00
+Port Dret	42.57398	1.70013	AD	02
+Mas del Diumenge	42.51667	1.53333	AD	00
+Clot del Diable	42.574	1.70302	AD	02
+Devesassa	42.56987	1.60919	AD	02
+Costa de la Devesa	42.55678	1.44669	AD	04
+Bosc de la Devesa	42.5	1.55	AD	00
+Bony de les Deu Hores	42.54076	1.6444	AD	03
+Pleta de Dalt	42.48699	1.42639	AD	06
+Carrera de Dalt	42.56141	1.61241	AD	02
+Serra del Cussol	42.45	1.45	AD	00
+Bosc del Cussol	42.45	1.45	AD	00
+Borda de la Cultiassa	42.53968	1.57208	AD	03
+Obaga del Cultiar	42.55818	1.59927	AD	02
+Cultiar	42.56017	1.59625	AD	02
+Serrat dels Cuiners	42.62983	1.5536	AD	05
+Roc dels Cuiners	42.63065	1.55082	AD	05
+Bosc del Cubol	42.59944	1.7	AD	02
+Costa del Cubil d'Erts	42.58834	1.47992	AD	04
+Bony del Cubil d'Erts	42.59027	1.47488	AD	04
+Solana del Cubil	42.56778	1.4655	AD	04
+Serrat del Cubil	42.55005	1.67878	AD	03
+Riu del Cubil	42.56988	1.47721	AD	04
+Riu del Cubil	42.5562	1.68651	AD	00
+Pla del Cubil	42.54275	1.67404	AD	03
+Pic del Cubil	42.52618	1.45541	AD	00
+Pic Baix del Cubil	42.53021	1.6792	AD	03
+Pic Alt del Cubil	42.52808	1.66867	AD	03
+Obaga del Cubil	42.56545	1.46818	AD	04
+Llac del Cubil	42.53659	1.66966	AD	03
+Port de Caraussans	42.63622	1.47059	AD	00
+Estany de Creussans	42.63484	1.47697	AD	07
+Creussans	42.63355	1.47785	AD	07
+Planell de la Creueta	42.55681	1.54704	AD	05
+Creu de Noral	42.56028	1.54372	AD	05
+Serra de la Creu	42.48333	1.51667	AD	00
+Roc de la Creu	42.57427	1.49523	AD	04
+Borda del Cresper	42.52644	1.57644	AD	03
+Rocs del Cresp	42.58948	1.51791	AD	05
+Roc del Cresp	42.57374	1.48919	AD	04
+Font del Crau	42.60167	1.52878	AD	05
+Pla de la Cot	42.52825	1.46791	AD	04
+Collet de Costasseda	42.48024	1.51012	AD	00
+Bosc de la Costassa	42.55587	1.51734	AD	04
+Font de la Costa Gran	42.51099	1.48764	AD	07
+Bony de la Costa del Sodorn	42.49984	1.46636	AD	07
+Costa de les Neres	42.54421	1.556	AD	04
+Collet de la Costa del Bony Roig	42.59565	1.62152	AD	02
+Ras de la Costa de l'Avier	42.58516	1.49446	AD	04
+Font de la Costa de l'Avier	42.57427	1.539	AD	05
+Roc de la Costa	42.57226	1.47981	AD	04
+Solana del Cosp	42.56802	1.61441	AD	02
+Roca Cosconera	42.48333	1.56667	AD	00
+Font de la Coruvilla	42.58646	1.46701	AD	04
+Borda de la Coruvilla	42.58595	1.46775	AD	04
+Corts d'Ern	42.50328	1.47857	AD	07
+Bosc de les Corts	42.5622	1.5354	AD	05
+Cort d'Esteve	42.59428	1.51974	AD	05
+Cort de Rossell	42.46667	1.48333	AD	00
+Cort Cremada	42.5739	1.52986	AD	05
+Bosc de les Cortanbelles	42.46667	1.45	AD	00
+Cortal Vell	42.57719	1.47075	AD	04
+Cortals de Sispony	42.52647	1.48492	AD	04
+Cortals de Fontaneda	42.45	1.46667	AD	00
+Riu dels Cortals	42.53503	1.58951	AD	03
+Riu dels Cortals	42.5361	1.52369	AD	04
+Carretera dels Cortals	42.5346	1.58863	AD	03
+Cami dels Cortals	42.53807	1.52679	AD	04
+Cami del Cortal de la Serra	42.53761	1.50436	AD	04
+Mas del Cortal	42.56225	1.6003	AD	02
+Bosc de la Corruga	42.57313	1.64287	AD	02
+Font del Correus	42.57173	1.71097	AD	02
+Corrals de la Mentirosa	42.43333	1.51667	AD	00
+Serra dels Corrals	42.55377	1.45318	AD	04
+Serrat de Corpalanca	42.53514	1.47428	AD	04
+Roc dels Corbs	42.5	1.51667	AD	00
+Torrent de les Corbelles	42.54381	1.59139	AD	02
+Roca Corba	42.51667	1.53333	AD	00
+Font del Corb	42.55691	1.46804	AD	04
+Cami del Corb	42.63076	1.51394	AD	05
+Basers del Corb	42.63137	1.52252	AD	05
+Serrat del Corantell	42.53449	1.50605	AD	04
+Roc de la Copa	42.4951	1.45168	AD	07
+Font de Conxa	42.6067	1.64046	AD	02
+Bosc de Conxa	42.60625	1.64261	AD	02
+Solana del Contador	42.48037	1.44219	AD	06
+Font del Coniol	42.5	1.58333	AD	00
+Costa del Congost	42.59722	1.46134	AD	04
+Conangle	42.43339	1.51754	AD	06
+Coms de Jan	42.63333	1.61667	AD	00
+Roc dels Coms	42.62531	1.63707	AD	02
+Planells dels Coms	42.55336	1.61157	AD	02
+Obaga dels Coms	42.48724	1.42469	AD	06
+Font dels Coms	42.45	1.45	AD	00
+Bosc dels Coms	42.53164	1.46255	AD	04
+Riu del Comis Vell	42.63667	1.52189	AD	07
+Comis Vell	42.63748	1.52098	AD	07
+Borda del Comet	42.56667	1.58333	AD	02
+Comes de Banyas	42.55	1.51726	AD	04
+Bosc de Comes Becoses	42.51667	1.58333	AD	00
+Sola de les Comes	42.57626	1.49234	AD	04
+Portell de les Comes	42.49715	1.47095	AD	07
+Borda de les Comes	42.5407	1.58768	AD	03
+Bosc dels Comellassos	42.59785	1.66651	AD	02
+Costa del Comellar Llarg	42.56408	1.63115	AD	02
+Cami del Comellar Llarg	42.56171	1.60932	AD	02
+Clot de la Comellada	42.53411	1.45735	AD	04
+Riu de la Comella	42.5	1.53333	AD	00
+Carretera de la Comella	42.51667	1.55	AD	00
+Bony de Comascura	42.5	1.55	AD	00
+Riu de la Comarqueta d'Incles	42.59568	1.60949	AD	02
+Collet de la Comarqueta d'Incles	42.60254	1.62231	AD	02
+Comarqueta d'Incles	42.60188	1.61635	AD	02
+Tosa de la Comarqueta	42.57671	1.72862	AD	02
+Font de la Comarqueta	42.57514	1.72123	AD	02
+Basers de la Comarqueta	42.57928	1.71942	AD	02
+Riu de la Comarca de les Fonts	42.5964	1.60827	AD	02
+Obaga de la Comarca	42.57096	1.46561	AD	04
+Font de la Comarca	42.56845	1.45058	AD	04
+Riu de Coma Pedrosa	42.58292	1.46473	AD	04
+Pleta de Coma Pedrosa	42.58082	1.44738	AD	04
+Pic de Coma Pedrosa	42.5912	1.44277	AD	04
+Obaga de Coma Pedrosa	42.57781	1.45615	AD	04
+Grau de Coma Pedrosa	42.58084	1.46296	AD	04
+Collet de Coma Pedrosa	42.57946	1.44921	AD	04
+Cami de Coma Pedrosa	42.57819	1.48169	AD	04
+Coma Pedrosa	42.5836	1.44086	AD	04
+Serra de Coma Obaga i Ferreroles	42.60634	1.56145	AD	05
+Solana de Coma Obaga	42.61667	1.55	AD	00
+Serra de Coma Obaga	42.61161	1.56126	AD	05
+Pala de Coma Obaga	42.6088	1.56057	AD	05
+Coma Obaga	42.60138	1.5549	AD	05
+Comangerra	42.56465	1.4974	AD	04
+Coma Estreta	42.59192	1.54931	AD	05
+Coma Estremera	42.51555	1.69295	AD	03
+Col de la Portaneille	42.62109	1.65583	AD	00
+Pics de la Portaneille	42.61858	1.66412	AD	00
+Rocs de Coma de Teix	42.46667	1.46667	AD	00
+Coma de Ransol	42.60066	1.63365	AD	02
+Solana de la Coma dels Llops	42.51667	1.63333	AD	00
+Riu de la Coma dels Llops	42.52655	1.6128	AD	03
+Pleta de la Coma dels Llops	42.51667	1.61667	AD	00
+Cap de la Coma dels Llops	42.50769	1.62525	AD	00
+Bosc de la Coma dels Llops	42.51667	1.61667	AD	00
+Coma dels Llops	42.51306	1.62149	AD	03
+Clot de la Coma del Prat	42.51605	1.47162	AD	04
+Clot de la Coma del Pou	42.51728	1.4787	AD	04
+Riu de la Coma del Mig	42.63619	1.5217	AD	05
+Riu de la Coma del Forat	42.63402	1.49459	AD	05
+Costa de la Coma del Forat	42.63391	1.48195	AD	05
+Coma del Favar	42.51667	1.58333	AD	00
+Clot de la Coma de la Sella	42.51677	1.48524	AD	04
+Sola de la Coma de Cardes	42.58082	1.61365	AD	02
+Tosa de Coma Bella	42.58153	1.68182	AD	02
+Font de Coma Bella	42.45	1.5	AD	00
+Coma Bella	42.44385	1.49915	AD	06
+Planell de Coma Aubosa	42.57891	1.49634	AD	00
+Clot de Coma Aubosa	42.57978	1.49261	AD	04
+Roc de la Coma	42.51667	1.55	AD	00
+Riu de la Coma	42.57875	1.63964	AD	02
+Riu de la Coma	42.45	1.46667	AD	00
+Prats de Coma	42.57263	1.46998	AD	04
+Pont de la Coma	42.54104	1.4696	AD	04
+Collet de la Coma	42.64862	1.52048	AD	00
+Collada de la Coma	42.60808	1.61566	AD	02
+Bosc de Coma	42.52819	1.54572	AD	04
+Bony de la Coma	42.54596	1.52685	AD	04
+Rocs del Colomer	42.53608	1.51494	AD	04
+Collet dels Colls	42.55164	1.52008	AD	00
+Solana de Coll Pa	42.55196	1.43145	AD	04
+Serrat de Coll Pa	42.55167	1.43376	AD	04
+Planell de Coll Pa	42.48333	1.56667	AD	00
+Pic de Coll Pa	42.51287	1.4775	AD	00
+Bosc de Coll Pa	42.48333	1.55	AD	00
+Basers de Coll Pa	42.48333	1.56667	AD	00
+Clot del Collet de Font Podrida	42.58813	1.46651	AD	04
+Cami dels Collells	42.56261	1.47104	AD	04
+Carretera del Coll d'Ordino	42.55487	1.53298	AD	05
+Cami del Coll d'Ordino	42.55727	1.54958	AD	05
+Font del Coll de Vista	42.47741	1.44152	AD	06
+Cami de Coll de Turer	42.57014	1.47994	AD	04
+Cami del Coll dels Isards	42.52354	1.73304	AD	00
+Bony del Coll de l'Era	42.47822	1.44828	AD	06
+Riu del Coll de l'Aquell	42.49133	1.43788	AD	06
+Cami del Coll d'Arenes	42.59367	1.57536	AD	02
+Pala de Coll Carnisser	42.5921	1.47141	AD	04
+Collada de Coll Carnisser	42.59072	1.47613	AD	04
+Prats de Collart	42.5761	1.65307	AD	02
+Bosc de Collart	42.57178	1.66015	AD	02
+La Colladeta	42.54653	1.54755	AD	00
+Bony de les Collades	42.55035	1.52025	AD	00
+Cami de la Collada de Sanfons	42.57687	1.44531	AD	04
+Cami de la Collada d'Enradort	42.53804	1.62447	AD	03
+Cami de la Collada de la Maiana	42.48333	1.61667	AD	00
+Cami de la Collada de Ferreroles	42.6044	1.55888	AD	05
+Clots de la Collada	42.61272	1.61656	AD	02
+Bosc de la Collada	42.51524	1.46815	AD	04
+Planell del Colitx	42.6097	1.51147	AD	05
+Font de la Colilla	42.51667	1.6	AD	00
+Bosc de la Colija	42.59099	1.64186	AD	02
+Riu dels Colells	42.52997	1.69847	AD	03
+Circ dels Colells	42.51599	1.70654	AD	03
+Bosc dels Colells	42.52399	1.70032	AD	03
+Cortal del Coix	42.54125	1.54997	AD	04
+Tartera del Coferony	42.49214	1.45051	AD	06
+Coferony	42.49001	1.45205	AD	06
+Serrat de Codinet	42.51667	1.6	AD	00
+Collada del Clot Sord	42.60048	1.65681	AD	02
+Pala dels Clots d'Entinyac	42.58206	1.69621	AD	02
+Tosa dels Clots de Massat	42.56333	1.70639	AD	02
+Pala dels Clots de Massat	42.57191	1.6991	AD	02
+Bassot dels Clots de Massat	42.56833	1.696	AD	02
+Clots de Massat	42.56564	1.70033	AD	02
+Clots de l'Os	42.57822	1.68887	AD	02
+Font dels Clots de la Llosa	42.61561	1.62366	AD	02
+Font dels Clots	42.55815	1.72915	AD	02
+Pic del Clot del Cavall	42.594	1.49603	AD	00
+Font de la Closa	42.5	1.56667	AD	00
+Pas de la Clau	42.52234	1.62252	AD	03
+Riu de Claror i Perafita	42.5	1.55	AD	00
+Riu de Claror	42.48029	1.56966	AD	08
+Pleta de Claror	42.48333	1.56667	AD	00
+Cami de Claror	42.48333	1.56667	AD	00
+Cabana de Claror	42.47546	1.56958	AD	08
+Claror	42.46473	1.56439	AD	08
+Riu de les Claperes	42.54349	1.51454	AD	04
+Civos	42.45	1.48333	AD	00
+Conreu de Certers	42.47357	1.50767	AD	06
+Certers	42.47457	1.50611	AD	06
+Coll del Cerc	42.46667	1.5	AD	00
+Cementiri	42.56942	1.73124	AD	02
+Costa dell Cell	42.47833	1.48653	AD	06
+Tarteres de la Cebollera	42.62946	1.59033	AD	05
+Riu de la Cebollera	42.62351	1.57729	AD	05
+Portella de la Cebollera	42.63063	1.59592	AD	00
+Pleta de la Cebollera	42.62528	1.58225	AD	05
+Basses de la Cebollera	42.62867	1.58911	AD	05
+Aspres de la Cebollera	42.63333	1.58333	AD	05
+Riu de les Cebes	42.61863	1.58349	AD	05
+Clot del Cavall	42.59192	1.49966	AD	05
+Costa del Caup	42.60275	1.66725	AD	02
+Solana de la Caulla	42.48333	1.53333	AD	00
+Collada de la Caulla	42.481	1.53411	AD	00
+Clots de la Caulla	42.48333	1.53333	AD	00
+Bosc de la Caulla	42.48333	1.53333	AD	00
+Planell de la Caubella	42.53586	1.49092	AD	04
+Torrent de la Cauba	42.54968	1.51112	AD	04
+Roc de la Cauba	42.55907	1.51236	AD	04
+Coll de la Cauba	42.5775	1.61736	AD	02
+Bosc de la Cauba	42.55848	1.51618	AD	04
+Catolla la Guineu	42.46667	1.46667	AD	00
+Pic de Cataverdis	42.61436	1.47578	AD	00
+Roc dels Castells	42.51667	1.55	AD	00
+Riu de les Castelletes	42.45	1.53333	AD	00
+Roc de la Castelleta	42.56333	1.49947	AD	04
+Bosc de la Castelleta	42.53199	1.49586	AD	04
+Bony de la Castelleta	42.53756	1.54025	AD	04
+Font del Casteller	42.53559	1.55014	AD	04
+Sant Vicenc d'Enclar	42.49517	1.49513	AD	07
+Castell dels Moros	42.55842	1.5353	AD	05
+Pleta del Castellar	42.6319	1.5088	AD	05
+Bosc del Castellar	42.63524	1.51033	AD	05
+Bordes del Castellar	42.53023	1.60893	AD	03
+Rocs de Castell	42.46667	1.45	AD	00
+Roc del Castell	42.46667	1.46667	AD	00
+Bosc del Castell	42.59367	1.51643	AD	05
+Coll de les Cases	42.5757	1.49976	AD	00
+Serra de Casamanya	42.57921	1.56615	AD	00
+Riu de Casamanya	42.55766	1.54255	AD	05
+Pic de Casamanya	42.5845	1.56538	AD	00
+Cami de Casamanya	42.56515	1.54597	AD	05
+Casamanya	42.56802	1.55138	AD	05
+Borda del Casadet	42.5677	1.60668	AD	02
+Bordes de la Casa	42.53498	1.61023	AD	03
+Pic de Carroi	42.51397	1.49448	AD	00
+Roc del Carret	42.56386	1.48328	AD	04
+Roc del Carrador	42.5735	1.48466	AD	04
+Bosc del Carpider	42.52625	1.50167	AD	04
+Roca de Carmenus	42.54895	1.61912	AD	02
+Clots de Carmenus	42.54871	1.61696	AD	02
+Riu del Cardemeller	42.54093	1.47111	AD	04
+Borda del Cardago	42.53987	1.57728	AD	03
+Roca de Carcamanya	42.52329	1.56363	AD	03
+Carboneres de Ferrer	42.48333	1.6	AD	00
+Bosc de les Carboneres	42.51667	1.51667	AD	00
+Bony de les Carboneres	42.56791	1.64457	AD	02
+Pleta Carbona	42.63227	1.49799	AD	05
+Planell del Carbo	42.53422	1.4871	AD	04
+Tosa de Caraup	42.60575	1.65284	AD	02
+Planells de Caraup	42.61076	1.64799	AD	02
+Clots de Caraup	42.61473	1.65456	AD	02
+Riu de Cap Torrent	42.52903	1.56979	AD	03
+Pont de Capigol	42.56626	1.67775	AD	02
+Font dels Capellans	42.60175	1.6371	AD	02
+Cortal del Capdevila	42.53435	1.53627	AD	04
+Estany del Cap dels Pessons	42.51238	1.6668	AD	03
+Tosa del Cap del Siscaro	42.5867	1.7173	AD	02
+Cap dels Clots de Massat	42.56932	1.6974	AD	02
+Collada del Cap dels Clots	42.55328	1.63845	AD	02
+Cap dels Clots	42.5544	1.63945	AD	02
+Clot del Cap del Maia	42.56162	1.72181	AD	02
+Pala del Cap de les Tallades	42.61563	1.5518	AD	05
+Cap de les Agols	42.5	1.61667	AD	00
+Cap del Bosc de Moreto	42.54262	1.68551	AD	03
+Cap del Bosc dels Plans	42.58921	1.62191	AD	02
+Cap de la Solana del Forn	42.54889	1.64984	AD	00
+Cap de la Montada	42.56667	1.58333	AD	02
+Tarteres del Cap de la Coma	42.61656	1.47782	AD	05
+Serra del Cap de la Coma	42.61378	1.48349	AD	05
+Alt de la Capa	42.5624	1.45385	AD	04
+Font de les Canyorques	42.58243	1.42878	AD	04
+Coves de la Canya Gran	42.48527	1.45693	AD	06
+Planell de la Canya	42.57536	1.59762	AD	02
+Bosc de la Canya	42.57419	1.59624	AD	02
+Font de Cantallops	42.57128	1.50013	AD	04
+Roc de Canomala	42.57019	1.68174	AD	02
+Santuari de Canolic	42.47382	1.45342	AD	06
+Conreu de Canolic	42.47857	1.45248	AD	06
+Carretera de Canolic	42.48309	1.459	AD	06
+Canolic	42.46921	1.45596	AD	06
+Canillo	42.58333	1.65833	AD	02
+Canillo	42.5676	1.59756	AD	02
+Torrent de la Canadilla	42.53573	1.57593	AD	03
+Cal Toni	42.55861	1.60331	AD	02
+Cal Serra	42.46667	1.5	AD	00
+Cal Ponet	42.56169	1.60401	AD	02
+Cal Patxeta	42.57051	1.59564	AD	02
+Cal Jaumina	42.55751	1.59542	AD	02
+Cal Call	42.55885	1.60431	AD	02
+Cal Borronet	42.56056	1.60708	AD	02
+Cal Borro	42.55853	1.60689	AD	02
+Cal Becaina	42.56265	1.5977	AD	02
+Sola de Calaup	42.58129	1.64292	AD	02
+Font de la Caitanta	42.48333	1.63333	AD	00
+Serrat del Caire Forc	42.54162	1.62339	AD	03
+Riu del Caire Forc	42.54019	1.62087	AD	00
+Caire Forc	42.54012	1.62856	AD	03
+Torrent dels Cacols	42.56386	1.48328	AD	04
+Roc de la Cacarulla	42.54742	1.47948	AD	04
+Collado de Cabris	42.54578	1.41932	AD	00
+Solana de Caborreu	42.43691	1.54852	AD	06
+Riu de Caborreu	42.45	1.53333	AD	00
+Bosc de la Cabeca	42.49238	1.45988	AD	00
+Pleta de la Cabaneta	42.60299	1.60739	AD	02
+Pic de la Cabaneta	42.61325	1.60607	AD	00
+Pic de la Cabaneta	42.58863	1.72679	AD	00
+Bosc de la Cabanella	42.51885	1.46618	AD	04
+Serra de Cabana Sorda	42.61569	1.66163	AD	02
+Riu de Cabana Sorda	42.59852	1.68116	AD	02
+Pleta de Cabana Sorda	42.60739	1.67965	AD	02
+Pales de Cabana Sorda	42.61455	1.66571	AD	02
+Estany de Cabana Sorda	42.61288	1.66982	AD	02
+Cabana Sorda	42.61248	1.66836	AD	02
+Font de la Cabana de l'Eucasser	42.58445	1.6239	AD	02
+Font de la Ca	42.45	1.5	AD	00
+Pla de Buscalls	42.57559	1.64531	AD	02
+Serrat de la Burna	42.59409	1.48725	AD	04
+Pic de la Burna	42.59878	1.48447	AD	00
+Clot de la Burna	42.59186	1.492	AD	04
+Font dels Bullidors	42.46667	1.45	AD	00
+Toll Bullidor	42.58664	1.62414	AD	02
+Pleta del Bruig	42.63458	1.49354	AD	05
+Marrades del Bruig	42.63336	1.49963	AD	05
+Basers del Bruig	42.63874	1.49481	AD	05
+Bruig	42.63718	1.49404	AD	05
+Pic del Brossos	42.61269	1.52048	AD	05
+Cami del Brossos	42.61598	1.53577	AD	05
+Cortal del Bringuer	42.45	1.46667	AD	00
+Cortal de Bringuer	42.52572	1.54017	AD	04
+Borda del Bringuer	42.45	1.48333	AD	00
+Clot dels Brillons	42.46667	1.46667	AD	00
+Brancs de la Farga	42.48333	1.61667	AD	00
+Tosa del Braibal	42.50281	1.59926	AD	00
+Planells del Braibal	42.51667	1.58333	AD	00
+Font del Braibal	42.51667	1.58333	AD	00
+Estany de la Bova	42.48972	1.65284	AD	08
+Costa de Bou Mort	42.46667	1.56667	AD	00
+Plana del Bou	42.45	1.46667	AD	00
+Cortal del Bou	42.45	1.46667	AD	00
+Roc de la Botiffarra	42.48648	1.48113	AD	07
+Col de la Botella	42.54406	1.45318	AD	04
+Bosc del Coll d'Ordino	42.55215	1.55779	AD	05
+Boscarro	42.54279	1.46661	AD	04
+Torrent del Bosc	42.48333	1.45	AD	06
+Pla del Bosc	42.56691	1.66833	AD	02
+Pla del Bosc	42.54833	1.60729	AD	02
+Clot del Bosc	42.43333	1.51667	AD	00
+Boigues de Borro	42.55861	1.60875	AD	02
+Pleta dels Borrecs	42.58871	1.67838	AD	02
+Borrassica	42.49731	1.49418	AD	07
+Pla de Borras	42.53896	1.47857	AD	04
+Bosc del Bornal	42.54017	1.47463	AD	04
+Pla de Bordetes	42.59465	1.66518	AD	02
+Bordes de Ramonet	42.51608	1.5588	AD	08
+Palanca de la Borda del Sabater	42.45	1.48333	AD	00
+Bosc de la Borda del Rauquet	42.59931	1.63307	AD	02
+Borda del Molines	42.49195	1.42992	AD	06
+Borda del Ferrer Nou	42.45	1.48333	AD	00
+Cami de la Borda del Cosp	42.45	1.48333	AD	00
+Borda de l' Alma	42.58943	1.63961	AD	02
+Riu de la Bor	42.57793	1.63423	AD	02
+Gorges de la Bor	42.54575	1.5906	AD	00
+Costa del Bony Roig	42.59332	1.61966	AD	02
+Planades del Bony Negre	42.56958	1.45382	AD	04
+Obaga del Bony de la Costa	42.58111	1.52594	AD	05
+Obaga del Bony	42.5	1.58333	AD	00
+Boiga del Bony	42.56386	1.48328	AD	04
+Boiga del Bony	42.45	1.53333	AD	00
+Pont de Bonavida	42.59814	1.68029	AD	02
+Bombal	42.60294	1.52713	AD	05
+Bosc de la Boixera	42.52946	1.5235	AD	04
+Costa de les Boigues	42.48506	1.46376	AD	06
+Boigots	42.54526	1.54855	AD	04
+Font del Boigot	42.5	1.56667	AD	00
+Bosc de Boiga Plana	42.45	1.45	AD	00
+Font de la Boiga Mitgera	42.5031	1.47569	AD	07
+Serrat de Boiga Gran	42.48794	1.48468	AD	07
+Font de la Boiga del Roi	42.49806	1.47994	AD	07
+Roc de Boiga Curta	42.51667	1.55	AD	00
+Estany Blau	42.49656	1.62162	AD	08
+Roques Blanques	42.4762	1.48145	AD	06
+Rocs Blancs	42.45	1.45	AD	00
+Roca Blanca	42.56688	1.48132	AD	04
+La Porteille Blanche	42.5	1.73333	AD	00
+Font Blanca	42.64774	1.5359	AD	05
+Font Blanca	42.58333	1.58333	AD	02
+Vial Blanc	42.47822	1.49346	AD	00
+Roc Blanc	42.48333	1.53333	AD	00
+Riu Blanc	42.52865	1.57733	AD	03
+Coll Blanc	42.52961	1.72013	AD	02
+Carretera de Bixessarri	42.48175	1.45978	AD	06
+Bixessarri	42.48197	1.46052	AD	06
+Bissets	42.53032	1.52946	AD	04
+Bisset	42.54265	1.52671	AD	04
+Planell del Bisbe	42.48333	1.58333	AD	00
+Font del Bisbe	42.54219	1.45608	AD	04
+Font de la Birena	42.51667	1.51667	AD	00
+Fontanal del Besurt	42.53589	1.48094	AD	04
+Roc del Besso	42.45	1.46667	AD	00
+Font del Besso	42.45	1.48333	AD	00
+Costa de Bescaran	42.4371	1.50519	AD	06
+Portella de Besali	42.63799	1.54489	AD	05
+Pla de Besali	42.63333	1.55	AD	00
+Pic de Besali	42.63784	1.53633	AD	05
+Basers de Besali	42.6349	1.53757	AD	05
+Besali	42.63224	1.535	AD	05
+Clot de les Berques	42.55631	1.48596	AD	04
+Coma Bella	42.57975	1.67997	AD	02
+Riu de la Beixellosa	42.53804	1.53481	AD	04
+Bosc de la Beixellosa	42.53783	1.53785	AD	04
+Collada de Beixalis	42.52908	1.54771	AD	00
+Carretera de Beixalis	42.53126	1.55367	AD	03
+Bosc de Beixalis	42.53169	1.55161	AD	03
+Bordes de Beixalis	42.53199	1.55721	AD	03
+Beixalis	42.53188	1.55277	AD	03
+Comes Becoses	42.51667	1.6	AD	00
+Planell dels Becos	42.61964	1.55917	AD	05
+Bosc del Becet	42.56857	1.5399	AD	05
+Vial del Bec	42.53352	1.46979	AD	04
+Solana dels Batallats	42.57053	1.51097	AD	05
+Roc dels Batallassos	42.56865	1.59616	AD	02
+Coll del Bast	42.48769	1.47663	AD	07
+Basses del Siscaro	42.59573	1.70196	AD	02
+Basses dels Basers	42.58646	1.69944	AD	02
+Pales de les Basses de les Salamandres	42.6097	1.6618	AD	02
+Basses de la Burna	42.592	1.4881	AD	04
+Planell de les Basses	42.55414	1.57591	AD	02
+Pla de la Bassa de les Granotes	42.57673	1.43998	AD	04
+Basers de l'Estany de Mes Amunt	42.6066	1.47297	AD	05
+Basers de Font Blanca	42.65064	1.54459	AD	05
+Coll de Basers	42.50592	1.48288	AD	07
+Baser Negre	42.62477	1.47199	AD	05
+Cap del Baser de la Llonga	42.56123	1.52027	AD	05
+Cap del Baser	42.55566	1.51941	AD	00
+Bosc dels Banys	42.53398	1.49933	AD	04
+Port de Banyell	42.64183	1.57701	AD	00
+Font de Banyell	42.64051	1.56786	AD	05
+Banyell	42.64133	1.56542	AD	05
+Bosc dels Bancs	42.48678	1.46605	AD	06
+Riu del Bancal Vedeller	42.59539	1.45986	AD	04
+Basers del Bancal Vedeller	42.60066	1.45024	AD	04
+Plana del Banc	42.43333	1.5	AD	00
+Font del Baladre	42.58445	1.48336	AD	04
+Pont de la Baladosa	42.60249	1.68643	AD	02
+Baladosa	42.57814	1.67777	AD	02
+Collades Baixes d'Emportona	42.51667	1.65	AD	00
+Collades Baixes	42.5	1.63333	AD	00
+Baixant	42.54715	1.4822	AD	04
+Pleta de Baix	42.51667	1.61667	AD	00
+Pleta de Baix	42.49009	1.42717	AD	06
+Estany de Baix	42.58763	1.70382	AD	02
+Font de Baiter	42.55261	1.50695	AD	04
+Port de Baiau	42.59201	1.43721	AD	00
+Pic de Baiau	42.58333	1.43333	AD	00
+Agulla de Baiau	42.58333	1.43333	AD	00
+Planells de Baell	42.48333	1.6	AD	00
+Font de Baell	42.5	1.61667	AD	00
+Pleta de les Bacives	42.5	1.65	AD	00
+Serra de l'Avier	42.59515	1.49377	AD	00
+Plana de l'Avier	42.59708	1.49494	AD	05
+Obaga de l'Avier	42.48333	1.53333	AD	00
+Costa de l'Avier	42.57774	1.54083	AD	05
+Cami de l'Avier	42.48333	1.55	AD	00
+Bosc de l'Avier	42.48333	1.53333	AD	00
+Torrent de l'Aviar	42.53395	1.57423	AD	03
+Bosc de l'Avetar	42.55318	1.55078	AD	05
+Costa de Avet	42.5	1.56667	AD	00
+Costa de l'Ave Maria	42.61532	1.53201	AD	05
+Sola de l'Avellanet	42.58267	1.4779	AD	04
+Costa dels Avellaners	42.57318	1.61243	AD	02
+Coma Aubosa	42.5784	1.50286	AD	05
+Riu d'Aubinya	42.45	1.48333	AD	00
+Aubinya	42.4531	1.49247	AD	06
+Aubinya	42.45	1.5	AD	00
+Roc de les Aubes	42.51667	1.55	AD	00
+Riu de les Aubes	42.55786	1.54248	AD	05
+Costa de l'Aubell	42.56441	1.52981	AD	05
+Aubaderes	42.50576	1.48777	AD	07
+Roc de l'Auba	42.56728	1.4947	AD	04
+Riu de l'Astrell	42.55885	1.55428	AD	05
+Cap de l'Astrell	42.56503	1.56829	AD	00
+Bosc de l'Astrell	42.56273	1.56289	AD	05
+Assaladors del Planell Gran	42.56974	1.46126	AD	04
+Assaladors de Cabana Sorda	42.60567	1.67403	AD	02
+Bosc de l'Assalador	42.60983	1.64306	AD	02
+Bosc de l'Assalador	42.56893	1.58948	AD	02
+Bosc de l'Assalador	42.57027	1.58667	AD	02
+Serra del Cap dels Aspres de Banyell	42.63659	1.57364	AD	05
+Aspres de Banyell	42.63699	1.57361	AD	05
+Pic dels Aspres	42.57355	1.45119	AD	04
+Rocs de l'Aspra	42.53847	1.52644	AD	04
+Riu de l'Aspra	42.5419	1.54567	AD	04
+Clots de l'Aspra	42.51667	1.63333	AD	00
+Alt de l'Aspra	42.51667	1.65	AD	00
+Torrent dels Aspedius	42.48333	1.53333	AD	00
+Comella Ascura	42.45	1.45	AD	00
+Rocs de l'Ascobet	42.60944	1.504	AD	05
+Serrat de l'Ascladella	42.53428	1.4601	AD	04
+Fontanal de l'Ascladella	42.53312	1.46193	AD	04
+Coma de l'Ascladella	42.56736	1.49086	AD	04
+Torrent dels Artics	42.53757	1.58261	AD	03
+Artic de Capell	42.58243	1.608	AD	02
+Font de l'Artic	42.47846	1.49171	AD	06
+Bony de l'Artic	42.55439	1.54268	AD	05
+Serrat de l'Arna Tova	42.57806	1.47181	AD	04
+Arna Tova	42.5796	1.47284	AD	04
+Bordes de l'Armiana	42.57509	1.60943	AD	02
+Font de l'Arinsola	42.48976	1.4213	AD	06
+Riu d'Arinsal	42.54406	1.51809	AD	04
+Port d'Arinsal	42.60607	1.46635	AD	00
+Arinsal	42.57205	1.48453	AD	04
+Roc de l'Areny	42.56902	1.60281	AD	02
+Rec d'Areny	42.58643	1.46396	AD	04
+Coll d'Arenes	42.59459	1.57462	AD	00
+Font d'Arduix	42.45	1.45	AD	00
+Solana d'Arcavell	42.43333	1.51667	AD	00
+Serra d'Arcalis	42.61577	1.50307	AD	05
+Roc d'Arcalis	42.63333	1.5	AD	00
+Riu d'Arcalis	42.63187	1.50283	AD	05
+Portella d'Arcalis	42.62189	1.4831	AD	05
+Pont d'Arcalis	42.63243	1.49891	AD	05
+Pic d'Arcalis	42.61575	1.4904	AD	05
+Feixans d'Arcalis	42.62893	1.49287	AD	05
+Collades d'Arcalis	42.63007	1.50803	AD	05
+Cabana d'Arcalis	42.62626	1.49465	AD	05
+Basers d'Arcalis	42.61693	1.49608	AD	05
+Port de l'Albeille	42.64783	1.49645	AD	00
+Pont d'Arans	42.58193	1.52006	AD	05
+Arans	42.58226	1.51844	AD	05
+Coll de Laquell	42.48598	1.40959	AD	00
+Anyos	42.53465	1.5251	AD	04
+Bosc Gran de l'Any de la Part	42.55471	1.52178	AD	05
+Planell d'Antonia	42.51667	1.55	AD	00
+Ansalonga	42.56881	1.52198	AD	05
+Serra d'Anrodat	42.62377	1.68535	AD	00
+Pic de la Coume d'Enfer	42.62463	1.6803	AD	00
+Estany d'Anrodat	42.61452	1.68233	AD	02
+Coll d'Anrodat	42.62308	1.69025	AD	00
+Anrodat	42.61791	1.68797	AD	02
+Riu de l'Angonella	42.59518	1.52729	AD	05
+Port de l'Angonella	42.61288	1.47536	AD	00
+Pleta de l'Angonella	42.60683	1.4938	AD	05
+Pas de l'Angonella	42.60739	1.49764	AD	05
+Estret del l'Angonella	42.60657	1.49642	AD	05
+Estanys de l'Angonella	42.60705	1.48439	AD	05
+Basers de l'Angonella	42.61444	1.49237	AD	05
+Pic de les Angleves	42.54349	1.53258	AD	04
+Sola de Angleva	42.56386	1.48328	AD	04
+Planell de Andreuet	42.51667	1.6	AD	00
+Andorra la Vella	42.50779	1.52109	AD	07
+Rec d'Andorra	42.51667	1.51667	AD	00
+Principality of Andorra	42.55	1.58333	AD	00
+Andorra la Vella	42.5045	1.49414	AD	07
+Bosc dels Amorriadors	42.53379	1.48002	AD	04
+Solana de l'Alzinar	42.45	1.48333	AD	00
+Serrat de l'Alzinar	42.48527	1.45585	AD	06
+Rocs Alts	42.56025	1.44091	AD	04
+Costa de l'Alt de la Capa	42.56431	1.45762	AD	04
+Pala Alta	42.60609	1.62435	AD	02
+Terregalls de l'Alt	42.56544	1.45308	AD	04
+Terregalls de l'Alt	42.58773	1.43892	AD	04
+Font de l'Alt	42.56449	1.46185	AD	04
+Cresta de l'Alt	42.59192	1.44817	AD	04
+Les Costes de l'Alt	42.55922	1.4577	AD	04
+Planell dels Alls	42.5	1.6	AD	00
+La Roca de les Allaus	42.62692	1.53034	AD	05
+Bosc de les Allaus	42.53492	1.60065	AD	03
+Sola de l'Allau	42.59396	1.53487	AD	05
+Planell de l'Allau	42.57644	1.68691	AD	02
+Planell de l'Allau	42.51667	1.58333	AD	00
+Cami de l'Allau	42.58439	1.62366	AD	02
+Roc de l'Aliga	42.55697	1.49774	AD	04
+Roc de l'Aliga	42.55315	1.47307	AD	04
+Roc de l'Aliga	42.46667	1.5	AD	00
+Pic de l'Aliga	42.5	1.66667	AD	00
+Pont de l'Aldosa	42.54413	1.51847	AD	04
+Carretera de l'Aldosa	42.57899	1.62954	AD	02
+Pont d'Aixovall	42.4762	1.49184	AD	06
+Aixovall	42.4764	1.48899	AD	06
+Sola d'Aixirivall	42.46667	1.5	AD	00
+Riu d'Aixirivall	42.46667	1.5	AD	00
+Conreu d'Aixirivall	42.46667	1.5	AD	00
+Carretera d'Aixirivall	42.45	1.48333	AD	00
+Bordes d'Aixirivall	42.46063	1.51322	AD	06
+Aixirivall	42.46245	1.50209	AD	06
+Riu Aixec	42.59176	1.67093	AD	02
+Riu Aixec	42.53728	1.5859	AD	03
+Riu d'Aixas	42.48296	1.45983	AD	00
+Bosc d'Aixas	42.48837	1.47444	AD	00
+Aixas	42.48647	1.46838	AD	06
+Aixas	42.48476	1.46744	AD	06
+Clots d'Aixades	42.58005	1.57806	AD	02
+Coll de l'Airola	42.48072	1.46441	AD	06
+Bosc de l'Airola	42.56103	1.57343	AD	02
+Sola d'Airet	42.45	1.45	AD	00
+Bosc d'Aigues Juntes	42.5845	1.46646	AD	04
+Aigues Juntes	42.58344	1.46569	AD	04
+Pont de l'Aiguerola	42.53675	1.61968	AD	03
+Clots d'Aigua Vella	42.60336	1.62758	AD	02
+Basers d'Aigua Vella	42.60599	1.63074	AD	02
+Riu d'Aiguarebre	42.60289	1.51428	AD	05
+Planell d'Aiguarebre	42.60721	1.51577	AD	05
+Costa d'Aiguarebre	42.61465	1.50951	AD	05
+Costa dels Aiguaders	42.49263	1.43479	AD	06
+Presa d'Aigua	42.5	1.58333	AD	00
+Font de Les Agunes	42.58217	1.47369	AD	04
+Borda de les Agunes	42.58262	1.47144	AD	04
+Planell de les Agudelles	42.57446	1.54414	AD	05
+Pont dels Agrels	42.54432	1.48201	AD	04
+Serrat de l'Agraullet	42.53088	1.54061	AD	04
+Riu de les Agols	42.53728	1.5859	AD	03
+Coll dels Abos	42.62345	1.52501	AD	05
+Riu de l'Abeurador	42.5792	1.64814	AD	02
+Clot de les Abelletes	42.52413	1.72564	AD	02
+Costa de l'Abalancc	42.52798	1.53855	AD	04
+Collado de Satut	42.46667	1.65	AD	56
+Riu d'Os	42.4757	1.49141	AD	00
+Port Negre	42.45808	1.5654	AD	56
+Port de Perafita	42.46667	1.58333	AD	00
+Pla de Mossers	42.45	1.45	AD	00
+Cami de la Moixella	42.45	1.48333	AD	00
+Riu de l'Espeluga	42.5423	1.44081	AD	00
+Collada dels Clots de la Tora	42.45021	1.58341	AD	56
+Caumer	42.46667	1.45	AD	00
+Collada Canolic	42.46158	1.4464	AD	00
+Torrent de Bixec	42.43333	1.46667	AD	00
+Plana d'Alfa	42.48342	1.41164	AD	00
+Serra Airosa	42.45	1.56667	AD	00
+Roca d'Aill	42.46667	1.45	AD	00
+Escaldes-Engordany	42.5	1.56667	AD	08
+Eurotel	42.51286	1.53552	AD	07
+Coma	42.559	1.533	AD	07
+Magic La Massana	42.546	1.518	AD	07
+Art	42.5062	1.5216	AD	07
+Novotel Andorra	42.50762	1.52734	AD	07
+Roc del Sola	42.505	1.514	AD	07
+L'Angel Blanc	42.577	1.667	AD	07
+Refugi dels Isards	42.50616	1.5289	AD	07
+Panorama	42.507	1.535	AD	07
+Font d'Argent	42.542	1.732	AD	03
+Reial Pirineus	42.5405	1.7313	AD	
+Hotansa Himalaya	42.5405	1.7313	AD	
+F and G La Cabana	42.551	1.533	AD	07
+Pic Maia	42.5075	1.5218	AD	07
+Marco Polo	42.5411	1.5191	AD	07
+Confort Pas de la Casa	42.5413	1.7326	AD	
+Magic Pas	42.54303	1.73188	AD	
+Font del Marge	42.5043	1.5146	AD	07
+Alaska	42.61877	1.53922	AD	07
+President	42.502	1.512	AD	07
+Himalaia Soldeu	42.57647	1.66873	AD	07
+Piolets	42.5769	1.66776	AD	07
+Servissim	42.566	1.596	AD	07
+Artic	42.5054	1.5183	AD	07
+Magic Ski	42.54557	1.51746	AD	07
+Residence Deusol	42.6195	1.5389	AD	07
+HUSA Centric	42.5087	1.5283	AD	07
+HUSA Xalet Besoli	42.5718	1.4843	AD	07
+Husa Xalet Verdu	42.571	1.4715	AD	07
+Sercotel Magic Andorra	42.5091	1.5297	AD	07
+Hesperia Andorra la Vella	42.5089	1.5289	AD	07
+MERCURE ANDORRA 4	42.5	1.5166	AD	07
+ROC DE CALDES	42.51065	1.54706	AD	07
+METROPOLIS	42.5166	1.55	AD	07
+DIPLOMATIC	42.50521	1.52715	AD	07
+EUREKA	42.50873	1.53989	AD	07
+CASSANY	42.50798	1.5248	AD	07
+ANDORRA PALACE	42.50837	1.52706	AD	07
+ANNAPURNA	42.55768	1.53255	AD	07
+BRINGUE	42.55768	1.53255	AD	07
+CO PRINCEPS	42.46815	1.49329	AD	06
+Diana Parc	42.5444	1.5115	AD	07
+Diana parc	42.61886	1.53939	AD	07
+Font d'argent Canillo	42.57086	1.60782	AD	
+GRAU ROIG	42.5327	1.70116	AD	
+Husa Patagonia	42.57139	1.48566	AD	07
+Ibis Andorra	42.51252	1.55059	AD	07
+Les closes	42.5087	1.53993	AD	07
+L Isard	42.50775	1.52288	AD	07
+Paris	42.528	1.56927	AD	
+Pere D Urg	42.5347	1.58012	AD	
+Rialb	42.61886	1.53939	AD	07
+Rutllan	42.54738	1.51345	AD	04
+Sant Eloi	42.45793	1.48717	AD	
+Shusski	42.5338	1.58577	AD	
+Solana	42.58099	1.5193	AD	
+Somriu Comapedrosa	42.58099	1.5193	AD	
+Somriu Galanthus	42.5769	1.66776	AD	07
+Les Terres	42.57916	1.63023	AD	
+SOMRIU SEGLE XX	42.58118	1.63827	AD	
+SOMRIU SOLANA DEL RANSOL	42.58002	1.64432	AD	07
+SOMRIU TIVOLI	42.5076	1.53223	AD	07
+Somriu Vall Ski	42.57723	1.66752	AD	07
+APARTAMENTS TURISTICS GLAC	42.58	1.64623	AD	07
+Carlemany	42.509	1.538	AD	07
+Cims Andorra	42.5085	1.5307	AD	07
+Folch	42.471	1.493	AD	06
+Phoebus	42.54103	1.72985	AD	03
+Pol	42.465	1.491	AD	06
+Subira	42.632	1.5	AD	
+Vip Plus	42.535	1.588	AD	
+Del Tarter	42.58035	1.64893	AD	07
+APARTAMENTOS XIXERELLA	42.55309	1.48746	AD	04
+APARTAMENTS GLA	42.56	1.67396	AD	
+COMA BELLA	42.46487	1.49115	AD	06
+CONFORT SOLDEU	42.5769	1.66776	AD	07
+CORAY	42.535	1.584	AD	
+Del Clos	42.6187	1.5392	AD	07
+EL XALET	42.58035	1.64892	AD	07
+ELS LLACS	42.56012	1.68173	AD	
+ELS MENERS	42.566	1.596	AD	07
+Espel	42.509	1.542	AD	07
+Euro Ski	42.6187	1.5392	AD	07
+Guillen	42.536	1.583	AD	
+HOTANSA AUSTRIA	42.56012	1.68173	AD	
+IGLU	42.53263	1.70035	AD	
+KANDAHAR	42.5413	1.7325	AD	03
+L OBAGA BLANCA	42.5617	1.60352	AD	
+MONTECARLO	42.528	1.569	AD	
+Naudi	42.6187	1.5392	AD	07
+NORDIC	42.58035	1.64892	AD	07
+Palome	42.56148	1.49741	AD	07
+PARADIS BLANC	42.54152	1.73378	AD	
+RUTLLAN XALET DE MUNTANYA	42.54791	1.51319	AD	04
+SANT BERNAT APARTMENTS	42.56609	1.5967	AD	07
+Solana de ransol	42.57831	1.6352	AD	
+Soldeu Maistre	42.5769	1.66776	AD	07
+ST GOTHARD	42.5723	1.484	AD	07
+Univers	42.53647	1.58195	AD	
+Velvet	42.7467	1.7081	AD	
+Xalet Montana	42.57701	1.66627	AD	07
+andorra magica	42.50727	1.52202	AD	07
+Apartamentos L Angel Blanc	42.577	1.667	AD	07
+Apartamentos Giberga	42.552	1.51081	AD	
+Magic Canillo Apartments	42.5669	1.60041	AD	02
+Apartaments Sant Roma	42.5736	1.48311	AD	
+Saporo	42.5432	1.73327	AD	03
+Caldea Centre Termoludic d' Andorra	42.5117	1.5367	AD	07
+Residencia Daina	42.5615	1.49775	AD	
+La Margineda	42.48599	1.49024	AD	07
+Parc Infantil	42.51047	1.53755	AD	
+Sant Pere Martir	42.50891	1.54165	AD	
+Incles	42.58285	1.66267	AD	02
+Bordes d'Envalira	42.55962	1.68576	AD	02
+Sant Miquel d'Engolasters	42.51119	1.55987	AD	08
+Serra del Forn	42.6355	1.58119	AD	
+Serra de la Cebollera	42.633	1.58795	AD	
+Cap dels Graus	42.6208	1.55893	AD	05
+Bordes de Galliner	42.56746	1.47488	AD	04
+Forat dels Horts	42.59189	1.52321	AD	05
+Marrades de Riba Escorjada	42.57379	1.6253	AD	02
+El Siscar	42.59245	1.71791	AD	02
+Sant Jordi	42.50643	1.51844	AD	07
+Frontera Blanca	42.53943	1.73343	AD	03
+Florida	42.50876	1.52222	AD	07
+Fenix	42.50991	1.53954	AD	08
+Husa Imperial	42.46947	1.49267	AD	06
+Boston	42.57353	1.51817	AD	05
+Eurostars Andorra Centre	42.50796	1.52473	AD	07
+Pierre & Vacances Andorra El Tarter	42.58025	1.65126	AD	03
+La Pleta 3000	42.58146	1.66424	AD	02
+Tarter Pirineos 3000	42.58026	1.65073	AD	03
+Ordino 3000	42.58279	1.51881	AD	05
+Anem 3000	42.5801	1.51884	AD	05
+Tropical	42.50925	1.54553	AD	08
+Deusol 3000	42.58278	1.66261	AD	02
+Paris Londres	42.5116	1.54829	AD	08
+Iceberg	42.5117	1.53472	AD	07
+Oriol	42.5092	1.53972	AD	08
+Cibos 3000 Apts	42.46579	1.49216	AD	06
+Apartamentos Bonet	42.54464	1.47521	AD	04
+Vita Arinsal	42.58113	1.51928	AD	05
+Del Bisset	42.54356	1.52339	AD	04
+Niunit	42.61886	1.53939	AD	05
+El Pradet	42.61923	1.5387	AD	05
+Babot	42.54997	1.53504	AD	04
+La Planada	42.55475	1.53242	AD	05
+Anem-Antic 3000 Apts	42.55546	1.53345	AD	05
+Sant Miquel	42.56876	1.52229	AD	05
+Alpha	42.52828	1.56929	AD	03
+Vias Ferratas	42.53635	1.58888	AD	03
+K2 Apartments	42.53521	1.58225	AD	03
+Apartamentos Solana De Ransol	42.58097	1.63919	AD	02
+Tarter Pirineos 3000 Apts	42.57981	1.65076	AD	03
+La Merceria 3000 Apts	42.57982	1.65075	AD	03
+Karting Mac Gene	42.57882	1.64707	AD	03
+Parador Canaro	42.57947	1.65967	AD	03
+La Serrera Apartamentos	42.56665	1.59946	AD	02
+Valmar	42.50846	1.53272	AD	07
+Domus Apartamentos	42.50664	1.5289	AD	07
+Hotansa Cervol	42.50306	1.51347	AD	07
+Maragall Apartaments	42.50743	1.5302	AD	07
+Pyrenees	42.50738	1.51977	AD	07
+Anem.Com	42.58254	1.51869	AD	05
+L'era Apartamentos - Casa Sigarro	42.53521	1.58225	AD	03
+Somriu Eurotel	42.51377	1.53305	AD	07
+Somriu Cassany	42.5078	1.52475	AD	07
+Casa Rural De Les Arnes	42.53627	1.58302	AD	03
+Casa Mariola	42.56502	1.52754	AD	05
+Borda Del Molla	42.53627	1.58302	AD	03
+Crest	42.57207	1.48391	AD	04
+Sapporo Apartamentos	42.5347	1.58012	AD	03
+Ona Dorada El Tarter	42.5819	1.63898	AD	02
+Casa Canut	42.5087	1.53938	AD	07
+Apartments Superior El Tarter	42.56665	1.59946	AD	02
+Apartamentos Cibos	42.45985	1.49219	AD	06
+La Pleta De Soldeu 3000	42.58055	1.66401	AD	03
+Pyranaes	42.50738	1.51977	AD	07
+Alberg La Comella	42.5	1.516	AD	07
+La Mola	42.53421	1.58073	AD	03
+Del Meligar	42.533	1.577	AD	03
+Onix	42.52828	1.56929	AD	03
+Micolau	42.57186	1.48443	AD	04
+Marvel Arinsal	42.57133	1.48615	AD	04
+Apartamentos La Neu	42.59624	1.52683	AD	05
+Zenit Diplomatic	42.5048	1.5245	AD	07
+Apartamentos Ordino 3000	42.55577	1.53313	AD	05
+Sucara	42.57414	1.51849	AD	05
+Canillo 3000	42.56665	1.59946	AD	02
+Apartamentos Tarter Classic 3000	42.57983	1.65073	AD	03
+Apartamentos Arans 3000	42.58244	1.51799	AD	05
+Pierre & Vacances Andorra El Peretol	42.56665	1.59946	AD	02

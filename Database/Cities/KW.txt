@@ -1,0 +1,751 @@
+Dulay` Zunayf	28.99944	48.07417	KW	00
+Ra's az Zawr	28.74333	48.39639	KW	04
+Jal az Zawr	29.51278	47.8075	KW	00
+Dawhat az Zawr	28.80833	48.31667	KW	00
+Baniyat az Zawr	28.76056	48.3075	KW	04
+Hisu az Zaby	29.75	47.66667	KW	00
+Qulban Yasin	29.28333	47.65	KW	00
+Ra's al Yahi	29.40333	48.36222	KW	02
+Mushash Wawi	28.55	48.15	KW	00
+Jazirat Warbah	29.99389	48.06667	KW	05
+Tall Warah	29.01667	47.96667	KW	00
+Warah	28.98333	47.95	KW	00
+Makhfar al Wafrah	28.64528	47.93056	KW	00
+`Ushaysh al Jahra'	29.31583	47.66389	KW	00
+Ra's `Ushayrij	29.38528	47.84444	KW	02
+Qit`atayn `Ushayrij	29.40083	47.81556	KW	00
+`Ushayrij	29.35	47.8	KW	00
+`Ushayrij	29.36306	47.78556	KW	00
+Qit`at `Urayfijan	28.99639	48.25556	KW	00
+Makhfar `Urayfijan	28.84806	48.05778	KW	00
+Banaya `Urayfijan	28.79889	48.19667	KW	00
+`Urayfijan	28.9	48.18333	KW	00
+`Urayfijan	28.9	48.18333	KW	00
+`Urayfijan	28.875	48.14167	KW	00
+Umm Tuwaynij	29.29417	47.60833	KW	00
+Thamilat Umm Safq	28.6625	48.13806	KW	00
+Markaz Umm Safq	28.65806	48.10083	KW	00
+Umm Safaq	28.93389	48.05222	KW	00
+Umm Ruqaybah	29.42833	47.75361	KW	00
+Umm Rujm	29.38222	47.35306	KW	00
+Umm Rujm	29.29722	47.67778	KW	00
+Umm Qudayr 1	28.85	47.68333	KW	00
+Thamilat Umm Qudayr	28.94722	47.76444	KW	00
+Umm Qudayr	28.915	47.72	KW	00
+Umm Qudayr	28.88333	47.71667	KW	00
+Umm Qasabah	28.98333	48.16667	KW	00
+Umm Qasbah	28.99222	48.16556	KW	00
+Umm Niqqa	29.95	47.85	KW	00
+Umm Niqqa	30.03	47.84444	KW	00
+Umm Niqqa	29.94861	47.8675	KW	00
+Umm Khurjayn	28.71667	48.18333	KW	00
+Khabrat Umm Irtah	29.45	47.41667	KW	00
+Umm Artah	29.43444	47.43028	KW	00
+Khabrat Umm `Imarat Mahzul	29.23333	46.88333	KW	00
+Umm `Imarat ash Shaqq	29.11667	47.15	KW	00
+Umm `Imarat ar Ruq`i	29.13333	47.16667	KW	00
+Umm Hujul	28.60306	47.70972	KW	00
+Umm at Tanak	29.56667	47.43333	KW	00
+Khabrat Umm Arta ad Dikakah	29.53333	47.36667	KW	00
+Khabrat Umm ar Ruwaysat	29.43333	47.03333	KW	00
+Umm ar Ruwaysat	29.58333	47.01667	KW	00
+Umm ar Ruwaysat	29.55	47	KW	00
+Khabrat Umm ar Rus	29.21667	47.55	KW	00
+Umm ar Rus	29.2	47.55	KW	00
+Umm ar Rimam	29.56667	47.81667	KW	00
+Jazirat Umm an Naml	29.38167	47.86694	KW	05
+Umm al Qawati	29.56056	47.46028	KW	00
+Umm al Qashish	29.35	47.8	KW	00
+Jazirat Umm al Maradim	28.67833	48.65278	KW	02
+Khabrat Umm al Madafi`	29.8175	47.29	KW	00
+Umm al Madafi`	29.78861	47.36444	KW	00
+Umm al Lihud	29.12528	47.85278	KW	00
+Khabrat Umm al Jathathil	29.1325	47.51667	KW	00
+Umm al Jathathil	29.09639	47.50917	KW	00
+Khabrat Umm al Hiran	29.41667	47.23333	KW	00
+Umm al Fala	28.76667	48.175	KW	00
+Khabrat Umm al `Aysh	29.76833	47.77194	KW	00
+Umm al `Aysh	29.79	47.64444	KW	00
+Umgharah	29.3	47.73333	KW	00
+Khashm al `Udhaybah	29.63333	47	KW	00
+Udayri` al Hisn	29.56667	47.7	KW	00
+Udayri` al Hamd	29.58333	47.58333	KW	00
+Thamilat Turki	28.78111	47.85722	KW	00
+Tiyan	29.71667	48.05	KW	00
+Thamilat ath Thawilah	28.66111	48.13472	KW	00
+Khabrat ath Thamilah	29.36667	47.51667	KW	00
+Thamamiyah	28.59917	48.12278	KW	00
+Umm al `Aysh	29.02556	48.57583	KW	07
+Tall Suwayrah	29.3	47.91667	KW	00
+Markaz as Sur	28.56056	47.71611	KW	00
+Dulay`at as Sur	28.57056	47.78	KW	00
+Shiqqat as Suqayhiyah	29.68611	47.10583	KW	00
+Sulah	28.73333	48.31667	KW	00
+Sukhaybiriyat	29.97444	47.53083	KW	00
+Khabrat Sidrah	29.6	47.4	KW	00
+Qalib ash Shuyukh	29.22778	47.90889	KW	00
+Bandar ash Shuwaykh	29.33639	47.89056	KW	00
+Mushash ash Shunayti	28.88583	48.025	KW	00
+Dulay` ash Shunayti	28.85833	48.04167	KW	00
+Shumaymah	29.61778	48.15056	KW	05
+Mina' ash Shu`aybah	29.04472	48.15917	KW	00
+Shamimah	29.7	48.08333	KW	00
+Sanam al Baqarah	28.71028	47.785	KW	00
+Markaz Hudud as Salmi	29.1	46.67917	KW	00
+Safawi	28.91722	48.04806	KW	00
+Sa`d wa Sa`id	29.43222	48.28139	KW	02
+Ra's as Sabiyah	29.51306	48.16417	KW	05
+Khawr as Sabiyah	29.64167	48.15056	KW	05
+Darb ar Ruq`i	29.13333	47	KW	00
+Sha`ib Rujm al Jahtan	28.96	47.64333	KW	00
+Sha`ib ar Rukham	29.73389	48.00333	KW	05
+Ra's ar Ruwaysiyah	29.47472	48.31111	KW	02
+Ra's al Yahi	29.38333	48.46667	KW	00
+Markaz ar Radifah	28.91694	47.55194	KW	00
+Khabrat ar Radifah	28.91056	47.59611	KW	00
+Fasht Qushayr	29.45	47.81667	KW	00
+Qurayyah 1	28.68333	47.61667	KW	00
+Qurayn 1	28.7	48	KW	00
+Qurayniyah	29.45611	48.33472	KW	02
+Qalib Quraynis	28.80917	47.79861	KW	00
+Khabra' Quraynis	28.69111	47.60139	KW	00
+Makhfar Quraynis	28.69028	47.61583	KW	00
+Makhfar al Qurayn	28.80417	48.03472	KW	00
+Khawr al Qurayn	28.71611	47.97556	KW	00
+Jazirat Qurayn	29.35444	47.90972	KW	02
+Mushash al Qurayn	28.76694	48.0325	KW	00
+Al Qurayn	28.77	47.97306	KW	00
+Quradan	28.58333	48.3	KW	00
+Qulaysiyah	29.25	48.08333	KW	00
+Qulay`at al Harar	28.89528	48.25222	KW	00
+Qulay`at al `Abid	28.90722	48.22361	KW	00
+Ra's al Qulay`ah	28.875	48.29167	KW	00
+Ra's al Qihhah	29.42861	48.26917	KW	02
+Ra's al Qayd	29.79778	48.36583	KW	00
+Qutqatai	29.03333	48.1	KW	00
+Qasr as Sabiyah	29.57333	48.17139	KW	05
+Khabrat al Qasr	29.28333	47.3	KW	00
+Mushash Qar`ut	28.795	48.07306	KW	00
+Jazirat Qaruh	28.82	48.77417	KW	00
+Qar`ah	29.13333	48.1	KW	00
+Jalib ash Shuyukh	29.25861	47.92417	KW	00
+Shiqqat al Qalib	29.59972	47.23083	KW	00
+Khabrat al Qalib	29.64611	47.32306	KW	00
+Qalamat al Manaqish	28.9525	47.5875	KW	00
+Kahlulah	29.29611	47.35444	KW	00
+Khawr al Qad	29.73111	48.36944	KW	00
+Qabji	29.05	48.06667	KW	00
+Palinurus Shoal	29.66667	48.66667	KW	00
+Markaz an Nuwaysib	28.54278	48.38917	KW	04
+Mushash an Nuwa`imah	28.61583	48.04833	KW	00
+An Nuqrah	29.3375	48.01056	KW	00
+Khawr an Nahm	28.60556	48.39444	KW	04
+Dulay` an Nuhaydayn	29.23389	48.05972	KW	00
+An Nuhaydayn	29.27306	47.45778	KW	00
+North Fuwaris I	28.6	47.8	KW	00
+Sha`ib an Na`ayim	29.4	47.16667	KW	00
+Haql Mutribah	29.9025	47.28306	KW	00
+Bi'r Mutribah	29.9	47.28333	KW	00
+Mutribah	29.92333	47.25889	KW	00
+Mutayr	29.2	46.85	KW	00
+Khabrat al Mutayli	29.39194	47.6025	KW	00
+Al Mutawwa`iyah	29.73222	48.08361	KW	00
+Mu`taridah	29.46667	47.73333	KW	00
+Muslan	29.03333	47.88333	KW	00
+Qasr Mushrif	29.28361	48.03861	KW	00
+Khabrat Musay`id	29.28333	47.36667	KW	00
+Dulay`at Musay`id	29.32667	47.39861	KW	00
+Rujm Muslan	29.06667	47.88333	KW	00
+Mushash Muslan	29.03889	47.95389	KW	00
+Muraytibah	29.32639	47.65722	KW	00
+Murayr	29.03333	48.1	KW	00
+Mulkashi	29.33333	47.81667	KW	00
+Mujaylis	29.58861	47.74667	KW	00
+Muhayzil	29.33333	46.85	KW	00
+Qulban Mughayrah	29.62611	48.01333	KW	00
+Mughatti	29.61667	48.08333	KW	00
+Khawr al Mufattah	28.64611	48.37889	KW	04
+Mudayyarah	29.55	47.9	KW	00
+Mudayyarah	29.565	47.90833	KW	00
+Kasr Mudayrah	28.93056	48.775	KW	00
+Mubghir	28.6	48.16667	KW	00
+Mubghir	28.60833	48.21667	KW	00
+Mu`ayzilat	28.94306	48.095	KW	00
+Khabrat al Mityahah	29.21667	46.95	KW	00
+Makhfar al Mirfi	29.49833	47.72222	KW	00
+Mina' az Zawr	28.73333	48.38667	KW	04
+Az Zawr	28.7375	48.37278	KW	04
+Mina' al Ahmadi	29.06389	48.14194	KW	00
+Mina' `Abd Allah	29.01694	48.16028	KW	00
+Mushash Milh	29.08333	47.98333	KW	00
+Khawr al Milh	29.96694	48.09778	KW	00
+Khabrat al Mijmad	29.41639	47.56028	KW	00
+Dulay` al Mijmad	29.45056	47.58944	KW	00
+Markaz al Mazra`ah	28.5475	48.115	KW	00
+Rujm al Mazari`	29.01667	48.03333	KW	00
+Markaz al Matla`	29.39444	47.62278	KW	00
+Khabrat al Matla`	29.40222	47.63278	KW	00
+Jazirat Miskan	29.48472	48.25139	KW	02
+Mazar al Khidr	29.46917	48.28722	KW	02
+Ra's al Manqaf	29.10444	48.13917	KW	00
+Manifah	29.16083	48.08111	KW	00
+Manaqish 1	28.93333	47.6	KW	00
+Thamilat al Manaqish	28.96667	47.56667	KW	00
+Khawr al Mamlahah	28.65167	48.38056	KW	04
+Mahzul	29.29722	46.84	KW	00
+Madaniyah 1	29.15	47.85	KW	00
+Lu'lu'	28.64611	49.41056	KW	00
+Khabrat al Liyah	29.61667	47.53333	KW	00
+Jal al Liyah	29.61139	47.52611	KW	00
+Jal al Liyah	29.4925	47.1725	KW	00
+Ra's al Liwan	29.39278	48.38722	KW	02
+Kuwaykib	29.48333	47.7	KW	00
+Khalij Al-Kuwait	29.41667	48.08333	KW	00
+State of Kuwait	29.5	47.75	KW	00
+Kola Patch	29.28333	48.1	KW	00
+Kira` al Maru	29.43583	47.32778	KW	00
+Khuwaysat	29.38333	47.68333	KW	00
+Khuwaysat	29.37667	47.70194	KW	00
+Rawdat Khuraym	29.69667	47.79472	KW	00
+Khawr al Mufattah	28.65	48.38333	KW	00
+Rujm Khashman	29.18056	47.85111	KW	00
+Khashman	29.25	47.85	KW	00
+Khabrat Khashm al `Ifri	29.35	47.38333	KW	00
+Mushash Khalifah	29.26667	48.08333	KW	00
+Radifat Khabrat `Ayda	29.53333	47.43333	KW	00
+Ra's Kazimah	29.3975	47.74306	KW	00
+Dawhat Kazimah	29.38389	47.725	KW	00
+Kazimah	29.42194	47.73278	KW	00
+Kazimah	29.40528	47.745	KW	00
+Kayfan	29.31667	48.05	KW	00
+Kayfan	29.34139	47.96333	KW	00
+Karadi	29.3	48.01667	KW	00
+Thamilat Kabd	29.12583	47.63028	KW	00
+Al Kabd	29.14361	47.62806	KW	00
+Thamilat al Juwaysiri	29.33333	47.46667	KW	00
+Qulban Al Juwayhil	29.09861	47.82778	KW	00
+Markaz Julhum	28.83167	47.60167	KW	00
+Markaz al Julaydah	28.54667	48.20278	KW	00
+Judayliyat	29.35	47.8	KW	00
+Ju`aydan	28.96667	47.96722	KW	00
+Jirthamah	29.31667	47.81667	KW	00
+Jirishan	29.96667	47.16667	KW	00
+Fasht al Jathir	29.38944	47.73361	KW	00
+Janub as Surrah	29.26917	47.97806	KW	07
+Jalib ash Shuyukh	29.26667	47.93333	KW	00
+Rujm al Jahtan	28.9625	47.69611	KW	00
+Jadadiyah	29.25	47.86667	KW	00
+Khawr Iskandar	28.62028	48.38556	KW	04
+`Uqlat Ibn Suqayyah	29.65694	47.07694	KW	00
+Shaqqat Ibn Suqayh	29.65	47.11667	KW	00
+Thamilat Ibn Hadbah	29.03333	47.61667	KW	00
+Ibn Dabbus	29.03333	48.01667	KW	00
+Mushash Ibn `Awsaj	28.88583	48.21139	KW	00
+Markaz al Huzaym	28.54194	48.2775	KW	00
+Shiqqat al Huwaymiliyah	29.80083	47.18833	KW	00
+Hut 1	28.7	49.025	KW	00
+Hunayzil	29.2	48.1	KW	00
+Hulw	29.03333	48.05	KW	00
+Mushash Hulayyil	28.91778	48.01194	KW	00
+Hisu az Zaby	29.7675	47.71333	KW	00
+Ra's al Himarah	28.58083	48.40139	KW	04
+Hadd al Himarah	28.56111	48.4175	KW	04
+Radifat Hawmah	29.5325	47.13833	KW	00
+Khabrat Hawmah	29.58333	47.18333	KW	00
+Hawmah	29.57444	47.10889	KW	00
+Khawr Hawban	29.48083	47.59139	KW	00
+Muhafazat Hawalli	29.3	48.05	KW	08
+Hawalli	29.33278	48.02861	KW	08
+Haswan	29.78333	48.01667	KW	00
+Hamran	29.48944	47.77056	KW	00
+Sha`ib al Hamatiyat	29.13333	47.4	KW	00
+Bahrat al Hafirah	28.58333	48.25	KW	00
+Fasht al Hadibah	29.41667	47.96667	KW	00
+Ghudayy	29.48333	47.81667	KW	00
+Ghudayy	29.41722	47.75833	KW	00
+Jazirat Faylaka	29.44056	48.33472	KW	02
+Markaz al Fawaris	28.55167	47.8325	KW	00
+Khawr al Fawaris	28.585	47.80806	KW	00
+Dulay`at al Fawaris	28.62583	47.81556	KW	00
+Shiqqat ad Duwayjah	29.58778	47.09944	KW	00
+Duwaydat	28.58278	48.39917	KW	04
+Duwaydat	28.585	48.39694	KW	00
+Durrah	28.8	49.23333	KW	00
+Dulay` Su`ud	29.20111	48.11111	KW	00
+Thamilat ad Dughmah	28.81611	47.85972	KW	00
+Khabrat Du`ayj	29.45722	47.535	KW	00
+Dikakat Milwah	29.47806	47.26333	KW	00
+Khabrat Julhum	28.85861	47.61639	KW	00
+Dasmah	29.05	48.05	KW	00
+Baniyat ad Dasht	28.855	48.195	KW	00
+Darub	29.53306	48.17361	KW	00
+Dant	29.16667	48.11667	KW	00
+Dulay`at ad Dab`ah	29.09667	47.56222	KW	00
+Al Burqan	28.91806	47.9775	KW	00
+Dulay` Buqay`	28.61667	48.16667	KW	00
+Khawr Bubiyan	29.99528	48.1625	KW	00
+Jazirat Bubiyan	29.76972	48.25556	KW	05
+Sha`ib Bin Hadmah	29.06472	47.6	KW	00
+Baniyat as Sawa`idi	29.115	46.94833	KW	00
+Mushash Baniyah	28.78917	48.14056	KW	00
+Banaya al Khiran	28.61667	48.36667	KW	00
+Jabal al Banaya	28.65972	48.38667	KW	00
+Khabrat al Ba`l	29.31083	47.63556	KW	00
+Bahrat Mawshan	30.08333	47.41667	KW	00
+Mushash al Bahrah	29.03333	48.06667	KW	00
+Az Zawr	29.4425	48.27472	KW	02
+Khabrat az Zaqlah	29.43556	47.64306	KW	00
+Az Zaqlah	29.41917	47.60278	KW	00
+Zahr al `Adal	29.14917	48.04361	KW	00
+Fasht al Ayk	29.75	48.51667	KW	00
+Khabrat `A'idah	29.56222	47.40861	KW	00
+Sha`ib al `Awja'	29.55	47.68333	KW	00
+Jazirat `Awhah	29.37778	48.43917	KW	02
+Khabrat al `Awazim	29.43333	47.48333	KW	00
+Dulay`at al `Awazim	29.05028	47.6525	KW	00
+Dulay`at al Atyas	28.53111	47.9775	KW	00
+Thamilat al `Atul	29.03333	48.03333	KW	00
+At Tawil	28.96667	47.9	KW	00
+At Tawil	28.98528	47.85167	KW	00
+At Tarfawi	29.76194	48.03611	KW	00
+Markaz al Atraf	29.32361	47.55278	KW	00
+Khabrat al Atraf	29.33333	47.51667	KW	00
+Athan Shoal	28.73333	48.58333	KW	00
+As Surrah	29.28333	48.06667	KW	00
+As Surrah	29.28333	48.06667	KW	00
+As Sur ash Shimali	28.58333	47.85	KW	00
+As Sur al Awsat	28.55	47.8	KW	00
+As Sulu`	28.70333	48.26056	KW	04
+As Sulaybiyah	29.25333	47.78778	KW	00
+As Sulaybikhat	29.31528	47.83583	KW	00
+As Sulaybikhat	29.31722	47.87222	KW	00
+Sha`ib as Sir	29.88333	47.66667	KW	00
+As Sir	29.73222	47.46722	KW	00
+As Sif	29.43611	47.77778	KW	05
+As Salimiyah	29.33389	48.07611	KW	08
+As Safawiyah	28.71667	48.025	KW	00
+As Saddah	29.2275	47.44444	KW	00
+As Sabiyah	29.6	48.11667	KW	00
+As Sabiriyah	29.88333	47.98333	KW	00
+Haql as Sabriyah	29.8	47.83333	KW	00
+As Sabiriyah	29.84028	47.92083	KW	00
+Al-Sabahiyah	29.10583	48.10806	KW	04
+As Sab`ah	29.59444	48.0975	KW	00
+Ash Shuwaykh	29.34361	47.94611	KW	00
+Ash Shuqayq	28.6925	47.73194	KW	00
+Ash Shunayti	28.88333	48.01667	KW	00
+Ash Shu`aybah	29.04111	48.1375	KW	04
+Ash Shiqq	29.15	47.48333	KW	00
+Wadi ash Shaqq	28.21694	47.91778	KW	00
+Ash Shiqq	29.15361	47.48056	KW	00
+Ash Shiqaya	29.17861	46.68778	KW	00
+Ash Shamiyah	29.34722	47.96167	KW	02
+Ash Shadadiyah	29.26806	47.84556	KW	00
+Artawiyah	28.63333	48.13333	KW	00
+Haql ar Ruq`	29	47.16667	KW	00
+Ar Rumaythiyah	29.3	48.06667	KW	00
+Ar Rumaythiyah	29.31167	48.07417	KW	08
+Ar Ruhayl	29.66667	47.03333	KW	00
+Ar Riqqah	29.14583	48.09472	KW	04
+Riksah	29.49806	47.47306	KW	00
+Haql ar Rawdatayn	29.90479	47.72177	KW	00
+Ar Rawdatayn	29.86667	47.71667	KW	00
+Ar Rawdah	29.91667	47.66667	KW	00
+Ar Rawdah	29.85	47.7	KW	00
+Ar Rawdah	29.32472	48.00139	KW	00
+Ar Rukham	29.65944	47.90417	KW	05
+Ar Rabtah	28.70833	48.15833	KW	00
+Ar Rahiyah	29.26389	47.63333	KW	00
+Arhayyah	28.53333	47.91667	KW	00
+Ard az Zawr	28.75667	48.26444	KW	04
+Ard al Khawr	28.64583	48.29556	KW	04
+Ard ad Dasht	28.85833	48.18333	KW	00
+Ra's al Ard	29.35083	48.09778	KW	00
+An Nuwaynis	29.64611	48.02083	KW	05
+An Nuqayyat	28.94306	48.19861	KW	00
+An Nijfah	29.24639	48.07583	KW	00
+An Naq`	28.63472	48.39278	KW	04
+An Nimratayn	29.09472	47.02722	KW	00
+An Nami	28.63972	48.36444	KW	00
+An Na`ayim	29.28528	47.22917	KW	00
+Khabrat al `Anaq	29.45	47.13333	KW	00
+Amgharah	29.28083	47.76472	KW	00
+`Amarat ash Shiqq	29.1375	47.36583	KW	00
+`Amarat ar Ruq`i	29.10361	46.80333	KW	00
+`Amarat ad Darb	29.16833	47.13056	KW	00
+Khawr al A`ma	28.67028	48.37417	KW	04
+Al Wafrah	28.55833	48.04333	KW	00
+Al Wafrah	28.63917	47.93056	KW	04
+Haql al Wafrah	28.70778	47.93472	KW	00
+Al Wafrah	28.59472	47.97028	KW	00
+Al `Uqaylah	29.17778	48.09472	KW	00
+Al `Udayliyah	29.2	47.96667	KW	00
+Al `Udayliyah	29.3	47.96667	KW	00
+Al Qusur	28.96667	48.15	KW	00
+Al Qulay`ah	28.86583	48.27472	KW	00
+Al Qash`aniyah	29.98333	47.81667	KW	00
+Al Qash`aniyah	30.00833	47.77389	KW	00
+Al Qalib	28.81667	47.81667	KW	00
+Al Musannat	29.05611	47.28722	KW	00
+Al Mityahah	29.25	46.98333	KW	00
+Al Mazari`	28.98333	48.01667	KW	00
+Al Mutla`	29.41444	47.67833	KW	00
+Al Maqwa`	29.16667	47.98333	KW	00
+Haql al Maqwa`	29.10694	47.95917	KW	00
+Al Manqaf	29.09611	48.13278	KW	04
+Haql al Manaqish	29.03333	47.53333	KW	00
+Al Manaqish	28.97944	47.57778	KW	00
+Al Mahraqah	29.52861	47.85306	KW	05
+Al Mahbulah	29.145	48.13028	KW	04
+Al Maghasil	29.74194	48.09444	KW	00
+Al Ma`adiniyat	29.14611	47.9025	KW	00
+Al Liyah	29.58333	47.66667	KW	00
+Al Laqit	28.90667	48.05222	KW	00
+Kuwait City	29.36972	47.97833	KW	02
+Al Asimah Governorate	29.33333	47.91667	KW	02
+Al Khiran	28.64472	48.34194	KW	04
+Al Khiran	28.65111	48.39028	KW	04
+Al Kabd	29.16667	47.6	KW	00
+Al Juwayhiliyah	29.11667	47.66667	KW	00
+Al Julaydah	28.575	48.175	KW	00
+Al Judayliyat	29.365	47.77083	KW	00
+Al Jathathil	28.9775	47.51944	KW	00
+Al Jathathil	29.06444	47.47389	KW	00
+Al Jahannamiyah	28.67083	48.29111	KW	04
+Muhafazat al Jahra'	29.5	47.5	KW	05
+Al Jahra'	29.3375	47.65806	KW	05
+Al `Afri	29.38639	47.43194	KW	00
+Qalib `Ali	29.15	47.45	KW	00
+Al Hurayjah	29.95806	47.38556	KW	00
+Al Hujayjah	29.65472	48.13111	KW	05
+Al Hammar	30.0225	47.51528	KW	00
+Al Hariqah	29.96667	47.36667	KW	00
+Al Hanabiyah	30.025	47.775	KW	00
+Al Hamar	29.98333	47.6	KW	00
+Al Hafirah	28.60639	48.30556	KW	04
+Al Hadiqah	29.33333	47.98333	KW	00
+Al Funaytis	29.22528	48.10167	KW	00
+Al Fahahil	29.0825	48.13028	KW	04
+Al Fintas	29.17389	48.12111	KW	04
+Al Fayha'	29.33639	47.97583	KW	00
+Al Fawaris	28.63333	47.7	KW	00
+Al Farwaniyah	29.2775	47.95861	KW	07
+Muhafazat al Farwaniyah	29.25	47.91667	KW	07
+Al Farridah	29.3	47.53333	KW	00
+Haql al Burqan	28.925	47.91306	KW	00
+Al Buqay`	28.68333	48.16667	KW	00
+Al Buhayth	29.95	47.96667	KW	00
+Al Bitanah	29.47639	47.79528	KW	00
+Al Bida`	29.3025	48.08694	KW	00
+Al Bhar	29.38333	47.83333	KW	00
+Al Banaya	28.6	48.15	KW	00
+Al Bahrah 1	29.61667	47.95	KW	00
+Al Bahrah	29.91667	47.96667	KW	00
+Al Bahrah	29.6375	47.98472	KW	00
+Bahra	29.66667	47.86667	KW	00
+Al Bahrah	29.65	47.9	KW	00
+Al Bahrah	29.92306	47.95778	KW	00
+Al Bahrah	29.61861	47.95111	KW	05
+Al `Awja'	29.59333	47.83583	KW	00
+Al `Awja'	29.53333	47.75	KW	00
+Al Atraf	29.31667	47.55	KW	00
+Al `Arfajiyah	29.72139	48.03444	KW	05
+Al `Aqrabiyat	28.6	48.35	KW	00
+Al `Anaq	29.42194	47.04889	KW	00
+Al `Akaz	29.36778	47.91	KW	02
+Al Ahmadi	29.07694	48.08389	KW	04
+Haql al Ahmad	29.13333	48.03333	KW	00
+Muhafazat al Ahmadi	28.91667	48	KW	04
+Al Afwah	29.89583	47.31806	KW	00
+Al `Afajiyah	29.76556	47.94611	KW	00
+Al `Adan	28.91667	48	KW	00
+Al Ad`ami	28.81667	48.26667	KW	00
+Al `Adal	29	48.11667	KW	00
+Al Abraq	29.37	46.955	KW	00
+Al `Abdaliyah	29.0425	47.70611	KW	00
+Al Abatih	29.88361	47.53278	KW	00
+Ra's `Ajuzah	29.39167	48.00444	KW	02
+Khabrat al Afraq	29.2	47.41667	KW	00
+Ad Dibdibah	29.2075	47.1475	KW	00
+Al-Dhubaiyah	28.91667	48.21667	KW	00
+Ad Dawhah	29.36778	47.81	KW	00
+Ad Dasmah	29.365	48.00139	KW	02
+Ad Da`iyah	29.33333	47.98333	KW	00
+Jabal al Ad`ami	28.84167	48.24583	KW	00
+Qit`at Abu Talhah	29.39806	47.80861	KW	00
+Dawhat Abu Talhah	29.36333	47.83306	KW	00
+Abu Sidrah	29.01667	48.01667	KW	00
+Sha`ib Abu ash Shaham	29.91667	47.66667	KW	00
+Abu Khurjayn	28.71667	48.1	KW	00
+Abu Hulayfah	29.13222	48.12611	KW	04
+Sha`ib Abu al Jirfan	30.03333	47.7	KW	00
+Abraq Khaytan	29.2925	47.96889	KW	00
+Khabrat al Abraq	29.36667	46.88333	KW	00
+'Abdaliyah	29.05444	47.695	KW	00
+Thamilat al `Abdali	29.03222	47.71667	KW	00
+Markaz Hudud al `Abdali	30.06944	47.35	KW	00
+Khawr as Sur	28.54361	47.78556	KW	00
+At Tawil	28.97861	47.90722	KW	00
+Khabrat Quraynis	28.73333	47.67056	KW	00
+Tall Warah	28.99111	47.95306	KW	00
+Warah	28.99611	47.98222	KW	00
+Khashm al Abraq	29.42333	46.90556	KW	00
+Bahrat al Abraq	29.33	46.88833	KW	00
+`Amarat Mahzul	29.29167	46.90056	KW	00
+An Nimratayn	29.07667	46.86	KW	00
+Qalamat ash Shiqaya	29.12528	46.74583	KW	00
+An Nuwaysib	28.54694	48.39917	KW	00
+Makhfar ar Rudayyan	29.49361	47.80306	KW	00
+Al Abraq	29.36833	46.96361	KW	00
+Umm ar Rimam	29.49111	47.69139	KW	00
+Riksah	29.49111	47.52944	KW	00
+Al Kharfashi	29.45417	47.77278	KW	00
+Al Kuwaykib	29.4375	47.76306	KW	00
+Jal az Zawr	29.4875	47.76167	KW	00
+Dulay` Madi	29.45611	47.72222	KW	00
+Al Mu`taridah	29.4425	47.73306	KW	00
+Umm al Ghurban	29.43556	47.72167	KW	00
+Abu Ra'sayn	29.44917	47.6775	KW	00
+Al Hafirah	28.61028	48.29222	KW	00
+Al Wafrah	28.6	48.03333	KW	00
+Al Wafrah	28.55417	48.05306	KW	00
+Al Khuwaymat	29.40361	47.52278	KW	00
+Khabrat al Khuwaymat	29.37	47.55111	KW	00
+Bitanat az Zawr	29.38528	47.65917	KW	00
+Al Mutayli`	29.38389	47.62444	KW	00
+Silsilat Tilal al Mutla`	29.41139	47.67	KW	00
+Thamilat Ghatrah	29.40667	47.70167	KW	00
+Al Khuwaysat	29.40333	47.71111	KW	00
+Al Fawwar	28.66639	48.20861	KW	00
+Mina' ad Dawhah	29.38111	47.79889	KW	00
+Al Khidr	29.46444	48.28833	KW	02
+Al Bult	29.4575	48.28139	KW	00
+Maskar ad Dasht	29.46611	48.31806	KW	00
+Ad Dasht	29.4625	48.31389	KW	02
+Al Qullah	29.4525	48.31	KW	00
+Qullat Shujayr	29.45917	48.29972	KW	02
+Sa`idah	29.45722	48.29139	KW	00
+Qasr al Qal`ah	29.45528	48.33667	KW	02
+Al Qusur	29.43667	48.31861	KW	02
+Al Sabahiyah	29.65278	48.11583	KW	05
+Al `Awazim	29.42028	48.385	KW	02
+Mansab `Iyal al May`an	29.41194	48.3975	KW	02
+Ar Ra's	29.39472	48.4025	KW	02
+Bunayd al Qar	29.37556	48.0025	KW	02
+Ad Da`iyah	29.35806	48.01472	KW	00
+Ash Sha`b	29.34694	48.025	KW	00
+Al Qadisiyah	29.35028	48.00694	KW	00
+Maydan Hawalli	29.33611	48.0425	KW	00
+Ar Rawdah	29.31583	48.00639	KW	00
+Al Jabiriyah	29.32222	48.02361	KW	00
+Salwa	29.29583	48.07861	KW	08
+Mishrif	29.28917	48.05	KW	00
+Al Mintaqah al Wista	29.23297	48.02229	KW	00
+Al Masilah	29.26194	48.07972	KW	00
+Qasr ash Sha`b	29.34583	48.03806	KW	08
+Al Badawiyah	29.08139	48.11778	KW	00
+Bahrat ash Shu`aybah	29.05083	48.15444	KW	00
+Bahrat al Fuhayhil	29.0775	48.11111	KW	00
+Bahrat Abu Hulayfah	29.12944	48.11	KW	00
+Bahrat al Fintas	29.16722	48.10917	KW	00
+Bahrat ar Rukban	29.15	48.01944	KW	00
+Ad Dawhah al Kabirah	29.42694	48.38056	KW	00
+Qasr al Masilah	29.24167	48.09806	KW	00
+Al Artawiyah	28.61333	48.1125	KW	00
+Batn ash Shaqq	28.68361	47.67472	KW	00
+Khashm al `Afri	29.37194	47.41222	KW	00
+Qaradan	28.55139	48.30194	KW	00
+Makhfar as Sabiyah	29.57306	48.1725	KW	05
+As Sab`ah	29.59361	48.09944	KW	05
+Al `Aqrabi	28.58194	48.32306	KW	04
+`Ashish ad Dawhah	29.38528	47.84222	KW	05
+Ad Dalmaniyah	29.60528	48.06694	KW	00
+Khabrat al Julaydah	28.53417	48.22861	KW	00
+Jal az Zawr	29.62833	48.05028	KW	05
+Ash Sharq	29.37944	47.98722	KW	02
+Al Qiblah	29.37361	47.97167	KW	00
+Mughayrah	29.58667	48.08306	KW	00
+Qalamat Sabbah	29.05083	47.03722	KW	00
+Al Murqab	29.36556	47.97806	KW	02
+As Salihiyah	29.36333	47.96889	KW	02
+Al Mansuriyah	29.35556	47.98056	KW	00
+Al Mufarrad	29.04667	47.24028	KW	00
+Al Maghasil	29.74833	48.03222	KW	00
+At Tiyan	29.74806	48.04833	KW	00
+Al Bitanah	29.78	48.015	KW	00
+Qalamat Shayi'	29.02417	47.33667	KW	00
+Mina' ash Shuwaykh	29.3525	47.92917	KW	00
+Al Khalidiyah	29.32806	47.96556	KW	00
+Al `Adiliyah	29.32056	47.97694	KW	00
+An Nuzhah	29.34167	47.98972	KW	00
+Khabrat ar Radifah	28.9275	47.53139	KW	00
+Qalamat Shayi'	29.03722	47.38139	KW	00
+Al Qadisiyah	29.3475	47.985	KW	00
+Bubiyan	29.78194	48.37417	KW	00
+Dahiyat `Abd Allah as Salim	29.35139	47.98	KW	00
+Ra's al Oayd	29.79972	48.36972	KW	00
+Al Mina'	29.32972	47.93611	KW	00
+Shiqqat al `Awazim	29.85667	47.19333	KW	00
+Sawlah	28.73111	48.31722	KW	04
+Umm Kashish	29.36417	47.72861	KW	00
+Al Jirthamah	29.3525	47.71611	KW	00
+Al Mamlahah	29.36861	47.69583	KW	00
+As Suqayhiyah	29.63861	47.01861	KW	00
+Al Muraytibah	29.36472	47.6525	KW	00
+Umm Ghar	29.35639	47.63806	KW	00
+Udayri` al Hamd	29.58778	47.45083	KW	00
+Bahrat Umm Ghar	29.35972	47.6275	KW	00
+Shiqqat Hawmah	29.6175	47.17056	KW	00
+Umm Qudayr	28.80889	47.7175	KW	00
+Ard az Zawr	28.76222	48.27694	KW	04
+Jal al Atraf	29.36361	47.59306	KW	00
+Umm al Ba`l	29.32722	47.62861	KW	00
+`Ashish al Jahra'	29.31722	47.67778	KW	00
+Sayhad al Muzayhir	29.34528	47.715	KW	00
+Umm al Kashish	29.32833	47.78028	KW	00
+Al Burqan	28.95056	47.95111	KW	00
+Ad Dawhah	29.31444	47.81194	KW	00
+Mustashfa as Sulaybikhat	29.30667	47.88667	KW	00
+Ar Rayy	29.30917	47.93417	KW	00
+Al Yarmuk	29.30778	47.9675	KW	00
+Qurtubah	29.31222	47.98556	KW	00
+As Surrah	29.27528	47.99	KW	07
+As Safwaniyah	28.67611	48.05972	KW	00
+Janub Khaytan	29.27222	47.97778	KW	00
+Al `Umariyah	29.29333	47.95333	KW	00
+Ar Rabiyah	29.295	47.93306	KW	02
+Makhfar at Tuwari	29.26889	47.91361	KW	00
+Al Qurayn	28.8	48	KW	00
+Khawr al Qurayn	28.77639	48.00194	KW	00
+Al `Aridiyah	29.28417	47.875	KW	00
+Makhfar as Sulaybiyah	29.26694	47.78472	KW	00
+Al Farridah	29.30833	47.525	KW	00
+As Sulaybiyah	29.245	47.71694	KW	00
+Ash Shadadiyah	29.23528	47.86306	KW	00
+Makhfar ash Shadadiyah	29.25444	47.85583	KW	00
+Sayhad al `Awazim	29.24694	47.89944	KW	00
+Al `Abbasiyah	29.25028	47.93111	KW	00
+Ad Dawghah	29.26222	47.94694	KW	00
+Baniyat `Urayfijan	28.80833	48.21667	KW	00
+Umm ar Rus	29.21111	47.52639	KW	00
+Qulban Malah	29.13306	47.99556	KW	00
+Al Ad`ami	28.82556	48.26611	KW	00
+Qulay`at al Ahrar	28.88917	48.24778	KW	00
+Bahrat Hawshan	30.0725	47.34972	KW	00
+Ad Duba`iyah	28.92361	48.20722	KW	00
+Mushash Malah	29.08167	47.95028	KW	00
+Al Burquan	29.01167	47.96833	KW	00
+Al Mu`ayzilat	28.94167	48.08333	KW	00
+Al Burqan	28.94278	48.00806	KW	00
+Khawr Bin Hadmah	29.085	47.61722	KW	00
+Makhfar Al Manaqish	29.0225	47.60056	KW	00
+Al Manaqish	29.04444	47.5675	KW	00
+Dulay` az Zunayf	28.99056	48.08111	KW	00
+Al Jathathil	29.01194	47.50778	KW	00
+Umm al Hayman	28.93972	48.1875	KW	00
+Ad Diyud	28.63028	48.37472	KW	04
+tsst	28.74861	48.30528	KW	00
+Umm ar Ruwaysat	29.5	47.01917	KW	00
+Ahmadi	29.03722	48.06278	KW	00
+Al Ahmadi	29.04556	48.00583	KW	00
+Failaka	29.44333	48.28333	KW	00
+Ar Rawdatayn	29.88167	47.63028	KW	00
+Ali al Salem Airbase	29.35	47.52111	KW	00
+Shiqqat Umm al Madafi`	29.79194	47.29833	KW	00
+Jirishan Police Post	29.94917	47.13944	KW	00
+Raudhatain	29.89139	47.73639	KW	00
+Umm al Aish	29.81667	47.73167	KW	00
+Khashm Ghudayy	29.5025	47.77444	KW	00
+Al `Awjah	29.57917	47.88361	KW	00
+Ahmed Al Jaber Air Base	28.93956	47.79078	KW	00
+Qalamat al Manaqish	28.95278	47.59389	KW	00
+Markaz al Hamatiyat	28.88694	47.52306	KW	00
+Jazirat Warbah	30.00167	48.08167	KW	05
+Markaz Warbah	30.01194	48.12611	KW	05
+Qasm Dasman	29.38	47.99611	KW	00
+Al Bid`	29.31222	48.08778	KW	00
+Sabah as Salim	29.25722	48.05722	KW	09
+Umm Ghar	29.3525	47.65056	KW	00
+Al Atraf	29.315	47.59167	KW	00
+Rujm Khashman	29.20667	47.89944	KW	00
+Umm al Qashish	29.35806	47.74361	KW	00
+Fasht Qushayr	29.37306	47.7675	KW	00
+Bahrat al Mirfi	29.39889	47.70722	KW	00
+Thamilat Ghathah	29.40722	47.70111	KW	00
+Bahrat Umm Ghar	29.35917	47.62917	KW	00
+Khabrat Raji	29.48944	47.72944	KW	00
+Khabrat al Mijmad	29.42111	47.58639	KW	00
+Jazirat Bubiyan	29.74472	48.35083	KW	05
+Qit`at Bida`	29.29194	48.10611	KW	08
+Qit`at Funaytis	29.22722	48.11528	KW	09
+Qit`at al Bunayyah	28.61667	48.42917	KW	04
+Qit`at Salamah	28.79583	48.38944	KW	05
+Dawhat az Zawr	28.76389	48.45083	KW	04
+Jazirat Qurayn	29.35861	47.90639	KW	02
+Qasr as Sayf	29.38	47.975	KW	02
+Umm Siddah	29.36194	47.9925	KW	02
+Khawr al `Awjah	29.59694	47.87028	KW	05
+Bahrat al `Awjah	29.59306	47.90528	KW	05
+Ghudayy	29.5075	47.82861	KW	05
+Dulay` ar Rukham	29.65667	47.92167	KW	05
+Markaz Mudayyarah	29.55722	47.91306	KW	00
+Sakhrat Mudayyarah	29.54778	47.89306	KW	00
+Umm Ghatti	29.63639	47.9675	KW	05
+Al `Arfajiyah	29.70028	48.09556	KW	05
+Al `Ulaymiyah	29.68806	48.11417	KW	05
+Hadd al Himarah	28.55944	48.41056	KW	04
+FOUR POINTS  KUWAIT	29.3333	47.9833	KW	02
+LE MERIDIEN KUWAIT	29.3295	47.6831	KW	
+Highway of Death	29.3842	47.6518	KW	
+Markaz al Fantas	29.17097	48.0993	KW	00
+Al Qusur	29.21748	48.0726	KW	00
+Al Qurayn	29.2043	48.0757	KW	00
+At Tariq ad Da'iri as Sabi` as Sari`	29.17838	48.07273	KW	00
+Sulabiyah transmitter, Tower Northwest	29.13511	47.76509	KW	04
+Sulabiyah transmitter, Tower Northeast	29.13482	47.76648	KW	04
+Sulabiyah transmitter, Tower Southwest	29.13273	47.76439	KW	04
+Sulabiyah transmitter, Tower Southeast	29.13242	47.76577	KW	04
+Sulaibiyah Mediumwave Transmitter, Tower Northwest	29.14635	47.77984	KW	04
+Sulaibiyah Mediumwave Transmitter, Tower Southwest	29.14578	47.77991	KW	04
+Sulaibiyah Mediumwave Transmitter, Tower Northeast	29.14658	47.78117	KW	04
+Sulaibiyah Mediumwave Transmitter, Tower Southeast	29.146	47.78125	KW	04
+Al Maqwa Mediumwave Transmitter, Tower East	29.18408	48.04545	KW	04
+Al Maqwa Mediumwave Transmitter, Tower West1	29.18252	48.03914	KW	04
+Al Maqwa Mediumwave Transmitter, Tower West2	29.18237	48.03968	KW	04
+Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 1	29.50339	47.68656	KW	
+Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 2	29.50344	47.68707	KW	
+Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 3	29.50252	47.68678	KW	
+Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Central Tower	29.50299	47.68694	KW	
+Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 4	29.5026	47.68726	KW	
+Umm Al-Rimam Mediumwave Transmitter, Tower Southwest	29.50167	47.68694	KW	
+Umm Al-Rimam Mediumwave Transmitter, Tower Southeast	29.50173	47.68742	KW	
+Al `Adan	29.23274	48.0685	KW	00
+Jaber Al Ali	29.17082	48.0724	KW	04
+Marina	29.34347	48.06404	KW	
+Le Royal Tower	29.36737	47.96772	KW	02
+Le Royal Tower Kuwait	29.3731	48.00523	KW	
+Continental Kuwait	29.3741	47.9976	KW	02
+Spice Boutique	29.34764	48.09391	KW	
+The Regency	29.31661	48.0891	KW	
+Al Manshar Rotana	29.07796	48.13904	KW	
+Halawi Continental	29.38132	48.00071	KW	
+Missoni	29.36972	47.97833	KW	02
+Continental Farwaniya	29.29767	47.97965	KW	
+Costa Del Sol	29.34985	48.03221	KW	
+Carlton Tower Kuwait	29.3668	47.9656	KW	02
+Arinza Tower	29.34276	48.07919	KW	
+Le Royal Palace	29.37302	48.00564	KW	
+Royal Residence	29.37038	48.0048	KW	
+Boudl	29.37161	47.98221	KW	02
+Ghani Palace	29.34248	48.04614	KW	
+Ibis Sharq	29.37852	47.99291	KW	02
+Safir Fintas	29.18495	48.11734	KW	
+Corniche Kuwait	29.34283	47.09614	KW	
+Safir Bastaki	29.377	47.999	KW	
+Oasis Kuwait	29.30317	48.06479	KW	
+Le Royal Express Sharq	29.3784	47.9903	KW	02
+Le Royal Arabia Kuwait	29.3821	47.98266	KW	02
+Hawali Continental	29.29504	48.08655	KW	
+Corniche	29.34283	48.09614	KW	
+Leader Apartments	29.15628	48.11883	KW	
+Intercontinental Kuwait	29.34339	48.07616	KW	

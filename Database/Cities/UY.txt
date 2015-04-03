@@ -1,0 +1,4678 @@
+Laguna del Sauce	-34.83417	-55.06167	UY	09
+Canada de la Zorro	-33.01667	-56.36667	UY	05
+Canada del Zorro	-31.55	-56.4	UY	15
+Canada del Zorro	-31.2	-57.11667	UY	15
+Canada del Zorro	-30.86667	-56.48333	UY	01
+Arroyo del Zorro	-34	-56.93333	UY	16
+Canada Zarate de Tala	-34.36667	-56.11667	UY	02
+Arroyo Zapucay	-31.85	-55.45	UY	18
+Zapucay	-31.8	-55.33333	UY	18
+Estacion Zapican	-33.53333	-54.95	UY	08
+Zapican	-33.51667	-54.91667	UY	08
+Arroyo Zapatero	-32.16667	-56.55	UY	11
+Punta Zapata	-32.98333	-53.51667	UY	19
+Arroyo Zapata	-32.98333	-53.53333	UY	19
+Zapara	-31.68333	-56.13333	UY	18
+Isla del Zapallo	-30.49506	-57.87152	UY	01
+Arroyo Zapallar	-32.21667	-54.8	UY	18
+Canada Zanja Negra	-32.16667	-56.13333	UY	18
+Canada Zanja Honda	-33.85	-57.63333	UY	17
+Canada Zanja Honda	-31.23333	-55.75	UY	13
+Arroyo Zanja Honda	-34.42028	-56.58111	UY	16
+Arroyo Zanja Honda	-32.01667	-54.5	UY	03
+Arroyo Zanja Honda	-31.96667	-57.4	UY	11
+Arroyo Zanja Honda	-31.93333	-54.58333	UY	18
+Arroyo Zanja Honda	-31.8	-57.81667	UY	11
+Zanja Honda	-33.81667	-57.55	UY	17
+Zanja Honda	-31.81667	-54.66667	UY	13
+Zanja Honda	-31.21667	-55.66667	UY	13
+Canada Zabala	-33.91667	-57.95	UY	04
+Arroyo Yucutuja Mini	-30.42244	-57.31205	UY	01
+Parada Yucutuja	-30.60543	-57.35988	UY	01
+Arroyo Yucutuja	-30.63333	-57.25	UY	02
+Arroyo Yucutuja	-30.31229	-57.38844	UY	01
+Estacion Young	-32.7	-57.63333	UY	12
+Young	-32.68333	-57.63333	UY	12
+Rio Yi	-33.11667	-57.13333	UY	00
+Estacion Yi	-33.35	-56.5	UY	05
+Arroyo Yerbalito	-33.01667	-54.41667	UY	19
+Arroyo Yerbalito	-33	-54.48333	UY	19
+Arroyo Yerbalito	-32.15	-53.71667	UY	03
+Arroyo Yerbal Grande	-33.23333	-54.4	UY	19
+Asperezas de los Yerbales	-34.2	-54.58333	UY	09
+Arroyo Yerbal Chico	-33.1	-54.4	UY	19
+Gajo del Yerbal	-33.11667	-54.4	UY	19
+Asperezas del Yerbal	-33	-54.48333	UY	19
+Arroyo Yerbal	-33.5	-54.66667	UY	08
+Arroyo Yerbal	-33.31667	-54.7	UY	19
+Punta Yeguas	-34.90361	-56.3125	UY	10
+Arroyo de la Yeguada	-33	-54.9	UY	08
+Arroyo de la Yeguada	-32.98333	-58.06667	UY	12
+Canada de los Yegros	-34.9	-56.3	UY	10
+Cerro Yatay	-32.91667	-54.63333	UY	19
+Arroyo Yapeyu	-33.05	-57.61667	UY	12
+Isla Yaguari	-33.35598	-58.411	UY	12
+Cerro Yaguari	-31.6	-55.13333	UY	13
+Boca Yaguari	-33.3598	-58.41547	UY	12
+Arroyo Yaguari	-32.21667	-55.41667	UY	18
+Arroyo Yaguari	-31.5	-55	UY	13
+Arroyo Yaguarete Grande	-33.11667	-58.28333	UY	12
+Arroyo Yaguarete Chico	-33.15	-58.26667	UY	12
+Arroyo Yacuy	-30.78333	-57.78333	UY	00
+Arroyo Yacot	-30.11667	-56.9	UY	01
+Yacot	-30.25	-56.85	UY	01
+Arroyo Yacare Grande	-30.11667	-57.05	UY	01
+Arroyo Yacare Chico	-30.15	-56.98333	UY	01
+Arroyo Yacare Chico	-30.13333	-57	UY	01
+Canada del Yacare	-31.2	-57.86667	UY	15
+Canada Yacare	-31.06667	-57.36667	UY	15
+Canada del Yacare	-30.54014	-57.45102	UY	01
+Arroyo Yacare	-33.03333	-58.06667	UY	12
+Wenceslao Silveira	-32.51667	-54.58333	UY	10
+Vuelta del Palmar	-34.18333	-53.78333	UY	14
+Isla del Vizcaino	-33.36667	-58.36667	UY	12
+Canada del Vizcaino	-31.68333	-57.98333	UY	11
+Arroyo del Vizcaino	-34.61667	-56.03333	UY	02
+Cerro de la Virgen	-31.41667	-56.4	UY	15
+Arroyo de la Virgen	-34.42083	-56.39528	UY	00
+Arroyo de los Viraroes	-32.8	-57.31667	UY	12
+Canada del Viraro	-31.65	-57.66667	UY	11
+Canada Viraro	-32.13333	-57.88333	UY	11
+Arroyo Viraro	-33.43333	-56.81667	UY	06
+Arroyo Viraro	-32.23333	-55.93333	UY	18
+Arroyo Violina	-33.08333	-57.31667	UY	17
+Canada de las Violetas	-34.53333	-56.31667	UY	02
+Canada de las Violetas	-34.48333	-56.05	UY	02
+Parada Vinas	-31.35	-57.83333	UY	15
+Canada Villegas	-34.33333	-55.98333	UY	02
+Villa Vinoles	-32.2	-54.06667	UY	03
+Villa Vieja	-34.06667	-56.38333	UY	07
+Villa Serrana	-34.28333	-54.98333	UY	08
+Estacion Villasboas	-33.2	-56.46667	UY	05
+Arroyo de Villasboas	-33.31667	-56.68333	UY	05
+Villa Sara	-33.26667	-54.41667	UY	19
+Villa Nueva	-34.6	-56.13333	UY	02
+Villa Munoz	-34.88333	-56.18333	UY	10
+Villa Espanola	-34.88333	-56.15	UY	10
+Villa Elisa	-32.33333	-57.05	UY	12
+Villa Dolores	-34.9	-56.15	UY	10
+Villa del Cerro	-34.89441	-56.25292	UY	10
+Villa del Carmen	-33.25	-56.01667	UY	05
+Villa Alejandrina	-33.76667	-58.35	UY	17
+Cerro Vigia	-33.7	-53.58333	UY	14
+Cerro Vigia	-31.93333	-56.63333	UY	11
+Cerro Vigia	-31.61667	-56.06667	UY	18
+Canada de los Vieras	-33.78333	-54.55	UY	08
+Canada de la Viera	-34.21667	-55.68333	UY	08
+Puerto Viejo	-34.65866	-54.14826	UY	14
+Canada Vidal	-34.38333	-56.4	UY	02
+Arroyo de la Victoria	-33.48333	-55.41667	UY	07
+Victoria	-34.88333	-56.23333	UY	10
+Cerro del Vichadero	-33.63333	-54.76667	UY	08
+Cerro del Vichadero	-30.9	-56.28333	UY	01
+Cerro Vichadero	-31.78333	-54.71667	UY	13
+Cerro Vichadero	-33.45	-53.88333	UY	14
+Cerro Vichadero	-33.26667	-56.88333	UY	06
+Cerro Vichadero	-32.65	-54.33333	UY	03
+Cerro Vichadero	-31.9	-56.91667	UY	11
+Cerro Vichadero	-31.86667	-56.85	UY	11
+Arroyo Vichadero	-33.7	-54.71667	UY	08
+Vichadero	-31.8	-54.71667	UY	13
+Cerro de las Viboras	-33.41667	-53.71667	UY	14
+Arroyo de las Viboras	-33.95	-58.35	UY	04
+Vergara	-32.93333	-53.95	UY	19
+Isla Verdun	-31.13333	-57.9	UY	15
+Estacion Verdun	-34.35	-55.28333	UY	08
+Cerro Verdun	-34.36667	-55.28333	UY	08
+Arroyo Verdun	-34.26667	-55.43333	UY	08
+Verdun	-32.66667	-55.45	UY	05
+Playa Verde	-34.89792	-56.07342	UY	10
+Isla Verde	-34.95	-53.48333	UY	14
+Cerro Verde	-32.16667	-55.98333	UY	18
+Cerro Verde	-32	-56.48333	UY	11
+Cerro Verde	-31.91667	-56.51667	UY	11
+Cerro Verde	-31.8	-56.76667	UY	11
+Cerro Verde	-31.43333	-56.96667	UY	15
+Cerro de Veras	-31.65	-56.78333	UY	15
+Arroyo Veras	-32.13333	-55.56667	UY	18
+Veras	-31.61667	-56.81667	UY	15
+Cerro Vera	-33.2	-57.48333	UY	17
+Canada de Vera	-34.53333	-55.93333	UY	02
+Arroyo de Vera	-33.03333	-57.56667	UY	17
+Arroyo de Vera	-31.5	-56.8	UY	15
+Arroyo Ventura	-34.08333	-58.23333	UY	04
+Cerro de la Ventana	-31.75	-56.18333	UY	18
+Canada Veneciana	-32.33333	-55.65	UY	18
+Cerro Venado	-32.68333	-54.35	UY	03
+Canada Venado	-33.85	-57.13333	UY	17
+Canada Veloz	-32.33333	-54.88333	UY	18
+Canada Velazquez	-34.36667	-56.38333	UY	02
+Velazquez	-34.03333	-54.28333	UY	14
+Arroyo Vejigas Chico	-34.3	-55.68333	UY	02
+Arroyo Vejigas	-34.28333	-55.88333	UY	02
+Vejigas	-34.28333	-55.23333	UY	08
+Estacion Veinticinco de Mayo	-34.2	-56.35	UY	07
+Estacion Veinticinco de Mayo	-34.15	-56.35	UY	07
+25 de Mayo	-34.18917	-56.33944	UY	07
+Estacion Veinticinco de Agosto	-34.4	-56.4	UY	07
+25 de Agosto	-34.41167	-56.40222	UY	07
+Canada Vazquez	-34.33333	-56.03333	UY	02
+Arroyo Vazquez	-31.76667	-58.03333	UY	11
+Sierra de Vaz	-32.6	-54.11667	UY	10
+Arroyo de los Vargas	-31.48333	-55.35	UY	13
+Punta del Vapor	-34.96527	-54.9395	UY	09
+Arroyo Valle Grande	-34.21667	-54.98333	UY	08
+Estacion Valle Eden	-31.83333	-56.15	UY	18
+Arroyo Valle Chico	-33.96667	-54.53333	UY	08
+Arroyo Valizas	-34.34489	-53.7885	UY	14
+Valizas	-34.33333	-53.8	UY	14
+Valija	-33.15	-55.01667	UY	19
+Cerro Valiente	-32.26667	-57.05	UY	11
+Arroyo Valiente	-31.11667	-55.7	UY	13
+Canada de Valenzuela	-34.56667	-56.16667	UY	02
+Arroyo Valentin Grande	-32	-57.16667	UY	15
+Arroyo Valentin Grande	-31.2	-57.21667	UY	15
+Estacion Valentines	-33.26667	-55.11667	UY	19
+Cerros de los Valentines	-31.35	-57.23333	UY	15
+Cerro Valentines	-33.26667	-55.1	UY	07
+Valentines	-33.26667	-55.11667	UY	19
+Valentines	-33.26667	-55.1	UY	19
+Arroyo Valentin Chico	-31.16667	-57.26667	UY	15
+Arroyo Valentin	-34.01667	-53.78333	UY	14
+Arroyo Valentin	-33.2	-55.31667	UY	07
+Arroyo Valentin	-32.95	-54.81667	UY	19
+Valentin	-31.3	-57.2	UY	15
+Sierra de Valdivia	-34.28333	-54.6	UY	09
+Arroyo Valdivia	-34.26667	-54.5	UY	09
+Arroyo Valdez	-32.43333	-57.91667	UY	11
+Arroyo Valdez	-31.61667	-56.18333	UY	18
+Arroyo Valdez	-34.53111	-56.58556	UY	16
+Valdense	-34.33333	-57.23333	UY	04
+Canada de Valdenegro	-34.61667	-55.93333	UY	02
+Cerro de las Vacas	-34.01667	-58.16667	UY	04
+Arroyo las Vacas	-32.75	-58	UY	12
+Arroyo de las Vacas	-34	-58.3	UY	04
+Vaca	-31.2	-55.6	UY	13
+Arroyo Uvas	-32.66667	-54.06667	UY	03
+Oriental Republic of Uruguay	-33	-56	UY	00
+Uruguay	-32.48333	-53.51667	UY	03
+Parada Urioste	-34.03333	-56.05	UY	07
+Union	-34.87056	-56.13361	UY	10
+Zanja Una de Gato	-30.85	-57.48333	UY	15
+Zanja Una de Gato	-30.73333	-56.81667	UY	01
+Cerro Una de Gato	-30.81667	-57.01667	UY	01
+Canada Una de Gato	-33.08333	-53.66667	UY	19
+Cerro Ubajay	-31.3	-57.76667	UY	15
+Banado de Turupi	-32.25	-55.3	UY	18
+Estacion Tupambae	-32.83333	-54.76667	UY	03
+Cerro Tupambae	-34.68333	-55.31667	UY	09
+Cerro Tupambae	-32.75	-54.81667	UY	03
+Arroyo Tupambae	-34.7	-55.43333	UY	09
+Arroyo Tupambae	-34.13333	-55.46667	UY	08
+Arroyo Tupambae	-32.7	-54.81667	UY	03
+Arroyo Tupambae	-32.58333	-54.83333	UY	03
+Arroyo Tupambae	-32.41667	-54.96667	UY	03
+Tupambae	-32.83333	-54.76667	UY	03
+Canada de las Tunitas	-31.83333	-57.11667	UY	11
+Canada de las Tunas	-32.48333	-56.86667	UY	12
+Canada de las Tunas	-32.18333	-57.13333	UY	11
+Arroyo de las Tunas	-31.78333	-57.16667	UY	11
+Arroyo de las Tunas	-31.16667	-57.25	UY	15
+Isla de la Tuna	-34.6623	-54.14866	UY	14
+Cerro de la Tuna	-32.8	-54.38333	UY	03
+Cerro Tuna	-31.61667	-56.88333	UY	15
+Arroyo de la Tuna	-34.8	-55.55	UY	02
+Arroyo de la Tuna	-31.53333	-55.73333	UY	18
+Cerro de la Tuerta	-32.01667	-57.1	UY	11
+Arroyo Tucuru	-32.31667	-55.4	UY	18
+Punta Trouville	-34.91968	-56.14619	UY	10
+Tropezon	-34.4	-56.53333	UY	16
+Arroyo Tropa Vieja	-34.78333	-55.86667	UY	02
+Arroyo Tropa Vieja	-34.69556	-56.45222	UY	16
+Arroyo Troche	-33.61667	-58.41667	UY	17
+Estacion Trinidad	-33.53333	-56.88333	UY	06
+Estacion Trinidad	-33.48333	-56.95	UY	06
+Serro Trindade	-30.95	-55.45	UY	00
+Arroyo de la Trinidad	-31.61667	-55.93333	UY	18
+Trinidad	-33.5165	-56.89957	UY	06
+Trinidad	-33.53889	-56.88861	UY	06
+Canada Tres Islas	-32.75	-53.28333	UY	03
+Banado de las Tres Islas	-32.7	-53.95	UY	03
+Banado Tres Islas	-32.88333	-53.33333	UY	19
+Tres Islas	-32.51667	-54.68333	UY	10
+Arroyo Tres Hermanos	-32.48333	-55.28333	UY	03
+Tres Esquinas	-34.08333	-57.38333	UY	04
+Arroyo Tres Cruces Grandes	-30.3	-57	UY	01
+Arroyo Tres Cruces Grande	-30.28333	-57.2	UY	01
+Arroyo Tres Cruces Chico	-30.46667	-56.75	UY	01
+Sierra de Tres Cruces	-31.56667	-55.95	UY	18
+Canada de las Tres Cruces	-31.4	-57.21667	UY	15
+Arroyo Tres Cruces	-31.85	-55.73333	UY	18
+Tres Cerros	-31.36667	-55.66667	UY	13
+Tres Cerros	-30.95	-56.65	UY	01
+Tres Cerros	-34.65	-54.76667	UY	09
+Tres Cerros	-31.65	-55.6	UY	13
+Zanja de los Tres Capones	-30.98333	-57.23333	UY	15
+Tres Bocas	-33.73333	-57.83333	UY	12
+Tres Bocas	-31.88333	-57.48333	UY	11
+Estacion Tres Arboles	-32.4	-56.71667	UY	12
+Cerro Tres Arboles	-32.5	-56.83333	UY	12
+Arroyo Tres Arboles	-32.83333	-56.75	UY	12
+Tres Arboles	-32.4	-56.71667	UY	12
+Estacion Treinta y Tres	-33.25	-54.38333	UY	19
+Departamento de Treinta y Tres	-33	-54.25	UY	19
+Treinta y Tres	-33.23333	-54.38333	UY	19
+Cerro Travieso	-31.45	-56.25	UY	18
+Estacion Tranqueras	-31.16667	-55.75	UY	13
+Arroyo Tranqueras	-31.78333	-55.88333	UY	18
+Arroyo Tranqueras	-31.75	-56.25	UY	18
+Arroyo Tranqueras	-31.46667	-55.81667	UY	18
+Tranqueras	-31.2	-55.75	UY	13
+Tranqueras	-31.16667	-55.75	UY	13
+Canada Tranquera	-33.91667	-53.73333	UY	14
+Canada de las Totoras	-31.73333	-57.5	UY	11
+Estacion Totoral	-32.23333	-56.5	UY	11
+Canada del Totoral	-34.66667	-55.76667	UY	02
+Canada del Totoral	-34.45	-56.25	UY	02
+Canada Totoral	-34.53333	-56.25	UY	02
+Canada Totoral	-34.31667	-57.86667	UY	04
+Canada Totoral	-32.75	-57.28333	UY	12
+Canada Totoral	-32.21667	-56.61667	UY	11
+Arroyo del Totoral	-32.78333	-56.83333	UY	12
+Arroyo Totoral	-34.65	-55.98333	UY	02
+Arroyo Totoral	-33.43333	-56.93333	UY	06
+Arroyo Totoral	-33.06667	-57.93333	UY	12
+Arroyo Totoral	-31.7	-57.01667	UY	00
+Totoral	-34.66667	-56	UY	02
+Canada de la Totora	-34.55	-55.73333	UY	02
+Canada de la Totora	-34.51667	-54.23333	UY	14
+Canada de la Totora	-34.08333	-57.61667	UY	04
+Canada de la Totora	-30.48121	-57.80703	UY	01
+Canada de las Toscas	-34.01667	-57.81667	UY	04
+Arroyo de las Toscas	-33.51667	-56.51667	UY	06
+Canada de la Tortuga	-31.73333	-57.51667	UY	11
+Arroyo de la Tortuga	-34.71667	-56.36667	UY	16
+Tortola	-34.06667	-57.58333	UY	04
+Islas de Torres	-34.40503	-53.75679	UY	14
+Canada de la Torre	-31.16667	-57.7	UY	15
+Cerro de los Toros	-32.35	-56.93333	UY	12
+Canada de los Toros	-31.58333	-57.66667	UY	11
+Toro Negro	-31.35	-56.63333	UY	15
+Cerro del Toro Muerto	-33.85	-53.73333	UY	14
+Arroyo del Toro de Jesus	-31.01667	-57.86667	UY	15
+Canada del Toro Bravo	-31.96667	-56.86667	UY	11
+Canada del Toro Blanco	-33.13333	-57.98333	UY	17
+Cerro del Toro	-34.86354	-55.25248	UY	09
+Arroyo Tornero Grande	-33.95	-55.93333	UY	07
+Arroyo Tornero Chico	-33.91667	-55.85	UY	07
+Arroyo Toribio de la Llana	-34.31667	-54.83333	UY	08
+Cerro Topador	-30.3	-56.83333	UY	01
+Topador	-30.31667	-56.81667	UY	01
+Arroyo Tomas Paz	-31.58333	-57.68333	UY	11
+Tomas Paz	-31.68333	-57.68333	UY	11
+Estacion Tomas Gomensoro	-30.41667	-57.46667	UY	01
+Tomas Gomensoro	-30.42737	-57.43612	UY	01
+Arroyo Tomas Cuadra	-33.38333	-56.41667	UY	05
+Punta Tomador	-34.89026	-56.33102	UY	10
+Estacion Toledo	-34.75	-56.08333	UY	10
+Canada Toledo	-30.73333	-56.1	UY	01
+Arroyo de Toledo	-34.81194	-56.05333	UY	00
+Toledo	-34.74222	-56.09833	UY	02
+Toledo	-32.53333	-54.56667	UY	10
+Toledo	-32.5	-54.01667	UY	03
+Canada del Tio Lopez	-33.4	-54.28333	UY	08
+Arroyo Tio Diego	-34.73333	-55.45	UY	02
+Isla Timoteo Dominguez	-34.17432	-58.2532	UY	04
+Arroyo Timote	-33.7	-55.78333	UY	07
+Arroyo Timote	-33.48333	-56.05	UY	07
+Arroyo Timboa	-31.08333	-56.25	UY	15
+Arroyo Tigre Grande	-34.16389	-58.0825	UY	04
+Arroyo del Tigre Chico	-32.5	-56.16667	UY	18
+Arroyo Tigre Chico	-34.16667	-58.16667	UY	04
+Rincou del Tigre	-32.25	-55.45	UY	18
+Punta del Tigre	-34.89874	-56.28708	UY	10
+Punta del Tigre	-34.75806	-56.55833	UY	16
+Puerto del Tigre	-34.8	-56.38333	UY	10
+Isla del Tigre	-34.78944	-56.38389	UY	10
+Estero del Tigre	-34.75	-56.51667	UY	16
+Cerro del Tigre	-34.05	-54.16667	UY	14
+Cerro del Tigre	-32.13333	-56.31667	UY	11
+Cerro Tigre	-32.93333	-56.4	UY	05
+Canada del Tigre	-34.56667	-55.11667	UY	09
+Canada del Tigre	-33.7	-53.71667	UY	14
+Canada del Tigre	-32.86667	-56.93333	UY	12
+Canada del Tigre	-32.4	-54.96667	UY	18
+Canada del Tigre	-32.21667	-55.45	UY	18
+Canada del Tigre	-32	-54.93333	UY	18
+Canada del Tigre	-31.25	-57.28333	UY	15
+Canada Tigre	-34.21667	-55.68333	UY	08
+Canada Tigre	-32.6	-55.6	UY	05
+Arroyo del Tigre	-34.74806	-56.52417	UY	16
+Arroyo del Tigre	-34.51667	-55.73333	UY	02
+Arroyo del Tigre	-33.66667	-55.55	UY	07
+Arroyo del Tigre	-33.21667	-54.78333	UY	19
+Arroyo del Tigre	-33.16667	-53.91667	UY	19
+Arroyo del Tigre	-32.65	-56.2	UY	18
+Arroyo del Tigre	-31.25	-56.5	UY	15
+Arroyo del Tigre	-30.62729	-57.83462	UY	01
+Canada Tierras Coloradas	-31.95	-57.11667	UY	11
+Arroyo Tierras Coloradas	-31.8	-57.73333	UY	11
+Cerros Tierras Blancas	-32.2	-56.78333	UY	11
+Canada de las Tierras Blancas	-32.25	-56.86667	UY	11
+Cerro de Ticu	-33.9	-56.7	UY	16
+Arroyo Tiatucura	-32.38333	-56.51667	UY	11
+Tiatucura	-32.35	-56.55	UY	11
+Cerro Tia Josefa	-34.06667	-56.8	UY	16
+Arroyo de Tia Jacinta	-33.03333	-56.96667	UY	05
+Arroyo de la Ternera	-32.86667	-54.96667	UY	08
+Estacion Termas del Arapey	-30.96667	-57.53333	UY	15
+Termas del Arapey	-30.96667	-57.53333	UY	15
+Cerro del Teniente	-34.25	-54.75	UY	09
+Cerro del Teniente	-31.73333	-56.85	UY	15
+Arroyo Tembetari	-31.68333	-57.36667	UY	11
+Arroyo de Tejera	-33.38333	-56.46667	UY	05
+Canada de la Teja	-32.76667	-53.76667	UY	03
+Canada del Taruman	-32.51667	-56.48333	UY	18
+Canada del Taruman	-30.48333	-56.71667	UY	01
+Taruman	-30.5	-56.66667	UY	01
+Estacion Tarariras	-34.26667	-57.6	UY	04
+Arroyo Tarariras	-34.21667	-57.81667	UY	04
+Arroyo Tarariras	-32.66667	-54.91667	UY	03
+Arroyo Tarariras	-32.46667	-55.01667	UY	03
+Tarariras	-34.28333	-57.61667	UY	04
+Estacion Tapia	-34.56667	-55.7	UY	02
+Tapia	-34.56667	-55.7	UY	02
+Arroyo Tapes Grande	-33.83333	-54.76667	UY	08
+Arroyo de los Tapes de Godoy	-33.7	-54.91667	UY	08
+Arroyo Tapes Chico	-33.9	-54.85	UY	08
+Rincon de los Tapes	-33.1	-57.05	UY	05
+Arroyo de los Tapes	-33.18333	-56.91667	UY	06
+Canada de la Tapera	-34.23333	-53.93333	UY	14
+Canada de la Tapera	-33.9	-56.81667	UY	06
+Canada de la Tapera	-31.83333	-57.68333	UY	11
+Canada de la Tapera	-31.36667	-57.16667	UY	15
+Canada de la Tapera	-31.31667	-57.18333	UY	15
+Canada de la Tapera	-31.1	-56.25	UY	15
+Canada Tapera	-31.06667	-57.35	UY	15
+Canada Tapera	-30.3	-56.68333	UY	01
+Tapera	-33.91667	-56.85	UY	06
+Arroyo del Tapado	-31.6	-56.71667	UY	15
+Arroyo Tangarupa	-31.01667	-57.5	UY	15
+Sierra de Tambores	-31.71667	-56.18333	UY	18
+Estacion Tambores	-31.85	-56.25	UY	18
+Arroyo Tambores	-31.8	-56.01667	UY	18
+Tambores	-31.78333	-56.25	UY	18
+Arroyo de las Tamberas	-33.05	-54.65	UY	19
+Arroyo Tamandua	-30.4	-56.5	UY	01
+Tamandua	-30.46667	-56.55	UY	01
+Estacion Talita	-33.93333	-56.03333	UY	07
+Cerro Talita	-33.13333	-56.45	UY	05
+Canada Talita	-34.58333	-55.73333	UY	02
+Canada Talita	-33.23333	-57.23333	UY	06
+Arroyo del Talita	-33.7	-57.2	UY	17
+Arroyo Talita	-34	-56.1	UY	07
+Arroyo Talita	-33.83333	-55.98333	UY	07
+Arroyo Talita	-33.73333	-53.85	UY	14
+Talita	-33.4	-55.53333	UY	07
+Zanja de Talavera	-31.58333	-56.93333	UY	15
+Canada de los Talas	-32.18333	-57.08333	UY	11
+Canada de los Talas	-32.15	-56.78333	UY	11
+Canada de los Talas	-32.06667	-54.98333	UY	18
+Canada de los Talas	-31.65	-57.55	UY	11
+Canada de los Talas	-31.03333	-56.95	UY	15
+Canada de los Talas	-30.75	-56.31667	UY	01
+Arroyo de los Talas	-33.78333	-55.03333	UY	08
+Arroyo de los Talas	-31.3	-57.7	UY	15
+Arroyo de los Talas	-31.3	-57.06667	UY	15
+Canada del Talar	-32.9	-57.56667	UY	12
+Arroyo del Talar	-32.93333	-57.55	UY	12
+Canada del Tala Grande	-31.41667	-56.65	UY	15
+Arroyo Tala Grande	-34.05	-54.7	UY	08
+Arroyo Tala de las Viboras	-33.91667	-58.06667	UY	04
+Arroyo Tala de Castro	-33.51667	-56.18333	UY	07
+Arroyo Tala de Castro	-33.45	-56.25	UY	07
+Arroyo Tala Chico	-33.25	-55.75	UY	05
+Cerro del Tala	-32.43333	-56.63333	UY	12
+Canada del Tala	-34.33333	-57.91667	UY	04
+Canada del Tala	-33.75	-57.78333	UY	17
+Canada del Tala	-33.36667	-56.3	UY	05
+Canada del Tala	-33.35	-55.73333	UY	05
+Canada del Tala	-32.78333	-56.83333	UY	12
+Canada del Tala	-32.76667	-55.68333	UY	05
+Canada del Tala	-32.2	-54.1	UY	03
+Canada del Tala	-31.98333	-56.9	UY	11
+Canada del Tala	-31.91667	-56.78333	UY	11
+Canada del Tala	-30.71667	-56.95	UY	01
+Canada del Tala	-30.68333	-56.98333	UY	01
+Canada del Tala	-30.61667	-56.31667	UY	01
+Canada de Tala	-31.3	-57.5	UY	15
+Canada Tala	-31.86667	-56.75	UY	11
+Canada Tala	-31.48333	-57.78333	UY	15
+Arroyo del Tala	-34.43333	-56.83333	UY	16
+Arroyo del Tala	-34.38194	-56.17528	UY	02
+Arroyo del Tala	-34.35	-56.68333	UY	16
+Arroyo del Tala	-34.34139	-56.45472	UY	16
+Arroyo del Tala	-34.11667	-57.66667	UY	04
+Arroyo del Tala	-34.1	-55.7	UY	07
+Arroyo del Tala	-34.06667	-57.81667	UY	04
+Arroyo del Tala	-33.83333	-54.98333	UY	08
+Arroyo del Tala	-33.65	-56.48333	UY	06
+Arroyo del Tala	-33.6	-56.78333	UY	06
+Arroyo del Tala	-33.56667	-57.1	UY	06
+Arroyo del Tala	-33.56667	-53.55	UY	14
+Arroyo del Tala	-33.55	-57.4	UY	17
+Arroyo del Tala	-33.55	-56.53333	UY	06
+Arroyo del Tala	-33.53333	-57.25	UY	17
+Arroyo del Tala	-33.46667	-56.75	UY	06
+Arroyo del Tala	-33.41667	-55.93333	UY	05
+Arroyo del Tala	-33.38333	-57.66667	UY	17
+Arroyo del Tala	-33.38333	-57.43333	UY	17
+Arroyo del Tala	-33.36667	-55.73333	UY	05
+Arroyo del Tala	-33.25	-55.76667	UY	05
+Arroyo del Tala	-33.18333	-56.96667	UY	06
+Arroyo del Tala	-33.1	-57.41667	UY	17
+Arroyo del Tala	-32.98333	-56.35	UY	05
+Arroyo del Tala	-32.91667	-56.6	UY	05
+Arroyo del Tala	-32.8	-57.33333	UY	12
+Arroyo del Tala	-32.8	-56.15	UY	05
+Arroyo del Tala	-32.58333	-56.73333	UY	12
+Arroyo del Tala	-32.46667	-56.75	UY	12
+Arroyo del Tala	-32.35	-56.33333	UY	18
+Arroyo del Tala	-32.28333	-56.8	UY	11
+Arroyo del Tala	-32.2	-57.1	UY	11
+Arroyo del Tala	-32.15	-56.51667	UY	11
+Arroyo del Tala	-31.78333	-57.01667	UY	11
+Arroyo del Tala	-31.78333	-56.85	UY	11
+Arroyo del Tala	-31.71667	-56.63333	UY	15
+Arroyo del Tala	-31.66667	-57.45	UY	11
+Arroyo del Tala	-31.41667	-57.8	UY	00
+Arroyo del Tala	-31.38333	-57.01667	UY	15
+Arroyo del Tala	-31.11667	-57.31667	UY	15
+Arroyo Tala	-34.25917	-56.67972	UY	16
+Arroyo Tala	-33.5	-56.25	UY	07
+Arroyo Tala	-32.16667	-56.16667	UY	00
+Tala	-32.36667	-56.5	UY	18
+Tala	-30.63333	-56.95	UY	01
+Tala	-34.35	-55.76667	UY	02
+Canada del Tajamar	-31.8	-56.55	UY	15
+Canada Tajamar	-32.68333	-57.43333	UY	12
+Roca Tagus	-34.91667	-56.25	UY	10
+Canada de Tadeo	-33.7	-58.01667	UY	17
+Rio Tacuari	-32.76667	-53.3	UY	00
+Isla del Tacuari	-32.76667	-53.33333	UY	19
+Gajodel Tacuarembo Chico	-31.63333	-56.16667	UY	18
+Arroyo Tacuarembo Chico	-32.05	-55.56667	UY	18
+Arroyo Tacuarembo Chico	-31.61667	-56.23333	UY	18
+Rio Tacuarembo	-32.41667	-55.48333	UY	18
+Estacion Tacuarembo	-31.66667	-55.83333	UY	18
+Departamento de Tacuarembo	-32.08333	-55.75	UY	18
+Tacuarembo	-31.73333	-55.98333	UY	18
+Canada de las Tacuaras	-33.88333	-57.66667	UY	17
+Banco Sylvia	-34.98333	-54.98333	UY	09
+Gajo Sur del Tres Cruces	-31.53333	-56.01667	UY	18
+Parada Sur	-32.85	-56.5	UY	05
+Bajo Speedwell	-34.66667	-54.11667	UY	14
+Arroyo de Soto Chico	-31.95	-57.55	UY	11
+Canada de Soto	-31.85	-58.05	UY	11
+Arroyo de Soto	-32.1	-57.8	UY	11
+Soto	-32	-57.58333	UY	11
+Soto	-31.98333	-54.16667	UY	03
+Soto	-31.03333	-56.6	UY	15
+Canada Sotelo	-34.55	-56.23333	UY	02
+Estacion Sosa Diaz	-34.71667	-55.83333	UY	02
+Sierra de Sosa	-33.36667	-55.18333	UY	07
+Sierra de Sosa	-33.06667	-54.66667	UY	14
+Arroyo de Sosa	-34.83333	-54.75	UY	09
+Canada de la Sorpresa	-32.06667	-57.05	UY	11
+Departamento de Soriano	-33.5	-57.75	UY	17
+Soriano	-33.4	-58.31667	UY	17
+Canada de Soria	-33.33333	-55.68333	UY	05
+Cerrillada de Sopas	-31.4	-56.58333	UY	15
+Arroyo Sopas	-31.25	-57.05	UY	15
+Cerro Solo	-32.18333	-56.96667	UY	11
+Arroyo Solis Grande	-34.81667	-55.4	UY	00
+Arroyo Solis Grande	-34.41667	-55.55	UY	00
+Solis de Mataojo	-34.59951	-55.46808	UY	08
+Arroyo Solis Chico	-34.75928	-55.69845	UY	02
+Punta Solis	-34.76667	-55.4	UY	09
+Estacion Solis	-34.36667	-55.45	UY	08
+Bajo Solis	-34.83333	-55.46667	UY	02
+Solis	-34.33333	-55.45	UY	08
+Sierra del Soldado	-34.05	-55.15	UY	08
+Arroyo del Soldado	-34.25	-55.5	UY	08
+Arroyo del Soldado	-32.7	-54.8	UY	19
+Solari	-34.65	-54.18333	UY	14
+Isla Sola	-34.01831	-58.31174	UY	04
+Canada de la Sociedad	-31.36667	-56.93333	UY	15
+Soca	-34.68333	-55.68333	UY	02
+Canada Sina-Sina	-33.11667	-57.76667	UY	17
+Banco Silvia	-35	-54.98333	UY	09
+Cerro Silveira	-32.85	-54.26667	UY	19
+Arroyo de Silvano	-30.76667	-57.7	UY	15
+Zanja de Silva	-34.63333	-54.53333	UY	09
+Canada Silva	-34.76667	-55.03333	UY	09
+Cerro Silla Grande	-34.48333	-54.58333	UY	14
+Cerro Silla Chica	-34.53333	-54.5	UY	14
+Siete Cerros	-34.26667	-54.36667	UY	14
+Sierra de Lunarejo	-31.23333	-55.88333	UY	13
+Punta Shannon	-34.92472	-56.17224	UY	10
+Arroyo de Sequeira	-31.03333	-56.88333	UY	15
+Sequeira	-31.03333	-56.88333	UY	15
+Cerro Sepulturas	-30.86667	-56.03333	UY	01
+Asperezas de las Sepulturas	-33.66667	-54.55	UY	08
+Arroyo Sepulturas	-30.76667	-56.06667	UY	01
+Arroyo del Seco	-33.61667	-53.51667	UY	14
+Arroyo Seco	-31.66667	-54.83333	UY	13
+Isla Seca	-34.35151	-53.76022	UY	14
+Scavino	-34.36667	-57.05	UY	16
+Punta Sayago	-34.89994	-56.27618	UY	10
+Estacion Sayago	-34.83333	-56.21667	UY	10
+Sayago	-34.83333	-56.23333	UY	10
+Canada del Sauzal Grande	-30.28333	-57.5	UY	01
+Arroyo Sauzal de los Cerros	-34.01667	-56.18333	UY	07
+Canada del Sauzal	-30.96667	-57.65	UY	15
+Canada del Sauzal	-30.8	-56.71667	UY	01
+Canada del Sauzal	-30.55	-57.03333	UY	01
+Canada del Sauzal	-30.31156	-57.41437	UY	01
+Banado del Sauzal	-31.38333	-55.48333	UY	13
+Arroyo del Sauzal	-30.35	-57.01667	UY	01
+Arroyo Sauzal	-31.78333	-57.03333	UY	11
+Arroyo Sauzal	-31.4	-57.96667	UY	15
+Arroyo Sauzal	-30.91667	-55.55	UY	13
+Sauzal	-30.93333	-55.55	UY	13
+Sauce Solo de Rio Negro	-32.1	-54.86667	UY	18
+Canada del Sauce Solo	-32.21667	-56.61667	UY	11
+Canada Sauce Solo	-33.58333	-57.96667	UY	17
+Arroyo del Sauce Solo	-34.43333	-55.56667	UY	00
+Arroyo del Sauce Solo	-33.65	-55.6	UY	07
+Arroyo Sauce Solo	-34.48333	-55.55	UY	02
+Arroyo Sauce Solo	-34.13333	-55.88333	UY	07
+Arroyo Sauce Solo	-32.46667	-56.01667	UY	18
+Arroyo del Sauce Seco	-31.61667	-57.5	UY	11
+Zanja de los Sauces	-30.4	-57.31667	UY	01
+Zanja Sauces	-30.51667	-57.03333	UY	01
+Canada de los Sauces	-33.43333	-54.26667	UY	08
+Canada de los Sauces	-32	-54	UY	03
+Arroyo Sauce Grande	-32.96667	-57.45	UY	12
+Arroyo Sauce Grande	-32.96667	-56.95	UY	12
+Arroyo Sauce Grande	-32.88333	-56.83333	UY	05
+Arroyo Sauce Grande	-32.46667	-55.85	UY	18
+Arroyo Sauce Grande	-32.21667	-56.25	UY	18
+Arroyo de Saucedo	-31.01667	-57.5	UY	15
+Saucedo	-31.08333	-57.51667	UY	15
+Arroyo Sauce de Villanueva	-33.4	-56.43333	UY	05
+Arroyo Sauce de Veras	-32.03333	-55.65	UY	18
+Sauce de Queguay	-32.11667	-57.56667	UY	11
+Arroyo Sauce de Orono	-33.53333	-56.51667	UY	06
+Arroyo Sauce de Orono	-33.5	-56.48333	UY	07
+Arroyo Sauce de Olimar	-33.2	-54.51667	UY	19
+Arroyo Sauce de Mansavillagra	-33.58333	-55.68333	UY	07
+Arroyo Sauce de Macedo	-30.66667	-56.36667	UY	01
+Arroyo Sauce del Yi	-33.4	-55.76667	UY	07
+Sauce del Yi	-33.46667	-55.61667	UY	07
+Arroyo Sauce del Timote	-33.51667	-55.98333	UY	07
+Arroyo Sauce del Penon	-33.76667	-53.63333	UY	14
+Arroyo Sauce de los Mendez	-33.93333	-54.16667	UY	14
+Arroyo Sauce del Medio	-32.25	-56.9	UY	11
+Arroyo Sauce del Cufre	-34.43333	-57.13333	UY	16
+Arroyo Sauce de Herrera	-33.28333	-55.83333	UY	05
+Arroyo Sauce de Conventos	-32.3	-54.25	UY	03
+Arroyo Sauce de Casupa	-34.18333	-55.61667	UY	08
+Arroyo Sauce de Berdias	-34.15	-56.28333	UY	07
+Arroyo Sauce de Batovi	-31.93333	-55.93333	UY	18
+Arroyo Sauce de Agua	-34.8	-55.06667	UY	09
+Arroyo Sauce de Abajo	-33.5	-56.08333	UY	07
+Canada Sauce Chico	-32.66667	-53.51667	UY	03
+Arroyo del Sauce Chico	-31.63333	-57.25	UY	15
+Arroyo del Sauce Chico	-31.58333	-57.66667	UY	15
+Arroyo Sauce Chico	-34.36667	-56.63333	UY	16
+Arroyo Sauce Chico	-34.2	-57.41667	UY	04
+Arroyo Sauce Chico	-33	-57.38333	UY	12
+Arroyo Sauce Chico	-32.73333	-56.3	UY	05
+Arroyo Sauce Caviloso	-33.95	-56.15	UY	07
+Arroyo del Sauce Caido	-33.78333	-54.08333	UY	14
+Zanja del Sauce	-30.65	-57.16667	UY	01
+Zanja del Sauce	-30.5	-57.03333	UY	01
+Zanja del Sauce	-30.46667	-57.13333	UY	01
+Zanja del Sauce	-30.31667	-57.18333	UY	01
+Zanja del Sauce	-30.3	-57.13333	UY	01
+Sierra del Sauce	-34.63333	-55.21667	UY	09
+Sierra del Sauce	-34.15	-54.66667	UY	14
+Punta del Sauce	-34.41667	-57.45	UY	04
+Puerto Sauce	-34.43333	-57.45	UY	04
+Estacion Sauce	-34.58333	-56.05	UY	02
+Estacion Sauce	-34.53333	-54.36667	UY	14
+Canada del Sauce	-34.3	-54.48333	UY	14
+Canada del Sauce	-34.28333	-53.88333	UY	14
+Canada del Sauce	-34.06667	-56.81667	UY	16
+Canada del Sauce	-34.05	-57.4	UY	04
+Canada del Sauce	-34.05	-54.46667	UY	14
+Canada del Sauce	-33.95	-55.71667	UY	07
+Canada del Sauce	-33.95	-55.66667	UY	07
+Canada del Sauce	-33.81667	-57.83333	UY	17
+Canada del Sauce	-33.73333	-54.11667	UY	14
+Canada del Sauce	-33.55	-55.28333	UY	07
+Canada del Sauce	-33.26667	-58.05	UY	17
+Canada del Sauce	-33.03333	-57.56667	UY	12
+Canada del Sauce	-32.95	-55.25	UY	03
+Canada del Sauce	-32.9	-57.9	UY	12
+Canada del Sauce	-32.73333	-53.5	UY	03
+Canada del Sauce	-32.58333	-55.58333	UY	05
+Canada del Sauce	-32.58333	-54.05	UY	10
+Canada del Sauce	-32.56667	-58	UY	11
+Canada del Sauce	-32.55	-55.81667	UY	18
+Canada del Sauce	-32.53333	-55.36667	UY	05
+Canada del Sauce	-32.48333	-55.43333	UY	05
+Canada del Sauce	-32.46667	-54.33333	UY	03
+Canada del Sauce	-32.33333	-55.81667	UY	18
+Canada del Sauce	-32.31667	-55.95	UY	18
+Canada del Sauce	-32.3	-55.85	UY	18
+Canada del Sauce	-32.28333	-56.78333	UY	11
+Canada del Sauce	-32.18333	-57.23333	UY	11
+Canada del Sauce	-32.13333	-57.91667	UY	11
+Canada del Sauce	-32	-57.16667	UY	11
+Canada del Sauce	-31.95	-55.31667	UY	18
+Canada del Sauce	-31.93333	-56.13333	UY	18
+Canada del Sauce	-31.91667	-55.23333	UY	18
+Canada del Sauce	-31.81667	-56.33333	UY	11
+Canada del Sauce	-31.68333	-56.75	UY	11
+Canada del Sauce	-31.68333	-54.61667	UY	13
+Canada del Sauce	-31.65	-55.01667	UY	13
+Canada del Sauce	-31.6	-57.53333	UY	15
+Canada del Sauce	-31.56667	-55.45	UY	13
+Canada del Sauce	-31.56667	-54.96667	UY	13
+Canada del Sauce	-31.53333	-57.78333	UY	11
+Canada del Sauce	-31.45	-55.56667	UY	13
+Canada del Sauce	-31.43333	-56.91667	UY	15
+Canada del Sauce	-31.41667	-57.03333	UY	15
+Canada del Sauce	-31.41667	-56.71667	UY	15
+Canada del Sauce	-31.23333	-57.46667	UY	15
+Canada del Sauce	-31.2	-57.18333	UY	15
+Canada del Sauce	-31.2	-57.16667	UY	15
+Canada del Sauce	-31.18333	-56.88333	UY	15
+Canada del Sauce	-31.16667	-57.23333	UY	15
+Canada del Sauce	-30.98333	-57.6	UY	15
+Canada del Sauce	-30.93333	-57.06667	UY	01
+Canada del Sauce	-30.83333	-56.75	UY	01
+Canada del Sauce	-30.83333	-56.51667	UY	01
+Canada del Sauce	-30.62856	-57.75898	UY	01
+Canada del Sauce	-30.48636	-57.26824	UY	01
+Canada del Sauce	-30.43333	-56.81667	UY	01
+Canada del Sauce	-30.13333	-57	UY	01
+Canada Sauce	-34.5	-54.23333	UY	14
+Canada Sauce	-33.91667	-58.06667	UY	04
+Canada Sauce	-33.9	-54.4	UY	14
+Canada Sauce	-33.86667	-54.26667	UY	14
+Canada Sauce	-31.71667	-55.11667	UY	13
+Canada Sauce	-31.35	-57.56667	UY	15
+Arroyo del Sauce	-34.78333	-55.05	UY	09
+Arroyo del Sauce	-34.68333	-55.95	UY	02
+Arroyo del Sauce	-34.65	-55.48333	UY	02
+Arroyo del Sauce	-34.53333	-54.33333	UY	14
+Arroyo del Sauce	-34.46667	-54.45	UY	14
+Arroyo del Sauce	-34.25	-54	UY	14
+Arroyo del Sauce	-34.23333	-54.78333	UY	08
+Arroyo del Sauce	-34.175	-58.02833	UY	04
+Arroyo del Sauce	-34.18333	-54.75	UY	09
+Arroyo del Sauce	-34.15	-57.88333	UY	04
+Arroyo del Sauce	-34.15222	-56.77333	UY	16
+Arroyo del Sauce	-34.08333	-54.06667	UY	14
+Arroyo del Sauce	-34.05	-53.73333	UY	14
+Arroyo del Sauce	-34.03333	-57.4	UY	04
+Arroyo del Sauce	-33.93333	-56.75	UY	16
+Arroyo del Sauce	-33.88333	-55.98333	UY	07
+Arroyo del Sauce	-33.86667	-58.4	UY	04
+Arroyo del Sauce	-33.85	-56.86667	UY	06
+Arroyo del Sauce	-33.81667	-57.13333	UY	17
+Arroyo del Sauce	-33.8	-57.15	UY	17
+Arroyo del Sauce	-33.78333	-54.9	UY	08
+Arroyo del Sauce	-33.78333	-54.58333	UY	08
+Arroyo del Sauce	-33.73333	-56.58333	UY	06
+Arroyo del Sauce	-33.7	-56.43333	UY	06
+Arroyo del Sauce	-33.68333	-55.2	UY	08
+Arroyo del Sauce	-33.61667	-57.11667	UY	06
+Arroyo del Sauce	-33.58333	-57.2	UY	17
+Arroyo del Sauce	-33.56667	-57.1	UY	06
+Arroyo del Sauce	-33.51667	-55.36667	UY	07
+Arroyo del Sauce	-33.46667	-56.18333	UY	07
+Arroyo del Sauce	-33.46667	-55.41667	UY	07
+Arroyo del Sauce	-33.43333	-56.28333	UY	07
+Arroyo del Sauce	-33.43333	-55.51667	UY	07
+Arroyo del Sauce	-33.41667	-55.9	UY	05
+Arroyo del Sauce	-33.35	-56.65	UY	06
+Arroyo del Sauce	-33.33333	-54.83333	UY	08
+Arroyo del Sauce	-33.3	-57.1	UY	06
+Arroyo del Sauce	-33.3	-55.53333	UY	05
+Arroyo del Sauce	-33.3	-54.45	UY	19
+Arroyo del Sauce	-33.28333	-57.86667	UY	17
+Arroyo del Sauce	-33.25	-57.26667	UY	06
+Arroyo del Sauce	-33.25	-57.25	UY	06
+Arroyo del Sauce	-33.23333	-56.21667	UY	05
+Arroyo del Sauce	-33.21667	-55.35	UY	05
+Arroyo del Sauce	-33.2	-56.88333	UY	06
+Arroyo del Sauce	-33.18333	-55.23333	UY	07
+Arroyo del Sauce	-33.16667	-55.75	UY	05
+Arroyo del Sauce	-33.11667	-58.05	UY	12
+Arroyo del Sauce	-33.1	-57.13333	UY	05
+Arroyo del Sauce	-33.06667	-57.36667	UY	17
+Arroyo del Sauce	-32.93333	-57.75	UY	12
+Arroyo del Sauce	-32.9	-56.83333	UY	05
+Arroyo del Sauce	-32.88333	-56.4	UY	05
+Arroyo del Sauce	-32.85	-57.53333	UY	12
+Arroyo del Sauce	-32.83333	-54.93333	UY	19
+Arroyo del Sauce	-32.81667	-56.25	UY	05
+Arroyo del Sauce	-32.8	-56.48333	UY	05
+Arroyo del Sauce	-32.76667	-58.03333	UY	12
+Arroyo del Sauce	-32.76667	-57.23333	UY	12
+Arroyo del Sauce	-32.7	-57.28333	UY	12
+Arroyo del Sauce	-32.66667	-57.08333	UY	12
+Arroyo del Sauce	-32.66667	-56.58333	UY	18
+Arroyo del Sauce	-32.65	-57.4	UY	12
+Arroyo del Sauce	-32.53333	-57.65	UY	11
+Arroyo del Sauce	-32.53333	-56.73333	UY	12
+Arroyo del Sauce	-32.51667	-51.66667	UY	11
+Arroyo del Sauce	-32.43333	-57.9	UY	11
+Arroyo del Sauce	-32.36667	-54.2	UY	03
+Arroyo del Sauce	-32.28333	-56.78333	UY	11
+Arroyo del Sauce	-32.23333	-55.93333	UY	18
+Arroyo del Sauce	-32.23333	-54.8	UY	03
+Arroyo del Sauce	-32.16667	-57.81667	UY	11
+Arroyo del Sauce	-32.16667	-56.15	UY	18
+Arroyo del Sauce	-32.16667	-55.66667	UY	18
+Arroyo del Sauce	-32.11667	-56.51667	UY	11
+Arroyo del Sauce	-32.1	-54.78333	UY	18
+Arroyo del Sauce	-32.05	-57.1	UY	11
+Arroyo del Sauce	-32.03333	-56.43333	UY	11
+Arroyo del Sauce	-31.93333	-56.11667	UY	18
+Arroyo del Sauce	-31.93333	-55.83333	UY	18
+Arroyo del Sauce	-31.86667	-57.93333	UY	11
+Arroyo del Sauce	-31.85	-58.15	UY	11
+Arroyo del Sauce	-31.85	-57.01667	UY	11
+Arroyo del Sauce	-31.81667	-55.16667	UY	18
+Arroyo del Sauce	-31.78333	-57.78333	UY	11
+Arroyo del Sauce	-31.75	-57.25	UY	11
+Arroyo del Sauce	-31.7	-57.35	UY	11
+Arroyo del Sauce	-31.68333	-57.16667	UY	15
+Arroyo del Sauce	-31.61667	-56.93333	UY	15
+Arroyo del Sauce	-31.56667	-54.53333	UY	13
+Arroyo del Sauce	-31.55	-56.98333	UY	15
+Arroyo del Sauce	-31.48333	-57.81667	UY	15
+Arroyo del Sauce	-31.48333	-54.96667	UY	13
+Arroyo del Sauce	-31.38333	-57.18333	UY	15
+Arroyo del Sauce	-31.2	-56.98333	UY	15
+Arroyo del Sauce	-31.18333	-56.96667	UY	15
+Arroyo del Sauce	-30.78333	-56.61667	UY	01
+Arroyo del Sauce	-30.18333	-56.76667	UY	01
+Arroyo de Sauce	-33.25	-55.5	UY	05
+Arroyo Sauce	-34.63333	-55.48333	UY	00
+Arroyo Sauce	-34.58444	-56.9525	UY	16
+Arroyo Sauce	-34.50111	-56.66139	UY	16
+Arroyo Sauce	-34.46667	-57.03333	UY	16
+Arroyo Sauce	-34.43333	-57.46667	UY	04
+Arroyo Sauce	-34.43333	-57.18333	UY	04
+Arroyo Sauce	-34.41667	-57.11667	UY	16
+Arroyo Sauce	-34.4	-56.65	UY	16
+Arroyo Sauce	-34.27694	-56.73194	UY	16
+Arroyo Sauce	-34.08333	-57.61667	UY	04
+Arroyo Sauce	-33.88333	-56.81667	UY	06
+Arroyo Sauce	-33.35	-56.13333	UY	05
+Arroyo Sauce	-33.33333	-57.31667	UY	06
+Arroyo Sauce	-33.2	-57.16667	UY	06
+Arroyo Sauce	-33.2	-57.06667	UY	06
+Arroyo Sauce	-33.18333	-55.76667	UY	05
+Arroyo Sauce	-32.98333	-55.13333	UY	05
+Arroyo Sauce	-32.85	-56.56667	UY	05
+Arroyo Sauce	-32.73333	-56.08333	UY	05
+Arroyo Sauce	-32.7	-56.3	UY	05
+Arroyo Sauce	-32.16667	-56.13333	UY	18
+Arroyo Sauce	-32.15	-57.6	UY	11
+Arroyo Sauce	-32.03333	-58.13333	UY	11
+Arroyo Sauce	-31.95	-55.96667	UY	18
+Arroyo Sauce	-31.78333	-57.13333	UY	11
+Arroyito del Sauce	-33.31667	-56.28333	UY	06
+Sauce	-34.45	-54.25	UY	14
+Sauce	-34.11667	-53.75	UY	14
+Sauce	-33.96667	-56.8	UY	16
+Sauce	-33.95	-56.85	UY	06
+Sauce	-33.63333	-54.98333	UY	08
+Sauce	-33.56667	-57.46667	UY	17
+Sauce	-33.35	-57.33333	UY	17
+Sauce	-32.8	-57.75	UY	12
+Sauce	-31.98333	-57.33333	UY	11
+Sauce	-30.75	-57.76667	UY	15
+Sauce	-30.58333	-56.63333	UY	01
+Sauce	-34.64694	-56.06278	UY	02
+Sauce	-33.2	-56.78333	UY	05
+Sauce	-31.51667	-57.58333	UY	15
+Bajo del Sargo	-35.03333	-54.88333	UY	00
+Arroyo Sarandizal	-33.18333	-56.2	UY	05
+Arroyo Sarandi Guacho	-32.91667	-53.65	UY	19
+Estacion Sarandi Grande	-33.71667	-56.33333	UY	07
+Arroyo Sarandi Grande	-34.55444	-56.54306	UY	16
+Arroyo Sarandi Grande	-34.36667	-57.3	UY	04
+Arroyo Sarandi Grande	-34.05	-54.6	UY	09
+Arroyo Sarandi Grande	-33.86667	-56.88333	UY	06
+Arroyo Sarandi Grande	-33.3	-57.9	UY	17
+Arroyo Sarandi Grande	-33.03333	-53.58333	UY	19
+Arroyo Sarandi Grande	-32.61667	-57.21667	UY	12
+Arroyo Sarandi Grande	-31.83333	-57.85	UY	11
+Sarandi Grande	-33.73333	-56.33333	UY	07
+Arroyo Sarandi de Zapallar	-32.2	-54.63333	UY	03
+Arroyo Sarandi de Tejera	-33.33333	-56.46667	UY	05
+Sarandi de Navarro	-32.56667	-56.88333	UY	12
+Estacion Sarandi del Yi	-33.31667	-55.61667	UY	05
+Arroyo Sarandi del Yi	-33.36667	-56.56667	UY	06
+Sarandi del Yi	-33.35	-55.63333	UY	05
+Arroyo Sarandi de los Perros	-33	-56.13333	UY	05
+Arroyo Sarandi de los Amarales	-33.93333	-54.16667	UY	14
+Arroyo Sarandi del Medio	-32.4	-56.53333	UY	11
+Arroyo Sarandi del Chileno	-32.66667	-55.8	UY	05
+Arroyo Sarandi del Arapey	-31.06667	-56.36667	UY	15
+Arroyo Sarandi de la Paloma	-34.01667	-54.26667	UY	14
+Arroyo Sarandi de la India Muerta	-33.78333	-54.1	UY	14
+Sarandi de la Horqueta	-33.21667	-53.58333	UY	14
+Arroyo Sarandi de la China	-32.75	-56.5	UY	05
+Arroyo Sarandi del Abra	-33.75	-54.38333	UY	14
+Sarandi de Gutierrez	-33.53333	-54.6	UY	08
+Arroyo Sarandi de Cuaro	-30.78333	-56.76667	UY	01
+Sarandi de Cuaro	-30.83333	-56.75	UY	01
+Sarandi de Cebollati	-33.71667	-54.53333	UY	08
+Arroyo Sarandi de Caballero	-33.16667	-56.65	UY	05
+Sarandi de Acegua	-32.01667	-54.2	UY	03
+Arroyo Sarandi Chico	-34.38333	-57.28333	UY	04
+Arroyo Sarandi Chico	-34.06667	-54.6	UY	09
+Arroyo Sarandi Chico	-33.93333	-56.05	UY	07
+Arroyo Sarandi Chico	-33.31667	-57.9	UY	17
+Arroyo Sarandi Chico	-33.01667	-53.58333	UY	19
+Arroyo Sarandi Chico	-32.98333	-56	UY	05
+Arroyo Sarandi Chico	-32.9	-53.76667	UY	19
+Arroyo Sarandi Chico	-32.6	-57.23333	UY	12
+Arroyo Sarandi Chico	-32.43333	-56.53333	UY	12
+Arroyo Sarandi Chico	-31.83333	-57.8	UY	11
+Arroyo Sarandi Chico	-31.08333	-56.21667	UY	15
+Arroyo Sarandi Chico	-31	-56.26667	UY	15
+Arroyo Sarandi Chico	-30.88333	-56.65	UY	01
+Zanja del Sarandi	-30.63333	-56.18333	UY	01
+Punta Sarandi	-34.91667	-56.21667	UY	10
+Punta Sarandi	-33.01667	-53.55	UY	19
+Gajo del Sarandi	-32.23333	-53.8	UY	03
+Estacion Sarandi	-30.75	-57.05	UY	01
+Canada del Sarandi	-33.9	-54.4	UY	14
+Canada del Sarandi	-33.68333	-54.46667	UY	08
+Canada del Sarandi	-33.33333	-54.85	UY	08
+Canada del Sarandi	-33.3	-57.56667	UY	17
+Canada del Sarandi	-32.46667	-55.4	UY	18
+Canada del Sarandi	-32.33333	-56.48333	UY	18
+Canada del Sarandi	-32.2	-57.03333	UY	11
+Canada del Sarandi	-31.53333	-54.8	UY	13
+Canada del Sarandi	-30.95	-57.61667	UY	15
+Canada del Sarandi	-30.75	-56.85	UY	01
+Canada Sarandi	-33.58333	-54.21667	UY	14
+Canada Sarandi	-33.15	-57.91667	UY	17
+Canada Sarandi	-32.88333	-56.9	UY	05
+Canada Sarandi	-32.78333	-55.65	UY	05
+Canada Sarandi	-32.35	-54.91667	UY	18
+Canada Sarandi	-32.31667	-57.61667	UY	11
+Canada Sarandi	-32.25	-56.68333	UY	11
+Canada Sarandi	-32.01667	-54.66667	UY	18
+Canada Sarandi	-32	-57.6	UY	11
+Canada Sarandi	-32	-54.25	UY	03
+Canada Sarandi	-31.83333	-57.96667	UY	11
+Canada Sarandi	-31.71667	-57.51667	UY	11
+Canada Sarandi	-31.35	-57.58333	UY	15
+Canada Sarandi	-31.31667	-56.85	UY	15
+Canada Sarandi	-31.25	-56.63333	UY	15
+Canada Sarandi	-31.16667	-57.33333	UY	15
+Canada Sarandi	-31.15	-56.8	UY	15
+Canada Sarandi	-30.68333	-57.03333	UY	01
+Arroyo del Sarandi	-34.75	-55.45	UY	09
+Arroyo del Sarandi	-34.7	-55.01667	UY	09
+Arroyo del Sarandi	-34.23333	-53.95	UY	14
+Arroyo del Sarandi	-33.95	-54.5	UY	08
+Arroyo del Sarandi	-33.76667	-55.5	UY	07
+Arroyo del Sarandi	-33.55	-56.8	UY	06
+Arroyo del Sarandi	-33.55	-54.56667	UY	08
+Arroyo del Sarandi	-33.35	-54.33333	UY	19
+Arroyo del Sarandi	-32.91667	-56.36667	UY	05
+Arroyo del Sarandi	-32.86667	-56.63333	UY	05
+Arroyo del Sarandi	-32.81667	-56.53333	UY	05
+Arroyo del Sarandi	-32.8	-55.78333	UY	05
+Arroyo del Sarandi	-32.78333	-55.91667	UY	05
+Arroyo del Sarandi	-32.46667	-55.16667	UY	03
+Arroyo del Sarandi	-32.36667	-54.05	UY	03
+Arroyo del Sarandi	-31.83333	-57.71667	UY	11
+Arroyo del Sarandi	-31.7	-56.55	UY	15
+Arroyo del Sarandi	-31.66667	-57.46667	UY	11
+Arroyo del Sarandi	-31.16667	-57	UY	15
+Arroyo Sarandi	-34.76513	-55.66459	UY	02
+Arroyo Sarandi	-34.61528	-56.48333	UY	16
+Arroyo Sarandi	-34.47361	-56.84694	UY	16
+Arroyo Sarandi	-34.45	-55.53333	UY	02
+Arroyo Sarandi	-34.05	-54.75	UY	08
+Arroyo Sarandi	-33.96667	-58	UY	04
+Arroyo Sarandi	-33.96667	-56.56667	UY	16
+Arroyo Sarandi	-33.8	-54.66667	UY	08
+Arroyo Sarandi	-33.78333	-53.58333	UY	14
+Arroyo Sarandi	-33.7	-56.23333	UY	07
+Arroyo Sarandi	-33.66667	-53.51667	UY	14
+Arroyo Sarandi	-33.63333	-54.4	UY	08
+Arroyo Sarandi	-33.61667	-53.71667	UY	14
+Arroyo Sarandi	-33.5	-54.66667	UY	08
+Arroyo Sarandi	-33.48333	-56.25	UY	07
+Arroyo Sarandi	-33.46667	-54.45	UY	08
+Arroyo Sarandi	-33.26667	-56.85	UY	06
+Arroyo Sarandi	-33.21667	-58	UY	17
+Arroyo Sarandi	-32.95	-56.03333	UY	05
+Arroyo Sarandi	-32.95	-55.28333	UY	05
+Arroyo Sarandi	-32.75	-55.83333	UY	05
+Arroyo Sarandi	-32.73333	-57.48333	UY	12
+Arroyo Sarandi	-32.66667	-54.05	UY	03
+Arroyo Sarandi	-32.61667	-55.6	UY	05
+Arroyo Sarandi	-32.55	-56.95	UY	12
+Arroyo Sarandi	-32.55	-56.5	UY	18
+Arroyo Sarandi	-32.55	-54.75	UY	10
+Arroyo Sarandi	-32.51667	-57.11667	UY	12
+Arroyo Sarandi	-32.5	-57.53333	UY	11
+Arroyo Sarandi	-32.45	-56.16667	UY	05
+Arroyo Sarandi	-32.4	-56.53333	UY	11
+Arroyo Sarandi	-32.3	-53.63333	UY	03
+Arroyo Sarandi	-32.2	-54.66667	UY	03
+Arroyo Sarandi	-32.13333	-55.83333	UY	18
+Arroyo Sarandi	-32.03333	-56.21667	UY	18
+Arroyo Sarandi	-31.93333	-54.58333	UY	18
+Arroyo Sarandi	-31.78333	-54.63333	UY	13
+Arroyo Sarandi	-31.63333	-56.68333	UY	15
+Arroyo Sarandi	-30.74729	-57.71681	UY	15
+Arroyo Sarandi	-30.75	-56.66667	UY	01
+Arroyo Sarandi	-30.73333	-57.66667	UY	00
+Arroyo Sarandi	-30.33333	-56.75	UY	01
+Sarandi	-33.38333	-54.43333	UY	19
+Sarandi	-32.86667	-55.56667	UY	05
+Sarandi	-33.95	-57.9	UY	04
+Sarandi	-32.48333	-53.71667	UY	03
+Sarandi	-31	-56.25	UY	15
+Bajo Sara	-34.93333	-56	UY	02
+Canada de los Santos	-32.31667	-56.75	UY	11
+Canada de Santos	-32.75	-53.5	UY	03
+Piedra Santo Domingo	-34.11667	-58.23333	UY	04
+Arroyo Santo Domingo	-34.11667	-58.23333	UY	04
+Santiago Vazquez	-34.79028	-56.35	UY	10
+Isla Santiago Grande	-33.41468	-58.38246	UY	17
+Arroyo Santiago	-33.41667	-57.38333	UY	17
+Punta Santa Teresa	-34.91667	-56.21667	UY	10
+Laguna Santa Teresa	-32.13333	-54.81667	UY	18
+Fortaleza de Santa Teresa	-33.97255	-53.54865	UY	14
+Estacion Santa Teresa	-34	-56.26667	UY	07
+Banado de Santa Teresa	-33.91667	-53.61667	UY	14
+Santa Teresa	-34.43333	-57.71667	UY	04
+Playa Santa Rosa	-34.88333	-56	UY	02
+Estacion Santa Rosa	-34.5	-56.03333	UY	02
+Arroyo Santa Rosa	-33.78333	-55.71667	UY	07
+Santa Rosa	-34.4975	-56.03722	UY	02
+Punta Santa Rita	-34.46667	-57.86667	UY	04
+Cerro Santander	-31.78333	-55.95	UY	18
+Isla Santa Maria Grande	-33.05	-58.13333	UY	12
+Isla Santa Maria Chica	-33.03333	-58.1	UY	12
+Canada Santa Maria	-34.2	-57.15	UY	04
+Canada Santa Maria	-32.75	-57.56667	UY	12
+Cabo Santa Maria	-34.66823	-54.15389	UY	14
+Arroyo Santa Maria	-34.33333	-57.11667	UY	16
+Rio Santa Lucia Chico	-34.34556	-56.33917	UY	07
+Rio Santa Lucia	-34.78611	-56.35833	UY	00
+Estacion Santa Lucia	-34.45	-56.4	UY	02
+Banco de Santa Lucia	-34.78333	-56.56667	UY	16
+Balneario Santa Lucia	-34.8	-55.53333	UY	02
+Bahia de Santa Lucia	-34.8	-56.5	UY	16
+Santa Lucia	-34.45333	-56.39056	UY	02
+Santa Fernandina	-31.55	-55.55	UY	13
+Arroyo Santa Fe Grande	-33.26667	-58.15	UY	12
+Arroyo Santa Fe Chico	-33.21667	-58.15	UY	12
+Arroyo Santa Fe	-33.45	-56.03333	UY	07
+Arroyo Santa Cruz	-32.95	-57.88333	UY	12
+Santa Clara de Olimar	-32.91667	-54.96667	UY	19
+Estacion Santa Clara	-32.91667	-54.95	UY	08
+Estacion Santa Catalina	-33.81667	-57.48333	UY	17
+Santa Catalina	-33.75	-57.48333	UY	17
+Santa Bernardina	-33.36667	-56.48333	UY	05
+Estacion Santa Ana	-30.9	-57.48333	UY	15
+Coxilha de Santana	-31.25	-55.25	UY	00
+Balneario Santa Ana	-34.8	-55.46667	UY	02
+Arroyo Santa Ana	-34.275	-56.09694	UY	07
+Arroyo Santa Ana	-34.13333	-54.93333	UY	08
+Arroyo Santa Ana	-32.21667	-57.23333	UY	11
+Santa Ana	-34.46667	-57.55	UY	04
+San Servando	-32.63333	-53.3	UY	03
+San Sebastian	-34.8	-54.53333	UY	09
+Rio San Salvador	-33.48389	-58.38361	UY	17
+Estacion San Ramon	-34.3	-55.96667	UY	02
+Arroyo San Ramon	-32.9	-55.55	UY	05
+San Ramon	-34.3	-55.96667	UY	02
+San Rafael	-34.86667	-54.91667	UY	09
+Arroyo San Pedro Grande	-31.91667	-58.06667	UY	11
+Punta San Pedro	-34.46667	-57.86667	UY	04
+Piedras de San Pedro	-34.35	-57.93333	UY	04
+Arroyo San Pedro	-34.35	-57.93333	UY	04
+Arroyo San Pedro	-32.66667	-57.98333	UY	12
+Arroyo San Pedro	-31.73333	-57.86667	UY	11
+San Pedro	-34.35	-57.85	UY	04
+Cerro San Patricio	-32.15	-57.4	UY	11
+Arroyo San Pablo	-31.58333	-55.56667	UY	13
+Sierra San Miguel	-33.7	-53.56667	UY	14
+Punta San Miguel	-33.58333	-53.55	UY	14
+Fuerte de San Miguel	-33.68333	-53.53333	UY	14
+Banados San Miguel	-33.8	-53.7	UY	14
+Arroyo San Miguel	-34.11667	-56.93333	UY	16
+Arroyo San Miguel	-33.61667	-53.53333	UY	00
+Arroyo San Martin	-33.81667	-57.73333	UY	17
+San Martin	-33.75	-57.61667	UY	17
+San Luis Al Medio	-33.61667	-53.71667	UY	14
+Rio San Luis	-33.53333	-53.55	UY	14
+Punta San Luis	-33.53333	-53.53333	UY	14
+Gajo Sur del San Luis	-31.45	-54.56667	UY	00
+Estacion San Luis	-34.23333	-57.55	UY	04
+Balneario San Luis	-34.78333	-55.56667	UY	02
+Arroyo San Luis	-34.16667	-57.73333	UY	04
+Arroyo San Luis	-32.6	-57.38333	UY	12
+Arroyo San Luis	-31.66667	-54.46667	UY	00
+San Luis	-31.56667	-54.55	UY	13
+San Luis	-30.91667	-56.3	UY	15
+Rio San Juan	-34.28333	-57.96667	UY	04
+Punta San Juan	-34.8787	-56.33407	UY	10
+Paso de San Juan	-34.35	-58.01667	UY	00
+Cerros de San Juan	-34.2	-57.95	UY	04
+Banco San Juan	-34.33333	-57.98333	UY	04
+Arroyo San Juan	-34.16667	-55.83333	UY	07
+Arroyo San Juan	-32.75	-57.08333	UY	12
+San Juan	-33.93333	-57.46667	UY	04
+Estacion San Jose de Mayo	-34.3	-56.76667	UY	16
+San Jose de Mayo	-34.3375	-56.71361	UY	16
+San Jose de las Canas	-32.83333	-55.48333	UY	05
+San Jose de Carrasco	-34.86667	-56	UY	02
+Rio San Jose	-34.59944	-56.49472	UY	16
+Punta San Jose	-34.91667	-56.21667	UY	10
+Gajo del San Jose	-32.76667	-55.96667	UY	05
+Departamento de San Jose	-34.25	-56.75	UY	16
+Cerro San Jose	-34.15	-56.86667	UY	16
+Cerro San Jose	-32.78333	-55.43333	UY	05
+Arroyo San Jose	-32.83333	-55.55	UY	05
+Arroyo San Jose	-32.71667	-55.96667	UY	05
+Arroyo San Jose	-31.98333	-58.15	UY	11
+San Jorge	-32.86667	-55.91667	UY	05
+San Javier	-32.68333	-58.13333	UY	12
+San Jacinto	-34.55	-55.88333	UY	02
+Arroyo Sanguinet	-31.63333	-56.11667	UY	13
+San Gregorio de Polanco	-32.61667	-55.83333	UY	18
+Punta de San Gregorio	-34.68361	-56.81861	UY	16
+Cerro San Gregorio	-30.81667	-56.43333	UY	01
+Arroyo San Gregorio	-34.78333	-56.33333	UY	10
+Arroyo San Gregorio	-34.67389	-56.83222	UY	16
+Arroyo San Gregorio	-33.98333	-56.83333	UY	00
+Arroyo San Gregorio	-32.33333	-55.41667	UY	18
+San Gregorio	-33.95	-56.75	UY	16
+Colonia San Gregorio	-30.52079	-57.77823	UY	01
+Canada del Sangrador	-31.71667	-55.98333	UY	18
+Arroyo San Geronimo	-33.95	-56.08333	UY	07
+Isla San Gabriel	-34.48333	-57.9	UY	04
+Canada de San Gabriel	-32.75	-57.28333	UY	12
+Arroyo San Gabriel	-34.18333	-55.86667	UY	08
+San Gabriel	-34.05	-55.88333	UY	07
+Arroyo San Francisco Grande	-32.23333	-58.08333	UY	11
+Arroyo San Francisco Chico	-32.25	-58.05	UY	11
+Isla San Francisco	-32.25	-58.16667	UY	11
+Cerro San Francisco	-33.58333	-55.33333	UY	07
+Arroyo San Francisco	-34.33333	-55.26667	UY	08
+Arroyo San Francisco	-33.51667	-55.36667	UY	07
+Arroyo San Francisco	-33.16667	-53.9	UY	19
+San Francisco	-34.51667	-54	UY	14
+San Felix	-32.33333	-58.13333	UY	11
+San Dios	-33.86667	-57.51667	UY	17
+San Dios	-33.1	-57.73333	UY	17
+Arroyo Sanchez Grande	-33.03333	-57.86667	UY	12
+Sanchez Grande	-32.83333	-57.71667	UY	12
+Arroyo Sanchez Chico	-32.88333	-57.76667	UY	12
+Arroyo Sanchez	-33.01667	-54.81667	UY	19
+Sanchez	-32.91667	-57.73333	UY	12
+Punta San Carlos	-34.43333	-57.88333	UY	04
+Estacion San Carlos	-34.75	-54.93333	UY	09
+Arroyo San Carlos	-34.81667	-54.91667	UY	09
+San Carlos	-34.8	-54.91667	UY	09
+Balneario San Bernardo	-34.45	-53.9	UY	14
+San Bautista	-34.43333	-55.98333	UY	02
+Arroyo San Antonio Grande	-31.35	-57.98333	UY	15
+Arroyo San Antonio Chico	-31.35	-57.85	UY	15
+Estacion San Antonio	-31.36667	-57.8	UY	15
+Cerro San Antonio	-34.87812	-55.27342	UY	09
+Arroyo San Antonio	-34.28333	-56.9	UY	16
+San Antonio	-34.56667	-54.08333	UY	14
+San Antonio	-34.44972	-56.07917	UY	02
+San Antonio	-31.33333	-57.83333	UY	15
+Presa de Salto Grande	-31.25	-57.75	UY	15
+Embalse de Salto Grande	-30.41667	-57.8	UY	00
+Estacion Salto	-31.33333	-57.96667	UY	11
+Departamento de Salto	-31.41667	-57	UY	15
+Arroyo del Salto	-33.23333	-57.21667	UY	06
+Salto	-31.38333	-57.96667	UY	15
+Canada Salteno	-33.38333	-58.25	UY	17
+Arroyo Salsipuedes Grande	-32.81667	-56.68333	UY	05
+Arroyo Salsipuedes Grande	-32.46667	-56.53333	UY	00
+Arroyo Salsipuedes Chico	-32.56667	-56.56667	UY	18
+Arroyo Salsipuedes Chico	-32.38333	-56.38333	UY	18
+Zanja Salobre	-32.53333	-54.35	UY	10
+Canada Salobre	-33.35	-57.08333	UY	06
+Balneario Salinas	-34.78333	-55.85	UY	02
+Arroyo Salinas	-33.13333	-56.06667	UY	05
+Arroyo Saldana	-32.38333	-53.7	UY	03
+Gruta de la Salamanca	-34.03333	-54.56667	UY	00
+Salamanca	-34.16667	-54.66667	UY	09
+Arroyo del Salado	-33.36667	-56.61667	UY	05
+Arroyo Salado	-34.2	-57.4	UY	04
+Arroyo Saladero	-33.06667	-58.1	UY	12
+Arroyo Sacra	-32.33333	-58.1	UY	11
+Saca Chispas	-33.16667	-57.58333	UY	17
+Saca Chispas	-31.86667	-57.28333	UY	11
+Arroyo Saca Calzones	-32.43333	-54.38333	UY	03
+Roca Sabina	-34.9	-56.23333	UY	10
+Arroyo Rubio Chico	-31.25	-55.58333	UY	13
+Punta Rubia	-34.6	-54.11667	UY	14
+Banco Rouen	-35.78333	-56	UY	00
+Arroyo Rosario Chico	-34.18333	-57.15	UY	04
+Rio Rosario	-34.43333	-57.35	UY	04
+Punta del Rosario	-34.41667	-57.33333	UY	04
+Puerto Rosario	-34.4	-57.33333	UY	04
+Estacion Rosario	-34.31667	-57.35	UY	04
+Arroyo Rosario	-33.08333	-54.76667	UY	19
+Arroyo Rosario	-31.78333	-57.75	UY	11
+Rosario	-34.31667	-57.35	UY	04
+Canada de la Ronca	-34	-57.01667	UY	16
+Isla Roman Grande	-32.8	-58.1	UY	12
+Arroyo Roman Grande	-32.83333	-58.08333	UY	12
+Arroyo Roman Chico	-32.8	-58.06667	UY	12
+Arroyo Roman Chico	-32.75	-58.08333	UY	12
+Arroyo Rolon	-33.11667	-56.05	UY	05
+Arroyo Rolon	-32.83333	-56.78333	UY	12
+Arroyo Rolon	-32.3	-55.88333	UY	18
+Rolon	-33.11667	-55.98333	UY	05
+Rolon	-32.68333	-56.88333	UY	12
+Roja	-33.21667	-56.68333	UY	05
+Estacion Rodriguez	-34.38333	-56.55	UY	16
+Arroyo Rodriguez	-31.5	-57.83333	UY	11
+Arroyo Rodriguez	-31.46667	-57.91667	UY	11
+Rodriguez	-34.38278	-56.54167	UY	16
+Punta del Rodeo	-34.89515	-56.24524	UY	10
+Cerro del Rodeo	-31.88333	-56.5	UY	11
+Canada del Rodeo	-33.23333	-54.51667	UY	19
+Canada del Rodeo	-30.28333	-57.01667	UY	01
+Arroyo del Rodeo	-33.43333	-55.51667	UY	07
+Sierra de los Rocha	-34.38333	-54.36667	UY	14
+Laguna de Rocha	-34.63333	-54.3	UY	14
+Estacion Rocha	-34.45	-54.33333	UY	14
+Departamento de Rocha	-34	-54	UY	14
+Cerro de Rocha	-34.15	-53.85	UY	14
+Cerro Rocha	-34.35	-54.38333	UY	14
+Canada de Rocha	-34.85	-56.38333	UY	10
+Arroyo de los Rocha	-34.46667	-54.35	UY	14
+Arroyo de Rocha	-34.56667	-54.28333	UY	14
+Rocha	-34.48333	-54.33333	UY	14
+Cerro Robaina	-34.76667	-55	UY	09
+Parada Rivas	-31.81667	-57.88333	UY	11
+Canada de Rivas	-31.56667	-54.96667	UY	13
+Estacion Risso	-33.61667	-57.56667	UY	17
+Risso	-33.58333	-57.58333	UY	17
+Sierra de los Rios	-32.11667	-54	UY	03
+Roca Rio Negro	-34.88333	-56.23333	UY	10
+Estacion Rio Negro	-32.81667	-56.51667	UY	05
+Departamento de Rio Negro	-32.75	-57.33333	UY	12
+Estacion Rio Branco	-32.58333	-53.4	UY	03
+Rio Branco	-32.59802	-53.38583	UY	03
+Rincon de Yaguari	-31.81667	-55.18333	UY	18
+Rincon de Vidal	-34.38333	-56.38333	UY	02
+Rincon de Velazquez	-34.4	-56.33333	UY	02
+Rincon de Valentines	-31.2	-57.23333	UY	15
+Rincon de Py	-32.5	-54.41667	UY	03
+Rincon de Pacheco	-30.63333	-56.16667	UY	01
+Rincon de Moraes	-31.3	-55.86667	UY	13
+Banados del Rincon de Melilla	-34.71667	-56.33333	UY	10
+Rincon del Pino	-34.48333	-56.85	UY	16
+Rincon de los Oliveras	-34.36667	-53.83333	UY	14
+Rincon de los Negros	-32.71667	-57.46667	UY	12
+Rincon del Cololo	-33.08333	-57.43333	UY	17
+Lago Artificial de Rincon del Bonete	-32.75	-56	UY	05
+Rincon del Bonete	-32.8	-56.41667	UY	05
+Rincon de la Aldea	-31.75	-56.06667	UY	18
+Rincon de Gutierrez	-33.2	-54.75	UY	19
+Rincon de Cuadra	-33.38333	-56.41667	UY	05
+Rincon de Coronel	-32.7	-53.96667	UY	03
+Arroyo del Rincon Chico	-33.78333	-55.46667	UY	07
+Banado Rincon Bravo	-33.58333	-53.78333	UY	14
+Estacion Rincon	-32.83333	-53.81667	UY	19
+Cerro del Rincon	-33.93333	-56.81667	UY	06
+Cerro del Rincon	-33.33333	-55.15	UY	07
+Rincon	-32.78333	-53.83333	UY	19
+Riffo	-34.53333	-56.3	UY	02
+Parada Ricca	-34.33333	-57.41667	UY	04
+Canada de Ricardo	-31.01667	-57.43333	UY	15
+Isla Rica	-30.52458	-57.88282	UY	01
+Canada de Ribas	-31.48333	-54.95	UY	13
+Arroyo Riachuelo	-34.45413	-57.73255	UY	04
+Riachuelo	-34.46667	-57.71667	UY	04
+Reynold	-33.06667	-55.85	UY	05
+Arroyo Retobadas	-32.81667	-57.31667	UY	12
+Estacion Retamosa	-33.58333	-54.73333	UY	08
+Cerro Retamosa	-33.61667	-54.68333	UY	08
+Asperezas de Retamosa	-33.65	-54.55	UY	08
+Arroyo Retamosa	-33.75	-54.68333	UY	08
+Estacion Repecho	-34.75	-55.08333	UY	09
+Rengas	-32.9	-54.03333	UY	19
+Arroyo del Renegado	-33.75	-55.2	UY	09
+Bajo Relampago	-34.45	-57.91667	UY	04
+Arroyo Reina	-30.9	-57.76667	UY	15
+Canada del Refugador	-33.08333	-53.7	UY	19
+Reducto	-34.88333	-56.18333	UY	10
+Cerro Redondo	-33.28333	-54.65	UY	19
+Cerro Redondo	-33	-57.91667	UY	12
+Cerro Redondo	-32.25	-54.16667	UY	03
+Cerro Redondo	-31.8	-56.48333	UY	15
+Cerro Redondo	-31.71667	-56.46667	UY	15
+Piedra Redonda	-34.9	-56.23333	UY	10
+Piedra Redonda	-34.43333	-57.9	UY	04
+Isla Redonda	-31.68333	-58.01667	UY	11
+Isla Redonda	-31.16667	-57.91667	UY	15
+Estacion Reboledo	-34	-55.65	UY	07
+Reboledo	-34	-55.66667	UY	07
+Canada del Realito	-33.86667	-57.48333	UY	17
+Real de San Carlos	-34.43333	-57.88333	UY	04
+Banco Ready	-35.03333	-55.03333	UY	00
+Canada de los Ratones	-30.23333	-56.66667	UY	01
+Punta Rasa	-34.9036	-55.23711	UY	09
+Punta Rasa	-34.40404	-53.78138	UY	14
+Isla Rasa	-34.4031	-53.76946	UY	14
+Arroyo de la Raposa	-30.26667	-56.65	UY	01
+Canada de Ramos	-34.71667	-55.95	UY	02
+Ramos	-31.28333	-56.43333	UY	15
+Ramon Trigo	-32.38333	-54.66667	UY	03
+Ramon Saravia	-33.01667	-55.05	UY	08
+Arroyo Ramirez Grande	-33.01667	-57.05	UY	05
+Punta Ramirez	-34.92167	-56.16972	UY	10
+Playa Ramirez	-34.9162	-56.17018	UY	10
+Ensenada de Ramirez	-34.91667	-56.16667	UY	10
+Canada Ramblon	-33.85	-58.33333	UY	04
+Arroyo de la Rambla	-34.3	-55.83333	UY	02
+Estacion Raigon	-34.35	-56.65	UY	16
+Raigon	-34.35	-56.65	UY	16
+Rafael Perazza	-34.51972	-56.79889	UY	16
+Punta Rabotieso	-32.93333	-53.33333	UY	19
+Arroyo Rabon	-32.48333	-58.06667	UY	11
+Arroyito del Rabon	-32.63333	-54.03333	UY	10
+Cerro Rabioso	-33.83333	-56.28333	UY	07
+Arroyo Quirquincho	-34.55	-54.93333	UY	09
+Punta Quiroga	-33.08333	-53.6	UY	19
+Cerro Quiroga	-32.81667	-54.33333	UY	03
+Arroyo Quiroga	-33.83333	-55.93333	UY	07
+Arroyo Quinton	-34.4	-57.66667	UY	04
+Canada de Quintana	-34.43333	-56.23333	UY	02
+Quintana	-31.4	-56.36667	UY	15
+Canada de la Quinta	-34.63333	-56.41667	UY	02
+Arroyo de la Quinta	-34.63333	-54.86667	UY	09
+Arroyo de la Quinta	-34.15	-57.16667	UY	04
+Arroyo Quillay	-32.06667	-56.21667	UY	18
+Arroyo Quiebra Yugos	-33.93333	-56.38333	UY	07
+Quiebra Yugos	-31.66667	-56.16667	UY	18
+Arroyo Quiebra Yugo	-32.53333	-54.78333	UY	03
+Rio Queguay Grande	-32.15	-58.15	UY	11
+Isla del Queguay Grande	-32.16667	-58.15	UY	11
+Rio Queguay Chico	-32.16667	-57.46667	UY	11
+Isla del Queguay Chico	-32.15	-58.13333	UY	11
+Cerro Queguay	-32.6	-56.55	UY	18
+Arroyo de la Quebrada Grande	-32.18333	-56.03333	UY	18
+Quebrada de los Cuervos	-33.16667	-54.45	UY	19
+Arroyo Quebrada Chica	-32	-56.05	UY	18
+Sierra de la Quebrada	-32.75	-54.75	UY	03
+Sierra de la Quebrada	-32.41667	-54.83333	UY	03
+Arroyo Quebracho Grande	-32.1	-58.03333	UY	11
+Arroyo Quebracho Chico	-31.96667	-57.8	UY	11
+Zanja Quebracho	-30.71667	-56.11667	UY	01
+Sierra del Quebracho	-32.55	-54.7	UY	03
+Estacion Quebracho	-31.95	-57.88333	UY	11
+Arroyo del Quebracho	-33.66667	-54.05	UY	14
+Arroyo Quebracho	-34.66667	-55.48333	UY	02
+Arroyo Quebracho	-32.51667	-54.8	UY	10
+Quebracho	-31.15	-56.16667	UY	15
+Quebracho	-32.68333	-54.63333	UY	03
+Quebracho	-31.95	-57.88333	UY	11
+Canada Quebrachal	-34.4	-57.5	UY	04
+Puntas Duraznito	-33.65	-57.53333	UY	17
+Estacion Puntas de Maciel	-33.6	-56.35	UY	07
+Puntas de Maciel	-33.6	-56.35	UY	07
+Puntas del Tala	-33.38333	-57.55	UY	17
+Puntas del Sauce	-33.85	-57.01667	UY	06
+Puntas del Parao	-32.75	-54.4	UY	03
+Estacion Puntas de Herrera	-33.13333	-55.68333	UY	05
+Puntas de Corrales	-31.31667	-55.2	UY	13
+Puntas de Canas	-31.63333	-56.91667	UY	15
+Puntas de Canada Grande	-34.38333	-56.76667	UY	16
+Puntas de Buricayupi	-31.88333	-57.33333	UY	11
+Estero de la Punta Negra	-33.68333	-53.76667	UY	14
+Punta del Este	-34.96667	-54.95	UY	09
+Cerro de la Punta de la Isla Larga	-33.96667	-53.85	UY	14
+Punta Carretas	-34.92278	-56.15972	UY	10
+Estacion Puma	-34.43333	-55.31667	UY	08
+Cerro del Puma	-34.43333	-55.31667	UY	08
+Canada del Puesto	-32.65	-54.11667	UY	03
+Arroyo del Puesto	-33.16667	-54.86667	UY	08
+Puerto Platero	-34.45	-57.6	UY	04
+Puerto Amaro	-32.75	-53.48333	UY	03
+Paso del Puerto	-33.13333	-57.18333	UY	17
+Arroyo de la Puente	-34.25	-53.95	UY	14
+Pueblo Nuevo	-34.44222	-56.44361	UY	16
+Pueblo Ferrocarril	-34.8	-56.21667	UY	10
+Pueblo del Sauce	-33.68333	-54.65	UY	08
+Pueblo de Arriba	-31.75	-55.46667	UY	18
+Conciliacion	-34.83333	-56.23333	UY	10
+Pueblo Centenario	-32.86667	-56.46667	UY	05
+Canada del Pueblo	-31.96667	-57.18333	UY	11
+Canada Prudencio	-34.31667	-55.96667	UY	02
+Estacion Progreso	-34.66667	-56.23333	UY	02
+Progreso	-34.665	-56.21944	UY	02
+Estacion Presidente Doctor Getulio Vargas	-32.7	-53.5	UY	03
+Canada de Pozzolo	-32.21667	-56.61667	UY	11
+Pozos de San Juan	-34.28333	-58.03333	UY	00
+Canada del Pozo Hondo	-30.3	-57.1	UY	01
+Canada del Pozo	-30.83333	-56.5	UY	01
+Cerro de los Potros	-34	-54.48333	UY	09
+Lomadas del Potrero	-33.88333	-53.58333	UY	14
+Laguna del Potrero	-34.85	-55.13333	UY	09
+Ensenada del Potrero	-34.9	-55.11667	UY	09
+Canada del Potrero	-31.88333	-56.38333	UY	11
+Canada Potrero	-31.95	-56.08333	UY	18
+Arroyo del Potrero	-34.88333	-55.1	UY	09
+Arroyo del Potrero	-33.66667	-55.51667	UY	07
+Arroyo del Potrero	-33.55	-53.66667	UY	14
+Arroyo del Potrero	-33.48333	-55.45	UY	07
+Arroyo del Potrero	-32.7	-55.35	UY	05
+Arroyo del Potrero	-31.91667	-56.76667	UY	11
+Estacion Porvenir	-32.36667	-57.85	UY	11
+Estacion Porvenir	-32.33333	-57.83333	UY	11
+Porvenir	-32.36667	-57.98333	UY	11
+Porvenir	-32.36667	-57.85	UY	11
+Arroyo del Portugues	-33.36667	-57.4	UY	17
+Cerro del Porton	-31.85	-56.8	UY	11
+Cerro Porton	-32.25	-55.86667	UY	18
+Banado de Portela	-32.83333	-54.26667	UY	19
+Sierra de Pororo	-34.16667	-54.9	UY	08
+Arroyo Pororo	-32.61667	-56.6	UY	18
+Arroyo de los Porongos	-33.13333	-53.85	UY	19
+Arroyo Porongos	-33.5	-56.81667	UY	06
+Arroyo Porongos	-33.26667	-56.83333	UY	06
+Ensenada de Polonio	-34.40588	-53.79091	UY	14
+Cabo Polonio	-34.4061	-53.77805	UY	14
+Bajo Polonio	-34.40549	-53.77293	UY	14
+Arroyo Polonia	-34.16667	-57.25	UY	04
+Polanco Sur	-33.85	-55.16667	UY	08
+Arroyo Polancos	-33.86667	-58.25	UY	04
+Arroyo Polanco Grande	-33.9	-58.21667	UY	04
+Polanco del Yi	-33.48333	-56.15	UY	07
+Arroyo Polanco Chico	-33.88333	-58.2	UY	04
+Asperezas de Polanco	-33.91667	-55.25	UY	08
+Arroyo Polanco	-33.88333	-55.05	UY	08
+Polanco	-33.9	-55.15	UY	08
+Playa Pocitas	-34.91507	-56.14773	UY	10
+Pocitos	-34.90972	-56.15222	UY	10
+Poblado Zapucay	-31.71667	-55.33333	UY	13
+Poblado Zambullon	-32.03333	-55.78333	UY	18
+Poblado Varese	-31.3	-57.15	UY	15
+Poblado Sosa	-31.23333	-57.11667	UY	15
+Poblado Segarra	-31.5	-55.16667	UY	13
+Poblado Sause de Tranqueras	-31.83333	-55.93333	UY	18
+Poblado Sauce de Batovi	-31.91667	-56.01667	UY	18
+Poblado San Ramon	-31.96667	-55.05	UY	18
+Poblado San Benito	-32.46667	-56.16667	UY	18
+Poblado Rolon	-32.33333	-55.96667	UY	18
+Poblado Rincon de los Muchadas	-32.21667	-56.01667	UY	18
+Poblado Rincon de la Laguna	-32	-55.48333	UY	11
+Poblado Rincon de la Bolsa	-31.81667	-55.91667	UY	18
+Poblado Rincon de Giloca	-31.83333	-55.76667	UY	18
+Poblado Paso Hondo	-32.33333	-55.88333	UY	18
+Poblado Montevideo Chico	-32.21667	-55.6	UY	18
+Poblado Martinote	-31.88333	-55.96667	UY	18
+Poblado los Silveira	-32.26667	-54.91667	UY	18
+Poblado Los Rodriguez	-31.76667	-56.25	UY	11
+Poblado Los Laureles	-32.5	-56.03333	UY	18
+Poblado Los Grozos	-31.85	-56	UY	18
+Poblado Los Gomez	-32.18333	-55.03333	UY	18
+Poblado Los Garcia	-32.15	-54.95	UY	18
+Poblado Los Coitinhos	-31.83333	-55.98333	UY	18
+Poblado la Villa	-31.36667	-55.08333	UY	13
+Poblado Lavalleja	-31.81667	-55.96667	UY	18
+Poblado Laureles	-31.38333	-55.86667	UY	18
+Poblado Laura	-32.15	-54.88333	UY	18
+Poblado Las Chircas	-32.38333	-55.06667	UY	18
+Poblado La Morcona	-32.18333	-56.06667	UY	18
+Poblado La Humedad	-32.05	-54.86667	UY	18
+Poblado La Hilera	-32.08333	-55.65	UY	18
+Poblado La Chilca	-32.05	-54.63333	UY	18
+Poblado Guaviyu	-31.01667	-56.56667	UY	15
+Poblado Goyo Martinez	-31.9	-55.88333	UY	18
+Poblado Godoy	-31.76667	-56.01667	UY	18
+Poblado Echeverry	-31.68333	-55.95	UY	18
+Poblado del Turupi	-32.18333	-55.28333	UY	18
+Poblado de los Morales	-32.4	-55.35	UY	18
+Poblado de los Cuadrados	-32.16667	-55.95	UY	18
+Poblado del Minuano	-32.45	-55.03333	UY	18
+Poblado de Heriberto	-31.81667	-55.5	UY	18
+Poblado de Castro	-32.83333	-56.43333	UY	05
+Poblado Cerro del Pastoreo	-31.7	-56.1	UY	18
+Poblado Cerro Chato	-32.45	-56.03333	UY	18
+Poblado Cerro Batovi	-31.88333	-56	UY	18
+Poblado Celeste	-31.3	-57.06667	UY	15
+Poblado Berruti	-31.43333	-55.23333	UY	13
+Poblado Batovi	-31.91667	-55.93333	UY	18
+Playa Verde	-34.83333	-55.3	UY	09
+Playa Pascual	-34.74778	-56.465	UY	16
+Playa Mansa	-34.95284	-54.94102	UY	09
+Playa Grande	-34.8645	-55.27886	UY	09
+Platon	-31	-55.68333	UY	13
+Rio de la Plata	-34.88306	-56.71361	UY	00
+Cerro de la Plata	-32.53333	-56.51667	UY	18
+Placido Rosas	-32.75	-53.73333	UY	03
+Puerto de Piriapolis	-34.87593	-55.28097	UY	09
+Piriapolis	-34.86287	-55.27471	UY	09
+Arroyo Piraraja	-33.78333	-54.65	UY	08
+Piraraja	-33.73333	-54.75	UY	08
+Rocas de las Pipas	-34.48333	-57.66667	UY	04
+Arroyo de Pintos	-34.43333	-57.61667	UY	04
+Arroyo de Pintos	-33.91667	-56.85	UY	06
+Pintos	-33.9	-56.83333	UY	06
+Arroyo Pintado Grande	-30.43333	-56.45	UY	01
+Pintado Grande	-30.48333	-56.51667	UY	01
+Estacion Pintado	-33.83333	-56.3	UY	07
+Arroyo del Pintado	-31.28333	-56.2	UY	15
+Arroyo de Pintado	-34.12972	-56.22833	UY	07
+Pintado	-33.83333	-56.3	UY	07
+Arroyo Pintadito	-30.4	-56.46667	UY	01
+Arroyo Pinguino	-32.86667	-58.06667	UY	12
+Estacion Pinera	-32.33333	-57.05	UY	12
+Pinera	-32.33333	-57.05	UY	12
+Pinchazo	-31.3	-57.1	UY	15
+Canada de Pin	-30.88333	-56.45	UY	15
+Arroyo Pilatos	-34.28333	-55.95	UY	02
+Canada de las Piedritas	-34.28333	-55.66667	UY	02
+Arroyo de las Piedritas	-34.2	-55.93333	UY	08
+Piedritas	-34.33333	-55.65	UY	02
+Estacion Piedra Sola	-32.08333	-56.33333	UY	11
+Canada Piedra Sola	-31.53333	-56.46667	UY	15
+Canada Piedra Sola	-30.98333	-57.68333	UY	15
+Arroyo de la Piedra Sola	-34.53333	-55.73333	UY	02
+Piedra Sola	-32.06667	-56.35	UY	11
+Punta Piedras Negras	-34.78333	-55.75	UY	02
+Arroyo Piedras de Fierro	-32.61667	-54.51667	UY	03
+Arroyo Piedras de Espinosas	-34.01667	-57.53333	UY	04
+Punta Piedras de Afilar	-34.8	-55.53333	UY	02
+Estacion Piedras de Afilar	-34.75	-55.51667	UY	02
+Cerro Piedras de Afilar	-34.73333	-55.58333	UY	02
+Canada Piedras de Afilar	-34.16667	-56.75	UY	16
+Canada Piedras de Afilar	-33.83333	-57.25	UY	17
+Piedras de Afilar	-34.71667	-55.53333	UY	02
+Estacion Piedras Coloradas	-32.38333	-57.6	UY	11
+Arroyo Piedras Coloradas	-33.6	-56.25	UY	07
+Piedras Coloradas	-32.38333	-57.6	UY	11
+Canada de las Piedras Blancas	-34.25	-57.75	UY	04
+Canada Piedras Blancas	-33.96667	-57.95	UY	04
+Canada Piedras Blancas	-32.21667	-54.08333	UY	03
+Arroyo de las Piedras Blancas	-34.63333	-54.35	UY	14
+Arroyo Piedras Blancas	-34.38333	-54.06667	UY	14
+Arroyo Piedras Blancas	-32.73333	-53.76667	UY	19
+Piedras Blancas	-34.82861	-56.13944	UY	10
+Punta de las Piedras	-33.5	-53.56667	UY	14
+Punta Piedras	-34.90369	-54.80459	UY	09
+Punta Piedras	-34.02615	-58.29101	UY	04
+Cerro de las Piedras	-32.75	-58.05	UY	12
+Cerro de las Piedras	-32.5	-53.5	UY	03
+Canada de las Piedras	-34.81667	-56.43333	UY	10
+Canada de las Piedras	-34.73333	-55.63333	UY	02
+Canada de las Piedras	-34.73333	-55.4	UY	09
+Canada de las Piedras	-34.63333	-55.75	UY	02
+Canada de las Piedras	-34.23333	-56.33333	UY	07
+Canada de las Piedras	-33.83333	-57.11667	UY	17
+Canada de las Piedras	-33.63333	-57.21667	UY	17
+Canada de las Piedras	-33.23333	-57.95	UY	17
+Canada de las Piedras	-33.15	-57.8	UY	17
+Canada de las Piedras	-32.1	-57.95	UY	11
+Canada de las Piedras	-31.66667	-56.61667	UY	15
+Canada de las Piedras	-31.05	-57.41667	UY	15
+Arroyo de las Piedras	-34.69972	-56.32	UY	00
+Arroyo de las Piedras	-33.58333	-55.11667	UY	08
+Arroyo de las Piedras	-33.33333	-54.33333	UY	19
+Arroyo de las Piedras	-33.26667	-54.33333	UY	19
+Arroyo de las Piedras	-32.8	-55.91667	UY	05
+Piedras	-32.88333	-54.46667	UY	19
+Cerro Piedra Pintada	-30.48333	-56.46667	UY	01
+Piedra Pintada	-30.5	-56.45	UY	01
+Canada de la Piedra Grande	-32.01667	-56.66667	UY	11
+Arroyo Piedra del Toro	-34.73333	-55.83333	UY	02
+Piedra del Toro	-34.65	-55.86667	UY	02
+Canada de la Piedra de Fuego	-33.45	-56.13333	UY	07
+Canada Piedra de Cal	-33.45	-56.1	UY	07
+Cerro de Piedra	-33.58333	-55.08333	UY	08
+Cerro Pichinango	-34.11667	-57.3	UY	04
+Arroyo Pichinango	-34.26667	-57.3	UY	04
+Cerro Picazo	-31.21667	-56.46667	UY	15
+Canada de la Picada	-33.48333	-57.25	UY	17
+Canada Petra Furtada	-31.21667	-56.3	UY	15
+Banco de los Pescadores	-34.5	-57.85	UY	04
+Arroyo del Pescador	-33.68333	-56.98333	UY	06
+Arroyo del Pescado Chico	-33.38333	-55.25	UY	07
+Arroyo del Pescado	-33.28333	-55.45	UY	07
+Arroyo del Pescadero	-31.8	-56.96667	UY	11
+Canada de los Perros	-34.46667	-55.55	UY	02
+Canada de los Perros	-34.4	-54.18333	UY	14
+Canada de los Perros	-32.1	-57.33333	UY	11
+Canada de los Perros	-31.53333	-54.78333	UY	13
+Banado de los Perros	-32.91667	-53.76667	UY	19
+Arroyo de los Perros	-33.83333	-55.61667	UY	07
+Arroyo de los Perros	-33	-56.15	UY	05
+Arroyo Perico Perez	-34.3	-56.66667	UY	16
+Arroyo Perico Flaco	-33.08333	-57.63333	UY	17
+Rincon de Perez	-32.16667	-57.41667	UY	11
+Punta Perez	-34.91667	-56.18333	UY	10
+Arroyo Perez	-32.15	-58.11667	UY	11
+Punta Pereyra	-34.23333	-58.06667	UY	04
+Cerro Pereira	-32.33333	-55.13333	UY	18
+Canada de Pereira	-34.58333	-54.7	UY	09
+Canada de Pereira	-34.45	-56.16667	UY	02
+Cerro Perdido	-34.28333	-55.2	UY	08
+Canada del Perdido	-34.13333	-57.45	UY	04
+Arroyo del Perdido	-34.28333	-55.23333	UY	08
+Arroyo del Perdido	-33.38333	-57.36667	UY	17
+Arroyo del Perdido	-33.36667	-57.88333	UY	17
+Peralta	-32.48333	-56.35	UY	18
+Canada del Peral	-34.76667	-56.35	UY	10
+Pepe Nunez	-31.45	-56.38333	UY	18
+Sierras del Pentinente	-34.31667	-55.13333	UY	08
+Arroyo del Penon	-34.03333	-53.73333	UY	14
+Cerro del Penitente	-34.33333	-55.11667	UY	08
+Arroyo del Penitente	-34.35	-55.16667	UY	08
+Penarol	-34.81667	-56.18333	UY	10
+Penarol	-34.81667	-56.18333	UY	10
+Penarol	-31.78333	-54.33333	UY	03
+Canada del Penado	-31.18333	-57.75	UY	15
+Canada de Pena	-34.28333	-55.68333	UY	02
+Punta Pelotas	-33.33333	-53.56667	UY	14
+Arroyo de Pelotas	-33.45	-53.58333	UY	14
+Cerro Pelado	-34.16667	-55.06667	UY	08
+Cerro Pelado	-34.15	-56.95	UY	16
+Cerro Pelado	-33.41667	-53.76667	UY	14
+Cerro Pelado	-32.11667	-57.56667	UY	11
+Cerro Pelado	-31.53333	-57.8	UY	11
+Cerro Pelado	-31.33333	-55.16667	UY	13
+Arroyo Pelado	-34.41667	-54.78333	UY	14
+Arroyo Pelado	-34.33944	-56.27028	UY	07
+Arroyo Pelado	-33.31667	-57.83333	UY	17
+Arroyo Pelado	-30.35	-57	UY	01
+Canada Pelada	-31.53333	-55.33333	UY	13
+Canada Pelada	-31.31667	-57.68333	UY	15
+Canada de Pedro Souza	-30.37706	-57.63503	UY	01
+Estacion Pedrera	-34.61667	-55.81667	UY	02
+Canada de la Pedrera	-34.21667	-55.93333	UY	08
+Canada de la Pedrera	-33.48333	-56.83333	UY	06
+Arroyo de la Pedrera	-34.15	-56.28333	UY	07
+Arroyo de la Pedrera	-33.61667	-55.65	UY	07
+Arroyo de la Pedrera	-33.48333	-57.63333	UY	17
+Pedrera	-34.58333	-55.83333	UY	02
+Punta Pedregal	-34.88597	-56.33308	UY	10
+Canada del Pedregal	-31.38333	-57.2	UY	15
+Arroyo del Pedregal	-33.45	-56.8	UY	06
+Arroyo Pedregal	-33.95	-56.33333	UY	07
+Arroyo Pedregal	-33.56667	-57.13333	UY	06
+Arroyo Pedernal Grande	-34.33333	-55.8	UY	02
+Arroyo Pedernal Chico	-34.38333	-55.75	UY	02
+Cerro Pedernal	-32.2	-56.3	UY	18
+Pedernal	-34.36667	-55.78333	UY	02
+Puerto Paysandu	-32.31667	-58.1	UY	11
+Departamento de Paysandu	-32.08333	-57.25	UY	11
+Paysandu	-32.32139	-58.07556	UY	11
+Arroyo Pavon	-34.5	-57.08333	UY	16
+Arroyo Pavon	-34.2	-56.95	UY	16
+Pavon	-34.28333	-56.91667	UY	16
+Arroyo de las Pavas	-33.2	-54.73333	UY	19
+Arroyo de las Pavas	-30.85	-57.48333	UY	15
+Canada de la Pava	-31.18333	-57.76667	UY	15
+Arroyo Pauru	-32.68333	-57.13333	UY	12
+Laguna de Paulina	-32.05	-55.4	UY	11
+Punta de los Patos	-34.45	-57.78333	UY	04
+Arroyo de los Patos	-33.08333	-58.13333	UY	12
+Arroyo Patitas	-30.96667	-57.18333	UY	01
+Paso Toscas	-34.45	-56.25	UY	02
+Paso Soca	-32.63333	-56.75	UY	12
+Paso Potrero	-31.46667	-56.83333	UY	15
+Paso Pereira	-32.46667	-55.23333	UY	03
+Paso Molino	-34.85706	-56.21919	UY	10
+Canada del Paso Hondo	-34.21667	-56.93333	UY	16
+Canada del Paso Hondo	-32.43333	-54.21667	UY	03
+Canada Paso Hondo	-33.5	-58.15	UY	17
+Paso Francos	-34.45	-56.28333	UY	02
+Paso de Piriz	-33.05	-54.06667	UY	19
+Paso de Pache	-34.38333	-56.28333	UY	02
+Paso del Tapado	-31.25	-55.33333	UY	13
+Embalse de Paso del Palmar	-33.08333	-57.11667	UY	00
+Paso del Parque	-31.9	-54.78333	UY	18
+Estacion Paso de los Toros	-32.78333	-56.53333	UY	05
+Paso de los Toros	-32.81667	-56.51667	UY	18
+Paso de los Mellizos	-32.53333	-57.13333	UY	12
+Paso de los Carros	-31.98333	-57.41667	UY	11
+Paso del Leon	-30.16667	-57.1	UY	01
+Estacion Paso del Dragon	-32.71667	-53.66667	UY	03
+Estacion Paso del Cerro	-31.48333	-55.83333	UY	18
+Paso del Cerro	-31.51667	-55.76667	UY	18
+Paso del Centurion	-32.16667	-53.75	UY	03
+Paso del Banado	-34.2	-53.93333	UY	14
+Paso de las Piedras	-32.51667	-53.48333	UY	03
+Paso de las Piedras	-31.66667	-56.63333	UY	15
+Paso de las Carretas	-31.5	-56.03333	UY	18
+Paso de la Laguna	-30.96667	-57.53333	UY	15
+Paso de la Horqueta	-34.2	-57.86667	UY	04
+Paso de la Cadena	-34.45	-56.16667	UY	02
+Paso de Ceferino	-31.53333	-56.05	UY	18
+Paso de Antolin	-34.2	-57.78333	UY	04
+Paso Cementerio	-31.41667	-56.68333	UY	15
+Paso de Carrasco	-34.86028	-56.05222	UY	02
+Estacion Paso Ataques	-31.1	-55.66667	UY	13
+Paso Ataques	-31.1	-55.66667	UY	13
+Arroyo del Paso Ancho	-32.83333	-54.5	UY	19
+Ensenada del Paso	-34.93333	-55.91667	UY	02
+Estacion Parque del Plata	-34.7	-55.63333	UY	02
+Punta Parobe	-32.83333	-53.3	UY	19
+Estacion Parish	-32.95	-56.5	UY	05
+Isla del Paredon	-30.71667	-57.8	UY	15
+Canada Paredon	-30.71667	-57.8	UY	15
+Arroyo del Parao	-33.16667	-53.8	UY	14
+Arroyo del Parao	-33.01667	-54.81667	UY	19
+Arroyo del Parao	-32.51667	-54.15	UY	03
+Arroyo Parana	-33.68333	-56.23333	UY	07
+Paralle	-34.26667	-54.31667	UY	14
+Canada del Paraiso	-32.95	-57.45	UY	12
+Canada del Paraiso	-32.93333	-57.43333	UY	12
+Arroyo de los Paraguayos	-33.08333	-55.98333	UY	05
+Arroyo del Paraguayo	-31	-55.68333	UY	13
+Canada de la Paraguaya	-33.53333	-58.16667	UY	17
+Arroyo Paraguay	-31.4	-57.96667	UY	15
+Parada Herreria	-31.35	-57.78333	UY	15
+Cerro Papagallo	-31.76667	-55.4	UY	13
+Arroyo Pantanoso Grande	-32.48333	-58.03333	UY	11
+Arroyo del Pantanoso	-33.53333	-56.8	UY	06
+Arroyo del Pantanoso	-33.45	-57.28333	UY	17
+Arroyo del Pantanoso	-33.26667	-56.25	UY	05
+Arroyo Pantanoso	-34.87111	-56.24417	UY	10
+Arroyo Pantanoso	-34.61667	-56	UY	02
+Arroyo Pantanoso	-34.41667	-57.13333	UY	04
+Arroyo Pantanoso	-34.3	-57.08333	UY	16
+Arroyo Pantanoso	-33.98333	-56.31667	UY	07
+Arroyo Pantanoso	-33.56667	-56.18333	UY	07
+Arroyo Pantanoso	-33.21667	-58.11667	UY	12
+Arroyo Pantanoso	-32.21667	-56.23333	UY	18
+Arroyo Pantanoso	-32	-54.31667	UY	03
+Zanja Pantanosa	-33.9	-56.1	UY	07
+Zanja Pantanosa	-31	-57.15	UY	01
+Zanja Pantanosa	-30.83333	-57.41667	UY	15
+Canada Pantanosa	-34.76667	-55.91667	UY	02
+Canada Pantanosa	-34.48333	-55.96667	UY	02
+Canada Pantanosa	-34.43333	-54.36667	UY	14
+Canada Pantanosa	-34.18333	-54.25	UY	14
+Arroyo Pantanoso	-34.06833	-56.80111	UY	16
+Canada Pantanosa	-33.55	-57.23333	UY	17
+Canada Pantanosa	-32.63333	-57.23333	UY	12
+Canada Pantanosa	-32.61667	-56.96667	UY	12
+Canada Pantanosa	-32.21667	-55.98333	UY	18
+Canada Pantanosa	-31.98333	-56.66667	UY	11
+Canada Pantanosa	-31.66667	-56.68333	UY	15
+Canada Pantanosa	-31.66667	-54.96667	UY	13
+Canada Pantanosa	-31.21667	-57.48333	UY	15
+Canada Pantanosa	-30.93333	-57.15	UY	01
+Canada Pantanosa	-30.86667	-57.25	UY	01
+Canada del Pantano	-32.21667	-57.01667	UY	11
+Estacion Pandule	-32.4	-57.45	UY	11
+Estacion Pando	-34.71667	-55.96667	UY	02
+Arroyo Pando	-34.8	-55.86667	UY	02
+Pando	-34.8	-55.88333	UY	02
+Pando	-34.71667	-55.95	UY	02
+Estacion Pan de Azucar	-34.73333	-55.25	UY	09
+Cerro Pan de Azucar	-34.81007	-55.25887	UY	09
+Arroyo Pan de Azucar	-34.83333	-55.13333	UY	09
+Pan de Azucar	-34.7787	-55.23582	UY	09
+Arroyo Pampillon	-34.33333	-55.1	UY	08
+Estacion Pampa	-32.25	-56.23333	UY	18
+Arroyo Palos Blancos	-34.65	-56.8	UY	16
+Arroyo Palomas Grande	-30.95	-57.71667	UY	15
+Arroyo Palomas Chico	-31.08333	-57.6	UY	15
+Estacion Palomas	-31.08333	-57.6	UY	15
+Cerro de las Palomas	-34.16667	-54.7	UY	09
+Canada de las Palomas	-32.18333	-57.13333	UY	11
+Canada de Palomas	-32.75	-53.56667	UY	03
+Palomas	-31.08333	-57.6	UY	15
+Puerto de la Paloma	-34.63333	-54.08333	UY	14
+Isla de la Paloma	-34.66667	-54.13333	UY	14
+Arroyo de la Paloma	-34.58333	-54.23333	UY	14
+Estacion Palmitas	-33.51667	-57.81667	UY	17
+Arroyo de las Palmitas	-33.4	-57.76667	UY	17
+Palmitas	-32.96667	-57.38333	UY	12
+Palmitas	-33.50719	-57.80079	UY	17
+Canada de la Palmita	-32.03333	-56.91667	UY	11
+Arroyo de la Palmita	-32.7	-57.46667	UY	12
+Restinga de Palmira	-33.88333	-58.41667	UY	04
+Canada de la Palma Torcida	-33.8	-54.06667	UY	14
+Arroyo Palma Sola Grande	-30.8	-57.65	UY	00
+Arroyo Palma Sola Chico	-30.78333	-57.6	UY	01
+Palma Sola	-30.68333	-57.51667	UY	01
+Cerro de las Palmas	-31.21667	-55.8	UY	13
+Canada de las Palmas	-33.65	-58.03333	UY	17
+Canada de las Palmas	-33.08333	-57.61667	UY	17
+Canada de las Palmas	-32.66667	-58.03333	UY	12
+Arroyo de las Palmas	-34.25	-54.76667	UY	09
+Arroyo de las Palmas	-32.88333	-55.33333	UY	08
+Palmar de Quebracho	-31.91667	-57.71667	UY	11
+Palmar de Castillos	-34.26608	-53.93506	UY	14
+Punta Palmar	-34.06859	-53.5508	UY	14
+Arroyo de la Palma Dulce	-33.96667	-54.16667	UY	14
+Canada de la Palma	-32.75	-53.9	UY	03
+Arroyo de la Palma	-33.13333	-53.73333	UY	19
+Palma	-33.75	-54.45	UY	08
+Palma	-30.6	-57.68333	UY	01
+Arroyo Palleros	-32.06667	-54.56667	UY	18
+Estacion Palermo	-33.8	-55.98333	UY	07
+Arroyo de Palacios	-31.41667	-57.6	UY	15
+Punta Pajonal	-34.79917	-56.38361	UY	10
+Canada Pajas Blancas Chica	-34.76667	-56.35	UY	10
+Canada de las Pajas Blancas	-34.55	-55.78333	UY	02
+Canada Pajas Blancas	-34.76667	-56.35	UY	10
+Canada Pajas Blancas	-34.58333	-55.55	UY	02
+Canada Pajas Blancas	-34.53333	-56.4	UY	02
+Canada Pajas Blancas	-34.35	-56.08333	UY	02
+Canada Pajas Blancas	-32.06667	-56.25	UY	18
+Canada Pajas Blancas	-32.05	-54.23333	UY	03
+Arroyo Pajas Blancas	-33.18333	-55.76667	UY	05
+Pajas Blancas	-34.86667	-56.36667	UY	10
+Canada de las Pajas	-33.78333	-54.5	UY	08
+Canada de las Pajas	-32.7	-53.56667	UY	03
+Canada de las Pajas	-31.98333	-54.2	UY	03
+Canada de las Pajas	-31.86667	-55.76667	UY	18
+Banado de las Pajas	-32.53333	-53.45	UY	03
+Paguero	-30.73333	-56.73333	UY	01
+Padula	-33	-53.63333	UY	19
+Isla del Padre	-30.45	-57.3	UY	01
+Arroyo la Pachina	-34.27722	-56.74917	UY	16
+Arroyo Pablo Paez	-32.6	-55.31667	UY	03
+Bajo Oyarvide	-34.40457	-53.75902	UY	14
+Arroyo de las Ovejas	-33.26667	-55.81667	UY	05
+Cerro Otazo	-32.78333	-54.45	UY	03
+Arroyo de Otazo	-32.85	-54.01667	UY	19
+Estacion Ortiz	-34.35	-55.38333	UY	08
+Banco Ortiz	-34.66667	-57.33333	UY	00
+Canada del Oro	-32.5	-55.08333	UY	03
+Arroyo del Oro	-33.05	-54.05	UY	19
+Arroyo Oriental	-33.6	-54.9	UY	08
+Oribe	-31.5	-57.11667	UY	15
+Orgoroso	-32.38333	-57.5	UY	11
+Ordeig	-34.65	-56.71667	UY	16
+Oratorio	-33.98333	-53.98333	UY	14
+Ombues de Oribe	-33.3	-56.35	UY	05
+Ombues de Lavalle	-33.91667	-57.78333	UY	04
+Parada Ombucitos	-33.08333	-58.08333	UY	12
+Cerro del Ombu	-32.06667	-55.71667	UY	18
+Canada del Ombu	-31.55	-56.01667	UY	18
+Canada del Ombu	-30.8	-56.55	UY	01
+Arroyo del Ombu	-33.76667	-55.7	UY	07
+Estacion Olmos	-34.7	-55.93333	UY	02
+Parada Olivera	-33.58333	-57.7	UY	17
+Canada Olivera	-33.5	-58.38333	UY	17
+Canada Olivera	-32.35	-56.55	UY	11
+Olivera	-31.18333	-56.93333	UY	15
+Rio Olimar Grande	-33.26667	-53.86667	UY	19
+Rio Olimar Chico	-33.23333	-54.51667	UY	19
+Rio Olimar	-32.91667	-54.8	UY	19
+Cerros de Olimar	-33.2	-54.6	UY	19
+Cerro de Olaria	-31.41667	-55.75	UY	13
+Cerros de Ojosmin	-33.73333	-57.13333	UY	06
+Canada Ojos de Agua	-30.69925	-57.5311	UY	01
+Canada Ojo Ombu	-31.81667	-54.33333	UY	03
+Cerro del Ojo de Agua	-32	-56.51667	UY	11
+Arroyo Ojo de Agua	-34.7	-56.45	UY	16
+Arroyo del Oeste	-34.46667	-54.35	UY	14
+Canada de las Nutrias	-34.33333	-57.88333	UY	04
+Canada de las Nutrias	-33.75	-54.36667	UY	14
+Canada de las Nutrias	-32.41667	-56.53333	UY	12
+Canada de las Nutrias	-31.16667	-56.91667	UY	15
+Canada Nutrias	-34.35	-55.73333	UY	02
+Canada de la Nutria	-30.16667	-56.78333	UY	01
+Nuevo Paris	-34.85	-56.23333	UY	10
+Nuevo Berlin	-32.98333	-58.05	UY	12
+Puerto Nuevo	-34.65054	-54.1447	UY	14
+Bajo Nuevo	-34.97389	-54.97567	UY	09
+Puerto de Nueva Palmira	-33.86667	-58.41667	UY	04
+Nueva Palmira	-33.88333	-58.41667	UY	04
+Aeropuerto Nueva Hesperides	-31.43848	-57.98529	UY	15
+Nueva Helvecia	-34.3	-57.23333	UY	04
+Nueva Carrara	-34.66667	-55.26667	UY	09
+Arroyo de los Novillos	-33.08333	-54.9	UY	08
+Gajo Norte del Tres Cruces	-31.5	-56.03333	UY	18
+Canada de los Noques	-34.65	-54.35	UY	14
+Arroyo de los Noques	-33.35	-54.9	UY	08
+Arroyo de Nogues	-32.98333	-55.21667	UY	05
+Canada de Nieto	-34	-58.25	UY	04
+Canada de Nieto	-33.65	-58.06667	UY	17
+Estacion Nico Perez	-33.48333	-55.15	UY	08
+Estacion Nico Perez	-33.45	-55.25	UY	07
+Cerro Nico Perez	-33.45	-55.1	UY	08
+Arroyo Nico Perez	-33.43333	-54.91667	UY	08
+Nico Perez	-33.48333	-55.15	UY	07
+Canada del Nicho	-34.2	-57.68333	UY	04
+Canada Nemesio	-33.7	-53.73333	UY	14
+Cerros Negros	-34.1	-57.03333	UY	04
+Canada de los Negros	-34.4	-54.05	UY	14
+Arroyo de los Negros	-34.7	-54.68333	UY	09
+Arroyo de los Negros	-34.58333	-55.75	UY	02
+Arroyo de los Negros	-33.66667	-56.13333	UY	07
+Arroyo de los Negros	-33.01667	-56.96667	UY	05
+Rio Negro	-33.39899	-58.3919	UY	00
+Cerro Negro	-31.01667	-56.13333	UY	15
+Canada del Negro	-34.56667	-55.76667	UY	02
+Arroyo Negro	-33.85	-55.2	UY	08
+Arroyo Negro	-32.5	-57.53333	UY	00
+Arroyo Negro	-32.48333	-58.18333	UY	11
+Zanja Negra	-31.95	-56.61667	UY	11
+Zanja Negra	-30.75	-56.81667	UY	01
+Punta Negra	-34.90438	-55.26093	UY	09
+Punta Negra	-34.46667	-57.78333	UY	04
+Piedra Negra	-34.40135	-53.74778	UY	14
+Laguna Negra	-34.05	-53.66667	UY	14
+Coxilha Negra	-31.03333	-55.75	UY	00
+Cerro Navarro	-34.16667	-53.85	UY	14
+Cerro Navarro	-34.15	-53.85	UY	14
+Cerro Navarro	-33.33333	-57.26667	UY	06
+Arroyo Navarro	-34.28333	-57.28333	UY	04
+Cerro Nato	-33	-55.31667	UY	05
+Lomas de Narvaez	-34.45	-53.93333	UY	14
+Cerro Narvaez	-34.46667	-54.16667	UY	14
+Isla del Naranjo	-33.36717	-58.27397	UY	12
+Arroyo Naquina	-30.44891	-57.79066	UY	01
+Arroyo Nanez	-32.6	-57.75	UY	12
+Arroyo Nanez	-32.58333	-57.96667	UY	12
+Nando	-32.16667	-54.11667	UY	03
+Canada de los Names	-34.85	-56.38333	UY	10
+Arroyo Nacurutu Grande	-32.18333	-57.45	UY	11
+Arroyo Nacurutu Chico	-32.28333	-57.41667	UY	11
+Musi	-31.08333	-56.51667	UY	15
+Punta Muniz	-32.7	-53.2	UY	03
+Canada de las Mulitas	-33.3	-57.9	UY	17
+Cerro Mulero	-33.15	-55.08333	UY	08
+Cerro Mulero	-32.96667	-57.9	UY	12
+Cerro de las Mulas	-34.18333	-54.28333	UY	14
+Canada de las Mulas	-34.78333	-56.35	UY	10
+Arroyo de Muga	-33.31667	-57.31667	UY	17
+Canada de la Muerta	-32.46667	-54.33333	UY	03
+Canada de Mudador	-31.83333	-55.25	UY	18
+Cerro de los Muchachos	-31.55	-56.18333	UY	18
+Mourino	-32.9	-56.13333	UY	05
+Bajo Mostyn	-34.96213	-54.96786	UY	09
+Cerros Mosquitos	-34.63333	-55.71667	UY	02
+Arroyo Mosquitos	-34.71667	-55.73333	UY	02
+Canada del Moscardero	-32.15	-56.55	UY	11
+Canada Moreira	-34.46111	-56.11528	UY	02
+Morato	-32.38333	-56.68333	UY	11
+Arroyo de Moran	-33.45	-55.5	UY	07
+Sierra Monzon	-33.25	-55.25	UY	07
+Cerro de Monzon	-33.33333	-55.28333	UY	07
+Arroyo del Monzon	-33.23333	-57.2	UY	06
+Arroyo de Monzon	-33.75	-57.3	UY	17
+Arroyo Monzon	-33.25	-55.38333	UY	07
+Montevideo Chico	-32.25	-56.51667	UY	11
+Rada de Montevideo	-34.93333	-56.23333	UY	10
+Departamento de Montevideo	-34.825	-56.2	UY	10
+Cerro de Montevideo	-34.89033	-56.25897	UY	10
+Bahia de Montevideo	-34.8875	-56.21278	UY	10
+Montevideo	-34.90328	-56.18816	UY	10
+Estacion Montes	-34.5	-55.56667	UY	02
+Montes	-34.5	-55.58333	UY	02
+Estacion Montecoral	-33.53333	-55.71667	UY	07
+Estacion Montecoral	-33.48333	-55.75	UY	07
+Canada Montecito	-32.3	-54.03333	UY	03
+Punta Monte	-34.85	-56.4	UY	10
+Canada de Montano	-34.53333	-56.41667	UY	02
+Isla del Mono	-34.91667	-56.11667	UY	10
+Arroyo de los Mongoles	-32.08333	-54.75	UY	18
+Bajo Monarca	-34.94238	-54.98601	UY	09
+Arroyo de los Molles Grande	-33.83333	-55.16667	UY	03
+Arroyo Molles Grande	-32.66667	-56.6	UY	12
+Arroyo Molles Grande	-32.25	-56.98333	UY	11
+Arroyo Molles Grande	-32.08333	-57.16667	UY	11
+Arroyo Molles Grande	-31.21667	-57.01667	UY	15
+Canada Molles de Tejera	-33.3	-56.43333	UY	05
+Arroyo Molles de Quinteros	-32.98333	-56.86667	UY	05
+Arroyo Molles de Porrua	-32.91667	-56.85	UY	05
+Arroyo Molles del Timote	-33.51667	-55.95	UY	07
+Arroyo Molles del Pescado	-33.3	-55.45	UY	07
+Molles del Pescado	-33.46667	-55.2	UY	07
+Arroyo Molles Chico	-32.25	-57	UY	11
+Arroyo Molles Chico	-32.05	-57.05	UY	11
+Molles Chico	-33.5	-55.21667	UY	07
+Gajo de los Molles	-32.98333	-56.86667	UY	05
+Estacion Molles	-33.06667	-56.48333	UY	05
+Canada de los Molles	-34.25	-57.95	UY	04
+Canada de los Molles	-33.88333	-57.63333	UY	17
+Canada de los Molles	-33.78333	-57.16667	UY	17
+Canada de los Molles	-32.98333	-55.21667	UY	03
+Canada de los Molles	-32.23333	-56.95	UY	11
+Canada de los Molles	-32	-54.36667	UY	03
+Canada Molles	-34.06667	-56.28333	UY	07
+Arroyo de los Molles	-34	-57.75	UY	04
+Arroyo de los Molles	-33.7	-54.95	UY	08
+Arroyo de los Molles	-33.63333	-56.48333	UY	06
+Arroyo de los Molles	-33.51667	-56.56667	UY	06
+Arroyo de los Molles	-33.41667	-54.88333	UY	08
+Arroyo de los Molles	-33.31667	-54.55	UY	19
+Arroyo de los Molles	-33.26667	-55.43333	UY	07
+Arroyo de los Molles	-33.2	-55.26667	UY	05
+Arroyo de los Molles	-32.86667	-56.45	UY	05
+Arroyo de los Molles	-32.83333	-56.43333	UY	05
+Arroyo de los Molles	-32.83333	-55.16667	UY	03
+Arroyo de los Molles	-32.81667	-56.56667	UY	05
+Arroyo de los Molles	-31.61667	-54.73333	UY	13
+Arroyo de Molles	-33.5	-56.66667	UY	06
+Arroyo Molles	-34.21667	-54.78333	UY	08
+Arroyo Molles	-34.1	-54.8	UY	08
+Arroyo Molles	-34	-56.3	UY	07
+Arroyo Molles	-33.98333	-58.03333	UY	04
+Arroyo Molles	-33.53333	-55.31667	UY	07
+Arroyo Molles	-33.51667	-54.58333	UY	08
+Arroyo Molles	-33.46667	-54.45	UY	08
+Arroyo Molles	-33.35	-54.8	UY	08
+Arroyo Molles	-32.75	-55.46667	UY	05
+Arroyo Molles	-32.53333	-56.5	UY	18
+Arroyo Molles	-31.8	-56.01667	UY	18
+Molles	-33.05	-56.48333	UY	05
+Canada del Molino	-34.91667	-54.98333	UY	09
+Canada del Molino	-34.25	-54.48333	UY	14
+Arroyo Moleras	-34.7	-54.55	UY	09
+Cerro del Mojon	-31.93333	-56.65	UY	11
+Moirones	-31.63333	-55	UY	13
+Cerro del Mirinaque	-31.5	-55.65	UY	13
+Paso de Miranda	-34.40323	-53.77361	UY	14
+Arroyo Miranda	-34.15	-56.76667	UY	16
+Miramar	-34.88491	-56.03929	UY	10
+Mirador Nacional	-34.75	-55.33333	UY	09
+Canada de los Minuanos	-32.48333	-55.13333	UY	18
+Cerro Minuano	-34.1	-54.73333	UY	09
+Arroyo Minuano	-34.4	-57.48333	UY	04
+Minuano	-34.35	-57.43333	UY	04
+Minuano	-32.06667	-53.76667	UY	03
+Cerro Ministro	-31.08333	-55.63333	UY	13
+Cerro Mingote	-33.25	-54.9	UY	08
+Minas de Corrales	-31.58333	-55.46667	UY	13
+Arroyo Minas de Callorda	-32.83333	-56.41667	UY	05
+Sierra de Minas	-34.5	-55.33333	UY	08
+Estacion Minas	-34.36667	-55.25	UY	08
+Cerro de las Minas	-32.88333	-56.31667	UY	05
+Minas	-34.37589	-55.23771	UY	08
+Arroyo de la Mina	-34.65	-55.25	UY	09
+Arroio da Mina	-31.88333	-54.08333	UY	00
+Canada de los Mimbres	-34.33333	-54.5	UY	09
+Canada de los Mimbres	-31.83333	-56.33333	UY	11
+Arroyo de Milan	-33.95	-55.53333	UY	07
+Estacion Migues	-34.51667	-55.63333	UY	02
+Estacion Migues	-34.48333	-55.63333	UY	02
+Migues	-34.48333	-55.65	UY	02
+Arroyo del Miguelete	-34.87	-56.22	UY	10
+Arroyo Miguelete	-34.23333	-57.9	UY	04
+Miguelete	-34.01667	-57.65	UY	04
+Estacion Merinos	-32.4	-56.88333	UY	12
+Merinos	-32.4	-56.9	UY	12
+Estacion Mercedes	-33.25	-58	UY	17
+Canada de las Mercedes	-31.33333	-57.63333	UY	15
+Mercedes	-33.2524	-58.03047	UY	17
+Estacion Menendez	-32.65	-56.48333	UY	18
+Mendoza Chico	-34.2	-56.21667	UY	07
+Arroyo de Mendoza	-34.35528	-56.29528	UY	07
+Arroyo de Mendoza	-34.7975	-56.18	UY	10
+Arroyo Mendoza	-33.4	-55.78333	UY	07
+Mendoza	-34.28333	-56.21667	UY	07
+Mendizabal	-33.05	-54.15	UY	19
+Cerro de Mendez	-33.08333	-54.45	UY	19
+Estacion Menafra	-32.56667	-57.48333	UY	12
+Menafra	-32.56667	-57.48333	UY	12
+Canada de los Membrillos	-34.03333	-56.63333	UY	16
+Canada de los Membrillos	-33.88333	-57.66667	UY	17
+Canada de los Membrillos	-33.25	-54.31667	UY	19
+Estacion Melo	-32.33333	-54.05	UY	03
+Arroyo Melo	-34.35	-57.53333	UY	04
+Melo	-32.36667	-54.18333	UY	03
+Islas Mellizas	-31.82283	-58.07324	UY	11
+Arroyo del Mellado	-31.61667	-57.53333	UY	11
+Arroyo de Melilla	-34.78333	-56.34389	UY	10
+Melilla	-34.78333	-56.25	UY	10
+Gajo Medio del Tres Cruces	-31.5	-56.03333	UY	18
+Zanja del Medio	-33.96667	-55.81667	UY	07
+Zanja del Medio	-30.68333	-57.48333	UY	01
+Cerro del Medio	-31.65	-55.63333	UY	13
+Cerro del Medio	-30.95	-56.31667	UY	15
+Canada del Medio	-33.83333	-56.81667	UY	06
+Canada del Medio	-33.43333	-57.75	UY	17
+Canada del Medio	-33.16667	-57.36667	UY	17
+Canada del Medio	-32.98333	-56.2	UY	05
+Canada del Medio	-32.38333	-56.35	UY	18
+Canada del Medio	-32.35	-57.58333	UY	11
+Canada del Medio	-32.31667	-54.06667	UY	03
+Canada del Medio	-32.3	-56	UY	18
+Canada del Medio	-32.21667	-56.63333	UY	11
+Canada del Medio	-32.03333	-58	UY	11
+Canada del Medio	-31.83333	-57.88333	UY	11
+Canada del Medio	-31.8	-57.06667	UY	11
+Canada del Medio	-31.8	-56.91667	UY	11
+Canada del Medio	-31.56667	-55.25	UY	13
+Canada del Medio	-31.01667	-56.65	UY	15
+Canada del Medio	-30.98333	-56.36667	UY	15
+Canada del Medio	-30.13333	-56.93333	UY	01
+Arroyo del Medio	-34.06667	-55.23333	UY	08
+Arroyo del Medio	-33.81667	-57.71667	UY	17
+Arroyo del Medio	-33.58333	-57.4	UY	17
+Arroyo del Medio	-33.23333	-57.2	UY	17
+Arroyo del Medio	-32.83333	-56.2	UY	05
+Arroyo del Medio	-32.66667	-54.83333	UY	03
+Arroyo del Medio	-32.55	-54.23333	UY	03
+Arroyo del Medio	-32.3	-55.96667	UY	18
+Arroyo del Medio	-31.71667	-55.03333	UY	13
+Arroyo del Medio	-30.73333	-56.35	UY	01
+Arroyo de Medina	-34.63333	-54.71667	UY	09
+Medina	-33.11667	-54.83333	UY	19
+Zanja la Media Luna	-30.5	-57	UY	01
+Mederos	-32.9	-55.23333	UY	03
+Arroyo de los Medanos	-31.41667	-55.58333	UY	13
+Paso Mazangano	-32.11667	-54.68333	UY	18
+Laguna Mazangano	-32.11667	-54.65	UY	18
+Canada Mazangano	-33.03333	-57.01667	UY	05
+Cerros de Maya	-32.46667	-53.58333	UY	03
+Arroyo Mauricio	-34.705	-56.69056	UY	16
+Arroyo de las Maulas	-33.35	-58.25	UY	17
+Canada Matutina	-31.46667	-56.83333	UY	15
+Arroyo Matrero	-30.98333	-56.36667	UY	15
+Banco del Maton	-34.06667	-58.31667	UY	04
+Arroyo Mateo Fernandez	-31.66667	-55	UY	13
+Arroyo Mata Siete	-34.61667	-56.06667	UY	02
+Arroyo Mataperros Grande	-31.06667	-56.45	UY	15
+Canada Mataperros	-32.05	-56.5	UY	11
+Arroyo Mataperros	-30.83333	-56.46667	UY	15
+Arroyo Mataojo Grande	-31.16667	-56.66667	UY	15
+Arroyo Mataojo Chico	-31.11667	-56.58333	UY	15
+Mataojo Chico	-31.18333	-56.28333	UY	15
+Sierra de Mataojo	-34.6	-54.98333	UY	09
+Canada del Mataojo	-32.28333	-56.75	UY	11
+Canada del Mataojo	-32.21667	-57	UY	11
+Canada Mataojo	-34.6	-55.53333	UY	02
+Canada Mataojo	-32.68333	-56.61667	UY	18
+Canada Mataojo	-32.33333	-55.98333	UY	18
+Canada Mataojo	-31.48333	-56.53333	UY	15
+Canada Mataojo	-30.68333	-56.98333	UY	01
+Arroyo Mataojo	-34.63333	-55.48333	UY	08
+Arroyo Mataojo	-34.55	-55.08333	UY	09
+Arroyo Mataojo	-34.1	-55.06667	UY	08
+Arroyo Mataojo	-32.61667	-57.25	UY	12
+Arroyo Mataojo	-32.03333	-58	UY	11
+Arroyo Mataojo	-31.66667	-57.06667	UY	15
+Mataojo	-32.18333	-54.81667	UY	18
+Mataojo	-34.5	-56.38333	UY	02
+Mataojo	-31.21667	-56.31667	UY	15
+Arroyo Mataojito	-31.33333	-56.46667	UY	15
+Arroyo Mataojito	-31.16667	-56.81667	UY	15
+Canada Matador	-32.13333	-56.76667	UY	11
+Canada Matadero	-32.28333	-54.03333	UY	03
+Arroyo Matachinas	-32.6	-56.98333	UY	12
+Masoller	-31.08333	-56.01667	UY	01
+Arroyo de Martin Soroa	-34.46667	-54.35	UY	14
+Banco Martin Garcia	-34.16667	-58.23333	UY	04
+Canada Martinez	-34.38333	-55.91667	UY	02
+Punta Martin Chico	-34.16503	-58.20979	UY	04
+Banco Martin Chico	-34.18333	-58.2	UY	04
+Martin Chico	-34.16121	-58.20711	UY	04
+Cerro del Marques	-34.25	-54.03333	UY	14
+Maronas	-34.85	-56.11667	UY	10
+Cerro Marmaraja	-34.21667	-54.93333	UY	08
+Arroyo Marmaraja	-34.08333	-54.73333	UY	08
+Arroyo Marmaraja	-34.05	-54.73333	UY	08
+Arroyo de la Mariscala	-33.43333	-55.96667	UY	07
+Mariscala	-34.04085	-54.77732	UY	08
+Arroyo Marincho	-33.25	-57.11667	UY	06
+Arroyo Marincho	-33.18333	-57.06667	UY	06
+Marincho	-33.23333	-57.13333	UY	06
+Canada de Marichal	-34.58333	-56.16667	UY	02
+Cerros Maria Piquet	-32.11667	-57.11667	UY	11
+Canada Maria Piquet	-32.16667	-57.18333	UY	11
+Cerro Mariano Rojas	-32.35	-53.93333	UY	03
+Maria Isabel	-33.8	-54	UY	03
+Maria Cejas	-33.08333	-56.18333	UY	05
+Maria Albina	-33.4	-54.68333	UY	19
+Parada Maria	-30.83333	-57.38333	UY	15
+Estacion Margat	-34.48333	-56.35	UY	02
+Punta del Marco	-34.34441	-53.77492	UY	14
+Isla del Marco	-34.34981	-53.74065	UY	14
+Banado de las Maravillas	-33.85	-53.6	UY	14
+Canada Mantero	-32.21667	-57.01667	UY	11
+Estacion Mansavillagra	-33.63333	-55.5	UY	07
+Arroyo Mansavillagra	-33.43333	-55.9	UY	07
+Canada de las Mansas	-32.43333	-55.35	UY	18
+Punta Mansa	-34.89861	-56.06361	UY	10
+Arroyo Mangueras	-31.33333	-55.5	UY	13
+Canada de la Manguera de Piedra	-32.21667	-57.23333	UY	11
+Canada Manguera de Piedra	-32.21667	-54.6	UY	03
+Canada de la Manguera	-33.31667	-55.38333	UY	07
+Canada de la Manguera	-32.46667	-57.1	UY	12
+Canada de la Manguera	-31.83333	-55.81667	UY	18
+Canada Manguera	-32.83333	-54.21667	UY	19
+Canada Manguera	-32.3	-56.45	UY	11
+Arroyo de la Manguera	-33.41667	-55.68333	UY	07
+Arroyo de la Manguera	-33.35	-55	UY	08
+Arroyo de la Manguera	-32.75	-54.25	UY	19
+Arroyo Manguera	-33.3	-56.75	UY	06
+Cerro de Mangrullo	-32.11667	-54.16667	UY	03
+Cerro Mangrullo	-33.73333	-54.91667	UY	08
+Cerro Mangrullo	-31.88333	-55.13333	UY	18
+Canada del Mangrullo	-32.76667	-53.8	UY	03
+Canada Mangrullo	-32.01667	-54	UY	03
+Arroyo Mangrullo	-31.26667	-55.5	UY	13
+Mangrullo	-32.11667	-54.06667	UY	03
+Arroyo Mangacha	-33.9	-55.06667	UY	08
+Estacion Manga	-34.8	-56.15	UY	10
+Canada de la Manga	-34.25	-57.95	UY	04
+Arroyo Manga	-34.81667	-56.06667	UY	10
+Manga	-34.01667	-57.55	UY	04
+Manga	-34	-57.7	UY	04
+Manga	-34.81667	-56.1	UY	10
+Arroyo Maneco	-30.75	-55.98333	UY	01
+Arroyo Mandiyu	-30.46992	-57.83561	UY	01
+Zanja de los Manantiales	-30.48333	-57.08333	UY	01
+Punta Manantiales	-34.90904	-54.82429	UY	09
+Canada de los Manantiales	-32.86667	-57.38333	UY	12
+Canada de los Manantiales	-32.23333	-55.2	UY	18
+Canada de los Manantiales	-32.08333	-53.91667	UY	03
+Canada de los Manantiales	-31.33333	-57.18333	UY	15
+Canada de los Manantiales	-30.66667	-56.93333	UY	01
+Canada Manantiales	-34.88333	-54.76667	UY	09
+Canada Manantiales	-34.03333	-56.31667	UY	07
+Canada Manantiales	-33.88333	-57.71667	UY	17
+Canada Manantiales	-33.15	-56.11667	UY	05
+Canada Manantiales	-31.2	-57.11667	UY	15
+Arroyo Manantiales	-34.56667	-54.66667	UY	09
+Manantiales	-34.9	-54.78333	UY	09
+Arroyo del Manantial	-32.15	-57.91667	UY	11
+Playa de Malvin	-34.8972	-56.10761	UY	10
+Malvin	-34.9	-56.1	UY	10
+Arroyo Malvenir	-33.33333	-58.26667	UY	12
+Arroyo Malo	-34.38333	-56.9	UY	16
+Arroyo Malo	-33.8	-54.96667	UY	08
+Arroyo Malo	-33.73333	-54.88333	UY	08
+Arroyo Malo	-33.23333	-54.53333	UY	19
+Arroyo Malo	-33.2	-56.91667	UY	06
+Arroyo Malo	-33.16667	-53.7	UY	14
+Arroyo Malo	-33.01667	-54.65	UY	19
+Arroyo Malo	-32.73333	-53.88333	UY	03
+Arroyo Malo	-32.5	-55.66667	UY	18
+Arroyo Malo	-32.03333	-56.21667	UY	18
+Arroyo Malo	-31.86667	-58.2	UY	11
+Arroyo Maletas Grande	-33.08333	-57.96667	UY	12
+Punta Maldonado	-34.9187	-54.85233	UY	09
+Morros de Maldonado	-34.7	-55	UY	09
+Estacion Maldonado	-34.86667	-54.95	UY	09
+Departamento de Maldonado	-34.58333	-54.83333	UY	09
+Bahia de Maldonado	-34.93872	-54.99816	UY	09
+Arroyo Maldonado	-34.91733	-54.86555	UY	09
+Maldonado	-34.9	-54.95	UY	09
+Cerro Malbajar	-33.13333	-55.5	UY	05
+Arroyo Malbajar	-33.36667	-54.7	UY	05
+Malbajar	-33.25	-55.58333	UY	05
+Canada Malacara	-31.3	-55.8	UY	13
+Sierra de Mal Abrigo	-34.08333	-57.03333	UY	04
+Estacion Mal Abrigo	-34.15	-56.96667	UY	16
+Cerro Mal Abrigo	-34.06667	-57.1	UY	04
+Mal Abrigo	-34.15	-56.95	UY	16
+Canada Mala	-33.88333	-54.43333	UY	14
+Canada Mala	-32.93333	-57.76667	UY	12
+Arroyo Mahoma Chico	-34.06667	-56.95	UY	16
+Sierra del Mahoma	-34.07944	-56.89389	UY	16
+Arroyo del Mahoma	-34.02389	-56.84278	UY	16
+Maguna	-33.46667	-54.65	UY	08
+Punta Magro	-33.25	-53.56667	UY	14
+Canada Magallanes	-33.51667	-58.23333	UY	17
+Canada Magallanes	-33.48333	-58.16667	UY	17
+Arroyo Maestro Gregorio	-33	-56.48333	UY	05
+Arroyo del Maestrillo	-32.13333	-56.15	UY	18
+Arroyo Maciel	-33.7	-57.98333	UY	17
+Arroyo Maciel	-33.35	-56.61667	UY	06
+Canada Machin de Tala	-34.38333	-56.16667	UY	02
+Machado	-33.86667	-57	UY	17
+Machado	-33.35	-55.61667	UY	05
+Canada Macana	-34.33333	-55.8	UY	02
+Canada Luzardo	-34.46667	-56.13333	UY	02
+Islote de la Luz	-34.91667	-56.05	UY	10
+Cerro Lunarejo	-31.21667	-55.96667	UY	13
+Arroyo Lunarejo	-31.25	-55.83333	UY	13
+Lunarejo	-31.1	-55.98333	UY	13
+Arroyo Lujan	-31.63333	-56.15	UY	13
+Arroyo Luis Pereira	-34.55	-57.03333	UY	16
+Arroyo Luis Pereira	-34.41667	-56.85	UY	16
+Cerro de Luis Melo	-34.58333	-55.01667	UY	09
+Estacion Luis G. Lasala	-34.75	-55.63333	UY	02
+Canada de Lucio	-32.18333	-55.5	UY	18
+Sierra de Los Vegas	-34.2	-54.41667	UY	14
+Los Vasquez	-31.88333	-55.43333	UY	18
+Balneario Los Titanes	-34.8	-55.55	UY	02
+Los Talas	-34.06667	-54.5	UY	09
+Los Talas	-33.33333	-54.78333	UY	08
+Los Rosanos	-31.8	-56.13333	UY	18
+Los Potreros	-31.25	-55.95	UY	13
+Cerro de Los Portugueses	-33.91667	-56.66667	UY	16
+Arroyo de Los Padres	-34.66667	-55.75	UY	02
+Los Novillos	-31.98333	-55.68333	UY	18
+Los Muleques	-34.47196	-57.89555	UY	04
+Cerro de Los Molles	-33.63333	-55.05	UY	08
+Los Mezquitas	-32.9	-56.08333	UY	05
+Sierra Los Mendez	-33.91667	-54.03333	UY	14
+Los Furtados	-32.25	-55.75	UY	18
+Los Furtado	-32.26667	-55.9	UY	18
+Los Feos	-32.3	-55.33333	UY	18
+Los Cerros de San Juan	-34.18333	-57.93333	UY	04
+Los Cerrillos	-34.605	-56.35639	UY	02
+Los Ceballos	-32.1	-57.41667	UY	11
+Los Camejos	-33.11667	-54.81667	UY	19
+Los Banquitos	-34.94864	-54.95649	UY	09
+Los Ahogados	-33.53333	-56.93333	UY	06
+Los Agregados	-32.78333	-55.9	UY	05
+Estacion Lorenzo Geyres	-32.08333	-57.91667	UY	11
+Lorenzo Geyres	-32.08333	-57.91667	UY	11
+Sierra de la Lorencita	-33.9	-54.71667	UY	08
+Arroyo Lorencita	-33.83333	-54.8	UY	08
+Isla Lopez del Oeste	-34.44967	-57.89469	UY	04
+Isla Lopez del Este	-34.45179	-57.88087	UY	04
+Islas Lopez	-34.45151	-57.88207	UY	04
+Lomas de Carmelo	-33.98333	-58.25	UY	04
+Estacion Lomas	-34.53333	-54.2	UY	14
+Sierra Loca	-33.7	-55.25	UY	08
+Punta de Lobos	-34.90529	-56.25901	UY	10
+Isla de Lobos	-35.03333	-54.88333	UY	09
+Isla Lobos	-33.38544	-58.40126	UY	12
+Bajo de Lobos	-35.03333	-54.86667	UY	00
+Lluveras	-31.16667	-57.08333	UY	15
+Canada de las Llovedoras	-32.81667	-57.5	UY	12
+Arroyo Llano	-34.40694	-56.82056	UY	16
+Arroyo de la Lista	-34.58333	-56.48333	UY	02
+Cerro de la Linterna	-32.11667	-57.46667	UY	11
+Arroyo de la Linea	-30.48333	-55.96667	UY	01
+Arroyo Linderos	-34.05	-56.18333	UY	07
+Arroyo de las Limetas	-34.18333	-58.1	UY	04
+Parada Liebigs	-33.16667	-58.16667	UY	12
+Puente Internacional Libertador General San Martin	-33.13333	-58.5	UY	00
+Isla de la Libertad	-34.88882	-56.23416	UY	10
+Libertad	-34.63333	-56.61917	UY	16
+Sierra de los Leones	-33.41667	-57.25	UY	06
+Canada de los Leones	-33.46667	-57.73333	UY	17
+Arroyo Leoncho	-32.91667	-53.96667	UY	19
+Arroyo Leoncho	-32.8	-54.11667	UY	19
+Arroyo del Leon	-34.13333	-54.73333	UY	09
+Canada de Leocadia	-32.03333	-56.93333	UY	11
+Canada del Lenguazo	-31.7	-56.03333	UY	18
+Arroyo Lenguazo	-30.41066	-57.71563	UY	01
+Arroyo Lenguaza Grande	-34.23333	-55.43333	UY	08
+Arroyo Lencinas	-32.78333	-57.51667	UY	12
+Arroyo Lencina	-32.63333	-57.5	UY	12
+Zanja de Lemos	-30.68333	-56.13333	UY	01
+Arroyo de Lemos	-30.31667	-56.58333	UY	01
+Arroyo Lechiguana Chico	-32.81667	-55.16667	UY	03
+Cerro Lechiguana	-34.11667	-53.83333	UY	14
+Arroyo Lechiguana	-32.66667	-55.23333	UY	03
+Arroio Lechiguana	-31.85	-54.48333	UY	00
+Estacion La Viticola	-31.31667	-57.73333	UY	15
+Departamento de Lavalleja	-34	-55	UY	08
+Arroyo de los Lavaderos	-33.8	-55.23333	UY	08
+Lavaderos	-34.9	-56.1	UY	10
+Canada Lavadero	-32.45	-56.4	UY	18
+Canada Lavadero	-31.3	-57.06667	UY	15
+Arroyo Lavadero	-33.5	-54.68333	UY	08
+Arroyo Laureles Grande	-31.46667	-57.75	UY	00
+Arroyo Laureles Chico	-31.41667	-57.5	UY	15
+Arroyo Laureles Chico	-31.36667	-55.78333	UY	13
+Estacion Laureles	-31.38333	-55.86667	UY	18
+Arroyo de los Laureles	-33.1	-57.31667	UY	17
+Arroyo Laureles	-33.91667	-56.55	UY	05
+Arroyo Laureles	-33.88333	-55.11667	UY	08
+Arroyo Laureles	-33.81667	-54.71667	UY	08
+Arroyo Laureles	-32.98333	-54.93333	UY	08
+Arroyo Laureles	-32.6	-56.15	UY	18
+Arroyo Laureles	-32.53333	-54.21667	UY	03
+Arroyo Laureles	-32.11667	-56.51667	UY	11
+Arroyo Laureles	-31.98333	-56.41667	UY	11
+Arroyo Laureles	-31.75	-56.46667	UY	00
+Arroyo Laureles	-31.65	-55.5	UY	13
+Arroyo Laureles	-31.4	-55.8	UY	00
+Laureles	-31.68333	-55.43333	UY	13
+Laureles	-31.51667	-57.53333	UY	15
+Laureles	-31.36667	-55.85	UY	18
+Arroyo Laurel Chico	-31.38333	-55.78333	UY	13
+Canada del Laurel	-34.26667	-57.73333	UY	04
+Canada del Laurel	-33.9	-57.7	UY	17
+Canada del Laurel	-33	-57.1	UY	12
+Arroyo Laurel	-34.31667	-56.86667	UY	16
+La Union	-32.75	-57.75	UY	12
+La Tuna	-34.8	-55.55	UY	02
+Canada La Totora	-34.33333	-57.88333	UY	04
+Arroyo Latorre	-34.21667	-55.73333	UY	08
+La Tentacion	-32.51667	-57.75	UY	11
+La Tentacion	-32.48333	-57.75	UY	11
+Roca La Teja	-34.88333	-56.23333	UY	10
+Las Violetas	-33.6	-57.13333	UY	06
+Islotes Las Toscas	-34.81667	-55.55	UY	02
+Las Toscas	-34.76464	-55.73789	UY	02
+Las Toscas	-34.73333	-55.71667	UY	02
+Las Toscas	-32.15	-55.05	UY	18
+Canada de Las Rosas	-34.63333	-55.75	UY	02
+Las Ratas	-32.08333	-54.25	UY	03
+Rocas Las Pipas	-34.91667	-56.01667	UY	00
+Arroyo Las Piedritas	-34.75	-55.95	UY	02
+Las Piedras	-34.73333	-56.21667	UY	02
+Las Piedras	-34.72639	-56.22	UY	02
+Las Piedras	-30.26204	-57.58174	UY	01
+Canada Las Nutrias	-34.56667	-55.7	UY	02
+Las Maravillas	-33.86667	-53.48333	UY	14
+Islote La Sirena	-34.78333	-55.75	UY	02
+Estacion La Sierra	-34.76667	-55.41667	UY	09
+Punta Las Garzas	-32.9	-53.31667	UY	19
+Las Garzas	-34.73333	-54.4	UY	14
+Estacion Las Flores	-34.8	-55.3	UY	09
+Las Flores	-34.83333	-55.33333	UY	09
+Las Flores	-34.75	-55.33333	UY	09
+Las Flores	-32.41667	-57.58333	UY	11
+Las Flores	-31.81667	-55.21667	UY	18
+Las Delicias	-34.93333	-54.96667	UY	09
+Lascano	-33.66667	-54.2	UY	14
+Las Canas	-32.93333	-55.51667	UY	05
+Las Brujas	-34.63333	-56.33333	UY	02
+Larrosa	-33.38333	-55.08333	UY	08
+Arroyo Larriera	-34.3175	-56.71333	UY	16
+Larrayos	-32.16667	-55.01667	UY	18
+Cerro Largo	-33.33333	-56.83333	UY	06
+Cerro Largo	-33.3	-54.66667	UY	19
+Cerro Largo	-32.6	-54.23333	UY	10
+Cerro Largo	-32	-56.9	UY	11
+Canada Larga	-32	-57.91667	UY	11
+Canada Larga	-31.46667	-57.56667	UY	15
+La Querencia	-34.63333	-55.61667	UY	02
+Lapuente	-31.51667	-54.96667	UY	13
+Lapuente	-31.41667	-54.91667	UY	13
+Banco La Plata	-35.33333	-54.33333	UY	00
+Arroyo de La Plata	-33.1	-54.66667	UY	19
+Arroyo La Plata	-34.38333	-55.25	UY	08
+Cerro La Pedrera	-34.16667	-54.48333	UY	09
+Bajo La Pedrera	-34.6	-54.11667	UY	14
+Arroyo La Pedrera	-34.61667	-55.93333	UY	02
+La Pedrera	-34.6	-54.11667	UY	14
+La Pedrera	-33.5	-56.86667	UY	06
+La Pedrera	-32.35	-54.13333	UY	03
+La Paz	-34.76667	-56.25	UY	10
+La Paz	-34.76167	-56.22361	UY	02
+La Paz	-34.35	-57.3	UY	04
+La Paraguaya	-33.58333	-58.08333	UY	17
+La Panela	-34.91667	-56.45	UY	10
+Puerto de La Paloma	-34.66667	-54.15	UY	14
+Estacion La Paloma	-34.65	-54.15	UY	14
+Estacion La Paloma	-32.71667	-55.6	UY	05
+La Paloma	-34.66268	-54.16452	UY	14
+La Paloma	-32.71667	-55.6	UY	05
+Canada de las Lanzas	-32.78333	-54.3	UY	03
+Arroyo Lanares	-31.75	-56.48333	UY	15
+Canada de la Lana	-34.55861	-56.23056	UY	02
+Arroyo de la Lana	-33.05	-54.15	UY	19
+Playa la Mulata	-34.89887	-56.06924	UY	10
+Cerro La Mina	-34.6	-55.16667	UY	09
+La Mina	-31.9	-54.15	UY	03
+La Micaela	-32.63333	-53.9	UY	03
+La Mazamorra	-32.53333	-55.5	UY	05
+La Macana	-34.05	-56.2	UY	07
+Canada La Lorenza	-34.63333	-55.5	UY	02
+La Lata	-31.73333	-54.41667	UY	03
+Arroyo La Lancha	-33.68333	-57.68333	UY	17
+Canada La Lana	-34.36667	-56.16667	UY	02
+Bajo La Laja	-34.47317	-57.88971	UY	04
+Canada Lagunitas	-34.43333	-56.23333	UY	02
+Laguna Seca	-31.78333	-56.31667	UY	11
+Canada de las Lagunas	-32.13333	-56.76667	UY	11
+Arroyo de las Lagunas	-32.65	-53.86667	UY	03
+Arroyo Laguna del Negro	-32.43333	-54.33333	UY	03
+Arroyo de la Laguna del Chana	-33.41667	-57.5	UY	17
+Arroyo de la Laguna del Chana	-33.38333	-57.35	UY	17
+Canada de la Laguna	-33.31667	-57.8	UY	17
+Canada de la Laguna	-30.62273	-57.72223	UY	01
+Arroyo Lagarto	-33.01667	-54.73333	UY	19
+La Florida	-32.76667	-57.78333	UY	12
+Estacion La Floresta	-34.73333	-55.68333	UY	02
+La Floresta	-34.83333	-56.21667	UY	10
+La Floresta	-34.75572	-55.68141	UY	02
+La Estanzuela	-34.33333	-57.71667	UY	04
+La Esperanza	-33	-55.13333	UY	03
+Cerro de los Ladrones	-33.5	-57.23333	UY	17
+Arroyo Ladrillos	-33.76667	-55.28333	UY	08
+Ladrillos	-33.75	-55.28333	UY	08
+Bajo Ladas	-34.86667	-54.63333	UY	09
+Estacion La Cruz	-33.93333	-56.23333	UY	07
+Cerro de La Cruz	-31.75	-55.21667	UY	13
+La Cruz	-33.93333	-56.25	UY	07
+La Coronilla	-33.89671	-53.51749	UY	14
+La Coronilla	-33.56667	-53.85	UY	14
+Estacion La Cordobesa	-33.4	-56.63333	UY	06
+La Chiva	-33.25	-54.01667	UY	19
+Cerro La Centinela	-34.23333	-54.41667	UY	14
+La Caleta	-34.94521	-55.93202	UY	02
+La Calera	-31.45	-55.41667	UY	13
+La Calavera	-32.93333	-54.26667	UY	19
+La Bolsa	-31.25	-57.2	UY	15
+La Bolsa	-31.08333	-57.01667	UY	15
+La Bolsa	-30.86667	-56.36667	UY	15
+La Alegria	-32.6	-55.58333	UY	05
+Kiyu	-34.65	-56.75	UY	16
+Parada Kilometro 329	-32.43333	-55.5	UY	05
+Parada Kilometro 71	-34.36667	-56.4	UY	07
+Kilometro 71	-34.36667	-56.4	UY	07
+Parada Kilometro Setenta y Ocho	-34.76667	-55.55	UY	02
+Estacion Kilometro Ciento Cuarenta y Cuatro	-34.78333	-54.95	UY	09
+Zanja del Junco	-30.83333	-57.4	UY	15
+Canada del Junco	-31.01667	-56.63333	UY	15
+Canada del Junco	-30.15	-56.98333	UY	01
+Isla Juncalito	-33.95	-58.4	UY	04
+Arroyo Juncal de Sarandi	-34.43333	-55.55	UY	02
+Isla Juncal	-33.96667	-58.4	UY	04
+Cerro Juncal	-33.7	-57.66667	UY	17
+Canada del Juncal	-34.71667	-56.33333	UY	10
+Canada del Juncal	-34.63333	-55.93333	UY	02
+Canada del Juncal	-33.81667	-56.88333	UY	06
+Canada del Juncal	-31.68333	-57.46667	UY	11
+Canada Juncal	-33	-56.08333	UY	05
+Arroyo del Juncal	-34.61667	-56.78333	UY	16
+Arroyo del Juncal	-34.53333	-56.43333	UY	02
+Arroyo del Juncal	-34.06028	-56.5275	UY	16
+Arroyo del Juncal	-33.36667	-57.43333	UY	17
+Arroyo Juncal	-34.51861	-56.97806	UY	16
+Arroyo Juncal	-33.5	-56.95	UY	06
+Arroyo Juncal	-33.16667	-57.36667	UY	17
+Arroyo Juncal	-32.95	-55.93333	UY	05
+Arroyo Juncal	-32.18333	-57.53333	UY	11
+Arroyo Juncal	-31.15	-57.33333	UY	15
+Estacion Julio Maria Sanz	-33.15	-54.15	UY	19
+Julio Maria Sanz	-33.15	-54.15	UY	19
+Arroyo Jucal	-33.9	-56.16667	UY	07
+Arroyo Juan Tomas	-32.5	-56.55	UY	12
+Cerro Juan Sosa	-33.66667	-54	UY	14
+Estacion Juan Soler	-34.28333	-56.81667	UY	16
+Juan Soler	-34.31917	-56.80528	UY	16
+Arroyo Juan Santos	-32.38333	-58.15	UY	11
+Arroyo Juan Perez	-31.08333	-56.26667	UY	15
+Canada Juan Maria	-31.86667	-56.36667	UY	11
+Canada de Juan Manuel	-33.15	-57.26667	UY	17
+Canada Juan Manuel	-31.66667	-57.46667	UY	11
+Arroyo de Juan Macedo	-30.65	-56.3	UY	01
+Juan L. Lacaze	-34.43333	-57.41667	UY	04
+Estacion Juan Jose Castro	-33.5	-56.75	UY	06
+Juan Jose Castro	-33.5	-56.75	UY	06
+Estacion Juan Jackson	-33.91667	-57.2	UY	04
+Arroyo Juan Isidro	-34.01667	-56.83333	UY	16
+Arroyo Juanin	-32.81667	-58.06667	UY	12
+Arroyo Juan Gonzalez Grande	-34.00639	-58.29874	UY	04
+Arroyo Juan Gonzalez Chico	-34.06667	-58.05	UY	04
+Bajo Juan Gallo	-34.93333	-55.91667	UY	02
+Arroyo Juan Fernandez	-30.68333	-56.31667	UY	01
+Arroyo Juan Esteban	-34.01667	-56.83333	UY	16
+Arroyo Juan Esteban	-32.85	-56.75	UY	05
+Arroyo Juan Duro	-34	-56.06667	UY	07
+Estacion Jose Pedro Varela	-33.45	-54.66667	UY	07
+Jose Pedro Varela	-33.45	-54.53333	UY	08
+Arroyo Jose Juan	-30.56667	-56.98333	UY	01
+Punta Jose Ignacio	-34.8458	-54.62994	UY	09
+Morro de Jose Ignacio	-34.51667	-54.66667	UY	09
+Laguna Jose Ignacio	-34.82532	-54.70445	UY	09
+Estacion Jose Ignacio	-34.68333	-54.71667	UY	09
+Arroyo Jose Ignacio	-34.78333	-54.68333	UY	09
+Jose Ignacio	-34.68333	-56.73333	UY	16
+Jose Ignacio	-34.84428	-54.63733	UY	09
+Parada Jose Enrique Rodo	-34.46667	-56.28333	UY	07
+Jose Enrique Rodo	-33.68333	-57.56667	UY	17
+Estacion Jose Enrique	-33.65	-57.53333	UY	17
+Jose Batlle y Ordonez	-33.46667	-55.11667	UY	08
+Canada Jorobilla	-34.6	-55.75	UY	02
+Estacion Joaquin Suarez	-34.73333	-56.03333	UY	02
+Joaquin Suarez	-34.73361	-56.03667	UY	02
+Estacion Joanico	-34.6	-56.25	UY	02
+Joanico	-34.58944	-56.25278	UY	02
+Jimenez	-33	-55.78333	UY	05
+Punta Jesus Maria	-34.64917	-56.89222	UY	16
+Banco Jesus Maria	-34.68333	-56.9	UY	16
+Arroyo Jesus Maria	-34.25583	-56.73806	UY	16
+Estacion Javier de Viana	-30.43333	-56.78333	UY	01
+Javier de Viana	-30.4	-56.78333	UY	01
+Balneario Jaureguiberry	-34.8	-55.4	UY	02
+Arroyo Jaboneria	-31.83333	-56.15	UY	01
+Estacion Ituzaingo	-34.41667	-56.43333	UY	16
+Ituzaingo	-34.85	-56.11667	UY	10
+Ituzaingo	-34.41972	-56.4225	UY	16
+Itapeby Chico	-31.21667	-57.63333	UY	15
+Arroyo Itapebi Grande	-31.2	-57.9	UY	15
+Arroyo Itapebi Chico	-31.2	-57.85	UY	15
+Estacion Itapebi	-31.28333	-57.7	UY	15
+Itapebi	-31.3	-57.7	UY	15
+Parada Itacumbu	-30.56667	-57.4	UY	01
+Arroyo Itacumbu	-30.36981	-57.65687	UY	01
+Cerro Itacabo	-32.81667	-57.3	UY	12
+Cerro Itacabo	-32.01667	-56.71667	UY	11
+Arroyo Itacabo	-32.11667	-56.75	UY	11
+Itacabo	-32.83333	-57.33333	UY	12
+Ismael Cortinas	-33.41667	-57.06667	UY	04
+Punta del Islote	-34.46667	-57.76667	UY	04
+Canada de las Isletas	-32.31667	-57.9	UY	11
+Canada de las Isletas	-32.26667	-57.68333	UY	11
+Canada de las Isletas	-31.18333	-55.48333	UY	13
+Canada de las Isletas	-31.16667	-55.48333	UY	13
+Arroyo de las Isletas	-33.46667	-57.55	UY	17
+Arroyo de las Isletas	-33.4	-57.65	UY	17
+Canada de la Isleta	-32.43333	-57.05	UY	12
+Canada de la Isleta	-31.98333	-57.01667	UY	11
+Canada de la Isleta	-31.8	-56.96667	UY	11
+Canada de la Isleta	-31.55	-51.28333	UY	13
+Canada de la Isleta	-30.95	-57.56667	UY	15
+Arroyo de la Isleta	-32.51667	-56.73333	UY	12
+Arroyo de la Isleta	-31.35	-57.18333	UY	15
+Arroyo de la Isleta	-30.96667	-57.45	UY	15
+Canada Isla Zapata	-32.2	-54.03333	UY	03
+Arroyo de la Isla Sola	-33.16667	-56.16667	UY	05
+Arroyo Isla Seca	-32.46667	-56.08333	UY	18
+Arroyo Islas de Arguelles	-32.7	-56.73333	UY	12
+Canada de las Islas	-32.56667	-53.63333	UY	03
+Arroyo Islas	-33.46667	-54.91667	UY	08
+Isla Patrulla	-32.98333	-54.58333	UY	19
+Arroyo Isla Negra	-33.6	-53.61667	UY	14
+Canada Isla Muerta	-32.1	-55.15	UY	18
+Canada de la Isla Mala	-34.66667	-56.81667	UY	16
+Canada de la Isla Mala	-33.35	-57.11667	UY	06
+Arroyo Isla Mala	-34.2	-56.33333	UY	07
+Arroyo Isla Mala	-34.15	-57.1	UY	16
+Arroyo de la Isla del Puma	-33.26667	-56.4	UY	05
+Canada de la Isla de los Maderos	-32.25	-56.71667	UY	11
+Canada Isla Cabellos	-30.55	-57.23333	UY	01
+Canada de la Isla	-32.43333	-57.05	UY	12
+Arroyo de la Isla	-33.08333	-56.6	UY	05
+Arroyo de la Isla	-31.78333	-57.1	UY	11
+Isidoro Noblia	-31.83333	-54.16667	UY	03
+Canada de la Invernada	-32.25	-56.71667	UY	11
+Canada de la Invernada	-32.1	-56.71667	UY	11
+Canada de la Invernada	-31.8	-56.33333	UY	11
+Canada de la Invernada	-31.68333	-56.48333	UY	15
+Arroyo de la Invernada	-31.35	-56.35	UY	15
+Arroio Invernada	-30.8	-56.01667	UY	00
+Cerro del Ingles	-34.87812	-55.274	UY	09
+Banco Ingles	-35.2	-55.91667	UY	02
+Ingenio Jose Serrato	-33.25	-53.91667	UY	19
+Estacion Ingeniero Victor V. Sudriers	-34.7	-55.9	UY	02
+Estacion Ingeniero Andreoni	-34.36667	-55.51667	UY	08
+Ingeniero Andreoni	-34.36667	-55.51667	UY	08
+Cerro del Infierno	-34.28333	-54.25	UY	14
+Sierra de Infiernillo	-34.2	-55.1	UY	08
+Sierra Infiernillo	-31.38333	-56.16667	UY	15
+Canada Infiernillo	-32.45	-54.28333	UY	03
+Isla del Infante	-33.33777	-58.25775	UY	12
+Cerro de los Indios	-33.93333	-53.66667	UY	14
+Arroyo de los Indios	-33.9	-53.71667	UY	14
+Cerro del Indio Marcos	-34.63333	-54.93333	UY	09
+Cerro de los Indigenas	-34.16667	-54.53333	UY	09
+Sierra de la India Muerta	-34.23333	-54.33333	UY	14
+Estero de la India Muerta	-33.65	-54.08333	UY	14
+Estero India Muerta	-33.18333	-53.91667	UY	14
+Canada de la India Muerta	-34.11667	-56.53333	UY	16
+Arroyo de la India Muerta	-33.66667	-54.06667	UY	14
+Estacion Independencia	-34.31667	-56.4	UY	07
+Independencia	-34.35167	-56.39833	UY	07
+Punta Iman	-34.88871	-55.28187	UY	09
+Cerro del Iman	-31.8	-55.28333	UY	18
+Estacion Illescas	-33.6	-55.33333	UY	07
+Cerros de Illescas	-33.5	-55.4	UY	07
+Cerro Illescas	-31.98333	-56.61667	UY	11
+Arroyo Illescas	-33.38333	-55.65	UY	07
+Illescas	-33.6	-55.33333	UY	07
+Canada de la Iglesia	-32	-54.93333	UY	18
+Canada Icasuriaga	-34.35	-56.31667	UY	02
+Canada de Ibanez	-32.28333	-54.05	UY	03
+Isla Humphreys	-34.89375	-56.24255	UY	10
+Canada de las Horquetas	-33.6	-58.13333	UY	17
+Arroyo Horqueta del Queguay Chico	-31.93333	-56.83333	UY	11
+Canada de la Horqueta	-34.5	-55.95	UY	02
+Canada de la Horqueta	-33.3	-57.55	UY	17
+Canada de la Horqueta	-32.03333	-54.31667	UY	03
+Canada de la Horqueta	-31.95	-56.61667	UY	11
+Canada de la Horqueta	-31.13333	-56.8	UY	15
+Canada de la Horqueta	-30.51141	-57.60568	UY	01
+Canada de Horqueta	-34.5	-55.75	UY	02
+Canada Horqueta	-31.08333	-56.06667	UY	13
+Arroyo de la Horqueta	-34.35	-56.03333	UY	02
+Arroyo de la Horqueta	-34.08333	-57.2	UY	04
+Arroyo de la Horqueta	-33.95	-56.33333	UY	07
+Horqueta	-34.11667	-53.95	UY	14
+Isla Hornos del Oeste	-34.41667	-57.93333	UY	04
+Isla Hornos del Medio	-34.42135	-57.90645	UY	04
+Isla Hornos del Este	-34.42178	-57.92052	UY	04
+Punta Hornos	-34.43333	-57.9	UY	04
+Islas de Hornos	-34.42171	-57.91194	UY	04
+Cerro del Horno	-32.05	-56.55	UY	11
+Canada del Horno	-33.35	-57.08333	UY	06
+Canada del Horno	-33.03333	-56.31667	UY	05
+Canada del Horno	-32.46667	-54.41667	UY	03
+Canada del Horno	-32.26667	-57.21667	UY	11
+Canada del Horno	-32.08333	-56.53333	UY	11
+Arroyo del Horno	-33.91667	-56.7	UY	16
+Arroyo del Horno	-33.43333	-56.56667	UY	06
+Canada del Horno	-34.05667	-56.64611	UY	16
+Horno	-33.98333	-57.35	UY	04
+Zanja Honda	-31.98333	-55.68333	UY	18
+Zanja Honda	-30.98333	-55.61667	UY	13
+Zanja Honda	-30.78333	-57.55	UY	01
+Canada Honda	-30.37441	-57.53284	UY	01
+Canada Honda	-34.76667	-54.56667	UY	09
+Canada Honda	-32.16667	-54.85	UY	18
+Canada Honda	-32.08333	-57.36667	UY	11
+Canada Honda	-30.4	-56.86667	UY	01
+Arroyo Higueritas	-33.88333	-58.41667	UY	04
+Arroyo Higueritas	-31.06667	-56.5	UY	15
+Arroyo de las Higueras	-32.95	-56.03333	UY	05
+Arroyo Hervidero Grande	-31.56667	-57.98333	UY	11
+Arroyo Hervidero Chico	-31.56667	-57.96667	UY	11
+Meseta del Hervidero	-31.55	-57.96667	UY	11
+Estacion Hernandarias	-33.66667	-55.9	UY	07
+Estacion Haedo	-32.98333	-57.98333	UY	12
+Canada de las Habas	-34.61667	-55.75	UY	02
+Arroyo Gutierrez Grande	-32.58333	-57.9	UY	12
+Arroyo Gutierrez Chico	-32.65	-57.75	UY	12
+Arroyo Gutierrez	-33.6	-54.36667	UY	14
+Zanja del Gurupi	-30.68333	-56.9	UY	01
+Estacion Guichon	-32.35	-57.2	UY	11
+Guichon	-32.35	-57.2	UY	11
+Bajo la Guia	-34.95	-55.93333	UY	02
+Guerrero	-33.85	-57.68333	UY	17
+Cerro de Guazunambi	-32.65	-54.31667	UY	03
+Arroyo Guazunambi	-32.73333	-54.23333	UY	03
+Arroyo Guayreno	-33.93333	-56	UY	07
+Estacion Guaycuru	-34.06667	-57.03333	UY	16
+Cerro Guaycuru	-34.03333	-56.88333	UY	16
+Cerro Guaycuru	-33.15	-55.21667	UY	05
+Arroyo Guaycuru	-34	-56.83333	UY	16
+Arroyo Guayabos Grande	-32.18333	-57.4	UY	11
+Arroyo Guayabos Chico	-32.28333	-57.3	UY	11
+Parada Guayabos	-32.35	-57.28333	UY	11
+Arroyo Guayabos	-34.115	-56.77667	UY	16
+Arroyo Guayabos	-32.88333	-56.11667	UY	05
+Arroyo Guayabos	-32.3	-56.46667	UY	11
+Arroyo Guayabos	-31.63333	-56.66667	UY	15
+Arroyo Guayabos	-31.61667	-55.55	UY	13
+Guayabos	-32.25	-57.3	UY	11
+Isla Guaviyu	-31.73333	-58.03333	UY	11
+Estacion Guaviyu	-31.86667	-57.9	UY	11
+Cerro Guaviyu	-32	-57.05	UY	11
+Canada del Guaviyu	-31.51667	-56.76667	UY	15
+Canada de Guaviyu	-31.53333	-56.98333	UY	15
+Canada de Guaviyu	-31.18333	-57.83333	UY	15
+Canada de Guaviyu	-30.98333	-56.38333	UY	15
+Canada Guaviyu	-32.18333	-57.15	UY	11
+Canada Guaviyu	-31.93333	-56.13333	UY	18
+Canada Guaviyu	-31.46667	-56.58333	UY	15
+Canada Guaviyu	-31.36667	-56.33333	UY	15
+Arroyo del Guaviyu	-32.68333	-57.08333	UY	12
+Arroyo Guaviyu	-32.4	-55.8	UY	18
+Arroyo Guaviyu	-31.76667	-58.03333	UY	11
+Arroyo Guaviyu	-31.75	-57.75	UY	11
+Arroyo Guaviyu	-31.56667	-54.75	UY	13
+Arroyo Guaviyu	-30.66667	-57.83333	UY	01
+Arroyo Guaviyu	-30.4	-56.86667	UY	01
+Arroyo Guaviyu	-30.3	-56.61667	UY	01
+Guaviyu	-31.48333	-54.83333	UY	13
+Arroyo de la Guardia Vieja	-33.61667	-57.16667	UY	17
+Canada de la Guardia	-34.6	-56.78333	UY	16
+Arroyo de la Guardia	-31.28333	-55.8	UY	13
+Arroyo Guarapiru	-32.08333	-57.25	UY	11
+Gualeguay	-32.1	-57.43333	UY	11
+Laguna Guacha	-33.06667	-53.6	UY	19
+Laguna Guacha	-32.78333	-53.35	UY	19
+Arroyo de las Grutas	-31.55	-56.25	UY	18
+Canada de la Gruta	-32.13333	-56.76667	UY	11
+Estacion Grito de Asencio	-33.41667	-58	UY	17
+Gregorio Aznarez	-34.71667	-55.41667	UY	09
+Arroyo Gregorio	-34.48	-56.65722	UY	16
+Estacion Green	-34.28333	-57.48333	UY	04
+Grecco	-32.8	-57.05	UY	12
+Canada de Graviyu	-30.41667	-56.33333	UY	01
+Canada Gran Divisoria	-32.68333	-53.86667	UY	03
+Salto Grande	-31.23333	-57.91667	UY	00
+Cerro Grande	-31.66667	-55.58333	UY	13
+Cerro Grande	-33	-54.85	UY	19
+Cerro Grande	-32.46667	-56.6	UY	12
+Cerro Grande	-32.38333	-56.45	UY	18
+Cerro Grande	-32.06667	-56.43333	UY	11
+Cerro Grande	-32.03333	-56.01667	UY	18
+Cerro Grande	-31.9	-54.91667	UY	18
+Cerro Grande	-31.88333	-54.33333	UY	03
+Cerro Grande	-31.58333	-57.05	UY	18
+Cerro Grande	-31.51667	-57.25	UY	15
+Cerro Grande	-31.05	-55.78333	UY	13
+Canada Grande	-34.68333	-55.95	UY	02
+Canada Grande	-34.49639	-56.64333	UY	16
+Canada Grande	-34.45917	-56.66639	UY	16
+Canada Grande	-34.25	-57.25	UY	04
+Canada Grande	-34.21667	-57.4	UY	04
+Canada Grande	-34.15	-57.43333	UY	04
+Canada Grande	-33.78333	-54.4	UY	13
+Canada Grande	-33.73333	-53.56667	UY	14
+Canada Grande	-33.56667	-54.41667	UY	08
+Canada Grande	-33.41667	-54.05	UY	14
+Canada Grande	-33.3	-53.76667	UY	14
+Canada Grande	-33.28333	-53.75	UY	14
+Canada Grande	-33.26667	-54.13333	UY	17
+Canada Grande	-33.03333	-53.86667	UY	19
+Canada Grande	-32.93333	-53.36667	UY	19
+Canada Grande	-32.75	-53.36667	UY	19
+Canada Grande	-32.66667	-55.35	UY	03
+Canada Grande	-32.6	-58.06667	UY	12
+Canada Grande	-32.55	-57.18333	UY	12
+Canada Grande	-32.46667	-54.8	UY	03
+Canada Grande	-32.36667	-54.73333	UY	03
+Canada Grande	-32.3	-56.81667	UY	11
+Canada Grande	-32.25	-57.91667	UY	11
+Canada Grande	-31.71667	-54.5	UY	05
+Canada Grande	-31.35	-55.21667	UY	13
+Canada Grande	-31.33333	-56.41667	UY	15
+Canada Grande	-31.2	-57.73333	UY	15
+Canada Grande	-31.1	-57.45	UY	15
+Canada Grande	-30.36093	-57.60895	UY	01
+Banado Grande	-31.76667	-55.16667	UY	18
+Arroyo Grande	-33.75	-57.25	UY	17
+Arroyo Grande	-33.13333	-57.15	UY	06
+Arroyo Grande	-33.01667	-57.53333	UY	13
+Arroyo Grande	-32.63333	-57.25	UY	12
+Banado de Grana	-33.58333	-54.28333	UY	14
+Isla Gorriti	-34.95339	-54.97155	UY	09
+Punta Gorda	-34.9	-56.08028	UY	10
+Punta Gorda	-33.93333	-58.4	UY	04
+Punta Gorda	-33.91667	-58.41667	UY	04
+Estacion Gonzalez	-34.23333	-56.86667	UY	16
+Arroyo Gonzalez	-32.6	-57.76667	UY	12
+Gonzalez	-34.23333	-56.86667	UY	16
+Gonzalez	-33.08333	-55.96667	UY	05
+Estacion Goni	-33.51667	-56.41667	UY	07
+Goni	-33.51667	-56.4	UY	07
+Goni	-33.48333	-56.48333	UY	07
+Puerto Gomez	-33.28333	-53.88333	UY	19
+Banado de los Gomez	-31.36667	-55.46667	UY	13
+Punta Gomensoro	-34.9	-56.11667	UY	10
+Arroyo de Godoy	-33.68333	-55.16667	UY	08
+Arroyo Godoy	-33.7	-54.96667	UY	08
+Estacion Gloria	-32.1	-56.31667	UY	11
+Arroyo del Gigante	-34.57833	-56.2075	UY	02
+Gervasio	-33.88333	-53.5	UY	14
+Gerona	-34.73333	-55.26667	UY	09
+Puente Internacional General Jose Gervasio Artigas	-32.26478	-58.10154	UY	00
+General Enrique Martinez	-33.2	-53.8	UY	14
+General Borges	-32.56667	-57.36667	UY	12
+Arroyo del General	-34.45	-57.83333	UY	04
+Canada de Gemino	-34.45	-56.26667	UY	02
+Isla de las Gaviotas	-34.90277	-56.10441	UY	10
+Sierras de Gauna	-32.11667	-56.05	UY	18
+Sierra de Gauna	-32.16667	-55.91667	UY	18
+Arroyo del Gato Grande	-32.55	-57.71667	UY	11
+Arroyo del Gato Chico	-32.46667	-57.68333	UY	11
+Canada del Gato	-32.78333	-56.83333	UY	12
+Arroyo del Gato	-32.66667	-56.75	UY	12
+Sierra de Garzon	-34.56667	-54.65	UY	09
+Laguna Garzon	-34.76667	-54.56667	UY	09
+Estacion Garzon	-34.56667	-55.06667	UY	09
+Asperezas de Garzon	-34.28333	-54.55	UY	09
+Arroyo Garzon	-34.76667	-54.53333	UY	09
+Garzon	-34.6	-54.55	UY	09
+Parada Garula	-33.46667	-57.85	UY	17
+Canada Garrido de Tala	-34.38333	-56.13333	UY	02
+Canada Garrapacho	-32.25	-54.03333	UY	03
+Bajo Garnet	-34.48333	-57.9	UY	04
+Garibaldi	-31.35	-57.8	UY	15
+Canada de Garcete	-32.5	-54.98333	UY	03
+Arroyo Garao	-32.75	-53.7	UY	03
+Arroyo de Gamarra	-33	-57.1	UY	12
+Arroyo de Gamarra	-32.83333	-57.15	UY	12
+Arroyo Gamarra	-33.18333	-56.96667	UY	05
+Arroyo de las Gallinas	-33.43333	-54.05	UY	14
+Arroyo de Gaete	-33.01667	-57.05	UY	05
+Arroyo Gaetan	-34.2	-55.56667	UY	08
+Canada Gadea	-34.26667	-55.78333	UY	02
+Punta Gabito	-33.11667	-53.63333	UY	14
+Punta de Fuerte	-34.86667	-56.25	UY	10
+Estacion Fray Marcos	-34.18333	-55.73333	UY	08
+Fray Marcos	-34.19388	-55.7345	UY	07
+Puerto de Fray Bentos	-33.11667	-58.31667	UY	17
+Estacion Fray Bentos	-33.08333	-58.25	UY	12
+Arroyo Fray Bentos	-33.15	-58.35	UY	12
+Fray Bentos	-33.1325	-58.29556	UY	12
+Arroyo Frasquito	-34.73333	-55.95	UY	02
+Franquia	-30.13333	-57.63333	UY	01
+Parada Francia	-30.63333	-57.36667	UY	01
+Isla de Francia	-31.15	-57.91667	UY	15
+Estacion Francia	-32.55	-56.61667	UY	12
+Punta Francesa	-34.25	-58.03333	UY	04
+Isla del Frances	-34.58333	-56.46667	UY	00
+Cerro del Frances	-33.05	-57.3	UY	17
+Canada del Frances	-34.53333	-55.45	UY	08
+Arroyo Fraile Muerto	-32.31667	-54.85	UY	03
+Arroyo Fraile Muerto	-32.16667	-54.48333	UY	03
+Fraile Muerto	-32.51667	-54.53333	UY	03
+Departamento de Florida	-33.83333	-55.91667	UY	07
+Florida	-34.09556	-56.21417	UY	07
+Isla de Flores	-34.94189	-55.92593	UY	02
+Departamento de Flores	-33.58333	-56.83333	UY	06
+Canada de las Flores	-34.81667	-55.31667	UY	09
+Bajo Flores	-34.91667	-56.11667	UY	10
+Arroyo de las Flores	-33.88333	-58.18333	UY	04
+Arroyo de las Flores	-33.31667	-56.05	UY	05
+Arroyo de las Flores	-32.96667	-57.45	UY	12
+Arroyo de las Flores	-31.38333	-57.16667	UY	15
+Arroyo Flores	-34.57306	-56.54222	UY	16
+Florentino	-31.3	-57.13333	UY	15
+Florencio Sanchez	-33.88333	-57.4	UY	04
+Flor de Maronas	-34.85	-56.11667	UY	10
+Isla Filomena Grande	-33.93333	-58.08333	UY	12
+Canada Fiera	-32.53333	-54.41667	UY	10
+Canada Fidencio	-30.8	-57.66667	UY	15
+Ferrer	-33.48333	-55.56667	UY	07
+Ferreira	-31.16667	-57	UY	15
+Fernandez	-32	-54.13333	UY	03
+Cerro Feo	-34.23333	-55.08333	UY	08
+Cerro Feo	-33.53333	-55.31667	UY	07
+Canada Feliciano	-34.26667	-55.73333	UY	02
+Canada Feliciano	-31.96667	-56.86667	UY	11
+Arroyo Feliciano	-33.25	-56.85	UY	06
+Federacion	-32.01667	-57.33333	UY	11
+Canada Fea	-34.1	-57.45	UY	04
+Canada Fea	-32.98333	-57.8	UY	12
+Canada Fea	-32.63333	-57.8	UY	12
+Canada Fea	-32.25	-56.9	UY	11
+Canada Fea	-31.98333	-57.83333	UY	11
+Canada Fea	-31.63333	-57.56667	UY	11
+Arroyo Farrapas	-32.66667	-58.16667	UY	12
+Bajo del Faro	-34.95	-55.93333	UY	02
+Estacion Fariha	-30.45	-56.68333	UY	01
+Farias	-30.46667	-57.1	UY	01
+Paso del Farallon	-34.46667	-57.95	UY	00
+Isla Farallon	-34.48333	-57.93333	UY	04
+Canada Fangosa	-32.45	-57.8	UY	11
+Pozo de Fango	-34.78333	-53.75	UY	00
+Banco de la Familia	-34.9	-56.2	UY	10
+Arroyo Falso Mandiyu	-30.51886	-57.69731	UY	01
+Bajo Falkland	-34.63333	-54.11667	UY	14
+Falagian	-34.36667	-55.16667	UY	08
+Arroyo de la Fajina	-34.2	-56.76667	UY	16
+Canada de los Fajas	-32.5	-53.5	UY	03
+Canada de Fagundez	-32.46667	-55.18333	UY	18
+Banado Fagundez	-32.08333	-54.98333	UY	18
+Fagundez	-30.71667	-56.6	UY	01
+Punta del Este	-34.97329	-54.9519	UY	09
+Arroyo del Estaqueadero	-33.26667	-57.28333	UY	06
+Arroyo del Estaqueadero	-30.38333	-56.91667	UY	01
+Estacion Estanzuela	-34.33333	-57.71667	UY	04
+Estanzuela	-34.3	-57.73333	UY	04
+Canada Estanque de los Mimbres	-32.4	-54.91667	UY	03
+Canada Estancia Nueva	-31.81667	-54.4	UY	03
+Zanja de la Estancia	-30.91667	-57.03333	UY	01
+Cerro de la Estancia	-33.08333	-54.55	UY	19
+Cerro de la Estancia	-32.03333	-56.65	UY	11
+Canada de la Estancia	-32.85	-57.36667	UY	12
+Canada de la Estancia	-32.26667	-56.85	UY	11
+Canada de la Estancia	-32.18333	-55.48333	UY	11
+Canada Estancia	-31.8	-57.05	UY	11
+Arroyo del Estado	-32.53333	-56.03333	UY	18
+Arroyo del Estado	-32.51667	-55.45	UY	05
+Arroyo del Estado	-32.48333	-55.4	UY	05
+Estacion Migues	-34.48333	-55.63333	UY	02
+Cerro Espuelitas	-34.03333	-55.3	UY	08
+Arroyo de las Espuelitas	-34	-55.36667	UY	08
+Canada Espinillos	-31.05	-56.78333	UY	15
+Punta del Espinillo	-34.82889	-56.42361	UY	10
+Cerro del Espinillo	-33.6	-58.2	UY	17
+Arroyo del Espinillo	-33.53333	-58.35	UY	17
+Espinillo	-33.61667	-58.28333	UY	17
+Canada Espinillar	-30.4	-57.18333	UY	01
+Arroyo Espinillar	-31.01667	-57.86667	UY	15
+Espinillar	-33.46667	-54.2	UY	08
+Canada Espinilla	-34.61667	-55.65	UY	02
+Cerro de las Espinas	-34.88333	-56.23333	UY	10
+Canada de las Espinas	-34.11667	-54.06667	UY	14
+Parada Esperanza	-32.35	-57.95	UY	11
+Esperanza	-32.33333	-57.93333	UY	11
+Estero del Escudero	-33.76667	-53.48333	UY	14
+Arroyo Escudero	-34.33333	-57.08333	UY	16
+Escudero	-34.21667	-57	UY	16
+Cerro Escouto	-32.81667	-54.78333	UY	03
+Rincon de Escayola	-32.15	-57.5	UY	11
+Cerro Escado	-33.33333	-55.5	UY	07
+Canada del Encierro	-33.93333	-57.35	UY	04
+Canada de la Encierra	-31.7	-57.53333	UY	11
+Banado de la Encierra	-31.81667	-55.53333	UY	18
+Isla Encantada	-34.40719	-53.76576	UY	14
+Empalme Sauce	-34.71528	-56.07333	UY	02
+Empalme Olmos	-34.7	-55.9	UY	02
+El Tropiezo	-31.4	-57.78333	UY	15
+El Tarugo	-32	-57.3	UY	11
+El Tala	-33.25	-57.33333	UY	06
+El Sauce	-32.85	-57.68333	UY	12
+El Portezuelo	-34.88755	-55.04786	UY	09
+El Picacho	-34.9377	-55.92024	UY	02
+Roca El Ombu	-34.88333	-56.21667	UY	10
+El Maturrango	-34.06667	-53.93333	UY	14
+Islote El Maton	-34.05493	-58.31509	UY	04
+Estacion El Lago	-32.56667	-56.4	UY	18
+Aeropuerto El Jaguel	-34.9	-56.56667	UY	09
+El Islote	-34.4026	-53.74996	UY	14
+El Infiernillo	-33.93333	-55.68333	UY	07
+Estacion Elias Regules	-33.23333	-55.66667	UY	05
+El Hueco	-33.95	-55.85	UY	07
+El Horno	-32.01667	-57.46667	UY	11
+El General	-34.4	-57.88333	UY	04
+El Eucaliptus	-31.91667	-57.25	UY	11
+El Chaja	-33.01667	-53.95	UY	19
+El Chaco	-32.96667	-55.4	UY	05
+El Chaco	-31.96667	-57.51667	UY	11
+El Cerro	-33.98155	-58.28221	UY	04
+El Ceibo	-33.51667	-53.78333	UY	14
+El Catete	-32.95	-54.21667	UY	19
+El Caracol	-34.85	-54.68333	UY	09
+El Cano	-34.4	-57.66667	UY	04
+El Arriero	-34.8	-56.4	UY	10
+Estacion Egana	-33.61667	-57.63333	UY	17
+Egana	-33.61667	-57.63333	UY	17
+Canada Eduviges	-33.2	-54.15	UY	19
+Ecilda Paullier	-34.36667	-57.06667	UY	16
+Canada Echevarria	-34.5	-56.31667	UY	02
+Echevarria	-34.53333	-56.31667	UY	02
+Parada Durazno	-33.38333	-56.53333	UY	05
+Departamento de Durazno	-33.08333	-56.08333	UY	05
+Cerro del Durazno	-31.26667	-57.78333	UY	15
+Canada del Durazno	-33.88333	-57.7	UY	17
+Arroyo del Durazno	-33.53333	-57.38333	UY	17
+Arroyo Durazno	-32.15	-55.56667	UY	18
+Durazno	-33.41306	-56.50056	UY	05
+Arroyo del Duraznito	-33.56667	-57.4	UY	17
+Arroyo Duraznito	-33.6	-56.58333	UY	06
+Zanja del Duraznal	-31.01667	-56.95	UY	01
+Arroyo Duran	-34.66917	-56.44639	UY	02
+Arroyo de los Dragones	-31.3	-56.2	UY	15
+Canada del Dragon	-34.7	-56.31667	UY	10
+Estacion Drabble	-33.68333	-57.55	UY	17
+Arroyo de las Dos Islas	-33.38333	-54.86667	UY	08
+Cerros Dos Hermanos	-34.56667	-55.1	UY	09
+Cerros Dos Hermanos	-32.58333	-56	UY	05
+Arroyo de los Dos Hermanos	-31.85	-55.48333	UY	18
+Islas Dos Hermanas	-34.0675	-58.25833	UY	04
+Punta Dorado	-34.15013	-58.2234	UY	04
+Arroyo Don Esteban Grande	-33.01667	-57.55	UY	12
+Arroyo Don Esteban Chico	-32.56667	-57.4	UY	12
+Arroyo Don Esteban Chico	-32.53333	-57.33333	UY	12
+Arroyo Don Carlos Chico	-34.41667	-54.16667	UY	14
+Arroyo Don Carlos	-34.45	-54.03333	UY	14
+Arroyo Don Carlos	-34.35	-53.98333	UY	14
+Dona Maria	-34.18333	-57.13333	UY	04
+Arroyo Dona Jacinta	-31.46667	-57.96667	UY	15
+Canada Dona Isabel	-31.48333	-57.71667	UY	15
+Dolores	-33.53009	-58.21701	UY	17
+Represa Doctor Gabriel Terra	-32.75	-56.33333	UY	00
+Estacion Doctor Alejandro Gallinal	-33.65	-55.8	UY	07
+Canada Divisoria	-34.58333	-55.9	UY	02
+Canada Divisoria	-32.7	-53.98333	UY	03
+Canada Divisoria	-30.8	-56.75	UY	01
+Zanja Divisa	-31.51667	-56.48333	UY	15
+Canada de la Divisa	-32.45	-54.05	UY	03
+Canada de la Divisa	-30.56667	-57.21667	UY	01
+Arroyo Divisa	-31.06667	-57.35	UY	15
+Sierra de los Difuntos	-33.91667	-53.88333	UY	14
+Cerros de Difuntos	-34.08333	-53.76667	UY	14
+Arroyo de los Difuntos	-31.53333	-55.73333	UY	18
+Cerro del Difunto	-32.15	-57.76667	UY	11
+Bajo Dieciocho de Julio	-34.65	-54.13333	UY	14
+Dieciocho de Julio	-33.68333	-53.55	UY	14
+Diecinueve de Abril	-34.36667	-54.06667	UY	14
+Bajo Didy	-34.84959	-54.62995	UY	09
+Diaz	-33.13333	-54.93333	UY	08
+Laguna del Diario	-34.90212	-55.00751	UY	09
+Punta Diamante	-34.35895	-53.92626	UY	14
+Punta Diamante	-33.15	-58.36667	UY	12
+Cerro del Diamante	-34.05	-54.26667	UY	14
+Punta del Diablo	-34.34464	-53.77104	UY	14
+Arroyo del Descarnado	-34.56667	-55.93333	UY	02
+Punta del Descanso	-34.89944	-56.10074	UY	10
+Delta del Tigre	-34.76488	-56.3645	UY	16
+De los Pastores	-33.16667	-54.96667	UY	08
+Piedra Dellazoppa	-34.91667	-56.28333	UY	10
+Rio Dayman	-31.5	-58.03333	UY	11
+Estacion Dayman	-31.53333	-57.9	UY	11
+Dayman	-31.51241	-57.93571	UY	15
+Darwin	-33.1	-57.63333	UY	17
+Arroyo Daca	-33.23333	-58.05	UY	17
+Canada de los Curupies	-34.26667	-57.96667	UY	04
+Cerro Curupi	-33.26667	-57.88333	UY	17
+Canada del Curupi	-34.28333	-57.96667	UY	04
+Canada del Curupi	-33.58333	-57.91667	UY	17
+Canada del Curupi	-33.31667	-57.78333	UY	17
+Canada del Curupi	-31.1	-57.86667	UY	15
+Canada Curupi	-34.1	-54.1	UY	14
+Canada Curupi	-33.48333	-57.76667	UY	17
+Arroyo del Curupi	-32.95	-55.9	UY	05
+Arroyo Curupi	-34.7	-55.43333	UY	09
+Arroyo Curupi	-34.26667	-56.9	UY	16
+Arroyo Curupi	-32.51667	-56.91667	UY	12
+Arroyo Curupi	-32.46667	-58.08333	UY	11
+Arroyo Curupi	-31.53333	-56.98333	UY	15
+Arroyo Curtume	-31.78333	-55.13333	UY	13
+Curtina	-32.15	-56.11667	UY	18
+Arroyo Curticeras	-31.06667	-55.48333	UY	13
+Curticeras	-30.96667	-55.55	UY	13
+Cerro del Cura	-34.31667	-55.18333	UY	08
+Arroyo Cunapiru	-31.8	-55.51667	UY	18
+Arroyo Cunapiru	-31.3	-55.5	UY	13
+Arroyo Cunapiru	-31.15	-55.46667	UY	13
+Cunapiru	-31.53333	-55.58333	UY	13
+Bajo Cumberland	-34.95	-55.95	UY	02
+Arroyo del Cuico	-31.86667	-57.9	UY	11
+Estacion Cufre	-34.2	-57.1	UY	16
+Arroyo Cufre	-34.45	-57.15	UY	04
+Arroyo Cufre	-34.43333	-57.33333	UY	04
+Cufre	-34.2	-57.1	UY	16
+Cerro Cuevas Malas	-34.65	-55.31667	UY	09
+Canada Cueva del Tigre	-31.78333	-56.6	UY	15
+Arroyo Cueva del Tigre	-34.66667	-55.68333	UY	02
+Arroyo Cueva del Tigre	-32.56667	-54.55	UY	10
+Cerro de los Cuervos	-31.98333	-57.1	UY	11
+Cerro del Cuervo	-33.83333	-56.25	UY	07
+Cerro de las Cuentas	-34.11667	-54.71667	UY	09
+Cerro de las Cuentas	-33.33333	-55.1	UY	19
+Canada de La Cursilla	-30.62663	-57.6878	UY	01
+Canada de las Cuatro Palmas	-33.45	-53.73333	UY	14
+Canada de los Cuarzos	-32.6	-53.63333	UY	03
+Arroyo Cuaro Grande	-30.68333	-56.5	UY	00
+Arroyo Cuaro Grande	-30.58333	-56.83333	UY	01
+Arroyo Cuaro Grande	-30.3	-57.2	UY	01
+Arroyo Cuaro Chico	-30.6	-56.96667	UY	01
+Estacion Cuaro	-30.6	-56.88333	UY	01
+Arroyo Cuaro	-31.91667	-55.21667	UY	18
+Cuaro	-31.9	-55.13333	UY	18
+Cuaro	-30.61667	-56.9	UY	01
+Rio Quarai	-30.2	-57.6	UY	00
+Estacion Cuareim	-30.25183	-57.57412	UY	01
+Arroyo del Cuadro	-34.38333	-55.9	UY	02
+Cruz de Piedra	-32.03333	-54.18333	UY	03
+Cruz de los Caminos	-34.63333	-55.96667	UY	02
+Cruz de los Caminos	-34.25	-56.68333	UY	16
+Cerro de la Cruz	-34.23333	-57.25	UY	04
+Canada de la Cruz	-34.21667	-54.48333	UY	14
+Canada de la Cruz	-33.76667	-56.5	UY	06
+Canada de la Cruz	-30.93333	-57.5	UY	15
+Canada de la Cruz	-30.68333	-57.03333	UY	01
+Arroyo de la Cruz	-34.73333	-54.56667	UY	09
+Arroyo de la Cruz	-34	-56.13333	UY	07
+Arroyo de la Cruz	-33.65	-55.76667	UY	07
+Estacion Criolla	-32.2	-56.41667	UY	11
+Costa de Viboras	-33.93333	-58.16667	UY	04
+Costa de San Jose	-33.85	-56.88333	UY	06
+Estacion Costa Azul	-34.63333	-54.16667	UY	14
+Balneario Costa Azul	-34.78333	-55.65	UY	02
+Costa Azul	-34.63333	-54.16667	UY	14
+Cortume	-31.78333	-55.15	UY	13
+Arroyo Corto	-33.18333	-57.83333	UY	17
+Arroyo Corto	-33.13333	-57.95	UY	17
+Canada Cortinas	-34.46167	-56.13139	UY	02
+Arroyo del Cortado	-30.15	-57.11667	UY	01
+Cerro Correntino	-33.06667	-57.86667	UY	17
+Arroyo Correntino	-33.28333	-58.2	UY	12
+Correa	-33.36667	-53.66667	UY	14
+Arroyo del Corral Viejo	-32.18333	-56.01667	UY	18
+Punta Corralito	-34.78333	-55.65	UY	02
+Arroyo del Corralito	-33.65	-58.05	UY	17
+Estacion Corrales	-33.45	-54.51667	UY	08
+Canada de los Corrales	-32.01667	-54.5	UY	03
+Arroyo de los Corrales	-33.03333	-53.86667	UY	19
+Arroyo de los Corrales	-32.25	-56.88333	UY	11
+Arroyo Corrales	-33.45	-54.11667	UY	00
+Arroyo Corrales	-32.98333	-54.16667	UY	19
+Arroyo Corrales	-32	-54.35	UY	03
+Arroyo Corrales	-31.66667	-55.51667	UY	13
+Corrales	-33.46667	-54.66667	UY	08
+Arroyo del Corral de Piedras	-33.75	-56.45	UY	06
+Arroyo Corral de Piedra	-33.75	-56.88333	UY	06
+Corral de Piedra	-33.88333	-56.45	UY	06
+Cerro Corral de Palmas	-33.9	-53.73333	UY	14
+Canada Corral de Palmas	-33.53333	-53.91667	UY	14
+Coronilla Chico Arroyo	-31.71667	-54.6	UY	13
+Sierra de la Coronilla	-34.2	-54.66667	UY	09
+Punta Coronilla	-33.93333	-53.51667	UY	14
+Islas de la Coronilla	-34.95	-53.48333	UY	14
+Isla Coronilla	-34.95	-53.46667	UY	14
+Canada de la Coronilla	-31.51667	-55.36667	UY	13
+Canada Coronilla	-33.05	-53.98333	UY	19
+Canada Coronilla	-32.08333	-56.5	UY	11
+Canada Coronilla	-32.03333	-56.21667	UY	18
+Canada Coronilla	-31.46667	-56.6	UY	15
+Arroyo de la Coronilla	-34.8	-55.53333	UY	02
+Arroyo de la Coronilla	-34.68333	-55.28333	UY	09
+Arroyo de la Coronilla	-34.28333	-54.78333	UY	09
+Arroyo de la Coronilla	-33.68333	-53.95	UY	14
+Arroyo de la Coronilla	-32.63333	-56.73333	UY	12
+Arroyo del Coronilla	-33.21667	-57.08333	UY	06
+Arroyo Coronilla	-34.43333	-55.21667	UY	08
+Arroyo Coronilla	-34.12306	-56.78472	UY	16
+Arroyo Coronilla	-34.05	-55.71667	UY	07
+Arroyo Coronilla	-33.9	-55.5	UY	07
+Arroyo Coronilla	-32	-54.91667	UY	18
+Coronilla	-34.2	-56.95	UY	16
+Coronilla	-33.81667	-55.65	UY	07
+Coronilla	-31.91667	-54.73333	UY	18
+Cordon	-34.905	-56.16833	UY	10
+Arroyo de la Cordobesa	-33.4	-56.61667	UY	06
+Arroyo del Cordobes	-32.5	-55.31667	UY	00
+Canada de Corbo y Lopez	-34.31667	-54.48333	UY	09
+Arroyo Coquimbo	-33.31667	-57.8	UY	17
+Coquimbo	-33.45	-57.73333	UY	17
+Cerro Copeton	-33.8	-55.53333	UY	07
+Arroyo del Convoy	-33.98333	-54.46667	UY	19
+Cerro Conventos	-32.16667	-54.18333	UY	03
+Arroyo de los Conventos	-34.03333	-56.28333	UY	07
+Arroyo Conventos	-32.45	-54.18333	UY	03
+Villa Constitucion	-31.08333	-57.83333	UY	15
+Estacion Constancia	-32.21667	-58.01667	UY	11
+Estacion Constancia	-32.2	-58	UY	11
+Constancia	-32.2	-58	UY	11
+Canada de los Consejos	-32.98333	-53.76667	UY	19
+Cerro Consejo	-34.2	-54.05	UY	14
+Arroyo del Consejo	-34.28333	-53.96667	UY	14
+Canada del Conono	-31.33333	-56.53333	UY	15
+Isla Confraternidad	-32.9	-53.3	UY	19
+Conde	-32.93333	-57.11667	UY	12
+Puerto Concordia	-34.36667	-57.3	UY	04
+Puente Internacional de la Concordia	-30.33333	-56.46667	UY	00
+Canada Concordia	-32.66667	-55.73333	UY	05
+Canada de las Conchas	-34.46667	-55.6	UY	02
+Arroyo de las Conchas	-34.56667	-54.25	UY	14
+Arroyo de las Conchas	-34.36667	-54.3	UY	14
+Arroyo de las Conchas	-34.26667	-55.45	UY	08
+Arroyo de las Conchas	-34.16667	-57.41667	UY	04
+Arroyo de las Conchas	-33	-56.21667	UY	05
+Arroyo de las Conchas	-32.96667	-55.38333	UY	05
+Arroyo de las Conchas	-32.46667	-56.43333	UY	18
+Arroyo Colorado Grande	-34.35	-56.08333	UY	02
+Arroyo Colorado Chico	-34.66667	-56.28333	UY	02
+Arroyo Colorado Chico	-34.35	-56.05	UY	02
+Cerro Colorado	-34.75	-55.16667	UY	09
+Cerro Colorado	-33.85	-55.53333	UY	07
+Cerro Colorado	-33.08333	-57.78333	UY	17
+Cerro Colorado	-32.85	-53.58333	UY	19
+Arroyo del Colorado	-34.61667	-56.05	UY	02
+Arroyo Colorado	-34.72139	-56.34944	UY	00
+Punta Colorada	-34.90428	-55.26068	UY	09
+Canada Colorada	-34.51667	-55.7	UY	02
+Estacion Colonia Suiza	-34.26667	-57.23333	UY	04
+Colonia Suiza	-34.43333	-57.25	UY	04
+Colonia Suiza	-34.31667	-57.21667	UY	04
+Estacion Colonia Sanchez	-34.08333	-56.08333	UY	07
+Colonia Sanchez	-34.15	-56.05	UY	07
+Colonia Rossell y Rius	-33.18333	-55.7	UY	05
+Colonia Rosario	-34.41667	-57.28333	UY	04
+Colonia Reyles	-33.11667	-55.71667	UY	05
+Colonia Osiman y Lerena	-31.28333	-57.9	UY	15
+Colonia Ombues de Lavalle	-33.91667	-57.83333	UY	04
+Colonia Nuevo Paysandu	-32.28333	-58.05	UY	11
+Colonia Nin y Silva	-32.45	-57.58333	UY	11
+Colonia Maria Teresa	-32.25	-54.33333	UY	03
+Colonia Lisboa	-34.31667	-57.61667	UY	04
+Colonia Lavalleja	-31.1	-57.01667	UY	15
+Colonia Las Delicias	-32.08333	-58.1	UY	11
+Colonia Larranaga	-33.86667	-57.53333	UY	17
+Colonia La Palma	-33.36667	-55.55	UY	07
+Colonia La Palma	-32.01667	-57.96667	UY	11
+Colonia La Concordia	-33.61667	-58.33333	UY	17
+Colonia Jefferies	-33.25	-54.33333	UY	19
+Colonia Itapeby	-31.33333	-57.46667	UY	15
+Colonia Italia	-34.58333	-56.63333	UY	16
+Colonia Harriague	-31.23333	-57.66667	UY	15
+Colonia Guaviyu	-31.83333	-58.03333	UY	11
+Colonia Francia	-33.73333	-56.05	UY	07
+Colonia Estrella	-33.96667	-58.28333	UY	04
+Colonia Espanola	-34.4	-57.16667	UY	04
+Colonia Espana	-30.36451	-57.64274	UY	01
+Colonia El Duraznal	-32.33333	-57.66667	UY	11
+Colonia Dieciocho de Julio	-31.33333	-57.88333	UY	15
+Colonia Diecinueve de Abril	-32.33333	-57.8	UY	11
+Colonia Diaz	-33.35	-58.03333	UY	17
+Colonia Diana	-32.28333	-57.26667	UY	11
+Colonia del Sacramento	-34.46262	-57.83976	UY	04
+Colonia Chapicuy	-31.65	-57.91667	UY	11
+Colonia Ceres	-32.41667	-54.21667	UY	03
+Colonia Carolina	-32.56667	-57.91667	UY	11
+Colonia Buena Vista	-33.7	-58.36667	UY	17
+Colonia Belga	-32.41667	-58.13333	UY	11
+Colonia Arrue	-33.98333	-58.15	UY	04
+Colonia Arroyo Malo	-31.9	-58.05	UY	11
+Colonia America	-34.2	-56.98333	UY	16
+Colonia Agraciada	-33.76667	-58.33333	UY	17
+Rada de Colonia	-34.46667	-57.86667	UY	04
+Estacion Colonia	-34.48333	-57.85	UY	04
+Departamento de Colonia	-34.16667	-57.66667	UY	04
+Gruta Colon	-34.26667	-55.3	UY	08
+Estacion Colon	-34.8	-56.23333	UY	10
+Colon	-34.8	-56.23333	UY	10
+Colon	-33.88333	-54.71667	UY	08
+Arroyo Cololo	-33.25	-57.51667	UY	17
+Arroyo Cololo	-33.1	-57.95	UY	17
+Arroyo Colla	-34.31667	-57.33333	UY	04
+Colla	-34.06667	-57.35	UY	04
+Canada de Colina	-34.8	-54.73333	UY	09
+Arroyo Coladeros	-33.01667	-57.86667	UY	12
+Cerro de Coito	-31.33333	-56.13333	UY	15
+Bajo de la Cocina	-34.95	-55.93333	UY	02
+Arroyo Cochengo	-34.51667	-55.93333	UY	02
+Canada del Cobre	-30.95	-57.3	UY	01
+Arroyo de Clemencio	-32.95	-55.96667	UY	05
+Caleta de los Clavos	-34.95	-55.93333	UY	02
+Cerro de los Claveles	-33.93333	-56.58333	UY	16
+Arroyo Claudino	-32.15	-55.61667	UY	18
+Canada de Claro	-31.2	-57.65	UY	15
+Cerro de Clara	-32.11667	-55.86667	UY	18
+Canada Clara	-34.58333	-56.58333	UY	16
+Arroyo de Clara	-32.38333	-55.63333	UY	18
+Clara	-32.23333	-55.73333	UY	18
+Canada del Cisne	-34.73333	-55.83333	UY	02
+Banado de los Cinco Sauces	-32.23333	-55.16667	UY	18
+Arroyo Cimbra	-33.9	-55.13333	UY	08
+Arroyo Cimarron	-34.78333	-56.38333	UY	10
+Canada Cigales	-33.18333	-54.2	UY	19
+Cerro Ciervo	-33.7	-53.8	UY	14
+Canada del Ciego	-31.35	-57.03333	UY	15
+Arroyo Chuy	-32.55	-54.05	UY	03
+Chuy	-33.69707	-53.46162	UY	14
+Arroyo Chuv	-32.25	-54.03333	UY	03
+Cerros Chircales	-34.08333	-57.03333	UY	04
+Canada del Chircal	-30.61667	-57.01667	UY	01
+Arroyo Chingolo	-32.13333	-58.06667	UY	11
+Arroyo de la China	-33.68333	-54.93333	UY	08
+Arroyo Chileno Grande	-32.8	-55.76667	UY	05
+Arroyo Chileno Chico	-32.86667	-55.76667	UY	05
+Punta del Chileno	-34.91192	-55.01513	UY	09
+Isla del Chileno	-32.91667	-58.08333	UY	12
+Estacion Chileno	-33.01667	-55.65	UY	05
+Canada del Chileno	-32.9	-57.78333	UY	12
+Arroyo Chileno	-34.36667	-57.9	UY	04
+Arroyo Chileno	-34.03333	-55.45	UY	08
+Arroyo Chileno	-33.91667	-58.13333	UY	04
+Chilcas	-33.55	-55.66667	UY	07
+Arroyo Chiflero	-30.36667	-56.51667	UY	01
+Cerro Chico de Navarro	-34.1	-53.83333	UY	14
+Salto Chico	-31.36667	-57.98333	UY	00
+Quebrada Chico	-32	-56.03333	UY	18
+Puerto Chico	-34.93333	-55.91667	UY	02
+Arroyo Chico	-34.51667	-55.68333	UY	02
+Arroyo Chico	-33.75	-55.71667	UY	07
+Chico	-34.25	-55.2	UY	08
+Canada de Chaves	-34.73333	-54.93333	UY	09
+Cerro Chato	-33.08333	-55.1	UY	19
+Cerro Chato	-32.9	-55.96667	UY	05
+Cerro Chato	-32.86667	-56.58333	UY	05
+Cerro Chato	-32.51667	-55.83333	UY	18
+Cerro Chato	-32.26667	-56.31667	UY	18
+Cerro Chato	-32.26667	-55.76667	UY	18
+Cerro Chato	-32.25	-56.06667	UY	18
+Cerro Chato	-32.16667	-56.38333	UY	11
+Cerro Chato	-32.11667	-56.8	UY	11
+Cerro Chato	-31.9	-57.46667	UY	11
+Cerro Chato	-31.8	-54.9	UY	13
+Cerro Chato	-31.48333	-56.15	UY	18
+Cerro Chato	-31.33333	-56.65	UY	15
+Cerro Chato	-31.08333	-55.46667	UY	13
+Piedra Chata	-34.43333	-57.91667	UY	04
+Cerro Charrua	-31.71667	-56.2	UY	18
+Canada del Charrua	-30.96667	-57.66667	UY	15
+Canada del Charreco	-32.45	-55.21667	UY	18
+Arroyo de la Charqueada	-30.93333	-56	UY	01
+Arroyo Charata	-32.3	-55.93333	UY	18
+Isla Chapicuy Grande	-31.67044	-58.00714	UY	11
+Arroyo Chapicuy	-31.68582	-58.00753	UY	11
+Arroyo Chapicuy Chico	-31.63333	-57.98333	UY	11
+Estacion Chapicuy	-31.65	-57.9	UY	11
+Chapicuy	-31.66667	-57.91667	UY	11
+Punta Chaparro	-33.83333	-58.41667	UY	17
+Arroyo Chaparro	-33.98333	-55.53333	UY	07
+Canada del Changuero	-32.5	-57.53333	UY	11
+Canada de los Chanchos	-34.35	-56.08333	UY	02
+Canada de los Chanchos	-33.88333	-57.55	UY	17
+Canada de los Chanchos	-33.15	-53.96667	UY	19
+Canada de los Chanchos	-33.11667	-57.63333	UY	17
+Arroyo de los Chanchos	-34.53333	-55.5	UY	02
+Arroyo de los Chanchos	-34.23333	-55	UY	08
+Arroyo de los Chanchos	-34.21667	-55.53333	UY	08
+Arroyo de los Chanchos	-33.68333	-55.1	UY	08
+Arroyo Chanchos	-31.53333	-57.85	UY	11
+Arroyo del Chancho	-33.65	-55.75	UY	07
+Canada del Chana	-34.6	-56.15	UY	02
+Arroyo Chamizo Grande	-34.25	-56.05	UY	08
+Arroyo Chamizo Chico	-34.2	-55.85	UY	08
+Estacion Chamizo	-34.25	-55.91667	UY	08
+Arroyo Chamizo	-34.22583	-56.72556	UY	16
+Chamizo	-34.25	-55.93333	UY	08
+Chamizo	-34.16667	-56.68333	UY	16
+Estacion Chamberlain	-32.66667	-56.48333	UY	18
+Chamberlain	-32.61667	-56.48333	UY	18
+Arroyo de Chamanga	-33.5	-56.55	UY	06
+Arroyo Chamanga	-33.6	-56.58333	UY	06
+Arroyo Chamame	-34.03333	-55.43333	UY	08
+Sierra Chafalote	-34.25	-54.06667	UY	14
+Cerros Chafalote	-34.3	-54.13333	UY	14
+Arroyo Chafalote	-34.41667	-54	UY	14
+Arroyo Chacra Vieja	-33.53333	-56.51667	UY	06
+Arroyo Chacra Vieja	-33.5	-56.5	UY	07
+Canada de las Chacras	-30.53333	-56.35	UY	01
+Canada de la Chacra	-33.71667	-57.73333	UY	17
+Canada de la Chacra	-33.53333	-56.8	UY	06
+Canada de la Chacra	-32	-54.43333	UY	03
+Canada de la Chacra	-31.78333	-56.85	UY	11
+Canada de la Chacra	-31.46667	-56.55	UY	15
+Canada de la Chacra	-31.41667	-56.66667	UY	15
+Canada Chacra	-31.85	-55.81667	UY	18
+Canada Chacra	-31.31667	-56.86667	UY	15
+Arroyo de la Chacra	-33.03333	-56.95	UY	05
+Arroyo de la Chacra	-33	-55.03333	UY	00
+Chaco	-32.15	-57.85	UY	11
+Canada Chacarita	-31.95	-56.35	UY	11
+Chacarita	-34.85	-56.08333	UY	10
+Cerro Vera	-33.18333	-57.46667	UY	17
+Canada Cerros Potros	-34.06667	-54.1	UY	14
+Arroyo de los Cerros Negros	-34.15	-57.1	UY	16
+Arroyo de los Cerros de Ojosmin	-33.65	-57.16667	UY	17
+Cerros de los Rochas	-34.16667	-53.85	UY	14
+Cerros Blancos	-31.76667	-54.8	UY	13
+Canada de los Cerros	-34.41667	-55.61667	UY	02
+Canada de los Cerros	-32.18333	-56.83333	UY	11
+Cerro Pelado del Este	-31.47055	-55.15377	UY	13
+Canada del Cerro Montuoso	-32.46667	-57.08333	UY	12
+Departamento de Cerro Largo	-32.33333	-54.33333	UY	03
+Zanja del Cerro Grande	-34.55	-55.08333	UY	09
+Canada del Cerro Grande	-31.41667	-57.2	UY	15
+Estacion Cerro de las Cuentas	-32.61667	-54.6	UY	03
+Cerro de las Cuentas	-32.61667	-54.6	UY	10
+Cerro de las Armas	-34.06667	-57.71667	UY	04
+Canada del Cerro de la Divisa	-30.11667	-56.93333	UY	01
+Cerro Convento	-32.75	-55.65	UY	05
+Estacion Cerro Colorado	-33.86667	-55.53333	UY	07
+Cerro Colorado	-33.86667	-55.55	UY	07
+Punta Cerro Chato	-33.9855	-53.52882	UY	14
+Canada del Cerro Chato	-32.41667	-57.03333	UY	12
+Arroyo del Cerro Chato	-31.71667	-55	UY	13
+Arroyo del Cerro Chato	-31.55	-56.73333	UY	15
+Arroyo del Cerro Chato	-31.1	-56.28333	UY	15
+Cerro Chato	-33.1	-55.13333	UY	19
+Cerro Chato	-31.88333	-57.51667	UY	11
+Estacion Cerro Charto	-33.13333	-55.16667	UY	05
+Cerro Caqueira	-30.93333	-55.48333	UY	13
+Cerro Alegre	-33.33333	-57.95	UY	17
+Canada del Cerro Agudo	-31.7	-56.75	UY	15
+Canada del Cerro	-32.8	-55.65	UY	05
+Canada del Cerro	-30.65	-57.68333	UY	01
+Canada del Cerro	-30.43333	-57.15	UY	01
+Arroyo del Cerro	-34.16278	-56.82139	UY	16
+Arroyo del Cerro	-34.13333	-57.68333	UY	04
+Arroyo del Cerro	-33.95	-56.58333	UY	16
+Arroyo del Cerro	-33.93333	-56.75	UY	16
+Arroyo del Cerro	-33.1	-55.5	UY	05
+Canada del Cerrito	-33.71667	-57.83333	UY	17
+Canada del Cerrito	-31.21667	-57.35	UY	15
+Canada del Cerrito	-30.4	-56.86667	UY	01
+Cerrito	-34.85769	-56.16893	UY	10
+Canada del Cerrillo	-33.78333	-57.95	UY	17
+Zanja de la Cerrillada	-31.15	-57.31667	UY	15
+Zanja de la Cerrillada	-31.05	-56.98333	UY	15
+Canada Cerrillada	-31.2	-57.18333	UY	15
+Cerrillada	-31.65	-56.83333	UY	15
+Cerrillada	-31.5	-54.71667	UY	13
+Cerrezuelo	-32.76667	-55.43333	UY	05
+Piedra Cerdena	-34.45	-57.91667	UY	04
+Cerro Cepe	-32.06667	-56.03333	UY	18
+Centurion	-32.1	-53.75	UY	03
+Canada del Centro	-31.63333	-57.68333	UY	11
+Canada del Centro	-31.3	-56.86667	UY	15
+Centro	-34.90528	-56.19444	UY	10
+Cerro Centinela	-31.9	-56.81667	UY	11
+Canada de la Ceniza	-32.08333	-56.71667	UY	11
+Cerro del Cementerio	-32.1	-56.05	UY	18
+Cerro Cementerio	-31.68333	-56.25	UY	13
+Canada del Cementerio	-31.96667	-57.4	UY	11
+Canada del Cementerio	-31.51667	-54.61667	UY	00
+Arroyo Celestino	-32.48333	-58	UY	11
+Canada de los Ceibos	-34.71667	-56.7	UY	16
+Canada de los Ceibos	-32.93333	-54.35	UY	19
+Canada de los Ceibos	-32.08333	-53.91667	UY	03
+Arroyo de los Ceibos	-33.21667	-53.96667	UY	19
+Zanja de Ceibo	-30.96667	-56	UY	01
+Canada Ceibo	-30.76667	-57.8	UY	15
+Arroyo del Ceibo	-33.55	-53.61667	UY	14
+Arroyo Ceibal Grande	-31.31667	-57.83333	UY	15
+Arroyo Ceibal Grande	-31.1	-57.88333	UY	15
+Arroyo Ceibal Chico	-31.06667	-57.85	UY	15
+Isla del Ceibal	-31.08333	-57.86667	UY	15
+Canada del Ceibal	-32.66667	-58.13333	UY	12
+Canada del Ceibal	-32.13333	-55.16667	UY	18
+Canada del Ceibal	-31.83333	-54.41667	UY	03
+Arroyo del Ceibal	-32.18333	-53.75	UY	03
+Arroyo del Ceibal	-31.61667	-55.65	UY	18
+Arroyo Ceibal	-33.68333	-55.08333	UY	08
+Arroyo Ceibal	-33.33333	-54.86667	UY	08
+Arroyo Ceibal	-32.83333	-55.5	UY	05
+Arroyo Ceibal	-32.53333	-55.55	UY	05
+Arroyo Ceibal	-32.5	-55.5	UY	05
+Arroyo Ceibal	-31.88333	-54.51667	UY	18
+Arroyo Ceibal	-31.4	-57.96667	UY	15
+Arroyito del Ceibal	-32.73333	-55.13333	UY	03
+Ceibal	-32.88333	-55.51667	UY	05
+Rio Cebollati	-33.15	-53.63333	UY	00
+Punta Cebollati	-33.16667	-53.6	UY	14
+Cebollati	-33.26667	-53.78333	UY	14
+Arroyo Ceballos Grande	-30.93333	-57.35	UY	15
+Arroyo Ceballos Chico	-30.93333	-57.35	UY	15
+Arroyo Ceballitos	-30.85	-57.26667	UY	01
+Estacion Cazot	-34.45	-55.96667	UY	02
+Cayetano	-31.25	-56.83333	UY	15
+Arroyo de Cauallero	-33.25	-56.75	UY	05
+Punta Catumbera	-32.88333	-53.31667	UY	19
+Cerro Catedral	-34.38269	-54.67449	UY	14
+Arroyo Catalan Seco	-30.76667	-56.23333	UY	01
+Arroyo Catalan Grande	-30.75	-56.25	UY	01
+Arroyo Catalan Grande	-30.51667	-56.33333	UY	01
+Arroyo Catalancito	-30.55	-56.35	UY	01
+Arroyo Catalan Chico	-30.71667	-56.31667	UY	01
+Tres Cerros del Catalan	-30.66667	-56.5	UY	01
+Sierra del Catalan	-33.51667	-55.03333	UY	08
+Cerro Catalan	-33.63333	-55.05	UY	08
+Arroyo del Catalan	-33.65	-58.4	UY	17
+Arroyo del Catalan	-33.61667	-55.11667	UY	08
+Arroyo Casupa Chico	-34.01667	-55.4	UY	08
+Estacion Casupa	-34.11667	-55.65	UY	07
+Arroyo Casupa	-34.2	-55.63333	UY	08
+Casupa	-34.03333	-55.65	UY	07
+Punta Castro	-34.86667	-56.38333	UY	10
+Arroyo de Castro	-33.5	-56.23333	UY	07
+Punta Castillos Grande	-34.34439	-53.77082	UY	14
+Punta Castillos	-34.34468	-53.771	UY	14
+Laguna de Castillos	-34.31888	-53.92528	UY	14
+Arroyo de Castillos	-34.26506	-53.94296	UY	14
+Castillos	-34.19871	-53.85919	UY	14
+Castillos	-33.88333	-57.66667	UY	17
+Islas de Castillo Grande	-34.35137	-53.75164	UY	14
+Cabo Castillo	-34.35144	-53.77044	UY	14
+Bahia Castillo	-34.33436	-53.7834	UY	14
+Estacion Castellanos	-34.38333	-55.95	UY	02
+Arroyo Castellanos	-34.46667	-56.65	UY	16
+Casimiro	-32.5	-57.33333	UY	12
+Cerro del Cascabel	-33.3	-55.45	UY	07
+Cerros de los Cascabein	-31.05	-55.8	UY	13
+Cerro de la Casa de Piedra	-33.48333	-57.93333	UY	17
+Casa Blanca	-32.41667	-58.15	UY	11
+Cerro Carumbe	-31.7	-57.5	UY	15
+Arroyo Carumbe	-31.6	-57.58333	UY	11
+Arroyo Carumbe	-31.56667	-56.73333	UY	15
+Canada de los Carros	-34.16667	-54.25	UY	14
+Piedras Carretas	-34.16995	-58.20681	UY	04
+Cerro Carreta Quemada	-34.03333	-56.56667	UY	16
+Arroyo Carreta Quemada	-34.33194	-56.68806	UY	16
+Arroyo Carreta	-32.95	-55.95	UY	05
+Cerro del Carrero	-31.55	-56.93333	UY	15
+Playa de Carrasco	-34.88847	-56.04787	UY	10
+Banado de Carrasco	-34.83333	-56.05	UY	00
+Balneario Carrasco	-34.88987	-56.05182	UY	10
+Arroyo de Carrasco	-34.88028	-56.02667	UY	00
+Cerro Carpinteria	-31.8	-54.45	UY	03
+Arroyo Carpinteria	-33.18333	-56.98333	UY	06
+Arroyo Carpinteria	-32.93333	-56.01667	UY	05
+Arroyo Carpinteria	-32.63333	-53.85	UY	03
+Arroyo Carpinteria	-32.4	-56.06667	UY	18
+Arroyo Carpinteria	-31.85	-55.21667	UY	18
+Arroio da Carpintaria	-31.8	-54.48333	UY	00
+Arroyo Carpinteria	-31.51667	-55.76667	UY	18
+Carpinteria	-32.83333	-56.18333	UY	05
+Arroyo Carpinchu	-31.68333	-57.83333	UY	11
+Zanja de los Carpinchos	-30.53333	-57.05	UY	01
+Arroyo Carpinchos	-34.36667	-54.33333	UY	14
+Arroyo Carpincho	-33.41667	-55.53333	UY	07
+Arroyo Carpincho	-32.2	-55.75	UY	18
+Arroyo Caro	-34.3	-57.5	UY	04
+Sierra del Carmen	-32.75	-54.93333	UY	03
+Arroyo del Carmen	-33.1	-54.78333	UY	19
+Arroyito del Carmen	-33.43333	-56	UY	07
+Puerto de Carmelo	-34	-58.3	UY	04
+Carmelo	-34.00023	-58.28402	UY	04
+Carlos Reyles	-33.01667	-56.48333	UY	05
+Canada del Carduz	-33.8	-57.88333	UY	17
+Cardozo Chico	-32.41667	-56.33333	UY	18
+Cerro Cardozo	-32.06667	-55.51667	UY	18
+Canada Cardozo	-34.48389	-56.06306	UY	02
+Arroyo Cardozo	-32.53333	-56.3	UY	18
+Arroyo Cardozo	-32.48333	-56.25	UY	18
+Arroyo Cardoso	-32.11667	-56.16667	UY	18
+Cardoso	-32.63333	-56.35	UY	18
+Estacion Cardona	-33.88333	-57.38333	UY	17
+Cardona	-33.88333	-57.38333	UY	17
+Estacion Cardal	-34.3	-56.4	UY	07
+Canada del Cardal	-33.23333	-53.63333	UY	14
+Arroyo del Cardal	-32.1	-58.08333	UY	11
+Cardal	-34.29056	-56.38889	UY	07
+Zanja Carape	-30.3	-56.63333	UY	01
+Sierra de Carape	-34.46667	-55	UY	00
+Arroyo Carape	-34.55	-54.93333	UY	09
+Arroyo de los Caraguata	-31	-56	UY	01
+Arroyo Caraguata	-32.26667	-55.41667	UY	18
+Caraguata	-31.78333	-54.75	UY	13
+Canada del Caracu	-32.55	-54.06667	UY	10
+Arroyo Caracoles Grande	-33.26667	-58.35	UY	12
+Arroyo Caracoles Chico	-33.18333	-58.36667	UY	12
+Sierra de los Caracoles	-34.5	-54.91667	UY	09
+Cerro Caracoles	-34.61667	-54.95	UY	09
+Arroyo de los Caracoles	-34.56667	-54.9	UY	09
+Caraballo	-32.93333	-57.65	UY	12
+Playa Capurro	-34.86667	-56.21667	UY	10
+Piedras de Capurro	-34.88333	-56.21667	UY	10
+Estacion Capurro	-34.41667	-56.46667	UY	16
+Capurro	-34.87678	-56.20039	UY	10
+Capurro	-34.41667	-56.46667	UY	16
+Canada Capon del Leon	-31.51667	-56.81667	UY	15
+Arroyo Capon de Leon	-31.16667	-56.88333	UY	15
+Laguna Capon Alto	-31.98333	-55.35	UY	18
+Canada del Capon	-30.3	-57.08333	UY	01
+Cerro Capivara	-31.63333	-55.68333	UY	18
+Canada Capivara	-30.58333	-57.21667	UY	01
+Banado Capivara	-31.66667	-55.65	UY	18
+Arroyo Capilla Vieja	-32.2	-57.65	UY	11
+Estacion Capilla del Sauce	-33.45	-55.61667	UY	07
+Capilla del Sauce	-33.41667	-55.63333	UY	07
+Estacion Capilla del Carmen	-32.36667	-56.96667	UY	12
+Capilla de Farruco	-32.88333	-55.41667	UY	05
+Cerro Caperuza Grande	-34.6	-55.38333	UY	09
+Cerro Caperuza Chico	-34.61667	-55.4	UY	08
+Cerro Caperusa	-31.75	-57.83333	UY	11
+Canada de la Cantera	-33.81667	-54.08333	UY	14
+Canada de la Cantera	-31.58333	-57.73333	UY	11
+Arroyo de la Cantera	-33.83333	-55.01667	UY	08
+Cerro del Canon	-31.9	-55.75	UY	18
+Canoel	-32.13333	-58.03333	UY	11
+Arroyo de la Canoa	-32.2	-54.63333	UY	03
+Arroyo de las Canitas	-32.83333	-54.98333	UY	05
+Arroyo de las Canitas	-31.68333	-56.46667	UY	15
+Arroyo Canitas	-32.33333	-53.78333	UY	03
+Canitas	-32.35	-53.83333	UY	03
+Arroyo Cangue	-32.46667	-58.1	UY	11
+Canada del Cangrejo	-34.73333	-56.35	UY	10
+Arroyo del Cangallero	-33.96667	-55.16667	UY	08
+Canepa	-34.51667	-55.25	UY	08
+Arroyo Canelon Grande	-34.50667	-56.38444	UY	02
+Estacion Canelones	-34.53333	-56.28333	UY	02
+Departamento de Canelones	-34.53333	-55.91667	UY	02
+Arroyo de los Canelones	-34.23333	-55.98333	UY	08
+Canelones	-34.52278	-56.27778	UY	02
+Arroyo Canelon Chico	-34.48361	-56.32389	UY	02
+Canada del Canelon	-34.61667	-54.4	UY	14
+Canada de la Canelera	-30.5	-57.26667	UY	01
+Canada Canelera	-31.95	-56.61667	UY	11
+Candil	-34.06667	-56.3	UY	07
+Canada de la Cancela	-30.91667	-57	UY	01
+Isla Canas Grande	-33.3	-58.18333	UY	17
+Sierra de las Canas	-34.58333	-54.78333	UY	09
+Canada de las Canas	-32.81667	-54.05	UY	03
+Arroyo de las Canas	-34.65	-54.88333	UY	09
+Arroyo de las Canas	-34.5	-57.06667	UY	16
+Arroyo de las Canas	-32.76667	-55.68333	UY	05
+Arroyo de las Canas	-32.4	-53.61667	UY	03
+Arroyo de las Canas	-32	-54.36667	UY	03
+Arroyo de las Canas	-31.83333	-56.83333	UY	11
+Arroyo de las Canas	-31.41667	-55.8	UY	18
+Arroyo de las Canas	-31.33333	-57.03333	UY	15
+Arroyo de las Canas	-31.28333	-56	UY	18
+Arroyo de las Canas	-30.96667	-57.23333	UY	01
+Canas	-31.3	-56.01667	UY	18
+Punta Canarios	-33.13333	-58.35	UY	17
+Punta Canario	-34.93333	-56.15	UY	10
+Punta del Canario	-34.86472	-56.35639	UY	10
+Canada del Canario	-32.26667	-56.73333	UY	11
+Canada Sauce	-32.46667	-54.31667	UY	03
+Canada Nieto	-33.71667	-58.08333	UY	17
+Canada del Pueblo	-32	-57.16667	UY	11
+Canada del Pueblo	-31.83333	-57.25	UY	11
+Canada Chica	-33.25	-53.9	UY	19
+Came	-33.86667	-57.61667	UY	17
+Canada del Convoy	-30.47788	-57.64602	UY	01
+Estacion Cambon	-34.18333	-57.51667	UY	04
+Estacion Camano	-30.56667	-56.88333	UY	01
+Camano	-30.56667	-56.88333	UY	01
+Arroyo Calzon de Cuero	-31.76667	-57.48333	UY	11
+Arroyo Calleros	-34.08333	-56.2	UY	07
+Arroyo California	-31.63333	-56.18333	UY	18
+Cerro Calera	-31.36667	-55.4	UY	13
+Canada de la Calera	-33.48333	-54.95	UY	08
+Arroyo de la Calera	-34.46667	-54.86667	UY	09
+Arroyo de la Calera	-34.28333	-55.35	UY	08
+Arroyo de la Calera	-33.85	-56.16667	UY	07
+Arroyo de la Calera	-31.45	-55.41667	UY	13
+Arroyo Calera	-34.08333	-54.73333	UY	08
+Arroyo Calengo	-32.18333	-56.08333	UY	18
+Cerro de las Calagualas	-34.6	-55.16667	UY	09
+Arroyo Caladeras	-32.83333	-57.75	UY	12
+Canada de los Caillava	-31.6	-55	UY	13
+Canada del Caibal	-32.71667	-58.16667	UY	12
+Arroyo Cagancha Chico	-34.35	-56.53333	UY	16
+Arroyo Cagancha	-34.51833	-56.585	UY	16
+Banado de los Cadetes	-31.43333	-55.48333	UY	13
+Punta Cachimbas	-32.73333	-53.26667	UY	03
+Sierra de Cabrera y Suvera	-34.3	-54.78333	UY	09
+Arroyo Cabrera	-34.05	-55.5	UY	07
+Sierra de Cabral	-34.66667	-55.13333	UY	09
+Cabo Polonio	-34.4024	-53.78264	UY	14
+Arroyo Cabelludo	-33.33333	-57.75	UY	17
+Arroyo Cabelludo	-33.31667	-57.75	UY	17
+Isla Caballo	-33.08333	-58.2	UY	12
+Arroyo Caballero Chico	-33.06667	-56.58333	UY	05
+Arroyo de Caballero	-33.28333	-56.73333	UY	06
+Canada de la Caballada	-32.18333	-56.81667	UY	11
+Arroyo de la Caballada	-34.48333	-57.81667	UY	04
+Punta de los Burros	-34.85209	-55.304	UY	09
+Cerro de los Burros	-34.82194	-55.29865	UY	09
+Canada de los Burros	-32.01667	-53.86667	UY	03
+Canada de los Burros	-30.5	-56.43333	UY	01
+Burros	-32.21667	-57.38333	UY	11
+Canada del Burro Muerto	-34.71667	-55.98333	UY	02
+Isla del Burro	-32.93333	-58.1	UY	12
+Arroyo Buricayupi	-32.18333	-57.55	UY	11
+Bajo Bump	-34.91667	-56.01667	UY	00
+Cerro del Buey	-32.86667	-56.28333	UY	05
+Roca Buen Viaje	-34.93333	-56.13333	UY	10
+Cerro del Buen Retiro	-31.11667	-56.01667	UY	13
+Arroyo Buen Retiro	-31.2	-55.83333	UY	13
+Buenos Aires	-34.87678	-54.75397	UY	09
+Arroyo Buen Orden	-31.83333	-55.5	UY	00
+Sierra de Buena Vista	-33.75	-54.66667	UY	08
+Cerros de la Buena Vista	-34.03333	-53.9	UY	14
+Cerro Buena Vista	-34.16667	-55.23333	UY	08
+Cerro Buena Vista	-34.35311	-53.77288	UY	14
+Cerro Buena Vista	-33.86667	-54.75	UY	08
+Cerro Buena Vista	-32.95	-55.88333	UY	05
+Canada de la Buena Vista	-32.36667	-56.35	UY	18
+Buena Vista	-32.15	-54.2	UY	03
+Buena Union	-31.23333	-55.63333	UY	13
+Buenahora	-34.03333	-58.13333	UY	04
+Punta del Buceo	-34.90917	-56.13222	UY	10
+Puerto del Buceo	-34.90811	-56.13095	UY	10
+Playa del Buceo	-34.89915	-56.12012	UY	10
+Buceo	-34.9	-56.13333	UY	10
+Canada de los Brum	-31.53333	-56.43333	UY	15
+Arroyo de las Brujas Grande	-34.69306	-56.38	UY	02
+Arroyo de las Brujas Chico	-34.63333	-56.33333	UY	02
+Punta Britos	-34.94889	-54.97662	UY	09
+Estacion Brigadier General Diego Lamas	-30.7	-57.03333	UY	01
+Brigadier General Diego Lamas	-30.68333	-57.03333	UY	01
+Estacion Brigadas Civiles	-31.25	-55.8	UY	13
+Punta Brava	-34.93409	-56.16014	UY	10
+Playa Brava	-34.95761	-54.93578	UY	09
+Canada Brava	-32.7	-55.15	UY	03
+Canada Brava	-32.23333	-55.31667	UY	18
+Canada Brava	-31.98333	-54.2	UY	03
+Canada Brava	-31.66667	-56.58333	UY	15
+Islote Braulio	-32.35	-58.16667	UY	11
+Canada del Brasil	-33.03333	-57.13333	UY	12
+Arroyo del Bramante	-33.56667	-54.4	UY	08
+Arroyo de la Boyada	-34.43722	-56.97889	UY	16
+Canada del Boticario	-33.23333	-57.96667	UY	17
+Paradero del Borracho	-31.9	-55.46667	UY	11
+Cerro del Boqueron	-32.01667	-56.58333	UY	11
+Canada Boqueron	-32.21667	-57.26667	UY	11
+Canada Boqueron	-31.51667	-56.48333	UY	15
+Cerro Bonito	-31.25	-56.83333	UY	15
+Cerro Bonito	-31.13333	-55.56667	UY	13
+Cerro Bonete	-33.31667	-54.68333	UY	19
+Bone	-34.03333	-57.83333	UY	04
+Cerro Bombero	-31.83333	-56.9	UY	11
+Cerro de la Bolsa	-33.2	-54.66667	UY	19
+Canada de Bolivar	-34.21667	-55.71667	UY	08
+Bolivar	-34.23333	-55.73333	UY	08
+Arroyo Bolas Grande	-33.88333	-56.88333	UY	06
+Arroyo Bolas Chico	-33.86667	-56.95	UY	06
+Cerro de las Bolas	-32.81667	-54.65	UY	03
+Arroyo de las Bolas	-32.75	-54.7	UY	19
+Cerro de la Bola	-34.30507	-54.65681	UY	09
+Arroyo Bola	-34.61667	-55.53333	UY	02
+Arroyo Boicua	-30.91667	-57.81667	UY	15
+Boca del Rosario	-34.4	-57.33333	UY	04
+Arroyo Blanquillos	-33.23333	-57.1	UY	06
+Blanquillos	-32.35	-55.83333	UY	18
+Arroyo Blanquillo Grande	-31.76667	-57.3	UY	11
+Canada Blanquillo de la Bocaina	-31.93333	-56.46667	UY	11
+Arroyo Blanquillo Chico	-31.81667	-57.28333	UY	11
+Estacion Blanquillo	-32.88333	-55.63333	UY	05
+Canada del Blanquillo	-32.25	-55.26667	UY	18
+Canada Blanquillo	-32.73333	-55.68333	UY	05
+Canada Blanquillo	-32.41667	-55.5	UY	18
+Canada Blanquillo	-32.33333	-55.83333	UY	18
+Arroyo del Blanquillo	-32.81667	-55.75	UY	05
+Arroyo del Blanquillo	-32.25	-56.36667	UY	18
+Arroyo Blanquillo	-32.51667	-56.93333	UY	12
+Arroyo Blanquillo	-32.03333	-56.45	UY	11
+Arroyo Blanquillo	-31.23333	-57.11667	UY	15
+Blanquillo	-32.76667	-55.63333	UY	05
+Sierra la Blanqueada	-33.98333	-53.75	UY	14
+Arroyo Blanqueada	-34.1	-53.71667	UY	14
+Cerros Blancos	-31.75	-54.83333	UY	13
+Cerro Blanco	-34.53333	-55.36667	UY	08
+Cerro Blanco	-32	-55.81667	UY	18
+Cerro Blanco	-31.48333	-55.45	UY	13
+Arroyo Blanco	-31.63333	-54.68333	UY	13
+Piedras Blancas	-34.90972	-56.2606	UY	10
+Sierra Blanca	-33.93333	-55.13333	UY	08
+Laguna Blanca	-34.89853	-54.83525	UY	09
+Laguna Blanca	-33.56667	-53.55	UY	14
+Arroyo Blanca	-31.66667	-54.75	UY	13
+Estacion Bizcocho	-33.41667	-57.95	UY	17
+Arroyo Bizcocho	-33.53333	-58.28333	UY	17
+Arroyo Bizcocho	-33.46667	-58.05	UY	17
+Isla Bizcochero	-34.87771	-56.24167	UY	10
+Estacion Bifurcacion	-34.31667	-56.8	UY	16
+Bifurcacion	-34.31667	-56.8	UY	16
+Bichadero	-32.11667	-53.75	UY	03
+Biassini	-31.25	-57.16667	UY	15
+Estacion Berrondo	-34.15	-56.28333	UY	07
+Canada de Bermudez	-33.15	-57.5	UY	17
+Arroyo Berachi	-32.01667	-53.85	UY	03
+Arroyo Bequelo	-33.35	-57.66667	UY	17
+Arroyo Bequelo	-33.25	-57.75	UY	17
+Arroyo Bequelo	-33.21667	-58	UY	17
+Belvedere	-34.85	-56.21667	UY	10
+Sierra de Bella Vista	-33.95	-53.95	UY	14
+Cerros de la Bella Vista	-34.03333	-53.95	UY	14
+Canada de Bella Vista	-31.55	-57.75	UY	11
+Bella Vista	-34.81667	-55.35	UY	09
+Bella Vista	-34.88333	-56.2	UY	10
+Bella Vista	-34.31667	-57	UY	16
+Estacion Bella Union	-30.27237	-57.58773	UY	01
+Bella Union	-30.27522	-57.6007	UY	01
+Bella Italia	-34.83333	-56.11667	UY	10
+Estacion Bellaco	-32.76667	-57.88333	UY	12
+Arroyo Bellaco	-32.58333	-58	UY	12
+Arroyo Bellaco	-32.48333	-58.18333	UY	11
+Bellaco	-32.76667	-57.88333	UY	12
+Canada Bellaca	-34.7	-54.9	UY	09
+Canada Bellaca	-34.63333	-55.65	UY	02
+Canada Bellaca	-34.48333	-55.65	UY	02
+Canada de Belen	-32.11667	-54.98333	UY	18
+Arroyo Belen	-34.23333	-55.98333	UY	08
+Belen	-30.78333	-57.78333	UY	15
+Beisso	-32.33333	-57.05	UY	12
+Bedoya	-34.1	-57.65	UY	04
+Roca Beaumanoir	-34.46667	-57.91667	UY	04
+Cerro Batovi Dorado	-31.1	-55.43333	UY	13
+Arroyo Batovi Dorado	-31.21667	-55.45	UY	13
+Cerros de Batovi	-31.88333	-56.03333	UY	18
+Arroyo de Batovi	-33.5	-56.51667	UY	06
+Arroyo Batovi	-31.96667	-55.73333	UY	18
+Arroyo Batovi	-31	-55.33333	UY	13
+Arroyo del Baqueano	-33.03333	-56.3	UY	05
+Canada del Bano	-34.15	-58.15	UY	04
+Cerro de la Bandera	-32.05	-56.83333	UY	11
+Canada Banado Grande	-32.61667	-53.88333	UY	03
+Estacion Banado de Rocha	-31.6	-55.85	UY	18
+Arroyo Banado de Rocha	-31.7	-55.8	UY	18
+Banado de Rocha	-31.6	-55.85	UY	18
+Banado de Rocha	-31.53333	-55.83333	UY	18
+Estacion Banado de Oro	-33.08333	-54.06667	UY	19
+Estacion Banado de Medina	-32.38333	-54.35	UY	03
+Arroyo Banado de Medina	-32.45	-54.28333	UY	03
+Banado de Medina	-32.38333	-54.35	UY	03
+Canada del Banado	-33.11667	-54.85	UY	19
+Arroyo del Banado	-31.11667	-55.73333	UY	13
+Estacion Baltasar Brum	-30.73333	-57.31667	UY	01
+Baltasar Brum	-30.71295	-57.32728	UY	01
+Cerro Baltasar	-34.43333	-54.68333	UY	09
+Estacion Balneario Solis	-34.78333	-55.36667	UY	09
+Balneario Solis	-34.8	-55.36667	UY	09
+Sierra de la Ballena	-34.83333	-55.01667	UY	09
+Punta Ballena	-34.91599	-55.0467	UY	09
+Canada de las Baledas	-31.41667	-54.91667	UY	13
+Canada de Balduino	-31.05	-56.83333	UY	15
+Canada del Balacua	-30.36841	-57.57015	UY	01
+Arroyo del Bagre	-34.78333	-55.55	UY	02
+Lago Artificial de Bagoria	-32.75	-56.75	UY	00
+Arroyo Bacacua Grande	-32.18333	-57.75	UY	11
+Arroyo Bacacua Chico	-32.2	-57.75	UY	11
+Cerro de la Azotea	-32.76667	-54.33333	UY	03
+Canada de la Azotea	-33.81667	-57.8	UY	17
+Arroyo de la Azotea	-33.75	-56.48333	UY	06
+Arroyo de Ayala	-33.11667	-53.65	UY	19
+Arroyo Avestruz Grande	-33.2	-54.68333	UY	19
+Arroyo Avestruz Chico	-33.15	-54.66667	UY	19
+Cerro del Avestruz	-33.06667	-54.66667	UY	19
+Canada del Avestruz	-33.31667	-58.23333	UY	17
+Arroyo Averias Grande	-32.66667	-57.25	UY	12
+Arroyo Averias Grande	-32.48333	-56.86667	UY	12
+Arroyo Averias Chico	-32.76667	-57.28333	UY	12
+Sierra de las Averias	-33.65	-54.38333	UY	00
+Cerro Averias	-33.26667	-54.9	UY	08
+Arroyo de las Averias	-33.2	-54.71667	UY	19
+Arroyo Averias	-33.8	-53.66667	UY	14
+Arroyo Averias	-30.95	-57.3	UY	15
+Averias	-33.6	-54.31667	UY	14
+Arroyo del Avance	-33.45	-56.36667	UY	07
+Sierra Aurora	-31.05	-55.71667	UY	13
+Arroyo Aurora	-31.1	-55.68333	UY	13
+Canada Atolladero	-30.493	-57.26518	UY	01
+Atlantida	-34.7719	-55.7584	UY	02
+Atlantica	-34.46667	-53.93333	UY	14
+Arroyo Ataques	-31.25	-55.48333	UY	13
+Arroyo Ataque	-31.63333	-56.1	UY	13
+Cerro de la Atahona	-32.13333	-56.48333	UY	11
+Canada de la Atahona	-32.2	-56.56667	UY	11
+Arroyo Astorga	-32	-54.3	UY	03
+Cerro Aspero	-34.48333	-54.51667	UY	14
+Cerro Aspero	-33.08333	-54.5	UY	19
+Arroyo Asperezas	-32.5	-53.88333	UY	03
+Arroyo Ascencio Grande	-33.31667	-58.11667	UY	17
+Arroyo Ascencio Chico	-33.31667	-58.11667	UY	17
+Arroyo de la Aruera	-30.36667	-56.55	UY	01
+Parada Artola	-30.68333	-56.91667	UY	01
+Arroyo Artilleros del Plata	-34.43333	-57.58333	UY	04
+Punta Artilleros	-34.46667	-57.53333	UY	04
+Artilleros	-34.36667	-57.56667	UY	04
+Meseta de Artigas	-31.61667	-57.96667	UY	11
+Estacion Artigas	-30.35	-56.45	UY	01
+Departamento de Artigas	-30.58333	-57	UY	01
+Cerro Artigas	-34.36667	-55.16667	UY	08
+Artigas	-30.4	-56.46667	UY	01
+Parada Arteaga	-33.68333	-55.53333	UY	07
+Arrozal Victoria	-33.18333	-53.9	UY	14
+Arrozal Treinta y Tres	-33.01667	-53.7	UY	19
+Gajo del Arroyo Tacuarembo Chico	-31.63333	-56.16667	UY	18
+Arroyo Seco	-34.88333	-56.2	UY	10
+Arroyo Malo	-33.33333	-56.93333	UY	06
+Estacion Arroyo Grande	-33.96667	-57.08333	UY	06
+Arroyo Grande	-33.96667	-57.1	UY	06
+Arroyo de la Virgen	-34.13333	-56.4	UY	07
+Gajo del Arroyo Corrales	-32.96667	-54.16667	UY	19
+Arroyo Blanco	-31.68333	-54.76667	UY	13
+Arroyo de Arriola	-33.48333	-55.41667	UY	07
+Arriera	-32.03333	-54.56667	UY	18
+Arroyo de los Arrayanes	-33.46667	-54.21667	UY	08
+Arroyo de los Arrayanes	-33.36667	-53.98333	UY	19
+Canada Arrayan	-33.5	-54.01667	UY	14
+Arroyo del Arrayan	-33.45	-54.03333	UY	14
+Arroyo del Arrayan	-33.45	-54.01667	UY	14
+Arroyo Arrayan	-33.7	-55.48333	UY	07
+Banco Arquimedes	-35.21667	-56.1	UY	00
+Cerro de las Armas	-34.13333	-57.71667	UY	04
+Arroyo Arias Segundo	-34.17917	-56.05694	UY	07
+Arroyo Arias Primero	-34.1825	-56.06833	UY	07
+Arroyo de Arias	-34.23667	-56.09333	UY	07
+Cerro de los Argentinos	-34.28333	-54.73333	UY	09
+Balneario Argentino	-34.8	-55.45	UY	02
+Cerro Areycua	-31.68333	-55.3	UY	13
+Canada Arevalo	-34.35	-57.51667	UY	04
+Arevalo	-32.63333	-55.11667	UY	03
+Cerro Arequita	-34.25	-55.28333	UY	08
+Arenitas Blancas	-31.35	-57.98333	UY	11
+Sierras de Areicua	-31.71667	-55.41667	UY	13
+Arroyo de Arechaga	-31.78333	-56.98333	UY	15
+Sierra del Arbolito	-32.66667	-54.26667	UY	03
+Cerro del Arbolito	-32.91667	-57.35	UY	12
+Cerro del Arbolito	-31.91667	-57.15	UY	11
+Cerro del Arbolito	-32.13333	-56.13333	UY	18
+Cerro Arbolito	-34.26667	-55.2	UY	08
+Cerro Arbolito	-33.1	-56.4	UY	05
+Cerro Arbolito	-32.21667	-56.41667	UY	11
+Cerro Arbolito	-32.1	-56.56667	UY	11
+Cerro Arbolito	-32.08333	-55.83333	UY	18
+Cerro Arbolito	-31.85	-56.56667	UY	11
+Canada Arbolito	-32.45	-55.23333	UY	18
+Arbolito	-32.65	-54.25	UY	03
+Arbolito	-32.23333	-56.5	UY	11
+Canada de Arbelo	-34.58333	-55.88333	UY	02
+Puerto Arazati	-34.56667	-57	UY	16
+Canada Araza	-33.28333	-56.76667	UY	06
+Canada de Araujo	-31.75	-56.33333	UY	00
+Arroyo Araujo	-32.11667	-57.83333	UY	11
+Araujo	-32.1	-57.81667	UY	11
+Rio Arapey Grande	-30.91667	-57.81667	UY	15
+Rio Arapey Chico	-30.95	-57.5	UY	15
+Cerros del Arapey	-30.9	-56.5	UY	01
+Canada de Aquino	-32.51667	-56.9	UY	12
+Canada de los Apretados	-31.5	-56.98333	UY	15
+Arroyo del Apretado	-31.13333	-55.91667	UY	13
+Canada Apretada	-32.33333	-54.05	UY	03
+Estacion Aparicio Saravia	-33.83333	-54.95	UY	08
+Arroyo Aparicio	-34.26	-56.04667	UY	00
+Antoniopolis	-34.58333	-54.11667	UY	14
+Arroyo Antonio Herrera	-33.41667	-55.83333	UY	05
+Ansina	-31.87836	-55.46482	UY	11
+Roca Anita	-34.46667	-57.86667	UY	04
+Sierra de las Animas	-34.7	-55.31667	UY	09
+Punta Animas	-34.8	-55.38333	UY	09
+Cerro de las Animas	-34.76667	-55.31667	UY	09
+Cerro de las Animas	-31	-55.41667	UY	13
+Canada de las Animas	-33.33333	-58	UY	17
+Arroyo de las Animas	-33.9	-54.9	UY	08
+Punta Angostura	-34.46667	-57.73333	UY	04
+Banado de la Angostura	-34.13333	-53.71667	UY	14
+Andresito	-33.13333	-57.15	UY	06
+Arroyo Anastasio	-34.78333	-54.61667	UY	09
+Anastasia	-33.21667	-54.38333	UY	19
+Canada Anasco	-33.8	-57.95	UY	17
+Arroyo A. Muno	-33.41667	-57.41667	UY	17
+Cerro Amarillo	-30.46667	-56.75	UY	01
+Arroyo Amarillo	-32.55	-54.03333	UY	10
+Arroyo Amarillo	-32.5	-54	UY	03
+Arroyo Amarillo	-31.75	-55.1	UY	13
+Sierra de los Amarales	-34.03333	-54.08333	UY	14
+Cerro de Amaral	-32.91667	-55.03333	UY	08
+Canada de los Alves	-31.4	-55.23333	UY	13
+Aeropuerto Internacional de Alternativa de Santa Bernardina	-35.25	-56.5	UY	05
+Isla Almiron	-32.38333	-58.18333	UY	11
+Isla Almerias	-32.38333	-58.16667	UY	11
+Allende	-30.3	-56.96667	UY	01
+Estacion Algorta	-32.43333	-57.38333	UY	12
+Algorta	-32.41667	-57.38333	UY	12
+Canada Algarrobos	-33.58333	-57.95	UY	17
+Arroyo de los Algarrobos	-33.1	-57.8	UY	17
+Arroyo Algarrobos	-32.91667	-57.3	UY	12
+Arroyo Algarrobos	-32.6	-57.58333	UY	12
+Canada del Algarrobo	-33.1	-57.63333	UY	17
+Canada Algarin	-34.25	-57.38333	UY	04
+Sierra del Alferez	-34.11667	-54.36667	UY	14
+Arroyo del Alferez	-33.95	-54.48333	UY	00
+Alejandro Gallinal	-33.81667	-55.55	UY	07
+Canada de los Alegres	-32.83333	-57.78333	UY	12
+Cerro Alegre	-33.33333	-57.93333	UY	17
+Aldecoa	-33.55	-56.9	UY	06
+Arroyo de la Aldea	-31.75	-56.06667	UY	18
+Canada Albornoz	-31.16667	-56.73333	UY	15
+Albisu	-31.33333	-57.8	UY	15
+Canada de Albin	-33.81667	-57.85	UY	17
+Sierra de los Alamos	-33.3	-55.58333	UY	00
+Canada de los Alamos	-34.06667	-54.1	UY	14
+Arroyo de los Alamos	-34.01667	-56.63333	UY	16
+Canada del Alamo	-34.6	-55.48333	UY	02
+Sierra de los Ajos	-33.75	-54.03333	UY	14
+Canada de los Ajos	-33.68333	-53.95	UY	14
+Sierra del Aigua	-34.25	-54.63333	UY	09
+Asperezas del Aigua	-33.65	-54.35	UY	14
+Arroyo del Aigua	-33.7	-54.41667	UY	00
+Arroyo del Aigua	-33.63333	-54.38333	UY	00
+Aigua	-34.2	-54.75	UY	09
+Arroyo de los Ahogados	-33.56667	-56.48333	UY	06
+Ahogados	-33.75	-56.46667	UY	06
+Sierre de Aguirre	-34.3	-54.13333	UY	14
+Cerro de Aguirre	-34.33333	-54.13333	UY	14
+Aguirre	-32.36667	-54.76667	UY	03
+Cerros del Aguila	-33.56667	-57.85	UY	17
+Cerro del Aguila	-34.11667	-54.68333	UY	08
+Cerro del Aguila	-34.01667	-54.83333	UY	08
+Arroyo del Aguila	-33.95	-54.88333	UY	08
+Arroyo del Aguila	-33.61667	-58.08333	UY	17
+Aguila	-33.6	-57.98333	UY	17
+Aguila	-32.66667	-53.61667	UY	03
+Cerro de Aguiar	-34.63333	-55.31667	UY	09
+Cerro Agudo	-32.15	-55.95	UY	18
+Punta Aguda	-34.35856	-53.7623	UY	14
+Aguas Dulces	-34.28333	-53.76667	UY	14
+Aguas Corrientes	-34.52194	-56.39361	UY	02
+Aguas Buenas	-32.8	-55.8	UY	05
+Arroyo Aguas Blancas	-34.51667	-55.45	UY	08
+Cerro Aguara	-32	-56.13333	UY	18
+Zanja Aguapey	-30.93333	-57.06667	UY	01
+Arroyo del Agua Fria	-32.08333	-56.01667	UY	18
+Canada de la Aguada	-33.75	-54.35	UY	14
+Canada de la Aguada	-32.05	-56.95	UY	11
+Cordon	-34.9	-56.18333	UY	10
+Arroyo Agraciada Chico	-33.75	-58.33333	UY	17
+Arroyo de la Agraciada	-33.73333	-58.4	UY	17
+Agraciada	-33.8	-58.25	UY	17
+Canada Agesta	-32.08333	-57.96667	UY	11
+Acosta	-33.23333	-53.85	UY	19
+Cerros Acollarados	-31.63333	-57.83333	UY	11
+Canada las Achiras	-34.3	-55.88333	UY	02
+Canada de las Achiras	-33.4	-54.28333	UY	08
+Achiras	-33.53333	-54.43333	UY	08
+Estacion Achar	-32.41667	-56.16667	UY	18
+Arroyo Achar	-32.6	-56.16667	UY	18
+Achar	-32.41667	-56.16667	UY	18
+Sierra de Acegua	-31.9	-54.41667	UY	18
+Cerro Acegua	-31.98333	-54.51667	UY	18
+Banado de Acegua	-31.98333	-54.36667	UY	03
+Acegua	-31.86667	-54.2	UY	03
+Arroyo del Abrojal	-33.18333	-56.63333	UY	05
+Arroyo del Abrojal	-33.05	-57.88333	UY	12
+Arroyo del Abrojal	-31.8	-55.1	UY	18
+Arroyo Abrojal	-33	-56.85	UY	05
+Abrojal	-31.75	-55.01667	UY	13
+Estacion Abra de Perdomo	-34.73333	-54.96667	UY	09
+Arroyo del Abra	-34.46667	-55.43333	UY	08
+Canada Abejas	-32.33333	-55.81667	UY	18
+Arroyo del Chuy	-33.76667	-53.4	UY	00
+Isla Brasilena	-30.20461	-57.62324	UY	01
+Villa Libertad	-34.65	-56.6	UY	16
+Cerro Negro	-34.7	-55.05	UY	02
+Puerto del Buceo	-34.90833	-56.13333	UY	10
+Ciudad Vieja	-34.90833	-56.20833	UY	10
+Cementerio Central	-34.91399	-56.18767	UY	10
+Dique Maua	-34.91261	-56.19876	UY	10
+Escollera Sarandi	-34.91207	-56.21844	UY	10
+Escollera Oeste	-34.90833	-56.22917	UY	10
+Piedra Fieramosca	-34.90833	-56.21667	UY	10
+Muelle Fluvial	-34.90417	-56.21667	UY	10
+Dique de la Armada	-34.90417	-56.25833	UY	10
+Playa del Cerro	-34.89611	-56.25299	UY	10
+Cerros de Florida	-34.05833	-56.12583	UY	07
+Arroyo de la Feliciana	-34.22389	-56.30111	UY	07
+Lago Artificial del Canelon Grande	-34.44583	-56.24139	UY	02
+Canada del Ciego	-34.49806	-56.91028	UY	16
+Puntas de Valdez	-34.58389	-56.69944	UY	16
+Arroyo de la Isla	-34.58556	-56.47528	UY	02
+El Dorado	-34.69833	-56.2175	UY	02
+Puerto de Montevideo	-34.90556	-56.215	UY	10
+Cap. Juan A. Artigas	-34.7625	-56.02056	UY	02
+Villa Garcia	-34.78111	-56.05333	UY	10
+Colonia Nicolich	-34.81306	-56.04472	UY	02
+Villa Don Bosco	-34.80306	-56.08583	UY	10
+Carrasco	-34.88528	-56.06056	UY	10
+Canada Bellaca	-34.83944	-56.26528	UY	10
+Pajas Blancas	-34.80167	-56.33417	UY	10
+(Young) 18 de Julio Y Montevideo	-32.70361	-57.63325	UY	00
+UTU San Carlos	-34.79195	-54.92148	UY	
+Iglesia San Carlos Borromeo	-34.79238	-54.91351	UY	
+	-34.7915	-54.91742	UY	
+	-34.78785	-54.90881	UY	
+CEDENCAR	-34.78619	-54.91421	UY	
+Joaqin Suarez	-34.78581	-54.90713	UY	
+AV. Rocha	-34.78609	-54.90966	UY	
+Melilla	-34.78921	-56.2647	UY	
+Artigas	-30.38333	-56.5	UY	
+Durazno	-33.35887	-56.49917	UY	
+Ricardo de Tomasi	-33.25	-58.06667	UY	
+Maldonado / Punta Est	-34.91384	-54.92053	UY	09
+Paysandu	-32.33333	-58.03333	UY	
+Tacuarembo	-31.7	-55.98333	UY	
+Treinta Y Tres	-33.21667	-54.38333	UY	
+Tryp Montevideo	-34.92239	-56.16135	UY	10
+Nh Columbia	-34.90952	-56.20446	UY	02
+FOUR SEASONS CARMELO	-34.4666	-57.85	UY	04
+LAFAYETTE	-34.90793	-56.19072	UY	10
+FOUR POINTS MONTEVIDEO	-34.90697	-56.18695	UY	10
+BALMORAL	-34.90668	-56.19186	UY	10
+MANTRA PUNTA DEL ESTE	-34.9085	-54.85035	UY	09
+IBIS MONTEVIDEO	-34.91407	-56.18241	UY	10
+Punta del Diablo	-34.04583	-53.5405	UY	14
+Edificio Panamericano	-34.90913	-56.13485	UY	10
+	-34.91145	-56.15112	UY	10
+Virgen de la Candelaria	-34.96453	-54.94033	UY	09
+	-34.96341	-54.94458	UY	09
+Edificio Tiburon I	-34.94853	-54.92638	UY	09
+Edificio Tiburon II	-34.94801	-54.9255	UY	09
+Edificio Peninsula	-34.96181	-54.94398	UY	09
+Edificio Opus Alpha	-34.95331	-54.93101	UY	09
+Edificio Santos Dumont	-34.95935	-54.93962	UY	09
+Edificio El Torreon	-34.95731	-54.9401	UY	09
+Edificio Arcobaleno	-34.92651	-54.95546	UY	09
+Edificio Ciudadela	-34.90686	-56.20107	UY	10
+	-34.91634	-56.15375	UY	10
+Edificio Morumbi	-34.91236	-56.1504	UY	10
+Palacio Penarol Contador Gaston Guelfi	-34.89893	-56.18246	UY	10
+Monumento a Luis Batlle Berres	-34.86957	-56.16783	UY	10
+Edificio Lazaro Gadea	-34.9139	-56.15019	UY	10
+Edificio Ensenada	-34.91073	-56.14627	UY	10
+Edificio Zeus	-34.91146	-56.14605	UY	10
+Edificio Marti	-34.91272	-56.14712	UY	10
+Edificio Guayaqui	-34.91239	-56.14676	UY	10
+Edificio Peru	-34.91187	-56.14622	UY	10
+Edificio Pocitos	-34.91097	-56.14521	UY	10
+Edificio Portofino	-34.96495	-54.94729	UY	09
+Edificio Calypso	-34.96704	-54.94684	UY	09
+Edificio Kohoutek	-34.90638	-56.1505	UY	10
+Edificio Marber	-34.91151	-56.14962	UY	10
+Edificio Ayala	-34.92158	-56.15624	UY	10
+Edificio Via Moretti	-34.91988	-56.15285	UY	10
+Edificio Ipanema	-34.91829	-56.15324	UY	10
+Edificio Residencial Dino	-34.91995	-56.15096	UY	10
+Edificio Salamanca	-34.91977	-56.15036	UY	10
+Edificio Rey Martin IV	-34.91967	-56.15045	UY	10
+Edificio Solano	-34.91928	-56.15057	UY	10
+Edificio Residencial Castelar	-34.91507	-56.15041	UY	10
+Edificio Panama	-34.91517	-56.1502	UY	10
+Edificio Playamar	-34.91476	-56.15179	UY	10
+Edificio Castropol	-34.91486	-56.15124	UY	10
+	-34.9144	-56.153	UY	10
+Edificio El Mastil	-34.91393	-56.14891	UY	10
+Casa Williman	-34.91104	-56.15222	UY	10
+Edificio Asociacion de Empleados Bancarios del Uruguay (AEBU)	-34.90905	-56.2026	UY	10
+El Cabildo	-34.90657	-56.20284	UY	10
+Edificio Rio Branco	-34.9108	-56.19521	UY	10
+Edificio Rizan IV	-34.90947	-56.19564	UY	10
+Edificio Palacio Rinaldi	-34.9062	-56.1985	UY	10
+Archivo General de la Nacion	-34.90408	-56.19705	UY	10
+Edificio Falco	-34.90228	-56.19609	UY	10
+Edificio Lapido	-34.90654	-56.196	UY	10
+Edificio Brith	-34.90604	-56.1961	UY	10
+Manos del Uruguay	-34.90679	-56.19202	UY	10
+Edificio Modena	-34.9106	-56.14711	UY	10
+Edificio Meipe	-34.91026	-56.1473	UY	10
+Edificio De los Pocitos	-34.9108	-56.14676	UY	10
+Casa Casabo	-34.92021	-56.15117	UY	10
+	-34.91611	-56.16052	UY	10
+Instituto Alfredo Vasquez Acevedo (IAVA)	-34.90372	-56.17584	UY	10
+Edificio Atenea	-34.90772	-56.19202	UY	10
+Edificio Residencial Gstaad	-34.92382	-56.15381	UY	10
+Edificio Farallon	-34.96081	-54.93896	UY	09
+Edificio Castellamare	-34.96116	-54.94368	UY	09
+Obelisco a los Constituyentes de 1830 (Montevideo)	-34.89741	-56.16428	UY	10
+Edificio Champs Elysees	-34.90441	-56.16347	UY	10
+Edificio Electra	-34.91583	-56.15438	UY	10
+Edificio Centenario	-34.90531	-56.2046	UY	10
+Edificio de la Cooperativa Bancaria	-34.90801	-56.20721	UY	10
+Instituto de Ensenanza de la Construccion Ingeniero Cayetano Carcavallo (UTU)	-34.89929	-56.17506	UY	10
+Universidad del Trabajo del Uruguay (UTU)	-34.91168	-56.17859	UY	10
+Casa Crespi	-34.92	-56.16468	UY	10
+Casa Nowinski	-34.87488	-56.04079	UY	10
+Edificio Bonanza	-34.91141	-56.14664	UY	10
+Edificio Rio de la Plata	-34.91779	-56.1491	UY	10
+Edificio Ganahani	-34.91102	-56.14591	UY	10
+Edificio Pleyades	-34.91203	-56.1464	UY	10
+Edificio Fuentes	-34.90953	-56.14745	UY	10
+Edificio Naciones Unidas IV	-34.91108	-56.1453	UY	10
+Edificio Picaso	-34.91186	-56.15088	UY	10
+Casa Perotti	-34.90998	-56.15111	UY	10
+Edificio Palacio Diaz	-34.90531	-56.18738	UY	10
+Edificio Torres del Nuevo Mundo	-34.92879	-56.16064	UY	10
+Parador y Hosteria Salus	-34.40471	-55.32079	UY	08
+Edificio Masimar	-34.91226	-56.14823	UY	10
+Edificio Moncaut	-34.90919	-56.16886	UY	10
+Escuela Alemania	-34.87604	-56.18597	UY	10
+Casa Quinta Doctor Carlos Vaz Ferreira	-34.8616	-56.19051	UY	10
+Iglesia Nuestra Senora de la Candelaria	-34.96898	-54.95044	UY	09
+Edificio Torre Fontemar	-34.96492	-54.94626	UY	09
+Edificio Recalada	-34.96408	-54.94365	UY	09
+Casa Juan Alberto Schiaffino	-34.89642	-56.07464	UY	10
+Edificio Sansuena	-34.91592	-56.15398	UY	10
+Edificio La Villette	-34.91152	-56.14842	UY	10
+Edificio Lindoia	-34.9111	-56.14976	UY	10
+Edificio Nantes	-34.91063	-56.14904	UY	10
+Edificio Altos de Sarmiento	-34.9149	-56.16157	UY	10
+Edificio Rey Martin III	-34.92272	-56.15397	UY	10
+Edificio Atalaya	-34.91776	-56.14926	UY	10
+Edificio Italia	-34.91746	-56.15072	UY	10
+Edificio Solis	-34.91537	-56.14925	UY	10
+Edificio Las Palmas	-34.91541	-56.14906	UY	10
+	-34.91566	-56.14904	UY	10
+Edificio Berro	-34.90837	-56.14509	UY	10
+Edificio Acqua	-34.93257	-54.90264	UY	09
+Casa Arcieri	-34.89848	-56.0675	UY	10
+Edificio Marti (MV)	-34.91064	-56.15087	UY	10
+Edificio Cibeles	-34.90945	-56.14729	UY	10
+Edificio Del Sol II	-34.90968	-56.15083	UY	10
+Edificio Romulo y Remo	-34.9076	-56.14936	UY	10
+Edificio Ricor	-34.902	-56.17111	UY	10
+Edificio Torre Nueva York	-34.95038	-54.92894	UY	09
+Casa Febo Perez Maggi	-34.94882	-54.93931	UY	09
+Instituto Pauster de Montevideo	-34.88351	-56.11825	UY	10
+Monumento a Jose Enrique Rodo	-34.91442	-56.1676	UY	10
+Edificio El Positano	-34.90533	-56.16284	UY	10
+Edificio Gilpe	-34.90783	-56.15834	UY	10
+Edificio O'Higgins	-34.92014	-56.15801	UY	10
+Edificio Torre de los Profesionales	-34.90452	-56.18834	UY	10
+Biblioteca Nacional	-34.90291	-56.17726	UY	10
+Edificio Yapeyu	-34.89884	-56.16863	UY	10
+Sanatorio Americano	-34.89929	-56.15991	UY	10
+UNICEF Uruguay	-34.89747	-56.16495	UY	10
+Edificio Puerta del Sol	-34.90376	-56.13033	UY	10
+Casa Manuel Esmoris	-34.89301	-56.12402	UY	10
+	-34.92757	-54.96061	UY	09
+Monumento a Jose Pedro Varela	-34.90625	-56.16336	UY	10
+Bolsa de Valores (Montevideo)	-34.90722	-56.20604	UY	10
+Edificio Explanada San Jose	-34.90643	-56.18705	UY	10
+Edificio Stromboli	-34.901	-56.17173	UY	10
+Edificio Alexandre's	-34.91312	-56.14947	UY	10
+Edificio Cabo Benidorm	-34.9094	-56.14545	UY	10
+Edificio El Malecon	-34.90919	-56.14252	UY	10
+Edificio Goden Dream	-34.9107	-56.13471	UY	10
+Edificio Torre Asuncion	-34.89141	-56.16469	UY	10
+Edificio Italia II	-34.90821	-56.14307	UY	10
+Edificio Irlanda	-34.91022	-56.14656	UY	10
+Edificio Costamar	-34.91036	-56.14856	UY	10
+Edificio Maraba	-34.90918	-56.15316	UY	10
+Edificio Aumy	-34.91507	-56.1531	UY	10
+Centro Hemato Oncologico Pedriatico Doctor Alberto Perez Scremini	-34.89947	-56.1641	UY	10
+Edificio Fiumicino	-34.91501	-56.15244	UY	10
+Adanofruits. Establecimiento El Timbo.	-32.47271	-57.88076	UY	11
+Edificio The Life	-34.90915	-56.14223	UY	10
+Edificio Sant Germain	-34.91486	-56.15247	UY	10
+Edificio Torre Velia	-34.91479	-56.15239	UY	10
+Edificio El Indio	-34.91994	-56.15634	UY	10
+Monumento al Ahogado (Los Dedos)	-34.95783	-54.93722	UY	09
+Union Postal de las Americas Espana y Portugal (UPAEP) y Museo	-34.91389	-56.18275	UY	10
+Casa Yriart	-34.91342	-56.15196	UY	10
+Sanatorio Banco de Seguros del Estado (B.S.E)	-34.90438	-56.19457	UY	10
+Instituto Goethe	-34.90845	-56.18254	UY	10
+	-34.91169	-56.17675	UY	10
+Sociedad de Arquitectos del Uruguay (SAU)	-34.91189	-56.17085	UY	10
+Casa Mario Pastore	-34.88177	-56.06712	UY	10
+Edificio Miro	-34.90742	-56.15972	UY	10
+Edificio Tapie	-34.90578	-56.18532	UY	10
+Edificio Constituyente II	-34.90767	-56.17271	UY	10
+Edificio Blue Bird	-34.91496	-56.15545	UY	10
+Museo Nacional de Artes Visuales (mnav)	-34.91379	-56.16466	UY	10
+Edificio Torre D'Argento	-34.90797	-56.14951	UY	10
+Edificio Tamburini	-34.90897	-56.14942	UY	10
+Edificio Bukingham	-34.91645	-56.15083	UY	10
+	-34.91682	-56.15351	UY	10
+Facultad de Arquitectura_UdelaR	-34.91031	-56.16364	UY	10
+Facultad de Ingenieria_UdelaR	-34.91829	-56.16637	UY	10
+Facultad de Ciencias Economicas y Administracion_UdelaR	-34.91204	-56.17337	UY	10
+Casa Jose Pedro Sierra Morato	-34.88275	-56.07465	UY	10
+Edificio Palacio Uriarte de Heber	-34.90637	-56.19485	UY	10
+Edificio Orion	-34.90491	-56.18908	UY	10
+Casa Forteza y Otero	-34.91926	-56.15909	UY	10
+Edificio Nautilus	-34.92161	-56.15097	UY	10
+Casa Reborati	-34.91902	-56.15139	UY	10
+Casa Bello	-34.91863	-56.15312	UY	10
+Edificio Concorde	-34.91878	-56.15013	UY	10
+Monumento al General Manuel Oribe	-34.90142	-56.17528	UY	10
+	-34.88727	-56.15444	UY	10
+Edificio Berro DV	-34.91152	-56.15034	UY	10
+Edificio_Martin	-34.88651	-56.18608	UY	10
+Observatorio Astronomico Los Molinos	-34.75524	-56.19041	UY	10
+Cruz Roja Uruguaya	-34.88427	-56.15562	UY	10
+Instituto Nacional de Ciruguia Cardiaca	-34.88471	-56.1513	UY	10
+Iglesia Hermanas Dominicas	-34.84124	-56.14749	UY	10
+CONAPROLE (Cooperativa Nacional de Productores de Leche)	-34.83447	-56.25233	UY	10
+Facultad de Agronomia_UdelaR	-34.83696	-56.22105	UY	10
+Asociacion Nacional Productores de Leche (ANPL)	-34.89575	-56.18387	UY	10
+Torre Ejecutiva (Ex Palacio de Justicia)	-34.90727	-56.20021	UY	10
+Radio Oceano FM 93.9 (Ex Estudio Arquitecto Raul Sichero Bouret)	-34.90898	-56.1345	UY	10
+La Pedrera	-34.59344	-54.12234	UY	14
+Museo Pedagogico Jose Pedro Varela	-34.90529	-56.19075	UY	10
+Parque Jardin I	-34.90284	-56.16295	UY	10
+Parque Jardin II	-34.90303	-56.16303	UY	10
+Casa Boada	-34.91678	-56.16288	UY	10
+Edificio Zubillaga	-34.90812	-56.15816	UY	10
+Edificio Monaco	-34.90886	-56.15502	UY	10
+Item Electro Industrial S. A.	-34.89314	-56.12484	UY	10
+	-34.87532	-56.1755	UY	10
+	-34.29365	-56.39181	UY	07
+Edificio Bel Horizon	-34.92888	-56.16082	UY	10
+Edificio Cumbre	-34.90948	-56.15346	UY	10
+Edificio Centromar	-34.90893	-56.20373	UY	10
+Facultad de Psicologia_UdelaR	-34.89969	-56.17881	UY	10
+Casa Joel Petit de la Villon	-34.87478	-56.03992	UY	02
+Iglesia Stella Maris	-34.88821	-56.05664	UY	10
+Casa Mario Paysee Reyes	-34.8835	-56.04711	UY	10
+Fundacion Ninos con Alas	-34.88861	-56.05896	UY	10
+Torre del Vigia	-34.91043	-54.96141	UY	09
+Casa Artucio	-34.90409	-56.18911	UY	10
+Edificio Palacio Montero (Sorocabana)	-34.90564	-56.19061	UY	10
+	-34.8929	-56.09936	UY	10
+Iglesia Santa Rita	-34.88968	-56.07972	UY	10
+Centro de Promocion Familiar Providencia	-34.87779	-56.26818	UY	10
+LAR Centro Residencial	-34.89565	-56.12242	UY	10
+Museo Historico Nacional Casa Garibaldi	-34.90716	-56.20922	UY	10
+Restaurant La Proa	-34.90555	-56.21135	UY	10
+Edificio Vicente de Vita	-34.90289	-56.19415	UY	10
+Casa Zambrano	-34.8916	-56.05982	UY	10
+Edificio de la Corte Electoral	-34.90536	-56.2049	UY	10
+	-34.88292	-56.19046	UY	10
+Edificio Parque Aguirre	-34.88686	-56.06146	UY	10
+Teatro Victoria	-34.90367	-56.19401	UY	10
+Teatro Florencio Sanchez (Montevideo)	-34.89226	-56.24782	UY	10
+Casa Braselli	-34.88954	-56.06879	UY	10
+ALADI (Asociacion Latinoamericana de Integracion)	-34.91335	-56.1834	UY	10
+Cerro Negro	-34.28846	-54.71758	UY	09
+Sala de Espectaculos SODRE_Auditorio Nacional Adela Reta	-34.90431	-56.19869	UY	10
+Liceo Frances Jules Supervielle	-34.90422	-56.12872	UY	10
+posada del prado	-31.43783	-57.92305	UY	15
+CEMPRE Uruguay	-34.88031	-56.07779	UY	10
+Edificio Gala _ Punta Carretas	-34.91982	-56.15153	UY	10
+Avenida 18 de Julio	-34.90585	-56.19123	UY	10
+Parque Rodo	-34.91754	-56.16683	UY	10
+Punta Carretas Loft	-34.91809	-56.16137	UY	10
+Fundacion Pablo Atchugarry	-34.86605	-54.82083	UY	09
+Banco de Protesis (centro quirurgico Profesor Doctor Oscar Guguelmone)	-34.88409	-56.09014	UY	10
+Edificio Planeta	-34.91112	-56.14558	UY	10
+Edificio Kansas	-34.91565	-56.15047	UY	10
+Banco Central del Uruguay (BCU)	-34.90324	-56.20005	UY	10
+Edificio Ovalle	-34.90426	-56.18273	UY	10
+Edificio Olivetti	-34.90003	-56.19124	UY	10
+Edificio Palacio de Correos	-34.90839	-56.20546	UY	10
+Edificio Pez Espada	-34.95196	-54.92997	UY	09
+Edificio Trouville (Montevideo)	-34.91959	-56.14933	UY	10
+Casa Quinta Idiarte Borda	-34.80207	-56.23211	UY	10
+Centro de Diseno Industrial (CDI)	-34.8945	-56.18016	UY	10
+Edificio Centro de Proteccion de Choferes de Montevideo	-34.90742	-56.18945	UY	10
+Maronas Entertainment (Ex Sede del diario El Dia)	-34.90542	-56.18826	UY	10
+Edificio Milan	-34.91002	-56.14748	UY	10
+Centro Cultural de Espana (cce)	-34.90574	-56.20276	UY	10
+Banco Interamericano de Desarrollo (BID)	-34.90592	-56.20241	UY	10
+CEADU - (Centro de Estudios, Analisis y Comunicacion del Uruguay)	-34.91139	-56.16864	UY	10
+	-34.90707	-56.17009	UY	10
+	-34.90769	-56.14845	UY	10
+Edificio Suevia	-34.90844	-56.19582	UY	10
+Ateneo de Montevideo	-34.90523	-56.19122	UY	10
+	-34.91962	-56.15664	UY	10
+Casa Ardao	-34.90501	-56.13945	UY	10
+Edificio The Prize	-34.91193	-56.14744	UY	10
+Edificio Ondine	-34.91058	-56.14838	UY	10
+Instituto Plan Agropecuario	-34.87088	-56.18635	UY	10
+	-34.88569	-56.17595	UY	10
+Facultad de Humanidades y Ciencias_UdelaR	-34.90062	-56.18131	UY	10
+Direccion Nacional de Bomberos - Cuartel Centenario	-34.9025	-56.18071	UY	10
+Facultad de Odontologia - UdelaR	-34.8922	-56.15001	UY	10
+Instituto de Higiene - UdelaR	-34.89289	-56.15028	UY	10
+Centro Uruguayo de Imagenologia Molecular (CUDIM)	-34.89202	-56.15331	UY	10
+Casa Ariel Orozco	-34.90646	-56.13991	UY	10
+COCAP (Consejo Capacitacion Profesional)	-34.89248	-56.19261	UY	10
+Facultad de Medicina - UdelaR	-34.88825	-56.18633	UY	10
+Instituto de Profesores Artigas (IPA)	-34.89367	-56.18874	UY	10
+Edificio San Remo	-34.92055	-56.15305	UY	10
+Edificio Green Space	-34.91974	-56.15417	UY	10
+Instituto Nacional de Colonizacion (INC)	-34.90521	-56.2062	UY	10
+Liga de Defensa Comercial (LIDECO)	-34.90493	-56.19501	UY	10
+Alianza Cultural Uruguay Estados Unidos	-34.9085	-56.19239	UY	10
+Asociacion Espanola Primera de Socorros Mutuos - Edificio Oscar Magurno Souto	-34.90194	-56.16474	UY	10
+Monumento a Mahatma Gandhi	-34.92202	-56.15051	UY	10
+Red Academica Uruguaya (RAU) - UdelaR	-34.89892	-56.17121	UY	10
+Edificio Bahia Palace	-34.96462	-54.94593	UY	09
+	-34.09811	-56.21461	UY	07
+Faro de Punta Brava	-34.93524	-56.16045	UY	10
+Palacio Legislativo - Edificio Anexo	-34.89076	-56.18889	UY	10
+Instituto de Investigaciones Biologicas Clemente Estable	-34.88745	-56.14294	UY	10
+Casa Quinta de Jose Batlle y Ordonez	-34.82343	-56.13471	UY	10
+Embajada de la Republica Bolivariana de Venezuela (Palacio Correa)	-34.90493	-56.2003	UY	10
+Monumento al Brigadier General Juan Antonio Lavalleja	-34.90281	-56.18042	UY	10
+Termas del Dayman	-31.42983	-57.94464	UY	15
+Monte de Ombues	-34.65411	-54.22783	UY	14
+Teatro Solis	-34.90779	-56.20082	UY	10
+Casa Souto	-34.91862	-56.1626	UY	10
+Instituto Nacional de Estadistica - INE	-34.90282	-56.19381	UY	10
+Las Vegas	-34.66258	-55.82977	UY	02
+Parque Nacional de Santa Teresa	-33.99853	-53.54856	UY	14
+La Aguada	-34.63737	-54.16045	UY	14
+Ciudad de la Costa	-34.81972	-55.952	UY	02
+Salinas	-34.77236	-55.85741	UY	02
+Costa Azul	-34.62925	-54.15307	UY	14
+Costa Azul	-34.76182	-55.65854	UY	02
+Palmar	-33.06249	-57.46073	UY	17
+Aguas Dulces	-34.27552	-53.7834	UY	14
+Playa Hermosa	-34.83734	-55.30046	UY	09
+Cerro Ejido	-30.42694	-56.46556	UY	01
+Pizzeria Venecia	-34.90965	-56.16719	UY	10
+Liceo Zorrilla	-34.90951	-56.16858	UY	10
+Don Bosco	-34.90811	-56.16906	UY	10
+Bodega Caluva	-34.43558	-57.86666	UY	04
+Balneario Santa Ana (Colonia)	-34.467	-57.79435	UY	04
+Solymar	-34.82906	-55.9637	UY	02
+El Bosque	-34.83784	-55.9731	UY	02
+Lagomar	-34.83768	-55.9832	UY	02
+Shangrila	-34.84639	-55.99806	UY	02
+Mercado del Puerto	-34.90557	-56.21176	UY	10
+Peatonal Sarandi	-34.90677	-56.20189	UY	10
+Rambla Sur	-34.91075	-56.20037	UY	10
+Catedral Metropolitana	-34.90712	-56.20421	UY	10
+Cabildo de Montevideo	-34.9065	-56.20261	UY	10
+Intendencia Municipal de Montevideo	-34.90615	-56.18608	UY	10
+Palacio Taranco	-34.90644	-56.20207	UY	10
+Playa San Francisco	-34.85938	-55.28646	UY	09
+Malvin	-34.89121	-56.09943	UY	10
+Punta Gorda	-34.89265	-56.08175	UY	10
+Estacion Atlantida	-34.74479	-55.7642	UY	02
+Vinedo de los Vientos	-34.73142	-55.77697	UY	02
+Vinedo de los Vientos	-34.7313	-55.7735	UY	02
+Parque del Plata	-34.75871	-55.72077	UY	02
+Villa Argentina	-34.76816	-55.77566	UY	02
+Punta de la Moza	-33.97661	-53.53011	UY	14
+Cerro Verde	-33.9455	-53.50719	UY	14
+Fortaleza de Santa Teresa	-33.97222	-53.54861	UY	14
+Franquia	-30.23118	-57.60792	UY	01
+Coronado	-30.31333	-57.60357	UY	01
+Canada del Tajamar	-30.29373	-57.5348	UY	01
+Canada del Divisa	-30.29702	-57.53504	UY	01
+Canada Santa Rosa	-30.31967	-57.62482	UY	01
+Islote Bigua	-30.20641	-57.64148	UY	01
+Canada del Arbol	-30.37612	-57.67059	UY	01
+Canada del Sauce	-30.37706	-57.6362	UY	01
+Canada del Junco	-30.4043	-57.59566	UY	01
+Canada Seca	-30.40073	-57.55225	UY	01
+Zanja de Anselmo	-30.36525	-57.54196	UY	01
+Zanja de Leopoldo	-30.38791	-57.48723	UY	01
+Canada del Potrero	-30.38565	-57.32327	UY	01
+Zanja del Potrero	-30.36037	-57.31656	UY	01
+Zanja del Itaboada	-30.35967	-57.31647	UY	01
+Zanja del Sauce	-30.31278	-57.36554	UY	01
+Paso Paypaso	-30.28689	-57.42987	UY	01
+Paso de La Cruz	-30.27076	-57.31421	UY	01
+Paso de Los Soldados	-30.40456	-57.6904	UY	01
+Calpica Itacumbu	-30.37632	-57.66382	UY	01
+Cainsa Itacumbu	-30.38547	-57.60873	UY	01
+Paso Grande	-30.4192	-57.67881	UY	01
+Pedro Souza	-30.40846	-57.63476	UY	01
+Estancia El Ombu	-30.35348	-57.41863	UY	01
+Isla del Padre	-30.43454	-57.77591	UY	01
+Isla Gaspar	-30.74598	-57.81139	UY	01
+Isla de las Vacas	-30.70266	-57.80441	UY	01
+Islotes de la Paloma	-30.68322	-57.80956	UY	01
+Isla del Paredon	-30.67224	-57.81627	UY	01
+Isla Guaviyu	-30.65699	-57.83213	UY	01
+Isla del Tigre	-30.63572	-57.84155	UY	01
+Isla Misionera	-30.56782	-57.88321	UY	01
+Isla Carbonera	-30.55954	-57.8853	UY	01
+Islote Carbonero	-30.5564	-57.88513	UY	01
+Islote Dorado	-30.51064	-57.88251	UY	01
+Islote Churrinche	-30.50367	-57.87554	UY	01
+Paso del Bote	-30.73744	-57.75473	UY	01
+Paso Portillo	-30.7418	-57.72344	UY	01
+Canada del Ceibal	-30.73787	-57.75238	UY	01
+Paso Rodriguez	-30.74755	-57.74915	UY	01
+Paso Potrero	-30.70712	-57.70151	UY	01
+Sarandi de Yacuy	-30.71658	-57.68923	UY	01
+Paso Cortado	-30.72401	-57.67874	UY	01
+Local Feria Don Felix	-30.68811	-57.69251	UY	01
+Canada de Taboa	-30.75446	-57.58002	UY	01
+Canada de La Divisa	-30.76949	-57.42688	UY	01
+Canada del Sauce	-30.7542	-57.29427	UY	01
+Canada Sauce	-30.76276	-57.30056	UY	01
+Canada Isla Cabello	-30.6623	-57.25077	UY	01
+Canada de Los Bunuelos	-30.61373	-57.25785	UY	01
+La Garrapata	-30.60281	-57.34782	UY	01
+Paso Tiraponchos	-30.43668	-57.29677	UY	01
+Canada de La Divisa	-30.46233	-57.28046	UY	01
+Chucilla Yucutuja	-30.43593	-57.25901	UY	01
+Colonia Estrella	-30.44893	-57.41583	UY	01
+Canada Curupan	-30.48033	-57.46145	UY	01
+Canada Arbolito	-30.47566	-57.48087	UY	01
+Paso del Sauce	-30.46734	-57.48439	UY	01
+Canada Cuatro Sauces	-30.48954	-57.37366	UY	01
+Parada Itacumbu	-30.50084	-57.41915	UY	01
+Local Feria Itacumbu	-30.4848	-57.41529	UY	01
+Monumento Caidas en Itacumbu	-30.47228	-57.42206	UY	01
+Canada de La Tortuga	-30.67329	-57.39945	UY	01
+Canada Espinillo	-30.67255	-57.4159	UY	01
+Zanja del Viejo Quinca	-30.69265	-57.58341	UY	01
+Arroyo del Ceibal	-30.69529	-57.79776	UY	01
+Arroyo Paredon	-30.67174	-57.80757	UY	01
+Paredon	-30.65867	-57.78774	UY	01
+Canada de la Invernada	-30.63316	-57.79411	UY	01
+Canada Yacare	-30.57564	-57.81827	UY	01
+Arroyo Curupi	-30.61943	-57.57988	UY	01
+Canada Janucio	-30.61595	-57.57988	UY	01
+Arrocera San Pedro	-30.505	-57.84224	UY	01
+Arrocera Riusa	-30.54427	-57.82952	UY	01
+Tapera Chica	-30.4862	-57.70598	UY	01
+Granja Perroni	-30.44735	-57.73903	UY	01
+Paso Naquina	-30.46992	-57.65196	UY	01
+Canada del Chico Machado	-30.46447	-57.67076	UY	01
+Canada del Viejo Sebastian	-30.46454	-57.66286	UY	01
+Canada del Capon	-30.51527	-57.70954	UY	01
+Canada Atoladora	-30.51185	-57.72051	UY	01
+La Azotea	-30.51366	-57.66748	UY	01
+Canada de la Peste	-30.48306	-57.6173	UY	01
+Canada Yacare	-30.50549	-57.62219	UY	01
+Canada del Sauce	-30.51988	-57.58502	UY	01
+Canada del Pesquero	-30.53078	-57.55546	UY	01
+Canada del Paso	-30.54797	-57.52835	UY	01
+Canada del Sarandi	-30.49619	-57.48167	UY	01
+Canada de Los Manantiales	-30.48585	-57.48341	UY	01
+La Quisilla	-30.60144	-57.66022	UY	01
+Canada Piedras	-30.62255	-57.61466	UY	01
+Paso Portilla	-30.62363	-57.68408	UY	01
+San Gregorio	-30.55462	-57.75742	UY	01
+Colonia Vinar	-30.47509	-57.57204	UY	01
+Puntas Lenguado	-30.46574	-57.55003	UY	01
+Liceo 31	-34.89221	-56.10373	UY	10
+Jaureguiberry	-34.78618	-55.42465	UY	02
+Manantiales	-34.90508	-54.82555	UY	09
+Yacare	-30.59268	-57.41542	UY	01
+Cuareim	-30.24186	-57.5659	UY	01
+Canada del Sauce	-30.28868	-57.54853	UY	01
+Canada del Sauce	-30.29203	-57.49472	UY	01
+Paso Ramos	-33.55549	-58.16329	UY	17
+Maronas Racecourse	-34.8403	-56.14125	UY	10
+Lomas	-34.59032	-54.17341	UY	14
+Buenos Aires	-34.93995	-54.94301	UY	09
+Tres Cruces	-34.89621	-56.16803	UY	10
+Centenarial Stadium	-34.89463	-56.15286	UY	10
+Islote Correntina	-30.2124	-57.64688	UY	01
+Canada Sauce	-30.73549	-57.76554	UY	01
+Colonia Palma	-30.57842	-57.68089	UY	01
+Sauce de Portezuelo	-34.8729	-55.13961	UY	09
+Punta Ballena	-34.88832	-55.0391	UY	09
+Chihuahua	-34.8741	-55.0888	UY	09
+La Carola	-34.07794	-57.22954	UY	04
+Parroquia Nuestra Senora de Lourdes	-34.89134	-56.09987	UY	10
+Colegio y Liceo Nuestra Senora de Lourdes	-34.89149	-56.10071	UY	10
+Molino de Perez	-34.89421	-56.09054	UY	10
+Canteras del Molino de Perez	-34.89376	-56.08979	UY	10
+Playa de los Ingleses	-34.89585	-56.08523	UY	10
+Playa Honda	-34.89576	-56.09222	UY	10
+Capatacia de Santa Teresa	-34.00082	-53.55477	UY	14
+Cabeza del Negro	-33.50709	-58.4301	UY	17
+Jardines de Pando	-34.6861	-55.9656	UY	02
+Malvin Norte	-34.881	-56.1168	UY	10
+Las Canteras	-34.8714	-56.1058	UY	10
+Castillos	-34.16168	-53.82202	UY	14
+Playa de Piriapolis	-34.8566	-55.29337	UY	09
+Playa Grande	-34.84977	-55.302	UY	09
+Playa Grande	-34.84579	-55.29698	UY	09
+Punta Colorada	-34.90061	-55.2596	UY	09
+Playa Parador Movistar	-34.89269	-55.26192	UY	09
+San Francisco	-34.88537	-55.26943	UY	09
+Cross	-34.81069	-55.25829	UY	09
+Arroyo Solis Grande	-34.60359	-55.47807	UY	02
+Regency Way	-34.90196	-56.14174	UY	10
+Orpheo Express	-34.90455	-56.19827	UY	10
+Sofitel Montevideo Casino Carrasco & Spa	-34.89062	-56.05529	UY	10
+After Montevideo	-34.90385	-56.1326	UY	10
+Urban Express	-34.9063	-56.19809	UY	10
+Cottage	-34.89412	-56.06745	UY	10
+Continental (Montevideo)	-34.90526	-56.19241	UY	10
+Los Angeles (Montevideo)	-34.90705	-56.193	UY	10
+Lancaster	-34.90599	-56.1905	UY	10
+Tres Cruces	-34.8934	-56.1645	UY	10
+Melia Confort Montevideo	-34.92258	-56.1612	UY	10
+Crystal Palace (Montevideo)	-34.9073	-56.1873	UY	10
+Iguazu	-34.90962	-56.19067	UY	10
+Esplendor Montevideo	-34.908	-56.189	UY	10
+Estancia Vik Jose Ignacio	-34.83995	-54.64215	UY	09
+Don Pepe	-34.92956	-54.94104	UY	09
+Jean Clevers	-34.95597	-54.93859	UY	
+Crystal Tower	-34.90605	-56.18797	UY	10
+Embajador Montevideo	-34.90694	-56.19	UY	10
+Yoo Apart Punta Del Este	-34.93701	-54.93592	UY	09
+Principe	-34.96215	-54.94187	UY	
+San Martin	-34.96359	-54.94291	UY	
+Solanas Punta Del Este Spa	-34.9667	-54.95	UY	
+Salto Grande	-34.9495	-54.9344	UY	
+Posada Don Antonio	-34.46972	-57.84956	UY	04
+Radisson Colonia	-34.46897	-57.84876	UY	04
+Aqua Punta Del Este	-34.962	-54.946	UY	
+Dazzler Montevideo	-34.91589	-56.15889	UY	10
+Viewport Montevideo	-34.904	-56.199	UY	10
+Palladium Business	-34.88	-56.165	UY	10
+Oxford	-34.91114	-56.19196	UY	10
+Aguada	-34.89142	-56.18889	UY	10
+Aires Puros	-34.85153	-56.18846	UY	10
+Atahualpa	-34.86474	-56.1897	UY	10
+Bolivar	-34.869	-56.15726	UY	10
+Brazo Oriental	-34.86414	-56.1761	UY	10
+Carrasco Norte	-34.87467	-56.06692	UY	10
+Jacinto Vera	-34.87454	-56.16983	UY	10
+La Blanqueada	-34.88737	-56.15359	UY	10
+La Comercial	-34.88718	-56.16803	UY	10
+La Teja	-34.86477	-56.23404	UY	10
+Lezica	-34.79062	-56.25476	UY	10
+Melilla	-34.75769	-56.29068	UY	10
+Palermo	-34.91016	-56.17842	UY	10
+Parque Batlle	-34.89427	-56.14546	UY	10
+Parque Rodo	-34.91136	-56.16677	UY	10
+Pocitos Nuevo	-34.9074	-56.13986	UY	10
+Prado	-34.86403	-56.20275	UY	10
+Ismael Cortinas	-33.96059	-57.08891	UY	17
+La Casilla	-33.67025	-56.9472	UY	06
+Cerro Colorado	-33.72621	-56.79895	UY	06
+Abra de Perdomo	-34.73965	-54.98638	UY	09
+Canteras de Marelli	-34.84354	-54.94512	UY	09
+Cerro Pelado	-34.88153	-54.97674	UY	09
+La Capuera	-34.85414	-55.12897	UY	09
+Playa Verde	-34.82663	-55.31462	UY	09
+Punta Negra	-34.88931	-55.21686	UY	09
+Balneario Buenos Aires	-34.8884	-54.79311	UY	09
+El Chorro	-34.90205	-54.81281	UY	09
+El Eden	-34.63077	-55.05631	UY	09
+El Tesoro	-34.90328	-54.87019	UY	09
+Santa Monica	-34.84973	-54.6993	UY	09
+Sarandi del Mataojo	-34.67275	-55.03818	UY	09
+Zanja del Tigre	-34.57896	-55.0594	UY	09
+Bella Vista	-34.80281	-55.3517	UY	09
+Cerros Azules	-34.76598	-55.36504	UY	09
+La Sierra	-34.74734	-55.40015	UY	02
+Solis Grande	-34.71304	-55.43899	UY	02
+Tambores	-31.87821	-56.24408	UY	18
+La Esmeralda	-34.15727	-53.69757	UY	14
+Arachania	-34.61484	-54.15067	UY	14
+Diamante de La Pedrera	-34.60255	-54.1411	UY	14
+Punta Rubia	-34.57768	-54.12011	UY	14
+Santa Isabel	-34.71431	-54.36902	UY	14
+San Antonio	-34.54789	-54.07857	UY	14
+Rincon de Valentin	-31.28251	-57.20015	UY	15
+Ciudad del Plata	-34.767	-56.38381	UY	16
+Posada Boutique Las Terrazas	-34.47222	-57.84893	UY	04
+Posada La Merced	-34.90321	-54.86498	UY	09
+Playa Vik Jose Ignacio	-34.84196	-54.64033	UY	09
+Posada El Capullo	-34.47145	-57.85006	UY	04
+Posada Del Rio	-34.46946	-57.84841	UY	04
+Mercure Montevideo Punta Carretas	-34.9249	-56.15504	UY	10
+Posada Las Quintas	-34.47037	-57.84755	UY	04
+Villa De Mar	-34.94646	-54.94301	UY	09
+Remanso	-34.97514	-54.94301	UY	
+Perla Del Plata	-34.47052	-57.84856	UY	04
+Unique Luxury Colonia	-34.44599	-57.83958	UY	04
+Uy Proa Sur	-34.66651	-54.15479	UY	14
+Jamaica	-34.95299	-54.9339	UY	
+Regency Rambla	-34.89212	-56.05602	UY	10
+Santa Catalina	-34.88938	-56.29373	UY	10
+Casaba	-34.88484	-56.27446	UY	10
+Cerro Norte	-34.87143	-56.25987	UY	10
+Plazoleta Enrique Ibsen	-34.87503	-56.26092	UY	10
+Espacio Libre Enrique "Che" Guevara	-34.88752	-56.25766	UY	10
+Fortaleza del Cerro	-34.88832	-56.26335	UY	10
+Awa Boutique	-34.89404	-56.15737	UY	10
+Ajax	-34.95254	-54.93927	UY	
+Intercity Premium Montevideo	-34.91675	-56.16186	UY	10
+Mediterraneo	-34.90595	-56.19218	UY	10
+Regency Zonamerica	-34.78945	-56.07929	UY	10

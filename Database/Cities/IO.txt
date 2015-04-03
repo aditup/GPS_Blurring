@@ -1,0 +1,75 @@
+Ile Yeye	-5.24282	71.96228	IO	00
+Wight Bank	-7.41442	71.5261	IO	00
+Victory Bank	-5.55	72.23333	IO	00
+Ile Verte	-5.32891	71.74281	IO	00
+Vancleve Shoal	-7.26415	72.38369	IO	00
+Ile Vache Marine	-5.42401	71.82931	IO	00
+Three Brothers	-6.14389	71.56222	IO	00
+Ile Tattamucca	-6.68164	71.36749	IO	00
+Ile Takamaka	-5.3311	72.2712	IO	00
+Ile Sudest	-6.6866	71.38739	IO	00
+Spur Reef	-7.23448	72.40516	IO	00
+Ile Sipaille	-6.65545	71.31504	IO	00
+Simpson Point	-7.2714	72.35338	IO	00
+Ile Sepulture	-5.34921	72.25336	IO	00
+Ile du Sel	-5.35468	72.22664	IO	00
+Ile Saint-Brandon	-5.24834	71.8335	IO	00
+Ile des Rats	-6.6452	71.31308	IO	00
+Ile Poule	-5.40584	71.75027	IO	00
+Ile Poule	-5.35878	72.22084	IO	00
+Ile Pierre	-5.29046	71.73784	IO	00
+Petite Soeur	-5.36417	71.75477	IO	00
+Petite Ile Mapou	-5.27346	71.74631	IO	00
+Petite Ile Coquillage	-5.33931	71.97332	IO	00
+Peros Banhos	-5.33333	71.85	IO	00
+Parry Patch	-7.28627	72.45168	IO	00
+Ile Parasol	-5.26373	71.84357	IO	00
+Owen Bank	-6.8	70.25	IO	00
+Observatory Point	-7.23876	72.43411	IO	00
+Ile Monpatre	-5.42372	71.75113	IO	00
+Pointe Marianne	-7.3137	72.43359	IO	00
+Mapou de I'ile du Coin	-5.46163	71.7918	IO	00
+Ile Mapou	-5.31143	72.26466	IO	00
+Ile Manon	-5.3149	71.73587	IO	00
+Ile Manoel	-5.25915	71.92237	IO	00
+Ile Lubine	-6.66819	71.33024	IO	00
+Ile Longue	-5.26922	71.86877	IO	00
+Leconte Point	-7.27091	72.45936	IO	00
+Jennifer Shoal	-7.28333	72.43333	IO	00
+Ile Jacobin	-5.35072	72.24547	IO	00
+Horsburgh Point	-7.38016	72.49263	IO	00
+Great Chagos Bank	-6.31472	71.90222	IO	00
+Grande Soeur	-5.34603	71.74943	IO	00
+Grande Ile Mapou	-5.2654	71.75025	IO	00
+Grande Ile Coquillage	-5.37305	71.96936	IO	00
+Ganges Bank	-7.37862	70.97325	IO	00
+Ile Gabrielle	-5.42282	71.74917	IO	00
+Ile Fouquet	-5.46253	71.81055	IO	00
+Ile Fouquet	-5.34161	72.26631	IO	00
+Ile Finon	-5.33214	71.74427	IO	00
+Eclipse Point	-7.25784	72.37963	IO	00
+East Point	-7.35261	72.46348	IO	00
+Diego Garcia	-7.31754	72.4524	IO	00
+Ile Diamant	-5.25369	71.76208	IO	00
+Ile Diable	-5.34619	72.20368	IO	00
+Danger Shoals	-5.41432	71.80686	IO	00
+Cust Point	-7.28962	72.49208	IO	00
+Colvocoresses Reef	-4.88943	72.61795	IO	00
+Coin du Mire	-5.42711	71.8811	IO	00
+Ile du Coin	-5.45392	71.76622	IO	00
+Cauvin Bank	-6.81494	72.34032	IO	00
+Ile Carre Pate	-6.67804	71.36284	IO	00
+British Indian Ocean Territory	-6	72	IO	00
+Blenheim Reef	-5.2	72.46667	IO	00
+Benares Shoals	-5.25	71.66667	IO	00
+Ile Anglaise	-5.43949	71.75313	IO	00
+Ile Anglaise	-5.32434	72.22276	IO	00
+Diego Garcia	-7.31327	72.41109	IO	00
+South Point	-7.44331	72.42645	IO	00
+Skarda Pier	-7.29262	72.41057	IO	00
+Grande Ile Bois Mangue	-5.26984	71.89585	IO	00
+Petite Ile Bois Mangue	-5.27072	71.88478	IO	00
+Carcasse	-7.37453	72.48127	IO	00
+East Point Settlement	-7.35278	72.46823	IO	00
+Cannon Point	-7.25913	72.37268	IO	00
+Bolt	-7.2771	72.46864	IO	00

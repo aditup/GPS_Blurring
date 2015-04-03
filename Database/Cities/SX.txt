@@ -1,0 +1,77 @@
+Zorg en Rust	18.0516	-63.0491	SX	00
+Zagersgut	18.03476	-63.05955	SX	00
+Windsor	18.01667	-63.08333	SX	00
+Fort William	18.02626	-63.06018	SX	00
+Welgeleden	18.03102	-63.06517	SX	00
+Vineyard	18.02219	-63.03927	SX	00
+Upper Prince's Quarter	18.03542	-63.03761	SX	00
+Trial	18.03333	-63.05	SX	00
+The Villa	18.03109	-63.06001	SX	00
+The Hope	18.01667	-63.03333	SX	00
+The Devils Cupper	18.01452	-63.03142	SX	00
+The Corner	18.01667	-63.08333	SX	00
+Sucker Garden	18.04084	-63.03486	SX	00
+Saunders	18.04174	-63.05667	SX	00
+Saint Peter Battery	18.01667	-63.03333	SX	00
+St. Peters	18.05316	-63.07174	SX	00
+Saint John's	18.03333	-63.06667	SX	00
+Ravine Rouge	18.04827	-63.01649	SX	00
+Kanaal van Rolandus	18.01667	-63.03333	SX	00
+Reward	18.05896	-63.06444	SX	00
+Retreat Estate	18.04685	-63.0658	SX	00
+Proselyte Rif	17.98333	-63.05	SX	00
+Pine Garden	18.03333	-63.03333	SX	00
+Philipsburg	18.026	-63.04582	SX	
+Pelikaan Punt	18.01667	-63.08333	SX	00
+One Hoe	18.05	-63.03333	SX	00
+Nazareth	18.05438	-63.04932	SX	00
+Naked Boy	18.03663	-63.03189	SX	00
+Molly Beday	18.01667	-63	SX	00
+Mildrum	18.05	-63.05	SX	00
+Middle Region	18.04424	-63.04431	SX	00
+Mary's Fancy	18.03333	-63.05	SX	00
+Lowlands	18.04994	-63.12685	SX	00
+Lower Prince's Quarter	18.04987	-63.03789	SX	00
+Little Key	18.05067	-63.10976	SX	00
+Koolbaai	18.03333	-63.06667	SX	00
+Kenepa Garden	18.03333	-63.06667	SX	00
+Industrie	18.04112	-63.06972	SX	00
+Hen and Chicken	18	-63	SX	00
+Guana Key of Pelikan	18.01806	-63.01905	SX	00
+Grote Zoutpan	18.03116	-63.05108	SX	00
+Experiment	18.01667	-63.03333	SX	00
+Ebenezer	18.05545	-63.05684	SX	00
+Diamond	18.04324	-63.08302	SX	00
+Defiance	18.03333	-63.03333	SX	00
+Cupe Coy	18.05	-63.13333	SX	00
+Cul de Sac	18.03868	-63.06542	SX	00
+Cow and Calf	18.01667	-63	SX	00
+Cherry Cap	18.05	-63.13333	SX	00
+Bloomingdale	18.01667	-63.03333	SX	00
+Point Blanche	18.00539	-63.04348	SX	00
+Bishop	18.05	-63.03333	SX	00
+Billy Folly	18.02803	-63.08834	SX	00
+Betty's Estate	18.04685	-63.05997	SX	00
+Bethlehem	18.05	-63.03333	SX	00
+Belvedere	18.05556	-63.03743	SX	00
+Fort Belair	18.01667	-63.05	SX	00
+Princess Port D' Plaisance	18.0484	-63.087	SX	
+PRINCESS HEIGHTS CONDOS	18.0537	-63.0234	SX	
+Saint James	18.04626	-63.03829	SX	00
+Dutch Quarter	18.04871	-63.04834	SX	00
+Claude Estate	18.04243	-63.05142	SX	00
+Palapa Marina	18.03767	-63.09436	SX	00
+Portofino Marina	18.03909	-63.09514	SX	00
+Bobby's Marina	18.04367	-63.10149	SX	00
+Maho Reef	18.04193	-63.12215	SX	00
+Point Venezia	18.05144	-63.12349	SX	00
+Point Pirouette	18.05268	-63.12151	SX	00
+Pelikan Key	18.03019	-63.09837	SX	00
+Captain Hodge Pier	18.02266	-63.04621	SX	00
+Saint Maarten Little League Stadion	18.02891	-63.04326	SX	00
+Bobby's Marina	18.02068	-63.04298	SX	00
+Harbour Village	18.01187	-63.04546	SX	00
+Saint Peter Battery	18.01663	-63.04095	SX	00
+A. Cyrus Wathey Cruise Facilities	18.01354	-63.04362	SX	00
+Pointe Blanche	18.01237	-63.03925	SX	00
+Sint Maarten	18.04167	-63.06667	SX	00

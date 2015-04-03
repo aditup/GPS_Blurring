@@ -1,0 +1,116 @@
+Western Arm	36.13333	-5.35	GI	00
+Wellington Front	36.13333	-5.35	GI	00
+Waterport	36.14605	-5.3544	GI	00
+Varyl Begg Estate	36.1461	-5.35792	GI	00
+Upper Galleries Entrance	36.13333	-5.33333	GI	00
+Tower of Homage	36.13333	-5.33333	GI	00
+The Tower	36.13162	-5.35511	GI	00
+Tovey Battery	36.13333	-5.33333	GI	00
+Site of Old Theatre Royal	36.13974	-5.35267	GI	00
+Sunnyside Steps	36.11667	-5.33333	GI	00
+Spyglass Battery	36.11667	-5.33333	GI	00
+Spur Battery	36.12272	-5.34386	GI	00
+South Mole	36.13229	-5.3628	GI	00
+South Jumpers Bastion	36.12837	-5.35219	GI	00
+Shirley Cove	36.13333	-5.33333	GI	00
+Servants' Block	36.13333	-5.33333	GI	00
+Saint Michael's Cave	36.12611	-5.34554	GI	
+Cathedral of Saint Mary's the Crowned	36.13968	-5.35356	GI	00
+Saint Abb's Head	36.13333	-5.33333	GI	00
+Saccone and Speed Bottling Factory	36.13333	-5.33333	GI	00
+Royal Battery	36.13333	-5.33333	GI	00
+Rosia Parade	36.12208	-5.35202	GI	00
+Rosia Mole	36.12105	-5.35341	GI	00
+Rosia	36.12117	-5.35242	GI	00
+Rooke Battery	36.13547	-5.34926	GI	00
+Site of Old Regal Cinema	36.14298	-5.3548	GI	00
+Ragged Staff Landing	36.13333	-5.35	GI	00
+Queen Alexandra Dock Number Two	36.12609	-5.35445	GI	00
+Prince William's Battery	36.11667	-5.35	GI	00
+Princess Royal's Battery	36.13333	-5.33333	GI	00
+Princess Caroline's Battery	36.13333	-5.33333	GI	00
+Princess Anne's Battery	36.13333	-5.33333	GI	00
+Princess Amelia's Battery	36.13333	-5.33333	GI	00
+Prince of Wales Dock Number One	36.12536	-5.35508	GI	00
+O'Hara's Battery	36.12219	-5.34256	GI	00
+Nun's Well	36.1	-5.33333	GI	00
+Number Two Jetty	36.13333	-5.35	GI	00
+Number Three Jetty	36.13333	-5.35	GI	00
+Number One Jetty	36.13333	-5.35	GI	00
+Number Four Jetty	36.13333	-5.35	GI	00
+Dock Number Four	36.13988	-5.35603	GI	00
+Number Five Jetty	36.13333	-5.35	GI	00
+North Mole	36.14499	-5.36576	GI	00
+North Jumpers Bastion	36.13094	-5.35299	GI	00
+North Gorge	36.11667	-5.33333	GI	00
+North Front	36.15	-5.33333	GI	00
+Napier Battery	36.11667	-5.35	GI	00
+Moorish Castle Estate	36.14388	-5.35121	GI	
+Montagu Sea Bathing Pavilion	36.13333	-5.33333	GI	00
+Site of Montagu Basin	36.14494	-5.35603	GI	00
+Monkeys Alameda	36.11667	-5.33333	GI	00
+Mediterranean Steps	36.12392	-5.34294	GI	00
+Martin's Cave	36.11667	-5.33333	GI	00
+Mackerel Bank	36.1	-5.33333	GI	00
+Loretto Convent	36.11667	-5.33333	GI	00
+Europa Point	36.10954	-5.3447	GI	00
+The Lido	36.13333	-5.33333	GI	00
+Levant Cave	36.11667	-5.33333	GI	00
+Laguna Estate	36.13333	-5.33333	GI	00
+King's Bastion	36.13984	-5.35533	GI	
+King Edward VII Dock Number Three	36.12683	-5.35406	GI	00
+John Mackintosh Square	36.14082	-5.35409	GI	00
+Cathedral of the Holy Trinity	36.13821	-5.35404	GI	00
+The Holy Land	36.13333	-5.33333	GI	00
+H.M.S. Rooke	36.14051	-5.35639	GI	00
+Hayne's Cave Battery	36.11667	-5.33333	GI	00
+Hayne's Cave	36.11667	-5.33333	GI	00
+Halfway Battery	36.1	-5.33333	GI	00
+Guild's Point	36.13333	-5.33333	GI	00
+Great Europa Point	36.11597	-5.34596	GI	00
+Grand Parade	36.13333	-5.35	GI	00
+Grand Casemates Square	36.14478	-5.35287	GI	00
+Grand Casemates	36.14511	-5.35246	GI	00
+Governor's Steps	36.12463	-5.34225	GI	00
+Governor's Parade	36.13878	-5.35269	GI	00
+Humphery's Estate	36.13194	-5.3522	GI	00
+Governor's Look-out Battery	36.13333	-5.33333	GI	00
+Gorham's Cave	36.11667	-5.33333	GI	00
+Glacis Estate	36.14729	-5.35076	GI	00
+Gibraltar Harbour	36.13333	-5.35	GI	00
+Gibraltar	36.14474	-5.35257	GI	00
+Gibraltar	36.13333	-5.35	GI	00
+Genoese Battery	36.13333	-5.33333	GI	00
+Flagstaff Steps	36.13333	-5.35	GI	00
+Little Europa Point	36.11104	-5.35008	GI	00
+Europa Advance Battery	36.11667	-5.33333	GI	00
+Engineer Battery	36.11667	-5.35	GI	00
+Douglas's Cave	36.11667	-5.33333	GI	00
+Devil's Tongue Battery	36.1466	-5.35546	GI	00
+Devil's Gap Battery	36.13333	-5.33333	GI	00
+Detached Mole	36.13813	-5.36531	GI	00
+Cross of Sacrifice	36.15	-5.33333	GI	00
+Cornwall's Parade	36.14146	-5.35256	GI	00
+Cormorant Camber	36.13333	-5.35	GI	00
+Clock Tower	36.1253	-5.35375	GI	00
+Charles V Wall	36.135	-5.35167	GI	00
+Cathedral Square	36.13825	-5.35373	GI	00
+Buffadero Battery	36.1	-5.33333	GI	00
+Buena Vista Cottage	36.11667	-5.33333	GI	00
+Buena Vista	36.11667	-5.33333	GI	00
+Buena Vista	36.11667	-5.33333	GI	00
+Breakneck Battery	36.11667	-5.33333	GI	00
+Both Worlds Chalets	36.13333	-5.33333	GI	00
+Boat Camber	36.13333	-5.35	GI	00
+Bland's Foundry	36.15	-5.33333	GI	00
+Blackstrap Cove	36.13333	-5.33333	GI	00
+Beavers Promenade	36.13333	-5.33333	GI	00
+Auxiliary Camber	36.13333	-5.35	GI	00
+Site of old Arengo's Palace	36.13986	-5.35026	GI	00
+Apes Den	36.13333	-5.33333	GI	00
+Alexandra Battery	36.11667	-5.35	GI	00
+Alameda Gardens	36.13084	-5.35094	GI	00
+Ailsa Craig	36.11667	-5.33333	GI	00
+O CALLAGHAN ELIOTT	36.13914	-5.35286	GI	
+Moorish Castle	36.14397	-5.3499	GI	
+FusionDeli	36.14386	-5.35365	GI	

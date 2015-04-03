@@ -1,0 +1,44 @@
+Serravalle	43.96897	12.48167	SM	09
+Serravalle	43.96667	12.46667	SM	09
+Repubblica di San Marino	43.9367	12.4463	SM	00
+San Marino	43.93667	12.44639	SM	07
+Poggio di Chiesanuova	43.90451	12.42142	SM	02
+Monte Giardino	43.90797	12.47721	SM	08
+Monte Giardino	43.90878	12.48201	SM	08
+Guaita	43.95	12.45	SM	00
+Fratta	43.95	12.45	SM	00
+Fiorentino	43.91667	12.45	SM	00
+Fiorentino	43.91001	12.45738	SM	05
+Falciano	43.98333	12.5	SM	09
+Faetano	43.93333	12.5	SM	04
+Faetano	43.92831	12.49798	SM	04
+Domagnano	43.95279	12.47008	SM	03
+Dogana	43.98034	12.49051	SM	09
+Chiesanuova	43.91667	12.41667	SM	02
+Borgo Maggiore	43.94193	12.44738	SM	06
+Acquaviva	43.95	12.41667	SM	00
+Acquaviva	43.94593	12.4185	SM	01
+Castello di San Marino Citta	43.93333	12.45	SM	07
+Castello di Acquaviva	43.95	12.41667	SM	01
+Castello di Borgo Maggiore	43.94092	12.44562	SM	06
+Castello di Domagnano	43.95417	12.48333	SM	03
+Castello di Faetano	43.9251	12.49849	SM	04
+Castello di Fiorentino	43.91144	12.45652	SM	05
+Castello di Montegiardino	43.91131	12.48442	SM	08
+Fiorina	43.95798	12.47686	SM	
+Gualdicciolo	43.94982	12.40726	SM	01
+Murata	43.92015	12.45146	SM	07
+Ventoso	43.95464	12.44047	SM	
+Cailungo	43.95186	12.4536	SM	
+Torraccia	43.95242	12.50725	SM	
+Santa Mustiola	43.93388	12.43858	SM	
+Cerbaiola	43.90346	12.47683	SM	08
+Valdragone	43.94021	12.45622	SM	
+Casole	43.91697	12.44442	SM	07
+Ca Rigo	43.94278	12.44548	SM	06
+Residence Garden	43.95886	12.46139	SM	
+Titano	43.9361	12.4469	SM	
+San Giuseppe	43.94218	12.45608	SM	
+Ixo	43.98205	12.49286	SM	
+Grand Primavera	43.94575	12.45452	SM	
+Cesaer	43.93503	12.44839	SM	

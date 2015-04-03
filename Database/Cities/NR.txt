@@ -1,0 +1,41 @@
+Yaren	-0.54724	166.91599	NR	14
+Yangor	-0.53536	166.91048	NR	01
+Uaboe	-0.51393	166.92384	NR	13
+Ronave	-0.50352	166.9433	NR	03
+Nauru	-0.517	166.933	NR	00
+Nauru	-0.517	166.934	NR	00
+Baiti	-0.50803	166.92945	NR	05
+Moqua Well	-0.54211	166.91833	NR	14
+Moqua Cave	-0.5417	166.91827	NR	14
+Cape Meneng	-0.54312	166.95075	NR	11
+Ijuw	-0.521	166.95813	NR	10
+Topside - Central Plateau	-0.533	166.933	NR	00
+Buada Lagoon	-0.5351	166.92226	NR	07
+Cape Anna	-0.50296	166.9352	NR	09
+Arubo	-0.50489	166.9323	NR	09
+VOR Aviation Radio Beacon	-0.54381	166.92076	NR	14
+Meneng Stadium	-0.54044	166.93038	NR	11
+Cantilever Phosphate Loading System North	-0.53088	166.90884	NR	01
+Cantilever Phosphate Loading System South	-0.53663	166.90876	NR	01
+Deepwater Mooring Buoys System	-0.52922	166.90565	NR	01
+German Protectorate of Nauru -1914	-0.517	166.935	NR	00
+GB AU NZ League of Nations Mandate -1942	-0.517	166.936	NR	00
+Japan Naval Airbase WW2	-0.517	166.937	NR	00
+GB AU NZ Mandate -1968	-0.517	166.938	NR	00
+Micronesia	-0.517	166.939	NR	
+Capelle Supermarket	-0.50376	166.93856	NR	09
+Phosphate Stockpile	-0.52601	166.93843	NR	04
+Cape Ijuw	-0.52096	166.95846	NR	10
+Phosphate Railway	-0.52594	166.92143	NR	00
+SEAFRAME Tide and Sea Level Gauge	-0.5286	166.90971	NR	01
+Australian High Commission	-0.52827	166.91445	NR	01
+Embassy Republic of China - Taiwan	-0.53891	166.91181	NR	14
+Parliament of Nauru	-0.54712	166.91689	NR	14
+Nauru Basin	-0.517	166.941	NR	
+Yaren	-0.55085	166.9252	NR	14
+Yaren Government Facilities	-0.54734	166.9161	NR	14
+Arijejen	-0.52545	166.91247	NR	01
+Collapsed Cantilever Section 2010	-0.5316	166.90882	NR	01
+Arenibek	-0.53307	166.92378	NR	07
+NPC Workshop	-0.52825	166.91128	NR	01
+Linkbelt Oval	-0.53447	166.91193	NR	01

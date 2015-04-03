@@ -1,0 +1,334 @@
+Wideawake Fair	-7.96667	-14.38333	SH	01
+White Bluff	-7.98333	-14.33333	SH	01
+Whale Point	-7.95	-14.3	SH	01
+Weather Post	-7.95	-14.33333	SH	01
+Valley Tank	-7.95	-14.35	SH	01
+Upper Valley Crater	-7.93333	-14.35	SH	01
+Unicorn Point	-7.96667	-14.31667	SH	01
+Fort Thornton	-7.93333	-14.41667	SH	01
+Thornton	-7.93333	-14.41667	SH	01
+Table Crater	-7.95	-14.38333	SH	01
+Stackpole Point	-7.95	-14.41667	SH	01
+Spoon Crater	-7.96667	-14.36667	SH	01
+South West Plains	-7.96667	-14.4	SH	01
+South Red Crater	-7.98333	-14.36667	SH	01
+South Point	-8	-14.4	SH	01
+South East Head	-7.95	-14.3	SH	01
+South East Crater	-7.96667	-14.35	SH	01
+Sharp Cliff	-7.95	-14.31667	SH	01
+The Ring	-7.96667	-14.35	SH	01
+Pyramid Point	-7.91667	-14.4	SH	01
+Pumice Cove	-7.96667	-14.31667	SH	01
+Pratt Point	-7.95	-14.41667	SH	01
+Portland Point	-7.98333	-14.41667	SH	01
+Porpoise Point	-7.90045	-14.35192	SH	01
+Perfect Crater	-7.93333	-14.36667	SH	01
+Payne Point	-7.95	-14.41667	SH	01
+Nullah	-7.90055	-14.35521	SH	01
+North Point	-7.88965	-14.37814	SH	01
+North East Point	-7.91306	-14.33317	SH	01
+North East Cottage	-7.95	-14.35	SH	01
+Needles Tank	-7.93333	-14.4	SH	01
+Mitchell Cove	-7.95	-14.41667	SH	01
+Middleton	-7.95	-14.36667	SH	01
+McArthur Point	-7.96667	-14.41667	SH	01
+Little Wideawake Fair	-7.96667	-14.36667	SH	01
+Lions Head	-7.95	-14.41667	SH	01
+Lions Bluff	-7.95	-14.41667	SH	01
+Hummock Point	-7.91754	-14.32834	SH	01
+Horse Shoe Crater	-7.96667	-14.4	SH	01
+Hollands Crater	-7.91667	-14.36667	SH	01
+Fort Hayes	-7.93333	-14.41667	SH	01
+Green Top Crater	-7.96667	-14.36667	SH	01
+God Be Thanked Tank	-7.93333	-14.38333	SH	01
+Georgetown	-7.93333	-14.41667	SH	01
+Evans Bluff	-7.95	-14.41667	SH	01
+East Crater	-7.91667	-14.36667	SH	01
+Devils Cauldron	-7.93333	-14.33333	SH	01
+Dark Slope Crater	-7.96667	-14.4	SH	01
+Cricket Valley	-7.95	-14.33333	SH	01
+Crater Cliff	-7.96667	-14.31667	SH	01
+Comfortless Cove	-7.91667	-14.4	SH	01
+Collyer Point	-7.93333	-14.41667	SH	01
+Catherine Point	-7.93333	-14.41667	SH	01
+Butt Crater	-7.93333	-14.36667	SH	01
+Bottle Point	-7.95	-14.3	SH	01
+Bears Back	-7.91667	-14.35	SH	01
+Bates Point	-7.91667	-14.41667	SH	01
+Bates Cottage	-7.93333	-14.41667	SH	01
+Ascension	-7.94167	-14.3625	SH	01
+Two Boats Village	-7.94466	-14.37081	SH	01
+Redpole Monument	-7.92583	-14.4075	SH	01
+Youngs Valley	-15.93333	-5.73333	SH	02
+Wranghams	-15.96667	-5.71667	SH	02
+Woody Point	-15.91667	-5.68333	SH	02
+Woodlands Gut	-15.96667	-5.73333	SH	02
+Woodlands	-15.95	-5.71667	SH	02
+Woodlands	-15.96667	-5.75	SH	02
+Wood Cot	-15.95	-5.71667	SH	02
+Willow Cottage	-15.95	-5.7	SH	02
+Willow Bank	-15.96667	-5.7	SH	02
+White Point	-16	-5.76667	SH	02
+West Point	-40.33333	-10.03333	SH	03
+West Point	-37.28333	-12.7	SH	03
+West Point	-16	-5.78333	SH	02
+West Point	-16	-5.78333	SH	02
+Water Gut	-15.98333	-5.78333	SH	02
+Water Gut	-15.98333	-5.75	SH	02
+Warrens Gut	-15.96667	-5.68333	SH	02
+The Vicarage	-15.95	-5.73333	SH	02
+Vaughans	-15.96667	-5.71667	SH	02
+Turks Cap	-15.93333	-5.65	SH	02
+Trypot Penguin Rookery	-37.13333	-12.25	SH	03
+Tristan da Cunha	-37.08333	-12.28333	SH	03
+Tristan da Cunha Group	-37.25	-12.5	SH	03
+Tristan da Cunha	-37.25	-12.5	SH	03
+Tobys Ledge	-15.98333	-5.75	SH	02
+Thompsons Wood	-16	-5.75	SH	02
+Thompsons Valley	-15.98333	-5.76667	SH	02
+Taglate	-15.96667	-5.68333	SH	02
+Sydenham	-15.95	-5.73333	SH	02
+Swanley Valley	-15.96667	-5.76667	SH	02
+Sugarloaf Point	-15.9	-5.7	SH	02
+Sugarloaf Crack	-15.9	-5.7	SH	02
+Stone Top Point	-15.98333	-5.65	SH	02
+The Spyglass	-15.96667	-5.76667	SH	02
+Spyglass	-16.01667	-5.75	SH	02
+The Spike	-40.35	-9.93333	SH	03
+Speery Ledge	-16.03333	-5.75	SH	02
+South West Point	-40.38333	-9.95	SH	03
+South West Islet	-40.4	-9.95	SH	03
+South Point	-40.4	-9.91667	SH	03
+South East Point	-40.36667	-9.88333	SH	03
+Shepherds Hole	-16	-5.76667	SH	02
+Sheep Pound Gut	-15.93333	-5.68333	SH	02
+Sheep Knoll	-15.98333	-5.7	SH	02
+Sharks Valley	-15.96667	-5.66667	SH	02
+Edinburgh of the Seven Seas	-37.06757	-12.31155	SH	03
+Seaview	-15.95	-5.7	SH	02
+Scotland	-15.95	-5.73333	SH	02
+Sane Valley	-15.95	-5.7	SH	02
+Sandy Point	-37.1	-12.2	SH	03
+Sandy Point	-15.95	-5.63333	SH	02
+Sampsons Battery	-15.93333	-5.71667	SH	02
+Saltouns	-15.95	-5.73333	SH	02
+Salt Gut	-15.98333	-5.71667	SH	02
+Saint Helena, Ascension, and Tristan da Cunha	-15.95	-5.7	SH	00
+Rural Retreat Gut	-15.96667	-5.7	SH	02
+Rural Retreat	-15.96667	-5.73333	SH	02
+Rural Retreat	-15.95	-5.7	SH	02
+Rupert Valley	-15.91667	-5.71667	SH	02
+Ruperts Battery	-15.91667	-5.71667	SH	02
+Rose Cottage	-15.96667	-5.71667	SH	02
+Rose Bower	-15.96667	-5.71667	SH	02
+Riding Stones	-15.98333	-5.71667	SH	02
+Repulse Point	-15.9	-5.7	SH	02
+Reef Point	-40.31667	-9.93333	SH	03
+Rainy Point	-16.01667	-5.75	SH	02
+Prospect Cottage	-15.95	-5.7	SH	02
+Prospect	-15.98333	-5.75	SH	02
+Prospect	-15.95	-5.7	SH	02
+Powells Gut	-16	-5.7	SH	02
+Powells Batteries	-16	-5.68333	SH	02
+Powell Point	-16	-5.68333	SH	02
+Potato Patches	-37.06667	-12.31667	SH	03
+Portuguese Battery	-15.93333	-5.65	SH	02
+Pleasant Valley	-15.96667	-5.68333	SH	02
+Pig Bite	-37.05	-12.28333	SH	03
+Penguin Islet	-40.31667	-9.91667	SH	03
+Paitrig Gut	-15.96667	-5.73333	SH	02
+Old Womans Valley	-15.96667	-5.76667	SH	02
+Old Longwood	-15.95	-5.68333	SH	02
+Old Joan Point	-16	-5.78333	SH	02
+Old Father Point	-16	-5.76667	SH	02
+Oaklands	-15.95	-5.73333	SH	02
+Oak Bank	-15.95	-5.71667	SH	02
+Number One	-40.36667	-9.88333	SH	03
+North Point	-40.3	-10.01667	SH	03
+North Point	-37.26667	-12.66667	SH	03
+North East Reef	-40.3	-9.95	SH	03
+North East Point	-40.3	-9.95	SH	03
+New Point	-16	-5.78333	SH	02
+New Longwood	-15.95	-5.68333	SH	02
+New Ground	-15.93333	-5.73333	SH	02
+Newfoundland	-15.96667	-5.7	SH	02
+Netley Gut	-15.93333	-5.68333	SH	02
+The Needle	-16.01667	-5.75	SH	02
+Napoleons Tomb	-15.95	-5.7	SH	02
+Munden Point	-15.91667	-5.71667	SH	02
+Mulberry Gut	-15.93333	-5.68333	SH	02
+Mulberry Cottage	-15.93333	-5.68333	SH	02
+Mosquito Cottage	-15.95	-5.71667	SH	02
+Middle Point	-15.9	-5.7	SH	02
+Middle Point	-15.93333	-5.68333	SH	02
+Man and Horse Cliffs	-16	-5.76667	SH	02
+Man and Horse	-16	-5.78333	SH	02
+Lyon Point	-37.11667	-12.23333	SH	03
+Luffkins Towers	-15.95	-5.71667	SH	02
+Luffkins	-15.98333	-5.73333	SH	02
+Luff Islet	-40.36667	-9.88333	SH	03
+Lots Wife Wood	-16	-5.75	SH	02
+Lots Wife Cove	-40.3	-9.96667	SH	03
+Lots Wife	-40.3	-9.98333	SH	03
+Lots Wife	-16	-5.73333	SH	02
+Lot	-15.98333	-5.71667	SH	02
+Longwood Point	-37.06667	-12.23333	SH	03
+Longwood Plain	-15.95	-5.68333	SH	02
+Longwood Cottage	-15.95	-5.68333	SH	02
+Longwood	-15.95	-5.68333	SH	02
+Long Range Point	-16	-5.68333	SH	02
+Long Range Cove	-16	-5.68333	SH	02
+Long Range	-15.98333	-5.68333	SH	02
+Long Point	-15.98333	-5.66667	SH	02
+Long Ledge	-15.95	-5.75	SH	02
+Long Cove	-16	-5.71667	SH	02
+Long Bluff	-37.11667	-12.33333	SH	03
+Little Stone Top	-15.98333	-5.66667	SH	02
+The Lion	-15.95	-5.75	SH	02
+Levelwood	-15.96667	-5.68333	SH	02
+Lemon Valley	-15.95	-5.75	SH	02
+Lemon Tree Gut	-16	-5.76667	SH	02
+Lemon Tree Gut	-15.95	-5.71667	SH	02
+Lazy Point	-15.96667	-5.66667	SH	02
+Ladies Chair	-15.96667	-5.76667	SH	02
+Knollcombes	-15.95	-5.71667	SH	02
+King and Queen Point	-15.95	-5.63333	SH	02
+Kent Cottage	-15.95	-5.73333	SH	02
+Julia Reef	-37.05	-12.3	SH	03
+Julia Point	-37.05	-12.3	SH	03
+Jews Point	-37.05	-12.23333	SH	03
+Jar	-16.01667	-5.75	SH	02
+James Valley	-15.93333	-5.71667	SH	02
+Jamestown	-15.93872	-5.71675	SH	02
+Hyams	-15.98333	-5.71667	SH	02
+Horses Head	-16	-5.71667	SH	02
+Horse Point	-15.93333	-5.65	SH	02
+Horse Pasture Point	-15.95	-5.76667	SH	02
+Horse Pasture	-15.95	-5.75	SH	02
+Holdfast Tom	-15.93333	-5.65	SH	02
+High Point	-15.95	-5.73333	SH	02
+High Knoll	-15.93333	-5.71667	SH	02
+Herald Point	-37.05	-12.31667	SH	03
+Headowain	-15.96667	-5.75	SH	02
+The Haystack	-15.91667	-5.66667	SH	02
+Haulround Point	-40.35	-9.9	SH	03
+Harpers	-15.95	-5.71667	SH	02
+The Hardies	-37.06667	-12.33333	SH	03
+Half Tree Hollow	-15.93333	-5.71667	SH	02
+Half Moon	-15.96667	-5.75	SH	02
+Hags Tooth	-40.33333	-9.95	SH	03
+Guinea Grass	-15.95	-5.73333	SH	02
+Guard Thicket	-15.98333	-5.71667	SH	02
+Gregorys Battery	-15.93333	-5.66667	SH	02
+Great Stone Top	-15.98333	-5.65	SH	02
+Great Hollow	-16.01667	-5.75	SH	02
+Goughs Ledge	-15.96667	-5.7	SH	02
+Glencot	-15.95	-5.73333	SH	02
+Glen Anchorage	-40.35	-9.91667	SH	03
+Glass Point	-37.05	-12.31667	SH	03
+Gill Point	-15.96667	-5.63333	SH	02
+Friars Valley	-15.93333	-5.73333	SH	02
+The Friar	-15.95	-5.73333	SH	02
+Francis Plain	-15.95	-5.71667	SH	02
+Fox's Folly	-15.95	-5.7	SH	02
+Fishers Valley	-15.95	-5.66667	SH	02
+The Firs	-15.98333	-5.76667	SH	02
+The Fid	-40.33333	-9.93333	SH	03
+Fairy Land	-15.98333	-5.71667	SH	02
+Elephant	-15.98333	-5.65	SH	02
+East Point	-37.28333	-12.63333	SH	03
+Eagles Eyrie	-15.98333	-5.78333	SH	02
+Dry Gut	-15.98333	-5.75	SH	02
+Dry Gut	-15.96667	-5.66667	SH	02
+Dry Gut	-15.95	-5.76667	SH	02
+Donkey Plain	-15.93333	-5.73333	SH	02
+Distant Cottage	-16	-5.75	SH	02
+The Devils Punch Bowl	-15.95	-5.7	SH	02
+Devils Hole	-16.01667	-5.75	SH	02
+The Devils Garden	-16	-5.71667	SH	02
+Devils Cap	-16	-5.75	SH	02
+The Depot	-15.98333	-5.73333	SH	02
+Deep Valley	-15.98333	-5.68333	SH	02
+Deadwood Plain	-15.93333	-5.68333	SH	02
+Deadwood	-15.93333	-5.68333	SH	02
+Cuckholds Point	-15.96667	-5.7	SH	02
+Crown Point	-16	-5.71667	SH	02
+Crown Point	-15.9	-5.7	SH	02
+Crack Plain	-15.95	-5.73333	SH	02
+Cone Islet	-40.3	-9.98333	SH	03
+The Commodore	-40.36667	-9.88333	SH	03
+Colemans Tower	-15.95	-5.71667	SH	02
+Cockburns Battery	-15.96667	-5.76667	SH	02
+Cleughs Plain	-15.95	-5.73333	SH	02
+Chinamans	-15.95	-5.71667	SH	02
+The Chimney	-16.01667	-5.73333	SH	02
+The Caves	-37.05	-12.3	SH	03
+Cavern Head	-40.38333	-9.9	SH	03
+Cave Point	-37.15	-12.31667	SH	03
+Cavalho Hole	-15.91667	-5.7	SH	02
+Cat Hole	-15.95	-5.71667	SH	02
+Buttermilk Point	-15.9	-5.7	SH	02
+Bushes Hollow	-15.96667	-5.75	SH	02
+The Buoys	-16	-5.68333	SH	02
+The Briars	-15.93333	-5.71667	SH	02
+Breakneck Valley	-15.93333	-5.73333	SH	02
+Bradleys	-15.95	-5.66667	SH	02
+Botleys Point	-16	-5.75	SH	02
+Botleys Lay	-16	-5.75	SH	02
+The Bluff	-37.08333	-12.33333	SH	03
+Blue Point	-16.01667	-5.75	SH	02
+Black Point	-15.93333	-5.65	SH	02
+Billy Birch	-16	-5.7	SH	02
+Big Point	-37.05	-12.26667	SH	03
+Bevins Gut	-15.96667	-5.73333	SH	02
+Bevins	-15.96667	-5.73333	SH	02
+Bennetts Point	-15.96667	-5.76667	SH	02
+Bencoolen	-15.96667	-5.65	SH	02
+The Bell Stone	-15.98333	-5.68333	SH	02
+Bates	-15.96667	-5.7	SH	02
+The Base	-37.08333	-12.3	SH	03
+Banks Valley	-15.91667	-5.7	SH	02
+Banks Point	-15.9	-5.7	SH	02
+Bamboo Hedge	-15.98333	-5.71667	SH	02
+The Ball Alley	-16	-5.75	SH	02
+The Asses Ears	-16.01667	-5.75	SH	02
+Arnos Vale	-15.96667	-5.68333	SH	02
+Apple Cottage	-15.95	-5.68333	SH	02
+Anchorstock Point	-37.1	-12.35	SH	03
+Alarm Gun Cottage	-15.95	-5.7	SH	02
+The Admiral	-40.36667	-9.88333	SH	03
+Snug Harbour	-40.36667	-9.88333	SH	03
+Luff Point	-40.33333	-9.86667	SH	03
+The Glen	-40.31667	-9.9	SH	03
+Nigels Cap	-40.28333	-9.95833	SH	03
+Royalist Point	-40.31667	-10	SH	03
+Gaggins Point	-40.33333	-9.95833	SH	03
+Rookery Point	-37.05	-12.25	SH	03
+Crawford Point	-37.06667	-12.31667	SH	03
+Redhole	-37.06667	-12.31667	SH	03
+Scotts Cove	-40.35	-9.91667	SH	03
+Gony Dale	-40.35	-9.86667	SH	03
+The Midshipman	-40.33333	-9.86667	SH	03
+Sophora Glen	-40.31667	-9.88333	SH	03
+Haystack	-40.31667	-9.88333	SH	03
+South Rowett	-40.31667	-9.91667	SH	03
+West Rowett	-40.33333	-9.91667	SH	03
+Low Hump	-40.31667	-9.93333	SH	03
+Centre Rowett	-40.31667	-9.91667	SH	03
+North Rowett	-40.31667	-9.91667	SH	03
+Albatross Plain	-40.31667	-9.91667	SH	03
+Nereus Head	-40.31667	-9.96667	SH	03
+Tarn Moss	-40.3	-9.93333	SH	03
+Mildred Mire	-40.3	-9.95	SH	03
+Capsize Sands	-40.3	-9.9	SH	03
+Middle Fell	-40.3	-9.91667	SH	03
+Wild Glen	-40.3	-9.9	SH	03
+Deep Glen	-40.28333	-9.91667	SH	03
+Worsley Dale	-40.26667	-9.93333	SH	03
+Comer Dale	-40.26667	-9.95	SH	03
+Pequena Cove	-40.26667	-9.95	SH	03
+Cave Cove	-40.26667	-9.96667	SH	03
+The Bakers Oven	-40.26667	-9.96667	SH	03
+Tristan Da Cunha	-37.05	-12.31667	SH	03
+Saint Helena	-15.93183	-5.71817	SH	02
+Jamestown Mediumwave Transmitter	-15.96	-5.71943	SH	02

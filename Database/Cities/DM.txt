@@ -1,0 +1,231 @@
+Pointe Zicac	15.41667	-61.25	DM	03
+West Cabrit	15.58333	-61.48333	DM	05
+Wesley	15.56667	-61.31667	DM	02
+Wakaman Pointe	15.45	-61.25	DM	03
+Vieille Case	15.61667	-61.4	DM	02
+Morne Turner	15.53333	-61.41667	DM	00
+Trafalgar	15.31043	-61.34276	DM	04
+Pointe Tourterelles	15.45	-61.25	DM	03
+Toucari	15.61667	-61.46667	DM	05
+Tobino	15.61667	-61.4	DM	02
+Thibaud	15.6	-61.4	DM	02
+The Cross	15.36667	-61.28333	DM	03
+Tete Morne	15.23333	-61.35	DM	09
+Tarou Point	15.36667	-61.41667	DM	10
+Tarou Cliffs	15.38333	-61.43333	DM	10
+Tarou	15.38333	-61.41667	DM	10
+Tanetane	15.6	-61.46667	DM	05
+Pointe Tanama	15.23333	-61.31667	DM	09
+Sylvania Estate	15.35	-61.36667	DM	10
+Stowe	15.25	-61.3	DM	09
+Soufriere	15.23374	-61.35881	DM	08
+Sineku	15.46667	-61.25	DM	03
+Sibouli	15.25	-61.38333	DM	07
+Scotts Head Village	15.21222	-61.36482	DM	08
+Scotts Head	15.21667	-61.38333	DM	08
+Salisbury	15.43333	-61.45	DM	06
+Salibia Isles	15.48333	-61.25	DM	03
+Salibia	15.48333	-61.26667	DM	03
+Saint Sauveur	15.4	-61.26667	DM	03
+Saint Peter	15.51667	-61.45	DM	11
+Saint Paul	15.35	-61.38333	DM	10
+Saint Patrick	15.28333	-61.3	DM	09
+Saint Mark	15.21667	-61.36667	DM	08
+Saint Luke	15.26667	-61.38333	DM	07
+Saint Joseph	15.4	-61.43333	DM	06
+Saint Joseph	15.43333	-61.43333	DM	06
+Saint John	15.58333	-61.45	DM	05
+Point Saint Jean	15.25	-61.26667	DM	09
+Saint George	15.3	-61.36667	DM	04
+Pointe Sainte Claire	15.4	-61.26667	DM	03
+Saint David	15.46667	-61.28333	DM	03
+Saint Cyr	15.48333	-61.26667	DM	03
+Saint Andrew	15.56667	-61.36667	DM	02
+Roseau	15.30174	-61.38808	DM	04
+Rosalie Point	15.36667	-61.25	DM	03
+Rosalie	15.36667	-61.26667	DM	03
+Pointe Ronde	15.55	-61.48333	DM	05
+Roger	15.33333	-61.4	DM	10
+Riviere Ciriques	15.35	-61.26667	DM	03
+Pointe Retireau	15.23333	-61.28333	DM	09
+Pointe Reposoir	15.63333	-61.43333	DM	02
+Anse Quanery	15.43333	-61.25	DM	03
+Prince Rupert Bluff Point	15.58333	-61.48333	DM	05
+Potters Ville	15.3	-61.4	DM	04
+Portsmouth	15.58333	-61.46667	DM	05
+Porte-La-Fin	15.58333	-61.35	DM	02
+Pont Casse	15.36667	-61.35	DM	10
+Point Mulatre	15.28333	-61.25	DM	09
+Pointe Michel	15.25976	-61.37452	DM	07
+Morne Plat Pays	15.25	-61.36667	DM	07
+Pichelin	15.26423	-61.32583	DM	09
+Petit L'Ilet	15.5	-61.25	DM	00
+Petite Soufriere	15.38333	-61.26667	DM	03
+Petite Savane Point	15.25	-61.28333	DM	09
+Petite Savane	15.25	-61.28333	DM	09
+Petit Coulibri Estate	15.2	-61.35	DM	08
+Peineville	15.63333	-61.41667	DM	02
+Pointe a Peine	15.38333	-61.25	DM	03
+Morne Patates	15.21667	-61.36667	DM	08
+Morne Paix Bouche	15.25	-61.26667	DM	09
+Paix Bouche	15.6	-61.41667	DM	02
+Pagua Pointe	15.51667	-61.25	DM	03
+L'anse Noire	15.58333	-61.33333	DM	02
+Noble	15.55	-61.3	DM	02
+New Venture Estate	15.45	-61.33333	DM	06
+Newfoundland	15.38333	-61.28333	DM	03
+Morne Negres Marrons	15.4	-61.33333	DM	10
+Pointe Mulatre	15.28333	-61.25	DM	09
+Anse Mulatre	15.5	-61.46667	DM	11
+Morpo	15.41667	-61.26667	DM	03
+Morne Soleil	15.61667	-61.46667	DM	05
+Morne Raquette	15.45	-61.45	DM	06
+Morne Prosper	15.3	-61.35	DM	04
+Morne Jaune	15.35	-61.26667	DM	03
+Point Michel	15.25	-61.4	DM	07
+Mero	15.41667	-61.43333	DM	06
+Mayambe Estate	15.26667	-61.26667	DM	09
+Mastle	15.55	-61.3	DM	02
+Massacre	15.34685	-61.3916	DM	10
+Marigot	15.53333	-61.3	DM	02
+Anse Maho	15.48333	-61.25	DM	03
+Pointe Mahaut	15.48333	-61.25	DM	03
+Mahaut	15.36357	-61.39701	DM	10
+Madjini	15.46667	-61.26667	DM	03
+Morne Macaque	15.33333	-61.33333	DM	04
+Loubiere	15.27839	-61.37066	DM	04
+Loubiere	15.26667	-61.38333	DM	04
+L'Ilet	15.4	-61.25	DM	03
+L'Ilet	15.28333	-61.25	DM	09
+Anse a Liane	15.48333	-61.46667	DM	11
+Morne Les Resources	15.48333	-61.41667	DM	00
+Le Grand Maison	15.21667	-61.36667	DM	08
+Layou	15.38333	-61.43333	DM	06
+Laudat	15.33333	-61.33333	DM	04
+La Source	15.58333	-61.4	DM	02
+Pointe La Soie	15.58333	-61.31667	DM	02
+Larieu	15.58333	-61.33333	DM	02
+La Pointe	15.56667	-61.48333	DM	05
+La Pointe	15.48333	-61.46667	DM	11
+La Plaine	15.33333	-61.25	DM	09
+La Haut	15.63333	-61.41667	DM	05
+Lagon	15.58333	-61.46667	DM	05
+Kinellan Estate	15.43333	-61.38333	DM	06
+Kasayu Point	15.48333	-61.25	DM	03
+Jenny Point	15.46667	-61.25	DM	03
+Point Jaquet	15.63333	-61.43333	DM	00
+Morne Jalousie	15.46667	-61.45	DM	06
+Pointe Jaco	15.63333	-61.41667	DM	02
+Hatton Garden Estate	15.51667	-61.28333	DM	03
+Hampstead	15.6	-61.38333	DM	02
+Guillet	15.6	-61.46667	DM	05
+Pointe Guignard	15.23333	-61.38333	DM	07
+Gueule Lion Point	15.46667	-61.46667	DM	11
+Pointe Gros Rochers	15.46667	-61.25	DM	03
+Gros L'Ilet	15.48333	-61.25	DM	03
+Grand Savanna	15.43333	-61.46667	DM	06
+Grand Fond	15.36667	-61.28333	DM	03
+Grabiere Point	15.5	-61.48333	DM	05
+Governor Estate	15.53333	-61.33333	DM	02
+Morne Gouverneur	15.31667	-61.28333	DM	09
+Goodwill	15.3	-61.4	DM	04
+Good Hope	15.4	-61.26667	DM	03
+Gommier	15.6	-61.4	DM	02
+Pointe Gombo	15.51667	-61.26667	DM	03
+Glasse Point	15.3	-61.26667	DM	09
+Glanvillia	15.56667	-61.46667	DM	05
+Giraudet	15.28333	-61.36667	DM	04
+Pointe Giraud	15.33333	-61.25	DM	09
+Pointe Georgie	15.41667	-61.25	DM	03
+Geneva	15.25	-61.31667	DM	09
+Gaulette	15.48333	-61.26667	DM	03
+Galion	15.22258	-61.35736	DM	08
+Anse Gabriel	15.46667	-61.46667	DM	11
+Morne Fraser	15.45	-61.28333	DM	03
+Anse Francais	15.45	-61.25	DM	03
+Pointe des Fous	15.2	-61.33333	DM	09
+Foundland	15.26667	-61.28333	DM	09
+Pointe du Fort	15.5	-61.26667	DM	03
+Pointe Fonsen	15.48333	-61.48333	DM	11
+Fond Saint Jean	15.25	-61.28333	DM	09
+Fond Cani	15.31667	-61.36667	DM	04
+Morne Espagnol	15.51667	-61.48333	DM	11
+East Cabrit	15.58333	-61.46667	DM	02
+Dubuc Point	15.6	-61.33333	DM	02
+Dubuc	15.25	-61.31667	DM	09
+Dublanc	15.51667	-61.46667	DM	11
+Douglas Point	15.6	-61.46667	DM	05
+Dos D'Ane	15.58333	-61.41667	DM	02
+Dominica	15.5	-61.33333	DM	00
+Dominica	15.46228	-61.35109	DM	00
+Morne Diablotins	15.5	-61.4	DM	02
+Morne aux Diables	15.61667	-61.45	DM	00
+Deux Jardins	15.38333	-61.41667	DM	10
+Morne Destinee	15.58333	-61.43333	DM	02
+Valley of Desolation	15.3	-61.3	DM	09
+Pointe Des Herbes	15.51667	-61.26667	DM	03
+Demitrie	15.63333	-61.41667	DM	02
+Morne aux Delices	15.38333	-61.26667	DM	03
+Delices	15.28333	-61.26667	DM	09
+Pointe Daniel	15.28333	-61.25	DM	09
+Morne Daniel	15.31667	-61.4	DM	10
+Crompton Point	15.58333	-61.3	DM	02
+Anse Crainte	15.6	-61.46667	DM	05
+Pointe Crabier	15.5	-61.48333	DM	11
+Morne Couronne	15.4	-61.36667	DM	06
+Coulibistri	15.45	-61.46667	DM	06
+Cottage	15.61667	-61.46667	DM	05
+Morne Concorde	15.5	-61.3	DM	02
+Colihaut	15.48478	-61.46215	DM	11
+Morne Cola Anglais	15.35	-61.36667	DM	10
+Anse Cola	15.46667	-61.46667	DM	11
+Cocoyer	15.61667	-61.45	DM	05
+Pointe Coco	15.28333	-61.25	DM	09
+Cochrane	15.33775	-61.3619	DM	10
+Clifton	15.58333	-61.46667	DM	05
+Charlotte Ville	15.28333	-61.4	DM	04
+Castle Bruce	15.43333	-61.26667	DM	03
+Carib Point	15.63333	-61.41667	DM	02
+Carib Point	15.23333	-61.3	DM	09
+Capucin	15.63333	-61.46667	DM	05
+Cape Capucin	15.63333	-61.46667	DM	05
+Calibishie	15.58333	-61.35	DM	02
+Morne Brules	15.6	-61.43333	DM	02
+Morne Bruce	15.3	-61.38333	DM	04
+Anse Bouleau	15.46667	-61.46667	DM	11
+Bornes	15.58333	-61.41667	DM	05
+Bois d'Inde	15.23333	-61.33333	DM	09
+Boetica	15.3	-61.26667	DM	09
+Bioche	15.5	-61.46667	DM	11
+Berekua	15.23333	-61.31667	DM	09
+Bense	15.58333	-61.36667	DM	02
+Belvidere	15.28333	-61.25	DM	09
+Belmanier	15.58333	-61.4	DM	02
+Bells	15.41667	-61.35	DM	06
+Bellevue Chopin	15.26448	-61.34504	DM	04
+Anse Bell	15.61667	-61.46667	DM	05
+Pointe Belair	15.48333	-61.25	DM	03
+Anse Bateaux	15.25	-61.38333	DM	07
+Bataly	15.46667	-61.43333	DM	06
+Bataka	15.5	-61.26667	DM	03
+Bassinville	15.43333	-61.36667	DM	06
+Morne Balvine	15.55	-61.45	DM	05
+Badineau Estate	15.28333	-61.36667	DM	04
+Anse Aywass	15.5	-61.26667	DM	03
+Au Parc	15.61667	-61.4	DM	02
+Pointe Augustine	15.53333	-61.26667	DM	02
+atkinson	15.51667	-61.26667	DM	03
+Anse Du Me	15.6	-61.38333	DM	02
+Morne Brule	15.59167	-61.45	DM	00
+Sugarloaf	15.57083	-61.45417	DM	00
+Roseau	15.3	-61.4	DM	
+PEPPER S COTTAGE	15.3	-61.4	DM	04
+Ravine Cyrique	15.29761	-61.39003	DM	
+Bath Estate	15.30462	-61.37893	DM	
+St Aroment	15.30708	-61.37269	DM	
+Fond Cole	15.31413	-61.38689	DM	
+Upper Goodwill	15.30582	-61.38072	DM	
+Lower Goodwill	15.30579	-61.38574	DM	
+Newtown Savannah	15.29431	-61.3831	DM	
+Astaphans	15.29972	-61.38509	DM	
+Melville Battery	15.29434	-61.37911	DM	

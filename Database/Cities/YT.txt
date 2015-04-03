@@ -1,0 +1,530 @@
+Lac Zeann	-12.76667	45.3	YT	00
+Zoumougine	-12.73333	45.13333	YT	00
+Ile Verte	-12.71667	45.15	YT	00
+Banc Vaucluse	-12.65	45.13333	YT	00
+Ilot Vatou	-12.76667	45.26667	YT	00
+Tsonga Samazi	-12.7	45.13333	YT	00
+Trivani	-12.75	45.21667	YT	00
+Banc de la Surprise	-12.63333	45.13333	YT	00
+Recif du Sud	-13	45.08333	YT	00
+Pointe Sud	-12.81725	45.28692	YT	00
+Baie de Soulou	-12.78333	45.11667	YT	00
+Sohoa	-12.83333	45.13333	YT	00
+Pointe Saziley	-12.96667	45.21667	YT	00
+Morne Saziley	-12.96667	45.2	YT	00
+Mont Sapere	-12.76667	45.2	YT	00
+Sada	-12.85	45.11667	YT	00
+Recif du Sable Blanc	-13	45.25	YT	00
+Morne Rouge	-12.8	45.11667	YT	00
+Pointe du Rocher	-12.86667	45.13333	YT	00
+Pointe du Recif	-12.91667	45.1	YT	00
+Ilot du Recif	-12.82758	45.28371	YT	00
+Banc de la Prudente	-12.61667	45	YT	00
+Proani	-12.9	45.13333	YT	00
+Recif de la Prevoyante	-12.69184	45.16787	YT	00
+Recif Peitro	-12.69473	45.18981	YT	00
+Pamandzi	-12.79674	45.27938	YT	97615
+Ile Pamandzi	-12.78004	45.28531	YT	00
+Baie de Pamandzi	-12.76667	45.26667	YT	00
+Recif Pamandzi	-12.86667	45.3	YT	00
+Mont Ouchongui	-12.95	45.15	YT	00
+Roche Oreste	-12.78263	45.25127	YT	00
+Ongoujou	-12.85	45.16667	YT	00
+Grand Recif du Nord-Est	-12.7	45.23333	YT	00
+Anse Nord Bambo	-12.91667	45.18333	YT	00
+Recif du Nord	-12.6	45.1	YT	00
+Pointe Nord	-12.75919	45.28461	YT	00
+M'Zioizie	-12.93333	45.13333	YT	00
+Pointe M'Zamboro	-12.68333	45.06667	YT	00
+Chissioi M'Zamboro	-12.65	45.03333	YT	00
+M'Sapere	-12.78745	45.22346	YT	00
+M'Samouni	-12.88333	45.16667	YT	00
+Mouroni Sanga	-13	45.16667	YT	00
+Pointe Mouroni Abeja	-12.98333	45.13333	YT	00
+Mouroni Abeja	-12.98333	45.13333	YT	00
+Mouramedoudou	-12.93333	45.16667	YT	00
+Pointe Mougini	-12.7	45.06667	YT	00
+Moliha	-12.76667	45.08333	YT	00
+Pointe Mohila	-12.71667	45.05	YT	00
+Ilot Mognameri	-12.76667	45.26667	YT	00
+Mirereni	-12.91667	45.18333	YT	00
+Anse Miambani	-12.95	45.18333	YT	00
+Miambani	-12.95	45.2	YT	00
+M'Ferrolliet	-12.76667	45.13333	YT	00
+Mayotte	-12.83333	45.16667	YT	00
+Mamoudzou	-12.78234	45.22878	YT	97611
+Pointe Makoen	-12.75276	45.23601	YT	00
+Pointe Longoni	-12.71667	45.18333	YT	00
+Crique de Longoni	-12.71667	45.18333	YT	00
+Baie Longoni	-12.71667	45.16667	YT	00
+Longoni	-12.75	45.18333	YT	00
+Recifs du Laminoir	-12.9	45.23333	YT	00
+Banc Laclocheterie	-12.65645	45.14987	YT	00
+Keledjou	-12.98333	45.21667	YT	00
+Kani Kele	-12.95	45.1	YT	00
+Pointe Kani	-12.96667	45.08333	YT	00
+Baie Kani	-12.96667	45.1	YT	00
+Bancs Jumeaux	-12.66019	45.13245	YT	00
+Baie Joungoni	-12.85	45.13333	YT	00
+Ironi Kely	-12.83333	45.21667	YT	00
+Anse Ironi	-12.82675	45.19944	YT	00
+Banc de l' Iris	-12.56667	45.01667	YT	00
+Baie Ingouza	-12.93333	45.1	YT	00
+Anse Iloni	-12.85	45.2	YT	00
+Rassi Gouja	-12.95	45.1	YT	00
+Pointe Est	-12.9	45.11667	YT	00
+Ilots Effatsy	-12.75	45.26667	YT	00
+Dzumogne	-12.71667	45.11667	YT	00
+Ilot Dzugoma	-12.68333	45.15	YT	00
+Mouillage de Dzaoudzi	-12.78333	45.28333	YT	00
+Dzaoudzi	-12.78339	45.25693	YT	97608
+Pointe Doumoueli	-12.85	45.1	YT	00
+Rassi Douamougno	-12.66667	45.13333	YT	00
+Dembeni	-12.8436	45.18436	YT	97607
+Anse Debenay	-12.83333	45.2	YT	00
+Debenay	-12.83333	45.2	YT	00
+Pointe Dapani	-13	45.2	YT	00
+Banc du Coq	-12.66619	45.14561	YT	00
+Pointe Congo	-12.73333	45.21667	YT	00
+Mont Combani	-12.8	45.16667	YT	00
+Lac Combani	-12.8	45.13333	YT	00
+Combani	-12.8	45.16667	YT	00
+Anse des Cocotiers	-12.85	45.1	YT	00
+Iles Choazil	-12.68333	45.06667	YT	00
+Pointe Choa	-12.78333	45.25	YT	00
+Anse Choa	-12.78333	45.25	YT	00
+Baie de Chingoni	-12.8	45.11667	YT	00
+Chingoni	-12.8	45.13333	YT	00
+Recif Chaloupe	-12.64855	45.1127	YT	00
+Ile Caroni	-12.93333	45.16667	YT	00
+Ilot Cacazou	-12.76667	45.26667	YT	00
+Sisoa Bouzi	-12.81667	45.25	YT	00
+Ilot Bouni	-13	45.15	YT	00
+Baie de Boueni	-12.9	45.15	YT	00
+Pointe Boeni	-12.9	45.1	YT	00
+Monts Boeni	-12.9	45.1	YT	00
+Boeni	-12.91667	45.1	YT	00
+Banc Boa Sadia	-12.68333	45.05	YT	00
+Pointe Blanche	-12.71667	45.2	YT	00
+Mont Benara	-12.86667	45.18333	YT	00
+Recif Bandele	-12.9	45.26667	YT	00
+Chissioi Bandele	-12.9	45.25	YT	00
+Anse Bandele	-12.9	45.21667	YT	00
+Bandele	-12.9	45.2	YT	00
+Pointe Bandaboa	-12.7	45.13333	YT	00
+Bandaboa	-12.71667	45.15	YT	00
+Recif Bambo	-12.95	45.23333	YT	00
+Pointe Bambo	-12.91667	45.21667	YT	00
+Chissioua Bambo	-12.9301	45.19885	YT	00
+Baie Bambo	-12.93333	45.2	YT	00
+Anse Bambo	-12.93333	45.18333	YT	00
+Balembo	-12.98333	45.18333	YT	00
+Ilot Aombe	-12.75	45.28333	YT	00
+Anguebacao	-12.88333	45.23333	YT	00
+Angoro	-12.75	45.23333	YT	00
+Chissioi Andrema	-12.66667	45.13333	YT	00
+Baie Andrema	-12.66667	45.11667	YT	00
+Pointe Hamouro	-12.87103	45.22309	YT	00
+Anse Amoro	-12.86667	45.21667	YT	00
+Amoro	-12.88333	45.23333	YT	00
+Pointe Amaha	-12.76667	45.25	YT	00
+Recif Ajangua	-12.88333	45.28333	YT	00
+Ilots Ajangua	-12.83333	45.26667	YT	00
+Anse Ajangua	-12.85	45.21667	YT	00
+Ajangua	-12.86667	45.21667	YT	00
+Pointe Accua	-12.75	45.05	YT	00
+Acoua	-12.72391	45.05819	YT	97601
+Mayotte	-12.83333	45.16667	YT	00
+Mtsanga Safari	-12.63972	45.01972	YT	97612
+Mtsanga Antakoudja	-12.64556	45.02444	YT	97612
+Mtsanga Mlima	-12.64278	45.03667	YT	97612
+Rassi Kome	-12.65389	45.02528	YT	00
+Chissioua Mtsamboro	-12.64139	45.0275	YT	00
+Mtsanga Maji	-12.64611	45.04444	YT	00
+Malandzamiayajou	-12.66889	45.04611	YT	00
+Malandzamiayatsini	-12.67389	45.05556	YT	00
+Iles Choazil	-12.67194	45.05083	YT	00
+Rassi Bouekoundrouni	-12.67861	45.06444	YT	00
+Mtsahara	-12.68137	45.08274	YT	00
+Banc Boa Sadia	-12.68333	45.03722	YT	00
+Maji Anyounyi	-12.66917	45.08861	YT	00
+Plage de Handrema	-12.66722	45.08667	YT	97612
+Baie de Handrema	-12.665	45.09556	YT	00
+Handrema	-12.68112	45.09965	YT	00
+Mkadijou	-12.65944	45.09389	YT	00
+Rassi Mavoule	-12.65917	45.10278	YT	00
+Rassi Douamounyo	-12.64944	45.10333	YT	00
+Rassi Amagouizi	-12.67417	45.10194	YT	00
+Chissioua Handrema	-12.6725	45.11222	YT	00
+Chissioua Mtiti	-12.68583	45.11667	YT	00
+Chissioua Mtsongoma	-12.68667	45.12694	YT	00
+Pointe de Bandraboua	-12.7	45.12806	YT	00
+Mtsangamboua	-12.69033	45.10926	YT	00
+Mlima Hassove	-12.69333	45.10833	YT	00
+Bandraboua	-12.7044	45.12231	YT	97602
+Mambani	-12.70972	45.11917	YT	00
+Mlima Mro oua Nyombe	-12.69861	45.10278	YT	00
+Nyambo	-12.70694	45.12056	YT	00
+Hamjago	-12.68832	45.0745	YT	00
+Mtsanga Jiva	-12.69194	45.06778	YT	97612
+Ketabe	-12.69278	45.07444	YT	00
+Mtsamboro	-12.69982	45.06894	YT	97612
+Mtsanga Foumbouni	-12.69889	45.06028	YT	97612
+Mtsanga Tsoha	-12.69833	45.05306	YT	97612
+Tsoha	-12.70333	45.06	YT	00
+Mlima Dziani Bole	-12.68778	45.08556	YT	00
+Rassi ya Chifouni	-12.6975	45.05028	YT	00
+Mtsanga Chifouni	-12.69861	45.04917	YT	97612
+Mtsangadoua	-12.70806	45.04778	YT	00
+Madjabalini	-12.71083	45.055	YT	00
+Hachiroungou	-12.71028	45.0625	YT	00
+Mroni Kavani	-12.72167	45.05444	YT	00
+Mtsanga Fanou	-12.71694	45.04139	YT	97601
+Tsiraka Kahirimtrou	-12.71944	45.03833	YT	00
+Baie d'Acoua	-12.72806	45.04333	YT	00
+Mtsanga Bamana	-12.71306	45.04528	YT	97601
+Maeva Rano	-12.71917	45.07222	YT	00
+Mlima Mapouera	-12.72917	45.09306	YT	00
+Bandrakouni	-12.73667	45.06444	YT	00
+Tanambao	-12.74694	45.07139	YT	00
+Mroni Analamiheni	-12.75083	45.07583	YT	00
+Moutsoumbatsou	-12.74083	45.05056	YT	00
+Mliha	-12.74833	45.05306	YT	00
+Mtsanga Chanfi	-12.74889	45.05444	YT	97613
+Tanaraki	-12.75611	45.06667	YT	00
+Mtsanga Tanaraki	-12.75306	45.06972	YT	97613
+Chembenyoumba	-12.76222	45.07528	YT	00
+Analavato	-12.7575	45.07444	YT	00
+Mroni Massimoni	-12.75861	45.07083	YT	00
+Mtsanga Hadsale	-12.765	45.09056	YT	97613
+Tsiraka Andanfissaka	-12.76667	45.09472	YT	00
+Andimaka	-12.75639	45.08889	YT	00
+M'Tsangamouji	-12.75944	45.08361	YT	97613
+Mroni Andrianebe	-12.76139	45.085	YT	00
+Mroni Boungoumoune	-12.76306	45.09444	YT	00
+Soulo	-12.75806	45.10056	YT	00
+Mroni Batirini	-12.76417	45.1	YT	00
+Mroni Beja	-12.75611	45.10167	YT	00
+Mtsanga Guini	-12.77361	45.09917	YT	97613
+Plage de Soulou	-12.77778	45.09917	YT	97613
+Baie de Soulou	-12.77556	45.08944	YT	00
+Chissimani	-12.78222	45.09917	YT	00
+Mro oua Chirini	-12.77778	45.1	YT	00
+Mro oua Maboungani	-12.76861	45.10944	YT	00
+Mroni Haouala	-12.7575	45.10944	YT	00
+Mrowale	-12.78333	45.09583	YT	00
+Anketabe	-12.74889	45.08917	YT	00
+Carrefour de Soulou	-12.76222	45.10278	YT	00
+Tsingoni	-12.78722	45.10278	YT	97617
+Mtsanga Dindioni	-12.79111	45.10333	YT	00
+Baie de Tsingoni	-12.79167	45.09694	YT	00
+Hachenoua	-12.78722	45.11111	YT	00
+Mro oua Ouroveni	-12.79444	45.11028	YT	00
+Choungui	-12.80111	45.105	YT	00
+Dziani Karihani	-12.79389	45.11917	YT	00
+Mrowale	-12.78667	45.12528	YT	00
+Combani	-12.78639	45.13361	YT	00
+Mirereni	-12.78639	45.13861	YT	00
+Mandani	-12.79389	45.13972	YT	00
+Mroni Mouala	-12.81111	45.12028	YT	00
+Mlima Digo	-12.76611	45.13611	YT	00
+Bandramaji	-12.75278	45.14972	YT	00
+Bouyouni	-12.73556	45.13833	YT	00
+Mitseni	-12.73583	45.14389	YT	00
+Mro oua Bouyouni	-12.73028	45.13583	YT	00
+Mro oua Meresse	-12.72861	45.135	YT	00
+Mlima Maoueni	-12.73694	45.12806	YT	00
+Ile Verte	-12.72361	45.14361	YT	00
+Mlima Mare	-12.73417	45.11972	YT	00
+Mro oua Bizijou	-12.72111	45.12139	YT	00
+Mro oua Mare	-12.72194	45.12639	YT	00
+Carrefour de Dzoumonye	-12.7225	45.12083	YT	00
+La Vigie	-12.73361	45.10972	YT	00
+Dzoumonye	-12.71722	45.11278	YT	00
+Mro oua Mapouera	-12.71694	45.09861	YT	00
+Mro oua Mimari	-12.72	45.115	YT	00
+Mro oua Mouhogoni	-12.72139	45.115	YT	00
+Jetee de Mgouedajou	-12.71861	45.12917	YT	00
+Baie de Longoni	-12.71389	45.1475	YT	00
+Mro oua Bandrani	-12.71194	45.10083	YT	00
+Mro oua Massoulaha	-12.71083	45.10194	YT	00
+Carrefour de Handrema	-12.68444	45.10167	YT	00
+Bandrandzia	-12.73806	45.10528	YT	00
+Plage de Longoni	-12.72361	45.16194	YT	97610
+Port de Longoni	-12.71944	45.165	YT	00
+Longoni	-12.73167	45.16111	YT	00
+Tririni	-12.72833	45.1675	YT	00
+Mro oua Longoni	-12.72917	45.15889	YT	00
+Mro oua Mgombani	-12.72861	45.175	YT	00
+Miangani	-12.72972	45.17417	YT	00
+Pointe de Longoni	-12.71611	45.16306	YT	00
+Ile Blanche	-12.71583	45.17139	YT	00
+Kangani	-12.73186	45.18694	YT	00
+Plage de Trevani	-12.72806	45.1925	YT	97610
+Trevani	-12.73437	45.19861	YT	00
+Plage de Koungou	-12.7275	45.20028	YT	97610
+Koungou	-12.73361	45.20417	YT	97610
+Pointe de Koungou	-12.73028	45.21167	YT	00
+Majikavo Koropa	-12.74701	45.22058	YT	00
+Bandrajou	-12.74528	45.21861	YT	00
+Majikavo Lamir	-12.75572	45.22968	YT	00
+Zissioua Zine	-12.75583	45.24861	YT	00
+Mtsanga Hamaha	-12.76111	45.235	YT	97611
+Hamaha	-12.76944	45.23028	YT	00
+Mro oua Kaouenilajoli	-12.76611	45.22639	YT	00
+Mro oua Kirissoni	-12.73306	45.20472	YT	00
+Namohakou	-12.76	45.20417	YT	00
+Mlima Mtsapere	-12.76278	45.18444	YT	00
+Majimbini	-12.76583	45.18806	YT	00
+Kaoueni	-12.77121	45.22419	YT	00
+Kavani	-12.78376	45.22286	YT	00
+Pointe Mahabou	-12.78	45.23556	YT	00
+Mtsapere	-12.78711	45.22161	YT	00
+Doujani	-12.79498	45.21406	YT	00
+Mro oua Majimbini	-12.78667	45.21806	YT	00
+Mro oua Doujani	-12.79167	45.21361	YT	00
+Mro oua Gouloue	-12.79806	45.21028	YT	00
+Tsoundzou 1	-12.80628	45.20548	YT	00
+Chissioua Mbouzi	-12.81109	45.23612	YT	00
+Mro oua Kouale	-12.80722	45.20167	YT	00
+Kouale	-12.80222	45.19639	YT	00
+Kouale-Legion	-12.795	45.18611	YT	00
+Tsoundzou 2	-12.81333	45.19667	YT	00
+Vahibeni	-12.78833	45.17722	YT	00
+Chaoueni	-12.77889	45.19	YT	00
+Kouale Dzindzano	-12.78111	45.18417	YT	00
+Kouale	-12.79528	45.16417	YT	00
+Vahibeni	-12.78194	45.17056	YT	00
+Mlima Combani	-12.80167	45.14944	YT	00
+Mlima Maevadoani	-12.81611	45.17833	YT	00
+Mtsanga Nyamba	-12.80361	45.09806	YT	97617
+Plage de Sohoa	-12.81444	45.10361	YT	97605
+Mro oua Haoutoungou	-12.80278	45.11583	YT	00
+Mro oua Gomeni	-12.81139	45.12222	YT	00
+Sohoa	-12.81972	45.10361	YT	00
+Sohoa Keli	-12.82111	45.10333	YT	00
+Sohoa Kavani	-12.81861	45.10611	YT	00
+Monye Amiri	-12.77116	45.25114	YT	00
+Kakazou	-12.77129	45.25856	YT	00
+Vatou	-12.77334	45.25981	YT	00
+Foungoujou	-12.78389	45.25889	YT	00
+Mronyombeni	-12.78472	45.26222	YT	00
+Labattoir	-12.78795	45.27225	YT	97608
+Petite-Terre	-12.75919	45.2844	YT	00
+Dziani Dzaha	-12.77037	45.28783	YT	00
+Mtsanga Papani	-12.77139	45.29167	YT	97608
+Plages de Moya	-12.78	45.295	YT	97608
+La Vigie	-12.78889	45.28861	YT	97615
+Bejamoudou	-12.82333	45.16083	YT	00
+La Ferme	-12.78444	45.2775	YT	97608
+Recif Pamandzi	-12.83889	45.28694	YT	00
+Chissioua Pouhou	-12.825	45.25056	YT	00
+Chissioua Kolo Issa	-12.83528	45.23222	YT	00
+Chissioua Pengoua	-12.83639	45.24417	YT	00
+Iles Hajangoua	-12.83028	45.24389	YT	00
+Recif Hajangoua	-12.87806	45.25806	YT	00
+Recif Bandrele	-12.90139	45.24444	YT	00
+Chissioua Bandrele	-12.89528	45.22972	YT	00
+Recif du Laminoir	-12.90528	45.21222	YT	00
+Recif Bambo	-12.94444	45.21778	YT	00
+Recif Sazile	-12.95806	45.21833	YT	00
+Pointe Sazile	-12.97194	45.20139	YT	00
+Mtsanga Tsohole	-12.98278	45.21389	YT	00
+Recif du Sable Blanc	-12.98417	45.21972	YT	00
+Recif du Sud	-13.00639	45.23861	YT	00
+Tsararano	-12.83389	45.1725	YT	00
+Carrefour de Tsararano	-12.83417	45.175	YT	00
+Ironi Be	-12.83056	45.18861	YT	00
+Mro oua Ironi Be	-12.82806	45.19	YT	00
+Ongojou	-12.83472	45.15639	YT	00
+Col d'Ongojou	-12.835	45.15917	YT	00
+Ouangani	-12.84639	45.13611	YT	97614
+Mro oua Hachike	-12.82861	45.13278	YT	00
+Apandzo	-12.83056	45.13028	YT	00
+Kahani	-12.82385	45.13141	YT	00
+Coconi	-12.83306	45.13472	YT	00
+Mro oua Coconi	-12.83694	45.11806	YT	00
+Mroni Rouaka	-12.83806	45.12056	YT	00
+Djivani	-12.83139	45.12	YT	00
+Carrefour de Chiconi	-12.83806	45.11944	YT	00
+Mro oua Mangajou	-12.84194	45.115	YT	00
+Mangajou	-12.84167	45.11389	YT	00
+Chiconi	-12.83333	45.11056	YT	97605
+Mlima Chiconi	-12.82889	45.10556	YT	00
+Kavani	-12.82833	45.11083	YT	00
+Baie de Chiconi	-12.83722	45.09722	YT	00
+Recif Ndrane	-12.82917	45.0725	YT	00
+Chissioua Sada	-12.84389	45.08694	YT	00
+Recif Domouali	-12.84722	45.07833	YT	00
+Recif Mtsanga	-12.85389	45.03806	YT	00
+Recif Matre	-12.8625	45.03778	YT	00
+Recif Bandrakouni	-12.87806	45.06944	YT	00
+Recif Boueni	-12.8975	45.04472	YT	00
+Recif Mtiti	-12.91861	45.05944	YT	00
+Recif Rani	-12.93611	45.05694	YT	00
+Recif Lepoe	-12.95722	45.05917	YT	00
+Recif Rocchi	-12.98806	45.05389	YT	00
+Recif du Sud	-13.00611	45.00917	YT	00
+Doujani	-12.84222	45.10639	YT	00
+Bandrani	-12.845	45.10194	YT	00
+Sada	-12.85055	45.10205	YT	97616
+Mtsanga Mtiti	-12.84833	45.09111	YT	97616
+Mtsanga Momoni	-12.85917	45.10111	YT	97616
+Mtsanga Mtsanyounyi	-12.86222	45.11	YT	97616
+Pengoua Bole	-12.85306	45.10778	YT	00
+Treleni	-12.855	45.1225	YT	00
+Ngouni Maboungani	-12.86583	45.12833	YT	00
+Mtsanyounyi	-12.86861	45.11778	YT	00
+Menourou Ketraka	-12.84889	45.12833	YT	00
+Boungoube	-12.85361	45.14778	YT	00
+Mavingoni	-12.85444	45.16028	YT	00
+Tchaourembo	-12.86806	45.14972	YT	00
+Mro oua Dembeni	-12.83861	45.18694	YT	00
+Mro oua Danni	-12.8425	45.19083	YT	00
+Iloni	-12.84111	45.18889	YT	00
+Mtsanga Iloni	-12.84639	45.19278	YT	97607
+Plage de la Bonne Maree	-12.85194	45.195	YT	97607
+Mro oua Hajangoua	-12.85944	45.19806	YT	00
+Florence	-12.85972	45.19167	YT	00
+Hajangoua	-12.86556	45.19333	YT	00
+Maboungani	-12.87056	45.1975	YT	00
+Anse Hajangoua	-12.85722	45.20361	YT	00
+Gogorakandza	-12.86333	45.20556	YT	00
+Kombeni	-12.84889	45.17917	YT	00
+Carriere de Hajangoua	-12.85444	45.19389	YT	00
+Mro oua Salim Be	-12.86139	45.19944	YT	00
+Mlima Benara	-12.87722	45.16	YT	00
+Mlima Bepilipili	-12.87833	45.16722	YT	00
+Andilabe	-12.87167	45.15194	YT	00
+Mtsanga Dzienguizi	-12.87444	45.11778	YT	97616
+Mtsangachehi	-12.88333	45.12944	YT	00
+Mro oua Makoulatsa	-12.8875	45.13667	YT	00
+Mtsanga Makoulatsa	-12.88833	45.13528	YT	97606
+Poroani	-12.88944	45.13833	YT	00
+Mounadzini	-12.89306	45.14	YT	00
+Dzaoudzi	-12.8925	45.13833	YT	00
+Manyassini	-12.88889	45.14111	YT	00
+Mroni Be	-12.89111	45.13639	YT	00
+Mroni Saeva	-12.90194	45.14194	YT	00
+Mbouyouni	-12.90278	45.14861	YT	00
+Mrereni	-12.90222	45.14917	YT	00
+Mrereni Be	-12.90306	45.15278	YT	00
+Rassi Domonyombe	-12.86944	45.21889	YT	00
+Mtsanga Milouani	-12.87333	45.21667	YT	97607
+Hamouro	-12.87861	45.21333	YT	00
+Mtsanga Sakouli	-12.88611	45.21083	YT	97603
+Mroni Be	-12.90861	45.15111	YT	00
+Mroni Kale	-12.90972	45.1475	YT	00
+Mro oua Sanga	-12.91444	45.15167	YT	00
+Pengoualajou	-12.90361	45.17417	YT	00
+Satra Gori	-12.91361	45.16972	YT	00
+Moutsatoundou	-12.91222	45.18417	YT	00
+Kavani	-12.91056	45.19056	YT	00
+Bandrele	-12.90667	45.19139	YT	97603
+Mro oua Dagoni	-12.90722	45.1925	YT	00
+Mro oua Patse	-12.90722	45.18583	YT	00
+Mro oua Sanaro	-12.90056	45.18944	YT	00
+Mro oua Mounou	-12.89556	45.19222	YT	00
+Nyambadao	-12.89056	45.20083	YT	00
+Trambatsini	-12.88056	45.19556	YT	00
+Rassi Mounyendre	-12.91722	45.20111	YT	00
+Moutsatoundou	-12.91528	45.18278	YT	00
+Anse Bambo	-12.92389	45.18528	YT	00
+Bambo Est	-12.92611	45.17389	YT	00
+Rassi Bambo	-12.93972	45.17639	YT	00
+Mourijou	-12.92278	45.16917	YT	00
+Malamani	-12.91694	45.15639	YT	00
+Mro oua Daradjojou	-12.91583	45.15167	YT	00
+Mramadoudou	-12.92528	45.15111	YT	00
+Col de Chirongui	-12.935	45.15806	YT	00
+Chirongui	-12.93194	45.14833	YT	97606
+Rampe Cannelle	-12.93639	45.14	YT	00
+Mro oua Sirnale	-12.93083	45.14639	YT	00
+Chissioua Karoni	-12.91722	45.13917	YT	00
+Carriere de Moutsamoudou	-12.94444	45.15917	YT	00
+Mounyambani	-12.94139	45.16611	YT	00
+Mtsanga Mounyambani	-12.94194	45.16833	YT	97603
+Anse Mounyambani	-12.94472	45.17139	YT	00
+Ngoumbili	-12.94972	45.15694	YT	00
+Mlima Chongui Keli	-12.95528	45.16056	YT	00
+Moutsamoudou	-12.96056	45.17333	YT	00
+Mlima Sazile	-12.96944	45.17333	YT	00
+Mtsanga Sazile	-12.97278	45.19306	YT	97603
+Sazile Be	-12.97361	45.19722	YT	00
+Mtsanga Moudou	-12.97611	45.19861	YT	97603
+Mtsanga Kombo Bato	-12.97972	45.19472	YT	00
+Mtsanga Kolo Batsoumou	-12.98222	45.1925	YT	00
+Sazile	-12.98194	45.17889	YT	00
+Rassi Maoussi	-12.99139	45.17528	YT	00
+Dapani	-12.96917	45.15889	YT	00
+Mroni Be	-12.97083	45.15778	YT	00
+Mro oua Karovara	-12.97389	45.155	YT	00
+Mro oua Tanamuao	-12.97389	45.15389	YT	00
+Charifou	-12.99389	45.14833	YT	00
+Mbouini	-12.9875	45.13472	YT	00
+Tsiraka Be	-12.98944	45.12583	YT	00
+Tsiraka Bandrakouni	-12.97861	45.10889	YT	00
+Mronabeja	-12.97694	45.12167	YT	00
+Choungui Keli	-12.96861	45.13083	YT	00
+Mroni Berambo	-12.98722	45.13139	YT	00
+Mroni Anianano	-12.97861	45.1225	YT	00
+Andembe	-12.96444	45.12083	YT	00
+Choungui	-12.95944	45.12444	YT	00
+Mlima Choungui	-12.95389	45.13167	YT	00
+Vatounkaridi	-12.96306	45.13861	YT	00
+Mlima Chirongui	-12.94361	45.15139	YT	00
+Mroni Abadiri	-12.93472	45.13611	YT	00
+Mroni Kavani	-12.935	45.13472	YT	00
+Tsimkoura	-12.93722	45.13528	YT	00
+Mro oua Karoni	-12.93611	45.12917	YT	00
+Mlima Karoni	-12.93667	45.11194	YT	00
+Karoni	-12.92889	45.11722	YT	00
+Majimeouni	-12.92222	45.10583	YT	00
+Baie de Boueni	-12.91111	45.12028	YT	00
+Mzouazia	-12.92556	45.10111	YT	00
+Mtsanga Foumbouni	-12.92861	45.10167	YT	97604
+Hanyoundrou	-12.90056	45.09861	YT	00
+Mouanatrindi	-12.89694	45.09528	YT	00
+Ngoujou Boungoudranavi	-12.90806	45.08528	YT	00
+Rassi Chodoni	-12.89722	45.07139	YT	00
+Boueni	-12.9025	45.07611	YT	97604
+Mtsanga Gouela	-12.91222	45.07833	YT	97604
+Mtsanga Boundrouni	-12.91583	45.07972	YT	97604
+Bambo Ouest	-12.92194	45.08722	YT	00
+Mtsanga Kanoua	-12.93222	45.10111	YT	97604
+Mtsanga Mtiti	-12.9375	45.09917	YT	97604
+Mtsanga Mboueanatsa	-12.9425	45.09861	YT	97604
+Mboueanatsa	-12.94167	45.09972	YT	00
+Mlima Kani Keli	-12.95194	45.0975	YT	00
+Kani Keli	-12.95361	45.10333	YT	97609
+Ngouja	-12.95917	45.08361	YT	00
+Rassi Ngouja	-12.95944	45.07778	YT	00
+Baie de Mzouazia	-12.94083	45.08417	YT	00
+Baie de Kani	-12.96722	45.09917	YT	00
+Kani Be	-12.96435	45.11162	YT	00
+Mroni Djialimou	-12.95417	45.1075	YT	00
+Mlima Djialimou	-12.94194	45.11861	YT	00
+Grand Recif du Nord Est	-12.69083	45.2325	YT	00
+Chissioua Mbouini	-13.00028	45.13556	YT	00
+Acoua	-12.72215	45.05811	YT	97601
+Bandraboua	-12.70222	45.12197	YT	97602
+Bandrele	-12.91113	45.19389	YT	97603
+Boueni	-12.9092	45.07999	YT	97604
+Chiconi	-12.83072	45.11407	YT	97605
+Chirongui	-12.93497	45.15106	YT	97606
+Dembeni	-12.84302	45.18548	YT	97607
+Dzaoudzi	-12.77832	45.28367	YT	97608
+Kani-Keli	-12.95471	45.106	YT	97609
+Koungou	-12.73513	45.20591	YT	97610
+Mamoudzou	-12.77966	45.22831	YT	97611
+Mtsamboro	-12.70013	45.06918	YT	97612
+M'Tsangamouji	-12.75982	45.08454	YT	97613
+Ouangani	-12.84728	45.1369	YT	97614
+Pamandzi	-12.79489	45.28195	YT	97615
+Sada	-12.85046	45.10291	YT	97616
+Tsingoni	-12.78845	45.10463	YT	97617
+Pamandzi Mediumwave Transmitter	-12.76396	45.28311	YT	
+Bureau de Poste de Mamoudzou Kaweni	-12.7722	45.2259	YT	97611
+Bureau de Poste de Petite Terre	-12.7974	45.2765	YT	97615
+Bureau de Poste de Mamoudzou	-12.7764	45.2287	YT	97611
+Bureau de Poste de Koungou	-12.7365	45.2066	YT	97610

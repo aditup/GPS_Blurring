@@ -1,0 +1,120 @@
+Da Wan	22.12722	113.55028	MO	00
+Ilha da Taipa	22.15972	113.55944	MO	00
+Taipa	22.15583	113.55694	MO	00
+Bacia Sul do Patane	22.20528	113.5375	MO	00
+Shipai Wan	22.14167	113.55556	MO	00
+Xiyang Fenchang	22.19833	113.54556	MO	00
+Colina da Penha	22.18639	113.53472	MO	00
+Bacia Norte do Patane	22.20806	113.53889	MO	00
+Ponta Maria	22.16194	113.54222	MO	00
+Concelho de Macau	22.20028	113.54694	MO	02
+Macau	22.20056	113.54611	MO	02
+Macau Special Administrative Region	22.15778	113.55972	MO	00
+Guancai Wan	22.135	113.58528	MO	00
+Doca Lam Mau	22.20515	113.53864	MO	00
+Lizhi Wan	22.12194	113.55111	MO	00
+Lai Chi Van	22.11972	113.55111	MO	00
+Ilheu Kai-Kiong	22.15472	113.57611	MO	00
+Dadan Jiao	22.13111	113.5918	MO	00
+Baia de Ka-Ho	22.13806	113.58417	MO	00
+Porto Interior	22.19806	113.53361	MO	00
+Parque Infantil	22.18722	113.53722	MO	00
+Ilha Verde	22.21167	113.5375	MO	00
+Concelho das Ilhas	22.125	113.56583	MO	01
+Heisha Wan	22.12083	113.57306	MO	00
+Heisha	22.11917	113.56778	MO	00
+Farol da Guia	22.19667	113.54972	MO	00
+Porto Exterior	22.19333	113.55806	MO	00
+Ilha de Coloane	22.12611	113.56691	MO	00
+Luhuan	22.11806	113.55194	MO	00
+Zhu Wan	22.11222	113.56056	MO	00
+Zhuojiacun	22.16139	113.55639	MO	00
+Ponta Cabrita	22.16111	113.5775	MO	01
+Binglang Shi	22.175	113.53667	MO	00
+Ponte Governador Nobre De Carvalho	22.18101	113.54503	MO	01
+Sai-Van-Bruecke	22.17612	113.534	MO	02
+Agosto	22.21586	113.54898	MO	
+Wangde Shengmu Wan	22.15139	113.56028	MO	00
+Heisha Shuiku	22.12528	113.57083	MO	00
+Ponte da Amizade	22.17917	113.56333	MO	00
+Guia Marco	22.19639	113.54972	MO	00
+Shipai Wan Shuitang	22.13333	113.56444	MO	00
+Ponte de Lianhua	22.14	113.54917	MO	00
+Morro de Artilharia	22.1125	113.55528	MO	00
+Coloane Alto	22.12056	113.56139	MO	00
+Universidade de Macau	22.16389	113.55778	MO	00
+Jardim Saint Francisco	22.1925	113.54472	MO	00
+Songyusheng Gongyuan	22.18861	113.55083	MO	00
+Jardim Comendador Ho Yin	22.19194	113.54944	MO	00
+Renbojue Yiyuan	22.19417	113.54667	MO	00
+Baigechao Gongyuan	22.20083	113.53944	MO	00
+Jardim Lou Lim Ioc	22.20056	113.54778	MO	00
+Wangxia Shan Shizheng Gongyuan	22.20889	113.54611	MO	00
+Parque Urbano Doutor Sun Yat Sen	22.21639	113.545	MO	00
+Wangxia Shan	22.20778	113.54778	MO	00
+Taipa Pequena	22.16083	113.54694	MO	00
+Monte Ka Ho	22.13	113.58472	MO	00
+Jiu'ao	22.13306	113.58139	MO	00
+Parque de Seac Pai Van	22.12583	113.55778	MO	00
+Porto de Ka Ho	22.13472	113.58722	MO	00
+Liansheng Gongyecun	22.1275	113.55417	MO	00
+Templo de Tam Kung	22.11417	113.55056	MO	00
+Aomen Yundongchang	22.15444	113.55361	MO	00
+Templo de Tou Tai Un	22.16139	113.55167	MO	00
+Taipa Grande	22.15861	113.56583	MO	00
+Jardim Cidade das Flores	22.15639	113.55722	MO	00
+Templo da Deusa A-Ma	22.18667	113.53139	MO	00
+Meseu de Macau	22.19722	113.54222	MO	00
+Templo de Kun Iam	22.20444	113.55028	MO	00
+Kun Iam Miu	22.20639	113.54778	MO	00
+Templo de Lin Fong	22.21	113.54806	MO	00
+Estrada do Istmo	22.14	113.56333	MO	00
+Zona de Aterro Cotai	22.13917	113.55722	MO	00
+Ponte de Sai Van	22.17306	113.53556	MO	00
+Venetian Macau	22.14848	113.56149	MO	
+City of Dreams	22.14985	113.56559	MO	
+Macau Dome	22.14039	113.57061	MO	
+Casino Lisboa	22.18974	113.54426	MO	
+Riviera	22.18605	113.53511	MO	
+Conrad Macao Cotai Central	22.145	113.56786	MO	
+The Grand Lapa	22.1925	113.55381	MO	
+Pousada De Sao Tiago	22.18233	113.53074	MO	
+Victoria	22.20988	113.54858	MO	
+Mgm Macau	22.18566	113.54837	MO	
+Metropole (Macao)	22.19206	113.54038	MO	
+Mandarin Oriental (Macao)	22.1924	113.5535	MO	
+Sofitel Macau At Ponte 16	22.19834	113.53683	MO	
+Rio	22.19285	113.54993	MO	
+Four Seasons	22.14709	113.56043	MO	
+Mgm Grand	22.1901	113.555	MO	
+L'arc New World Macau	22.16385	113.55499	MO	
+Galaxy Macau	22.15015	113.55731	MO	
+Presidente	22.19164	113.55186	MO	
+Starworld	22.18956	113.54809	MO	
+Banyan Tree Macau	22.14875	113.55175	MO	
+Wynn Macau	22.15156	113.56516	MO	
+Lisboa (Macao)	22.18974	113.54431	MO	
+Okura Macau	22.14109	113.56145	MO	
+Kingsway	22.19287	113.55171	MO	
+Four Seasons Macao Cotai Strip	22.14698	113.56297	MO	
+Altira	22.16176	113.55492	MO	
+New Century Macao	22.1637	113.56038	MO	
+Regency (Harbour View)	22.16217	113.55366	MO	
+Taipa Square	22.15768	113.55106	MO	
+Pousada Marina Infante	22.1497	113.55055	MO	
+Landmark	22.19113	113.54856	MO	
+Guia	22.19566	113.5482	MO	
+Grand Lisboa	22.19059	113.54364	MO	
+Grandview	22.15718	113.55199	MO	
+Golden Dragon	22.19535	113.55445	MO	
+Encore At Wynn Macau	22.18811	113.5463	MO	
+Casa Real	22.19667	113.55344	MO	
+Mgm Macau (Grand Room)	22.18576	113.54816	MO	
+Towns Well	22.19458	113.54215	MO	
+Ole London	22.19367	113.53626	MO	
+Sands Macao	22.19271	113.5547	MO	
+Golden Crown China	22.15836	113.57406	MO	
+Crown Towers	22.13966	113.56314	MO	
+Pousada De Coloane	22.11422	113.56193	MO	
+The Landmark Macau	22.19101	113.54885	MO	
+Lisboa (East Wing)	22.18982	113.54438	MO	

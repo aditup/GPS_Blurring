@@ -1,0 +1,1541 @@
+Chestnut Knoll	38.95761	-75.45242	US	DE
+Brenford	39.2565	-75.61076	US	DE
+Woodbury	39.039	-75.55354	US	DE
+Red Lion	39.60845	-75.66382	US	DE
+Johnson	38.47539	-75.13852	US	DE
+Ocean View	38.54511	-75.08907	US	DE
+Wilkins Point	38.64456	-75.14713	US	DE
+Afton	39.82706	-75.48075	US	DE
+Airmont Acres	39.53122	-75.6741	US	DE
+Ainsley Woods	39.76261	-75.70799	US	DE
+Alapocas	39.77095	-75.55937	US	DE
+Albertson	39.74039	-75.62743	US	DE
+Albion	39.714	-75.66215	US	DE
+Alfred I duPont Institute	39.78039	-75.55437	US	DE
+Alley Corners	39.26872	-75.65437	US	DE
+Amaranth	39.714	-75.78299	US	DE
+Andersons Corner	38.69872	-75.25936	US	DE
+Andrewsville	38.8615	-75.63493	US	DE
+Alvin Point	38.5665	-75.20046	US	DE
+Angola	38.66928	-75.18907	US	DE
+Angola Grange	38.67567	-75.17824	US	DE
+Angola Landing	38.644	-75.12685	US	DE
+Angola Neck	38.6665	-75.14629	US	DE
+Aniline Village	39.814	-75.4427	US	DE
+Anne Acres	38.70039	-75.08268	US	DE
+Anneville	39.12928	-75.51909	US	DE
+Anthonys Corners	38.92206	-75.65771	US	DE
+Apostolics of Georgetown	38.64872	-75.34853	US	DE
+Appoquinimink Hundred	39.35844	-75.71632	US	DE
+Appoquinimink Range Lights	39.44511	-75.59243	US	DE
+Anglesey	39.759	-75.61604	US	DE
+Arabian Acres	38.73567	-75.2263	US	DE
+Arbor Pointe Apartments	39.7115	-75.64743	US	DE
+Arc Corner	39.72206	-75.77355	US	DE
+Arden	39.80928	-75.48659	US	DE
+Ardencroft	39.80428	-75.49131	US	DE
+Ardentown	39.80845	-75.48298	US	DE
+Argo Corners	38.8715	-75.34547	US	DE
+Argos Choice	38.95011	-75.50965	US	DE
+Armstrong	39.48067	-75.7166	US	DE
+Arrowhead Point	38.649	-75.12685	US	DE
+Asbury Methodist Kindergarten	39.66122	-75.58104	US	DE
+Ash Gut	38.99511	-75.47048	US	DE
+Ashland	39.79983	-75.65715	US	DE
+Ashley	39.72928	-75.58298	US	DE
+Ashley Heights	39.72539	-75.57909	US	DE
+Atlanta	38.70873	-75.67799	US	DE
+Auburn	39.80844	-75.68854	US	DE
+Augustine	39.764	-75.55381	US	DE
+Avalon	39.73067	-75.62187	US	DE
+Aydelotte Point	38.57539	-75.17269	US	DE
+Baileys Landing	38.57234	-75.64354	US	DE
+Bakeoven Point	39.3515	-75.49187	US	DE
+Bacons	38.50845	-75.56965	US	DE
+Baker Range	39.46261	-75.56631	US	DE
+Bald Eagle Point	39.21845	-75.52604	US	DE
+Bald Eagle Village	38.70595	-75.09851	US	DE
+Ballast Point	38.56428	-75.19546	US	DE
+Ballast Point	38.58845	-75.23241	US	DE
+Baltimore Hundred	38.53345	-75.1663	US	DE
+Banks Acres	38.55706	-75.11102	US	DE
+Banks Development	38.55345	-75.11352	US	DE
+Bald Eagle Point	38.68956	-75.10852	US	DE
+Basin Corner	39.68067	-75.58993	US	DE
+Beades Estate	39.11428	-75.52965	US	DE
+Bear	39.62928	-75.65826	US	DE
+Beaver Brook Apartments	39.64039	-75.62271	US	DE
+Beaver Valley	39.83928	-75.56409	US	DE
+Becks Landing	39.62372	-75.69854	US	DE
+Beech Haven	39.19595	-75.59548	US	DE
+Beechers Lot	39.644	-75.70382	US	DE
+Beechwold	39.7815	-75.52964	US	DE
+Belford Manor	39.73345	-75.65187	US	DE
+Bella Vista	39.76539	-75.6816	US	DE
+Bellefonte	39.76622	-75.50936	US	DE
+Bellevue	39.77095	-75.48353	US	DE
+Bellevue Range	39.76539	-75.47603	US	DE
+Bellewood	39.79178	-75.52964	US	DE
+Belltown	38.74706	-75.17796	US	DE
+Belmoor	39.72511	-75.5927	US	DE
+Belvidere	39.72206	-75.61548	US	DE
+Ben Robins Landing	38.65817	-75.15657	US	DE
+Belltown Woods	39.61122	-75.72299	US	DE
+Bennetts Pier	39.03233	-75.35714	US	DE
+Bennum	38.71122	-75.31408	US	DE
+Benton	39.81122	-75.51853	US	DE
+Berrytown	39.01261	-75.59409	US	DE
+Beth Shalom Congregation	39.16233	-75.53104	US	DE
+Beth Shalom Congregation	39.75567	-75.54631	US	DE
+Bethany Dunes	38.56317	-75.05824	US	DE
+Bethany Village	38.55983	-75.05879	US	DE
+Bethel	39.23428	-75.58159	US	DE
+Bethel	38.57067	-75.61937	US	DE
+Bethel	38.454	-75.35547	US	DE
+Bethesda	39.13761	-75.69271	US	DE
+Beverly Woods	39.82011	-75.47964	US	DE
+Bicentennial Village	39.16539	-75.55381	US	DE
+Biddle Point	39.554	-75.61632	US	DE
+Biddles Corner	39.52511	-75.6491	US	DE
+Big Break	39.34622	-75.49298	US	DE
+Big Cove	38.58539	-75.22213	US	DE
+Bennett Point	38.48122	-75.06518	US	DE
+Big Newfound Neck	38.46956	-75.3288	US	DE
+Big Oak Corners	39.26956	-75.58854	US	DE
+Big Pine	38.85067	-75.69437	US	DE
+Big Sheep Hammock	38.50122	-75.07546	US	DE
+Big Union Circuit	39.01122	-75.57354	US	DE
+Bigger Tract	39.80345	-75.46158	US	DE
+Birch Knoll	39.83261	-75.50409	US	DE
+Birch Pointe	39.70706	-75.69965	US	DE
+Birds Corner	39.56345	-75.64021	US	DE
+Bishops Corner	39.22372	-75.57576	US	DE
+Bissell Sanitorium	39.75067	-75.65271	US	DE
+Black Arm Prong	38.93511	-75.63048	US	DE
+Black Duck Point	38.65372	-75.15491	US	DE
+Black Hog Gut	38.76206	-75.18241	US	DE
+Black Hog Landing	38.774	-75.19046	US	DE
+Blackbird	39.37094	-75.6591	US	DE
+Blackbird Landing	39.389	-75.63576	US	DE
+Blackiston	39.27067	-75.70049	US	DE
+Blackwater	38.54595	-75.16213	US	DE
+Blackwater Cove	38.55761	-75.13546	US	DE
+Blackbird Hundred	39.33344	-75.64965	US	DE
+Blackwater Point	38.57983	-75.16213	US	DE
+Blades	38.63567	-75.60993	US	DE
+Blanchard	38.82067	-75.65215	US	DE
+Blackwater Village	38.55595	-75.15935	US	DE
+Blue Ball	39.77734	-75.54465	US	DE
+Bluff Point	38.63567	-75.10324	US	DE
+Boat Gut	39.24122	-75.46826	US	DE
+Bohemia Manor	39.48317	-75.76855	US	DE
+Bon Ayre	39.78039	-75.67076	US	DE
+Bossard Property	38.65178	-75.63271	US	DE
+Boulder Brook	39.79622	-75.52242	US	DE
+Bowdens Garage	38.69873	-75.5902	US	DE
+Bowen Landing	38.92039	-75.40909	US	DE
+Bookhammer Landing	38.67789	-75.13602	US	DE
+Boyds Corner	39.50011	-75.6491	US	DE
+Boyers Village	38.54372	-75.15463	US	DE
+Brackenville	39.78067	-75.68299	US	DE
+Brackenville Woods	39.79039	-75.66132	US	DE
+Brandon	39.82595	-75.52409	US	DE
+Brandywine	39.82956	-75.53437	US	DE
+Boxwood	39.7265	-75.59687	US	DE
+Brandywine Forge	39.83345	-75.52187	US	DE
+Brandywine Hundred	39.79178	-75.51631	US	DE
+Brandywood	39.82095	-75.50798	US	DE
+Breezewood	39.05289	-75.55326	US	DE
+Breezewood	38.72039	-75.13018	US	DE
+Breezewood II	39.66011	-75.70521	US	DE
+Briar Hook	38.68261	-75.65993	US	DE
+Briar Point	39.55011	-75.62604	US	DE
+Briarwood Manor	38.72067	-75.30047	US	DE
+Brick Store	39.32206	-75.5727	US	DE
+Brickbat Point	38.50595	-75.09352	US	DE
+Bristle Knoll	39.71678	-75.7816	US	DE
+Brookbend	39.68261	-75.68354	US	DE
+Brookdale Heights	39.084	-75.49242	US	DE
+Brookhaven	39.69678	-75.69104	US	DE
+Brookmeade	39.75428	-75.62882	US	DE
+Brookside	39.66706	-75.72688	US	DE
+Brookview	39.80706	-75.45908	US	DE
+Brown Shoal	38.94178	-75.12463	US	DE
+Brown Shoal	38.92733	-75.10352	US	DE
+Brown Shoal	38.94622	-75.12963	US	DE
+Brownsville	38.91372	-75.67965	US	DE
+Bryans Store	38.59261	-75.40936	US	DE
+Buckingham Heights	39.8065	-75.49686	US	DE
+Browns Corner	39.09122	-75.51881	US	DE
+Bulkhead Shoal	39.61678	-75.59687	US	DE
+Bulkhead Shoal Channel	38.58623	-75.59131	US	DE
+Bull Pine Corners	38.65234	-75.38297	US	DE
+Bullock Prong	38.93234	-75.72271	US	DE
+Bullseye Point	38.58956	-75.22241	US	DE
+Bullseye	38.59178	-75.22324	US	DE
+Bunting	38.46345	-75.15407	US	DE
+Burton Point	38.64289	-75.12602	US	DE
+Burton Prong	38.65733	-75.16768	US	DE
+Burton Acres	38.5765	-75.26241	US	DE
+Burwood	39.09289	-75.56187	US	DE
+Bush Manor	39.20789	-75.56326	US	DE
+Byewood Manor	38.56039	-75.11963	US	DE
+Cabbage Corner	38.68067	-75.35436	US	DE
+Caesar Rodney Helistop	39.14956	-75.50492	US	DE
+Buttonwood	39.68345	-75.55659	US	DE
+Calhoun Landing	38.59261	-75.12046	US	DE
+Calvary Assembly of God	39.81317	-75.53687	US	DE
+Camden	39.11345	-75.54187	US	DE
+Cannon	38.69956	-75.61493	US	DE
+Cantebury Apartments	38.74289	-75.59243	US	DE
+Village of Cantebury	39.64539	-75.62937	US	DE
+Canterbury	39.04261	-75.55548	US	DE
+Cardiff	39.81345	-75.53798	US	DE
+Carlisle Village	39.18761	-75.57881	US	DE
+Cains Landing	38.95789	-75.35992	US	DE
+Carousel Knoll	39.72928	-75.67465	US	DE
+Carpenter	39.81845	-75.46436	US	DE
+Carpenters Corner	38.74261	-75.15018	US	DE
+Carrcroft	39.78761	-75.50603	US	DE
+Carrcroft Crest	39.79178	-75.50381	US	DE
+Carriage Lane	39.10956	-75.5227	US	DE
+Carroltown	39.30706	-75.54187	US	DE
+Carsylian Acres	38.7515	-75.23019	US	DE
+Casson Corner	39.16067	-75.60826	US	DE
+Castle Apartments	39.67233	-75.58743	US	DE
+Catalina Gardens	39.6515	-75.74549	US	DE
+Cathedral of the Faith	38.63956	-75.57243	US	DE
+Carter Development	39.11983	-75.52992	US	DE
+Cave Colony	38.764	-75.28991	US	DE
+Cave Neck	38.77372	-75.27158	US	DE
+Cedar Corners	38.73817	-75.48853	US	DE
+Cattail Gut	39.15206	-75.42409	US	DE
+Cedar Gut	39.2265	-75.41603	US	DE
+Cedar Heights	39.72095	-75.61632	US	DE
+Cedar Neck	38.57206	-75.0799	US	DE
+Cedar Neck	38.91956	-75.36269	US	DE
+Cedar Shores	38.57483	-75.09352	US	DE
+Cedarbrook Acres	39.27928	-75.60937	US	DE
+Cedarbush Hole	39.12039	-75.32214	US	DE
+Cedars	39.74178	-75.63715	US	DE
+Cedars Knoll	39.74456	-75.63521	US	DE
+Centennial Village	39.63983	-75.65937	US	DE
+Chalfonte	39.819	-75.5327	US	DE
+Chambersville	39.36372	-75.57882	US	DE
+Champlin Neck	38.5565	-75.17241	US	DE
+Champlin Village	39.72872	-75.59326	US	DE
+Channin	39.83122	-75.50937	US	DE
+Chaplecroft	39.12095	-75.53854	US	DE
+Charter Oaks	39.78344	-75.68715	US	DE
+Chatham	39.80428	-75.51631	US	DE
+Cherokee Woods	39.67511	-75.70938	US	DE
+Cherry Walk	38.56539	-75.66798	US	DE
+Cherrytree Landing	38.64317	-75.59104	US	DE
+Cheswold	39.21928	-75.58576	US	DE
+Choate	39.70233	-75.69549	US	DE
+Christian Tabernacle	38.87067	-75.43103	US	DE
+Christiana	39.66511	-75.65993	US	DE
+Christiana Acres	39.689	-75.61909	US	DE
+Christiana Green	39.65428	-75.67938	US	DE
+Christiana Hundred	39.79178	-75.59965	US	DE
+Christiana Landing	39.65011	-75.65771	US	DE
+Christiana Village	39.66539	-75.66437	US	DE
+Christina Manor	39.67928	-75.78716	US	DE
+Clark Point	39.02317	-75.3438	US	DE
+Clarksville	38.549	-75.14768	US	DE
+Claymont	39.80067	-75.45964	US	DE
+Claymont Addition	39.79872	-75.47047	US	DE
+Claymont Heights	39.79595	-75.47047	US	DE
+Claymont Manor	39.80011	-75.45436	US	DE
+Claymont Village	39.799	-75.4577	US	DE
+Clayton	39.29067	-75.63437	US	DE
+Clear Brook	38.64095	-75.60604	US	DE
+Clay Acres	39.59317	-75.71215	US	DE
+Clearview Manor	39.70567	-75.5677	US	DE
+Cleland Heights	39.73484	-75.57465	US	DE
+Clermont	39.789	-75.52714	US	DE
+Cocked Hat	38.76678	-75.61076	US	DE
+Cohee Prong	39.05317	-75.67382	US	DE
+Cokesbury Village	39.77511	-75.65799	US	DE
+Coldwell Corners	39.36678	-75.76493	US	DE
+Collins and Russell Development	38.78761	-75.32297	US	DE
+Colmar Manor	39.28344	-75.60937	US	DE
+Colonial Acres	38.60678	-75.56159	US	DE
+Colonial Heights	39.74734	-75.58437	US	DE
+Colonial Village Apartments	39.68484	-75.56854	US	DE
+Colonial Woods	39.80789	-75.54131	US	DE
+Columbia	38.49789	-75.67771	US	DE
+Community Holy Tabernacle of Deliverance	39.164	-75.53437	US	DE
+Conch Point	38.47122	-75.0724	US	DE
+Concord	39.76428	-75.5427	US	DE
+Concord	38.64206	-75.5552	US	DE
+Concord Heights	38.65317	-75.54104	US	DE
+Concord Manor	39.80567	-75.54131	US	DE
+Concord Towers	39.67428	-75.67965	US	DE
+Coopers Corner	39.139	-75.52187	US	DE
+Corbit	39.58817	-75.65937	US	DE
+Country Village	38.7165	-75.14963	US	DE
+Coventry	39.67233	-75.63576	US	DE
+Covington Neck	38.79122	-75.2313	US	DE
+Corner Ketch	39.74928	-75.74105	US	DE
+Cowgills Corner	39.19595	-75.4802	US	DE
+Cranston Heights	39.73345	-75.63048	US	DE
+Cristine Manor	39.689	-75.78299	US	DE
+Crooked Gut	38.96595	-75.33714	US	DE
+Cross Ledge Range	39.214	-75.2913	US	DE
+Cross Keys	38.56595	-75.36797	US	DE
+Cuelen Acres	38.52539	-75.21852	US	DE
+Cumples Woods	39.50039	-75.62048	US	DE
+Dagsboro	38.54928	-75.24574	US	DE
+Dagsboro Hundred	38.55011	-75.29964	US	DE
+Daniels Tract	39.38345	-75.53437	US	DE
+Darley Woods	39.81678	-75.47325	US	DE
+Dartmouth Woods	39.83345	-75.51076	US	DE
+Davis Corner	39.16539	-75.6816	US	DE
+Davis Landing	38.90067	-75.33603	US	DE
+Deacons Walk	39.72511	-75.71632	US	DE
+Deakyneville	39.36928	-75.54437	US	DE
+Deans Hole	38.58483	-75.18407	US	DE
+Deep Hole	38.58734	-75.23713	US	DE
+Deepwater Point	39.20095	-75.39103	US	DE
+Deepwater Point Range	39.65011	-75.54965	US	DE
+Deerhurst	39.78345	-75.54131	US	DE
+Deerwood	38.72067	-75.30019	US	DE
+Del Shire	39.20928	-75.56493	US	DE
+Delaire	39.77511	-75.48714	US	DE
+Delaney Corner	39.29928	-75.74715	US	DE
+Delaplane Manor	39.69622	-75.70882	US	DE
+Delaware City	39.57789	-75.58881	US	DE
+Delaware Heights	39.82511	-75.62049	US	DE
+Delaware International Raceway	38.46901	-75.56104	US	DE
+Delaware Junction	39.72317	-75.57659	US	DE
+Delaware Point	39.37761	-75.51548	US	DE
+Delaware State Fairgrounds	38.914	-75.57493	US	DE
+Delaware	39.00039	-75.49992	US	DE
+Delmar	38.45651	-75.57715	US	DE
+Delmarva Peninsula	38.50012	-75.49964	US	DE
+Delmarva Raceway	38.70456	-75.36075	US	DE
+Delshire	39.20789	-75.56243	US	DE
+Delwoods	39.78011	-75.53576	US	DE
+Delwynn	39.80706	-75.53409	US	DE
+Denton Manor	38.55706	-75.10518	US	DE
+Derby Shores	39.0865	-75.56965	US	DE
+Derickson Point	38.56789	-75.1938	US	DE
+Devers Gut	39.2365	-75.44964	US	DE
+Devils Woodyard	38.83817	-75.5702	US	DE
+Derrickson Point	38.5765	-75.09463	US	DE
+Devon	39.66678	-75.76771	US	DE
+Devonshire	39.82511	-75.53992	US	DE
+Devonshire Woods	38.66317	-75.63687	US	DE
+Dexter Corners	39.33456	-75.69965	US	DE
+Dickerson Manor	38.54595	-75.58298	US	DE
+Dickinson Mansion	39.10122	-75.44798	US	DE
+Dinahs Corner	39.18595	-75.64465	US	DE
+Devon	39.82789	-75.53992	US	DE
+Dirickson Neck	38.47067	-75.0899	US	DE
+Dobbinsville	39.6565	-75.57909	US	DE
+Dodds Addition	38.70289	-75.08296	US	DE
+Dogwood Acres	38.53567	-75.58409	US	DE
+Donovan Development	38.90567	-75.44659	US	DE
+Donovan Development	38.76372	-75.13741	US	DE
+Donas Landing	39.21261	-75.43103	US	DE
+Doty Glade	38.80511	-75.22324	US	DE
+Dover	39.15817	-75.52437	US	DE
+Dover Downs	39.18928	-75.53437	US	DE
+Dover Downs Helistop	39.18345	-75.52465	US	DE
+Douglas Forge	38.64595	-75.57743	US	DE
+Drapers Corners	38.899	-75.67465	US	DE
+Drum Point	38.46233	-75.0624	US	DE
+Drummond North	39.7265	-75.71632	US	DE
+Drum Gut	39.2315	-75.44242	US	DE
+Dumpling Neck	38.5465	-75.21769	US	DE
+Duncan Glen	39.74317	-75.65382	US	DE
+Duncan Village	39.73345	-75.63715	US	DE
+Duncan Woods	39.73567	-75.63854	US	DE
+Dunleith	39.70872	-75.55548	US	DE
+Dunlinden Acres	39.73622	-75.64548	US	DE
+Dupont	39.19456	-75.56354	US	DE
+Dupont Manor	39.1965	-75.54881	US	DE
+Duponts Landing	39.7515	-75.49409	US	DE
+Duross Heights	39.68067	-75.62243	US	DE
+Duross Heights	39.68428	-75.62659	US	DE
+Dutch Acres	38.75067	-75.17935	US	DE
+Dutch Neck	39.2815	-75.49131	US	DE
+Dutch Neck	39.73345	-75.57881	US	DE
+The Dyke	39.66678	-75.56631	US	DE
+Eagles Nest Landing	39.34539	-75.56326	US	DE
+East Minquadale	39.70428	-75.56409	US	DE
+East Side Village	38.77428	-75.30158	US	DE
+Eastburn Acres	39.70567	-75.68299	US	DE
+Eastburn Heights	39.70928	-75.68076	US	DE
+Eastern Shore	38.50012	-75.49964	US	DE
+Eastman Heights	38.88984	-75.41631	US	DE
+East Dover Hundred	39.11678	-75.51631	US	DE
+Eberton	39.22095	-75.57187	US	DE
+Ebright	39.83678	-75.52826	US	DE
+Eden Roc	39.20011	-75.59659	US	DE
+Edgar Prong	38.58095	-75.1074	US	DE
+Edgebrooke	39.66956	-75.66271	US	DE
+Edgemoor	39.75011	-75.49964	US	DE
+Edgemoor Gardens	39.75845	-75.49686	US	DE
+Edgemoor Yard	39.74372	-75.51964	US	DE
+Edgewater	38.75317	-75.20491	US	DE
+Edgewood Manor	38.55345	-75.15241	US	DE
+Edwardsville	38.9965	-75.71382	US	DE
+Ellendale	38.80706	-75.4227	US	DE
+Elliots Addition	39.73983	-75.61354	US	DE
+Elmhurst	39.73067	-75.58993	US	DE
+Elmwood	39.67456	-75.69715	US	DE
+Elsmere	39.73928	-75.59798	US	DE
+Emily Gut	38.60345	-75.17185	US	DE
+English Village	39.72095	-75.69827	US	DE
+Everetts Corner	39.20067	-75.74604	US	DE
+Evergreen Acres	39.4965	-75.64021	US	DE
+Evergreen Acres	38.90567	-75.4477	US	DE
+Fairfax	39.7865	-75.54326	US	DE
+Ellis Point	38.59317	-75.13407	US	DE
+Fairthorne	39.77289	-75.60326	US	DE
+Fairview	39.16956	-75.53576	US	DE
+Fairway Villas	38.57567	-75.14268	US	DE
+Fairwinds	39.64372	-75.64298	US	DE
+Farnhurst	39.69317	-75.57742	US	DE
+Faulkland	39.74761	-75.63548	US	DE
+Faulkland Heights	39.74317	-75.63021	US	DE
+Faulkland Woods	39.74872	-75.63715	US	DE
+Federalsburg	38.82817	-75.42936	US	DE
+Felton	39.00845	-75.57798	US	DE
+Felton Heights	39.02095	-75.56576	US	DE
+Felton Manor	39.00706	-75.5677	US	DE
+Fennimore Landing	39.44511	-75.59243	US	DE
+Fenwick Landing	38.454	-75.06602	US	DE
+Fenwick Shoal	38.45289	-74.93573	US	DE
+Fenwick West	38.47206	-75.1238	US	DE
+Fern Hook	39.70289	-75.57187	US	DE
+Fernwood	38.65345	-75.57187	US	DE
+Ferry Cove	38.59206	-75.24602	US	DE
+Ferry Landing	38.59234	-75.24408	US	DE
+Fillmore Clifton Stadium	38.73678	-75.6052	US	DE
+First Assembly of God	39.67872	-75.74549	US	DE
+Fisher Landing	38.71261	-75.17518	US	DE
+Fishing Point	38.589	-75.25102	US	DE
+Five Points	38.74872	-75.17324	US	DE
+Fivefoot Prong	39.05539	-75.64604	US	DE
+Five Corners	38.8815	-75.60187	US	DE
+Fleming Corners	38.91845	-75.59798	US	DE
+Flemings Landing	39.354	-75.54854	US	DE
+Florence	39.08345	-75.46353	US	DE
+Foord Landing	38.83511	-75.25769	US	DE
+Fords Corner	39.19261	-75.69965	US	DE
+Forwood	39.799	-75.50103	US	DE
+Foulk Woods	39.81261	-75.52048	US	DE
+Four Seasons	39.62789	-75.76216	US	DE
+Fox Hollow	38.7015	-75.17046	US	DE
+Fox Woods	39.6715	-75.68271	US	DE
+Foxfire	39.73345	-75.71354	US	DE
+Fraland Cove	39.31789	-75.44909	US	DE
+Frames Point	38.5915	-75.19546	US	DE
+Frankford	38.51734	-75.23491	US	DE
+Frasers Corner	39.57983	-75.76632	US	DE
+Frederica	39.009	-75.46575	US	DE
+Frederick Acres	38.60011	-75.51159	US	DE
+Fredericks Addition	39.74039	-75.61076	US	DE
+Freeman Corner	38.88678	-75.45714	US	DE
+Freidel Prong	38.6915	-75.63326	US	DE
+Friedel Property	38.65706	-75.57993	US	DE
+Galewood	39.79178	-75.52603	US	DE
+Gambles Gut	39.63733	-75.60243	US	DE
+Gams Crest	39.55011	-75.64687	US	DE
+Garton Development	39.11261	-75.55937	US	DE
+Generals Greene	39.12595	-75.41686	US	DE
+George Meyers Development	39.08983	-75.49826	US	DE
+Georgetown	38.69011	-75.38547	US	DE
+Georgetown Hundred	38.66678	-75.38297	US	DE
+Gills Neck	38.76095	-75.12213	US	DE
+Glasgow Pines	39.61678	-75.71077	US	DE
+Glendale	39.62706	-75.66854	US	DE
+Glenville	39.71261	-75.63993	US	DE
+Goldsboro	39.15678	-75.51965	US	DE
+Goose Point	39.25095	-75.40186	US	DE
+Goose Point	39.53678	-75.77493	US	DE
+Goose Point	39.54261	-75.77382	US	DE
+Goose Point	38.50206	-75.06546	US	DE
+Glasgow	39.60483	-75.74521	US	DE
+Gordon Heights	39.75984	-75.50936	US	DE
+Granogue	39.83178	-75.58632	US	DE
+Gravel Gut	39.43206	-75.57576	US	DE
+Gran-ville	38.63706	-75.29658	US	DE
+Graylyn Crest	39.79595	-75.51631	US	DE
+Grays Prong	38.46261	-75.33408	US	DE
+Grays Prong	38.48539	-75.3388	US	DE
+Grays Point	38.5865	-75.15296	US	DE
+Grears Corners	39.36844	-75.69854	US	DE
+Green Acres	39.79039	-75.49686	US	DE
+Green Briar	39.14678	-75.67465	US	DE
+Great Geneva	39.11761	-75.51853	US	DE
+Green Valley	39.7015	-75.69049	US	DE
+Greenbank	39.739	-75.63576	US	DE
+Greenlea Acres	38.69789	-75.37464	US	DE
+Greenleaf Manor	39.68122	-75.70382	US	DE
+Greens Corners	38.99039	-75.6816	US	DE
+Greens Landing	38.65539	-75.16241	US	DE
+Greens of Dover	39.164	-75.55798	US	DE
+Greenshire	39.80095	-75.46686	US	DE
+Greentop	38.85345	-75.41853	US	DE
+Greentree	39.81483	-75.46186	US	DE
+Greenview	39.11817	-75.52465	US	DE
+Greenville	38.88622	-75.66187	US	DE
+Greenville	39.779	-75.59826	US	DE
+Greenville Development	39.7815	-75.60409	US	DE
+Greenville Manor	39.7815	-75.59548	US	DE
+Greenwood	38.80706	-75.59132	US	DE
+Greenwood Gardens	38.79678	-75.58826	US	DE
+Greylag	39.48428	-75.66771	US	DE
+Greys Neck	38.45428	-75.10463	US	DE
+Grubbs Corner	39.82928	-75.49048	US	DE
+Grubbs Corner	39.81289	-75.4852	US	DE
+Grubbs Landing	39.78622	-75.46909	US	DE
+Greens Corner	38.99039	-75.6816	US	DE
+Gull Point	38.59484	-75.20935	US	DE
+Gulls Nest	38.57595	-75.06046	US	DE
+Gumboro	38.47761	-75.36519	US	DE
+Gumboro Hundred	38.50845	-75.35797	US	DE
+Gumwood	39.78872	-75.52048	US	DE
+Gut Point	38.58956	-75.2188	US	DE
+Gwinhurst	39.79178	-75.47881	US	DE
+H and H Corner	39.37983	-75.66521	US	DE
+Hamburg Cove	39.61261	-75.60937	US	DE
+Hammville	39.22733	-75.57798	US	DE
+Hampton	39.82539	-75.52242	US	DE
+Hanbys Corner	39.82261	-75.48714	US	DE
+Harbeson	38.72483	-75.28491	US	DE
+Hardscrabble	38.61484	-75.47853	US	DE
+Hares Corner	39.66539	-75.60409	US	DE
+Harlemtown	38.69039	-75.37575	US	DE
+Harmon	38.61483	-75.20213	US	DE
+Harmony	39.69539	-75.69271	US	DE
+Harrington	38.92372	-75.5777	US	DE
+Hartly	39.16872	-75.71326	US	DE
+Haverford	39.78344	-75.6941	US	DE
+Harrington Racetrack	38.91456	-75.57381	US	DE
+Hawknest	39.05011	-75.2913	US	DE
+Hawkins Point	38.62011	-75.08657	US	DE
+Hay Hummock	38.85428	-75.25074	US	DE
+Hay Point Landing	39.3515	-75.54826	US	DE
+Hazard Cove	38.65511	-75.15157	US	DE
+Hazeldell	39.71261	-75.54687	US	DE
+Hazelwood	39.21845	-75.52604	US	DE
+Hazlettville	39.1165	-75.64215	US	DE
+Hazzard Landing	38.81039	-75.21352	US	DE
+Head of the Gut	38.6215	-75.08046	US	DE
+Heather Valley	39.76122	-75.67965	US	DE
+Heather Woods	39.62733	-75.70243	US	DE
+Heatherbrooke	39.8015	-75.51798	US	DE
+Heatherton	39.78344	-75.69966	US	DE
+Hells Neck	38.7665	-75.17324	US	DE
+Helms Cove	39.71678	-75.4802	US	DE
+Helms Landing	38.55928	-75.21602	US	DE
+Hen and Chickens Shoal	38.77817	-75.07101	US	DE
+Henderson Heights	39.71511	-75.70243	US	DE
+Henlopen Acres	38.72983	-75.08629	US	DE
+Henlopen Acres Yacht Basin	38.73206	-75.08601	US	DE
+Henlopen Keys	38.7265	-75.10074	US	DE
+Cape Henlopen	38.80317	-75.09463	US	DE
+Henry Clay	39.77039	-75.5802	US	DE
+Heritage	39.72095	-75.67743	US	DE
+Heritage Village	38.65761	-75.63159	US	DE
+Heronwood	38.76039	-75.22296	US	DE
+Hawks Nest Shoals	38.56095	-75.68771	US	DE
+Herring Landing	38.65011	-75.13518	US	DE
+Herrings Corners	38.97233	-75.41131	US	DE
+Hesseltine Landing Strip	39.34789	-75.69243	US	DE
+Hetty Fisher Glade	38.71483	-75.16463	US	DE
+Hickory Cove	38.58817	-75.21296	US	DE
+Hickory Dale Acres	39.21178	-75.56215	US	DE
+Hickory Woods	39.59317	-75.70215	US	DE
+Hidden Acres	38.54789	-75.15102	US	DE
+Hideaway Acres	39.08678	-75.49631	US	DE
+High Point	39.77095	-75.50798	US	DE
+Highgrass Point	38.58734	-75.18796	US	DE
+Highland Acres	39.12095	-75.52187	US	DE
+Highland Acres	38.76761	-75.14657	US	DE
+Highland Acres	38.76539	-75.15518	US	DE
+Highland West	39.75706	-75.66215	US	DE
+Highland Woods	39.81678	-75.4802	US	DE
+Hoars Addition	39.214	-75.58298	US	DE
+Hockessin	39.78761	-75.6966	US	DE
+Hockessin Hunt	39.77094	-75.71466	US	DE
+Holiday Acres	38.57234	-75.26547	US	DE
+Holiday Pines	38.63428	-75.20935	US	DE
+Holland Glade	38.74095	-75.09018	US	DE
+Holland Point	38.56067	-75.21769	US	DE
+Hollandsville	38.98539	-75.66604	US	DE
+Holletts Corners	39.28956	-75.73271	US	DE
+Hollingsworth Development	39.82594	-75.61715	US	DE
+Holland Neck	38.73622	-75.09879	US	DE
+Holly Knoll	39.78844	-75.70382	US	DE
+Holly Oak	39.78845	-75.47881	US	DE
+Hollybrook Apartments	38.569	-75.5702	US	DE
+Hollyville	38.67178	-75.24213	US	DE
+Hollyville Acres	38.68845	-75.22991	US	DE
+Holtz Landing	38.5915	-75.12685	US	DE
+Hopkins Corners	38.95511	-75.6766	US	DE
+Hopkins Prong	38.93122	-75.72438	US	DE
+Hopkins Prong	38.65733	-75.16768	US	DE
+Horse Point	38.50122	-75.08046	US	DE
+Horsepen Arm	38.9215	-75.63937	US	DE
+Hourglass	39.12706	-75.68215	US	DE
+Houston	38.91761	-75.5052	US	DE
+Houston	38.78761	-75.24047	US	DE
+Howard Manor	38.55233	-75.13963	US	DE
+The Hub	38.56678	-75.18685	US	DE
+Huntley	39.13706	-75.51992	US	DE
+Huntley Circle	39.13678	-75.52159	US	DE
+Hurley Heights	38.64761	-75.61715	US	DE
+Idela	39.72511	-75.58993	US	DE
+Indian Gut	39.18817	-75.40547	US	DE
+Indian Mission	38.67345	-75.23519	US	DE
+Indian Cove	38.49067	-75.11046	US	DE
+Interchange 1	39.7165	-75.5577	US	DE
+Interchange 3	39.73567	-75.52159	US	DE
+Interchange 5	39.70067	-75.60131	US	DE
+Irons Lane Landing	38.58678	-75.14407	US	DE
+Israel Haul	38.57817	-75.18685	US	DE
+Israel Point	38.57234	-75.18602	US	DE
+Jackson Prong	39.04928	-75.69215	US	DE
+Jamestowne	39.65233	-75.64354	US	DE
+Jamisons Corner	39.50372	-75.68438	US	DE
+Jay Patch	38.49151	-75.21677	US	DE
+Jimtown	38.73206	-75.18657	US	DE
+Joe Flogger Shoal	39.15011	-75.24963	US	DE
+Joes Gut	38.48067	-75.09518	US	DE
+Joes Hole	39.22622	-75.43381	US	DE
+Joe Flogger Shoal	39.14595	-75.25408	US	DE
+Johnson Development	38.61456	-75.60104	US	DE
+Johnson Neck	38.69595	-75.11018	US	DE
+Joshia Cove	38.57928	-75.07324	US	DE
+Joshia Prong	38.58372	-75.10768	US	DE
+Keen-Wik	38.46067	-75.09018	US	DE
+Keeney	39.619	-75.70327	US	DE
+Keenwik Sound	38.47039	-75.10629	US	DE
+Keenwik West	38.47095	-75.10018	US	DE
+Kent Acres	39.13178	-75.52492	US	DE
+Kawan Acres	38.65956	-75.29852	US	DE
+Kenton	39.22761	-75.66298	US	DE
+Kenton Hundred	39.20844	-75.69965	US	DE
+Kerseys Evergreen Acres	38.56428	-75.27713	US	DE
+Kershaw Acres	39.81733	-75.51353	US	DE
+Keystone	39.7265	-75.6052	US	DE
+Kiamensi	39.72372	-75.63993	US	DE
+Kiamensi Gardens	39.72372	-75.63715	US	DE
+Kiamensi Heights	39.71956	-75.63298	US	DE
+Kildee Point	38.56372	-75.2088	US	DE
+Killens Addition	38.70178	-75.08129	US	DE
+Kimberton	39.67622	-75.72771	US	DE
+Kentmere	39.76678	-75.56131	US	DE
+Kings Croft	39.62011	-75.66604	US	DE
+Kings Grant	38.4865	-75.05296	US	DE
+Kings Second Addition	38.6915	-75.39631	US	DE
+Kinston Acres	39.62067	-75.65882	US	DE
+Kirkwood	39.57178	-75.69632	US	DE
+Kirkwood Gardens	39.74872	-75.65382	US	DE
+Kitts Hummock	39.10261	-75.40214	US	DE
+Kitts Hummock	39.10289	-75.40242	US	DE
+Kitts Hummock	39.10261	-75.40214	US	DE
+Klair Estate	39.72095	-75.65382	US	DE
+KynLyn Apartments	39.764	-75.49131	US	DE
+Labens Point	38.62345	-75.09268	US	DE
+Laffertys Corner	39.15067	-75.48576	US	DE
+Lamatan I	39.76122	-75.7441	US	DE
+Lamatan II	39.76261	-75.7491	US	DE
+Lambeth Riding	39.76539	-75.70243	US	DE
+Lancashire	39.819	-75.4902	US	DE
+Lancaster Village	39.74456	-75.58909	US	DE
+Land of Pleasant Living	38.56039	-75.11018	US	DE
+Landenberg Junction	39.73039	-75.61882	US	DE
+Landlith	39.744	-75.52937	US	DE
+Landmark Baptist Tabernacle	38.78761	-75.31825	US	DE
+Lantern Lane Mobile Villa	38.46345	-75.15657	US	DE
+Larchmont	39.79733	-75.67465	US	DE
+Laurel	38.5565	-75.57131	US	DE
+Laurel Bend	39.1365	-75.51076	US	DE
+Lavinia Causeway	38.77706	-75.31908	US	DE
+Lawndale	39.2765	-75.59048	US	DE
+Laws Point	38.48233	-75.08074	US	DE
+Layton Corners	38.899	-75.69299	US	DE
+Lebanon	39.1115	-75.50048	US	DE
+Leipsic	39.24095	-75.51687	US	DE
+Lewes	38.77456	-75.13935	US	DE
+Lewes and Rehoboth Hundred	38.73345	-75.13296	US	DE
+Lewes-Cape May Ferry	38.86678	-75.07268	US	DE
+Lewis Neck	38.47123	-75.28241	US	DE
+Lewis Prong	38.47539	-75.34186	US	DE
+Liberty	39.72872	-75.61715	US	DE
+Liftwood	39.77789	-75.52187	US	DE
+Lightfoots Furnace	38.64095	-75.57826	US	DE
+Limestone Acres	39.72511	-75.66632	US	DE
+Limestone Gap	39.72789	-75.65937	US	DE
+Limestone Gardene	39.72928	-75.66021	US	DE
+Lincoln	38.86984	-75.42297	US	DE
+Lincoln Village	38.86734	-75.43909	US	DE
+Lindell Square	39.72789	-75.67465	US	DE
+Lindell Village	39.72095	-75.66771	US	DE
+Linden Green Apartment	39.73206	-75.69132	US	DE
+Linden Heath	39.73761	-75.69549	US	DE
+Linden Square	39.72789	-75.69549	US	DE
+Lingo Cove	38.63456	-75.12741	US	DE
+Lingo Landing	38.63372	-75.12407	US	DE
+Lingo Point	38.60622	-75.15435	US	DE
+Liston Point	39.41678	-75.54131	US	DE
+Liston Range	39.32511	-75.4052	US	DE
+Liston Range	39.40428	-75.50103	US	DE
+Little Acres	38.49873	-75.55992	US	DE
+Little Baltimore	39.77372	-75.73716	US	DE
+Little Break	39.33872	-75.48326	US	DE
+Little Fork	39.24122	-75.45575	US	DE
+Little Heaven	39.04178	-75.45659	US	DE
+Little Jersey	39.55706	-75.71465	US	DE
+Little Neck	38.83817	-75.27269	US	DE
+Little Newfound Neck	38.48345	-75.34436	US	DE
+Little Sheep Hammock	38.50289	-75.08546	US	DE
+Lochwood	38.679	-75.19602	US	DE
+Locustville	39.074	-75.49409	US	DE
+London Village	39.06956	-75.53076	US	DE
+Long Acres	38.71595	-75.19074	US	DE
+Little Neck	39.30011	-75.50798	US	DE
+Long Neck	38.62011	-75.15074	US	DE
+Long Point	38.50428	-75.09157	US	DE
+Long Point	38.58761	-75.22741	US	DE
+Long Point Landing	39.30761	-75.62048	US	DE
+Long Reach	38.81039	-75.22574	US	DE
+Longwood	39.80983	-75.53853	US	DE
+Lords Corner	39.01456	-75.72326	US	DE
+Lost Stream	39.69622	-75.75494	US	DE
+Long Neck	38.62706	-75.15463	US	DE
+Loveville	39.77095	-75.66438	US	DE
+Lowe	38.52484	-75.50881	US	DE
+Lower Break	39.46289	-75.59437	US	DE
+The Lower Middle	39.03345	-75.2163	US	DE
+The Lower Middle	39.03345	-75.18713	US	DE
+Lower Moores Corner	39.1815	-75.58576	US	DE
+Lumbrook	39.68539	-75.73271	US	DE
+Luther Marvel Prong	39.0815	-75.66965	US	DE
+Lynch Heights	38.95233	-75.42547	US	DE
+Lynch Thicket	38.62567	-75.09407	US	DE
+Lyndalia	39.71817	-75.60243	US	DE
+Lynford	39.72817	-75.60548	US	DE
+Madelyn Gardens	39.78956	-75.52548	US	DE
+Magnolia	39.07122	-75.47603	US	DE
+Magnolia Shores	38.47845	-75.11463	US	DE
+Mahan	39.06595	-75.71743	US	DE
+Maloneys Landing	38.96122	-75.37103	US	DE
+Manette Heights	39.71539	-75.6566	US	DE
+Manley	39.77789	-75.69966	US	DE
+Main Maull Range	39.13484	-75.22241	US	DE
+Maplewood	38.73039	-75.13602	US	DE
+Maplecrest	39.72928	-75.65382	US	DE
+Marydel	39.11233	-75.74438	US	DE
+Masonicville	39.72095	-75.61354	US	DE
+Marydale	39.66261	-75.69827	US	DE
+Massey Landing	38.62622	-75.10407	US	DE
+Mastens Corner	38.96872	-75.61743	US	DE
+Mathews Corners	39.43956	-75.6441	US	DE
+Mayview Manor	39.70372	-75.54742	US	DE
+McClellandville	39.70956	-75.77688	US	DE
+Mayfair	39.13345	-75.53715	US	DE
+McDaniel Heights	39.80233	-75.54798	US	DE
+McDonough	39.4915	-75.64965	US	DE
+McKays Corners	39.32844	-75.74299	US	DE
+McKnatt Corners	38.94095	-75.67854	US	DE
+Mechanicsville	39.71706	-75.78355	US	DE
+Melanie	39.66233	-75.62576	US	DE
+Melvins	38.94345	-75.5227	US	DE
+Messick Development	38.7015	-75.53715	US	DE
+Mermaid	39.74289	-75.69299	US	DE
+Middleboro Crest	39.72345	-75.59159	US	DE
+Middleboro East	39.72234	-75.53909	US	DE
+Middleboro Manor	39.72372	-75.58298	US	DE
+Middleford	38.66678	-75.56715	US	DE
+Middleford Acres	38.68067	-75.60882	US	DE
+Middletown	39.44956	-75.71632	US	DE
+Midnight Thicket	38.5765	-75.53853	US	DE
+Midvale	39.65983	-75.61048	US	DE
+Midvalf	39.659	-75.61354	US	DE
+Midway	38.72817	-75.12935	US	DE
+Milford	38.91261	-75.42797	US	DE
+Milford Hundred	38.98345	-75.41631	US	DE
+Milford Neck	39.00011	-75.38297	US	DE
+Milton	38.77761	-75.30991	US	DE
+Minquadale	39.70706	-75.56659	US	DE
+Minquadale Assembly of God	39.71039	-75.56492	US	DE
+Mispillion Hundred	38.95011	-75.66632	US	DE
+Mispillion Light	38.94733	-75.31491	US	DE
+Mispillion Marina	38.91595	-75.40381	US	DE
+Mission	38.5465	-75.35436	US	DE
+Montchan	39.7765	-75.59215	US	DE
+Montchanin	39.78983	-75.58909	US	DE
+Montclare	39.7265	-75.67604	US	DE
+Montgomery Woods	39.79733	-75.6691	US	DE
+Moores Acres	39.61872	-75.66354	US	DE
+Moores Corner	39.20956	-75.60548	US	DE
+Muddy Neck	38.51956	-75.08435	US	DE
+Mulberry Landing	38.48595	-75.07629	US	DE
+Mumford Manor	38.569	-75.56298	US	DE
+Murderkill Neck	39.04317	-75.43297	US	DE
+Murrays Corner	38.75206	-75.15018	US	DE
+Murrays Development	38.69734	-75.38269	US	DE
+Murrays Haven	38.54845	-75.10185	US	DE
+Murry Landing	38.57067	-75.09296	US	DE
+Myrkle Gut	39.25095	-75.41131	US	DE
+Naaman	39.81206	-75.44381	US	DE
+Naamans Gardens	39.82511	-75.51631	US	DE
+Naamans Manor	39.82289	-75.50048	US	DE
+Nandains Landing	39.26261	-75.52742	US	DE
+Nanticoke Acres	38.63956	-75.58465	US	DE
+Nanticoke Acres Annex	38.64011	-75.58048	US	DE
+Nanticoke Hundred	38.70845	-75.50798	US	DE
+The Narrows	38.49567	-75.05657	US	DE
+The Narrows	38.64178	-75.13157	US	DE
+Nassau	38.75206	-75.18769	US	DE
+Nats Cove	38.63456	-75.10879	US	DE
+Naylors Corners	39.39456	-75.64215	US	DE
+Nentego Manor	38.51539	-75.36047	US	DE
+New Castle	39.66206	-75.56631	US	DE
+New Castle Hundred	39.63345	-75.61632	US	DE
+New Castle Range	39.58345	-75.56076	US	DE
+New Market	38.80734	-75.39686	US	DE
+Newark	39.68372	-75.74966	US	DE
+Newark Oaks	39.67956	-75.71688	US	DE
+Newark Revival Tabernacle	39.66567	-75.71632	US	DE
+Newport	39.71372	-75.60937	US	DE
+Newport Heights	39.714	-75.60382	US	DE
+Newton Woods	38.76706	-75.5927	US	DE
+Newtons Acres	38.58567	-75.07574	US	DE
+No Mans Friend Reach	38.80706	-75.21963	US	DE
+Normandy Manor	39.78678	-75.51409	US	DE
+North Jetty Light	38.79456	-75.15713	US	DE
+North Minister	39.83039	-75.50298	US	DE
+North Murderkill Hundred	39.08345	-75.56631	US	DE
+North Prong	38.82345	-75.3163	US	DE
+North Shores	38.91539	-75.4477	US	DE
+North Shores	38.73622	-75.08435	US	DE
+North Shores	38.65345	-75.58298	US	DE
+North Shores Addition	38.65817	-75.57715	US	DE
+North Star	39.76122	-75.7191	US	DE
+North Star Addition	39.75844	-75.71354	US	DE
+Northcrest	39.83067	-75.49575	US	DE
+Northhurst	39.77372	-75.48436	US	DE
+Northshire	39.81817	-75.50242	US	DE
+Northwest Fork Hundred	38.78345	-75.63298	US	DE
+Northwood	39.79595	-75.50242	US	DE
+Nottingham Green	39.68622	-75.77827	US	DE
+Nottingham Manor	39.68483	-75.76632	US	DE
+Prong Number One	38.75261	-75.45853	US	DE
+North Seaford Heights	38.65511	-75.60382	US	DE
+Prong Number Two	38.88789	-75.63409	US	DE
+Cove Number Two	38.59122	-75.21658	US	DE
+Oak Drive	38.59039	-75.30519	US	DE
+Oak Hollow	39.66345	-75.64271	US	DE
+Oak Lane Manor	39.79317	-75.5302	US	DE
+Oak Orchard	38.59622	-75.17269	US	DE
+Oak Point Acres	39.09928	-75.66132	US	DE
+Oakdale	39.66595	-75.69771	US	DE
+Oakland	39.68067	-75.76494	US	DE
+Oakley	38.8065	-75.48881	US	DE
+Oakmont	39.71122	-75.55242	US	DE
+Oaktree Apartments	39.64733	-75.78299	US	DE
+Oberod Episcopal Diocese of Delaware	39.82706	-75.6316	US	DE
+Ocean Village	38.55706	-75.05935	US	DE
+Odessa	39.45733	-75.66132	US	DE
+Odessa Heights	39.45233	-75.66215	US	DE
+Ogletown	39.67817	-75.69743	US	DE
+Oak Acres	38.49456	-75.11185	US	DE
+Old Basin Cove	38.5965	-75.06796	US	DE
+Old Inlet Point	38.46289	-75.05685	US	DE
+Old Landing	38.58428	-75.26908	US	DE
+Old Landing	38.68706	-75.12796	US	DE
+Old Landing Woods	38.7015	-75.13379	US	DE
+Old Furnace	38.66678	-75.51631	US	DE
+Old Ship Channel	38.61956	-75.07268	US	DE
+Old Womans Gut	39.19845	-75.42659	US	DE
+Omar	38.52734	-75.19963	US	DE
+Orchard Acres	39.03289	-75.54437	US	DE
+Orchard Manor	38.59983	-75.17935	US	DE
+Overbrook	38.76761	-75.21491	US	DE
+Overbrook Shores	38.75845	-75.22519	US	DE
+Overlook Colony	39.80428	-75.46909	US	DE
+Overview Gardens	39.714	-75.5652	US	DE
+Owens	38.80567	-75.52604	US	DE
+Old Stone Tavern	39.16261	-75.44603	US	DE
+Owls Nest	39.814	-75.63271	US	DE
+Paden Corner	39.15567	-75.61243	US	DE
+Paris Villa	39.06483	-75.52881	US	DE
+Parish of the Resurrection	39.76706	-75.71577	US	DE
+Parson Point	39.27539	-75.48214	US	DE
+Pasture Point	39.28678	-75.48631	US	DE
+Pasture Point	38.58428	-75.08768	US	DE
+Pasture Point Cove	38.58122	-75.08379	US	DE
+Parson Landing Strip	38.46734	-75.65021	US	DE
+Pea Patch Shoal	39.57928	-75.56354	US	DE
+Pearsons Corner	39.154	-75.64965	US	DE
+Penarth	39.80706	-75.5177	US	DE
+Pencader	39.67317	-75.74216	US	DE
+Pencader Hundred	39.63344	-75.73299	US	DE
+Pencader Village	39.63122	-75.74882	US	DE
+Pendrew Manor	39.71817	-75.66493	US	DE
+Penn Acres	39.68011	-75.58215	US	DE
+Penn Acres South	39.67428	-75.58937	US	DE
+Penn Rose	39.75845	-75.52187	US	DE
+Penndrew Manor	39.71817	-75.66632	US	DE
+Pennington	39.82845	-75.51437	US	DE
+Pennock	39.71456	-75.68715	US	DE
+Pennwood	39.12733	-75.51298	US	DE
+Penny Acres	39.76428	-75.51603	US	DE
+Pentland	39.82094	-75.63437	US	DE
+Pepper	38.54178	-75.47714	US	DE
+Pembrey	39.80567	-75.52603	US	DE
+Pepper Tract	38.53206	-75.47048	US	DE
+Pepperbox	38.49873	-75.43964	US	DE
+Peppers Landing	38.4765	-75.07796	US	DE
+Pershing Cove	38.57984	-75.18407	US	DE
+Persimmon Hummock	39.34039	-75.48714	US	DE
+Perth	39.80372	-75.52381	US	DE
+Petersburg	39.04928	-75.64826	US	DE
+Piermont Woods	39.64595	-75.7066	US	DE
+Pierson Cove	39.33733	-75.47687	US	DE
+Pigeon Point	39.69928	-75.5227	US	DE
+Pikes Neck	38.81706	-75.28769	US	DE
+Pilgrim Tabernacle	39.64372	-75.73049	US	DE
+Pilottown	38.77983	-75.15241	US	DE
+Pine Tree Corners	39.40733	-75.66132	US	DE
+Pine Water Landing	38.6565	-75.1713	US	DE
+Pine Water Neck	38.6615	-75.18102	US	DE
+Pinecrest	39.71483	-75.67049	US	DE
+Pinetown	38.74539	-75.2238	US	DE
+Piney Neck	38.57511	-75.20796	US	DE
+Piney Point	38.56456	-75.08574	US	DE
+Pingally Point	38.569	-75.09379	US	DE
+Pleasanton Acres	39.20011	-75.50381	US	DE
+Pleasantville	39.664	-75.62604	US	DE
+Plymouth	39.03122	-75.56159	US	DE
+Piney Glade	38.72678	-75.12157	US	DE
+Point Breeze	39.37706	-75.66493	US	DE
+Pools Bottom	39.48345	-75.62187	US	DE
+Pools Point	38.56984	-75.18908	US	DE
+Poplar Point	39.28178	-75.47326	US	DE
+Poplar Point	38.56845	-75.1963	US	DE
+Port Mahon	39.18539	-75.40103	US	DE
+Port Penn	39.51678	-75.57659	US	DE
+Porter	39.60039	-75.68993	US	DE
+Porter Square	39.59011	-75.72299	US	DE
+Portsville	38.56206	-75.62993	US	DE
+Possum Point	38.584	-75.26269	US	DE
+Postles Corner	39.13483	-75.44798	US	DE
+Pot Nets Point	38.60983	-75.14574	US	DE
+Pot Nets West	38.62456	-75.17463	US	DE
+Powells Corners	39.30733	-75.69521	US	DE
+Powelton	38.88706	-75.5752	US	DE
+Pot Nets Cove	38.61067	-75.14324	US	DE
+Presbyterian Cooperative Parish	39.55595	-75.65243	US	DE
+Price Prong	38.9315	-75.72493	US	DE
+Prices Corners	39.33067	-75.68437	US	DE
+Prime Hook National Wildlife Refuge	38.84701	-75.26075	US	DE
+Prices Corner	39.73706	-75.62215	US	DE
+Prince George Acres	38.54539	-75.23158	US	DE
+Princeton Wood II	39.64011	-75.65993	US	DE
+Prong Number Two	38.88678	-75.62909	US	DE
+Primehook Neck	38.84678	-75.27491	US	DE
+The Pullover	38.63289	-75.10074	US	DE
+Pusey Development	38.54762	-75.57965	US	DE
+Quakers Heights	38.75511	-75.1588	US	DE
+Quakertown	38.75539	-75.15935	US	DE
+Queens Quest	38.48428	-75.05296	US	DE
+Quillens Point	38.58983	-75.0749	US	DE
+Quillens Point	38.5865	-75.07268	US	DE
+Raccoon Cove	38.62706	-75.09018	US	DE
+Quarter Gut	39.30289	-75.48326	US	DE
+Raccoon Prong	38.51984	-75.46381	US	DE
+Raccoon Point	38.62872	-75.09101	US	DE
+Radnor Green	39.80845	-75.4727	US	DE
+Raintree Village	39.65428	-75.68021	US	DE
+Ralphs	38.50095	-75.63632	US	DE
+Rambleton Acres	39.66233	-75.61743	US	DE
+Rack Turn Point	38.60595	-75.07824	US	DE
+Raymond Gut	39.2515	-75.4577	US	DE
+Raymond Pool	39.25921	-75.46467	US	DE
+Red Bank	39.42233	-75.6002	US	DE
+Redden	38.7415	-75.41714	US	DE
+Redmont	39.7165	-75.63521	US	DE
+Reedy Point	39.56261	-75.56187	US	DE
+Reedy Point	38.5015	-75.06296	US	DE
+Rehoboth Manor	38.70678	-75.09046	US	DE
+Religious Society of Friends	38.72789	-75.08101	US	DE
+Revills Landing	38.94678	-75.35103	US	DE
+Reybold	39.59233	-75.63021	US	DE
+Reybold Cove	39.59039	-75.60382	US	DE
+Reynolds Corners	39.32011	-75.70604	US	DE
+Richard Heights	38.67511	-75.63854	US	DE
+Ricland Heights	38.674	-75.63826	US	DE
+Rising Sun	39.10039	-75.51548	US	DE
+Robbins	38.76206	-75.42159	US	DE
+Robertson Landing	38.80539	-75.24297	US	DE
+Robinson Landing	38.69317	-75.14157	US	DE
+Robinsonville	38.71372	-75.19213	US	DE
+Robscott Manor	39.65706	-75.74688	US	DE
+Red Lion Hundred	39.59178	-75.66632	US	DE
+Rodney Village	39.13206	-75.53242	US	DE
+Rodric Village	39.1315	-75.5177	US	DE
+Roesville	38.99789	-75.52826	US	DE
+Rodney Square	39.74595	-75.54687	US	DE
+Rogers Development	38.70095	-75.36408	US	DE
+Rogers Haven	38.55983	-75.09407	US	DE
+Rogers Manor	39.67372	-75.56104	US	DE
+Roosevelt Inlet	38.79289	-75.15796	US	DE
+Ross	38.65678	-75.62104	US	DE
+Ross Mansion	38.65928	-75.61937	US	DE
+Ross Prong	39.09039	-75.65326	US	DE
+Rogers Corners	39.71122	-75.54687	US	DE
+Roxana	38.4965	-75.16963	US	DE
+Roxford	38.55011	-75.13018	US	DE
+Royal Grant	39.11233	-75.52576	US	DE
+Ruthby	39.68567	-75.70215	US	DE
+Rutherford	39.689	-75.68021	US	DE
+Rye Hole	38.76456	-75.54465	US	DE
+Saint Augustine Landing	39.49567	-75.58715	US	DE
+Saint George	38.499	-75.58465	US	DE
+Saint Georges	39.55511	-75.65021	US	DE
+Saint Georges Hundred	39.53345	-75.66632	US	DE
+Saint Georges Heights	39.564	-75.65187	US	DE
+Saint Johnstown	38.80511	-75.57548	US	DE
+Dover Behavioral Health System	39.15355	-75.48432	US	DE
+Saint Jones Neck	39.08789	-75.42742	US	DE
+Saint Johns Cathedral	39.75234	-75.54131	US	DE
+Saint Joseph on-the-Brandywine	39.77233	-75.58854	US	DE
+Saint Patricks Monastery	39.79428	-75.4877	US	DE
+Saint Peters Cathedral	39.74261	-75.5527	US	DE
+Saint Thomas Parish	39.68011	-75.75382	US	DE
+Salem Cove	39.56761	-75.51964	US	DE
+Salem Village	39.66678	-75.70021	US	DE
+Salem Woods	39.64456	-75.69688	US	DE
+Sally Cove	38.6515	-75.12741	US	DE
+Sand Dunes Village	38.75678	-75.18018	US	DE
+Sand Point	38.619	-75.10685	US	DE
+Saint Michaels Day Nursery, Incorporated	39.74122	-75.55131	US	DE
+Sandy Brae	39.62844	-75.7616	US	DE
+Sandy Brae	38.73761	-75.14824	US	DE
+Sandtown	39.03345	-75.71882	US	DE
+Sandy Bray	39.62789	-75.77799	US	DE
+Sandy Fork	38.554	-75.53215	US	DE
+Sandy Landing	38.57095	-75.1788	US	DE
+Sandy Point	39.04261	-75.36964	US	DE
+Sangston Prong	38.98039	-75.73493	US	DE
+Sassafras Landing	38.499	-75.08268	US	DE
+Saulsbury Switch	38.70178	-75.34325	US	DE
+Scottish Rite Cathedral	39.76234	-75.52187	US	DE
+Scotts Corner	38.78095	-75.66715	US	DE
+Scotts Corners	38.99122	-75.37103	US	DE
+Sea Colony	38.52872	-75.0549	US	DE
+Sea Colony East	38.52872	-75.0549	US	DE
+Sea Dunes	38.47928	-75.05157	US	DE
+Sea Farers Village	38.63011	-75.17352	US	DE
+Sea Spray Village	38.73956	-75.1988	US	DE
+Seabreak	38.55372	-75.05796	US	DE
+Seabreeze	38.69595	-75.08157	US	DE
+Seaford	38.64123	-75.61104	US	DE
+Seaford Heights	38.65011	-75.60798	US	DE
+Seaford Hundred	38.64178	-75.63298	US	DE
+Seaford Kindergarten	38.63123	-75.61465	US	DE
+Seals Point	38.59011	-75.21074	US	DE
+Seaside Villas	38.48039	-75.05129	US	DE
+Seatowne	38.4815	-75.05296	US	DE
+Seeneytown	39.19983	-75.66576	US	DE
+Selbyville	38.46039	-75.22074	US	DE
+Serverson Neck	39.314	-75.51659	US	DE
+Seton	39.76984	-75.4852	US	DE
+Seton Villa	39.77095	-75.4877	US	DE
+Seven Hickories	39.21622	-75.62937	US	DE
+Shady Lane	39.119	-75.5177	US	DE
+Shady Side	38.75261	-75.20185	US	DE
+Shaffer Property	38.7565	-75.15768	US	DE
+Shaft Ox Corner	38.52484	-75.35686	US	DE
+Sharon Temple	39.75511	-75.54409	US	DE
+Sharpley	39.80011	-75.5552	US	DE
+Shawnee	38.88984	-75.45659	US	DE
+Shawnee Acres	38.89456	-75.40242	US	DE
+Shaws Corner	39.20317	-75.64882	US	DE
+Shearness Gut	39.25178	-75.43937	US	DE
+Shearness Pool	39.26714	-75.47256	US	DE
+The Shears	38.83289	-75.12574	US	DE
+The Shears	38.83345	-75.13296	US	DE
+Shell Landing	38.66595	-75.13879	US	DE
+Shell Landing Cove	38.66595	-75.13491	US	DE
+Shellburne	39.78067	-75.51214	US	DE
+Sheep Pen Landing	38.64289	-75.14768	US	DE
+Sheridan Square	39.72595	-75.65437	US	DE
+Sherwood	39.14317	-75.53437	US	DE
+Sherwood Acres	38.53622	-75.14546	US	DE
+Shenandoah	39.50539	-75.63076	US	DE
+Shingle Landing	39.54345	-75.59382	US	DE
+Shingle Point	38.70789	-75.33908	US	DE
+Shipley Heights	39.78345	-75.52464	US	DE
+Shipley Woods	39.82345	-75.53353	US	DE
+Shockley Manor	38.71678	-75.10046	US	DE
+Shockley Heights	38.71456	-75.09879	US	DE
+Shorts Corner	39.2065	-75.67243	US	DE
+Shortly	38.60734	-75.39464	US	DE
+Shuffelt Acres	38.64428	-75.67243	US	DE
+Silver Brook	39.6565	-75.75382	US	DE
+Shorts Landing	39.34983	-75.53548	US	DE
+Silverbrook	39.75456	-75.59798	US	DE
+Silverbrook Gardens	39.74178	-75.58298	US	DE
+Silverside	39.79317	-75.4902	US	DE
+Silverside Heights	39.78484	-75.4802	US	DE
+Silview	39.71289	-75.62187	US	DE
+Simon Glade	38.58067	-75.11713	US	DE
+Simonds Gardens	39.70567	-75.54353	US	DE
+Six Forks	38.88845	-75.52965	US	DE
+Skid Point	38.50095	-75.07768	US	DE
+Skyline Crest	39.72511	-75.68438	US	DE
+Skyline Orchard	39.794	-75.66632	US	DE
+Slaughter	39.15956	-75.71493	US	DE
+Sipps Point	38.70789	-75.16713	US	DE
+Sloan Cove	38.65595	-75.12935	US	DE
+Sloan Landing	38.65511	-75.13241	US	DE
+Sluice Race	39.34428	-75.48937	US	DE
+Smith Landing	38.79372	-75.27325	US	DE
+Slaughter Neck	38.87622	-75.3338	US	DE
+Smyrna	39.29983	-75.60465	US	DE
+Smyrna Landing	39.30817	-75.59354	US	DE
+Snowland	39.2465	-75.52937	US	DE
+Snows Neck	39.24733	-75.56076	US	DE
+South Bethany	38.5165	-75.05296	US	DE
+South Bowers	39.05733	-75.39742	US	DE
+South Jetty Light	38.79372	-75.15574	US	DE
+South Murderkill Hundred	39.02511	-75.56631	US	DE
+South Wilmington	39.72928	-75.54409	US	DE
+Southwest Point	38.59956	-75.07185	US	DE
+Southwood	39.78483	-75.72382	US	DE
+Spruance City	39.29456	-75.61632	US	DE
+Spruances Neck	39.25845	-75.58715	US	DE
+Stanton	39.71567	-75.64076	US	DE
+Star Landing	38.76095	-75.20241	US	DE
+Stave Landing	39.4315	-75.60104	US	DE
+Staytonville	38.84956	-75.51881	US	DE
+Steamboat Landing	38.79872	-75.24213	US	DE
+Steele Acres	38.58178	-75.07685	US	DE
+Steels Cove	38.62122	-75.10824	US	DE
+Stillman Glade	38.70261	-75.17157	US	DE
+Stockdale	39.80011	-75.45797	US	DE
+Stockley	38.64095	-75.33992	US	DE
+Stanley Manor	38.90289	-75.45937	US	DE
+Stockton	39.66983	-75.58104	US	DE
+Stonehaven	39.76539	-75.51214	US	DE
+Stones Throw	39.63344	-75.73716	US	DE
+Stones Throw	39.63483	-75.74355	US	DE
+Stockley Gut	38.62456	-75.07018	US	DE
+Stony Crest	39.74789	-75.62326	US	DE
+Stratford	39.66817	-75.63159	US	DE
+Strawberry Landing	38.50095	-75.07129	US	DE
+Strawberry Landing	38.50095	-75.07129	US	DE
+Strawberry Point	38.50233	-75.06851	US	DE
+Succor Corners	39.44928	-75.72215	US	DE
+Sugar Loaf Chase	39.48289	-75.64326	US	DE
+Summit Aviation	39.52233	-75.72049	US	DE
+Summit View	39.64733	-75.77188	US	DE
+Stumps Corners	39.41456	-75.62798	US	DE
+Sussex Correctional Institution	38.66	-75.37128	US	DE
+Sussex Shores	38.55011	-75.05713	US	DE
+Sussex Woods	38.83622	-75.43881	US	DE
+Swain Acres	38.69178	-75.39964	US	DE
+Swann Keys	38.48011	-75.08629	US	DE
+Swanwyck	39.69372	-75.56048	US	DE
+Swanwyck Gardens	39.69456	-75.56631	US	DE
+Sycamore	38.59595	-75.49048	US	DE
+Sycamore Gardens	39.69595	-75.7066	US	DE
+Tadpole Neck	39.35011	-75.51631	US	DE
+Talley Brook	39.81817	-75.53298	US	DE
+Talleys Corner	39.80817	-75.51548	US	DE
+Talleyville	39.809	-75.54881	US	DE
+Swanendael	38.76511	-75.16324	US	DE
+Tavistock	39.80567	-75.55798	US	DE
+Taylors Corner	39.38761	-75.71576	US	DE
+Taylors Gut	39.17067	-75.42186	US	DE
+Taylors Gut	39.33622	-75.50298	US	DE
+Taylors Gut Landing	39.32761	-75.51492	US	DE
+Taylortown	39.64733	-75.67132	US	DE
+Teaberry Woods	38.47067	-75.09741	US	DE
+Temple Beth El	39.68039	-75.75521	US	DE
+Temple Beth Emeth	39.76539	-75.52464	US	DE
+Tenby Chase	39.76817	-75.72882	US	DE
+Tent	39.35733	-75.60604	US	DE
+Terrapin Gut	39.25845	-75.41048	US	DE
+Thatchers Landing	38.5565	-75.20185	US	DE
+The Blades	39.11678	-75.52881	US	DE
+The Bluffs	39.72789	-75.70382	US	DE
+The Cedars	39.74039	-75.63298	US	DE
+The Elementary Workshop	39.74095	-75.5427	US	DE
+The Elms	39.67428	-75.69354	US	DE
+The Glade	38.73622	-75.09963	US	DE
+The Green	39.66039	-75.56354	US	DE
+The Hamlet	39.16956	-75.54826	US	DE
+The Heath	38.90706	-75.45798	US	DE
+The Highlands	39.72095	-75.68299	US	DE
+The Landing	38.59289	-75.2138	US	DE
+The Landing	38.714	-75.13018	US	DE
+The Narrows	38.49345	-75.07629	US	DE
+The Oaks	38.664	-75.59826	US	DE
+The Reservation	38.57372	-75.07796	US	DE
+The Shoals	38.47733	-75.05129	US	DE
+The Timbers	39.82567	-75.47909	US	DE
+The Villa	39.66345	-75.64271	US	DE
+The Willows	38.68678	-75.18352	US	DE
+The Woods	39.68456	-75.63687	US	DE
+Thomas Corners	39.30372	-75.68076	US	DE
+Thomas Corners	39.44622	-75.62965	US	DE
+Thomas Landing	39.44817	-75.61298	US	DE
+Thompson	39.72928	-75.7566	US	DE
+Thompsonville	38.99956	-75.38964	US	DE
+Thoroughfare Neck	39.37567	-75.53715	US	DE
+Three Points	38.58261	-75.18074	US	DE
+Thrumcap	39.2765	-75.41909	US	DE
+Thorntown	39.51789	-75.6027	US	DE
+Tidbury Manor	39.11622	-75.51437	US	DE
+Timmons Cove	38.56761	-75.20185	US	DE
+Tinks Landing	38.48428	-75.0699	US	DE
+Tower Number Eight	38.77956	-75.11963	US	DE
+Tower Number Five	38.79428	-75.09129	US	DE
+Tower Number Four	38.77622	-75.0924	US	DE
+Tower Number Four A	38.78817	-75.09463	US	DE
+Tower Number Seven	38.77595	-75.10018	US	DE
+Tower Shores	38.584	-75.06074	US	DE
+Town Point	39.08095	-75.42853	US	DE
+Towne Point	39.17789	-75.51631	US	DE
+Townsend	39.39511	-75.6916	US	DE
+Tree Top Valley	39.77511	-75.68299	US	DE
+Trepagnier	39.77928	-75.66854	US	DE
+Trinity	38.62456	-75.18657	US	DE
+Tru Vale Acres	38.73206	-75.12407	US	DE
+Truitts Midway Development	38.73067	-75.13491	US	DE
+Top of the Wedge	39.70844	-75.77883	US	DE
+Tubbs Cove	38.46317	-75.06935	US	DE
+Tuckahoe Acres	38.589	-75.12046	US	DE
+Turnkey	39.08817	-75.54742	US	DE
+Turnip Patch Point	38.57095	-75.19546	US	DE
+Twin Oaks	39.78484	-75.53576	US	DE
+Tybouts Corner	39.62011	-75.64215	US	DE
+Tybrook	39.74872	-75.63159	US	DE
+US 13 Dragway	38.46928	-75.5627	US	DE
+Underwood Corner	39.24456	-75.68021	US	DE
+Upper Break	39.47011	-75.59576	US	DE
+Valley View	39.79733	-75.67743	US	DE
+Vance Neck	39.47539	-75.61771	US	DE
+Vandyke	39.35733	-75.74493	US	DE
+Varlano	39.65928	-75.67326	US	DE
+Vaughn Landing	38.77872	-75.28213	US	DE
+Vernon	38.89345	-75.65271	US	DE
+Victoria Woods	39.66067	-75.64271	US	DE
+Viola	39.04289	-75.57187	US	DE
+Voshell Cove	39.169	-75.60465	US	DE
+WDEL Radio Tower	39.81595	-75.52992	US	DE
+WDSP Radio Tower	39.65761	-75.61132	US	DE
+WGMD Radio Tower	38.704	-75.19991	US	DE
+WIBR Radio Tower	39.73317	-75.52964	US	DE
+Walker	39.34178	-75.6027	US	DE
+Walkers Acres	38.80484	-75.43131	US	DE
+Vintage Village	39.78844	-75.7066	US	DE
+Walter Point	38.58511	-75.1049	US	DE
+Waples	38.82595	-75.30741	US	DE
+Ward	38.48539	-75.4777	US	DE
+Warren Landing	39.06317	-75.42547	US	DE
+Warrington Manor	38.93345	-75.56354	US	DE
+Warrington Neck	38.69261	-75.12852	US	DE
+Warwick	38.60317	-75.23047	US	DE
+Warwick Cove	38.59567	-75.20352	US	DE
+Warwick Gut	38.59122	-75.21908	US	DE
+Ware Cove	38.58484	-75.19935	US	DE
+Warwick Point	38.589	-75.20685	US	DE
+Washington Heights	39.7265	-75.63854	US	DE
+Washington Heights	38.71261	-75.09546	US	DE
+Waterview Acres	38.64095	-75.54548	US	DE
+Ways Corner	39.82483	-75.50103	US	DE
+Webb Landing	39.04622	-75.39325	US	DE
+Webb Landing	38.7115	-75.18019	US	DE
+Webb Manor	38.90234	-75.44631	US	DE
+The Wedge	39.70844	-75.78299	US	DE
+Wedgewood	39.13345	-75.5427	US	DE
+Wedgewood	39.64595	-75.64132	US	DE
+Weldin Woods	39.78289	-75.52353	US	DE
+Wellington Woods	39.62567	-75.69271	US	DE
+Weber Tract	39.82706	-75.50575	US	DE
+Welshire	39.78484	-75.51631	US	DE
+Wembly	39.79261	-75.48798	US	DE
+Wescoats Corner	38.75178	-75.16435	US	DE
+West Dover Hundred	39.14178	-75.69132	US	DE
+West Haven	39.75984	-75.59131	US	DE
+West Minquadale	39.71261	-75.56715	US	DE
+West Rehoboth	38.71483	-75.10046	US	DE
+West Riding	39.76817	-75.64965	US	DE
+West Yard	39.73122	-75.56798	US	DE
+Westerlee	38.45845	-75.58854	US	DE
+Westerloo	39.83289	-75.49909	US	DE
+Westminster	39.75706	-75.64687	US	DE
+Westmont	39.75511	-75.64965	US	DE
+Westview	39.72095	-75.6177	US	DE
+Westwood Manor	39.80011	-75.50103	US	DE
+Westwoods	38.49511	-75.37158	US	DE
+Whale Back	38.84595	-75.19963	US	DE
+Whaleys Corners	38.65234	-75.4302	US	DE
+Wheel of Fortune	39.21511	-75.51242	US	DE
+White Briar	39.78844	-75.68577	US	DE
+White Neck	38.79761	-75.2338	US	DE
+White Neck	38.57206	-75.13824	US	DE
+White Oak Point	38.68483	-75.11824	US	DE
+Whiteleysburg	38.95761	-75.7316	US	DE
+Whites Village	39.81928	-75.4552	US	DE
+Whitesville	38.45873	-75.42686	US	DE
+Wickwood	39.79289	-75.52853	US	DE
+Wier Gut	39.259	-75.44242	US	DE
+William Ritter Manor	38.62983	-75.18435	US	DE
+Williamsburg	39.58539	-75.68438	US	DE
+Williamsville	38.89567	-75.50992	US	DE
+Williamsville	38.46011	-75.13324	US	DE
+Wilmington	39.74595	-75.54659	US	DE
+Wilmington Hundred	39.68345	-75.58298	US	DE
+Wilmington Manor	39.68678	-75.58437	US	DE
+Wilmington Manor Gardens	39.67289	-75.58131	US	DE
+Wilmington Merchandise Mart	39.75428	-75.51214	US	DE
+Wilmont	39.80706	-75.53715	US	DE
+Wilsmere Yards	39.73122	-75.60937	US	DE
+Wilson	39.66094	-75.73799	US	DE
+Windward	39.77511	-75.64132	US	DE
+Windy Bush	39.80011	-75.49131	US	DE
+Windy Way	39.26039	-75.58909	US	DE
+Winterbury	39.76122	-75.65799	US	DE
+Winterthur	39.80289	-75.59159	US	DE
+Winterthur Gardens	39.80761	-75.60298	US	DE
+Wire Gut	39.31706	-75.49409	US	DE
+Wisseman Acres	38.90567	-75.4552	US	DE
+Wolfe Glade	38.75928	-75.11157	US	DE
+Wiltbank Landing	38.80872	-75.24019	US	DE
+Wolfe Neck	38.75011	-75.10851	US	DE
+Wood Wards Addition	39.73622	-75.61354	US	DE
+Woodbine	39.81261	-75.52881	US	DE
+Woodbrook	39.794	-75.55798	US	DE
+Woodcrest	39.17372	-75.54131	US	DE
+Woodcrest	39.72095	-75.60243	US	DE
+Wooddale	39.76622	-75.63687	US	DE
+Wooded Acres	38.61734	-75.55048	US	DE
+Woodenhawk	38.79178	-75.69021	US	DE
+Woodland	39.74595	-75.61632	US	DE
+Woodland	38.60011	-75.65798	US	DE
+Woodland Ferry	38.59928	-75.65576	US	DE
+Woodland Heights	38.56345	-75.57465	US	DE
+Woods Edge	38.70067	-75.16713	US	DE
+Woods Haven	38.93067	-75.41353	US	DE
+Woods Manor	39.12983	-75.51881	US	DE
+Woods Manor East	39.13095	-75.50853	US	DE
+Woodshade	39.65428	-75.68299	US	DE
+Woodside	39.0715	-75.56826	US	DE
+Woodside Manor	39.589	-75.72466	US	DE
+Workmans Corners	38.59817	-75.39325	US	DE
+Worthland	39.80845	-75.44964	US	DE
+Wycliff	39.789	-75.49131	US	DE
+Wynnewood	39.82261	-75.50103	US	DE
+Wyoming	39.11817	-75.55881	US	DE
+Yellowbank Point	38.594	-75.18519	US	DE
+York Towne	39.764	-75.73299	US	DE
+Yorklyn	39.80817	-75.67549	US	DE
+Yorkshire	39.65289	-75.74132	US	DE
+Zurkow Development	39.16511	-75.55965	US	DE
+Zoar	38.64706	-75.29714	US	DE
+Whigville	39.22233	-75.67187	US	DE
+Candlewicke	39.12095	-75.51992	US	DE
+Frames Cove	38.59345	-75.1913	US	DE
+Raymond Neck	39.25956	-75.50798	US	DE
+Interchange 5 (I-95)	39.70705	-75.59426	US	DE
+Airway Science	39.18583	-75.53944	US	DE
+W Richard Wynder Towers	39.18417	-75.54472	US	DE
+EMBASSY STES NEWARK WLMGT	39.65912	-75.75354	US	DE
+Police Athletic League of Delaware	39.70189	-75.56178	US	DE
+Delaware State Police Troop 9	39.45572	-75.66063	US	DE
+Delaware State Police Troop 3	39.08988	-75.55794	US	DE
+Delaware State Police Troop 4	38.66353	-75.37935	US	DE
+Delaware State Police Troop 5	38.7261	-75.59139	US	DE
+Delaware State Police Troop 6	39.73732	-75.62779	US	DE
+Delaware State Police Troop 7	38.73944	-75.14682	US	DE
+Delaware State Police Troop 1	39.76949	-75.5037	US	DE
+Delaware State Police Troop 2	39.60498	-75.72914	US	DE
+Analine Village	39.8144	-75.4424	US	DE
+Ballymeade	39.8269	-75.4942	US	DE
+Beau Tree	39.8355	-75.5164	US	DE
+Brandywine Commons	39.8183	-75.5495	US	DE
+Cedartree	39.825	-75.4937	US	DE
+Centreville Tract	39.8119	-75.623	US	DE
+Cherrington	39.824	-75.6222	US	DE
+Clair Manor	39.8117	-75.4988	US	DE
+Dartmouth Woods II	39.8288	-75.5196	US	DE
+Kimberly Chase	39.8265	-75.5272	US	DE
+Maplechase	39.8211	-75.4999	US	DE
+Munsee	39.8186	-75.4966	US	DE
+Paramedic 4	39.8195	-75.4616	US	DE
+Quintynnes	39.8201	-75.5953	US	DE
+Ramble Woods	39.8218	-75.4697	US	DE
+Shipley Chase	39.81	-75.5333	US	DE
+Sunnybrae	39.8164	-75.5103	US	DE
+Westbrite	39.8351	-75.5202	US	DE
+White Village	39.8192	-75.4548	US	DE
+Williamhurst	39.8221	-75.5918	US	DE
+Woodacres	39.8154	-75.4605	US	DE
+Woodstream Gardens	39.8155	-75.4572	US	DE
+Wynleigh	39.8152	-75.6125	US	DE
+Delaware State Emergency Management Agency	39.31915	-75.60741	US	DE
+Delaware Geological Survey	39.6785	-75.7488	US	DE
+Delaware Geological Survey Annex	39.6778	-75.7486	US	DE
+Mid-Town Tabernacle	39.44835	-75.71688	US	DE
+Iglesia Cristiana Luz y Vida	39.64212	-75.66395	US	DE
+Centro Cristiano Vino Nuevo	39.64744	-75.63803	US	DE
+Christiana Care Eugene du Pont Preventive Medicine Institute at Pelleport	39.76917	-75.58956	US	DE
+Evangelistic Temple of Truth	39.74155	-75.56716	US	DE
+United Way of Delaware Statewide Headquarters	39.743	-75.5514	US	DE
+American Red Cross	39.7459	-75.5482	US	DE
+Howard R Young Correctional Institution	39.74155	-75.52966	US	DE
+Greater Love Temple	39.14685	-75.50279	US	DE
+Town of Ellendale	38.81025	-75.4249	US	DE
+Town of Elsmere	39.73848	-75.59459	US	DE
+Town of Felton	39.01243	-75.5762	US	DE
+Town of Frankford	38.52146	-75.2342	US	DE
+Town of Frederica	39.00806	-75.46592	US	DE
+Town of Georgetown	38.68995	-75.38728	US	DE
+Town of Greenwood	38.80684	-75.59067	US	DE
+Town of Hartly	39.16838	-75.71235	US	DE
+Town of Henlopen Acres	38.72556	-75.08498	US	DE
+Town of Houston	38.91771	-75.50411	US	DE
+City of Dover	39.15996	-75.52037	US	DE
+City of Harrington	38.92431	-75.57048	US	DE
+City of Lewes	38.77979	-75.1457	US	DE
+City of Milford	38.9092	-75.42333	US	DE
+City of Newark	39.67758	-75.75731	US	DE
+City of Seaford	38.65384	-75.6118	US	DE
+City of Wilmington	39.73485	-75.52844	US	DE
+Town of Bellefonte	39.76689	-75.49816	US	DE
+Town of Bethel	38.57056	-75.61938	US	DE
+Town of Blades	38.63531	-75.60241	US	DE
+Town of Bowers	39.06048	-75.40139	US	DE
+Town of Camden	39.09903	-75.55696	US	DE
+Town of Cheswold	39.2223	-75.59117	US	DE
+Town of Clayton	39.27531	-75.63099	US	DE
+Town of Dagsboro	38.54658	-75.24662	US	DE
+Town of Delmar	38.46066	-75.56084	US	DE
+Town of Kenton	39.22727	-75.66459	US	DE
+Town of Laurel	38.55585	-75.57274	US	DE
+Town of Leipsic	39.24294	-75.51545	US	DE
+Town of Magnolia	39.0718	-75.47575	US	DE
+Town of Middletown	39.4452	-75.71682	US	DE
+Town of Milton	38.77506	-75.31035	US	DE
+Town of Newport	39.71364	-75.60507	US	DE
+Town of Ocean View	38.53162	-75.11074	US	DE
+Town of Odessa	39.45622	-75.66055	US	DE
+Town of Selbyville	38.46274	-75.20856	US	DE
+Town of Smyrna	39.29233	-75.60794	US	DE
+Town of South Bethany	38.51623	-75.05922	US	DE
+Town of Townsend	39.39676	-75.69456	US	DE
+Town of Viola	39.043	-75.57159	US	DE
+Town of Woodside	39.07114	-75.56668	US	DE
+Town of Wyoming	39.11435	-75.56317	US	DE
+Village of Arden	39.81125	-75.48861	US	DE
+Village of Ardencroft	39.8053	-75.48586	US	DE
+Village of Ardentown	39.80799	-75.48053	US	DE
+Ravenwood	39.29	-75.5573	US	DE
+Commerce Square	39.3018	-75.5963	US	DE
+Gardenside	39.2875	-75.6152	US	DE
+West Shore	39.2904	-75.608	US	DE
+Sheriden	39.285	-75.6038	US	DE
+Sunnyside Acres	39.2882	-75.5984	US	DE
+Burtonwood Village	39.2726	-75.5864	US	DE
+Sunnyside Village	39.2771	-75.6065	US	DE
+Kentbourne II	39.2919	-75.6897	US	DE
+Pheasant Point II	39.2742	-75.6376	US	DE
+Bechers Brook	39.2263	-75.63	US	DE
+Maplehurst	39.2508	-75.574	US	DE
+Cedar Chase	39.1951	-75.5527	US	DE
+Oak Shadows	39.184	-75.4886	US	DE
+Dover Heights	39.1687	-75.5102	US	DE
+Independence Village	39.1692	-75.5021	US	DE
+Manchester Square	39.1732	-75.5065	US	DE
+Generals Green	39.1274	-75.4921	US	DE
+Doverbrook Gardens	39.1376	-75.4706	US	DE
+Eagle Heights	39.1205	-75.4864	US	DE
+The Beeches	39.1495	-75.513	US	DE
+Pharsalia	39.1214	-75.5462	US	DE
+Woodbrook	39.1415	-75.5298	US	DE
+Village of Westover	39.1526	-75.562	US	DE
+Four Seasons	39.1663	-75.5491	US	DE
+Hunters Point	39.1661	-75.5817	US	DE
+Hidden Acres	39.1526	-75.6312	US	DE
+Quails Nest	39.1431	-75.5896	US	DE
+The Village at Wild Quail	39.1203	-75.6216	US	DE
+Rehak	39.1672	-75.7069	US	DE
+Melbourne Manor	39.1002	-75.609	US	DE
+Wynn Wood	39.0906	-75.5765	US	DE
+Viola Woods	39.0455	-75.5641	US	DE
+Bork Acres	39.0558	-75.5528	US	DE
+Alexanders Village	39.0719	-75.5215	US	DE
+Normansmeade	39.0765	-75.526	US	DE
+Derbywood	39.0888	-75.5605	US	DE
+Allee	39.1108	-75.5547	US	DE
+Eagles Nest	39.1053	-75.5328	US	DE
+The Orchard	39.0963	-75.5209	US	DE
+Cypress Gardens	39.0999	-75.489	US	DE
+Misty Pines	39.0577	-75.4778	US	DE
+Wickham Woods	39.0462	-75.4741	US	DE
+Bowers Landing	39.0514	-75.4451	US	DE
+Pickwick Acres	39.0294	-75.5297	US	DE
+Harrison Knoll	39.0321	-75.5354	US	DE
+Oaknoll	39.0335	-75.5554	US	DE
+Canterville	39.0279	-75.5508	US	DE
+Fernwood	38.9347	-75.5471	US	DE
+Pleasant Woods	38.9357	-75.5007	US	DE
+Paris Woods	38.9647	-75.52	US	DE
+Knotts Landing	38.9351	-75.4414	US	DE
+Colony West	38.9483	-75.4292	US	DE
+Dover Base Housing	39.11763	-75.48393	US	DE
+Rising Sun-Lebanon	39.09977	-75.50488	US	DE
+Woodside East	39.06756	-75.53748	US	DE
+Interchange 114	39.2821	-75.5899	US	DE
+Interchange 104	39.2047	-75.5426	US	DE
+Interchange 98	39.1659	-75.4933	US	DE
+Interchange 97	39.1473	-75.4946	US	DE
+Interchange 10	39.80302	-75.47968	US	DE
+Interchange 11	39.81545	-75.45331	US	DE
+Interchange 1A and 1B	39.64671	-75.74614	US	DE
+Interchange 2	39.7199	-75.54055	US	DE
+Interchange 3	39.67203	-75.67535	US	DE
+Interchange 4	39.75153	-75.50282	US	DE
+Interchange 4A and 4B	39.68396	-75.65644	US	DE
+Interchange 5	39.80586	-75.45158	US	DE
+Interchange 5A	39.69606	-75.61755	US	DE
+Interchange 5B	39.70015	-75.60251	US	DE
+Interchange 5C	39.70598	-75.60024	US	DE
+Interchange 6	39.74168	-75.56195	US	DE
+Interchange 7	39.75112	-75.555	US	DE
+Interchange 8A and 8B	39.76681	-75.54308	US	DE
+Interchange 9	39.77955	-75.5064	US	DE
+Greater Milford Business Complex	38.9293	-75.4516	US	DE
+Connectiv Delmarva Generation	39.7386	-75.5042	US	DE
+The Buttery Restaurant	38.77486	-75.13868	US	DE
+Temple Beth El	39.71178	-75.73485	US	DE
+City of Delaware City	39.57763	-75.59849	US	DE
+City of New Castle	39.66861	-75.56851	US	DE
+Harry's Savoy Grill	39.82367	-75.49977	US	DE
+Mid Sussex Rescue Squad	38.63711	-75.19791	US	DE
+Rohm and Haas Electric Materials Emergency Response Team	39.64907	-75.73649	US	DE
+Dover Air Force Base	39.12749	-75.47136	US	DE
+Christiana Care LifeNet	39.69055	-75.67163	US	DE
+Christiana Care LifeNet	38.69129	-75.36381	US	DE
+American Legion Ambulance	39.30183	-75.61184	US	DE
+Iglesia Gracia Divina	39.70446	-75.56462	US	DE
+Delaware State Police Headquarters	39.19317	-75.54491	US	DE
+Extreme Pizza	39.7394	-75.55237	US	DE
+Fourteen Foot Bank	39.04825	-75.1822	US	DE
+Fourteen Foot Bank Light	39.04825	-75.1822	US	DE
+Delaware Breakwater Light	38.79713	-75.10002	US	DE
+Brandywine Stes Clarion Collection	39.74218	-75.54906	US	DE

@@ -1,0 +1,2873 @@
+7 Miles Point	69.25198	-114.15516	CA	14
+Abbe Glacier	82.02212	-71.49406	CA	14
+Acadia Cove	61.32812	-64.88937	CA	14
+Acheron Head	76.45162	-101.90289	CA	14
+Acland Point	68.61914	-93.75309	CA	14
+Ad Astra Ice Cap	81.60213	-76.24597	CA	14
+Adderley Bluff	66.60086	-82.54871	CA	14
+Addington Point	74.11817	-98.01799	CA	14
+Adelaide Peninsula	68.25097	-97.50078	CA	14
+Admiralty Inlet	72.50139	-85.99987	CA	14
+Adolf Jensen Sound	69.8511	-82.49911	CA	14
+Advance Bluff	75.26827	-93.46779	CA	14
+Adversary Bank	63.62706	-91.45819	CA	14
+Agassiz Ice Cap	80.25199	-75.99627	CA	14
+Aggakjuk Point	69.28434	-77.38161	CA	14
+Aggattalik Narrows	64.71743	-97.88401	CA	14
+Aggidgen Cove	66.74393	-71.27284	CA	14
+Agiak Headland	67.8341	-111.11937	CA	14
+Agitator Reef	63.18384	-67.9645	CA	14
+Agnes Monument	70.51077	-68.19702	CA	14
+Agvik Islet	60.01712	-69.71515	CA	14
+Aiguille Shoal	63.16724	-67.9478	CA	14
+Aimauqattak Point	69.09829	-92.21539	CA	14
+Aird Point	71.38452	-74.68118	CA	14
+Air Force Glacier	81.68544	-76.57927	CA	14
+Airstrip Point	76.13496	-97.4518	CA	14
+Aivilik Point	66.51197	-86.38251	CA	14
+Aivru Itiblia Isthmus	68.71919	-89.87892	CA	14
+Akiasiurviup Paanga Cove	58.90035	-69.07773	CA	14
+Akilahaarjuk Point	64.27847	-95.72256	CA	14
+Akimiski Strait	53.08342	-82.16621	CA	14
+Aklaktalik Point	68.86216	-95.63528	CA	14
+Akpait Fiord	66.88925	-61.88956	CA	14
+Akpat	66.90956	-61.75144	CA	14
+Aktijartukan Fiord	65.1006	-63.91382	CA	14
+Aktineq Glacier	72.91668	-78.86227	CA	14
+Akuliaqatta Bluff	67.75049	-64.36347	CA	14
+Akuliaqattak Peninsula	68.83424	-68.16355	CA	14
+Akuliarattak Point	69.71364	-92.5155	CA	14
+Akuling Inlet	63.38386	-71.76494	CA	14
+Akulivik Channel	69.44694	-90.36095	CA	14
+Akulliq Point	68.84689	-90.4123	CA	14
+Akuna Point	65.18395	-66.74741	CA	14
+Akunniq Point	68.98434	-81.56529	CA	14
+Akunok Islet	60.00322	-69.74285	CA	14
+Alaska Point	68.7841	-114.77006	CA	14
+Albert Shoal	52.88342	-80.49969	CA	14
+Aleksektok Rapids	64.75073	-96.83387	CA	14
+Alert Point	82.46899	-85.91569	CA	14
+Alexander Baillie Point	76.33493	-89.81722	CA	14
+Alexandra Fiord	78.90188	-75.99665	CA	14
+Alexandra Fiord	78.88518	-75.7966	CA	14
+Alexandra Strait	69.05107	-99.76793	CA	14
+Alfred Newton Glacier	78.57965	-74.99651	CA	14
+Alfred Point	72.58466	-80.56539	CA	14
+Algerine Channel	58.41718	-78.2162	CA	14
+Alle Harbour	58.81721	-78.54948	CA	14
+Allen Glacier	78.55746	-76.19124	CA	14
+Allen Young Point	72.25134	-101.50173	CA	14
+Alle Reefs	59.36711	-69.53182	CA	14
+Alligators Teeth	63.45056	-68.03109	CA	14
+Allison Bluff	66.45085	-83.96558	CA	14
+Allison Inlet	75.05155	-99.40216	CA	14
+Alluviaq Fiord	59.49611	-65.14963	CA	14
+Alupaluk Islet	58.58143	-66.78223	CA	14
+Amadjuak	64.01733	-72.64827	CA	14
+Amadjuak Rapids	65.66745	-71.43128	CA	14
+American Harbour	66.26742	-66.56403	CA	14
+Amitioke Peninsula	68.15098	-82.04861	CA	14
+Amittok Inlet	60.42157	-64.77622	CA	14
+Amittuq Point	68.56766	-97.55077	CA	14
+Ammaaqtuuq Point	63.6215	-81.923	CA	14
+Amor Smith Inlet	63.30053	-64.54734	CA	14
+Amundsen Gulf	69.31187	-117.84002	CA	14
+Ananngiarjuk Point	67.83426	-81.93192	CA	14
+Anaqtalik Point	68.88167	-94.00455	CA	14
+Anarnittuq Harbour	66.33822	-66.91406	CA	14
+Anchor Cove	64.25075	-86.29948	CA	14
+Andersen Point	79.90186	-100.15334	CA	14
+Anderson Bluff	68.65094	-75.01487	CA	14
+Anderson Brook	63.51739	-80.88268	CA	14
+Anderson Channel	63.76727	-64.66391	CA	14
+Anderson Headland	66.36749	-71.19788	CA	14
+Andreasen Head	70.80121	-96.58412	CA	14
+Angusko Point	61.76726	-93.26681	CA	14
+Aniugalik Point	63.84098	-87.0279	CA	14
+Anna Maria Port	63.73389	-67.88102	CA	14
+Annapolis Strait	61.85042	-65.91429	CA	14
+Annie Point	76.53497	-99.069	CA	14
+Anse De Villiers	59.33371	-69.31521	CA	14
+Anstead Point	76.46842	-81.51523	CA	14
+Antoinette Glacier	80.75485	-76.26286	CA	14
+Apalooktook Point	64.23401	-76.49868	CA	14
+Apex	63.72279	-68.44669	CA	14
+Apujauvik Headland	72.7847	-93.58362	CA	14
+Aquiatulavik Point	64.36736	-74.69843	CA	14
+Archer Fiord	81.41871	-66.99324	CA	14
+Archibald Promontory	63.26722	-64.59737	CA	14
+Arctic Harbour	69.51771	-67.53026	CA	14
+Arctic Sound	67.5341	-108.85237	CA	14
+Arguyartu Point	69.01766	-67.71354	CA	14
+Arklio Glacier	80.88539	-82.8219	CA	14
+Arlagnuk Point	69.20107	-81.29865	CA	14
+Arnaq Glacier	66.58255	-62.00508	CA	14
+Arnott Strait	76.30157	-103.5699	CA	14
+Arrow Glacier	81.86041	-72.0612	CA	14
+Arrowsmith Plains	72.25134	-100.00146	CA	14
+Arthur Fiord	76.5017	-93.40107	CA	14
+Arthur Laing Peninsula	82.88546	-68.77532	CA	14
+Arviat	61.10883	-94.05848	CA	14
+Arviligaarjuk Inlet	69.67754	-92.83774	CA	14
+Ashe Inlet	62.56723	-70.5982	CA	14
+Ashington Point	76.70169	-99.4024	CA	14
+Assistance Islet	76.36839	-96.21828	CA	14
+Assomption Harbour	71.96801	-80.76532	CA	14
+Astro Glacier	79.49198	-90.20221	CA	14
+Asungasungark Cliffs	68.80669	-89.87613	CA	14
+Atanirsliq Inlet	68.43296	-89.93302	CA	14
+Athole Point	72.51806	-80.49867	CA	14
+Atkinson Point	67.9176	-102.91835	CA	14
+Atwood Point	80.55206	-83.78199	CA	14
+Augarnar Point	69.71775	-80.94859	CA	14
+Aukkarnikuluk Narrows	66.98419	-84.79899	CA	14
+Aulasivik Peninsula	70.4679	-79.1985	CA	14
+Aulatsivikjuak Point	66.30072	-65.49721	CA	14
+Aulatsivik Point	63.26455	-90.69558	CA	14
+Aulatsivik Point	66.18402	-65.63051	CA	14
+Aulatsivik Point	68.84826	-93.88923	CA	14
+Aulattivik Channel	66.20083	-84.34894	CA	14
+Aurland Fiord	81.06878	-94.41867	CA	14
+Austin Channel	75.43484	-103.26971	CA	14
+Avaaq Point	69.64835	-91.19309	CA	14
+Ava Inlet	63.8173	-71.91492	CA	14
+Ayde Point	62.51724	-69.28121	CA	14
+Ayde Point	63.25054	-68.0311	CA	14
+Ayles Fiord	82.75228	-79.99667	CA	14
+Ayles Point	82.71872	-63.74035	CA	14
+Ayunnamat Glacier	66.46742	-64.52904	CA	14
+Baad Fiord	76.46841	-86.49971	CA	14
+Baby Glacier	79.44197	-90.9674	CA	14
+Bache Peninsula	79.1352	-75.99662	CA	14
+Back Peninsula	63.72289	-80.19368	CA	14
+Back Point	68.86451	-104.52959	CA	14
+Bad Weather Cape	80.15195	-96.66913	CA	14
+Baie de Baffin	74.00135	-67.99642	CA	14
+Baie De Bonnard	59.71711	-69.58179	CA	14
+Baie De Roziere	60.5004	-69.74828	CA	14
+Baie James	53.50019	-80.49969	CA	14
+Baie Seche	58.54752	-68.25122	CA	14
+Baird Inlet	78.46855	-75.83007	CA	14
+Baird Peninsula	68.91768	-76.06496	CA	14
+Baker Foreland	62.91733	-90.7998	CA	14
+Balaena Lookout	69.73992	-67.15117	CA	14
+Balcom Inlet	62.36725	-68.69781	CA	14
+Baldwin Head	73.68474	-101.05169	CA	14
+Baldwin Walker Range	75.78484	-106.25362	CA	14
+Bals Fiord	80.40199	-95.75225	CA	14
+Banksland Islet	68.9294	-114.34708	CA	14
+Banks Peninsula	67.3175	-108.28557	CA	14
+Basset Point	63.20054	-67.9478	CA	14
+Bass Point	75.37658	-97.85188	CA	14
+Bathurst Inlet	66.83966	-108.05079	CA	14
+Bathurst Inlet	67.58411	-108.50234	CA	14
+Baumann Fiord	77.66844	-85.58255	CA	14
+Beacon Reefs	72.38465	-79.11513	CA	14
+Beak Point	61.31702	-64.83098	CA	14
+Beams Brook	73.1014	-98.21787	CA	14
+Bear and Cubs	68.60097	-97.58409	CA	14
+Bear Corner	78.13512	-87.53287	CA	14
+Bear Cove	63.58404	-84.24963	CA	14
+Bear Cove Point	63.58963	-84.09271	CA	14
+Beare Sound	62.53375	-64.98082	CA	14
+Bear Glacier	79.0213	-78.62656	CA	14
+Bear Head	76.36841	-87.88334	CA	14
+Bear Point	75.08485	-92.16765	CA	14
+Bears Paw Glacier	66.48404	-65.44446	CA	14
+Bear Strait	78.46858	-88.09973	CA	14
+Beatrice Point	74.81833	-79.86516	CA	14
+Beaumont Harbour	62.93384	-70.83142	CA	14
+Becher Peninsula	63.55056	-67.83106	CA	14
+Becher Point	68.46761	-113.25136	CA	14
+Bedford Harbour	63.40056	-71.96495	CA	14
+Beechey Point	68.17167	-107.56898	CA	14
+Beekman Peninsula	63.55054	-64.664	CA	14
+Beitstad Fiord	79.0686	-78.16391	CA	14
+Beitstad Glacier	78.94499	-79.78099	CA	14
+Belanger Rapids	66.05067	-111.21915	CA	14
+Belcher Channel	77.25178	-95.00159	CA	14
+Belcher Glacier	75.68229	-81.35431	CA	14
+Belcher Point	75.7684	-81.09866	CA	14
+Bellanca Rapids	66.3674	-110.15237	CA	14
+Bell Cove	60.2836	-68.03144	CA	14
+Bell Harbour	57.95043	-77.11612	CA	14
+Bell Inlet	59.94246	-65.08856	CA	14
+Bellot Cliff	73.90145	-97.75114	CA	14
+Bellot Point	75.20156	-92.45102	CA	14
+Bellot Strait	71.99443	-94.80611	CA	14
+Bell Peninsula	63.77569	-81.34935	CA	14
+Beluga Point	63.20884	-67.9975	CA	14
+Benedict Glacier	79.36863	-78.06379	CA	14
+Benoe Point	63.23384	-67.9811	CA	14
+Bent Glacier	81.32572	-78.26768	CA	14
+Bentham Fiord	77.13505	-80.19809	CA	14
+Berlinguet Inlet	71.16802	-85.83342	CA	14
+Bernard Harbour	68.7675	-114.70335	CA	14
+Berthe Cove	60.97798	-69.95133	CA	14
+Berthe Islet	61.73372	-72.01581	CA	14
+Berthie Harbour	65.31752	-87.33278	CA	14
+Bertrand Point	64.03398	-94.33354	CA	14
+Best Point	63.71729	-68.5478	CA	14
+Bethune Inlet	74.88493	-80.33184	CA	14
+Bettison Point	73.57924	-97.15793	CA	14
+Betzold Point	68.60102	-95.83245	CA	14
+Beverley Inlet	75.06735	-107.70721	CA	14
+Bex Point	76.74335	-90.60061	CA	14
+Beyts Cove	63.98398	-94.30023	CA	14
+Big Bend	66.76733	-116.16984	CA	14
+Big Corner Cliff	64.19385	-82.57719	CA	14
+Big Point	63.95068	-93.40014	CA	14
+Birch Point	75.3422	-105.672	CA	14
+Bird Cove	58.76261	-93.8851	CA	14
+Bird Fiord	77.1684	-86.99968	CA	14
+Bird Point	82.86879	-65.25732	CA	14
+Biserial Reefs	63.35055	-68.11451	CA	14
+Bjare Strait	81.58546	-91.46781	CA	14
+Bjorne Peninsula	77.61846	-86.99956	CA	14
+Black Bluff	61.93369	-65.09754	CA	14
+Black Bluff	70.40106	-68.4638	CA	14
+Black Boulder Point	63.50535	-91.01314	CA	14
+Black Cape	82.36023	-61.12325	CA	14
+Black Cliffs	81.94365	-62.7747	CA	14
+Black Crown Glacier	79.44867	-90.9674	CA	14
+Black Fly Cove	61.10049	-100.81758	CA	14
+Black Ledge	63.73389	-68.51449	CA	14
+Black Point	72.70137	-77.96493	CA	14
+Black Point	75.68491	-97.35179	CA	14
+Blacks Inlet	69.02464	-84.66593	CA	14
+Black Stripe Head	80.53537	-85.94928	CA	14
+Black Whale Harbour	55.1336	-78.13285	CA	14
+Blackwood Point	67.81761	-102.55158	CA	14
+Blandford Harbour	60.4335	-64.56511	CA	14
+Blind Fiord	78.23512	-86.2659	CA	14
+Blind Reef	59.03365	-68.68179	CA	14
+Blister Ice Cap	81.86881	-72.07778	CA	14
+Blizzard Point	63.71458	-92.16247	CA	14
+Blockade Bend	70.40113	-74.96464	CA	14
+Blubber Point	76.61823	-89.60041	CA	14
+Blue Fiord	77.26842	-87.08297	CA	14
+Bluegoose Prairie	65.53407	-73.49822	CA	14
+Blue Man Cape	79.75202	-86.33273	CA	14
+Bluff Head	73.68472	-81.43205	CA	14
+Blunt Peninsula	62.70046	-65.13082	CA	14
+Boas Fiord	66.80065	-62.8136	CA	14
+Boat Cove	61.70041	-71.91582	CA	14
+Boat Opening	55.65032	-77.19942	CA	14
+Boat Point	76.00727	-89.93396	CA	14
+Boger Point	77.31008	-78.83101	CA	14
+Bold Point	62.03382	-72.46564	CA	14
+Bold Point	63.90069	-92.98338	CA	14
+Bon Accord Harbour	66.30072	-67.13069	CA	14
+Bond Inlet	62.20053	-67.76441	CA	14
+Bond Point	75.28489	-96.16829	CA	14
+Boothia Isthmus	69.58443	-93.08356	CA	14
+Boothia Peninsula	71.00124	-94.00038	CA	14
+Booth Point	68.4843	-96.25059	CA	14
+Borden Peninsula	73.00138	-82.99912	CA	14
+Borealis Reef	63.96878	-93.62797	CA	14
+Borup Fiord	80.61876	-83.41525	CA	14
+Borup Point	82.93558	-77.7289	CA	14
+Bosanquet Harbour	62.66724	-70.33144	CA	14
+Bosuns Reef	58.91704	-68.43176	CA	14
+Bowden Point	75.03485	-92.23426	CA	14
+Bowdoin Point	68.61769	-78.46507	CA	14
+Bowery Inlet	82.46859	-63.17373	CA	14
+Bowes Point	67.80092	-101.93479	CA	14
+Bowl Cove	78.802	-103.72157	CA	14
+Bowser Point	64.11739	-94.43356	CA	14
+Boyer Strait	75.91825	-103.00297	CA	14
+Brabant Bluffs	68.47911	-111.02912	CA	14
+Bradford Point	75.93906	-105.58273	CA	14
+Bradley Basin	62.66731	-90.99982	CA	14
+Brands Point	68.80936	-95.23383	CA	14
+Branstock Glacier	66.63546	-65.10421	CA	14
+Brant Glacier	79.53369	-92.3944	CA	14
+Braskerud Glacier	78.26435	-78.0641	CA	14
+Braskeruds Plain	78.2518	-82.49843	CA	14
+Bray Inlet	59.817	-65.38152	CA	14
+Breaker Shoal	58.41718	-78.1828	CA	14
+Breakwater Point	81.70199	-64.77573	CA	14
+Brevoort Harbour	63.31722	-64.1306	CA	14
+Brewster Point	62.9505	-66.04758	CA	14
+Bridport Inlet	75.02624	-108.73444	CA	14
+Britannia Cliffs	76.55166	-90.56735	CA	14
+British Empire Range	82.35222	-77.4959	CA	14
+Brodeur Peninsula	72.50142	-88.00019	CA	14
+Brooks Bluff	66.20083	-84.44895	CA	14
+Brooman Point	75.38488	-97.29346	CA	14
+Broughton Channel	67.55076	-64.03013	CA	14
+Broughton Harbour	67.51746	-64.09685	CA	14
+Brown Harbour	65.9507	-65.94724	CA	14
+Brown Inlet	65.48397	-67.33077	CA	14
+Brown Sound	67.4175	-108.419	CA	14
+Bruce Harbour	62.75085	-70.13145	CA	14
+Bruce Head	72.06802	-80.5319	CA	14
+Bruce Point	76.93506	-93.90134	CA	14
+Brume Point	76.38499	-82.78216	CA	14
+Buchan Gulf	71.76375	-74.34225	CA	14
+Buck Point	61.6838	-97.76725	CA	14
+Buerger Point	62.33376	-66.21424	CA	14
+Bukken Fiord	80.71875	-94.91877	CA	14
+Bulleys Lump	81.18535	-69.24439	CA	14
+Bunde Fiord	80.60203	-94.91873	CA	14
+Bunn Inlet	69.15105	-85.08254	CA	14
+Burial Point	63.98398	-94.33354	CA	14
+Burnett Inlet	74.53485	-86.19966	CA	14
+Burnett Point	75.71824	-105.37017	CA	14
+Burnside Inlet	66.80076	-108.10219	CA	14
+Bursting Brook	63.61744	-84.28293	CA	14
+Burwash Point	68.7675	-114.77006	CA	14
+Burwash Point	56.38499	-78.79684	CA	14
+Bury Cove	65.43412	-87.08274	CA	14
+Button Point	72.85136	-76.11462	CA	14
+Byam Channel	75.2515	-105.2534	CA	14
+Byam Martin Channel	76.25156	-105.75367	CA	14
+Cache Point	68.65751	-113.43663	CA	14
+Cache Point Channel	68.61403	-113.55469	CA	14
+Cadogan Glacier	78.23104	-77.07076	CA	14
+Cadogan Inlet	78.20183	-76.16363	CA	14
+Cairn Butte	82.51861	-62.22332	CA	14
+Cairn Islet	62.00331	-72.34147	CA	14
+Cairn Point	62.70059	-97.65058	CA	14
+Cairn Point	66.36745	-69.09758	CA	14
+Calanus Harbour	60.6502	-64.68186	CA	14
+Camels Neck	63.36724	-67.88108	CA	14
+Cameron Inlet	67.23425	-87.09932	CA	14
+Canada Point	73.27918	-80.76533	CA	14
+Canaille Point	63.33385	-68.13111	CA	14
+Canoe Point	63.71734	-100.45098	CA	14
+Canon Fiord	80.002	-82.58173	CA	14
+Canon Inlet	63.10055	-71.38153	CA	14
+Canso Channel	67.251	-63.63021	CA	14
+Cape Aberdeen	77.46852	-93.53462	CA	14
+Cape Abernethy	77.7353	-100.9064	CA	14
+Cape Acadia	61.55059	-79.79947	CA	14
+Cape Acworth	72.60137	-102.43519	CA	14
+Cape Adair	71.49556	-71.56418	CA	14
+Cape Adelaide	69.4073	-101.9112	CA	14
+Cape Adelaide Regina	70.08445	-96.46744	CA	14
+Cape Admiral Collinson	70.31515	-101.6795	CA	14
+Cape Admiral M'Clintock	74.01822	-91.08333	CA	14
+Cape Ahnighito	77.735	-106.12113	CA	14
+Cape Airy	74.98487	-96.58502	CA	14
+Cape Airy	71.45126	-93.18386	CA	14
+Cape Albert	79.05187	-74.39621	CA	14
+Cape Alberta	65.51747	-74.1983	CA	14
+Cape Albert Edward	83.11893	-72.59329	CA	14
+Cape Aldrich	83.1189	-69.57526	CA	14
+Cape Aldrich	76.09325	-104.38662	CA	14
+Cape Alexander	70.41787	-96.40077	CA	14
+Cape Alexander	68.93426	-106.20218	CA	14
+Cape Alexandra	83.05225	-74.64429	CA	14
+Cape Alfred	69.67617	-101.29807	CA	14
+Cape Alfred Ernest	82.33557	-85.54894	CA	14
+Cape Allard	76.5017	-96.13489	CA	14
+Cape Allington	70.5845	-92.11675	CA	14
+Cape Allison	77.81869	-100.22302	CA	14
+Cape Anker	70.76362	-103.87093	CA	14
+Cape Anne	74.10151	-94.75053	CA	14
+Cape Antrobus	72.21799	-74.69782	CA	14
+Cape Appel	70.10111	-86.21636	CA	14
+Cape Armstrong	82.10223	-88.04987	CA	14
+Cape Arnoux	63.23381	-64.63068	CA	14
+Cape Arrowsmith	69.06774	-85.0325	CA	14
+Cape Arvinguaq	65.18269	-83.86848	CA	14
+Cape Aston	69.99133	-67.29703	CA	14
+Cape Aughterston	71.53457	-93.33387	CA	14
+Cape Austin	75.55992	-95.58477	CA	14
+Cape Back	80.94369	-67.19388	CA	14
+Cape Baffin	65.7008	-83.16551	CA	14
+Cape Bagdad	78.58526	-99.47157	CA	14
+Cape Baird	81.53528	-64.49254	CA	14
+Cape Baker	79.26862	-77.28021	CA	14
+Cape Bazin	69.63437	-77.9315	CA	14
+Cape Beaufort	68.10662	-88.2689	CA	14
+Cape Becher	76.21837	-95.38465	CA	14
+Cape Beechey	81.90195	-63.05826	CA	14
+Cape Belknap	82.5186	-62.1733	CA	14
+Cape Benjamin Smith	76.03495	-94.73451	CA	14
+Cape Bentzen	70.6207	-102.83649	CA	14
+Cape Berens	69.08441	-90.63315	CA	14
+Cape Berkeley	73.91816	-100.25159	CA	14
+Cape Bernard	70.18445	-96.51746	CA	14
+Cape Bexley	69.01749	-115.92026	CA	14
+Cape Bexley Shoal	69.06749	-115.95358	CA	14
+Cape Bicknor	82.81901	-81.29709	CA	14
+Cape Bird	72.00133	-95.21727	CA	14
+Cape Blanky	75.89604	-95.82785	CA	14
+Cape Bounty	74.86314	-109.54159	CA	14
+Cape Bourne	81.86888	-90.5841	CA	14
+Cape Bowen	72.55963	-75.54787	CA	14
+Cape Brainard	80.54376	-83.0985	CA	14
+Cape Briggs	73.63895	-96.95519	CA	14
+Cape Briggs	77.06845	-95.71837	CA	14
+Cape Britannia	68.0635	-95.46582	CA	14
+Cape Brodie	72.41805	-96.26754	CA	14
+Cape Broughton	67.65077	-63.93008	CA	14
+Cape Bullen	74.50149	-84.8994	CA	14
+Cape Burgoyne	76.78496	-90.56729	CA	14
+Cape Burney	73.09308	-76.2521	CA	14
+Cape Burpee	68.66767	-76.58165	CA	14
+Cape Bushnan	69.46775	-78.81495	CA	14
+Cape Butler	77.481	-95.99502	CA	14
+Cape Byam Martin	73.48471	-77.13131	CA	14
+Cape Bylot	65.33408	-84.13086	CA	14
+Cape Cairo	78.83539	-100.35466	CA	14
+Cape Caldwell	63.35056	-68.33113	CA	14
+Cape Caledon	75.6517	-80.46519	CA	14
+Cape Caledonia	76.5664	-108.49205	CA	14
+Cape Capel	75.01826	-97.96858	CA	14
+Cape Cargenholm	71.76793	-73.58103	CA	14
+Cape Carmichael	71.70122	-73.23097	CA	14
+Cape Carter	62.41714	-64.93083	CA	14
+Cape Chapman	69.28443	-89.08292	CA	14
+Cape Charles Yorke	73.73473	-82.81567	CA	14
+Cape Chase	78.80192	-86.63261	CA	14
+Cape Christian	70.51777	-68.28032	CA	14
+Cape Christian Frederick	69.60532	-95.08663	CA	14
+Cape Christy	63.41724	-67.79777	CA	14
+Cape Clara	72.43467	-93.467	CA	14
+Cape Clarence	73.90152	-90.16659	CA	14
+Cape Clarence Peninsula	73.90152	-90.2499	CA	14
+Cape Clear	81.63533	-65.92623	CA	14
+Cape Clerk	76.41829	-103.01983	CA	14
+Cape Coastguard	81.31882	-89.93376	CA	14
+Cape Cockburn	75.03483	-100.36902	CA	14
+Cape Cockburn	74.86832	-79.39837	CA	14
+Cape Colan	82.91882	-66.32425	CA	14
+Cape Colborne	68.96468	-105.24113	CA	14
+Cape Colby	62.95047	-64.73077	CA	14
+Cape Collingwood	76.51826	-108.50438	CA	14
+Cape Collins	76.15166	-94.86793	CA	14
+Cape Collinson	80.08522	-70.42811	CA	14
+Cape Colmer	62.98384	-71.19818	CA	14
+Cape Colquhoun	76.73221	-108.39729	CA	14
+Cape Columbia	83.11361	-69.94574	CA	14
+Cape Colville	68.75386	-94.61576	CA	14
+Cape Combermere	77.01846	-78.09752	CA	14
+Cape Come Again	71.11781	-70.78072	CA	14
+Cape Comfort	65.1341	-83.38248	CA	14
+Cape Copenhagen	71.709	-104.39844	CA	14
+Cape Coulman	72.7847	-95.70073	CA	14
+Cape Coutts	72.2513	-74.91455	CA	14
+Cape Cracroft	76.55171	-96.0683	CA	14
+Cape Cracroft	62.70047	-65.33084	CA	14
+Cape Cracroft	81.38527	-64.64275	CA	14
+Cape Crauford	73.73471	-84.84921	CA	14
+Cape Cresswell	82.63524	-63.24018	CA	14
+Cape Croker	68.11756	-107.83561	CA	14
+Cape Crozier	69.41776	-85.46609	CA	14
+Cape Cunningham	72.96811	-85.58297	CA	14
+Cape Dalgety	72.05131	-96.46752	CA	14
+Cape Daly	62.56714	-64.51417	CA	14
+Cape Daniell	75.16826	-92.40101	CA	14
+Cape Davidson	68.76773	-100.58462	CA	14
+Cape Davis	76.65157	-103.93675	CA	14
+Cape Deas	65.55079	-84.6323	CA	14
+Cape Defosse	81.23528	-65.59319	CA	14
+Cape Delano	82.71871	-63.62361	CA	14
+Cape Derby	76.68501	-91.31749	CA	14
+Cape Digges	62.58398	-77.63249	CA	14
+Cape Disraeli	76.68503	-93.18445	CA	14
+Cape Dobbs	65.23411	-86.99944	CA	14
+Cape Dominion	66.16752	-74.46499	CA	14
+Cape Donnett	74.65155	-88.90024	CA	14
+Cape Donninghausen	76.56825	-89.66715	CA	14
+Cape Donovan	64.75638	-82.33257	CA	14
+Cape Dorchester	65.45074	-77.44826	CA	14
+Cape Dorset	64.23378	-76.54372	CA	14
+Cape Dorset	64.17851	-76.48198	CA	14
+Cape Dorset Harbour	64.23821	-76.55008	CA	14
+Cape Dufferin	58.6338	-78.69951	CA	14
+Cape Duncan	52.66677	-80.71644	CA	14
+Cape Dundas	73.93475	-99.7683	CA	14
+Cape Dungeness	74.65153	-93.71793	CA	14
+Cape Dunsterville	77.95181	-75.88026	CA	14
+Cape D'Urville	79.45189	-73.91268	CA	14
+Cape Dyer	66.66734	-61.3634	CA	14
+Cape Dyer	66.61734	-61.26339	CA	14
+Cape Eardley Wilmot	74.60153	-90.46725	CA	14
+Cape Eden	73.78475	-101.035	CA	14
+Cape Edgeworth	69.3511	-96.11738	CA	14
+Cape Edwards	66.33414	-83.54883	CA	14
+Cape Edwards	64.90062	-65.91404	CA	14
+Cape Egerton	82.80231	-81.54719	CA	14
+Cape Eglinton	70.78438	-69.41393	CA	14
+Cape Ejnar Mikkelsen	70.23449	-86.56668	CA	14
+Cape Ellice	69.66778	-85.51617	CA	14
+Cape Elphinstone	76.31829	-102.71972	CA	14
+Cape Elvira	73.28061	-107.0616	CA	14
+Cape Elwyn	69.55101	-80.29838	CA	14
+Cape Enauolik	64.92438	-78.1485	CA	14
+Cape Enterprise	69.17983	-106.37993	CA	14
+Cape Ernest Kendall	69.60546	-116.90311	CA	14
+Cape Esther	72.41807	-93.53361	CA	14
+Cape Evans	82.6565	-82.2643	CA	14
+Cape Evans	75.11827	-97.60182	CA	14
+Cape Eyre	71.83461	-96.51749	CA	14
+Cape Fanshawe	73.53472	-77.41475	CA	14
+Cape Fanshawe Martin	82.91901	-80.19653	CA	14
+Cape Faraday	77.86851	-76.76389	CA	14
+Cape Farrand	71.76801	-93.68365	CA	14
+Cape Farrar	69.32191	-94.26714	CA	14
+Cape Farrington	62.85046	-64.7475	CA	14
+Cape Felix	69.90114	-97.96765	CA	14
+Cape Fernald	81.12431	-78.6138	CA	14
+Cape Finlayson	68.2343	-85.83247	CA	14
+Cape Fisher	64.68408	-82.09927	CA	14
+Cape Fisher	66.20083	-82.98206	CA	14
+Cape Fitz Roy	75.53499	-79.93167	CA	14
+Cape Fleetwood	76.56827	-103.53662	CA	14
+Cape Flinders	68.26756	-108.80247	CA	14
+Cape Francis	70.23446	-96.55077	CA	14
+Cape Francis Crozier	69.03437	-99.55119	CA	14
+Cape Franklin	68.60449	-108.34416	CA	14
+Cape Fraser	79.78521	-71.09522	CA	14
+Cape Frederick VII	82.10193	-61.90749	CA	14
+Cape Frigid	66.08412	-85.08233	CA	14
+Cape Fullerton	63.96742	-88.76634	CA	14
+Cape Garry	72.46807	-93.41699	CA	14
+Cape Geddes	68.53427	-97.95085	CA	14
+Cape Geelmuyden	71.96661	-104.78451	CA	14
+Cape Gell	75.63492	-94.91802	CA	14
+Cape George Richards	76.85159	-108.75466	CA	14
+Cape Germain	79.01877	-105.40577	CA	14
+Cape Gillman	75.0348	-104.21985	CA	14
+Cape Gleason	81.16041	-78.4137	CA	14
+Cape Gloucester	69.78443	-95.93395	CA	14
+Cape Godfred Hansen	70.28454	-86.98352	CA	14
+Cape Graham Moore	72.86806	-76.06461	CA	14
+Cape Granite	73.71818	-95.684	CA	14
+Cape Grant	73.91815	-99.43483	CA	14
+Cape Grey	73.98475	-99.03487	CA	14
+Cape Griffith	69.93441	-81.7156	CA	14
+Cape Halkett	76.75168	-100.2526	CA	14
+Cape Hamilton	69.48591	-116.61369	CA	14
+Cape Hansen	70.49861	-102.61505	CA	14
+Cape Hardy	69.40671	-95.36726	CA	14
+Cape Hardy	73.90145	-97.60941	CA	14
+Cape Hardy	75.81841	-83.73254	CA	14
+Cape Harrison	79.36861	-74.89627	CA	14
+Cape Harrison	76.46834	-90.46733	CA	14
+Cape Hatt	72.50136	-79.83186	CA	14
+Cape Haughton	71.80132	-99.76806	CA	14
+Cape Haven	62.90046	-64.59747	CA	14
+Cape Hawes	76.30163	-89.2837	CA	14
+Cape Hawks	79.53515	-73.09565	CA	14
+Cape Hay	73.73473	-79.96517	CA	14
+Cape Hay	67.91769	-95.56724	CA	14
+Cape Hayes	62.56714	-64.31415	CA	14
+Cape Head	76.06828	-102.30285	CA	14
+Cape Hearne	68.18406	-114.73652	CA	14
+Cape Hecla	82.90209	-64.85709	CA	14
+Cape Henry	79.13518	-74.57954	CA	14
+Cape Henry Kater	69.13426	-66.76342	CA	14
+Cape Henry Kellett	73.0514	-97.83437	CA	14
+Cape Herschel	78.58514	-74.57971	CA	14
+Cape Hewett	70.25525	-67.78035	CA	14
+Cape Heytesbury	71.61799	-93.68369	CA	14
+Cape Hilgard	79.66859	-72.57883	CA	14
+Cape Hobson	71.40957	-96.11744	CA	14
+Cape Hodgson	68.90104	-99.40113	CA	14
+Cape Hoey	63.1505	-64.79742	CA	14
+Cape Hooper	76.24329	-102.16958	CA	14
+Cape Hooper	68.45094	-66.66335	CA	14
+Cape Hope	69.00078	-116.2536	CA	14
+Cape Hope	66.23415	-86.08252	CA	14
+Cape Hornby	76.28498	-94.70119	CA	14
+Cape Hotham	74.68483	-93.46787	CA	14
+Cape Hotham Escarpment	74.86824	-93.45114	CA	14
+Cape Hotspur	76.16825	-104.45335	CA	14
+Cape Howe	63.08379	-64.74743	CA	14
+Cape Hunter	79.26861	-76.04659	CA	14
+Cape Hunter	71.6679	-72.49756	CA	14
+Cape Hurd	77.85182	-77.61408	CA	14
+Cape Hurd	74.53483	-89.98374	CA	14
+Cape Iliqrilik	69.76365	-92.57381	CA	14
+Cape Ingrid	78.91859	-81.74811	CA	14
+Cape Isabella	78.33513	-74.9966	CA	14
+Cape Isabella	69.45112	-93.85036	CA	14
+Cape Isachsen	79.33534	-105.47249	CA	14
+Cape James	80.85208	-79.46404	CA	14
+Cape James	64.33395	-74.13167	CA	14
+Cape James Anderson	68.20104	-87.91615	CA	14
+Cape Jameson (Ragged Point)	72.08457	-74.23106	CA	14
+Cape Jane Franklin	69.60112	-98.35101	CA	14
+Cape Jensen	69.73437	-77.5982	CA	14
+Cape Jensen	70.39998	-102.21903	CA	14
+Cape Jermain	67.76765	-81.7319	CA	14
+Cape John Dyer	73.50142	-101.61847	CA	14
+Cape John Herschel	68.68427	-98.08418	CA	14
+Cape Johnke	71.5994	-104.31587	CA	14
+Cape John Sibthorpe	72.23465	-95.20058	CA	14
+Cape Jolliffe	82.51856	-62.77347	CA	14
+Cape Jones	62.59231	-91.86662	CA	14
+Cape Jones	62.9338	-65.94757	CA	14
+Cape Joseph Good	80.25195	-69.9115	CA	14
+Cape Joseph Henry	82.81874	-63.49011	CA	14
+Cape Joy	73.65142	-83.21572	CA	14
+Cape Kater	71.95143	-90.0674	CA	14
+Cape Kaye	72.18475	-89.88394	CA	14
+Cape Kendall	68.01745	-115.08654	CA	14
+Cape Kendall	63.60067	-87.20014	CA	14
+Cape Kennedy	76.33484	-104.38671	CA	14
+Cape Ketoria	65.43407	-75.21507	CA	14
+Cape King	75.35157	-92.40105	CA	14
+Cape Kitson	76.48499	-97.70198	CA	14
+Cape Kjer	69.70115	-91.04997	CA	14
+Cape Knorr	79.88522	-70.89509	CA	14
+Cape Knud Jorgensen	72.40135	-79.38177	CA	14
+Cape Krusenstern	68.4008	-113.90316	CA	14
+Cape Kwaunang	71.98461	-80.73192	CA	14
+Cape Lady Franklin	76.6684	-98.45218	CA	14
+Cape Lady Pelly	67.45787	-87.6591	CA	14
+Cape Lady Simpson	68.201	-85.88248	CA	14
+Cape Lambert	68.5341	-114.10321	CA	14
+Cape Lamprenen	69.68434	-80.81525	CA	14
+Cape Landry	70.66802	-89.03393	CA	14
+Cape Landseer	69.51782	-94.43374	CA	14
+Cape Lawrence	80.38527	-69.42804	CA	14
+Cape Lawrence	62.96721	-67.39773	CA	14
+Cape Levvel	78.9852	-94.33486	CA	14
+Cape Liddon	74.63482	-91.08397	CA	14
+Cape Lieber	81.48527	-64.42588	CA	14
+Cape Lilly	69.70109	-82.66585	CA	14
+Cape Lindenwald	69.48436	-78.51491	CA	14
+Cape Liverpool	73.66813	-78.09816	CA	14
+Cape Lockwood	80.26873	-84.06555	CA	14
+Cape Lord Rutherford	71.69701	-73.15876	CA	14
+Cape Louis Napoleon	79.65188	-72.24548	CA	14
+Cape Low	63.11741	-85.29982	CA	14
+Cape Ludwig	77.95185	-95.11865	CA	14
+Cape L. Von Buch	80.88529	-67.52732	CA	14
+Cape Lyons	76.40164	-90.53394	CA	14
+Cape Macculloch	72.48462	-75.14783	CA	14
+Cape Macoun	81.08541	-79.04724	CA	14
+Cape Maguire	71.55128	-95.934	CA	14
+Cape Majendie	76.21837	-95.03456	CA	14
+Cape Manning	75.4683	-94.03446	CA	14
+Cape Manson	70.66791	-92.38338	CA	14
+Cape Margaret	70.15117	-91.51675	CA	14
+Cape Maria da Gloria	69.67613	-95.35747	CA	14
+Cape Martineau	66.18413	-83.66555	CA	14
+Cape Martyr	74.68486	-95.10145	CA	14
+Cape Mary	76.63498	-99.66916	CA	14
+Cape Matthew Smith	69.43437	-81.94893	CA	14
+Cape Maundy Thursday	78.46859	-92.98456	CA	14
+Cape McBain	75.08485	-92.25097	CA	14
+Cape McDoual	71.43456	-93.16726	CA	14
+Cape McLaren	66.13413	-83.79886	CA	14
+Cape M'Clintock	79.98522	-70.64496	CA	14
+Cape McLoughlin	68.74272	-85.6034	CA	14
+Cape M'Clure	72.9014	-96.70092	CA	14
+Cape McTavish	67.68428	-86.53255	CA	14
+Cape Melby	62.80047	-65.03082	CA	14
+Cape Mercy	64.88388	-63.5304	CA	14
+Cape Michelsen	70.69507	-103.05073	CA	14
+Cape Micklesham	65.5173	-62.49273	CA	14
+Cape Middleton	66.02302	-85.11844	CA	14
+Cape Miles	69.31776	-85.48267	CA	14
+Cape Montagu	66.15083	-84.46565	CA	14
+Cape Montague	65.31752	-87.33278	CA	14
+Cape Montrose	63.43386	-71.78153	CA	14
+Cape Moses Oates	62.61737	-73.93208	CA	14
+Cape Mouat	77.60179	-77.68072	CA	14
+Cape Munn	65.92302	-85.49082	CA	14
+Cape Murchison	63.2672	-64.04735	CA	14
+Cape Murchison	81.76867	-64.09212	CA	14
+Cape Nansen	72.15239	-104.9487	CA	14
+Cape Nares	83.10222	-71.57617	CA	14
+Cape Nathorst	77.78527	-99.83946	CA	14
+Cape Netchek	62.93399	-83.28297	CA	14
+Cape Newman Smith	75.66839	-85.08284	CA	14
+Cape Nicholas	70.48448	-96.30076	CA	14
+Cape Nordenskiold	71.35126	-92.95049	CA	14
+Cape North Hendon	70.01787	-91.95012	CA	14
+Cape Northwest	80.35198	-96.6025	CA	14
+Cape Norton	69.23439	-96.03396	CA	14
+Cape Norton Shaw	76.46282	-78.38102	CA	14
+Cape Novoa	62.75476	-69.84815	CA	14
+Cape Nygaard	70.92483	-104.06593	CA	14
+Cape O'Brien	77.4518	-95.21841	CA	14
+Cape Ogle	77.05175	-95.41832	CA	14
+Cape Osborn	75.43488	-92.41778	CA	14
+Cape Osborn	62.85048	-66.36434	CA	14
+Cape Ossory	69.70109	-82.48242	CA	14
+Cape Pakington	76.68503	-91.70088	CA	14
+Cape Palmerston	70.76792	-92.66682	CA	14
+Cape Peel	69.04267	-107.27549	CA	14
+Cape Penrhyn	67.45093	-81.19854	CA	14
+Cape Pillsbury	78.8519	-83.24851	CA	14
+Cape Poillon	63.13383	-67.86449	CA	14
+Cape Porsild	80.9854	-78.94742	CA	14
+Cape Porter	69.1678	-94.30045	CA	14
+Cape Prefontaine	63.00069	-82.24963	CA	14
+Cape Prescott	79.4352	-74.16276	CA	14
+Cape Prince of Wales	61.61707	-71.49911	CA	14
+Cape Pyramid	74.46824	-86.11635	CA	14
+Cape Queen	64.70077	-78.29861	CA	14
+Cape Rammelsberg	63.43387	-68.38112	CA	14
+Cape Raper	69.73432	-67.09695	CA	14
+Cape Rawson	82.41862	-61.23987	CA	14
+Cape Reid	66.68417	-84.0989	CA	14
+Cape Reid	75.96835	-95.80144	CA	14
+Cape Rendel	71.26796	-96.4675	CA	14
+Cape Rennell	74.18483	-93.46706	CA	14
+Cape Rescue	75.28487	-93.5344	CA	14
+Cape Richard Collinson	72.76528	-102.74634	CA	14
+Cape Richards	82.98561	-79.27937	CA	14
+Cape Richardson	82.56859	-62.90682	CA	14
+Cape Richardson	68.78433	-85.5325	CA	14
+Cape Ricketts	74.63482	-91.28401	CA	14
+Cape Riddle	74.71822	-91.90084	CA	14
+Cape Riley	74.68482	-91.7008	CA	14
+Cape Robert Brown	67.58424	-81.34855	CA	14
+Cape Robert Smart	76.60164	-101.70289	CA	14
+Cape Rondon	77.3184	-104.4206	CA	14
+Cape Rosamond	74.60158	-83.43237	CA	14
+Cape Rosse	74.90156	-96.31839	CA	14
+Cape Roxborough	68.46764	-105.28531	CA	14
+Cape Rutherford	78.83516	-74.79637	CA	14
+Cape Sabine	78.71855	-74.11292	CA	14
+Cape Sabine	69.58442	-96.16738	CA	14
+Cape Sadlek	69.38435	-78.29816	CA	14
+Cape Sarah	62.80048	-65.53084	CA	14
+Cape Schott	79.61857	-73.11232	CA	14
+Cape Scoresby	71.718	-93.68365	CA	14
+Cape Seaforth	68.51767	-97.33402	CA	14
+Cape Searle	67.23394	-62.46351	CA	14
+Cape Selkirk	68.37042	-94.19205	CA	14
+Cape Selkirk	69.91784	-96.13398	CA	14
+Cape Selwyn	76.06909	-107.86102	CA	14
+Cape Separation	76.61842	-93.13441	CA	14
+Cape Seppings	73.80151	-90.3332	CA	14
+Cape Shackleton	66.13413	-84.46565	CA	14
+Cape Sherard	74.60161	-80.21521	CA	14
+Cape Sheridan	82.46859	-61.48985	CA	14
+Cape Sibbald	68.3177	-85.83248	CA	14
+Cape Sicie	76.76843	-96.50179	CA	14
+Cape Sidney	69.85114	-97.66759	CA	14
+Cape Silumiut	63.63396	-90.14975	CA	14
+Cape Simonton	63.36723	-64.84737	CA	14
+Cape Simpkinson	76.26837	-94.16778	CA	14
+Cape Simpson	67.35096	-87.06602	CA	14
+Cape Sir F. Nicholson	71.63459	-95.75067	CA	14
+Cape Sir John Franklin	76.73502	-96.98518	CA	14
+Cape Skogn	75.7684	-84.23265	CA	14
+Cape Smith	60.73386	-78.46607	CA	14
+Cape Smith	60.73387	-78.68269	CA	14
+Cape Sophia	69.66782	-96.83408	CA	14
+Cape Southampton	62.13398	-83.71662	CA	14
+Cape Southwest	78.20185	-92.03417	CA	14
+Cape Sparbo	75.81841	-83.9993	CA	14
+Cape Spencer	75.885	-79.74824	CA	14
+Cape Spencer	74.76543	-91.97166	CA	14
+Cape Stallworthy	81.38545	-93.50177	CA	14
+Cape St. Andrew	80.9188	-89.41704	CA	14
+Cape Stang	71.35279	-104.2757	CA	14
+Cape Stanley	76.70171	-91.46752	CA	14
+Cape St. Catherine	70.36788	-91.71674	CA	14
+Cape St. David	63.96728	-64.61387	CA	14
+Cape Stevens	63.38383	-67.29771	CA	14
+Cape Stevens	79.31862	-77.13015	CA	14
+Cape Stokes	77.18507	-79.1645	CA	14
+Cape Storm	76.3517	-87.58328	CA	14
+Cape Strathcona	73.21812	-85.16624	CA	14
+Cape Sudar	80.61455	-79.95445	CA	14
+Cape Sulussugut	62.76726	-69.66479	CA	14
+Cape Sussex	69.75533	-95.58389	CA	14
+Cape Svarten	75.61838	-87.33335	CA	14
+Cape Sverdrup	70.99168	-104.29287	CA	14
+Cape Sverre	78.81852	-98.20411	CA	14
+Cape Swansea	74.03481	-95.23389	CA	14
+Cape Swinburne	71.28458	-98.6844	CA	14
+Cape Taylor	69.66785	-91.46673	CA	14
+Cape Tennyson	76.30173	-79.51472	CA	14
+Cape Thalbitzer	69.88442	-78.76509	CA	14
+Cape Thorstein	78.11888	-103.1729	CA	14
+Cape Tordenskjold	69.98441	-83.33252	CA	14
+Cape Torrens	77.20178	-90.13367	CA	14
+Cape True	62.53375	-65.19754	CA	14
+Cape Turnback	76.4349	-89.23365	CA	14
+Cape Union	82.23522	-61.15694	CA	14
+Cape Ursula	77.17257	-95.21271	CA	14
+Cape Vanderbilt	63.10052	-67.59776	CA	14
+Cape Vera	76.23494	-89.2171	CA	14
+Cape Victoria	69.86784	-96.20069	CA	14
+Cape Waldegrave	76.30168	-84.64927	CA	14
+Cape Walker	74.05146	-97.61782	CA	14
+Cape Walsingham	66.03392	-61.96352	CA	14
+Cape Walter Bathurst	73.3347	-76.71465	CA	14
+Cape Ware	63.40053	-67.39772	CA	14
+Cape Warrender	74.46828	-81.76548	CA	14
+Cape Warwick	61.58362	-64.61425	CA	14
+Cape Watt	67.40096	-86.61596	CA	14
+Cape Weld	72.58463	-75.7646	CA	14
+Cape Welsford	65.48409	-84.5323	CA	14
+Cape Weston	65.38404	-77.48157	CA	14
+Cape Whitehead	73.63478	-95.70072	CA	14
+Cape Wiel	71.29892	-104.46522	CA	14
+Cape Wight	62.71725	-69.74809	CA	14
+Cape Wilkes	80.18524	-70.12811	CA	14
+Cape William Herschel	74.58484	-89.20029	CA	14
+Cape Willingdon	64.31739	-75.49855	CA	14
+Cape Willoughby	65.45073	-77.1149	CA	14
+Cape Wilson	66.98419	-81.44858	CA	14
+Cape With	79.9353	-82.49836	CA	14
+Cape Woods	82.21895	-86.6661	CA	14
+Cape Woollen	82.51857	-62.89022	CA	14
+Cape York	73.80146	-86.99971	CA	14
+Cape Young	68.95076	-116.97038	CA	14
+Cardigan Strait	76.63496	-90.66735	CA	14
+Careenage Arm	62.15066	-74.74891	CA	14
+Carey Harbour	76.56839	-98.25212	CA	14
+Caribou Glacier	66.67845	-61.81615	CA	14
+Caribou Point	66.71751	-70.58104	CA	14
+Caribou Point	60.80046	-101.31764	CA	14
+Cartmel Point	81.80757	-63.77525	CA	14
+Carys Swan Nest	62.16738	-83.11656	CA	14
+Caswall Tower	74.70153	-91.2007	CA	14
+Cator Harbour	76.73499	-99.56915	CA	14
+Caution Point	64.06739	-94.36695	CA	14
+Caution Shoals	58.60032	-68.08169	CA	14
+Centennial Glacier	66.55206	-62.57466	CA	14
+Chads Point	76.20149	-109.90461	CA	14
+Chain Islet	64.13399	-94.45026	CA	14
+Chandler Fiord	81.63536	-68.76036	CA	14
+Chantrey Inlet	67.75098	-95.90059	CA	14
+Chapman Glacier	81.28213	-79.88058	CA	14
+Charles Dickens Point	71.5346	-98.051	CA	14
+Charles Inlet	62.61456	-74.0155	CA	14
+Charles Point	76.45159	-103.00314	CA	14
+Charles Richards Point	73.21951	-100.58487	CA	14
+Charlton Depot	51.96689	-79.31615	CA	14
+Charlton Harbour	51.95019	-79.33275	CA	14
+Charybdis Glacier	81.64042	-75.30389	CA	14
+Charybdis Reef	63.42415	-68.00609	CA	14
+Cheyne Point	66.15083	-84.33223	CA	14
+Chidliak Point	65.05064	-66.63071	CA	14
+Chipman Point	68.7841	-114.72006	CA	14
+Chorkbak Inlet	64.50066	-74.4151	CA	14
+Christopher Inlet	60.10583	-64.9839	CA	14
+Christopher Peninsula	78.9688	-101.83819	CA	14
+Chubb Point	76.18492	-100.16913	CA	14
+Clarence Head	76.78504	-77.78079	CA	14
+Clarke Sound	68.58422	-74.41479	CA	14
+Clark Fiord	70.96782	-72.11427	CA	14
+Clark Harbour	63.35052	-64.94739	CA	14
+Clausen Point	71.27742	-104.41097	CA	14
+Claw Point	56.61703	-79.14973	CA	14
+Claxton Point	74.83486	-95.8849	CA	14
+Clay Point	69.08432	-78.54819	CA	14
+Clearwater Fiord	66.56744	-67.44738	CA	14
+Cleaves Glacier	81.43541	-75.99609	CA	14
+Clements Markham Glacier	82.31042	-70.32656	CA	14
+Clements Markham Inlet	82.75211	-66.99153	CA	14
+Clestrain Point	68.5634	-101.81305	CA	14
+Cleveland Harbour	66.25084	-85.19905	CA	14
+Clifton Point	69.21743	-118.63729	CA	14
+Clinton Point	69.52005	-120.57787	CA	14
+Clouston Points	68.48436	-87.83274	CA	14
+Clutterbuck Head	60.2003	-68.36488	CA	14
+Clyde Inlet	70.20099	-69.49718	CA	14
+Coates Inlet	60.20851	-64.89832	CA	14
+Cockburn Point	68.8841	-115.08673	CA	14
+Cockram Strait	68.0342	-74.91476	CA	14
+Coffin Islet	59.38371	-69.56522	CA	14
+Colin Archer Peninsula	76.25165	-90.33394	CA	14
+Collinson Inlet	69.51782	-98.16769	CA	14
+Collinson Peninsula	69.9679	-101.40183	CA	14
+Comer Strait	65.75081	-85.08235	CA	14
+Concealed Glacier	79.54869	-92.44782	CA	14
+Confederation Fiord	68.16759	-67.31374	CA	14
+Confederation Point	80.62428	-87.29961	CA	14
+Conger Range	81.53541	-75.29581	CA	14
+Conn Glacier	70.82053	-73.06989	CA	14
+Consett Head	75.30923	-105.72075	CA	14
+Contwoyto Point	65.95067	-111.46917	CA	14
+Conway Point	63.80068	-92.45831	CA	14
+Conybeare Fiord	81.56875	-67.57678	CA	14
+Cook Peninsula	79.40193	-76.49663	CA	14
+Copeland Point	75.41829	-93.83444	CA	14
+Coral Harbour	64.12856	-83.05634	CA	14
+Coral Harbour	64.13406	-83.16615	CA	14
+Corbett Inlet	62.4673	-92.33328	CA	14
+Corcoran Point	68.45931	-85.71998	CA	14
+Cormack Arm	70.5677	-70.07234	CA	14
+Cornelia Channel	63.58386	-67.74775	CA	14
+Coronation Fiord	67.23407	-64.58026	CA	14
+Coronation Glacier	67.19107	-64.84841	CA	14
+Coronation Gulf	68.13412	-112.00286	CA	14
+Corridor Shoal	62.01727	-92.08327	CA	14
+Cory Glacier	76.27253	-79.99814	CA	14
+Cosens Point	68.6841	-114.45329	CA	14
+Cotter Point	53.35021	-80.08301	CA	14
+Countess of Warwick Sound	62.78378	-65.43084	CA	14
+Coutts Inlet	71.90128	-75.59514	CA	14
+Cowie Point	67.41766	-86.83259	CA	14
+Cowper Point	73.81815	-100.98499	CA	14
+Cox Inlet	59.80031	-65.41492	CA	14
+Cracroft Sound	76.63089	-98.66892	CA	14
+Craig Harbour	76.20862	-80.99835	CA	14
+Crane Peninsula	67.73427	-97.10075	CA	14
+Cranstone Peninsula	82.91891	-72.32677	CA	14
+Crash Point	82.70224	-76.21189	CA	14
+Crescent Glacier	82.40213	-70.59324	CA	14
+Crescent Harbour	67.86767	-98.13421	CA	14
+Crook Glacier	79.54869	-90.75067	CA	14
+Crooks Inlet	63.05055	-70.99847	CA	14
+Crowell Harbour	63.31726	-68.24783	CA	14
+Crowell Inlet	60.35021	-64.46507	CA	14
+Crozier Point	76.05165	-95.03457	CA	14
+Crozier Strait	75.50159	-97.20174	CA	14
+Crusoe Glacier	79.43027	-91.16746	CA	14
+Cub Islet	68.7841	-114.73666	CA	14
+Culgruff Inlet	66.81758	-84.58227	CA	14
+Cumberland Peninsula	66.50072	-64.49714	CA	14
+Cumberland Sound	65.33395	-66.01401	CA	14
+Cuming Inlet	74.58481	-84.99941	CA	14
+Cunningham Inlet	74.11822	-93.83372	CA	14
+Cunningham West Glacier	74.63221	-81.57654	CA	14
+Custance Inlet	74.78486	-89.03358	CA	14
+Cutlar Fergusson Point	71.10125	-92.83347	CA	14
+D'Aeth Point	60.48361	-67.86482	CA	14
+Dangerous Point	63.71737	-91.5499	CA	14
+Daniell Point	75.43349	-97.78517	CA	14
+Danish Strait	78.03538	-101.75635	CA	14
+Dark Point	62.81732	-91.89992	CA	14
+Darling Peninsula	79.78521	-71.84536	CA	14
+Davidson Point	63.71729	-68.5645	CA	14
+Davis Inlet	59.20863	-65.59406	CA	14
+Davis Strait	65.0005	-57.99645	CA	14
+Dawson Inlet	61.83386	-93.41682	CA	14
+Dealy Point	74.75153	-91.11739	CA	14
+Dean Islet	64.05069	-94.36695	CA	14
+Dean Point	72.80138	-101.3184	CA	14
+Dease Peninsula	67.21765	-87.13263	CA	14
+Dease Point	68.36763	-104.96867	CA	14
+Dease Strait	68.83423	-107.50236	CA	14
+Decade Glacier	69.63704	-69.82625	CA	14
+Deception Reef	63.63388	-68.43109	CA	14
+Decision Point	75.35158	-93.63442	CA	14
+Deep Cove	72.18463	-80.33187	CA	14
+De Haven Point	75.31828	-93.63442	CA	14
+De Haven Point	69.00972	-101.77237	CA	14
+De Lacy Head	76.83498	-89.98373	CA	14
+De la Guiche Point	68.97888	-94.57266	CA	14
+Delight Anchorage	67.03395	-62.71356	CA	14
+Delta Col	66.56735	-62.51355	CA	14
+Demon Point	63.52625	-90.92653	CA	14
+Denmark Fiord	70.56058	-103.10257	CA	14
+Departure Point	79.66861	-98.83634	CA	14
+Deposit Cove	56.01709	-79.03292	CA	14
+Depot Point	81.25205	-69.14429	CA	14
+Depot Point	79.61871	-85.74924	CA	14
+Depot Point	74.91825	-93.38442	CA	14
+Dersch Point	62.75885	-69.63137	CA	14
+Desgoffe Point	56.34479	-78.84552	CA	14
+De Stael Point	68.36776	-90.26647	CA	14
+Detention Harbour	67.86752	-109.95254	CA	14
+Detroit de Davis	65.0005	-57.99645	CA	14
+Detroit d'Hudson	62.00052	-69.99838	CA	14
+Deuchars Glacier	82.38554	-80.18021	CA	14
+Devereux Point	76.76838	-100.46935	CA	14
+Devon Ice Cap	75.33496	-82.49896	CA	14
+de Vries Glacier	81.86888	-78.32983	CA	14
+Dewey Soper Bird Sanctuary	66.0008	-73.58153	CA	14
+Dexterity Fiord	71.25117	-73.03099	CA	14
+Dexterity Harbour	71.58449	-72.68093	CA	14
+d'Iberville Fiord	80.56875	-78.9972	CA	14
+d'Iberville Glacier	80.53124	-77.77731	CA	14
+Dickens Point	68.59903	-113.34663	CA	14
+Dietrichsen Point	70.97291	-104.1888	CA	14
+Digarmulen Point	78.95189	-75.71324	CA	14
+Digges Harbour	62.56738	-77.86591	CA	14
+Digges Islet	62.58398	-78.11595	CA	14
+Digit Point	57.66708	-79.71639	CA	14
+Discovery Harbour	81.70201	-65.3259	CA	14
+Disraeli Fiord	82.81891	-73.34394	CA	14
+Disraeli Glacier	82.66889	-72.49369	CA	14
+Distant Cape	81.71868	-64.4423	CA	14
+Divide Glacier	82.25207	-67.40913	CA	14
+Dobell Point	74.65155	-95.50152	CA	14
+Dolphin and Union Strait	69.08689	-116.04529	CA	14
+Dome Glacier	79.45196	-94.06825	CA	14
+Dome Islet	62.51318	-77.97422	CA	14
+Domett Point	76.06115	-106.64291	CA	14
+Domville Point	75.31827	-92.45105	CA	14
+Douglas Harbour	65.65087	-88.66631	CA	14
+Douglas Harbour	61.91725	-72.63222	CA	14
+Douglas Islet	61.96724	-72.54894	CA	14
+Douro Range	76.33495	-92.73413	CA	14
+Dragleybeck Inlet	75.60159	-92.051	CA	14
+Dragon Cliff	79.35196	-92.20103	CA	14
+Drake Point	76.46646	-108.45703	CA	14
+Drever Arm	71.66794	-74.13112	CA	14
+Driftwood Point	69.44894	-100.98401	CA	14
+Dryas Glacier	82.03542	-70.99398	CA	14
+Dry Cove	62.83392	-91.78321	CA	14
+Dryden Point	68.74546	-94.20039	CA	14
+Duckett Cove	66.21753	-84.56567	CA	14
+Dufour Inlet	72.15132	-77.61488	CA	14
+Duke of York Archipelago	68.20082	-112.36962	CA	14
+Dumbbells Dome	78.52706	-101.12209	CA	14
+Dundalk Point	63.10052	-67.69777	CA	14
+Dundas Harbour	74.55159	-82.49888	CA	14
+Dundas Harbour	74.53489	-82.38216	CA	14
+Dundas Peninsula	74.98468	-109.70431	CA	14
+Dundee Bight	76.06831	-100.16911	CA	14
+Dunne Foxe Shoal	62.25058	-91.89993	CA	14
+Dunn Point	68.91771	-78.79822	CA	14
+Durban Harbour	67.06735	-62.1635	CA	14
+Dwarf Glacier	80.89929	-82.4871	CA	14
+Dybbol Harbour	70.0011	-85.26619	CA	14
+Dyers Cove	74.60154	-95.75156	CA	14
+Eagles Beak	66.58396	-62.49685	CA	14
+East Arm	56.16708	-79.24972	CA	14
+East Bluff	61.88373	-65.94758	CA	14
+East Cape	80.1187	-82.51514	CA	14
+East Cape	69.8511	-84.86614	CA	14
+East Cape	76.42673	-80.70663	CA	14
+East Channel	62.23396	-74.73221	CA	14
+East Cove	62.28391	-75.41569	CA	14
+Easter Cape	70.91805	-89.43401	CA	14
+Eastern Glacier	75.7836	-82.08219	CA	14
+Easter Sound	71.33462	-84.83323	CA	14
+East Fiord	79.40197	-93.33469	CA	14
+East Fortress Glacier	70.46483	-70.79185	CA	14
+East Pioneer Glacier	70.46204	-70.75574	CA	14
+East Point	63.73398	-91.94995	CA	14
+East Sister Glacier	79.46697	-90.9174	CA	14
+East Sound	76.46823	-89.4171	CA	14
+Ebenezer Harbour	72.18467	-84.833	CA	14
+Eclipse Harbour	70.50119	-92.23337	CA	14
+Eclipse Sound	72.63467	-78.99841	CA	14
+Edaloh Inlet	63.61736	-77.36582	CA	14
+Eddy Point	63.98398	-94.26693	CA	14
+Eden Point	75.55159	-92.20103	CA	14
+Ede Point	73.73474	-101.13501	CA	14
+Edinburgh Channel	68.46755	-111.05278	CA	14
+Edmund Point	63.53384	-67.56443	CA	14
+Eglinton Fiord	70.66773	-70.04736	CA	14
+Eglinton Tower	70.45096	-70.5641	CA	14
+Eidsbotn	76.16694	-91.00069	CA	14
+Eids Fiord	77.35453	-87.09965	CA	14
+Ekalugad Fiord	68.76764	-68.61365	CA	14
+Ekatuvik Point	63.71737	-91.76663	CA	14
+Ekblaw Glacier	78.50746	-76.83733	CA	14
+Ekkik Cove	60.99991	-70.14808	CA	14
+Elder Point	69.13433	-78.89822	CA	14
+Elizabeth Brook	63.15055	-70.89817	CA	14
+Elizabeth Harbour	70.6012	-92.25007	CA	14
+Ellen Head	60.68351	-64.58185	CA	14
+Elliot Point	66.85077	-107.96888	CA	14
+Elmerson Peninsula	80.66876	-81.99837	CA	14
+Elu Inlet	68.50093	-106.08542	CA	14
+Elve Point	78.15211	-101.62286	CA	14
+Elwin Inlet	73.41809	-83.74915	CA	14
+Emma Fiord	81.48544	-89.00017	CA	14
+Emma Point	76.50167	-99.119	CA	14
+Ennadai	61.13379	-100.88419	CA	14
+Enterprise Point	68.7929	-103.31135	CA	14
+Enukso Point	64.56748	-78.1987	CA	14
+Ephemeral Cove	63.46174	-91.11095	CA	14
+Eqeperiaqtalik Point	72.51386	-78.54005	CA	14
+Erik Cove	62.53397	-77.41587	CA	14
+Erik Harbour	72.55133	-76.08124	CA	14
+Erik Harbour	78.61855	-74.72973	CA	14
+Erik Point	70.88437	-69.88061	CA	14
+Erskine Inlet	76.03487	-102.0861	CA	14
+Escape Rapids	67.61741	-115.4699	CA	14
+Escape Rapids	66.01754	-98.06751	CA	14
+Esker Point	62.55058	-97.51728	CA	14
+Eskimo Bluff	77.43509	-78.29756	CA	14
+Eskimo Glacier	66.68675	-62.26211	CA	14
+Eskimo Harbour	56.60032	-79.19973	CA	14
+Eskimo Inlet	72.20133	-79.99854	CA	14
+Eskimo Point	61.10053	-93.98347	CA	14
+Etuksit Point	63.85068	-93.45013	CA	14
+Eugene Glacier	82.26875	-66.57541	CA	14
+Eugenie Glacier	79.85756	-75.16283	CA	14
+Eureka	79.98534	-85.94931	CA	14
+Eureka Sound	79.00195	-84.9991	CA	14
+Evans Strait	63.25069	-81.99951	CA	14
+Evee Peninsula	62.80056	-69.78146	CA	14
+Everitt Point	67.70083	-107.95228	CA	14
+Ewerat Point	69.10102	-79.21495	CA	14
+Exaluin Fiord	65.66731	-62.89696	CA	14
+Executioner Cliffs	71.61795	-75.0646	CA	14
+Exeter Sound	66.23393	-62.04682	CA	14
+Expectation Point	63.71739	-80.3493	CA	14
+Expedition Fiord	79.33524	-92.00095	CA	14
+Expeditor Cove	67.87573	-115.24492	CA	14
+Fabricius Fiord	72.36808	-84.63294	CA	14
+Face Channel	56.25043	-79.06643	CA	14
+Fair Cape	79.91873	-86.9163	CA	14
+Fairholme Harbour	75.90164	-95.86816	CA	14
+Fairman Point	76.50173	-81.28178	CA	14
+Fair Ness	63.40056	-72.08156	CA	14
+Fairway Shoals	62.70061	-91.6999	CA	14
+Fairweather Harbour	56.01707	-78.96626	CA	14
+Fairweather Sound	56.11707	-78.83282	CA	14
+Falcon Anchorage	59.01705	-68.94851	CA	14
+Falcon Inlet	67.75097	-98.0676	CA	14
+Falcon Strait	65.50079	-84.5823	CA	14
+Falk Point	76.50986	-89.68377	CA	14
+False Bight	59.53371	-69.64851	CA	14
+False Cove	62.20065	-74.83222	CA	14
+False Haven	63.23384	-67.9978	CA	14
+False Inlet	63.38395	-90.86652	CA	14
+False Islet	58.92315	-68.96792	CA	14
+False Knoll	62.81732	-91.7332	CA	14
+False Strait	71.99713	-95.11725	CA	14
+Fanshawe Point	75.45154	-104.20321	CA	14
+Farbusher Point	63.23384	-68.06451	CA	14
+Farley Point	65.53408	-73.96498	CA	14
+Farragut Inlet	68.38429	-98.53424	CA	14
+Farther Hope Point	63.73398	-92.19997	CA	14
+Fee Peninsula	68.13418	-74.31481	CA	14
+Feilden Peninsula	82.78535	-63.82358	CA	14
+Felix Harbour	69.98727	-92.06685	CA	14
+Fellfoot Point	74.50154	-88.58345	CA	14
+Ferbrache Peninsula	82.71898	-80.66365	CA	14
+Fiala Glacier	81.65214	-76.74607	CA	14
+Fife Point	69.20103	-78.84822	CA	14
+Figgures Point	67.28418	-72.29793	CA	14
+Findlay Group	77.4017	-104.7707	CA	14
+Finger Glacier	79.53869	-90.38556	CA	14
+Finger Land	64.46729	-65.18056	CA	14
+Finger Point	63.33395	-90.66649	CA	14
+Finsterwalder Glacier	79.52528	-91.73424	CA	14
+Firkin Point	75.60999	-85.54134	CA	14
+Fisher Harbour	62.83384	-70.81482	CA	14
+Fisher Strait	63.25071	-83.49962	CA	14
+Fishhook Point	81.32151	-77.57997	CA	14
+Fist Point	62.80062	-92.06664	CA	14
+Fitzjames Point	75.95164	-94.85124	CA	14
+Fitz Roy Inlet	72.15134	-95.00055	CA	14
+Fivemile Inlet	58.53379	-78.2328	CA	14
+Flagstaff Point	69.05537	-105.10097	CA	14
+Flagstone Point	76.61838	-90.834	CA	14
+Fleming Inlet	72.41808	-84.91639	CA	14
+Fletcher Channel	63.27554	-67.96449	CA	14
+Fletcher Reefs	63.18383	-67.84779	CA	14
+Flood Brook	68.05084	-72.86461	CA	14
+Florence Point	68.68424	-68.06353	CA	14
+Foellmer Point	68.4551	-111.0474	CA	14
+Folly Reefs	63.50056	-68.09779	CA	14
+Forbes Sound	60.38348	-64.79841	CA	14
+Ford Channel	62.26731	-75.5657	CA	14
+Fork Beard Glacier	66.53135	-65.27371	CA	14
+Fort Conger	81.752	-64.74235	CA	14
+Fort George Anchorage	53.81696	-79.14137	CA	14
+Fort Hope	66.53418	-86.69925	CA	14
+Fosheim Peninsula	79.66869	-83.74867	CA	14
+Foss Fiord	70.36796	-87.00026	CA	14
+Fossil Point	69.21099	-113.93509	CA	14
+Foster Point	71.41799	-98.16771	CA	14
+Foul Inlet	63.7339	-68.89783	CA	14
+Foundation Glacier	79.56869	-92.42281	CA	14
+Fournier Channel	74.66824	-95.96831	CA	14
+Four Sisters Dome	79.46867	-90.95071	CA	14
+Fox Charlie Glacier	68.70233	-68.62194	CA	14
+Foxe Basin	65.93141	-77.91793	CA	14
+Foxe Channel	65.00078	-79.99898	CA	14
+Foxe Peninsula	65.00075	-75.99848	CA	14
+Fox Harbour	60.43347	-64.86514	CA	14
+Fram Fiord	76.51843	-81.31518	CA	14
+Fram Glacier	78.76856	-74.8297	CA	14
+Fram Point	68.61772	-95.90056	CA	14
+Fram Sound	76.4183	-89.75049	CA	14
+Francis Herbert Point	76.50164	-100.98601	CA	14
+Franklin Inlet	69.56784	-91.25	CA	14
+Franklin Point	69.58442	-98.53434	CA	14
+Franklin Strait	71.50128	-96.85083	CA	14
+Frazer Point	74.99045	-98.65201	CA	14
+Freakly Point	55.78362	-79.79975	CA	14
+Freemans Cove	75.16827	-98.0019	CA	14
+French Headland	62.71716	-64.93081	CA	14
+Frenchman Cove	62.95048	-65.19749	CA	14
+Freuchen Point	69.75109	-82.96589	CA	14
+Friday Point	69.78439	-82.86587	CA	14
+Frobisher's Farthest	63.50476	-68.00608	CA	14
+Frozen Strait	65.7508	-84.33224	CA	14
+Frustration Point	69.11772	-79.04823	CA	14
+Fuller Point	68.7508	-114.73665	CA	14
+Fulmar Channel	79.08526	-85.99924	CA	14
+Funnel Cove	59.31711	-69.63183	CA	14
+Fury and Hecla Channel	69.9011	-83.99931	CA	14
+Fury and Hecla Strait	69.8344	-82.99919	CA	14
+Fury Point	72.7014	-92.26685	CA	14
+Gabbro Peninsula	78.80209	-104.00517	CA	14
+Gable Cliff	82.80208	-65.24076	CA	14
+Gabriel Strait	61.80039	-65.48087	CA	14
+Galena Point	67.90083	-109.91924	CA	14
+Gale Point	78.21853	-75.46346	CA	14
+Gallery Point	76.73485	-89.45033	CA	14
+Gambier Point	76.26832	-100.50253	CA	14
+Gammarus Cove	61.98377	-66.58091	CA	14
+Gander Islet	63.15053	-67.68947	CA	14
+Gascoyne Inlet	74.66822	-91.30072	CA	14
+Gasket Shoal	52.43343	-80.24965	CA	14
+Giants Castle	72.80142	-86.79986	CA	14
+Gibbons Point	63.41743	-85.66653	CA	14
+Gibbs Fiord	70.82188	-71.91147	CA	14
+Gibs Fiord	79.88533	-87.24971	CA	14
+Gibson Cove	66.51758	-86.73256	CA	14
+Gibson Peninsula	56.03369	-79.16639	CA	14
+Gibson Peninsula	68.80106	-95.41724	CA	14
+Giffard Point	76.78503	-96.61852	CA	14
+Gifford Fiord	70.16783	-82.49907	CA	14
+Gifford Point	74.16822	-93.7171	CA	14
+Gilbert Glacier	66.67005	-62.11619	CA	14
+Gilman Glacier	80.09863	-70.60988	CA	14
+Gilmour Peninsula	56.30041	-78.91644	CA	14
+Gjoa Haven	68.62602	-95.87836	CA	14
+Gjoa Haven	68.62602	-95.88246	CA	14
+Glacier du Lievre	66.58125	-62.36903	CA	14
+Glacier Fiord	78.36856	-89.48333	CA	14
+Glacier Strait	76.20173	-79.49804	CA	14
+Gladman Point	68.6343	-97.71755	CA	14
+Glasgow Inlet	62.81726	-69.81489	CA	14
+Gnome Glacier	80.9118	-82.39256	CA	14
+Gold Cove	62.9338	-65.83086	CA	14
+Goldsmith Channel	71.7846	-95.33389	CA	14
+Goldsmith Channel	73.16556	-106.13617	CA	14
+Good Point	83.01888	-68.49167	CA	14
+Goodsir Inlet	75.75162	-97.75188	CA	14
+Goose Fiord	76.60164	-88.58348	CA	14
+Goose Point	77.85459	-88.20808	CA	14
+Gordon Head	77.58513	-93.41801	CA	14
+Gore Point	64.084	-81.39932	CA	14
+Gore Point	69.58442	-98.48434	CA	14
+Gore Point	76.65778	-108.50166	CA	14
+Gosling Inlet	79.70198	-94.26832	CA	14
+Gosling Islet	63.13382	-67.66447	CA	14
+Goulburn Peninsula	67.4175	-108.35229	CA	14
+Gould Point	60.40022	-64.43169	CA	14
+Gould Point	68.50097	-97.26742	CA	14
+Gourdeau Point	74.4515	-97.63516	CA	14
+Govan Point	70.35106	-68.65131	CA	14
+Graham Gore Peninsula	69.03437	-99.25115	CA	14
+Graham Gore Point	75.80993	-94.81235	CA	14
+Graham Harbour	74.50155	-88.18336	CA	14
+Grant Ice Cap	82.41876	-66.74188	CA	14
+Grant Point	68.40099	-98.66765	CA	14
+Grant Point	76.11831	-100.38577	CA	14
+Gravel Bight	61.79215	-72.14909	CA	14
+Gravel Islets	62.83392	-91.91662	CA	14
+Gravell Point	67.21756	-76.69833	CA	14
+Gravel Point	66.16748	-71.1146	CA	14
+Grave Point	60.82464	-69.89808	CA	14
+Graves Strait	61.73366	-65.08085	CA	14
+Graveyard Point	73.15142	-85.21627	CA	14
+Gray Strait	60.5335	-64.66518	CA	14
+Great Bear Cape	77.38505	-87.7498	CA	14
+Great Plain of the Koukdjuak	66.41752	-72.83137	CA	14
+Grebe Point	64.00068	-94.35024	CA	14
+Grebe Shoals	64.00068	-94.36694	CA	14
+Greely Fiord	80.50204	-81.66501	CA	14
+Greely Haven	71.93452	-104.83629	CA	14
+Green Glacier	78.55186	-76.36359	CA	14
+Green Point	64.66188	-78.20973	CA	14
+Green Valley	81.41882	-76.79623	CA	14
+Gregory Peninsula	75.45159	-97.43509	CA	14
+Gregson Inlet	59.21143	-65.53295	CA	14
+Grenfell Sound	60.28353	-64.44835	CA	14
+Griffin Inlet	75.11825	-92.16766	CA	14
+Grise Fiord	76.4184	-82.89468	CA	14
+Grise Fiord	76.58501	-83.23222	CA	14
+Grogan Morgan Range	76.43494	-100.41927	CA	14
+Guillemot Bank	62.76732	-91.91662	CA	14
+Guillemot Shoal	60.05042	-69.48172	CA	14
+Gulf of Boothia	70.66795	-91.00032	CA	14
+Gull Glacier	81.41212	-77.41321	CA	14
+Gull Head	76.40167	-88.5835	CA	14
+Gurling Point	67.87153	-115.21712	CA	14
+Gushie Point	56.4336	-78.93296	CA	14
+Gustaf Adolf Trough	78.58551	-106.00638	CA	14
+Guys Bight	72.65135	-76.63972	CA	14
+Gypsum Point	78.98541	-101.18807	CA	14
+Gyrfalcon Glacier	66.62005	-62.35373	CA	14
+Haakon Fiord	78.8354	-100.75472	CA	14
+Haddington Range	76.55171	-92.58427	CA	14
+Haig Inlet	56.33377	-79.08308	CA	14
+Halfway Bluff	60.88377	-101.0509	CA	14
+Halkett Inlet	69.24002	-90.97772	CA	14
+Halkett Point	68.88433	-85.16587	CA	14
+Hamilton Bluff	82.8354	-65.57412	CA	14
+Hamilton Point	68.01768	-86.09921	CA	14
+Hamilton Point	72.41805	-101.93511	CA	14
+Hanbury Kopje	67.25062	-117.82011	CA	14
+Hancock Harbour	63.46726	-68.03109	CA	14
+Handkerchief Inlet	65.25082	-88.03287	CA	14
+Handkerchief Point	65.28412	-88.00236	CA	14
+Harbour Fiord	76.51841	-84.13243	CA	14
+Harding Point	75.20154	-100.53568	CA	14
+Hare Cape	79.96874	-86.41615	CA	14
+Hare Fiord	81.01882	-85.49909	CA	14
+Hare Islet	62.55054	-69.29792	CA	14
+Hare Point	63.23664	-68.0047	CA	14
+Hare Point	78.21854	-87.49956	CA	14
+Hare Point	81.45202	-67.07665	CA	14
+Harp Cove	60.3336	-67.94813	CA	14
+Harris Highlands	62.80047	-65.29752	CA	14
+Harrison Point	64.93392	-66.09736	CA	14
+Harrison Point	73.36392	-101.2892	CA	14
+Harry Gibbons Bird Sanctuary	63.78404	-85.91646	CA	14
+Hartstene Point	71.20125	-96.43409	CA	14
+Harvey Peninsula	73.53754	-97.50108	CA	14
+Harvey Point	72.12073	-100.50845	CA	14
+Hassel Sound	78.30188	-98.77134	CA	14
+Hatton Headland	61.31702	-64.78097	CA	14
+Haughton Dome	75.40162	-89.46723	CA	14
+Hawkes Point	73.08471	-101.91851	CA	14
+Hawkes Summit	60.21714	-99.48407	CA	14
+Hawk Rapids	65.55074	-103.18476	CA	14
+Hayes Channel	74.63482	-97.86862	CA	14
+Hayes Fiord	79.0352	-76.74685	CA	14
+Hayes Point	79.7352	-71.39531	CA	14
+Hazard Inlet	72.03463	-94.16712	CA	14
+Hazen Strait	77.25168	-109.00487	CA	14
+Hazy Cape	78.61894	-104.00579	CA	14
+Hazy Islet	62.80062	-90.94981	CA	14
+Headwind Point	63.68398	-91.99995	CA	14
+Heel Cove	60.80043	-69.89809	CA	14
+Heim Peninsula	76.53501	-84.49921	CA	14
+Helen Haven	75.31828	-93.75114	CA	14
+Helix Point	64.2168	-95.03893	CA	14
+Hell Point	60.58782	-67.99782	CA	14
+Helmer Hansen Point	68.33428	-100.2345	CA	14
+Helpman Head	75.23486	-92.48433	CA	14
+Hen and Chicks	61.31702	-64.91438	CA	14
+Henderson Harbour	62.98384	-70.96484	CA	14
+Henderson Inlet	62.23376	-66.16424	CA	14
+Hendriksen Strait	77.83509	-96.50235	CA	14
+Henrietta Nesmith Glacier	81.80041	-72.87137	CA	14
+Henrietta Range	76.71827	-108.83787	CA	14
+Henry Kater Peninsula	69.38428	-68.06365	CA	14
+Hepburn Point	71.93462	-95.20056	CA	14
+Herbert Point	75.63484	-102.86962	CA	14
+Heywood Range	64.76731	-107.90196	CA	14
+Highway Glacier	66.73546	-65.04447	CA	14
+Hingston Harbour	76.36831	-102.00289	CA	14
+Hinigaluk Peninsula	66.28677	-112.97349	CA	14
+Hoare Point	64.6007	-100.76778	CA	14
+Hodgson Head	75.08494	-79.96517	CA	14
+Hollist Point	72.91809	-101.51844	CA	14
+Holy Cross Point	72.99159	-85.10078	CA	14
+Hoodoo Dome	78.13529	-100.08924	CA	14
+Hook Glacier	77.57115	-81.36078	CA	14
+Hook Point	77.56844	-81.63165	CA	14
+Hooper Inlet	69.30106	-81.76553	CA	14
+Hope Monument	74.61831	-80.43185	CA	14
+Hopewell Narrows	58.38377	-78.08279	CA	14
+Hopewell Sound	58.40048	-78.08279	CA	14
+Hopkins Inlet	69.18435	-85.24927	CA	14
+Hoppner Inlet	66.80088	-83.91557	CA	14
+Hoppner Strait	66.33414	-83.2655	CA	14
+Hornby Head	76.28496	-93.58426	CA	14
+Hornet Point	64.03678	-96.08103	CA	14
+Hose Strait	80.1519	-99.31982	CA	14
+Houston Point	53.18343	-81.11636	CA	14
+Houston Stewart Point	73.86816	-100.55162	CA	14
+Howard Peninsula	56.36705	-79.48306	CA	14
+Howard Point	56.5503	-79.44973	CA	14
+Howe Harbour	73.13473	-95.56742	CA	14
+Hubbel Point	62.55045	-65.13083	CA	14
+Hudson Strait	62.00052	-69.99838	CA	14
+Humboldt Channel	69.4511	-96.50074	CA	14
+Hummock Point	73.13473	-95.83407	CA	14
+Hunt Glacier	78.44495	-75.89679	CA	14
+Hurd Channel	66.17863	-84.53786	CA	14
+Hurin Throughlet	63.99241	-77.9656	CA	14
+Hutluarnaarjuk Channel	68.83999	-89.98304	CA	14
+Hutluarnirjuaq Channel	68.67048	-89.87192	CA	14
+Hutluarnirjuaq Channel	69.77056	-91.55286	CA	14
+Hut Point	63.28963	-84.58441	CA	14
+Hvitland Peninsula	81.25214	-87.99979	CA	14
+Hyde Inlet	75.03494	-79.99848	CA	14
+Hyperite Point	78.15184	-88.88326	CA	14
+Iceberg Glacier	79.51698	-92.13433	CA	14
+Iceberg Point	80.31877	-86.36609	CA	14
+Iceberg Shoal	60.99767	-69.8341	CA	14
+Icebreaker Channel	68.83432	-102.16827	CA	14
+Ice Breaker Islet	64.00068	-94.31694	CA	14
+Ice Breaker Point	63.99238	-94.30023	CA	14
+Ice Cutter Point	63.98398	-94.31694	CA	14
+Ice Harbour	62.31737	-78.13254	CA	14
+Icy Arm	71.70125	-75.11461	CA	14
+Idlout Point	72.73469	-93.75035	CA	14
+Igalulikuluk Inlet	59.89418	-65.18014	CA	14
+Iglirnaq Cliff	69.29692	-91.13745	CA	14
+Igloolik	69.38437	-81.79888	CA	14
+Igloo Point	62.36729	-92.09995	CA	14
+Iglukjuak Point	64.31181	-76.15973	CA	14
+Iglurjuakuluit Inlet	63.66601	-82.0244	CA	14
+Iglurjuaq Point	72.05137	-86.06667	CA	14
+Iglutalik Point	69.35111	-93.50591	CA	14
+Ignerit Point	69.63436	-77.16487	CA	14
+Ignertok Peninsula	68.3468	-82.24442	CA	14
+Ignertok Point	68.3343	-81.99858	CA	14
+Igtuk Glacier	66.69105	-64.79725	CA	14
+Iipiutalik Point	69.17317	-67.29683	CA	14
+Ikaaqtalik Point	66.53416	-85.66581	CA	14
+Ikaaqtalik Point	68.59967	-90.4637	CA	14
+Ikaariarvik Reef	65.36752	-87.08274	CA	14
+Ikaluit	63.74139	-68.50972	CA	14
+Ikatuaq Point	63.65352	-86.15677	CA	14
+Ikaujatjak Point	69.44552	-93.51421	CA	14
+Ikirasaaluk Channel	58.28612	-67.44167	CA	14
+Ikirasaaluk Channels	59.22953	-65.78158	CA	14
+Ikirasaalup Aqiarussunga Inlet	59.20453	-65.65936	CA	14
+Ikirasaapik Channel	59.05863	-65.68996	CA	14
+Ikirasaarjuk Channel	58.98923	-65.84407	CA	14
+Ikirasakittuq Channel	59.48362	-65.51906	CA	14
+Ikirasak Narrows	71.16802	-85.46675	CA	14
+Ikirasak Strait	69.20392	-90.28591	CA	14
+Ikirasak Strait	69.39691	-92.56407	CA	14
+Ikkarlak Glacier	73.22778	-81.1431	CA	14
+Ikkarualuk Reef	58.35862	-67.40778	CA	14
+Ikkarukutaaq Reef	58.54392	-67.69698	CA	14
+Ikpigjuak Point	69.1233	-94.21713	CA	14
+Ikuhik Bluff	66.29648	-112.91238	CA	14
+Ile de Baffin	68.0009	-74.99808	CA	14
+Ile d'Ellesmere	79.83528	-77.99695	CA	14
+Ile Gobin	60.76726	-78.11604	CA	14
+Ile Guindon	60.72709	-69.56056	CA	14
+Ile Marc	75.85154	-103.58639	CA	14
+Ile Pauline	76.01826	-103.56981	CA	14
+Iles de la Reine-Elisabeth	78.71862	-90.50044	CA	14
+Ile Vanier	76.16827	-103.25308	CA	14
+Iligliak Point	68.63432	-81.23177	CA	14
+Illurjualik Narrows	64.68403	-98.16744	CA	14
+Illusion Glacier	66.67005	-62.04118	CA	14
+Illusion Sound	59.95042	-69.68176	CA	14
+Imek Point	71.28462	-84.84993	CA	14
+Imina Inlet	81.90219	-88.95019	CA	14
+Imirqutailasitik Islet	58.45812	-67.60119	CA	14
+Index Peninsula	79.31025	-92.13431	CA	14
+Ingilik Point	64.27708	-95.53095	CA	14
+Ingirranikuluk Narrows	60.47959	-64.68564	CA	14
+Inglis Sound	76.31838	-94.93454	CA	14
+Ingnit Fiord	65.80062	-62.66362	CA	14
+Inman Harbour	67.95083	-110.16927	CA	14
+Inugsuin Fiord	69.89539	-69.24711	CA	14
+Inuit Islet	62.35055	-68.81453	CA	14
+Inukpaujaqtalik Point	66.91759	-84.56566	CA	14
+Inuksulik Point	66.48416	-86.04917	CA	14
+Inuksuliup Ikirasanga Channels	59.63751	-65.48325	CA	14
+Inukuk Point	63.45894	-91.09155	CA	14
+Inunnait Point	71.99026	-86.03328	CA	14
+Inussualuk Glacier	73.4542	-80.53748	CA	14
+Invincible Point	76.27796	-108.04032	CA	14
+Ipiolik Point	68.83087	-113.66575	CA	14
+Ipiotit Isthmus	68.10098	-82.13193	CA	14
+Ipiullik Point	69.27827	-114.44458	CA	14
+Ipiuqjuaq Valley	68.24545	-90.59012	CA	14
+Ippiugaq Cliff	68.88428	-104.93529	CA	14
+Iqaijuq Cove	62.83386	-69.79819	CA	14
+Iqalualuit Fiord	68.58422	-68.58024	CA	14
+Iqaluit	63.74697	-68.51727	CA	14
+Iqalujjuaq Fiord	65.66737	-65.08047	CA	14
+Iqalukpiligaarjuk Valley	66.51756	-85.94915	CA	14
+Iqalutsiaq Inlet	69.31502	-91.01383	CA	14
+Iqaluvigjuaq Inlet	69.46783	-91.11527	CA	14
+Irvine Inlet	65.61736	-67.6975	CA	14
+Isachsen	78.7853	-103.50476	CA	14
+Isachsen Dome	78.46886	-102.17234	CA	14
+Isachsen Glacier	78.54496	-77.37637	CA	14
+Isachsen Peninsula	79.16873	-104.75555	CA	14
+Isachsen Point	71.17956	-104.39123	CA	14
+Isarurjuaq Peninsula	64.61741	-100.25101	CA	14
+Isarutaq Point	69.20112	-90.55545	CA	14
+Isatigaarjuk Point	66.51756	-85.36577	CA	14
+Isatigaarjuk Point	65.41609	-84.62402	CA	14
+Isbjorn Strait	71.63451	-73.14767	CA	14
+Isle of Cairns	62.65061	-91.7499	CA	14
+Isle of Mists	76.5184	-97.20188	CA	14
+Isortoq Fiord	69.91779	-77.08146	CA	14
+Isortoq Gorge	70.48444	-75.06464	CA	14
+Issatik Point	62.15058	-92.58332	CA	14
+Isuk Rapids	66.88421	-86.48253	CA	14
+Itibiaryuk Portage	68.65095	-105.58537	CA	14
+Itibjariarusiq Point	66.76758	-82.13196	CA	14
+Itilliq Channel	69.81778	-77.64823	CA	14
+Itirbilung Fiord	69.30096	-68.66368	CA	14
+Itiriaq Channel	60.5863	-64.71322	CA	14
+Iviangernat Glacier	66.66046	-65.17921	CA	14
+Ivittuq Islet	58.52113	-66.79663	CA	14
+Ivugivik Harbour	62.41737	-77.89921	CA	14
+Jackman Sound	62.33377	-66.41427	CA	14
+Jackson Inlet	73.30153	-88.7836	CA	14
+Jaeger Point	63.35755	-90.67899	CA	14
+Jago Islet	69.05519	-105.00482	CA	14
+Jakeman Glacier	76.48504	-80.68164	CA	14
+James Beer Peninsula	75.25988	-97.16843	CA	14
+James Point	64.13959	-94.62528	CA	14
+James Ross Point	68.46769	-96.51732	CA	14
+James Ross Strait	69.66782	-96.16738	CA	14
+Jaynes Inlet	63.26725	-68.26453	CA	14
+Jeffers Islet	64.12009	-94.60997	CA	14
+Jeffries Range	76.13492	-99.75233	CA	14
+Jessiman Islet	64.11739	-94.41696	CA	14
+Jewell Glacier	78.65325	-74.92976	CA	14
+Jigging Point	64.2076	-94.7809	CA	14
+Jimi Maasi Glacier	72.46103	-76.06325	CA	14
+Johan Peninsula	78.70186	-75.49661	CA	14
+John Brown Point	75.58489	-92.01769	CA	14
+John Evans Glacier	79.64632	-74.07921	CA	14
+Johnson Point	67.85095	-100.66801	CA	14
+Johnson Point	75.38497	-79.46501	CA	14
+Johnston Cove	62.81732	-92.06664	CA	14
+Johnston Harbour	72.9681	-84.93285	CA	14
+Johnston Reef	63.61728	-68.33108	CA	14
+Jokel Fiord	78.86859	-78.08058	CA	14
+Jolliffe Glacier	80.62979	-71.92424	CA	14
+Jones Sound	76.00169	-85.99968	CA	14
+Jones Tower	62.53374	-64.68079	CA	14
+Joy Point	79.7019	-71.7954	CA	14
+Joy Range	79.25198	-87.33295	CA	14
+Judge Daly Promontory	81.25199	-66.99344	CA	14
+Jugeborg Fiord	81.23822	-89.50031	CA	14
+Julian Point	64.35065	-74.26509	CA	14
+Kaaknak Bend	68.46777	-90.88596	CA	14
+Kaaknak Point	68.45665	-92.22927	CA	14
+Kadloo Rapids	72.57216	-77.78432	CA	14
+Kairolik Fiord	65.51732	-63.51374	CA	14
+Kajunganirsaartuk Point	69.52192	-92.78911	CA	14
+Kakiak Point	72.6681	-86.6665	CA	14
+Kamarvik Harbour	64.71748	-87.48282	CA	14
+Kane Basin	79.07685	-73.08197	CA	14
+Kane Channel	62.51713	-64.33076	CA	14
+Kangeeak Point	67.96754	-64.73	CA	14
+Kangerk Fiord	66.38403	-67.2974	CA	14
+Kangert Fiord	67.09239	-63.52196	CA	14
+Kangilo Fiord	66.30073	-67.59744	CA	14
+Kangiqslugjuaq Inlet	69.05108	-92.92799	CA	14
+Kangiqslunugjuaq Inlet	69.31503	-90.69428	CA	14
+Kangirarviarjuk Isthmus	69.25112	-90.66377	CA	14
+Kangirlugag Fiord	68.80094	-68.16354	CA	14
+Kangirlujjuaq Point	71.46798	-95.50063	CA	14
+Kangirlukutaak Inlet	71.85131	-94.91723	CA	14
+Kangirsualujjuarusiq Inlet	60.44627	-64.83734	CA	14
+Kangirsuasiaq Inlet	59.44342	-65.32184	CA	14
+Kangirtukutaaruluq Fiord	67.69519	-64.48289	CA	14
+Kangok Fiord	68.61763	-68.4136	CA	14
+Kanguk Peninsula	79.25195	-92.25106	CA	14
+Kaparoqtalik Glacier	72.91948	-77.67456	CA	14
+Kater Point	67.73412	-109.01912	CA	14
+Kay Point	75.1182	-104.92	CA	14
+Kean Point	68.87422	-102.45558	CA	14
+Kearney Cove	74.73484	-90.76731	CA	14
+Kekerten	65.71599	-65.82503	CA	14
+Kekerten Harbour	65.71739	-65.81393	CA	14
+Keltie Inlet	64.46735	-73.33159	CA	14
+Kendall Strait	62.10875	-65.98084	CA	14
+Kennedy Channel	80.91867	-66.49366	CA	14
+Kennedy Point	64.00348	-94.31414	CA	14
+Kent Peninsula	68.50091	-107.00225	CA	14
+Keppel Head	81.51873	-66.60993	CA	14
+Kettle Cove	68.08429	-98.43423	CA	14
+Keyhole Glacier	69.40926	-68.88156	CA	14
+Key Point	76.23485	-104.27002	CA	14
+Kiasiittuq Inlet	69.29552	-90.93742	CA	14
+Kidlapait Range	64.75075	-77.49857	CA	14
+Kidlikpait Islet	59.96712	-69.61515	CA	14
+Kidlikpait Reefs	59.96712	-69.58175	CA	14
+Kiggaviaqtalik Valley	66.53416	-85.91585	CA	14
+Kiglavait Peninsula	69.48034	-90.55408	CA	14
+Kiglavait Point	66.61756	-83.96558	CA	14
+Kiitarayuk Glacier	69.45376	-68.67752	CA	14
+Kimakto Peninsula	70.27628	-87.83381	CA	14
+Kimmarut Point	62.85056	-69.86489	CA	14
+Kimmik Range	64.75074	-76.33189	CA	14
+Kimmirut	62.84726	-69.87009	CA	14
+Kind Islet	62.66731	-91.93323	CA	14
+Kingardjuak Point	66.08401	-65.91394	CA	14
+Kingarjuaq Summit	68.2677	-82.51536	CA	14
+King Charles Cape	64.23403	-77.34877	CA	14
+King Edward Point	76.13362	-81.04839	CA	14
+King George Archipelago	62.08381	-72.33224	CA	14
+King George Sound	61.95051	-72.39898	CA	14
+Kingmigjuaq Narrows	66.76757	-84.29893	CA	14
+Kingmik Point	75.40159	-96.96839	CA	14
+Kingmitokvik Point	68.82184	-81.21657	CA	14
+Kingnait Fiord	66.04651	-64.95543	CA	14
+Kingnait Harbour	66.034	-65.28046	CA	14
+Kingnait Range	64.50074	-77.16539	CA	14
+Kingnelling Fiord	67.45356	-64.25248	CA	14
+King Point	75.46152	-105.58548	CA	14
+Kinley Point	80.85208	-78.89715	CA	14
+Kintyre Point	70.31776	-68.16381	CA	14
+Kipalu Inlet	56.0837	-79.09967	CA	14
+Kipisa	65.20065	-66.94743	CA	14
+Kisarvik Anchorage	59.02253	-65.85658	CA	14
+Kisarvikuluk Anchorage	59.8286	-65.35571	CA	14
+Kislingbury Valley	80.7353	-68.66114	CA	14
+Kivitoo	67.93414	-64.86342	CA	14
+Kivitoo Harbour	67.92865	-64.99953	CA	14
+Kivitoo Point	67.93004	-64.85502	CA	14
+Kleybolte Peninsula	81.75217	-91.00092	CA	14
+Klutschak Peninsula	67.91768	-98.50096	CA	14
+Knebelsberg Glacier	66.56875	-62.1079	CA	14
+Knight Harbour	60.80056	-78.11605	CA	14
+Knight Harbour	62.68391	-91.19984	CA	14
+Knight Summit	60.58941	-64.58322	CA	14
+Knot Valley	79.40198	-87.41646	CA	14
+Knox Point	75.91835	-95.86815	CA	14
+Knud Inlet	68.45096	-97.55077	CA	14
+Knud Peninsula	79.1019	-77.13023	CA	14
+Koangok Narrows	64.55071	-99.06755	CA	14
+Kokumiak Harbour	64.93691	-83.18266	CA	14
+Koldewey Point	79.10189	-75.86329	CA	14
+Konig Cape	69.48431	-80.01504	CA	14
+Koodloo Point	63.53386	-68.01448	CA	14
+Koojesse Inlet	63.71729	-68.49779	CA	14
+Kootyuk Point	69.28434	-78.23144	CA	14
+Korok Inlet	64.33394	-73.3483	CA	14
+Kotuko Point	68.53423	-75.43153	CA	14
+Krabbe Point	74.03476	-98.76827	CA	14
+Kudlulik Peninsula	62.81732	-92.09994	CA	14
+Kugaaruk	68.53577	-89.82471	CA	14
+Kugluk Cove	62.33392	-76.01574	CA	14
+Kugluktuk	67.82743	-115.09649	CA	14
+Kuglukvik Point	60.13372	-69.58171	CA	14
+Kulutingwak Fiord	82.11894	-82.79807	CA	14
+Kumlien Fiord	65.40064	-64.74716	CA	14
+Kungo Reef	63.31725	-68.16452	CA	14
+Kunguk Peninsula	66.23402	-65.5639	CA	14
+Kunivvik Point	69.09945	-113.70266	CA	14
+Kuunguq Inlet	66.6509	-87.0326	CA	14
+Kuunguq Narrows	66.6842	-86.94929	CA	14
+Kuururjuaq Point	68.3009	-106.51885	CA	14
+Kuutsiik Inlet	69.43862	-92.91132	CA	14
+Labrador Channel	69.41775	-78.58151	CA	14
+Labrador Head	63.33382	-64.14729	CA	14
+Labrador Narrows	69.71779	-82.58243	CA	14
+Lacey Point	75.30158	-97.88518	CA	14
+Lac Rouviere	67.2	-117.38333	CA	14
+Laddie Harbour	56.25874	-78.66633	CA	14
+Lady Ann Strait	75.66839	-79.83164	CA	14
+Lady Franklin Point	68.48698	-113.27385	CA	14
+Lady Job Harbour	60.4669	-64.59842	CA	14
+Laird Peninsula	63.66728	-68.33108	CA	14
+Lambert Channel	68.58411	-114.08651	CA	14
+Lamb Point	63.65058	-68.34778	CA	14
+Lancaster Sound	74.21822	-83.9992	CA	14
+Landlocked Harbour	58.01714	-77.19943	CA	14
+Lands End	76.85165	-89.53363	CA	14
+Lands Lokk Point	81.60217	-91.91798	CA	14
+Lane Point	75.40159	-96.60163	CA	14
+Langley Inlet	59.88358	-65.23154	CA	14
+Langley Point	75.16821	-103.58634	CA	14
+Laprade Reef	63.56728	-68.31449	CA	14
+Larch Reef	62.68385	-69.68134	CA	14
+Larsen Sound	70.50122	-98.75129	CA	14
+Lavoie Point	72.73467	-80.23194	CA	14
+Lax Harbour	70.35118	-91.75004	CA	14
+Leah Point	71.5181	-90.03405	CA	14
+Leask Point	71.96802	-95.18386	CA	14
+Lecasse Point	60.40851	-64.4762	CA	14
+Lee Point	76.3961	-82.26544	CA	14
+Le Feuvre Inlet	72.30133	-96.76761	CA	14
+Leffert Glacier	78.68655	-75.02148	CA	14
+Leftfoot Islet	62.81732	-91.99993	CA	14
+Lemieux Point	74.51829	-82.5822	CA	14
+Lemming Harbour	71.55951	-73.36441	CA	14
+Lemming Islets	69.27681	-106.64669	CA	14
+Lenz Strait	60.49457	-64.80954	CA	14
+Ler Cove	76.66823	-89.80043	CA	14
+Levasseur Inlet	72.58469	-85.58315	CA	14
+Le Vesconte Point	75.75162	-94.66792	CA	14
+Le Vesconte Point	69.36781	-98.46774	CA	14
+Levesque Harbour	71.90132	-94.45046	CA	14
+Lewis Glacier	70.43174	-74.7646	CA	14
+Leyson Point	63.45209	-80.9355	CA	14
+Li Fiord	80.08527	-95.41874	CA	14
+Lillico Point	56.53359	-79.53304	CA	14
+Lily Point	79.24924	-104.64727	CA	14
+Lincoln Sea	82.50186	-61.98996	CA	14
+Lindsay Head	76.21831	-100.86929	CA	14
+Lindstrom Peninsula	76.60172	-83.66571	CA	14
+Li Point	80.16867	-95.70216	CA	14
+Little Bear Cape	77.66148	-88.23314	CA	14
+Little Corner Cliff	64.10075	-82.84942	CA	14
+Littlecote Channel	64.6173	-65.58061	CA	14
+Little Matterhorn	79.38526	-90.66732	CA	14
+Little Point	69.16779	-99.26787	CA	14
+Little Point	75.02553	-106.21376	CA	14
+Livingstone Fiord	66.05071	-67.7475	CA	14
+Livingstone Point	68.97467	-95.82982	CA	14
+Lloyd Point	64.43827	-78.03066	CA	14
+Locker Point	68.24938	-113.98644	CA	14
+Loks Land	62.43374	-64.6308	CA	14
+Londesborough Harbour	77.23508	-95.60172	CA	14
+LoneShoal	72.20134	-80.48189	CA	14
+Loney Point	76.81843	-96.90189	CA	14
+Long Cove	61.02825	-69.63692	CA	14
+Longfellow Inlet	68.16768	-98.33421	CA	14
+Long Point	69.09225	-105.43854	CA	14
+Longstaff Bluff	68.90096	-75.19816	CA	14
+Louise Fiord	78.9688	-102.60499	CA	14
+Lovell Point	74.95154	-92.08421	CA	14
+Low Inlet	59.86699	-65.24823	CA	14
+Low Point	73.15137	-80.58191	CA	14
+Low Point	64.05069	-94.38355	CA	14
+Low Point	63.85069	-92.73334	CA	14
+Lucy Point	53.0669	-79.93303	CA	14
+Luigi d'Abruzzi Cape	68.67324	-95.52553	CA	14
+Lunan Point	64.10959	-94.64888	CA	14
+Lund Islet	68.59542	-95.82695	CA	14
+Lupton Channel	62.55045	-64.83081	CA	14
+Lyall Point	76.68486	-104.25355	CA	14
+Lyman Glacier	78.04622	-75.76769	CA	14
+Lyon Inlet	66.53416	-83.88217	CA	14
+Lyons Point	73.85146	-97.18434	CA	14
+Macartney Point	76.50585	-90.13387	CA	14
+Macculloch Glacier	72.35821	-75.70482	CA	14
+MacGregor Strait	60.40021	-64.4817	CA	14
+Mackar Inlet	68.401	-85.71587	CA	14
+Mackay Bluff	65.68417	-88.78292	CA	14
+Mackay Point	76.65165	-101.2528	CA	14
+Mackenzie Point	67.89793	-115.21152	CA	14
+Maclean Strait	77.50183	-103.50472	CA	14
+Macready Point	68.7993	-103.01073	CA	14
+Magda Plateau	72.30135	-82.83241	CA	14
+Magnetic Point	66.30078	-70.63112	CA	14
+Maguse Point	61.33383	-93.83344	CA	14
+Main Channel	62.23395	-74.78221	CA	14
+Makalu Point	68.73425	-75.26488	CA	14
+Makinson Inlet	77.26846	-79.66469	CA	14
+Maktak Fiord	67.31326	-64.37613	CA	14
+Mamittuittuq Inlet	67.61767	-86.46594	CA	14
+Manico Point	63.54793	-85.62901	CA	14
+Maniittur Cape	62.55054	-69.41463	CA	14
+Manitounuk Sound	55.49751	-77.41615	CA	14
+Mannik Islet	62.76732	-91.98323	CA	14
+Manning Point	67.01748	-107.71887	CA	14
+Mann Point	82.48518	-61.63987	CA	14
+Maori Point	76.0383	-107.70606	CA	14
+Maqqaq Point	68.17184	-89.42186	CA	14
+Margaree Point	63.03381	-67.48105	CA	14
+Maria Point	76.51823	-104.58684	CA	14
+Marina Peninsula	75.86839	-78.94807	CA	14
+Marine Glacier	82.28552	-78.74642	CA	14
+Marker Islets	68.49333	-111.37974	CA	14
+Markham Fiord	82.98281	-71.45971	CA	14
+Markham Point	75.45159	-97.78517	CA	14
+Markham Strait	68.66772	-100.66801	CA	14
+Marvin Peninsula	82.83553	-74.99471	CA	14
+Masa Glacier	66.48403	-64.63047	CA	14
+Maskell Inlet	82.86898	-78.49596	CA	14
+Massey Sound	78.50188	-94.00183	CA	14
+Mathe Point	70.4513	-88.61726	CA	14
+Matheson Point	68.87047	-95.15742	CA	14
+Mathiassen Brook	64.8147	-82.78966	CA	14
+Matsuq Bend	68.34686	-89.98443	CA	14
+Maud Bight	73.65143	-79.23165	CA	14
+Maud Harbour	71.75123	-73.66445	CA	14
+Maujatuuq Fiord	67.73141	-64.8107	CA	14
+Maujatuurusiq Inlet	67.81331	-64.70786	CA	14
+Maurice Point	63.66743	-83.93289	CA	14
+Maury Channel	75.68492	-94.5012	CA	14
+May Cove	75.26821	-104.71999	CA	14
+May Inlet	76.25162	-100.75258	CA	14
+May Point	79.26868	-85.89923	CA	14
+McBeth Fiord	69.53986	-69.16365	CA	14
+McCrary Isthmus	67.63426	-96.7507	CA	14
+McDougall Sound	75.16827	-97.00172	CA	14
+McGill Islet	64.06739	-94.40025	CA	14
+McKenzie Inlet	69.10105	-84.96591	CA	14
+McKinlay Point	72.26944	-101.08086	CA	14
+McLeary Point	56.1671	-78.66627	CA	14
+McLelan Strait	60.3455	-64.62058	CA	14
+McLeod Head	77.78514	-94.98507	CA	14
+M'Clintock Channel	72.0013	-102.0019	CA	14
+M'Clintock Glacier	82.41891	-76.12595	CA	14
+M'Clintock Inlet	82.75224	-76.49532	CA	14
+M'Clintock Point	69.16777	-100.1346	CA	14
+M'Clure Point	64.0743	-81.28822	CA	14
+McMurdo Point	64.2132	-81.3882	CA	14
+McTavish Point	67.78424	-101.06807	CA	14
+Meeko Point	56.27544	-78.83297	CA	14
+MeighenIce Cap	80.00187	-99.2531	CA	14
+Melville Peninsula	68.00097	-83.99891	CA	14
+Melville Sound	68.16758	-107.0022	CA	14
+Mer de Lincoln	82.50186	-61.98996	CA	14
+Merganser Cove	59.35041	-69.66523	CA	14
+Merles Harbour	63.70067	-91.39988	CA	14
+Mermaid Fiord	66.23394	-62.73018	CA	14
+Merritt Point	68.7675	-114.77006	CA	14
+Merry Headland	63.59506	-91.34848	CA	14
+Meta Incognita Peninsula	62.75083	-68.49757	CA	14
+Meteorologist Peninsula	78.00199	-100.0062	CA	14
+Michael Point	62.53384	-69.33122	CA	14
+Middle Fiord	79.61864	-95.00181	CA	14
+Midget Glacier	80.89789	-82.61214	CA	14
+Midnight Glacier	79.58699	-92.53614	CA	14
+Midnight Sun Valley	80.85209	-82.74829	CA	14
+Milne Fiord	82.63558	-81.44731	CA	14
+Milne Glacier	82.40224	-79.99683	CA	14
+Milne Ice Shelf	82.7356	-81.74733	CA	14
+Milne Inlet	72.33464	-80.49862	CA	14
+Milne Peninsula	76.80173	-96.5018	CA	14
+Milne Point	73.83475	-100.85167	CA	14
+Minto Anchorage	60.6099	-64.70964	CA	14
+Minto Head	73.08471	-102.28517	CA	14
+Miqqusaaq Inlet	66.55087	-86.3325	CA	14
+Mischief Glacier	66.49925	-62.31352	CA	14
+Misfortune Shoals	60.88375	-69.89806	CA	14
+Mission Cove	61.04765	-69.63973	CA	14
+Mission Cove	60.41957	-64.83673	CA	14
+Mitalik Peninsula	68.68427	-98.01756	CA	14
+Mitchell Bluff	69.90109	-77.23148	CA	14
+Mitchell Point	82.28556	-82.96474	CA	14
+Mitre Glacier	66.59785	-62.37043	CA	14
+Mocklin Point	78.26902	-104.42327	CA	14
+Moffet Inlet	72.10136	-84.49968	CA	14
+Mokka Fiord	79.5853	-87.24975	CA	14
+Monark Reef	63.85209	-92.76815	CA	14
+Montcalm Point	63.25054	-68.0145	CA	14
+Mont du Lievre	66.56735	-62.34683	CA	14
+Mooneshine Fiord	66.41733	-61.78007	CA	14
+Mooshof Point	68.47174	-112.74492	CA	14
+Morin Point	74.51829	-82.46557	CA	14
+Morin Point	71.31808	-89.80072	CA	14
+Morrisey Point	68.83431	-79.24826	CA	14
+Morrissey Harbour	64.03401	-77.78216	CA	14
+Morshead Point	76.63497	-100.05254	CA	14
+Mosisee Point	56.60035	-79.14974	CA	14
+Moss Cove	76.73486	-89.41703	CA	14
+Mossviken Point	76.71825	-89.45034	CA	14
+Mujangaaq Bend	64.48828	-84.91622	CA	14
+Mukpollo Peninsula	55.91707	-79.16638	CA	14
+Mueller Ice Cap	79.78532	-91.50089	CA	14
+Mundy Harbour	70.20117	-91.66676	CA	14
+Munroe Inlet	67.25095	-86.99931	CA	14
+Munro Harbour	60.41187	-64.85563	CA	14
+Murchison Promontory	71.96802	-94.95053	CA	14
+Murphy Point	82.85646	-77.07879	CA	14
+Murray Harbour	59.78383	-80.13279	CA	14
+Murray Harbour	76.82518	-108.87137	CA	14
+Murray Ice Cap	81.35205	-69.39418	CA	14
+Murray Point	63.60057	-71.84822	CA	14
+Murray Point	68.58014	-110.33003	CA	14
+Muskox Fiord	76.5017	-87.44993	CA	14
+Muskox Rapids	67.38258	-115.72399	CA	14
+Najjuttuuq Fiord	68.82314	-69.2735	CA	14
+Nakarpoq Glacier	66.65765	-64.93338	CA	14
+Nakturaliktalik Cliff	68.40666	-89.91502	CA	14
+Nallulialgammik	66.33333	-113.9	CA	14
+Nallulik Fiord	69.21766	-68.74701	CA	14
+Nallussiaq Fiord	65.65063	-63.54703	CA	14
+Nalugalaarvik Point	63.27712	-85.64425	CA	14
+Nanertak Reefs	59.20039	-69.13181	CA	14
+Nanisivik	73.0347	-84.54947	CA	14
+Nannuk Harbour	61.90045	-66.39761	CA	14
+Nansen Sound	81.0021	-90.58399	CA	14
+Nanuk Islet	60.03372	-69.69844	CA	14
+Napaartuliup Aqiarussunga Inlet	59.26703	-65.50515	CA	14
+Napparti Point	62.71725	-69.64805	CA	14
+Naqsanajuk Valley	68.70526	-92.27229	CA	14
+Naqsaq Valley	66.30633	-65.60412	CA	14
+Nares Strait	80.00191	-69.99482	CA	14
+Narpaing Fiord	67.80087	-65.54682	CA	14
+Narsarsuk Glacier	72.90698	-77.34811	CA	14
+Narwhal Anchorage	53.81696	-79.16637	CA	14
+Nasarlugaq Point	66.36755	-84.54896	CA	14
+Nasauya Point	66.08961	-65.98055	CA	14
+Nascopie Point	62.81726	-69.8315	CA	14
+Nascopie Reefs	64.20071	-76.43197	CA	14
+Nastapoka Sound	56.88367	-76.54941	CA	14
+Natirngnarjuaq Valley	68.18434	-89.35795	CA	14
+Native Point	63.73402	-82.51612	CA	14
+Natkusiak Peninsula	72.74695	-109.65368	CA	14
+Natsik Islet	60.03932	-69.65264	CA	14
+Naujaarjuat Head	66.66757	-84.0989	CA	14
+Naujaat Bluff	66.18402	-65.69721	CA	14
+Naujaat Inlet	66.53417	-86.19918	CA	14
+Nauja Cove	62.70061	-91.23314	CA	14
+Nauja Harbour	68.10088	-74.2148	CA	14
+Naujan Escarpment	71.96801	-80.91535	CA	14
+Naujasitik Reef	58.41592	-67.63259	CA	14
+Naujat Glacier	66.95496	-65.01797	CA	14
+Nauyat Cliff	72.40138	-85.16645	CA	14
+Navy Board Inlet	73.25138	-80.99867	CA	14
+Navy Channel	68.751	-78.99825	CA	14
+Naytenow Shoal	57.24804	-90.66579	CA	14
+Nedlukseak Fiord	67.91758	-66.36365	CA	14
+Nedlung Point	66.56331	-71.43818	CA	14
+Needle Cove	69.10102	-79.09824	CA	14
+Needle Point	69.10102	-79.13154	CA	14
+Needle Point	63.71458	-91.85824	CA	14
+Neil Icecap	80.79788	-82.71501	CA	14
+Neil Peninsula	80.78538	-82.83165	CA	14
+Nelson Griffiths Point	75.05974	-105.97824	CA	14
+Nelson Shoal	57.59199	-92.2745	CA	14
+Neptune Reef	81.56875	-66.99338	CA	14
+Nerutusoq Glacier	66.57856	-65.17232	CA	14
+Nesters Islet	63.13382	-67.66447	CA	14
+Netchik Point	66.52167	-86.26309	CA	14
+Netsiksiuvik Inlet	69.73444	-92.62522	CA	14
+Nettilling Fiord	66.03402	-68.19755	CA	14
+Ne Ultra Strait	63.83402	-87.89966	CA	14
+Neumayer Peninsula	68.65102	-95.85056	CA	14
+Newell Sound	63.10053	-67.88109	CA	14
+Newton Fiord	63.08381	-66.13088	CA	14
+Ney Harbour	62.86721	-67.24771	CA	14
+Niagara Glacier	81.53541	-74.99576	CA	14
+Niante Harbour	64.88392	-66.29738	CA	14
+Niaqunguut Point	66.53418	-86.73256	CA	14
+Niaqurnak Point	69.15096	-67.1968	CA	14
+Nichols Bluff	68.11755	-72.96462	CA	14
+Niflheim Glacier	66.50354	-65.35838	CA	14
+Nijadluk Harbour	65.08391	-64.04713	CA	14
+Nikkutuuq Islet	58.53093	-66.97695	CA	14
+Nipper Reef	58.98365	-68.86521	CA	14
+Niunngualiup Kangirsukulua Inlet	60.01774	-65.1244	CA	14
+Noble Inlet	62.06715	-66.08086	CA	14
+Noel Harbour	63.11725	-70.93147	CA	14
+Noel Point	76.73497	-100.91945	CA	14
+Noice Peninsula	78.41901	-104.0063	CA	14
+Noice Point	80.13519	-99.06975	CA	14
+Nordstrand Point	76.98502	-88.96688	CA	14
+Norfolk Inlet	76.46838	-91.08404	CA	14
+Norman Glacier	66.72856	-65.17088	CA	14
+Norman Inlet	66.83418	-84.33223	CA	14
+North Arm	72.0652	-76.01466	CA	14
+North Channel	64.11319	-94.51697	CA	14
+North Cove	73.23073	-88.95865	CA	14
+Northeast Cape	69.68439	-82.53242	CA	14
+Northeast Cliff	60.58362	-68.01482	CA	14
+Northeast Point	77.73515	-93.28464	CA	14
+North Fiord	79.93524	-96.41901	CA	14
+North Foreland	62.53373	-64.09743	CA	14
+North Grant Glacier	82.44095	-65.7721	CA	14
+North Head	61.03379	-69.96474	CA	14
+North Pangnirtung Fiord	67.15075	-64.28029	CA	14
+North Skerries	62.45068	-78.13254	CA	14
+North Star Point	68.7841	-114.77006	CA	14
+North Star Shoal	53.96696	-79.96639	CA	14
+Northumberland Sound	76.81843	-96.66854	CA	14
+North Wood Glacier	82.38675	-65.87224	CA	14
+Nudlukta Inlet	71.7346	-94.30044	CA	14
+Nudlung Fiord	68.3509	-67.44693	CA	14
+Nueltin Narrows	60.16714	-99.75078	CA	14
+Nugsanarsuk Point	68.88354	-81.40683	CA	14
+Nukap Glacier	82.16882	-70.78676	CA	14
+Nukapingwa Glacier	80.88129	-82.96364	CA	14
+Nuleoktolik Point	64.26741	-76.29865	CA	14
+Nuluarniavik Islet	58.82454	-66.47891	CA	14
+Nunagiak Point	64.21597	-95.80728	CA	14
+Nunariaq Point	63.81464	-83.58282	CA	14
+Nunatsiaq Point	73.4195	-81.15288	CA	14
+Nunavut	70.16784	-90.73325	CA	14
+Nursarnaq Point	69.28302	-91.09434	CA	14
+Nuuksatluguluk Valley	69.41766	-68.91356	CA	14
+Nuuksuq Glacier	69.39267	-68.42757	CA	14
+Nuvualujjuaq Peninsula	62.74635	-69.66478	CA	14
+Nuvualup Kangirsurulua Channel	60.22851	-64.90663	CA	14
+Nuvuaqjuk Point	68.83169	-89.72331	CA	14
+Nuvugapik Point	61.03379	-69.93133	CA	14
+Nuvuit Peninsula	69.78438	-77.58151	CA	14
+Nuvukallak Point	60.41827	-64.83703	CA	14
+Nuvuk Harbour	62.38957	-78.00173	CA	14
+Nuvuk Point	65.08392	-64.54718	CA	14
+Nuvuk Point	65.13411	-86.93274	CA	14
+Nuvuk Point	69.03164	-113.62464	CA	14
+Nuvukuluk Point	71.41803	-84.91663	CA	14
+Nuvukulup Kangirsukulua Inlet	60.35298	-64.8095	CA	14
+Nuvuruaq Point	71.068	-84.86661	CA	14
+Nuvurutaq Point	71.76801	-93.76706	CA	14
+Nuvuttuaq Point	64.29788	-95.931	CA	14
+Nuwata	65.13404	-77.61505	CA	14
+Nyeboe Fiord	70.41794	-86.50012	CA	14
+O'Brien Harbour	60.38131	-64.51779	CA	14
+Observation Cove	62.36725	-68.79783	CA	14
+Observation Point	63.46734	-90.99984	CA	14
+Ocean Eagle Point	68.651	-78.8983	CA	14
+O'Connell Reef	63.56727	-68.23108	CA	14
+October Shoal	63.28385	-68.16452	CA	14
+Octopus Reef	58.65363	-68.17482	CA	14
+Ogle Point	68.2996	-95.87696	CA	14
+Okpuddyshao Glacier	80.89519	-82.71217	CA	14
+Oliver Glacier	72.11801	-76.79806	CA	14
+Oliver Harbour	76.41833	-101.36947	CA	14
+Oliver Sound	72.25133	-77.73151	CA	14
+Omarolluk Sound	56.05039	-79.03292	CA	14
+Ooblooyah Glacier	82.59724	-77.37898	CA	14
+Opera Glass Cape	63.27552	-67.1366	CA	14
+Organ Heights	76.46839	-97.83531	CA	14
+Orion Islet	65.15064	-66.50018	CA	14
+Orkney Point	68.46941	-110.94492	CA	14
+Osborn Range	81.41884	-78.41354	CA	14
+Otaska Harbour	55.067	-78.29956	CA	14
+Oterkvik Point	68.48687	-112.58821	CA	14
+Ottawa Glacier	70.49814	-71.03641	CA	14
+Otto Fiord	81.03543	-86.9996	CA	14
+Otto Glacier	81.34935	-84.14859	CA	14
+Oulouksione Point	73.0125	-85.14959	CA	14
+Outcrop Point	68.33423	-76.29835	CA	14
+Outremont Point	63.10052	-67.68107	CA	14
+Owen Point	75.98489	-92.58409	CA	14
+Paakitok Lagoon	66.80083	-71.19782	CA	14
+Paaliarjuk Point	69.52332	-93.51972	CA	14
+Paasuutalik Reef	58.44893	-67.08165	CA	14
+Paddy Hamilton Peninsula	76.15172	-80.98167	CA	14
+Padle Fiord	66.91738	-63.41367	CA	14
+Padlei	61.91725	-96.66718	CA	14
+Padlei Narrows	66.01747	-71.03121	CA	14
+Padliak Inlet	69.25937	-103.01853	CA	14
+Paget Point	78.13512	-75.58011	CA	14
+Paine Bluff	77.98511	-75.99697	CA	14
+Paine Point	76.41838	-97.65196	CA	14
+Palander Strait	68.55101	-100.75131	CA	14
+Palisade Cliffs	58.40048	-78.1328	CA	14
+Palisade Glacier	77.44756	-80.77596	CA	14
+Palmer Point	74.93335	-107.93381	CA	14
+Palmer Point	76.13492	-100.23574	CA	14
+Palmer Reef	63.61728	-68.34778	CA	14
+Palmer Shoal	74.71823	-91.184	CA	14
+Pamiok Point	60.06712	-69.56512	CA	14
+Panalik Point	66.06754	-85.96592	CA	14
+Pangertot Peninsula	62.60061	-92.16665	CA	14
+Pangnirtung	66.14511	-65.71252	CA	14
+Pangnirtung Fiord	66.12431	-65.6236	CA	14
+Papik Point	62.61731	-91.84992	CA	14
+Parade Glacier	66.67436	-65.23061	CA	14
+Parallel Glacier	79.56869	-90.4889	CA	14
+Parapet Glacier	66.46743	-64.66658	CA	14
+Parc national du Canada Auyuittuq	67.50085	-65.99698	CA	14
+Parc national du Canada Quttinirpaaq	82.21884	-72.21073	CA	14
+Parc national du Canada Sirmilik	72.83467	-80.58198	CA	14
+Parrish Glacier	79.60195	-77.18008	CA	14
+Parry Channel	74.25153	-94.00055	CA	14
+Parry Peninsula	82.83539	-64.9906	CA	14
+Parry Point	67.98415	-72.94793	CA	14
+Parry Point	69.71222	-97.26474	CA	14
+Pasley Cove	68.4175	-114.03648	CA	14
+Paterson Inlet	71.5012	-73.41445	CA	14
+Patrol Point	74.71823	-91.01737	CA	14
+Pattinson Harbour	71.51798	-95.3339	CA	14
+Payer Harbour	78.70185	-74.21296	CA	14
+Payer Point	69.2678	-98.66778	CA	14
+Peabody Point	68.53427	-97.28402	CA	14
+Peale Point	63.71729	-68.69781	CA	14
+Pearse Strait	76.04326	-103.18634	CA	14
+Peary Channel	79.66874	-101.50441	CA	14
+Pebble Brook	67.10086	-72.34795	CA	14
+Pechell Point	68.13429	-95.98388	CA	14
+Peck Inlet	62.25066	-78.16595	CA	14
+Peck Point	64.10069	-94.33355	CA	14
+Pecten Harbour	61.06728	-77.84932	CA	14
+Peel Inlet	69.13438	-96.16738	CA	14
+Peel Sound	73.00141	-96.33416	CA	14
+Peglar Point	68.55096	-97.43405	CA	14
+Pelletier Point	63.73398	-91.74992	CA	14
+Pell Inlet	75.80155	-102.43615	CA	14
+Pell Point	77.46851	-94.65157	CA	14
+Pelly Point	70.20848	-101.02641	CA	14
+Pennell Point	76.78503	-96.66853	CA	14
+Penny Ice Cap	67.28409	-66.21381	CA	14
+Penny Islet	62.81732	-91.88322	CA	14
+Penny Strait	76.5017	-97.00184	CA	14
+Per Ardua Glacier	81.51742	-76.47671	CA	14
+Peregrine Bluff	69.92476	-93.85865	CA	14
+Peregrine Point	65.43403	-76.81488	CA	14
+Peregrine Sound	59.00865	-69.11523	CA	14
+Peril Point	63.91879	-93.04179	CA	14
+Perseverance Shoal	76.43499	-96.95179	CA	14
+Peter Force Sound	62.9505	-65.99728	CA	14
+Peterhead Inlet	63.7506	-68.6478	CA	14
+Peter Ledge	63.45055	-67.91448	CA	14
+Petersen Point	75.15156	-93.4844	CA	14
+Peters Point	62.41717	-66.33086	CA	14
+Petite Ile, La	60.96357	-69.89112	CA	14
+Petsut Glacier	66.67715	-64.87087	CA	14
+Phantom Glacier	79.55529	-90.19723	CA	14
+Phoenix Head	74.63491	-81.3154	CA	14
+Pichit Peninsula	63.60057	-68.11447	CA	14
+Pike-Resor Channel	63.25024	-68.04781	CA	14
+Pikiuliapik Islet	58.29472	-67.69279	CA	14
+Pikiulikallak Islet	58.43923	-67.09555	CA	14
+Pim Point	75.36827	-92.45107	CA	14
+Pinger Point	69.10106	-81.26529	CA	14
+Piniarvik Peninsula	63.78395	-99.0675	CA	14
+Pioneer Channel	76.17387	-95.09018	CA	14
+Piper Glacier	79.45367	-90.25222	CA	14
+Piqqiq Bend	68.08432	-89.09401	CA	14
+Playfair Point	75.35155	-100.80245	CA	14
+Pleasant Inlet	62.80056	-69.98147	CA	14
+Poillon Point	63.95072	-89.01637	CA	14
+Point Arnhem	68.98409	-115.62022	CA	14
+Point Belford	66.35084	-83.23209	CA	14
+Point Caen	69.30088	-115.93694	CA	14
+Point Davison	70.66789	-96.36748	CA	14
+Point Edwards	70.56788	-96.21745	CA	14
+Point Elizabeth	66.70087	-82.09866	CA	14
+Point Gell	73.0514	-101.8851	CA	14
+Point Hargrave	67.36766	-87.46607	CA	14
+Point Hay	68.26759	-106.9189	CA	14
+Point Henderson	65.5744	-85.05737	CA	14
+Point Hogarth	76.16831	-92.78404	CA	14
+Point Kendall	70.0094	-86.45799	CA	14
+Point Liardet	71.48458	-95.56734	CA	14
+Point Little	76.11836	-95.13459	CA	14
+Point Meridian	61.78372	-65.9476	CA	14
+Point Moss	82.96885	-67.14118	CA	14
+Point Neill	73.15013	-89.1546	CA	14
+Point Walker	71.75131	-96.83413	CA	14
+Polaris	75.39599	-96.88228	CA	14
+Polaris Narrows	64.10069	-94.40025	CA	14
+Polaris Reef	63.71729	-68.51449	CA	14
+Polar Point	54.36692	-81.0829	CA	14
+Polecat Point	69.15103	-77.28167	CA	14
+Pollock Head	71.60122	-73.66444	CA	14
+Polly Channel	58.6338	-78.54951	CA	14
+Polunin Inlet	60.13352	-64.965	CA	14
+Polynia Bluff	77.53503	-81.68167	CA	14
+Pork Peninsula	62.40059	-92.33328	CA	14
+Porpoise Cove	58.30046	-77.74947	CA	14
+Portage Rapids	60.66717	-98.15059	CA	14
+Port Bowen	73.21823	-88.96706	CA	14
+Port Burwell	60.40017	-64.84843	CA	14
+Port Burwell	60.42517	-64.83173	CA	14
+Port de Boucherville	63.20062	-77.54945	CA	14
+Port de Laperriere	62.56738	-78.06593	CA	14
+Port Epworth	67.75079	-111.95282	CA	14
+Porter Inlet	63.58387	-68.16447	CA	14
+Port Harvey	60.48629	-64.67154	CA	14
+Port Kennedy	72.03463	-94.33374	CA	14
+Port Leopold	73.85152	-90.33321	CA	14
+Port Logan	71.40126	-93.10055	CA	14
+Port Neill	73.15153	-89.1171	CA	14
+Port Parry	69.65112	-97.41756	CA	14
+Port Refuge	76.30168	-94.7179	CA	14
+Possession Point	71.98463	-94.0504	CA	14
+Poston Point	63.63396	-91.34988	CA	14
+Powell Inlet	74.58483	-85.46621	CA	14
+Prairie Point	63.98405	-83.13275	CA	14
+President's Seat	62.65048	-66.76434	CA	14
+Pressure Point	73.98481	-95.30059	CA	14
+Pricket Point	63.45065	-76.53213	CA	14
+Prince Edward Point	76.46834	-89.95053	CA	14
+Prince Gustaf Adolf Sea	78.5104	-106.76729	CA	14
+Prince Philip Heights	68.43937	-89.71639	CA	14
+Prince Regent Inlet	73.00145	-90.50009	CA	14
+Princess Charlotte Monument	75.83499	-78.83135	CA	14
+Princess Margaret Range	79.68531	-90.50065	CA	14
+Prism Glacier	66.71735	-62.26211	CA	14
+Promise Point	63.80068	-92.50001	CA	14
+Prospect Point	74.65156	-94.78473	CA	14
+Protecteur Point	77.33503	-81.14828	CA	14
+Prudhomme Point	71.66803	-85.29984	CA	14
+Ptarmigan Fiord	64.78392	-66.11407	CA	14
+Ptarmigan Islet	64.06739	-94.40025	CA	14
+Ptarmigan Point	66.13407	-70.88117	CA	14
+Pudla Inlet	64.33401	-76.24864	CA	14
+Pugh Point	63.18384	-68.06451	CA	14
+Pullen Point	63.30052	-64.13061	CA	14
+Pullen Strait	75.50161	-96.00155	CA	14
+Pungnertuk Point	64.3674	-75.79858	CA	14
+Purfur Cove	69.8344	-84.24935	CA	14
+Purgatory Valley	66.68395	-61.88006	CA	14
+Purple Valley	82.48556	-80.9972	CA	14
+Pursuit Point	69.33435	-78.73151	CA	14
+Putnam Highland	65.25073	-73.16491	CA	14
+Puurusiq Valley	66.32853	-65.41391	CA	14
+Pym Point	76.40154	-104.47016	CA	14
+Qaaniqsiurvik Narrows	66.65089	-86.89928	CA	14
+Qabvigjuaq Point	68.45101	-81.78184	CA	14
+Qaiqsuk Point	66.25762	-64.63042	CA	14
+Qairulik Reef	53.85026	-79.29968	CA	14
+Qairusuk Bight	63.64509	-80.54373	CA	14
+Qammarjuit Point	73.32359	-81.1709	CA	14
+Qamutitalik Inlet	66.90093	-87.33264	CA	14
+Qarmartalik Cove	68.74263	-68.66366	CA	14
+Qasigialik Narrows	66.81758	-84.44895	CA	14
+Qasigiarsitik Inlet	59.02643	-65.72046	CA	14
+Qavvasiktuq Point	66.10211	-64.83043	CA	14
+Qavvialuk Point	68.401	-81.94857	CA	14
+Qijujjuujaat Kangirsunga Inlet	59.41002	-65.38295	CA	14
+Qijuttaaqanngittuq Valley	66.51044	-65.56397	CA	14
+Qikiqraq Point	63.37293	-84.46078	CA	14
+Qikiqtarjuaq	67.55546	-64.02493	CA	14
+Qikiqtaujaq Peninsula	68.24134	-89.16072	CA	14
+Qikirrarnaq Bluff	68.26748	-114.10316	CA	14
+Qikirtakallak Islets	59.7475	-65.56655	CA	14
+Qikirtapiit Reefs	58.50953	-67.33277	CA	14
+Qikirtaq Nuvukutaalik Point	58.43863	-67.04275	CA	14
+Qila Glacier	66.58963	-64.61939	CA	14
+Qilalukkat Point	63.56599	-81.6841	CA	14
+Qiminajuk Esker	68.46073	-93.74059	CA	14
+Qirniqtuarjuk Point	67.41767	-87.59939	CA	14
+Qoqak Glacier	66.69936	-65.1945	CA	14
+Qorbignaluk Headland	72.36665	-78.59835	CA	14
+Quajon Fiord	67.70083	-65.16354	CA	14
+Quanatulik Cove	58.33032	-67.66779	CA	14
+Quarman Point	68.51771	-81.54851	CA	14
+Queen Elizabeth Foreland	62.38373	-64.46419	CA	14
+Queen Harbour	74.83493	-80.0985	CA	14
+Queen Maud Gulf	68.33427	-102.00153	CA	14
+Queen Maud Gulf Bird Sanctuary	67.0842	-101.75139	CA	14
+Queens Cape	65.16733	-64.71389	CA	14
+Queens Channel	76.18497	-96.00151	CA	14
+Quernbiter Fiord	71.60124	-75.0312	CA	14
+Quickstep Harbour	66.21742	-66.43061	CA	14
+Qukluktuq Point	64.09935	-83.38838	CA	14
+Qulannatuq Aturia Channel	58.50862	-67.90259	CA	14
+Qungusuriaqturvik Point	68.76076	-94.07676	CA	14
+Quorik Point	56.21713	-78.6663	CA	14
+Quqluktualuk Rapids	64.12856	-83.43418	CA	14
+Qutairrurjuaq Cliff	68.55387	-89.89972	CA	14
+Quunnguarjuk Narrows	68.19964	-89.54688	CA	14
+Quvneq Glacier	66.70636	-65.09449	CA	14
+Raanes Peninsula	78.50188	-85.99924	CA	14
+Radmore Harbour	80.46869	-70.49492	CA	14
+Rae Isthmus	66.80091	-86.99929	CA	14
+Rae Point	63.36723	-67.69776	CA	14
+Rae Strait	68.83437	-94.85049	CA	14
+Ragged Point	63.81738	-92.63333	CA	14
+Rainbow Point	56.08367	-78.94953	CA	14
+Raleigh Glacier	66.51035	-62.20371	CA	14
+Ranger Brook	63.10901	-85.30542	CA	14
+Ranger Reef	60.05042	-69.59843	CA	14
+Rankin Inlet	62.73392	-91.98323	CA	14
+Rankin Inlet	62.81732	-92.08324	CA	14
+Rannoch Arm	71.50124	-74.99789	CA	14
+Raper Point	75.45168	-79.59832	CA	14
+Rapid Point	75.86833	-97.55183	CA	14
+Rasmussen Basin	68.43573	-94.75873	CA	14
+Ratcliffe Arm	71.46789	-73.08103	CA	14
+Ravenscraig Harbour	70.70104	-69.71398	CA	14
+Razorback Point	72.21804	-80.83195	CA	14
+Razor Top Point	67.18409	-107.8022	CA	14
+Rea Cove	75.33759	-105.69054	CA	14
+Rea Point	75.36798	-105.62462	CA	14
+Record Point	81.18535	-69.5778	CA	14
+Red Fox Cove	55.73364	-79.333	CA	14
+Red Point	66.78417	-83.89887	CA	14
+Red Point	64.10069	-94.41696	CA	14
+Red Valley	72.48468	-85.33311	CA	14
+Reeves Harbour	62.53383	-70.34821	CA	14
+Refuge d'oiseaux de Dewey Soper	66.0008	-73.5815	CA	14
+Refuge d'oiseaux de Harry Gibbons	63.78404	-85.91646	CA	14
+Refuge d'oiseaux de la baie Est	64.00073	-81.99935	CA	14
+Refuge d'oiseaux de la riviere McConnell	60.78387	-94.41705	CA	14
+Refuge d'oiseaux de l'Ile Akimiski	52.91677	-81.08298	CA	14
+Refuge d'oiseaux de l'Ile Bylot	73.25139	-78.49827	CA	14
+Refuge d'oiseaux de l'Ile Prince-Leopold	74.00153	-89.99988	CA	14
+Refuge d'oiseaux de l'Ile Seymour	76.80167	-101.25283	CA	14
+Refuge Harbour	70.88436	-71.2475	CA	14
+Regina Narrows	64.05069	-94.36695	CA	14
+Reid Point	75.54694	-109.99031	CA	14
+Reid Point	71.35127	-95.58394	CA	14
+Reid Point	69.0177	-76.61501	CA	14
+Reindeer Cape	78.78556	-104.97266	CA	14
+Reindeer Peninsula	78.88544	-104.58883	CA	14
+Remote Peninsula	70.85104	-70.91417	CA	14
+Rendalen Valley	76.50169	-88.25012	CA	14
+Renny Point	63.92435	-83.59811	CA	14
+Rens Fiord	81.1688	-93.66848	CA	14
+Requisite Channel	68.35099	-100.41793	CA	14
+Resolute	74.69736	-94.83062	CA	14
+Resolution Harbour	61.33362	-64.83097	CA	14
+Resolution Tickle	61.31702	-64.83098	CA	14
+Rice Strait	78.71855	-74.71308	CA	14
+Richardson Point	68.33429	-96.3839	CA	14
+Richardson Point	75.56097	-105.45888	CA	14
+Ricker Glacier	80.8854	-84.08194	CA	14
+Riddle Point	75.33488	-96.81836	CA	14
+Rightfoot Islet	62.85062	-92.04994	CA	14
+Ristvedt Point	71.90353	-104.79618	CA	14
+Riviere de la Roquette	69.2011	-98.70108	CA	14
+Robb Peninsula	76.35169	-95.18461	CA	14
+Robert Harbour	76.61826	-103.92014	CA	14
+Robert Peel Inlet	65.15065	-66.93073	CA	14
+Robert Point	63.56727	-71.5482	CA	14
+Robertson Esker	60.16715	-98.36734	CA	14
+Robertson Point	75.18702	-105.81345	CA	14
+Robeson Channel	82.0019	-61.49087	CA	14
+Robin Point	71.6679	-72.74762	CA	14
+Robinson Sound	63.38383	-64.41401	CA	14
+Roche Point	76.72558	-109.46365	CA	14
+Rococo Point	76.4849	-89.78379	CA	14
+Roes Welcome Sound	65.0175	-86.66611	CA	14
+Ross Inlet	67.16765	-87.26604	CA	14
+Ross Peninsula	69.58444	-91.33331	CA	14
+Ross Point	68.52701	-111.16731	CA	14
+Ross Point	74.9225	-107.26635	CA	14
+Rougemont Glacier	66.70065	-61.91897	CA	14
+Roundel Glacier	81.96882	-71.5942	CA	14
+Rowatt Harbour	56.30041	-78.91644	CA	14
+Royal Society Fiord	71.40121	-73.99782	CA	14
+Royer Cove	63.20881	-66.77265	CA	14
+Royle Point	75.5016	-97.03501	CA	14
+Ruin Point	63.76884	-83.60233	CA	14
+Rum Cove	72.02633	-94.46716	CA	14
+Ryder Inlet	74.86827	-88.53351	CA	14
+Rymer Point	69.03874	-113.62091	CA	14
+Saate Glacier	78.81576	-75.16318	CA	14
+Saattuq Peninsula	68.80106	-94.2671	CA	14
+Saatuqartuq Cove	68.78424	-68.59695	CA	14
+Sabine Peninsula	76.33481	-109.50455	CA	14
+Sackville Point	63.18384	-67.91449	CA	14
+Safety Cove	66.51755	-83.63214	CA	14
+Saglaarjuk Peninsula	65.7008	-83.41554	CA	14
+Sagvak Inlet	69.67614	-92.76693	CA	14
+Sail Harbour	82.85209	-65.24065	CA	14
+Sainsbury Point	55.66704	-79.21638	CA	14
+Sakiak Fiord	65.70061	-62.74694	CA	14
+Sakpik Channel	63.25065	-90.59977	CA	14
+Sala Point	56.03366	-78.93282	CA	14
+Sallijukak Islet	58.89954	-66.41001	CA	14
+Sam Ford Fiord	70.50124	-71.14753	CA	14
+Samson Point	71.43451	-74.01452	CA	14
+Samuel Peninsula	76.46839	-97.16856	CA	14
+Sand Head	51.41689	-80.33282	CA	14
+Sandpiper Islet	59.61711	-69.23177	CA	14
+Sands Glacier	78.95189	-78.12646	CA	14
+Sandspollen	76.15166	-90.23395	CA	14
+Sandstone Rapids	67.45069	-115.64069	CA	14
+Sandy Islets	62.68391	-92.13325	CA	14
+Sandy Point	61.73386	-93.25011	CA	14
+Sanguaq Bend	68.15099	-83.3321	CA	14
+Sanikiluaq	56.53366	-79.23306	CA	14
+Santianna Point	62.43399	-83.98323	CA	14
+Sapilirvik Cove	58.46092	-67.74059	CA	14
+Sapisaituq Point	63.45489	-81.16331	CA	14
+Saqvaqjuaq Inlet	63.64786	-90.55669	CA	14
+Sargent Point	73.86249	-86.15778	CA	14
+Sargent Point	76.20167	-97.50182	CA	14
+Sarvak Channel	72.76809	-93.73365	CA	14
+Sarvalik Cove	68.86764	-69.06376	CA	14
+Sarvalik Fiord	68.85094	-69.2638	CA	14
+Sarvaq Inlet	68.83434	-81.99861	CA	14
+Saunders Point	63.88399	-80.46598	CA	14
+Savage Harbour	61.83371	-65.74759	CA	14
+Sawtooth Ledge	72.13463	-80.66532	CA	14
+Sawtooth Range	79.58529	-83.24851	CA	14
+Sawtooth Reef	59.4171	-69.16518	CA	14
+Scaife Glacier	79.9187	-93.7848	CA	14
+Scallon Cove	74.75713	-91.1674	CA	14
+Scallon Point	77.90204	-101.73971	CA	14
+Scarab Point	62.78392	-91.36655	CA	14
+Scarp Brook	73.01809	-98.46792	CA	14
+Scaur Point	63.30055	-68.08111	CA	14
+Schei Peninsula	80.25206	-87.99988	CA	14
+Schei Point	77.88508	-86.81613	CA	14
+Schei Summit	79.28523	-80.89786	CA	14
+Schomberg Point	75.55153	-102.7862	CA	14
+Schooner Cove	63.98398	-94.26693	CA	14
+Schooner Harbour	63.93397	-93.9002	CA	14
+Schooner Harbour	64.41746	-77.89877	CA	14
+Schooner Opening	55.55031	-77.38274	CA	14
+Scoresby Point	75.53485	-101.51933	CA	14
+Scott Inlet	71.10941	-71.10576	CA	14
+Scott's Fortress	62.61715	-64.91421	CA	14
+Scree Point	60.38361	-67.89812	CA	14
+Scylla Glacier	81.60212	-75.32897	CA	14
+Scylla Reef	63.41725	-67.98109	CA	14
+Seahorse Point	63.784	-80.14926	CA	14
+Seal Cove	76.46823	-89.26707	CA	14
+Sealer Narrows	62.80056	-69.81488	CA	14
+Seal Point	64.11746	-83.18276	CA	14
+Sentry Islet	62.51724	-69.33122	CA	14
+Separation Point	75.13486	-93.4678	CA	14
+Sermilik Glacier	72.91248	-78.19545	CA	14
+Serpentine Reach	70.58446	-75.11463	CA	14
+Seven Sisters Glacier	82.10632	-71.04383	CA	14
+Severn Harbour	63.56735	-90.96654	CA	14
+Severn Point	64.01679	-94.51555	CA	14
+Sevigny Point	69.7844	-82.13233	CA	14
+Shaftesbury Inlet	62.58385	-69.26461	CA	14
+Shagstone Reef	63.63389	-68.4978	CA	14
+Shark Fiord	66.55073	-66.91403	CA	14
+Sharko Peninsula	62.70047	-65.33084	CA	14
+Sheills Peninsula	76.26838	-95.06797	CA	14
+Sheldrake Shoal	54.30021	-81.0829	CA	14
+Sherard Head	73.38473	-97.11772	CA	14
+Sherard Osborn Point	72.28464	-101.66846	CA	14
+Sherer Inlet	66.86758	-84.58227	CA	14
+Sherman Basin	67.78427	-97.58412	CA	14
+Sherman Inlet	67.96768	-98.28423	CA	14
+Sherwood Head	78.13515	-89.53348	CA	14
+Ship Point	73.3847	-84.74943	CA	14
+Ship Sands	51.41689	-80.41623	CA	14
+Shoal Harbour	59.5672	-77.81595	CA	14
+Shortland Channel	71.25126	-96.4508	CA	14
+Sidjegiak Point	68.91767	-75.51489	CA	14
+Sievright Point	68.21773	-88.3162	CA	14
+Sight Point	74.66826	-94.88473	CA	14
+Sikunga Glacier	70.47453	-70.98359	CA	14
+Silent Cove	62.78392	-92.14995	CA	14
+Silt Point	73.1014	-84.39942	CA	14
+Simmonds Point	68.90386	-95.70059	CA	14
+Simmons Ice Cap	81.31175	-68.84409	CA	14
+Simmons Peninsula	76.66831	-89.11699	CA	14
+Simpson Peninsula	68.56777	-88.74957	CA	14
+Simpson Strait	68.48427	-97.16741	CA	14
+Sinclair Point	67.21765	-87.19934	CA	14
+Singer Inlet	60.06553	-65.05112	CA	14
+Singer Point	60.58362	-68.21484	CA	14
+Singialuk Peninsula	69.57074	-116.75514	CA	14
+Siorarsuk Peninsula	69.91781	-81.24877	CA	14
+Siqaivilaaq Point	63.74794	-83.77176	CA	14
+Siqquqtijjutitalik Esker	65.95084	-86.69933	CA	14
+Sirmiq Inlet	66.11753	-84.28223	CA	14
+Siskin Point	62.81732	-91.88322	CA	14
+Sister Islets	62.00019	-66.86434	CA	14
+Siuraqtujuq Point	66.38415	-85.29906	CA	14
+Siurartujuq Point	72.45138	-85.51653	CA	14
+Sivingavuk Glacier	66.51885	-65.3167	CA	14
+Sivuaq Point	63.6104	-81.75079	CA	14
+Sixteen Mile Brook	63.98545	-83.65231	CA	14
+Skaare Fiord	78.85193	-88.08303	CA	14
+Skeleton Valley	81.53536	-69.09385	CA	14
+Skraeling Point	80.08536	-87.29968	CA	14
+Skrugar Point	78.76857	-93.83467	CA	14
+Skruis Point	75.68495	-88.76712	CA	14
+Skua Point	63.11723	-67.76448	CA	14
+Skua Reef	63.87989	-92.85146	CA	14
+Sledge Pointers	70.55938	-69.07215	CA	14
+Slidre Fiord	80.00204	-86.24939	CA	14
+Slime Peninsula	78.05177	-97.50287	CA	14
+Slippery Point	63.98398	-94.15022	CA	14
+Smellie Point	71.93462	-94.36715	CA	14
+Smith Cape	69.43437	-81.96563	CA	14
+Smith Channel	63.48944	-64.83063	CA	14
+Smith Peninsula	82.50187	-62.85694	CA	14
+Smith Point	68.36768	-98.48423	CA	14
+Smith Sound	78.41851	-73.99633	CA	14
+Smyth Harbour	65.1508	-83.69915	CA	14
+Snow Dome	79.43527	-89.96717	CA	14
+Snowline Glacier	70.52035	-70.87109	CA	14
+Snug Harbour	67.73412	-109.11913	CA	14
+Sock Peninsula	78.75201	-103.5881	CA	14
+Sophia Channel	76.00165	-95.50138	CA	14
+Sophia Cove	75.10155	-91.9176	CA	14
+Sophie Point	76.31828	-103.00308	CA	14
+Sor Fiord	77.33498	-84.66579	CA	14
+Sorry Harbour	61.61702	-64.68085	CA	14
+South Cape	76.30168	-84.44923	CA	14
+South Cape Fiord	76.435	-84.88261	CA	14
+South Channel	64.03399	-94.58356	CA	14
+Southeast Arm	61.85054	-72.61565	CA	14
+Southeast Point	60.292	-67.96484	CA	14
+Southeast Sister Glacier	79.46197	-90.9257	CA	14
+South Fiord	79.33523	-94.41833	CA	14
+South Fiord Dome	79.45196	-94.08486	CA	14
+South Grant Glacier	82.43815	-65.62615	CA	14
+South Reefs	61.83373	-66.19761	CA	14
+South Shoals	62.71731	-91.83321	CA	14
+South Sister Glacier	79.46367	-90.95571	CA	14
+Southwest Arm	61.85056	-72.71565	CA	14
+Southwest Sister Glacier	79.45867	-91.01742	CA	14
+Southwind Fiord	66.83396	-62.41353	CA	14
+Southwind Glacier	66.59375	-62.42184	CA	14
+South Wood Glacier	82.35765	-66.22512	CA	14
+Spalding Islets	68.15092	-103.91852	CA	14
+Spence Harbour	56.26709	-78.9497	CA	14
+Spencer Range	75.86823	-107.4206	CA	14
+Sphinx	79.48528	-91.90097	CA	14
+Spline Reef	68.61772	-99.75113	CA	14
+Spracklin Point	56.01705	-78.8995	CA	14
+Squirrel Glacier	66.64925	-62.25371	CA	14
+Staffe Islet	62.48397	-77.7492	CA	14
+Stafford Point	76.68496	-101.11948	CA	14
+Staith Point	63.21724	-68.0145	CA	14
+Stanley Harbour	64.70078	-82.14926	CA	14
+Stanley Head	75.16828	-96.46836	CA	14
+Stanley Point	73.80141	-85.09925	CA	14
+Stanley Reef	62.70055	-69.73137	CA	14
+Stanners Harbour	69.53442	-93.52532	CA	14
+StarnesFiord	76.61842	-82.16536	CA	14
+Starnes Point	76.21562	-81.09838	CA	14
+Starvation Cove	69.15975	-105.99266	CA	14
+Starvation Cove	68.20098	-96.60065	CA	14
+Steacie Ice Cap	78.83521	-91.25074	CA	14
+Steensby Inlet	70.25117	-78.58177	CA	14
+Steensby Peninsula	71.95135	-84.99977	CA	14
+Stefansson Point	80.1519	-99.65322	CA	14
+StenkulFiord	77.41839	-83.89891	CA	14
+Stephens Headland	72.53469	-85.61655	CA	14
+Stevenson Inlet	72.26104	-78.49143	CA	14
+Stewart Point	67.76767	-98.83432	CA	14
+Stewart Point	76.35169	-95.38465	CA	14
+Stewart Valley	70.74963	-71.49756	CA	14
+St. Georges Society Cliffs	73.0279	-85.37716	CA	14
+Stickle Islet	62.76732	-92.03324	CA	14
+St. Joseph Plateau	73.18476	-87.49994	CA	14
+St. Laurent Point	77.36843	-81.21499	CA	14
+Stokes Range	76.33491	-101.58609	CA	14
+Stolz Peninsula	78.86863	-87.63287	CA	14
+Stony Cape	81.61873	-66.10972	CA	14
+Stony Point	63.85068	-92.80005	CA	14
+Stony Portage	66.85092	-87.24933	CA	14
+Stony Shoals	58.93365	-68.68179	CA	14
+Storkerson Peninsula	72.50126	-106.50322	CA	14
+Stormtop Glacier	66.59096	-62.47744	CA	14
+Strand Fiord	79.18523	-91.46757	CA	14
+Strand Glacier	79.35526	-89.92048	CA	14
+Strathcona Fiord	78.71858	-82.91516	CA	14
+Strathcona Sound	73.08471	-84.54946	CA	14
+Stratton Inlet	74.53485	-86.66646	CA	14
+Strivewell Narrows	63.99098	-94.13352	CA	14
+St. Roch Basin	69.2511	-95.00052	CA	14
+St. Roch Harbour	66.91735	-62.0968	CA	14
+Stromness Harbour	53.86696	-79.06636	CA	14
+Strom Point	76.7015	-89.70039	CA	14
+Strutton Harbour	52.10019	-78.98272	CA	14
+Strzelecki Harbour	72.23462	-96.55086	CA	14
+Stuart Point	74.98484	-92.16763	CA	14
+Stubbs Point	83.03549	-68.99186	CA	14
+Stuckberry Point	82.95214	-66.72434	CA	14
+Sturt Point	68.78166	-103.42323	CA	14
+Stygge Glacier	78.72268	-78.3974	CA	14
+Success Point	76.60154	-104.6703	CA	14
+Sugluk Basin	62.17561	-75.83234	CA	14
+Sugluk Inlet	62.25061	-75.61571	CA	14
+Sukuqtalik Point	63.57707	-86.76679	CA	14
+Sulluq Inlet	69.49694	-90.6846	CA	14
+Suluk Islet	62.81732	-92.01663	CA	14
+Suluraq Point	66.46756	-85.91585	CA	14
+Suluraq Point	69.04829	-92.52233	CA	14
+Sunatalik Point	72.21808	-85.88327	CA	14
+Sun Cape	81.70201	-65.3093	CA	14
+Sun Cape Peninsula	81.65202	-65.6595	CA	14
+Sunneshine Fiord	66.61735	-61.79676	CA	14
+Surprise Fiord	78.25185	-90.00021	CA	14
+Surprise Point	75.98495	-94.50116	CA	14
+Surquituq Channel	59.34752	-65.55516	CA	14
+Survey Point	62.79502	-92.08184	CA	14
+Sutherland Point	77.73533	-102.45643	CA	14
+Svarte Fiord	77.66843	-84.59902	CA	14
+Svartevaeg Cliffs	81.28542	-92.75147	CA	14
+Svartfjeld Peninsula	80.8521	-87.49967	CA	14
+Svendsen Peninsula	77.75174	-83.99886	CA	14
+Sven Hedin Glacier	79.49774	-77.50109	CA	14
+Sverdrup Channel	80.00193	-97.7527	CA	14
+Sverdrup Glacier	75.67949	-83.27135	CA	14
+Sverdrup Inlet	75.45167	-86.19979	CA	14
+Swanston Point	67.56768	-87.81613	CA	14
+Swiss Range	79.652	-92.7179	CA	14
+Sydkap Glacier	76.60171	-85.04933	CA	14
+Sydkap Ice Cap	76.83499	-85.4994	CA	14
+Sydney Webb Point	72.16803	-100.91833	CA	14
+Sylph Reef	76.38499	-96.16827	CA	14
+Taaluttat Peninsula	66.38415	-84.48225	CA	14
+Taasluksianga Cliff	68.9317	-89.98305	CA	14
+Taatniq Point	67.8218	-88.23009	CA	14
+Taconite Inlet	82.85227	-78.21258	CA	14
+Tahiujaq Sound	69.41084	-90.49426	CA	14
+Takiyok Reef	59.3837	-69.11518	CA	14
+Talbot Glacier	77.99624	-78.24748	CA	14
+Talbot Inlet	77.91853	-77.66407	CA	14
+Taligok Point	60.95047	-69.95364	CA	14
+Talirujaaq Point	69.01765	-67.76355	CA	14
+Talon Reefs	58.95035	-69.08183	CA	14
+Taloyoak	69.53722	-93.52112	CA	14
+Tanquary Fiord	81.08541	-79.74741	CA	14
+Tanquary Glacier	78.45045	-76.19127	CA	14
+Tariugaq Inlet	66.53417	-86.28249	CA	14
+Tariujaq Arm	70.58451	-78.99841	CA	14
+Tarr Inlet	63.71729	-68.39778	CA	14
+Tasiujaarutit Inlet	69.44424	-90.62209	CA	14
+Tasiujaguluk Inlet	60.30443	-64.30364	CA	14
+Tasiujaq Cove	68.86765	-69.38042	CA	14
+Tatnam Shoal	57.31334	-90.9392	CA	14
+Tattiggaq Point	63.73678	-91.82493	CA	14
+Tavani	62.06728	-93.10008	CA	14
+Tawsig Fiord	64.78391	-65.94735	CA	14
+Taylor Point	69.61782	-95.6006	CA	14
+Tay Sound	72.10133	-78.9984	CA	14
+Teall Point	63.05058	-101.95112	CA	14
+Tellik Inlet	64.26741	-76.58199	CA	14
+Ten Foot Patch	51.71689	-79.20503	CA	14
+Terianiaq Glacier	66.62296	-65.0306	CA	14
+Term Point	62.13388	-92.4667	CA	14
+Tern Cove	77.30172	-81.49837	CA	14
+Terra Nivea	62.27548	-66.51428	CA	14
+Terror Point	64.1229	-80.9493	CA	14
+Terror Point	63.91738	-93.08339	CA	14
+Terry Point	75.35158	-97.26845	CA	14
+Tessioyaluk Inlet	64.37145	-73.88165	CA	14
+Tete Blanche	66.76745	-65.14725	CA	14
+Tete Blanche Glacier	66.74106	-65.09867	CA	14
+Tete des Cirques	66.46744	-65.28057	CA	14
+Thackeray Point	71.61801	-99.55128	CA	14
+The Bastions	71.83455	-74.24784	CA	14
+The Bellows Valley	81.83536	-66.74295	CA	14
+The Blairs	70.78452	-92.56681	CA	14
+The Bluff	56.5836	-79.26642	CA	14
+The Buttocks	64.40078	-84.46625	CA	14
+The Castle Gables	72.96809	-77.79818	CA	14
+The Eyrie	66.59236	-62.51355	CA	14
+The Gallery	72.5347	-86.41657	CA	14
+The Guardians	66.41744	-65.24724	CA	14
+The Heel	62.85056	-69.86489	CA	14
+Thelon Bluffs	64.51739	-101.25113	CA	14
+Thelon Game Sanctuary	64.834	-102.16797	CA	14
+The Maw	70.29133	-69.09716	CA	14
+The Mitre	66.60065	-62.38013	CA	14
+The Narrows	61.60045	-72.18248	CA	14
+The Narrows	63.73389	-67.83102	CA	14
+The Narrows	82.50194	-62.2901	CA	14
+The Needle	63.2672	-64.04735	CA	14
+The Palisades	67.23396	-116.40324	CA	14
+The Points	63.57994	-84.99973	CA	14
+Theron Reefs	63.41725	-68.04779	CA	14
+The Sabot	78.71875	-103.42159	CA	14
+The Shoulder	64.42997	-82.91612	CA	14
+The Swirlers	61.30032	-64.84768	CA	14
+The Tail Feathers	70.50127	-70.53071	CA	14
+The Throat	57.05038	-76.66611	CA	14
+The Two Craters	78.28517	-92.18423	CA	14
+Thibert Point	63.31735	-90.71649	CA	14
+Thomas Lee Inlet	75.58494	-89.08378	CA	14
+Thompson Glacier	79.46867	-90.50058	CA	14
+Thompson Harbour	60.23383	-77.56586	CA	14
+Thompson Point	69.4511	-96.56745	CA	14
+Thornton Point	76.15161	-100.66924	CA	14
+Thorvald Peninsula	78.96859	-76.49679	CA	14
+Thuban Point	69.11772	-76.86502	CA	14
+Thunder Cove	68.35097	-97.01739	CA	14
+Tigumiavik Harbour	75.41829	-96.60164	CA	14
+Tikeraq Point	69.68437	-77.13146	CA	14
+Tikerarsuk Point	69.41773	-76.39819	CA	14
+Tikigakjuak Point	71.78463	-85.59979	CA	14
+Tikigayok Point	69.14197	-106.14441	CA	14
+Tikilak Point	65.65087	-88.84963	CA	14
+Tikiqqariqtuq Point	69.57893	-93.19467	CA	14
+Tikirakuluk Point	64.15678	-96.01712	CA	14
+Tikiralujuaq Point	63.66734	-99.1175	CA	14
+Tikiranajuk Point	68.83579	-90.43311	CA	14
+Tikiranajuk Point	69.2247	-93.79345	CA	14
+Tikiraq Peninsula	69.52194	-91.01386	CA	14
+Tikiraq Point	68.01767	-82.13194	CA	14
+Tikiraqtuuyuq Point	63.30063	-96.56717	CA	14
+Tikirarjualaaq Peninsula	65.9342	-89.74977	CA	14
+Tikirarjuannuaq Point	69.41641	-93.11695	CA	14
+Tikirarjuaq Point	68.40386	-89.50107	CA	14
+Tikirarjuaq Point	69.3039	-93.15025	CA	14
+Tikirarjuaraarjuk Point	68.41216	-89.99553	CA	14
+Tikkun Point	62.81718	-65.39753	CA	14
+Tikkuut Peninsula	62.76726	-69.86486	CA	14
+Timmuktitsivik Point	69.09971	-90.20539	CA	14
+Tingin Fiord	69.15096	-68.6637	CA	14
+Tinujjivik Inlet	66.38415	-84.43225	CA	14
+Toms Harbour	65.6841	-84.56568	CA	14
+Toms Point	76.65155	-104.47028	CA	14
+Tongue Cape	63.24912	-67.00598	CA	14
+Tookoolito Inlet	63.08379	-64.74743	CA	14
+Topsail Head	61.30032	-64.84768	CA	14
+Tor Peninsula	78.76873	-103.72161	CA	14
+Tor Point	78.73539	-103.7718	CA	14
+Torup Point	71.85986	-104.76211	CA	14
+Touak Fiord	65.78953	-63.38729	CA	14
+Towson Point	75.86765	-105.4454	CA	14
+Tozer Headland	75.34048	-97.15173	CA	14
+Trading Post Cove	58.70037	-69.64858	CA	14
+Tragedy Point	56.31714	-78.88305	CA	14
+Trainor Reef	63.45064	-78.86626	CA	14
+Transect Glacier	66.45213	-64.63747	CA	14
+Transit Glacier	79.57199	-90.0338	CA	14
+Trappers Cove	78.56859	-86.99944	CA	14
+Trap Point	68.88566	-105.77021	CA	14
+Tremblay Sound	72.41805	-80.99873	CA	14
+Triangle Glacier	70.39973	-74.76181	CA	14
+Triangle Peninsula	79.40198	-93.15133	CA	14
+Trinity Glacier	77.96574	-78.55316	CA	14
+Trold Fiord	78.25183	-85.28233	CA	14
+Troll Fiord	77.90176	-84.91571	CA	14
+Tromso Fiord	71.20118	-73.66447	CA	14
+Truelove Inlet	75.63499	-84.56613	CA	14
+Tudlik Peninsula	62.80062	-92.13325	CA	14
+Tugaaqturvik Narrows	69.35391	-92.20012	CA	14
+Tugghittug Point	69.26733	-114.87476	CA	14
+Tulloch Point	68.51767	-97.1174	CA	14
+Tulugak Point	61.00239	-70.01473	CA	14
+Tuluqqaat Point	66.56756	-82.56542	CA	14
+Tumbling Glacier	66.46744	-65.57785	CA	14
+Tundra Point	66.05077	-71.0146	CA	14
+Tunuiaqtalik Point	72.56806	-78.48163	CA	14
+Tunulliit Inlet	69.71924	-92.89465	CA	14
+Tupermit Glacier	66.59796	-65.13342	CA	14
+Tupikturvik Point	68.33026	-90.28868	CA	14
+Tuqsurattak Channel	69.30673	-90.47345	CA	14
+Turnabout Glacier	82.15211	-69.14341	CA	14
+Turnagain Point	68.63419	-108.21914	CA	14
+Turnbull Point	76.21829	-102.51964	CA	14
+Turner Cliffs	72.95144	-86.49981	CA	14
+Turner Glacier	66.68686	-65.22791	CA	14
+Turner Point	69.41776	-77.33158	CA	14
+Turnstone Glacier	81.66881	-73.91192	CA	14
+Tuttle Point	61.53374	-71.59902	CA	14
+Tuvak Reefs	59.91712	-69.44844	CA	14
+Tuvakutaaq Channel	58.35312	-67.68029	CA	14
+Tuvalik Point	60.06432	-69.64843	CA	14
+Tver Sound	76.48487	-89.66717	CA	14
+Twin Glacier	81.26452	-67.96603	CA	14
+Twin Glacier	78.84497	-75.79663	CA	14
+Twin Jugs	65.93396	-109.75227	CA	14
+Twin Knolls	62.80062	-91.59988	CA	14
+Twist Point	63.99708	-94.28963	CA	14
+Two Brothers	58.8672	-80.41629	CA	14
+Tyrrell Arm	62.45058	-97.50058	CA	14
+Ujagasukjulik Point	63.66737	-91.58321	CA	14
+Ujarasugjuligaarjuk Point	68.83027	-94.59075	CA	14
+Ujarasugjulik Point	66.55086	-85.61581	CA	14
+Ujarasugjulik Point	64.03405	-83.5801	CA	14
+Ujarasujjulik Inlet	58.81703	-65.83716	CA	14
+Ujarattaak Point	67.98431	-88.34951	CA	14
+Ujuktuk Fiord	65.21732	-64.43046	CA	14
+Ukiarsiviup Sivurarsinga Channel	60.48737	-64.81264	CA	14
+Ukkusissaaliup Nuvua Point	58.95925	-69.11853	CA	14
+Uksuriajuaq Rapids	63.86736	-99.93421	CA	14
+Ulaqitaarvik Point	66.33417	-86.63257	CA	14
+Ulukaummavik Cliff	68.43026	-89.96783	CA	14
+Uluksan Peninsula	73.06665	-85.38231	CA	14
+Ulu Rapids	72.59306	-78.07747	CA	14
+Umiak Cove	60.2503	-68.14816	CA	14
+Umiakkuvik Cove	58.42842	-67.68899	CA	14
+Umiakuvik Point	63.92573	-82.4744	CA	14
+Umiaraaluktalik Cove	66.50088	-86.71596	CA	14
+Umiartalik Cove	72.23467	-85.4665	CA	14
+Umiijarvik Point	65.65083	-86.51605	CA	14
+Umiligaarjuk Point	68.58432	-81.34848	CA	14
+Umingmaktok	67.69663	-107.94808	CA	14
+Unhealing Brook	63.68824	-85.64008	CA	14
+United States Range	82.41879	-67.99236	CA	14
+Unngilitaittuq Inlet	68.83029	-90.51922	CA	14
+Unthank Cove	76.61833	-90.35058	CA	14
+Upinguvuluk Point	72.7847	-93.71705	CA	14
+Upirngivik Cove	71.88462	-94.45046	CA	14
+Uplasaatligaarjuk Inlet	69.79425	-93.47112	CA	14
+Uqanguaq Glacier	73.24168	-81.23902	CA	14
+Uqualinivik Cove	58.56002	-67.96509	CA	14
+Utarqiuvik Islet	58.29142	-67.35727	CA	14
+Utinatuk Glacier	70.43842	-70.93357	CA	14
+Uummanaq Islet	58.38092	-67.47118	CA	14
+Uutigak Inlet	66.81761	-87.11601	CA	14
+Uvauk Inlet	63.86739	-92.75005	CA	14
+Van Koenig Point	71.08466	-89.53402	CA	14
+Van Royen Glacier	80.8854	-83.16509	CA	14
+Vendom Fiord	77.75173	-82.99864	CA	14
+Vesle Fiord	79.13525	-83.99875	CA	14
+Victoria Harbour	70.15117	-91.58336	CA	14
+Victoria Head	79.21859	-74.4129	CA	14
+Victoria Headland	67.36765	-95.30051	CA	14
+Victoria Strait	69.51786	-100.50156	CA	14
+Victor Point	73.15142	-85.3996	CA	14
+Victory Point	69.66783	-98.301	CA	14
+Viking Ice Cap	81.51881	-75.74593	CA	14
+Viks Fiord	75.99057	-90.58406	CA	14
+Village Point	76.98505	-96.83523	CA	14
+Virginia Glacier	66.60625	-62.28712	CA	14
+Viscount Melville Sound	74.25141	-105.00333	CA	14
+Vivi Harbour	64.01729	-64.73048	CA	14
+Wade Point	78.53514	-74.94652	CA	14
+Waldegrave Bluff	74.68483	-90.88393	CA	14
+Wales Sound	61.83375	-72.11578	CA	14
+Walker Arm	70.50379	-71.64757	CA	14
+Wallace Head	69.40105	-78.51489	CA	14
+Wallis Point	74.61823	-90.63388	CA	14
+Walrus Cape	76.40164	-88.88358	CA	14
+Walrus Fiord	76.50161	-88.75024	CA	14
+Walrus Head Glacier	70.49403	-70.9989	CA	14
+Walrus Point	53.70025	-79.14967	CA	14
+Walrus Shoal	79.41861	-74.52945	CA	14
+Walton Point	55.2503	-77.84951	CA	14
+Ward Hunt Ice Shelf	83.12224	-73.49868	CA	14
+Ward Inlet	63.45053	-67.52273	CA	14
+Ward Point	75.83501	-82.36565	CA	14
+Ware Point	76.45163	-101.66954	CA	14
+Warren Point	76.2323	-108.05878	CA	14
+Watering Cove	61.35033	-64.91437	CA	14
+Water Sound	76.53499	-97.91874	CA	14
+Weasel Point	62.46728	-97.35057	CA	14
+Webber Glacier	80.91739	-82.16891	CA	14
+Webb Point	72.72778	-102.70883	CA	14
+Webb Point	76.66838	-99.46911	CA	14
+Wedd Islet	64.12849	-94.56837	CA	14
+Weeping Glacier	66.57856	-65.22923	CA	14
+Weld Harbour	71.06794	-96.4175	CA	14
+Wellington Channel	75.46829	-93.20109	CA	14
+Wellington Strait	69.46781	-95.98396	CA	14
+Wentzal Headland	75.3849	-96.18488	CA	14
+West Arm	69.10099	-105.15205	CA	14
+West Arm	56.08366	-79.41643	CA	14
+West Cape Fiord	80.20197	-95.50212	CA	14
+Western Reefs	62.73385	-69.71479	CA	14
+West Fiord	76.10167	-90.00063	CA	14
+West Fortress Glacier	70.47593	-70.84467	CA	14
+West Inlet	64.18401	-76.58199	CA	14
+Weston Escarpment	65.05074	-77.08162	CA	14
+West Pioneer Glacier	70.44952	-70.83356	CA	14
+West Point	63.73398	-92.13327	CA	14
+Weymouth Inlet	59.29752	-65.37744	CA	14
+Whale Cove	62.17138	-92.57782	CA	14
+Whale Cove	62.15888	-92.56672	CA	14
+Whale Point	64.20075	-88.03288	CA	14
+Whaler Point	73.83482	-90.28319	CA	14
+Whale Sound	65.91751	-84.8157	CA	14
+Wharton Harbour	63.35056	-71.71494	CA	14
+Wharton Point	69.05106	-100.50136	CA	14
+Whiffen Inlet	69.13435	-84.99923	CA	14
+Whirlpool Rapids	66.68419	-95.75054	CA	14
+Whiskukun Channel	63.23384	-68.09781	CA	14
+Whistler Point	63.28385	-68.11451	CA	14
+Whitebear Point	68.16762	-103.43505	CA	14
+White Glacier	79.44697	-90.66732	CA	14
+White Head	61.33363	-64.94768	CA	14
+Whitehead Point	73.46813	-97.20104	CA	14
+White Point	81.20211	-90.23386	CA	14
+White Strait	62.83384	-70.6648	CA	14
+White Top Ledge	63.71729	-68.50199	CA	14
+White Wind Glacier	66.50755	-62.57876	CA	14
+Whitmore Point	77.00175	-95.01825	CA	14
+Whitney Inlet	63.75067	-89.99974	CA	14
+Why-Nee-Yulik Point	65.73414	-86.43264	CA	14
+Whyte Inlet	70.08441	-84.83272	CA	14
+Wicked Reef	53.76696	-79.38298	CA	14
+Wight Inlet	62.25884	-68.21446	CA	14
+Wilcox Glacier	76.18092	-80.73721	CA	14
+Wilkes Point	75.45161	-96.20159	CA	14
+Wilkins Point	68.79546	-93.63089	CA	14
+Wilkins Strait	78.17687	-108.50699	CA	14
+Willersted Inlet	69.33441	-93.66704	CA	14
+Williams Peninsula	62.93377	-64.66416	CA	14
+Williams Point	69.40937	-116.49842	CA	14
+Wilson Cove	76.86843	-96.81859	CA	14
+Winchester Inlet	63.91739	-89.99977	CA	14
+Windy Point	62.58388	-97.98391	CA	14
+Winter Water Reach	65.49789	-107.02552	CA	14
+Wiswell Inlet	62.91719	-65.74755	CA	14
+Wolf Fiord	78.41857	-88.49984	CA	14
+Wolf Islet	52.10019	-79.23274	CA	14
+Wolf Rapids	65.96754	-97.55073	CA	14
+Wolf Valley	79.63527	-82.49833	CA	14
+Wollaston Peninsula	69.68559	-115.17879	CA	14
+Wollaston Point	67.63411	-108.66907	CA	14
+Wood Glacier	80.8854	-84.08194	CA	14
+Wood Point	83.03549	-69.49208	CA	14
+Wootton Peninsula	82.16894	-84.59871	CA	14
+Wrottesley Inlet	71.40127	-95.75067	CA	14
+Wykeham Glacier	77.90743	-78.7018	CA	14
+Wyville Thomson Glacier	78.41154	-75.48279	CA	14
+Yellow Bluff	64.36746	-87.84956	CA	14
+Yellow Valley	72.30138	-86.49998	CA	14
+Yelverton Inlet	82.15224	-81.41419	CA	14
+Yerworth Channel	60.48437	-64.81514	CA	14
+York Sound	62.43377	-66.46428	CA	14
+Young Inlet	76.55167	-99.25235	CA	14
+Young Inlet	60.33349	-64.66508	CA	14
+Young Point	66.76746	-107.85216	CA	14
+Young Point	56.35043	-78.91648	CA	14
+Young Shoal	74.28478	-98.2185	CA	14
+Zebra Cliffs	82.73554	-76.74541	CA	14
+Zenith Point	72.00133	-94.65049	CA	14
+Cape Dyer	66.5919	-61.5733	CA	14
+Canadian Arctic Archipelago	75.00018	-90.00704	CA	14
+Niagara Express	62.83303	-95.91402	CA	14

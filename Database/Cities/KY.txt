@@ -1,0 +1,179 @@
+West End Point	19.68333	-79.9	KY	00
+West End Point	19.65863	-80.11655	KY	00
+West End	19.68333	-79.88333	KY	00
+Welch Point	19.33333	-81.36667	KY	00
+Water Point	19.37083	-81.26995	KY	00
+Water Ground	19.38333	-81.4	KY	00
+Water Cay	19.35	-81.28333	KY	00
+Vidal Cay	19.38333	-81.35	KY	00
+Vicksville	19.36667	-81.41667	KY	00
+Upper Land	19.35	-81.38333	KY	00
+Tropical Gardens	19.28333	-81.35	KY	00
+Timms Point	19.36667	-81.4	KY	00
+Tibbetts Turn	19.73333	-79.78333	KY	00
+The Moorings	19.73333	-79.8	KY	00
+The Moorings	19.73333	-79.78333	KY	00
+The Common	19.38333	-81.4	KY	00
+The Bluff	19.73548	-79.73594	KY	00
+The Bluff	19.73333	-79.73333	KY	00
+The Bight	19.68333	-80.05	KY	00
+Spotts	19.2742	-81.31256	KY	00
+Spots	19.7	-79.81667	KY	00
+Sparrowhawk Point	19.3	-81.08333	KY	00
+Southwest Point	19.65847	-80.11454	KY	00
+South West Point	19.27031	-81.39067	KY	00
+South Town	19.65939	-80.08382	KY	00
+South Sound	19.2721	-81.35342	KY	00
+South Hole Sound	19.67251	-80.05675	KY	00
+South Channel	19.28333	-81.1	KY	00
+Snipe Point	19.71314	-79.97549	KY	00
+Scotts Anchorage	19.68333	-79.9	KY	00
+Savannah Acres	19.28333	-81.3	KY	00
+Savannah	19.2806	-81.29866	KY	00
+Sandy Point	19.7	-79.96667	KY	00
+Sand Cay	19.26314	-81.38625	KY	00
+Sand Bluff	19.31667	-81.08333	KY	00
+Sand Bluff	19.31667	-81.08333	KY	00
+Salt Water Point	19.68333	-79.85	KY	00
+Saint James	19.26667	-81.3	KY	00
+Rum Point Channel	19.36667	-81.3	KY	00
+Rum Point	19.35	-81.28333	KY	00
+Rogers Wreck Point	19.35	-81.08333	KY	00
+Prospect Point	19.27283	-81.33822	KY	00
+Prospect	19.27971	-81.33277	KY	00
+Pedro	19.28333	-81.26667	KY	00
+Palmetto Point	19.38333	-81.36667	KY	00
+Omega Gardens	19.3	-81.33333	KY	00
+Old Stores	19.4	-81.4	KY	00
+Old Savannah	19.33333	-81.21667	KY	00
+Old Robin Point	19.35	-81.15	KY	00
+Old Crawl	19.33333	-81.2	KY	00
+North West Point	19.36667	-81.41667	KY	00
+North Ward	19.28333	-81.26667	KY	00
+North Sound	19.33333	-81.33333	KY	00
+North Sound	19.35	-81.26667	KY	00
+North Side	19.35	-81.2	KY	00
+North Reef	19.71667	-80	KY	00
+North East Point	19.75	-79.73333	KY	00
+North East Point	19.33333	-81.1	KY	00
+Newlands	19.28333	-81.3	KY	00
+The Narrows	19.68333	-79.96667	KY	00
+Muddy Foots	19.7	-79.96667	KY	00
+Morgans Harbour	19.36667	-81.36667	KY	00
+Morass	19.33333	-81.23333	KY	00
+Molusca Heights	19.73333	-79.78333	KY	00
+Midland Acres	19.3	-81.21667	KY	00
+Mary's Channel	19.70999	-79.99231	KY	00
+Main Channel	19.7	-79.96667	KY	00
+Main Channel	19.65	-80.06667	KY	00
+Main Channel	19.38333	-81.35	KY	00
+Low Point	19.31667	-81.4	KY	00
+Lower Valley	19.28333	-81.28333	KY	00
+Lower Spots	19.68333	-80.06667	KY	00
+Long Point	19.36667	-81.4	KY	00
+Long Point	19.35	-81.18333	KY	00
+Long Coconut Tree Point	19.35	-81.08333	KY	00
+Little Spot Point	19.35	-81.16667	KY	00
+Little Sound	19.33333	-81.28333	KY	00
+Little Pedro Point	19.26667	-81.31667	KY	00
+Little Cayman Brac	19.75	-79.73333	KY	00
+Little Cayman	19.68333	-80.05	KY	00
+Little Cayman	19.65	-80.25	KY	00
+Little Bluff	19.35	-81.15	KY	00
+Lesser Caymans	19.66667	-79.91667	KY	00
+Kitty Clover Land	19.28333	-81.28333	KY	00
+Joe Conyer	19.28333	-81.2	KY	00
+Jackson's Point	19.68333	-80.06667	KY	00
+Jackson Point	19.28117	-81.39277	KY	00
+Isaac's Point	19.68333	-79.88333	KY	00
+Ironshore Point	19.3	-81.13333	KY	00
+Ireland Bluff	19.28333	-81.23333	KY	00
+Hutland	19.35	-81.21667	KY	00
+High Bluff	19.26667	-81.31667	KY	00
+Hell	19.38333	-81.41667	KY	00
+Head of Reef	19.26667	-81.3	KY	00
+Half Way Ground	19.71667	-79.81667	KY	00
+Gun Bluff	19.3	-81.1	KY	00
+Gun Bluff	19.3	-81.08333	KY	00
+Great Pedro Point	19.26667	-81.28333	KY	00
+Great Bluff	19.35	-81.11667	KY	00
+Grape Tree Point	19.35	-81.23333	KY	00
+Grand Cayman	19.32281	-81.2487	KY	00
+Gorling Bluff	19.3	-81.1	KY	00
+George Town	19.2866	-81.37436	KY	00
+Further Ground	19.33333	-81.2	KY	00
+Frenchman's Fort	19.69395	-79.87906	KY	00
+Frenchman Point	19.7	-79.88333	KY	00
+Frank Sound	19.28333	-81.18333	KY	00
+Frank Sound	19.3	-81.18333	KY	00
+Foster Land	19.73333	-79.73333	KY	00
+Fish Channel	19.7049	-80.01034	KY	00
+Finger Cay	19.35	-81.26667	KY	00
+East Point	19.7	-79.96667	KY	00
+East Point	19.3	-81.1	KY	00
+East End Channel	19.3	-81.08333	KY	00
+East End	19.3	-81.11667	KY	00
+Driftwood Village	19.35	-81.23333	KY	00
+Double Head	19.4	-81.38333	KY	00
+Dolphin Point	19.36667	-81.4	KY	00
+Dog City	19.3	-81.38333	KY	00
+Diggarys Point	19.68333	-80.01667	KY	00
+Dennis Point	19.68333	-79.86667	KY	00
+Deep Well	19.7	-79.76667	KY	00
+Deadmans Point	19.83333	-79.71667	KY	00
+Cottage Point	19.28333	-81.16667	KY	00
+Cork Landing	19.68375	-80.03244	KY	00
+Corkers Reef	19.28333	-81.11667	KY	00
+Coral Gables	19.36667	-81.41667	KY	00
+Conch Point	19.4	-81.38333	KY	00
+Colliers Point	19.33333	-81.08333	KY	00
+Colliers Channel	19.35	-81.08333	KY	00
+Colliers Cay	19.33333	-81.08333	KY	00
+Colliers	19.33333	-81.08333	KY	00
+Colliers	19.33333	-81.08333	KY	00
+Charles Bight	19.68333	-80.01667	KY	00
+Channel Land	19.33333	-81.21667	KY	00
+The Channel	19.33333	-81.2	KY	00
+Cedar Point	19.7	-79.83333	KY	00
+Cayman Palms	19.26667	-81.26667	KY	00
+Callabash Spot	19.7	-79.96667	KY	00
+Brinkleys	19.35	-81.23333	KY	00
+Breezy Castle	19.3	-81.36667	KY	00
+Breakers	19.3	-81.2	KY	00
+Breaker Point	19.3	-81.2	KY	00
+Bowse Land	19.35	-81.25	KY	00
+Bowse Bluff	19.36667	-81.26667	KY	00
+Botabano	19.38333	-81.38333	KY	00
+Booby Point	19.75	-79.75	KY	00
+Booby Point	19.33333	-81.3	KY	00
+Booby Cay	19.33333	-81.3	KY	00
+Bodden Town	19.27647	-81.2542	KY	00
+Boatswain Point	19.38333	-81.41667	KY	00
+Blowing Holes	19.68333	-79.88333	KY	00
+Blossom Point	19.66667	-80.08333	KY	00
+Bill Eden Point	19.26667	-81.3	KY	00
+The Bight	19.73333	-79.78333	KY	00
+Big Channel	19.71435	-79.97017	KY	00
+Big Channel	19.38333	-81.36667	KY	00
+Bessy Howard Cay	19.75	-79.71667	KY	00
+Battle Ground	19.38333	-81.4	KY	00
+Battle Ground	19.73333	-79.75	KY	00
+Banksville	19.7	-79.85	KY	00
+Anchor Point	19.35	-81.13333	KY	00
+Ally Land	19.33333	-81.11667	KY	00
+Grand Cayman City	19.3	-81.36667	KY	
+VILLAS PAPPAGALLO	19.3194	-81.2537	KY	
+SILVER SANDS CONDOMINIUMS	19.3479	-81.2383	KY	
+CAYMAN REEF	19.3194	-81.2537	KY	
+LACOVIA CONDOS	19.3479	-81.2383	KY	
+GEORGE TOWN VILLAS	19.3479	-81.2383	KY	
+Eastern	19.31667	-81.13333	KY	00
+Midland	19.31667	-81.23333	KY	00
+South Town	19.69167	-80.0375	KY	00
+West End	19.68611	-79.88889	KY	00
+Western	19.30833	-81.375	KY	00
+Rum Point	19.36415	-81.26145	KY	
+Little Cayman	19.66114	-80.10984	KY	
+Pirate's Point	19.66	-80.09979	KY	00
+Charles Bight	19.69686	-79.98703	KY	
+Grandview Condominiums	19.31277	-81.38573	KY	

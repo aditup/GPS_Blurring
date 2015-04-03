@@ -1,0 +1,13 @@
+State of the Vatican City	41.90225	12.4533	VA	00
+San Pietro del Vaticano	41.90221	12.45305	VA	
+Piazza di San Pietro	41.90225	12.45726	VA	
+Vatican City	41.90236	12.45332	VA	
+Vatican Radio	41.90189	12.44834	VA	
+Viale Centro del Bosco	41.90502	12.45072	VA	
+Piazza di Santa Maria	41.90122	12.45262	VA	
+Ethiopian Seminary	41.90235	12.44967	VA	
+Palace of Justice	41.90124	12.45209	VA	
+Chuch of St Stephen	41.90179	12.45184	VA	
+Piazza Pio XII	41.90226	12.45898	VA	
+Vatican Radio Centre	41.90388	12.45003	VA	
+Torre San Giovanni	41.90157	12.44756	VA	

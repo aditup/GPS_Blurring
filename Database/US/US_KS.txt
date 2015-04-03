@@ -1,0 +1,4233 @@
+Harold	38.27252	-99.93346	US	KS
+Gerlane	37.15252	-98.5498	US	KS
+Cora	39.89279	-98.66368	US	KS
+Shook	37.10752	-98.13895	US	KS
+Idana	39.3575	-97.26419	US	KS
+Township of London	37.43347	-97.41356	US	KS
+Milo	39.17223	-97.96754	US	KS
+Severance	39.76722	-95.24998	US	KS
+Prairie View	39.83251	-99.57261	US	KS
+Osgood	38.65779	-99.84429	US	KS
+Radley	37.48449	-94.76024	US	KS
+South Radley	37.47144	-94.76024	US	KS
+Stockton	39.43807	-99.2651	US	KS
+Wilder	39.04306	-94.86969	US	KS
+West Shore	39.18889	-95.4772	US	KS
+Woodruff	39.99279	-99.42649	US	KS
+Abbyville	37.97085	-98.20423	US	KS
+Abilene	38.91722	-97.21391	US	KS
+City of Abilene	38.92294	-97.22471	US	KS
+Acme	38.8425	-97.26086	US	KS
+Acres	37.10669	-99.88013	US	KS
+Ada	39.15139	-97.88921	US	KS
+Adee Landing Strip	39.77778	-97.3167	US	KS
+Admire	38.64112	-96.10305	US	KS
+Township of Adrian	39.34714	-95.98842	US	KS
+Aetna	37.08392	-98.96288	US	KS
+Township of Aetna	37.08586	-98.91066	US	KS
+Township of Agency	38.57357	-95.55678	US	KS
+Agenda	39.70778	-97.4317	US	KS
+Township of Agnes City	38.67368	-96.24248	US	KS
+Agra	39.76168	-99.11925	US	KS
+Agricola	38.41946	-95.53498	US	KS
+Aikins	39.36805	-96.11638	US	KS
+Aikman	37.98974	-96.68085	US	KS
+Akron	37.35169	-97.01504	US	KS
+Alameda	37.56113	-98.06145	US	KS
+Township of Albano	37.86897	-98.85764	US	KS
+Township of Afton	37.60551	-97.64315	US	KS
+Township of Albion	38.56509	-98.86735	US	KS
+Township of Albion	37.77919	-97.97281	US	KS
+Township of Albion	39.95846	-97.4252	US	KS
+Alden	38.24223	-98.31201	US	KS
+Alexander	38.46946	-99.55317	US	KS
+Albert	38.45279	-99.01148	US	KS
+Township of Alexander-Belle Prairie	38.45106	-99.52998	US	KS
+Township of Alexandria	39.25945	-95.12424	US	KS
+Alfmil	39.13194	-97.72226	US	KS
+Alfred	38.83473	-95.39081	US	KS
+Aliceville	38.15447	-95.55193	US	KS
+Alida	39.09583	-96.94029	US	KS
+Allen	38.65612	-96.16972	US	KS
+Township of Allen	39.60952	-97.98642	US	KS
+Township of Allen	37.51772	-97.8626	US	KS
+Allendorph	38.99278	-96.27111	US	KS
+Alma	39.01667	-96.28916	US	KS
+Township of Alma	39.02174	-96.31637	US	KS
+Almena	39.89223	-99.70706	US	KS
+Alta Vista	38.86389	-96.48917	US	KS
+Township of Alta	38.13034	-97.64695	US	KS
+Altamont	37.19034	-95.29719	US	KS
+Alton	39.47084	-98.94814	US	KS
+Altoona	37.52394	-95.66137	US	KS
+Amelia Earhart Stadium	39.56666	-95.13775	US	KS
+America City	39.57361	-96.03194	US	KS
+American Muslim Mission	37.71029	-97.31977	US	KS
+Americus	38.50696	-96.26194	US	KS
+Township of Americus	38.52857	-96.28044	US	KS
+Ames	39.56944	-97.44198	US	KS
+Anchorway	38.3489	-98.8162	US	KS
+Andale	37.79057	-97.62949	US	KS
+Angola	37.10563	-95.44942	US	KS
+Annelly	37.97223	-97.20115	US	KS
+Anness	37.48196	-97.72866	US	KS
+Anson	37.3653	-97.52977	US	KS
+Antelope	38.43613	-96.97391	US	KS
+Andover	37.7139	-97.13643	US	KS
+Anthony	37.15336	-98.03117	US	KS
+City of Anthony	37.158	-98.04137	US	KS
+Antioch	38.72334	-94.94552	US	KS
+Antonino	38.7839	-99.39261	US	KS
+Township of Appanoose	38.69537	-95.45849	US	KS
+Township of Appleton	37.38368	-99.91581	US	KS
+Township of Arcade	39.78477	-99.23475	US	KS
+Arcadia	37.64199	-94.62385	US	KS
+Arcola	38.75084	-97.93366	US	KS
+Ardell	37.90168	-99.49651	US	KS
+Argentine	39.075	-94.67246	US	KS
+Argonia	37.26585	-97.76561	US	KS
+Township of Arion	39.48145	-97.76016	US	KS
+Arkansas City	37.06197	-97.03837	US	KS
+City of Arkansas City	37.07255	-97.03852	US	KS
+Arlington	37.89668	-98.17867	US	KS
+Township of Arlington	37.86858	-98.19694	US	KS
+Arma	37.54394	-94.70024	US	KS
+Arrington	39.46278	-95.53637	US	KS
+Arthur Heights	37.76973	-97.26504	US	KS
+Arvonia	38.48057	-95.86971	US	KS
+Township of Arvonia	38.47745	-95.87609	US	KS
+Arnold Divide	39.09666	-96.82806	US	KS
+Ash Valley	38.30501	-99.21649	US	KS
+Township of Ash Valley	38.30545	-99.19817	US	KS
+Township of Asherville	39.43721	-97.98541	US	KS
+Ashland	37.18864	-99.76568	US	KS
+Ashland	39.12333	-96.61556	US	KS
+Ashland Bottoms	39.13333	-96.6225	US	KS
+Township of Ashland	39.10363	-96.59922	US	KS
+Ashton	37.08308	-97.23865	US	KS
+Assaria	38.68028	-97.60448	US	KS
+Iola First Assembly of God	37.92981	-95.39248	US	KS
+Atchison	39.56305	-95.12164	US	KS
+City of Atchison	39.56335	-95.13761	US	KS
+Township of Athelstane	39.17673	-97.2037	US	KS
+Athens	37.90698	-95.61387	US	KS
+Township of Athens	39.61087	-98.33112	US	KS
+Athol	39.76501	-98.91952	US	KS
+Atlanta	37.43641	-96.76475	US	KS
+Township of Atlanta	38.30256	-98.20162	US	KS
+Atlas	37.36727	-94.72246	US	KS
+Attica	37.24141	-98.22674	US	KS
+Attica City Wells	37.34085	-98.22396	US	KS
+Township of Attica	37.69461	-97.54382	US	KS
+Aubry	38.77084	-94.67107	US	KS
+Township of Aubry	38.78185	-94.64597	US	KS
+Auburn	38.90611	-95.8161	US	KS
+Township of Auburn	38.91095	-95.84901	US	KS
+Augusta	37.68668	-96.9767	US	KS
+City of Augusta	37.69457	-96.97309	US	KS
+Township of Augusta	37.69395	-96.99133	US	KS
+Aulne	38.27613	-97.07669	US	KS
+Aurora	39.45194	-97.52726	US	KS
+Township of Aurora	39.43751	-97.53571	US	KS
+Avian	37.09591	-95.60164	US	KS
+Township of Avilla	37.085	-99.31252	US	KS
+Township of Avon	38.16836	-95.58946	US	KS
+Township of Avon	37.26123	-97.31226	US	KS
+Axley Ford	37.13447	-97.14365	US	KS
+Axtell	39.87167	-96.2589	US	KS
+B N Junction	38.56168	-95.27136	US	KS
+Asherville	39.40584	-97.97699	US	KS
+Badger	37.15839	-94.63273	US	KS
+Baileyville	39.84444	-96.18501	US	KS
+Bain City	39.28389	-94.90385	US	KS
+Baker	39.75417	-95.56304	US	KS
+Township of Baker	37.3896	-94.73817	US	KS
+Township of Bala	39.35431	-96.89308	US	KS
+Bald Mound	37.23506	-95.86609	US	KS
+Township of Balderson	39.95756	-96.5228	US	KS
+Baldwin City	38.77501	-95.18636	US	KS
+Bala	39.30972	-96.94974	US	KS
+Balta	38.88473	-98.91564	US	KS
+Bancroft	39.60833	-95.90027	US	KS
+Bangor	38.4839	-94.92691	US	KS
+Township of Banner	38.65283	-97.20568	US	KS
+Township of Banner	39.43427	-95.8489	US	KS
+Township of Banner	38.41457	-99.19775	US	KS
+Township of Banner	39.69816	-98.78551	US	KS
+Basehor	39.14167	-94.93858	US	KS
+Basil	37.51641	-98.09034	US	KS
+Bassett	37.90281	-95.40415	US	KS
+Batesville	37.83615	-95.87054	US	KS
+Bateham	39.1475	-97.09196	US	KS
+Bavaria	38.79723	-97.7556	US	KS
+Baxter Junction	37.02868	-94.74634	US	KS
+Bazaar	38.27196	-96.53529	US	KS
+Township of Bazaar	38.25329	-96.50386	US	KS
+Bazine	38.44446	-99.69206	US	KS
+Township of Bazine	38.48015	-99.69655	US	KS
+Beagle	38.41807	-94.95497	US	KS
+Beaumont	37.65808	-96.53279	US	KS
+Beaver	38.64029	-98.66702	US	KS
+Beattie	39.86111	-96.41974	US	KS
+Township of Beaver	38.65274	-98.64579	US	KS
+Township of Beaver	37.1724	-97.09526	US	KS
+Township of Beaver	39.08858	-98.09561	US	KS
+Township of Beaver	39.78484	-99.5716	US	KS
+Township of Beaver	39.6972	-97.87567	US	KS
+Township of Beaver	39.9588	-98.78556	US	KS
+Beckerville	39.60972	-96.16389	US	KS
+Beckys Knob	37.20697	-99.89763	US	KS
+Bedford	38.04113	-98.63369	US	KS
+City of Bel Aire	37.77485	-97.24567	US	KS
+Bell Mound	37.29506	-94.94913	US	KS
+Bell Point	39.3625	-94.94358	US	KS
+Township of Bell	37.77864	-98.30058	US	KS
+Township of Bell	38.21698	-98.41746	US	KS
+Bellaire	37.76251	-97.26699	US	KS
+Bellaire	39.79835	-98.67618	US	KS
+Belle Plaine	37.39391	-97.28115	US	KS
+Township of Belle Plaine	37.4228	-97.29417	US	KS
+Bellefont	37.87252	-99.6579	US	KS
+Belleville	39.82445	-97.63254	US	KS
+City of Belleville	39.82346	-97.63415	US	KS
+Township of Belleville	37.05304	-96.15684	US	KS
+Township of Belleville	39.78228	-97.65212	US	KS
+Belmont	37.52363	-97.98922	US	KS
+Belmont	39.04722	-95.63359	US	KS
+Belmont Square	37.34034	-95.2672	US	KS
+Township of Belmont	37.51556	-98.19046	US	KS
+Township of Belmont	39.69795	-99.45938	US	KS
+Beloit	39.45612	-98.10616	US	KS
+City of Beloit	39.46452	-98.10818	US	KS
+Township of Beloit	39.43402	-98.09624	US	KS
+Belpre	37.95002	-99.10038	US	KS
+Township of Belpre	37.95633	-99.10465	US	KS
+Belvidere	37.4503	-99.08011	US	KS
+Belvue	39.21666	-96.17805	US	KS
+Township of Belvue	39.25121	-96.18729	US	KS
+Bendena	39.74111	-95.17942	US	KS
+Bender Mounds	37.34034	-95.47692	US	KS
+Benedict	37.62533	-95.75054	US	KS
+Township of Bennett	37.4298	-97.86204	US	KS
+Bennington	39.03056	-97.5942	US	KS
+Township of Bennington	39.00152	-97.64033	US	KS
+Bentley	37.88612	-97.51699	US	KS
+Benton	37.7889	-97.10865	US	KS
+Township of Benton	39.49321	-95.40302	US	KS
+Township of Benton	37.78159	-97.09851	US	KS
+Berlin	37.92143	-94.89608	US	KS
+Bern	39.96222	-95.97194	US	KS
+Benedict Junction	37.61033	-95.77109	US	KS
+Berryton	38.94084	-95.63165	US	KS
+Bert Wettar	38.1914	-99.36845	US	KS
+Berwet	37.78557	-97.48366	US	KS
+Berwick	39.93333	-95.84471	US	KS
+Township of Berwick	39.9572	-95.84514	US	KS
+Bestwall	39.71111	-96.64752	US	KS
+Township of Bethany	39.52426	-98.65557	US	KS
+Bethel	39.14445	-94.75857	US	KS
+Beto Junction	38.40557	-95.69193	US	KS
+Beverly	39.01278	-97.9756	US	KS
+Bible Tabernacle	37.7056	-94.68635	US	KS
+Beulah	37.44033	-94.8283	US	KS
+Township of Big Bend	39.95838	-97.87573	US	KS
+Big Basin	37.2403	-99.99764	US	KS
+Big Sinkhole	38.20277	-97.7395	US	KS
+Township of Big Timber	38.6396	-99.30943	US	KS
+Township of Bigelow	39.60964	-96.52265	US	KS
+Birmingham	39.40916	-95.68248	US	KS
+Bisbee	38.05336	-96.10583	US	KS
+Bison	38.52279	-99.19732	US	KS
+Biscuit Mound	37.86448	-95.92777	US	KS
+Black Jack	38.76779	-95.1158	US	KS
+Township of Black Wolf	38.74027	-98.31864	US	KS
+Black Wolf	38.75834	-98.36201	US	KS
+Blaine	39.49666	-96.40306	US	KS
+Township of Blaine	39.34278	-97.18418	US	KS
+Township of Blaine	38.56581	-97.20584	US	KS
+Township of Blaine	39.17578	-97.64978	US	KS
+Township of Blaine	39.78493	-98.67297	US	KS
+Blair	39.78388	-95.00275	US	KS
+Blaze Fork	38.12112	-97.65921	US	KS
+Block	38.50502	-94.80802	US	KS
+Bloom	37.48641	-99.89624	US	KS
+Township of Bloom	39.43605	-97.29481	US	KS
+Township of Bloom	37.51486	-99.91445	US	KS
+Township of Bloom	39.32876	-98.54574	US	KS
+Bloomington	37.5778	-96.87253	US	KS
+Bloomington	39.45168	-98.78702	US	KS
+Township of Bloomington	37.60679	-96.88059	US	KS
+Blue Hole	37.18864	-99.91902	US	KS
+Blue Mound	37.00423	-94.82412	US	KS
+Blue Mound	38.90445	-95.18219	US	KS
+Blue Mound	38.09003	-95.00636	US	KS
+Blue Mound	39.84029	-99.14453	US	KS
+Township of Blue Mound	38.09553	-95.00516	US	KS
+Blue Rapids	39.68194	-96.65974	US	KS
+Township of Blue Rapids City	39.6968	-96.63802	US	KS
+Township of Blue Rapids	39.6098	-96.63794	US	KS
+Township of Blue Valley	39.45499	-96.64394	US	KS
+Township of Blue	39.24824	-96.53257	US	KS
+Bluegill Point	39.64945	-99.13787	US	KS
+Bluff City	37.07641	-97.87506	US	KS
+Township of Bluff	37.06194	-97.74764	US	KS
+Bogue	39.36251	-99.68734	US	KS
+Bois d' Arc	37.59641	-96.92531	US	KS
+Township of Bolton	37.03901	-97.06733	US	KS
+Bolton	37.15674	-95.80554	US	KS
+Bonita	38.81112	-94.81468	US	KS
+Bonnie Brae	37.68196	-97.24754	US	KS
+Township of Bonaville	38.56546	-97.53761	US	KS
+Bosse	38.08696	-99.83374	US	KS
+Boyd	38.51862	-98.84842	US	KS
+Boyle	39.34028	-95.35275	US	KS
+Bradford	38.82167	-96.03916	US	KS
+Brainerd	37.95113	-97.09531	US	KS
+Township of Brantford	39.69741	-97.31224	US	KS
+Brantford	39.71222	-97.35976	US	KS
+Brazilton	37.55977	-94.95747	US	KS
+Bremen	39.90139	-96.78919	US	KS
+Brenham	37.60974	-99.20817	US	KS
+Brenner	39.72527	-95.11525	US	KS
+Brewer	39.12445	-97.78782	US	KS
+Bronson	37.89587	-95.07331	US	KS
+Brookhaven	37.69585	-97.15476	US	KS
+Brooks	37.38478	-95.60276	US	KS
+Brookville	38.77501	-97.86838	US	KS
+Browndale	39.35972	-97.35086	US	KS
+Brownell	38.64029	-99.74623	US	KS
+Browns Spur	37.68029	-98.19145	US	KS
+Brownstone	37.33284	-95.19414	US	KS
+Brushy Draw	39.84223	-99.25648	US	KS
+Buckeye	39.04666	-97.16696	US	KS
+Township of Buckeye	39.03332	-99.3282	US	KS
+Township of Buckeye	39.00165	-97.52887	US	KS
+Township of Buckeye	39.00261	-97.20416	US	KS
+Township of Bucklin	37.60036	-99.61259	US	KS
+Buckman Landing Strip	38.23307	-99.45734	US	KS
+Bucklin	37.54724	-99.63429	US	KS
+Buff Mound	37.482	-95.65165	US	KS
+Buffalo	37.70977	-95.69748	US	KS
+Bucyrus	38.7264	-94.71829	US	KS
+Buffalo Mound	39.06194	-96.07388	US	KS
+Township of Buffalo	38.39273	-98.86757	US	KS
+Township of Buffalo	39.5797	-97.76781	US	KS
+Township of Buffalo	39.69404	-98.10885	US	KS
+Buffville	37.48256	-95.66026	US	KS
+Buhler	38.13445	-97.77005	US	KS
+Burden	37.3128	-96.7542	US	KS
+Burdett	38.19196	-99.52678	US	KS
+Burdick	38.56362	-96.84557	US	KS
+Burkett	38.04169	-96.26528	US	KS
+Burlingame	38.75389	-95.83499	US	KS
+Township of Burlingame	38.80433	-95.87215	US	KS
+Burlington	38.19447	-95.74276	US	KS
+City of Burlington	38.19312	-95.74529	US	KS
+Township of Burlington	38.16988	-95.76416	US	KS
+Burnett Mound	39.00972	-95.73637	US	KS
+Burns	38.0903	-96.88641	US	KS
+Burr Oak	39.86612	-98.30505	US	KS
+Burr Oak Bottom	39.88999	-94.96553	US	KS
+Township of Burr Oak	39.85162	-94.96779	US	KS
+Township of Burr Oak	39.87184	-98.33018	US	KS
+Township of Burrton	38.04313	-97.64698	US	KS
+Burrton	38.0239	-97.66977	US	KS
+Bush City	38.21114	-95.1447	US	KS
+Bushnell	37.36169	-97.16004	US	KS
+Bushong	38.64306	-96.25722	US	KS
+Bushton	38.51251	-98.39534	US	KS
+Buttermilk	37.1028	-99.32539	US	KS
+Busby	37.46949	-96.04443	US	KS
+Buxton	37.44838	-95.92054	US	KS
+Buzzard Roost	38.74945	-97.96505	US	KS
+Township of Byron	38.21716	-98.63753	US	KS
+Byers	37.78752	-98.86704	US	KS
+Cadmus	38.34558	-94.89941	US	KS
+Cain	38.51446	-98.43368	US	KS
+Cairo	37.65002	-98.55453	US	KS
+Calderhead	39.68306	-97.33114	US	KS
+Caldwell	37.03225	-97.60699	US	KS
+City of Caldwell	37.035	-97.60866	US	KS
+Township of Caldwell	37.06303	-97.63846	US	KS
+Calista	37.63974	-98.28257	US	KS
+Calvary Temple	37.68345	-95.44694	US	KS
+Calvert	39.84973	-99.75789	US	KS
+Township of Calvin	39.70197	-98.21795	US	KS
+Township of Cambria	38.91448	-97.53792	US	KS
+Cameron	37.07697	-96.85392	US	KS
+Canada	38.35418	-97.1128	US	KS
+Township of Canada	37.11308	-95.44987	US	KS
+Caney	37.01146	-95.93526	US	KS
+City of Caney	37.01363	-95.93182	US	KS
+Township of Caney	37.06308	-95.89138	US	KS
+Township of Caneyville	37.25141	-96.45315	US	KS
+Canton	38.38612	-97.42809	US	KS
+Township of Canton	37.4292	-97.97151	US	KS
+Township of Canton	38.39148	-97.42692	US	KS
+Capaldo	37.46783	-94.72663	US	KS
+Capioma	39.77667	-95.82027	US	KS
+Township of Capioma	39.78355	-95.84524	US	KS
+Captain	37.01673	-94.85356	US	KS
+Township of Canville	37.60134	-95.45238	US	KS
+Carbondale	38.81862	-95.68915	US	KS
+Carden	39.82778	-96.58085	US	KS
+Carlton	38.68723	-97.29336	US	KS
+Carlyle	37.99364	-95.39081	US	KS
+Township of Carlyle	37.99476	-95.38139	US	KS
+Carneiro	38.7389	-98.03088	US	KS
+Township of Carneiro	38.74036	-97.98418	US	KS
+Carona	37.28034	-94.86857	US	KS
+Township of Castle	38.39158	-97.86932	US	KS
+Castleton	37.86779	-97.96922	US	KS
+Township of Castleton	37.86845	-97.9493	US	KS
+Cassoday	38.03891	-96.63918	US	KS
+Catfish Point	38.04779	-97.19864	US	KS
+Catharine	38.92723	-99.21677	US	KS
+Township of Catherine	39.01998	-99.19285	US	KS
+Catfish Cove	39.61723	-99.1837	US	KS
+Cato	37.66782	-94.73996	US	KS
+Township of Catlin	38.21763	-97.09738	US	KS
+Township of Cawker	39.52382	-98.43234	US	KS
+Cedar	38.97917	-94.93441	US	KS
+Cedar	39.65723	-98.94036	US	KS
+Cedar Bluff	38.77668	-99.80734	US	KS
+Cedar Bluff National Fish Hatchery	38.79029	-99.71206	US	KS
+Cawker City	39.51251	-98.43367	US	KS
+Cedar Gorge	38.7689	-99.7929	US	KS
+Cedar Hollow	37.61754	-95.99221	US	KS
+Cedar Point	38.26002	-96.81974	US	KS
+Cedar Vale	37.1042	-96.50001	US	KS
+Township of Cedar	38.15517	-96.79	US	KS
+Township of Cedar	37.05386	-96.58775	US	KS
+Township of Cedar	39.35407	-95.66361	US	KS
+Township of Cedar	39.7855	-99.01036	US	KS
+Township of Cedar	37.51538	-95.68835	US	KS
+Township of Cedron	39.17597	-98.43378	US	KS
+Township of Centre	38.35139	-96.98804	US	KS
+Central	38.27224	-95.38359	US	KS
+Central Congregation Jehovahs Witnesses	37.69613	-97.3106	US	KS
+Centralia	39.72583	-96.12722	US	KS
+Centropolis	38.71612	-95.35025	US	KS
+Township of Centropolis	38.68538	-95.36393	US	KS
+Cessna	37.63863	-97.4131	US	KS
+Chanute	37.67921	-95.4572	US	KS
+City of Chanute	37.66992	-95.46182	US	KS
+Chapman	38.97222	-97.02251	US	KS
+Township of Chapman	39.1759	-97.31531	US	KS
+Township of Chapman	39.26272	-97.42561	US	KS
+Township of Charleston	39.87113	-96.97443	US	KS
+Charters Corner	38.05751	-98.17923	US	KS
+Chase	38.35501	-98.34951	US	KS
+Chautauqua	37.02034	-96.17666	US	KS
+Township of Cheever	39.08978	-97.20393	US	KS
+Chelsea	37.90391	-96.77475	US	KS
+Chelsea Township	37.90975	-96.17528	US	KS
+Cheney	37.63001	-97.78255	US	KS
+Chepstow	39.62361	-96.90085	US	KS
+Cherokee	37.34589	-94.80885	US	KS
+Cherokee Plains	37.16673	-94.93357	US	KS
+Cherokee Tank	37.32144	-94.82079	US	KS
+Township of Cherokee	37.30094	-94.76027	US	KS
+Township of Cherokee	37.06342	-95.56425	US	KS
+Township of Chelsea	37.91944	-96.66432	US	KS
+Township of Cherry	37.32026	-95.561	US	KS
+Cherryvale	37.27034	-95.55248	US	KS
+City of Cherryvale	37.26924	-95.55365	US	KS
+Chetopa	37.03729	-95.08996	US	KS
+City of Chetopa	37.03762	-95.09254	US	KS
+Township of Chetopa	37.51515	-95.57934	US	KS
+Cheyenne	39.17668	-98.63896	US	KS
+Cheyenne Bottoms	38.46946	-98.65591	US	KS
+Township of Chetopa	37.51475	-95.45222	US	KS
+Township of Cheyenne	38.52174	-98.64605	US	KS
+Chicopee	37.382	-94.74191	US	KS
+Township of Chikaskia	37.42776	-98.19044	US	KS
+Township of Chikaskia	37.16971	-97.63811	US	KS
+Childs Acres	37.77223	-97.42171	US	KS
+Chiles	38.67973	-94.76163	US	KS
+Christian Community of Wichita	37.68724	-97.29754	US	KS
+Cicero	37.33391	-97.3406	US	KS
+Circleville	39.50833	-95.8586	US	KS
+Claflin	38.52501	-98.53368	US	KS
+Chouteau	39.04723	-94.83024	US	KS
+Clare	38.82695	-94.87135	US	KS
+Township of Clarence	38.39111	-98.97758	US	KS
+Township of Clark	38.47858	-97.09578	US	KS
+Claudell	39.66251	-99.02925	US	KS
+Township of Clay	37.51944	-96.77078	US	KS
+Township of Clay	38.05512	-97.85305	US	KS
+Clear Fork	39.64833	-96.47946	US	KS
+Clearview City	38.94584	-95.00302	US	KS
+Clearwater	37.5028	-97.50449	US	KS
+Township of Clear Fork	39.60964	-96.40753	US	KS
+Clements	38.30002	-96.74085	US	KS
+Cleveland	37.55168	-98.13368	US	KS
+Township of Cleveland	38.65289	-98.53501	US	KS
+Township of Cleveland	39.60971	-96.29543	US	KS
+Township of Cleveland	38.04359	-98.85795	US	KS
+Township of Clifford	38.04258	-96.97807	US	KS
+Clifton	39.56722	-97.27864	US	KS
+Clifton Square	37.68613	-97.29338	US	KS
+Township of Clifton	39.61045	-97.31235	US	KS
+Township of Clifton	37.69002	-95.72435	US	KS
+Climax	37.71975	-96.22333	US	KS
+Clinton	38.91167	-95.39053	US	KS
+Township of Clinton	38.89965	-95.40754	US	KS
+Clonmel	37.56279	-97.55394	US	KS
+Cloverdale	37.22698	-96.48918	US	KS
+Clyde	39.59111	-97.39892	US	KS
+Coalvale	37.6156	-94.64885	US	KS
+Coats	37.51196	-98.82426	US	KS
+Cochrane	39.26667	-94.87885	US	KS
+Codell	39.19334	-99.17732	US	KS
+Coffeyville	37.0373	-95.61637	US	KS
+City of Coffeyville	37.0415	-95.62947	US	KS
+Coiner Dome	38.68778	-97.85727	US	KS
+Cokedale	37.24673	-94.89274	US	KS
+Coldwater	37.26891	-99.32678	US	KS
+Coldspur	39.00445	-94.92469	US	KS
+Township of Coldwater	37.20132	-99.20198	US	KS
+Coleman	37.86418	-97.46393	US	KS
+Township of Coleman	39.78463	-97.19954	US	KS
+Township of Colfax	39.43709	-97.42437	US	KS
+Township of Colfax	38.5657	-97.09578	US	KS
+Township of Colfax	37.6894	-95.59784	US	KS
+Colony	38.07086	-95.36554	US	KS
+Township of Colorado	39.00193	-97.98431	US	KS
+Township of Columbia	38.82728	-98.31869	US	KS
+Columbus	37.16923	-94.84412	US	KS
+City of Columbus	37.17229	-94.84413	US	KS
+Colwich	37.77918	-97.53644	US	KS
+Township of Comanche	38.30115	-98.59996	US	KS
+Commonwealth	37.00118	-94.7405	US	KS
+Township of Concord	39.08739	-97.648	US	KS
+Concordia	39.57084	-97.66254	US	KS
+City of Concordia	39.5669	-97.64719	US	KS
+Township of Conkling	38.30577	-99.30784	US	KS
+Connell	37.61946	-97.29504	US	KS
+Township of Conway	37.43111	-97.64203	US	KS
+Cook	39.54722	-97.61198	US	KS
+Cookville	37.82032	-95.59221	US	KS
+Conway	38.36945	-97.78643	US	KS
+Coombs Air Strip	37.67501	-97.767	US	KS
+Coon Point	39.00417	-95.42581	US	KS
+Copeland Landing Strip	37.69724	-97.21421	US	KS
+Township of Cora	39.87195	-98.67297	US	KS
+Corbin	37.12641	-97.54394	US	KS
+Corinth	39.41612	-98.54534	US	KS
+Corinth Square	38.97945	-94.63135	US	KS
+Township of Corinth	39.43716	-98.54493	US	KS
+Corning	39.65722	-96.02944	US	KS
+Cornell	37.46338	-94.63079	US	KS
+Corwin	37.08419	-98.30452	US	KS
+Township of Cottonwood	38.28973	-96.74681	US	KS
+Council Corner	37.26672	-94.74885	US	KS
+Countryside	39.01667	-94.6544	US	KS
+Covert	39.28029	-98.81091	US	KS
+Township of Covert	39.26401	-98.76902	US	KS
+Cow Town	37.6939	-97.35755	US	KS
+Coyville	37.68615	-95.89749	US	KS
+Craig	38.96584	-94.81635	US	KS
+Crane	37.27951	-95.79693	US	KS
+Crappie Point	39.64445	-99.14815	US	KS
+Cravensville	37.03201	-94.84467	US	KS
+Crawford	38.51334	-98.03505	US	KS
+Township of Crawford	37.1633	-94.77691	US	KS
+Township of Crawford	37.50653	-94.86093	US	KS
+Crestline	37.17089	-94.7044	US	KS
+Township of Creswell	37.08691	-97.0159	US	KS
+Croft	37.50335	-98.99482	US	KS
+Cross Landing Strip	37.95807	-99.23067	US	KS
+Croweburg	37.55699	-94.66607	US	KS
+Crown Point	38.05112	-97.20614	US	KS
+Cruppers Corner	37.97001	-97.94033	US	KS
+Township of Crystal Plains	39.69798	-98.67312	US	KS
+Township of Crystal	39.87223	-99.12296	US	KS
+Cuba	39.80278	-97.45587	US	KS
+Cullen Village	38.94278	-95.70276	US	KS
+Cullison	37.63057	-98.90538	US	KS
+Culver	38.97084	-97.75893	US	KS
+Township of Culver	39.00168	-97.76136	US	KS
+Cummings	39.46278	-95.24747	US	KS
+Cunningham	37.64391	-98.43119	US	KS
+Cure of Ars Convent	38.96016	-94.62977	US	KS
+Curranville	37.51366	-94.63163	US	KS
+Township of Custer	39.26316	-98.43383	US	KS
+Township of Cutler	38.51798	-95.13273	US	KS
+Dalbey	39.49722	-95.07747	US	KS
+Dale	37.33752	-97.05393	US	KS
+Township of Dale	37.60417	-97.97218	US	KS
+Dalton	37.26919	-97.27254	US	KS
+Danville	37.28613	-97.892	US	KS
+Township of Darlington	37.95559	-97.3176	US	KS
+Darlow	37.94085	-97.95005	US	KS
+Dartmouth	38.36335	-98.64591	US	KS
+Township of Dayton	39.87179	-99.45898	US	KS
+Township of Dayton	38.91437	-97.42816	US	KS
+De Graff	37.98113	-96.86281	US	KS
+City of De Soto	38.96871	-94.95499	US	KS
+De Soto	38.97917	-94.96858	US	KS
+Dearing	37.05869	-95.71331	US	KS
+Deerhead	37.23836	-98.91177	US	KS
+Township of Deerhead	37.23846	-98.93013	US	KS
+Township of Delano	37.71712	-97.41806	US	KS
+Delavan	38.65612	-96.81334	US	KS
+Delaware Bend	39.25278	-94.8308	US	KS
+Township of Delaware	39.35972	-95.48539	US	KS
+Township of Delaware	39.22624	-94.86612	US	KS
+Township of Delaware	39.02161	-94.90009	US	KS
+Township of Delhi	39.19823	-98.54581	US	KS
+Delia	39.24055	-95.96694	US	KS
+Township of Delmore	38.47832	-97.53764	US	KS
+Delphos	39.27389	-97.77198	US	KS
+Denison	39.39166	-95.62804	US	KS
+Denmark	39.08917	-98.287	US	KS
+Dennis	37.34701	-95.41275	US	KS
+Dent Spur	38.43473	-98.77481	US	KS
+Denton	39.73278	-95.26942	US	KS
+Dentonia	39.6839	-98.46756	US	KS
+Derby	37.54557	-97.26893	US	KS
+Detroit	38.935	-97.12085	US	KS
+Densmore	39.63834	-99.73928	US	KS
+Devon	37.92226	-94.81913	US	KS
+Dewey Mound	37.59727	-95.56137	US	KS
+Dexter	37.17725	-96.71447	US	KS
+Township of Dexter	37.18825	-96.68245	US	KS
+Dillon	38.69362	-97.14696	US	KS
+Dillwyn	37.97085	-98.87982	US	KS
+Dispatch	39.5964	-98.50506	US	KS
+Dixon Square	37.54752	-97.26949	US	KS
+Township of Dixon	37.25631	-97.74734	US	KS
+Dixon Mound	37.22618	-95.41831	US	KS
+Doniphan	39.64166	-95.0808	US	KS
+Dorrance	38.84668	-98.58952	US	KS
+Township of Dor	39.61143	-99.01014	US	KS
+Doster	37.06114	-97.712	US	KS
+Township of Douglas	39.26323	-95.67785	US	KS
+Township of Douglas	38.13074	-98.85765	US	KS
+Douglass	37.51946	-97.01281	US	KS
+Township of Douglass	37.51941	-96.98958	US	KS
+Dover	38.96472	-95.93749	US	KS
+Township of Dover	39.01595	-95.8959	US	KS
+Downs	39.49862	-98.54201	US	KS
+Township of Downs	37.17015	-97.52935	US	KS
+Township of Doyle	38.22169	-96.88988	US	KS
+Township of Dragoon	38.71721	-95.83472	US	KS
+Township of Dresden	37.68885	-98.41007	US	KS
+Drexel Corner	38.4764	-94.67662	US	KS
+Drury	37.03558	-97.47782	US	KS
+Dry Wood	37.65977	-94.71274	US	KS
+Township of Drywood	37.71752	-94.68794	US	KS
+Dubuque	38.69584	-98.60896	US	KS
+Dunavant	39.30194	-95.33275	US	KS
+Dundee	38.30862	-98.89065	US	KS
+Dunkirk	37.48449	-94.74191	US	KS
+Dunlap	38.5764	-96.36583	US	KS
+Duluth	39.52472	-96.22306	US	KS
+Duquoin	37.3828	-98.07367	US	KS
+Durand	37.88976	-95.69304	US	KS
+Dunlay	38.25836	-94.99747	US	KS
+Durham	38.48612	-97.22808	US	KS
+Township of Durham	39.17551	-97.42641	US	KS
+Dutch Hollow	39.38972	-96.39861	US	KS
+Dwight	38.84445	-96.59334	US	KS
+Township of Eagle	37.20251	-98.74977	US	KS
+Township of Eagle	37.51693	-97.97221	US	KS
+Township of Eagle	37.86872	-97.53711	US	KS
+Earlton	37.58811	-95.46915	US	KS
+Township of East Cooper	38.04188	-98.52744	US	KS
+East El Dorado	37.82085	-96.83558	US	KS
+East Galena	37.07284	-94.62912	US	KS
+East Topeka Interchange	39.02694	-95.62331	US	KS
+Township of East Washington	38.21696	-97.97731	US	KS
+Eastborough	37.68807	-97.26366	US	KS
+Easton	39.345	-95.1158	US	KS
+Township of Easton	39.36832	-95.12361	US	KS
+Eastshore	38.38196	-97.07391	US	KS
+Eaton	37.22975	-96.77031	US	KS
+Eaton Acres Landing Strip	37.43141	-96.94309	US	KS
+Edalgo	38.97167	-98.04699	US	KS
+Township of Eden	37.43038	-97.75207	US	KS
+Edgerton	38.76473	-95.00802	US	KS
+City of Edgerton	38.79143	-94.95926	US	KS
+Edison	37.51394	-94.74663	US	KS
+Edmond	39.62723	-99.82262	US	KS
+Edmonds Pool	38.09446	-97.03086	US	KS
+Edna	37.0598	-95.35942	US	KS
+Edward	37.78338	-94.69746	US	KS
+City of Edwardsville	39.07651	-94.8166	US	KS
+Edwardsville	39.06112	-94.81968	US	KS
+Effingham	39.52222	-95.40081	US	KS
+El Dorado	37.81724	-96.86225	US	KS
+El Dorado Interchange	37.81946	-96.90253	US	KS
+City of El Dorado	37.82041	-96.86121	US	KS
+Township of El Dorado	37.77399	-96.9028	US	KS
+Elbing	38.05279	-97.12781	US	KS
+Eldred	37.05058	-98.76787	US	KS
+Elgin	37.0045	-96.27666	US	KS
+Elk City	37.28923	-95.91165	US	KS
+Township of Elk	39.61834	-97.42009	US	KS
+Township of Elk	38.8043	-95.55641	US	KS
+Elkhorn Knob	38.69917	-95.85915	US	KS
+Ellinor	38.39335	-96.42806	US	KS
+Ellinwood	38.35557	-98.58091	US	KS
+City of Ellinwood	38.35749	-98.58422	US	KS
+Ellis	38.93807	-99.56067	US	KS
+City of Ellis	38.93483	-99.55686	US	KS
+Township of Ellis	38.99382	-99.51328	US	KS
+Ellsworth	38.73056	-98.22811	US	KS
+City of Ellsworth	38.7328	-98.22849	US	KS
+Township of Ellsworth	38.74056	-98.20512	US	KS
+Township of Elkhorn	39.0014	-98.09574	US	KS
+Elm Hollow Corner	39.18944	-96.71223	US	KS
+Township of Elm	37.90718	-95.29893	US	KS
+Elmdale	38.37363	-96.64473	US	KS
+Township of Elmendaro	38.24519	-96.0458	US	KS
+Elmer	37.96946	-97.93033	US	KS
+Elmhurst	38.97445	-94.68496	US	KS
+Elmo	38.68417	-97.23002	US	KS
+Elmont	39.16528	-95.70304	US	KS
+Elsmore	37.79449	-95.15026	US	KS
+Township of Elsmore	37.79102	-95.15894	US	KS
+Elwood	39.75555	-94.87247	US	KS
+Township of Elwood	37.06859	-98.71705	US	KS
+Elyria	38.29056	-97.62699	US	KS
+Emanuel Full Gospel Tabernacle	38.4039	-96.19333	US	KS
+Township of Emma	38.13019	-97.42692	US	KS
+Emmanuel Pentecostal Temple	37.70474	-97.31449	US	KS
+Emmeram	38.95862	-99.13232	US	KS
+Emmett	39.30722	-96.0561	US	KS
+Township of Emmett	39.30817	-96.10579	US	KS
+Emmons	39.85639	-97.00308	US	KS
+Empire City	37.08923	-94.64189	US	KS
+Township of Empire	38.65309	-98.03553	US	KS
+Township of Empire	38.39147	-97.53759	US	KS
+Emporia	38.4039	-96.18166	US	KS
+Emporia Interchange	38.41529	-96.2375	US	KS
+Emporia Junction	38.40279	-96.16138	US	KS
+City of Emporia	38.40227	-96.19229	US	KS
+Township of Emporia	38.37233	-96.16831	US	KS
+Englevale	37.59393	-94.72746	US	KS
+Englewood	37.03836	-99.98347	US	KS
+Township of Englewood	37.14964	-99.99895	US	KS
+Enosdale	39.77111	-97.16142	US	KS
+Enterprise	38.90278	-97.11696	US	KS
+Township of Enterprise	37.64202	-99.9441	US	KS
+Township of Enterprise	38.04284	-98.19715	US	KS
+Erie	37.56811	-95.24331	US	KS
+Township of Erie	37.60182	-95.30667	US	KS
+Township of Erie	37.51861	-97.75362	US	KS
+Township of Erving	39.61092	-98.44888	US	KS
+Esbon	39.82223	-98.43589	US	KS
+Township of Esbon	39.78488	-98.44813	US	KS
+Ettenson	39.22584	-94.86302	US	KS
+Township of Eudora	38.91044	-95.10855	US	KS
+Eureka	37.82392	-96.28917	US	KS
+Eureka Downs	37.81947	-96.27167	US	KS
+Eureka Valley	39.15277	-96.65445	US	KS
+Eureka Valley	39.15277	-96.66417	US	KS
+City of Eureka	37.82607	-96.28882	US	KS
+Township of Eureka	38.47785	-98.86704	US	KS
+Township of Eureka	37.84006	-96.30719	US	KS
+Township of Eureka	37.68886	-98.30077	US	KS
+Township of Eureka	39.26272	-97.98663	US	KS
+Township of Eureka	38.47839	-98.31326	US	KS
+Township of Eureka	38.73992	-97.42772	US	KS
+Township of Evan	37.69013	-97.86271	US	KS
+Eudora	38.94334	-95.09858	US	KS
+Everest	39.67722	-95.4247	US	KS
+Ewell	37.34002	-97.69061	US	KS
+Township of Exeter	39.26373	-97.20294	US	KS
+Fact	39.55389	-97.03335	US	KS
+Fairfax	39.14167	-94.61273	US	KS
+Township of Fairfax	38.71381	-95.66958	US	KS
+Fairmont	39.17694	-96.54889	US	KS
+Township of Fairplay	38.23408	-96.98982	US	KS
+Fairview	39.84111	-95.72804	US	KS
+Township of Fairview	38.653	-98.97753	US	KS
+Township of Fairview	37.86844	-96.98723	US	KS
+Township of Fairview	37.34635	-96.98824	US	KS
+Township of Fairview	39.17968	-95.43142	US	KS
+Township of Fairview	37.16431	-95.21275	US	KS
+Township of Fairview	39.87068	-97.53832	US	KS
+Township of Fairview	39.04567	-98.54009	US	KS
+Township of Fairview	37.95492	-98.52706	US	KS
+Fairway	39.02223	-94.6319	US	KS
+Fairway Shops	39.84028	-95.72915	US	KS
+City of Fairway	39.0244	-94.62873	US	KS
+Faith Family Life Centre Assembly of God	39.11405	-95.66376	US	KS
+Falun	38.67112	-97.75949	US	KS
+Township of Falun	38.65315	-97.81421	US	KS
+Fanning	39.83472	-95.16136	US	KS
+Farhman	38.57946	-98.49924	US	KS
+Farlington	37.61782	-94.82774	US	KS
+Farlington Fish Hatchery	37.64866	-94.80497	US	KS
+Farlinville	38.23336	-94.85385	US	KS
+Faulkner	37.10146	-95.01163	US	KS
+Fellowship Tabernacle	37.68699	-95.46054	US	KS
+Fellsburg	37.81196	-99.17539	US	KS
+Fern	37.34701	-95.37636	US	KS
+Fiat	37.54087	-96.20749	US	KS
+Fidelity	39.79	-95.78888	US	KS
+Filler	37.38255	-94.82524	US	KS
+Five Points	39.23028	-95.03136	US	KS
+Five Mounds	37.52311	-95.58943	US	KS
+Fleming	37.36811	-94.78302	US	KS
+Township of Flora	39.08904	-97.31538	US	KS
+Floral	37.3528	-96.92087	US	KS
+Florence	38.24446	-96.92808	US	KS
+City of Florence	38.24317	-96.92929	US	KS
+Flush	39.29444	-96.44056	US	KS
+Fontana	38.42585	-94.83829	US	KS
+Ford	37.63613	-99.75402	US	KS
+Township of Ford	37.61653	-99.78915	US	KS
+Formoso	39.78001	-97.99227	US	KS
+Forney	39.41557	-98.62007	US	KS
+Township of Forrester	38.50813	-99.99134	US	KS
+Fort Dodge	37.73196	-99.93541	US	KS
+Fort Downer	38.84084	-99.97818	US	KS
+Fort Larned National Historic Site	38.18047	-99.21837	US	KS
+Fort Scott	37.83976	-94.7083	US	KS
+Fort Scott National Historic Site	37.84359	-94.70429	US	KS
+City of Fort Scott	37.82863	-94.70374	US	KS
+Fostoria	39.43972	-96.50778	US	KS
+Township of Fountain	39.17573	-97.87378	US	KS
+Four Corners	38.78251	-95.68637	US	KS
+Four Way Divide	39.10416	-96.81779	US	KS
+Fourmile Corners	39.84056	-95.78915	US	KS
+Fox Town	37.51366	-94.64885	US	KS
+Frankfort	39.70555	-96.41696	US	KS
+Franklin	37.52644	-94.7058	US	KS
+Fox Landing Strip	37.92363	-99.26872	US	KS
+Township of Franklin	37.97207	-95.00602	US	KS
+Township of Franklin	37.82296	-99.18211	US	KS
+Township of Franklin	38.69548	-95.11584	US	KS
+Township of Franklin	39.43208	-95.73756	US	KS
+Township of Franklin	38.9143	-98.09534	US	KS
+Township of Franklin	39.87055	-96.52286	US	KS
+Township of Franklin	38.34881	-99.91584	US	KS
+Township of Franklin	39.95811	-96.97454	US	KS
+Atchison Child Care	39.56278	-95.13443	US	KS
+Frederick	38.51334	-98.26839	US	KS
+Fredonia	37.53394	-95.82665	US	KS
+City of Fredonia	37.53293	-95.82272	US	KS
+Township of Freedom	37.98274	-94.76263	US	KS
+Township of Freedom	38.73324	-99.12541	US	KS
+Township of Freedom	39.8716	-99.34686	US	KS
+Township of Freedom	39.87142	-97.65177	US	KS
+Freeport	37.19863	-97.857	US	KS
+Fremont Point	39.16055	-96.51195	US	KS
+Township of Fremont	38.52072	-96.1524	US	KS
+Friends Community of West Wichita	37.67918	-97.47532	US	KS
+Frisbie	39.01445	-94.88719	US	KS
+Frizell	38.16612	-99.21427	US	KS
+City of Frontenac	37.45838	-94.70155	US	KS
+Fruitland	37.20396	-95.71081	US	KS
+Full Gospel Tabernacle	38.40446	-96.19472	US	KS
+Full Gospel Tabernacle	37.73668	-97.34532	US	KS
+Fuller	37.52227	-94.61968	US	KS
+Fulton	38.01004	-94.71968	US	KS
+Funston Monument	39.10333	-96.7339	US	KS
+Furley	37.87918	-97.21282	US	KS
+Galatia	38.64168	-98.9587	US	KS
+Township of Gale	38.39332	-97.09823	US	KS
+Galena	37.0759	-94.63967	US	KS
+Galena Kindergarten	37.07617	-94.63106	US	KS
+City of Galena	37.07521	-94.63519	US	KS
+Galesburg	37.47367	-95.35859	US	KS
+Township of Galesburg	37.69046	-97.97238	US	KS
+Galt	38.46445	-98.0845	US	KS
+Township of Galt	38.47852	-98.09032	US	KS
+Galva	38.38195	-97.53754	US	KS
+Frontenac	37.4556	-94.68913	US	KS
+Game Fork	39.62055	-96.57668	US	KS
+Township of Garden Plain	37.69224	-97.64381	US	KS
+Township of Garden	37.03774	-94.67483	US	KS
+Township of Garden	38.1304	-97.53705	US	KS
+Gardner	38.81084	-94.92719	US	KS
+City of Gardner	38.81629	-94.92971	US	KS
+Township of Gardner	38.76736	-94.91272	US	KS
+Garden Plain	37.65835	-97.68366	US	KS
+Garland	37.73171	-94.62246	US	KS
+Garnett	38.28058	-95.24192	US	KS
+City of Garnett	38.28441	-95.24048	US	KS
+Garvin	37.24201	-95.19413	US	KS
+Gas	37.92365	-95.34609	US	KS
+Gaylord	39.6439	-98.84758	US	KS
+Geneva	38.01698	-95.49415	US	KS
+Township of Geneva	37.99475	-95.47315	US	KS
+Georgia	37.62779	-98.00867	US	KS
+Township of German	39.95901	-99.01075	US	KS
+Gibbs	37.13754	-96.32694	US	KS
+Gilbert	39.48278	-98.04116	US	KS
+Township of Gill	39.17671	-97.10125	US	KS
+Township of Gilman	39.87017	-95.95812	US	KS
+Geneseo	38.51612	-98.15672	US	KS
+Girard	37.51116	-94.83802	US	KS
+City of Girard	37.50915	-94.84576	US	KS
+Glacier Uplands	39.56667	-95.43359	US	KS
+Glad Tidings Assembly of God	39.03667	-95.72471	US	KS
+Gladden Bottom	39.81666	-94.90025	US	KS
+Gladden Ravine	38.95584	-95.97193	US	KS
+Glade	39.68473	-99.30982	US	KS
+Gladstone	38.34307	-96.49417	US	KS
+Glasco	39.35667	-97.84115	US	KS
+Glen Crouse	37.43336	-96.61696	US	KS
+Glen Elder	39.49862	-98.30867	US	KS
+Township of Glen Elder	39.52388	-98.3205	US	KS
+Township of Glencoe	37.69398	-96.62086	US	KS
+Township of Glencoe	38.91422	-99.65059	US	KS
+Glendale	38.89834	-97.87504	US	KS
+Township of Glendale	38.91457	-97.873	US	KS
+Glenlock	38.31002	-95.34192	US	KS
+Glenville	37.61252	-97.34755	US	KS
+Township of Glenwood	39.95847	-99.2351	US	KS
+Globe	38.78223	-95.3997	US	KS
+Goddard	37.65974	-97.57533	US	KS
+Godfrey	37.76171	-94.70996	US	KS
+Goemann Landing Strip	37.25169	-98.23701	US	KS
+Goessel	38.2464	-97.34892	US	KS
+Goff	39.66389	-95.93222	US	KS
+Township of Golden Belt	38.91436	-98.31844	US	KS
+Goldenrod	39.06001	-98.2445	US	KS
+Good Intent	39.6	-95.21692	US	KS
+Goodrich	38.28475	-94.99191	US	KS
+Gordon	37.58863	-96.99059	US	KS
+Township of Gore	37.42407	-97.18875	US	KS
+Gorham	38.88168	-99.02315	US	KS
+Township of Goshen	39.52381	-97.01508	US	KS
+Gospel Tabernacle	38.92055	-97.21252	US	KS
+Grace Episcopal Cathedral	39.05072	-95.68391	US	KS
+Grafton	37.20033	-96.14971	US	KS
+Township of Graham	39.50214	-99.80711	US	KS
+Granada	39.72	-95.7936	US	KS
+Township of Granada	39.69647	-95.84524	US	KS
+Grand Summit	37.36808	-96.54668	US	KS
+Grandview	39.06723	-94.8983	US	KS
+Township of Grandview	37.82398	-99.93445	US	KS
+Township of Granite	39.95863	-99.45922	US	KS
+Grant	39.11862	-98.33367	US	KS
+Township of Grant	38.56558	-98.97789	US	KS
+Township of Grant	39.2849	-96.99333	US	KS
+Township of Grant	39.61017	-97.87548	US	KS
+Township of Grant	37.06281	-96.6869	US	KS
+Township of Grant	37.50745	-95.01513	US	KS
+Township of Grant	38.91402	-97.20163	US	KS
+Township of Grant	39.01573	-95.22323	US	KS
+Township of Grant	39.43433	-95.96992	US	KS
+Township of Grant	39.78392	-97.98896	US	KS
+Township of Grant	39.08873	-98.31717	US	KS
+Township of Grant	38.36662	-96.87814	US	KS
+Township of Grant	37.6893	-95.16076	US	KS
+Township of Grant	38.65167	-95.89397	US	KS
+Township of Grant	39.52667	-99.97235	US	KS
+Township of Grant	39.17569	-97.5378	US	KS
+Township of Grant	38.2188	-99.40568	US	KS
+Township of Grant	39.5223	-96.08172	US	KS
+Township of Grant	38.14032	-98.01823	US	KS
+Township of Grant	39.69711	-97.53803	US	KS
+Township of Grant	39.29775	-96.70624	US	KS
+Township of Grant	38.82847	-98.84775	US	KS
+Township of Grant	37.86853	-97.3174	US	KS
+Township of Grant	39.78438	-97.31244	US	KS
+Grantville	39.08333	-95.56137	US	KS
+Township of Grasshopper	39.59861	-95.48652	US	KS
+Graveyard Mound	38.26475	-94.7644	US	KS
+Gray	38.15835	-99.64207	US	KS
+Great Bend	38.36446	-98.76481	US	KS
+Great Bend Prairie	38.29168	-98.79203	US	KS
+City of Great Bend	38.35918	-98.8007	US	KS
+Township of Great Bend	38.39591	-98.73391	US	KS
+Township of Greeley	38.82733	-97.53026	US	KS
+Township of Greeley	37.86878	-97.64708	US	KS
+Green	39.42778	-97.00196	US	KS
+Township of Green Garden	38.56539	-98.31323	US	KS
+Green Hollow	37.21228	-95.97249	US	KS
+Greeley	38.36669	-95.12692	US	KS
+Township of Green	39.35467	-96.60101	US	KS
+Greenbush	37.51449	-94.98803	US	KS
+Township of Greene	37.17395	-97.31132	US	KS
+Greenleaf	39.72834	-96.97613	US	KS
+Township of Greenleaf	39.69688	-96.97505	US	KS
+Greensburg	37.6028	-99.29261	US	KS
+City of Greensburg	37.60493	-99.29272	US	KS
+Greenwich	37.78279	-97.20365	US	KS
+Greenwich Heights	37.65335	-97.20532	US	KS
+Township of Greenwood	38.56402	-95.44749	US	KS
+Township of Greenwood	39.87151	-99.23496	US	KS
+Grenola	37.34864	-96.45056	US	KS
+Gretna	39.76529	-99.21287	US	KS
+Gridley	38.0978	-95.8836	US	KS
+Grinter Heights	39.07389	-94.76413	US	KS
+Gross	37.60088	-94.64968	US	KS
+Township of Guelph	37.06458	-97.31063	US	KS
+Guilford	37.59922	-95.7197	US	KS
+Township of Guilford	37.60272	-95.72438	US	KS
+Township of Guittard	39.87067	-96.40747	US	KS
+Gypsum	38.70556	-97.42809	US	KS
+Township of Gypsum	38.65275	-97.42735	US	KS
+Township of Gypsum	37.60547	-97.20709	US	KS
+Hackney	37.16614	-97.14754	US	KS
+Township of Hackberry	37.06039	-95.2132	US	KS
+Half Mound	39.40583	-95.49748	US	KS
+Hale	37.23478	-96.05499	US	KS
+Halstead	38.0014	-97.50865	US	KS
+City of Halstead	37.99981	-97.51019	US	KS
+Township of Halstead	38.04403	-97.53756	US	KS
+Hamburg	38.12557	-99.17038	US	KS
+Hamilton	37.97947	-96.16416	US	KS
+Hamlin	39.91611	-95.62804	US	KS
+Township of Hamlin	39.94962	-95.61928	US	KS
+Hammond	37.93559	-94.69524	US	KS
+Township of Hampden	38.20124	-95.69689	US	KS
+Township of Hampton-Fairview	38.63129	-99.48174	US	KS
+Township of Hancock	39.35085	-98.65732	US	KS
+Handkins Landing Strip	37.48641	-98.08006	US	KS
+Hanover	39.89389	-96.87947	US	KS
+Township of Hanover	39.08866	-98.42883	US	KS
+Township of Hanover	39.87104	-96.86232	US	KS
+Hanston	38.12196	-99.7129	US	KS
+Happy Hollow	39.16195	-94.70024	US	KS
+Township of Happy	39.19737	-99.88467	US	KS
+Harbine	39.99946	-97.76838	US	KS
+Harding	37.99392	-94.81969	US	KS
+Hardtner	37.01392	-98.64953	US	KS
+Hardtner Junction	37.68501	-97.35866	US	KS
+Hargrave	38.5564	-99.44511	US	KS
+Harlan	39.60557	-98.76702	US	KS
+Township of Harlan	39.6112	-98.7855	US	KS
+Township of Harmon	37.34223	-97.31636	US	KS
+Harper	37.28669	-98.02589	US	KS
+Township of Harper	38.47855	-97.75864	US	KS
+Harris	38.31946	-95.43637	US	KS
+City of Harper	37.2851	-98.02767	US	KS
+Township of Harrison	37.04907	-96.45364	US	KS
+Township of Harrison	38.56514	-95.21825	US	KS
+Township of Harrison	39.95876	-98.21223	US	KS
+Township of Harrison	39.69645	-95.95796	US	KS
+Township of Harrison	38.39266	-98.20176	US	KS
+Hartford	38.30835	-95.95582	US	KS
+Township of Harvey	37.43241	-96.61945	US	KS
+Township of Harvey	39.69705	-98.90262	US	KS
+Harveyville	38.79001	-95.96166	US	KS
+Hasty	37.93892	-95.69054	US	KS
+Haven	37.8989	-97.78283	US	KS
+Township of Haven	37.88601	-97.78297	US	KS
+Havensville	39.51111	-96.07805	US	KS
+Haviland	37.61946	-99.1065	US	KS
+City of Haviland	37.6176	-99.10514	US	KS
+Hawk	37.11252	-97.97534	US	KS
+Township of Hawkeye	39.52467	-98.87773	US	KS
+Hawthorne	39.47639	-95.21414	US	KS
+Havana	37.09173	-95.94193	US	KS
+Hay Hollow	39.11556	-99.94596	US	KS
+Hay Valley	39.84861	-97.30837	US	KS
+Hayden	37.42783	-95.26109	US	KS
+Township of Hayes	39.43767	-97.08984	US	KS
+Township of Hayes	39.00259	-97.10202	US	KS
+Township of Hayes	38.70258	-95.22598	US	KS
+Township of Hayes	38.30418	-97.86961	US	KS
+Township of Hayes	39.35	-98.32122	US	KS
+Township of Hayes	38.08606	-98.41764	US	KS
+Township of Hayes	38.12957	-98.63771	US	KS
+Hays	38.87918	-99.32677	US	KS
+City of Hays	38.88042	-99.32109	US	KS
+Haysville	37.56446	-97.35227	US	KS
+Hazelton	37.0903	-98.39841	US	KS
+Township of Hazelton	37.12301	-98.40324	US	KS
+Ahavath - Achim Hebrew Congregation	37.71789	-97.26082	US	KS
+Hedville	38.86278	-97.76143	US	KS
+Heizer	38.42223	-98.88926	US	KS
+Helena	39.58722	-95.37803	US	KS
+Helmick	38.62779	-96.60028	US	KS
+Township of Hendricks	37.04877	-96.30858	US	KS
+Township of Henry	39.0886	-97.87314	US	KS
+Henson	38.50557	-94.8658	US	KS
+Hepler	37.66116	-94.9683	US	KS
+Herington	38.67112	-96.94251	US	KS
+City of Herington	38.69741	-96.80203	US	KS
+Heritage Baptist Temple	38.37198	-98.77937	US	KS
+Herkimer	39.89111	-96.71113	US	KS
+Township of Herkimer	39.95809	-96.74964	US	KS
+Hermansberg	39.93389	-96.76836	US	KS
+Hertzler Clinic	38.00196	-97.50782	US	KS
+Township of Herzog	38.97344	-99.10594	US	KS
+Hesper	38.89862	-95.07469	US	KS
+Hessdale	38.91278	-96.20944	US	KS
+Hesston	38.13834	-97.43143	US	KS
+Hewins	37.04088	-96.40834	US	KS
+Hiatt	39.23056	-94.87246	US	KS
+Hiattville	37.72227	-94.87164	US	KS
+Hiawatha	39.8525	-95.53582	US	KS
+City of Hiawatha	39.85148	-95.53803	US	KS
+Township of Hiawatha	39.84517	-95.49388	US	KS
+Hickory Knob	39.05917	-95.84554	US	KS
+Township of Hickory	37.60692	-96.62079	US	KS
+Township of High Prairie	39.25905	-95.01315	US	KS
+Highland	39.85972	-95.2697	US	KS
+Highland	39.21389	-94.8308	US	KS
+Highland Village	39.01445	-95.65026	US	KS
+Township of Highland	39.41587	-96.99752	US	KS
+Township of Highland	38.13039	-97.31797	US	KS
+Township of Highland	39.95883	-98.44822	US	KS
+Township of Highland	38.91437	-98.42976	US	KS
+Township of Highland	38.74128	-96.75846	US	KS
+Township of Highland	39.9585	-97.08749	US	KS
+Township of Highpoint	38.33473	-99.69537	US	KS
+Hilford	37.44978	-95.67665	US	KS
+Hitschmann	38.62418	-98.58146	US	KS
+Hoag	37.16479	-95.04468	US	KS
+Hodges	37.81668	-99.38373	US	KS
+Hog Back	38.92029	-99.48094	US	KS
+Hoisington	38.51807	-98.77814	US	KS
+City of Hoisington	38.51794	-98.77762	US	KS
+Hoge	39.17222	-94.99497	US	KS
+Holland	38.76195	-97.27947	US	KS
+Township of Holland	38.65287	-97.31632	US	KS
+Hollenberg	39.98056	-96.99225	US	KS
+Holliday	39.03834	-94.80802	US	KS
+Hollis	39.63111	-97.55254	US	KS
+Hollister	37.76282	-94.8358	US	KS
+Holton	39.46527	-95.73637	US	KS
+City of Holton	39.47	-95.7319	US	KS
+Holyrood	38.58695	-98.41118	US	KS
+Township of Holmwood	39.87169	-98.21241	US	KS
+Hooser	37.13837	-96.63002	US	KS
+Township of Hoosier	37.6895	-98.19109	US	KS
+Hope	38.69028	-97.07668	US	KS
+Township of Hope	38.6527	-97.09571	US	KS
+Hopewell	37.80474	-98.99566	US	KS
+Hopkins	37.89724	-96.93225	US	KS
+Horton	39.66056	-95.52637	US	KS
+City of Horton	39.66291	-95.53223	US	KS
+Township of Houston	39.61264	-98.89315	US	KS
+Howard	37.47031	-96.26361	US	KS
+Township of Howard	37.46663	-96.22528	US	KS
+Township of Howard	37.03803	-95.44997	US	KS
+Hoyt	39.24777	-95.70637	US	KS
+Hudson	38.10557	-98.66008	US	KS
+Humboldt	37.8106	-95.43693	US	KS
+City of Humboldt	37.81167	-95.43711	US	KS
+Township of Humboldt	37.82422	-95.41551	US	KS
+Hungry Hollow	39.6039	-99.17426	US	KS
+Hungry Hollow	38.78223	-96.12388	US	KS
+Hungry Hollow	38.69251	-99.24066	US	KS
+Hunter	39.23418	-98.39728	US	KS
+Hunnewell	37.00503	-97.40477	US	KS
+Huntsville	38.05724	-98.3259	US	KS
+Township of Huntsville	38.04271	-98.30744	US	KS
+Huron	39.63833	-95.35164	US	KS
+Huscher	39.52417	-97.5892	US	KS
+Hutchinson	38.06084	-97.92977	US	KS
+City of Hutchinson	38.06813	-97.91127	US	KS
+Hymer	38.48612	-96.68918	US	KS
+Township of Illinois	38.63897	-99.19862	US	KS
+Township of Illinois	37.60593	-97.53466	US	KS
+Township of Illinois	37.43177	-97.53255	US	KS
+Imes	38.57362	-95.1583	US	KS
+Immaculate Conception Convent	38.36779	-98.78842	US	KS
+Independence	37.22424	-95.70831	US	KS
+Township of Illinois	39.6966	-96.07036	US	KS
+City of Independence	37.22549	-95.71933	US	KS
+Township of Independence	39.70192	-95.17743	US	KS
+Township of Independence	37.18531	-95.7507	US	KS
+Township of Independence	39.35088	-98.76817	US	KS
+Township of Independence	39.95816	-96.8621	US	KS
+Township of Independent	38.56536	-98.5352	US	KS
+Ottawa Indian Mission and Burial Ground	38.63334	-95.2058	US	KS
+Indian Grave Monument	39.20139	-96.93918	US	KS
+Indian Mound	39.62639	-96.60862	US	KS
+Indian Village	37.0798	-95.65637	US	KS
+Township of Indiana	39.50177	-99.95211	US	KS
+Township of Indiana	39.00147	-98.20643	US	KS
+Industry	39.13333	-97.17141	US	KS
+Inman	38.23195	-97.77338	US	KS
+Iola	37.92448	-95.39998	US	KS
+Iola Baptist Temple	37.92733	-95.39447	US	KS
+City of Iola	37.92742	-95.40056	US	KS
+Township of Iola	37.90534	-95.45083	US	KS
+Ionia	39.6639	-98.34756	US	KS
+Township of Ionia	39.69787	-98.33076	US	KS
+Iowa Reservation	39.99458	-95.38652	US	KS
+Township of Iowa	39.89425	-95.2612	US	KS
+Iowa Point	39.92833	-95.23859	US	KS
+Township of Irving	39.93546	-95.39591	US	KS
+Isabel	37.46669	-98.55036	US	KS
+Iron Mound	38.80834	-97.5117	US	KS
+Iuka	37.72918	-98.73509	US	KS
+Ivanpah	37.89808	-96.48251	US	KS
+Township of Ivy	38.64108	-96.08234	US	KS
+Township of Jackson	38.30161	-95.30589	US	KS
+Township of Jackson	38.00035	-99.51466	US	KS
+Township of Jackson	39.01513	-96.54826	US	KS
+Township of Jackson	39.95807	-97.98731	US	KS
+Township of Jackson	38.39782	-96.02404	US	KS
+Township of Jackson	38.39146	-97.75888	US	KS
+Township of Jackson	39.17676	-98.65743	US	KS
+Township of Jackson	39.45687	-96.76042	US	KS
+Township of Jackson	37.17282	-97.42018	US	KS
+Jacobs	38.61195	-97.03085	US	KS
+Jamestown	39.59945	-97.86115	US	KS
+Township of Janesville	37.98473	-96.19992	US	KS
+Jarbalo	39.20195	-95.06913	US	KS
+Jefferson	37.1123	-95.76137	US	KS
+Township of Jefferson	37.14988	-96.45307	US	KS
+Township of Jefferson	38.74017	-97.20523	US	KS
+Township of Jefferson	39.01567	-96.75832	US	KS
+Township of Jefferson	39.5219	-95.84874	US	KS
+Township of Jefferson	39.33304	-95.26244	US	KS
+Township of Jefferson	39.78389	-97.5383	US	KS
+Jenkins	38.55001	-97.72199	US	KS
+Jewell	39.6714	-98.15366	US	KS
+Jetmore	38.08446	-99.89346	US	KS
+Jingo	38.40391	-94.69607	US	KS
+Johnson Fork	39.66055	-96.47196	US	KS
+Johnstown	38.49279	-97.6756	US	KS
+Joy	37.5953	-99.39484	US	KS
+Junction City	39.02861	-96.8314	US	KS
+Township of Junction	38.67948	-95.56381	US	KS
+Juniata	38.91528	-97.96477	US	KS
+KMUW Radio Tower (Wichita)	37.75029	-97.30366	US	KS
+Kackley	39.70001	-97.8531	US	KS
+Kake Helistop	37.71029	-97.38838	US	KS
+Kanbrick	38.47279	-98.77731	US	KS
+Kanopolis	38.71112	-98.15728	US	KS
+Kansas	37.7014	-97.28004	US	KS
+City of Kansas City	39.12346	-94.74419	US	KS
+Kansas City	39.11417	-94.62746	US	KS
+Kansas Neurological Institute	39.02728	-95.71604	US	KS
+City of Junction City	39.02681	-96.84944	US	KS
+Kansas	38.50029	-98.50063	US	KS
+Kanwaka	38.97306	-95.37275	US	KS
+Township of Kanwaka	38.96536	-95.41587	US	KS
+Township of Kapioma	39.47818	-95.51487	US	KS
+Washburn Institute of Technology	39.04459	-95.75128	US	KS
+Township of Kaw	39.10122	-95.54017	US	KS
+Township of Kaw	39.16293	-96.15676	US	KS
+Kechi	37.79585	-97.27949	US	KS
+Township of Kechi	37.79927	-97.3151	US	KS
+Keeler	37.61196	-97.29143	US	KS
+Keelville	37.03118	-94.92273	US	KS
+Keene	38.9575	-96.03916	US	KS
+Keats	39.22361	-96.70862	US	KS
+Kellogg	37.25919	-97.10948	US	KS
+Kellogg Circle	38.41307	-96.18027	US	KS
+Kelly	39.73777	-96.00333	US	KS
+Keighley	37.67252	-96.6428	US	KS
+Kelso	38.73473	-96.57056	US	KS
+Kenbro	38.12863	-96.33973	US	KS
+Kenilworth Shops	38.95806	-94.62857	US	KS
+Kennekuk	39.64445	-95.49887	US	KS
+Kenneth	38.85501	-94.6119	US	KS
+Kensington	39.76696	-99.03175	US	KS
+Township of Key West	38.39041	-95.74754	US	KS
+Township of Keysville	38.13172	-99.4051	US	KS
+Township of Kentucky	39.10102	-95.41576	US	KS
+Kickapoo Corral	37.23114	-97.00559	US	KS
+Kickapoo Reservation	39.6808	-95.61148	US	KS
+Township of Kickapoo	39.36868	-95.00599	US	KS
+Kilbourns Corner	38.15918	-98.32618	US	KS
+Kickapoo	39.39889	-94.97108	US	KS
+Kimball	37.66116	-95.16359	US	KS
+Kimeo	39.59583	-96.99474	US	KS
+Township of Kimeo	39.6099	-96.97524	US	KS
+Kincaid	38.0842	-95.15359	US	KS
+Township of King City	38.30409	-97.64822	US	KS
+Kingman	37.64585	-98.11367	US	KS
+City of Kingman	37.64752	-98.11598	US	KS
+Township of Kingman	37.51461	-98.40999	US	KS
+Kinsley	37.92307	-99.40984	US	KS
+City of Kinsley	37.9224	-99.41138	US	KS
+Township of Kinsley	37.9468	-99.40631	US	KS
+Kiowa	37.01725	-98.48535	US	KS
+Kingsdown	37.52502	-99.75874	US	KS
+Township of Kiowa Rural	37.55826	-99.28605	US	KS
+Kipp	38.78389	-97.45447	US	KS
+Township of Kiowa	37.02209	-98.49474	US	KS
+Kirkwood	37.37089	-94.72246	US	KS
+Kiro	39.09694	-95.79776	US	KS
+Kirwin	39.67307	-99.12231	US	KS
+Kirwin National Wildlife Refuge	39.6538	-99.18339	US	KS
+Township of Kirwin	39.69837	-99.12253	US	KS
+Klendike	37.36783	-94.75968	US	KS
+Kniveton	37.33839	-94.64329	US	KS
+Knoeber Landing Strip	37.8378	-99.74402	US	KS
+Kramer	37.36033	-94.72996	US	KS
+La Crosse	38.5314	-99.30872	US	KS
+Township of La Crosse-Brookdale	38.53135	-99.36451	US	KS
+La Cygne	38.35002	-94.76135	US	KS
+La Cygne Corner	38.34558	-94.67801	US	KS
+La Harpe	37.91698	-95.29915	US	KS
+City of La Harpe	37.91694	-95.30252	US	KS
+Labette	37.23062	-95.18358	US	KS
+Lackmans	38.92445	-94.76413	US	KS
+Laclede	39.34722	-96.22111	US	KS
+Township of Ladore	37.42762	-95.30639	US	KS
+Ladysmith	39.27138	-97.18447	US	KS
+Township of Lafayette	37.24574	-96.16128	US	KS
+Lafontaine	37.39922	-95.84526	US	KS
+Township of Labette	37.25178	-95.32141	US	KS
+Township of Lakin	38.38514	-98.56549	US	KS
+Township of Lakin	37.95525	-97.53755	US	KS
+Lamar	39.25611	-97.57475	US	KS
+Lamont	38.11252	-96.02666	US	KS
+Lancaster	39.57278	-95.30275	US	KS
+Township of Lancaster	39.60411	-95.30976	US	KS
+Lane	38.43974	-95.08219	US	KS
+Lane Hollow	38.4839	-95.58082	US	KS
+Township of Lane	37.9753	-96.01321	US	KS
+Township of Lane	39.7852	-98.89813	US	KS
+Laneville	37.33284	-95.12664	US	KS
+Lang	38.46001	-96.0836	US	KS
+Lang Hollow	39.51027	-95.08524	US	KS
+Langdon	37.35311	-94.70551	US	KS
+Langdon	37.8539	-98.32451	US	KS
+Township of Langdon	37.86827	-98.3072	US	KS
+Langley	38.54668	-97.96283	US	KS
+Township of Langley	38.56605	-97.9801	US	KS
+Lansdowne	37.61835	-97.86283	US	KS
+Lansing	39.24861	-94.90024	US	KS
+City of Lansing	39.24343	-94.89808	US	KS
+Lapland	37.98474	-96.39334	US	KS
+Larkinburg	39.4625	-95.57053	US	KS
+Larned	38.18057	-99.09871	US	KS
+City of Larned	38.18311	-99.10116	US	KS
+Township of Larned	38.22014	-99.07559	US	KS
+Lasita	39.40889	-96.94251	US	KS
+Latham	37.53613	-96.64197	US	KS
+Latimer	38.73889	-96.84557	US	KS
+Laton	39.28557	-99.07676	US	KS
+Latta Landing Strip	37.36863	-97.91256	US	KS
+Lawrence	38.97167	-95.23525	US	KS
+Lawrence Junction	38.64029	-95.27108	US	KS
+City of Lawrence	38.96009	-95.26307	US	KS
+Township of Lawrence	39.61009	-97.53728	US	KS
+Township of Lawrence	39.52483	-98.76676	US	KS
+Lawton	37.222	-94.63607	US	KS
+Layton	37.08226	-96.40806	US	KS
+Le Loup	38.69529	-95.15997	US	KS
+LeRoy	38.08392	-95.63443	US	KS
+Township of LeRoy	38.08959	-95.6376	US	KS
+Leanna	37.73282	-95.33248	US	KS
+Leavenworth	39.31111	-94.92246	US	KS
+City of Leavenworth	39.32237	-94.92458	US	KS
+Leawood	38.96667	-94.6169	US	KS
+City of Leawood	38.90757	-94.62583	US	KS
+Le Hunt	37.26923	-95.75192	US	KS
+Lebo	38.41668	-95.85304	US	KS
+Lecompton	39.04444	-95.3947	US	KS
+Township of Lecompton	39.02858	-95.42058	US	KS
+Lehigh	38.37279	-97.30309	US	KS
+Township of Lehigh	38.39149	-97.31654	US	KS
+Lenape	38.99723	-94.9508	US	KS
+Lenexa	38.95362	-94.73357	US	KS
+City of Lenexa	38.96083	-94.80198	US	KS
+Lento	38.61668	-94.84607	US	KS
+Leon	37.6903	-96.78225	US	KS
+Leona	39.78722	-95.32164	US	KS
+Leonardville	39.36444	-96.8589	US	KS
+Lerado	37.77641	-98.28257	US	KS
+Letitia	37.36891	-99.8518	US	KS
+Lebanon	39.80973	-98.55562	US	KS
+Lewis	37.93613	-99.25261	US	KS
+Lewis and Clark Viaduct	39.11417	-94.61412	US	KS
+Lexington	37.29391	-99.59957	US	KS
+Township of Lexington	37.31541	-99.63451	US	KS
+Township of Lexington	38.92111	-94.98871	US	KS
+Liberty	37.15563	-95.5947	US	KS
+Township of Liberty	38.3023	-98.86677	US	KS
+Township of Liberty	37.42399	-99.64679	US	KS
+Township of Liberty	38.10526	-95.88537	US	KS
+Township of Liberty	37.17174	-96.84272	US	KS
+Township of Liberty	38.82963	-96.96911	US	KS
+Township of Liberty	37.56117	-96.05203	US	KS
+Township of Liberty	38.91371	-96.6034	US	KS
+Township of Liberty	39.52236	-95.73808	US	KS
+Township of Liberty	37.42762	-98.40989	US	KS
+Township of Liberty	37.252	-95.21267	US	KS
+Township of Liberty	38.3313	-94.99181	US	KS
+Township of Liberty	38.30356	-97.20595	US	KS
+Township of Liberty	37.16005	-95.59979	US	KS
+Township of Liberty	39.17682	-98.88061	US	KS
+Township of Liberty	39.95823	-97.65066	US	KS
+Township of Liberty	38.65278	-97.53798	US	KS
+Township of Liberty	37.98033	-95.73002	US	KS
+Liebenthal	38.65501	-99.31927	US	KS
+Lillis	39.60972	-96.29612	US	KS
+Township of Limestone	39.78487	-98.33041	US	KS
+Linch Landing Strip	39.66417	-96.5989	US	KS
+Lincoln	39.04084	-98.14477	US	KS
+Township of Lincoln	38.21369	-95.14896	US	KS
+Township of Lincoln	37.98417	-96.85909	US	KS
+Township of Lincoln	39.55695	-97.64711	US	KS
+Township of Lincoln	38.36034	-95.88252	US	KS
+Township of Lincoln	37.61552	-94.69778	US	KS
+Township of Lincoln	38.91478	-97.31715	US	KS
+Township of Lincoln	37.82308	-99.07276	US	KS
+Township of Lincoln	38.65286	-98.31344	US	KS
+Township of Lincoln	38.56677	-95.32198	US	KS
+Township of Lincoln	39.32531	-95.84023	US	KS
+Township of Lincoln	38.34506	-94.69343	US	KS
+Township of Lincoln	39.78387	-96.29545	US	KS
+Township of Lincoln	37.4277	-95.16065	US	KS
+Township of Lincoln	38.48086	-95.55392	US	KS
+Township of Lincoln	39.00163	-97.42686	US	KS
+Township of Lincoln	38.3058	-99.41806	US	KS
+Township of Lincoln	39.43453	-96.08163	US	KS
+Township of Lincoln	37.95565	-97.97695	US	KS
+Township of Lincoln	39.69691	-97.65113	US	KS
+Township of Lincoln	38.39131	-98.31337	US	KS
+Township of Lincoln	38.74032	-98.8745	US	KS
+Township of Lincoln	37.87025	-97.20811	US	KS
+Township of Lincoln	39.61097	-98.56102	US	KS
+Township of Lincoln	38.21776	-98.85762	US	KS
+Township of Lincoln	39.60989	-96.86274	US	KS
+Lincolnville	38.49335	-96.96002	US	KS
+City of Lindsborg	38.57661	-97.67439	US	KS
+Lindsey	39.09361	-97.67809	US	KS
+Lindsborg	38.57362	-97.67448	US	KS
+Linwood	39.00139	-95.03914	US	KS
+Linwood Acres	37.6814	-97.20226	US	KS
+Linwood Congregation Jehovah's Witnesses	37.63041	-97.31747	US	KS
+Little Basin	37.23919	-99.9818	US	KS
+Little Bear Mound	37.35312	-95.69804	US	KS
+Township of Little Blue	39.78379	-96.86264	US	KS
+Township of Little Caney	37.04638	-96.02558	US	KS
+Little Kaw	39.03667	-94.92135	US	KS
+Little Sinkhole	38.20399	-97.75893	US	KS
+Township of Little Valley	38.21711	-97.867	US	KS
+Township of Little Walnut	37.6938	-96.77083	US	KS
+Township of Loda	37.77882	-98.19135	US	KS
+Township of Logan	37.79579	-95.48984	US	KS
+Township of Logan	38.47833	-98.53556	US	KS
+Township of Logan	37.60662	-96.77099	US	KS
+Township of Logan	38.82744	-97.09342	US	KS
+Township of Logan	38.04431	-99.40508	US	KS
+Township of Logan	39.08881	-97.98448	US	KS
+Township of Logan	38.56571	-97.31637	US	KS
+Township of Logan	39.87113	-96.74992	US	KS
+Township of Logan	39.34973	-97.98533	US	KS
+Township of Logan	39.26302	-97.6489	US	KS
+Township of Logan	38.1311	-98.96739	US	KS
+Township of Logan	39.69783	-99.57187	US	KS
+Township of Logan	39.95874	-98.56055	US	KS
+Township of Logan	39.78391	-96.9746	US	KS
+Logan	39.66167	-99.57039	US	KS
+Township of Lola	37.16429	-95.00733	US	KS
+Loma Vista	39.16389	-94.78941	US	KS
+Lone Elm	38.08003	-95.24331	US	KS
+Lone Elm	39.95834	-96.65586	US	KS
+Township of Lone Elm	38.09503	-95.23767	US	KS
+Lone Oak	37.43699	-94.74191	US	KS
+Lone Star	38.86667	-95.35525	US	KS
+Township of Lone Star	38.53038	-99.19837	US	KS
+Township of Lone Tree	38.30437	-97.53758	US	KS
+Township of Lone Tree	39.52242	-96.29538	US	KS
+Long Draw	39.09055	-96.81556	US	KS
+Long Mound	37.57144	-95.5122	US	KS
+Longford	39.17	-97.33141	US	KS
+Longton	37.37782	-96.08082	US	KS
+Township of Longton	37.36575	-96.09946	US	KS
+Lookout Hollow	38.71668	-99.33677	US	KS
+Township of Lookout	38.75669	-99.45775	US	KS
+Lorena	37.69391	-97.08393	US	KS
+Loretta	38.65362	-99.18065	US	KS
+Loring	39.01389	-94.90858	US	KS
+Lorraine	38.5689	-98.31673	US	KS
+Louisburg	38.61946	-94.68079	US	KS
+City of Louisburg	38.61888	-94.67859	US	KS
+Township of Louisburg	37.32088	-95.89197	US	KS
+Louisville	39.25027	-96.31472	US	KS
+Township of Louisville	39.2696	-96.31073	US	KS
+Lovewell	39.86529	-97.98171	US	KS
+Township of Lowe	39.95841	-97.20037	US	KS
+Lowell	37.04867	-94.70162	US	KS
+Township of Lowell	37.10147	-94.67104	US	KS
+Lowemont	39.38055	-95.0558	US	KS
+Lucas	39.05612	-98.53646	US	KS
+Township of Lulu	39.52399	-97.98483	US	KS
+Luray	39.11057	-98.68896	US	KS
+Township of Luray	39.04615	-98.65031	US	KS
+Lyndon	38.61001	-95.68443	US	KS
+Township of Lyon	39.37219	-97.76045	US	KS
+Township of Lyon	38.65126	-96.98835	US	KS
+Township of Lyon	38.92454	-96.86799	US	KS
+Lyona	38.86195	-96.92585	US	KS
+Lyons	38.34501	-98.20173	US	KS
+City of Lyons	38.34643	-98.20422	US	KS
+Township of Lyon	37.0593	-94.88613	US	KS
+Mackie	37.252	-94.85024	US	KS
+Mackie	38.59584	-97.80477	US	KS
+Macksville	37.95918	-98.96871	US	KS
+Township of Macon	38.04377	-97.42848	US	KS
+Macyville	39.48167	-97.81643	US	KS
+Madison	38.13558	-96.13583	US	KS
+Township of Madison	38.11513	-96.21034	US	KS
+Township of Madison	38.91479	-97.98414	US	KS
+Township of Madison	39.20967	-96.81474	US	KS
+Mahaska	39.9875	-97.35421	US	KS
+Mahon	39.03778	-94.94608	US	KS
+Maize	37.77918	-97.46727	US	KS
+Major Draw	38.76723	-95.83915	US	KS
+Malone Hollow	39.1675	-94.74274	US	KS
+Maltby	39.21945	-94.83635	US	KS
+Manchester	39.09472	-97.32475	US	KS
+Manhattan	39.18361	-96.57167	US	KS
+Manhattan Raceway	39.12528	-96.66112	US	KS
+City of Manhattan	39.18777	-96.60462	US	KS
+Township of Manhattan	39.15325	-96.56283	US	KS
+Mankato	39.78723	-98.21005	US	KS
+Mantansas	37.0834	-96.00026	US	KS
+Mantey	38.05226	-94.8058	US	KS
+Maple City	37.05586	-96.76836	US	KS
+Township of Maple	37.43308	-97.09669	US	KS
+Mapleton	38.01503	-94.88358	US	KS
+Margaret	38.88501	-98.35617	US	KS
+Marietta	39.94306	-96.60863	US	KS
+Marion	38.34835	-97.01725	US	KS
+City of Marion	38.3538	-97.0082	US	KS
+Township of Marion	37.83422	-94.9918	US	KS
+Township of Marion	39.71688	-95.00116	US	KS
+Township of Marion	38.80414	-95.42705	US	KS
+Township of Marion	39.08886	-98.20575	US	KS
+Township of Marion	39.87088	-96.18291	US	KS
+Marmaton	37.83199	-94.82469	US	KS
+Township of Marmaton	37.89977	-95.15258	US	KS
+Township of Marmaton	37.81238	-94.82886	US	KS
+Marquette	38.55556	-97.83366	US	KS
+Township of Marquette	38.56614	-97.86938	US	KS
+Township of Martin	39.95887	-98.89823	US	KS
+Marydel	38.94445	-97.72254	US	KS
+Marysville	39.84111	-96.64724	US	KS
+City of Marysville	39.84306	-96.63888	US	KS
+Township of Marysville	39.87504	-96.63768	US	KS
+Township of Marysville	38.67203	-94.8625	US	KS
+Maxwell State Game Refuge	38.47362	-97.45031	US	KS
+May Day	39.49333	-96.91363	US	KS
+Township of May Day	39.53783	-96.88429	US	KS
+Mayetta	39.33889	-95.72248	US	KS
+Maywood	39.22611	-94.84468	US	KS
+Maywood	39.12778	-94.82524	US	KS
+Township of McAdoo	37.42716	-98.81168	US	KS
+Township of McCamish	38.80579	-95.01196	US	KS
+McCollum Ford	37.18336	-96.9592	US	KS
+McCracken	38.58057	-99.57122	US	KS
+McCune	37.35478	-95.01663	US	KS
+McGraw	38.01196	-97.36837	US	KS
+McFarland	39.05278	-96.23777	US	KS
+McLains	37.99946	-97.26309	US	KS
+McLouth	39.19583	-95.2083	US	KS
+McPherson	38.37084	-97.66421	US	KS
+City of McPherson	38.37123	-97.66104	US	KS
+Township of McPherson	38.39629	-97.64525	US	KS
+McVays Corner	38.1589	-98.25229	US	KS
+Mecca Acres	37.67557	-97.14643	US	KS
+Township of Medford	38.12545	-98.19951	US	KS
+Medina	39.07778	-95.42109	US	KS
+Medora	38.1489	-97.84561	US	KS
+Township of Medora	38.14179	-97.85455	US	KS
+Melrose	37.0309	-94.95829	US	KS
+Melvern	38.50696	-95.63776	US	KS
+Township of Melvern	38.49978	-95.64641	US	KS
+Township of Menno	38.30438	-97.31644	US	KS
+Menoken	39.09083	-95.75582	US	KS
+Township of Menoken	39.14226	-95.77361	US	KS
+Mentor	38.74056	-97.60309	US	KS
+Township of Meredith	39.35031	-97.64798	US	KS
+Meriden	39.18889	-95.5697	US	KS
+Mercier	39.70833	-95.60165	US	KS
+Township of Meridian	38.21723	-97.42682	US	KS
+Merriam	39.02362	-94.69357	US	KS
+City of Merriam	39.01861	-94.69342	US	KS
+Merrick	38.40279	-96.24472	US	KS
+Mertz	37.58477	-94.64829	US	KS
+Met 75 Shops	38.99306	-94.6669	US	KS
+Metcalf	37.06725	-97.78422	US	KS
+Township of Miami	38.45146	-94.74725	US	KS
+Township of Miami	37.77853	-98.41005	US	KS
+Michigan Valley	38.68167	-95.52665	US	KS
+Middletown	37.71976	-95.83332	US	KS
+Midian	37.8103	-96.95309	US	KS
+Midland	39.02833	-95.24219	US	KS
+Midland	37.6139	-97.33532	US	KS
+Midland Tower	37.60002	-97.33421	US	KS
+Midway	37.67946	-97.13532	US	KS
+Midway	37.44922	-94.63107	US	KS
+Midway	38.60945	-98.15422	US	KS
+Midway	37.15252	-98.24785	US	KS
+Midway	37.66168	-97.93589	US	KS
+Milan	37.25974	-97.67394	US	KS
+Milberger	38.71196	-98.91231	US	KS
+Mildred	38.02364	-95.17109	US	KS
+Milford	39.16833	-96.91251	US	KS
+Township of Milford	39.15805	-96.89849	US	KS
+Milton	37.43169	-97.77144	US	KS
+Township of Milton	37.95623	-97.09741	US	KS
+Township of Milton	38.12924	-96.88631	US	KS
+Miltonvale	39.34833	-97.44614	US	KS
+Mingenback Theatre	38.3714	-97.64254	US	KS
+Mingona	37.32391	-98.69037	US	KS
+Township of Mingona	37.31905	-98.69509	US	KS
+Mission	39.02778	-94.65579	US	KS
+Mission Woods	39.03501	-94.60857	US	KS
+City of Mission Woods	39.03372	-94.61091	US	KS
+City of Mission	39.02694	-94.65682	US	KS
+Township of Mission	39.72432	-95.53713	US	KS
+Township of Mission	37.51472	-95.161	US	KS
+Township of Mission	39.00278	-95.79299	US	KS
+Mitchell	38.3839	-98.09978	US	KS
+Township of Mitchell	39.78353	-96.07038	US	KS
+Township of Mitchell	38.39114	-98.09054	US	KS
+Moehlman Bottoms	39.15	-96.59195	US	KS
+Moline	37.36031	-96.30389	US	KS
+Mona Kay Heights	37.59891	-97.31199	US	KS
+Monett	37.1445	-96.10582	US	KS
+Monmouth	37.36311	-94.93691	US	KS
+Township of Monmouth	38.92794	-95.56649	US	KS
+Township of Monroe	38.30629	-95.19834	US	KS
+Monrovia	39.52417	-95.34608	US	KS
+Mont Ida	38.21669	-95.36831	US	KS
+Montana	37.27534	-95.12413	US	KS
+Township of Montana	37.25188	-95.11644	US	KS
+Monticello	38.99889	-94.84413	US	KS
+Montrose	39.78446	-98.08783	US	KS
+Moody Intersection	38.04614	-95.63637	US	KS
+Township of Montana	39.95847	-98.09935	US	KS
+Moonlight	39.00278	-97.10252	US	KS
+Township of Moore	37.08699	-98.54051	US	KS
+Township of Moore	38.47859	-97.31651	US	KS
+Moran	37.91615	-95.17025	US	KS
+Moray	39.7625	-95.17164	US	KS
+Morehead	37.38423	-95.50776	US	KS
+Morganville	39.46639	-97.20197	US	KS
+Township of Morlan	39.21237	-99.69846	US	KS
+Morrill	39.92833	-95.69193	US	KS
+Township of Morrill	39.95069	-95.7298	US	KS
+Morris	39.06195	-94.75163	US	KS
+Township of Morris	37.16906	-97.74763	US	KS
+Morrowville	39.84445	-97.1717	US	KS
+Morse	38.85029	-94.72385	US	KS
+Township of Morton	38.2182	-99.2961	US	KS
+Township of Morton	37.60465	-97.75288	US	KS
+Township of Morton	39.00168	-97.8729	US	KS
+Motor Cross Race Track	39.03334	-98.72952	US	KS
+Mound City	38.14281	-94.81357	US	KS
+Township of Mound City	38.1171	-94.84185	US	KS
+Mound Valley	37.20535	-95.40497	US	KS
+Township of Mound Valley	37.20765	-95.44768	US	KS
+Township of Mound	38.21743	-97.53701	US	KS
+Township of Mound	38.41857	-94.99203	US	KS
+Township of Mound	39.78492	-99.45917	US	KS
+Moxham	37.11447	-97.0467	US	KS
+Mulberry	37.55699	-94.6219	US	KS
+City of Mulberry	37.55578	-94.62368	US	KS
+Township of Mulberry	39.5216	-97.30773	US	KS
+Township of Mulberry	38.82758	-97.98409	US	KS
+Mullinville	37.58613	-99.47567	US	KS
+City of Mullinville	37.58897	-99.47564	US	KS
+Mulvane	37.47446	-97.24393	US	KS
+Muncie	39.0875	-94.74746	US	KS
+Munden	39.91389	-97.5381	US	KS
+Munjor	38.81112	-99.26482	US	KS
+Township of Murdock	37.8689	-97.0973	US	KS
+Murdock	37.61113	-97.93089	US	KS
+Township of Murray	39.87086	-96.2954	US	KS
+Muscotah	39.55278	-95.52165	US	KS
+Murray Gill	37.59307	-97.40727	US	KS
+Narka	39.96056	-97.42587	US	KS
+Nashville	37.44169	-98.42258	US	KS
+Natoma	39.19084	-99.0287	US	KS
+Township of Natoma	39.17675	-98.99194	US	KS
+Natrona	37.71196	-98.66481	US	KS
+Navarre	38.79695	-97.10585	US	KS
+Neal	37.8342	-96.08027	US	KS
+Nearman	39.16473	-94.69774	US	KS
+Needle Point	38.05112	-97.2017	US	KS
+Negro Hollow	37.77837	-95.9061	US	KS
+Township of Nelson	39.52388	-97.53574	US	KS
+Township of Nemaha	39.95739	-96.07031	US	KS
+Neodesha	37.41839	-95.68026	US	KS
+City of Neodesha	37.42424	-95.68486	US	KS
+Township of Neodesha	37.42846	-95.68821	US	KS
+Neola	37.86946	-98.50897	US	KS
+Neosho Rapids	38.36946	-95.99194	US	KS
+Nekoma	38.47362	-99.44205	US	KS
+Township of Neosho	37.05989	-95.00722	US	KS
+Township of Neosho	38.0829	-95.73867	US	KS
+Township of Neosho	37.34	-95.11661	US	KS
+Ness City	38.45279	-99.90651	US	KS
+Township of Netawaka	39.60948	-95.73282	US	KS
+Nettleton	37.99863	-99.32872	US	KS
+Neuchatel	39.56805	-96.20195	US	KS
+Township of Neuchatel	39.60981	-96.18297	US	KS
+Neutral	37.09784	-94.79495	US	KS
+Neva	38.39807	-96.61612	US	KS
+Township of Nevada	38.63058	-99.91202	US	KS
+New Albany	37.56838	-95.93776	US	KS
+New Cambria	38.87917	-97.50586	US	KS
+New Gottland	38.44973	-97.61143	US	KS
+Township of New Gottland	38.47835	-97.64823	US	KS
+New Jerusalem Healing Temple	39.0525	-95.6572	US	KS
+New Lancaster	38.46252	-94.73301	US	KS
+New Salem	37.31058	-96.89531	US	KS
+New Strawn	38.26252	-95.74193	US	KS
+Township of Newark	37.42782	-95.57964	US	KS
+Township of Newbern	38.82774	-97.20492	US	KS
+Newbury	39.08472	-96.17527	US	KS
+Township of Newbury	39.0581	-96.16865	US	KS
+Newman	39.08056	-95.4647	US	KS
+Newman Regional Health	38.41166	-96.19563	US	KS
+Newton	38.04668	-97.34504	US	KS
+Newton Waterworks	38.01057	-97.45865	US	KS
+City of Newton	38.03476	-97.35189	US	KS
+Township of Newton	38.04523	-97.30717	US	KS
+Netawaka	39.60277	-95.71832	US	KS
+Nickerson	38.14723	-98.08367	US	KS
+City of Nickerson	38.14877	-98.08803	US	KS
+Nicodemus	39.39445	-99.61706	US	KS
+Township of Nicodemus	39.40375	-99.6678	US	KS
+Niles	38.96944	-97.46281	US	KS
+Niotaze	37.07368	-96.01359	US	KS
+Township of Nippawalla	37.16702	-98.54096	US	KS
+Township of Noble	38.99954	-97.00527	US	KS
+Township of Noble	38.74024	-98.43036	US	KS
+Township of Noble	39.69684	-96.29557	US	KS
+Nolan	39.56666	-96.27806	US	KS
+Noria	38.94945	-95.17719	US	KS
+Norman Number One Oil Well	37.457	-95.68109	US	KS
+Township of North Brown	37.8657	-99.3384	US	KS
+North Congregation Jehovahs Witnesses	37.72668	-97.34977	US	KS
+North Newton	38.07223	-97.34559	US	KS
+Township of North Rich	38.13948	-95.13162	US	KS
+North Pole Mound	38.95278	-97.6092	US	KS
+Township of North Seward	38.21732	-98.74766	US	KS
+North Topeka	39.07222	-95.66693	US	KS
+Township of North	37.97534	-95.88597	US	KS
+Northeast Congregation Jehovah's Witnesses	37.75272	-97.27442	US	KS
+Norton	39.83389	-99.89151	US	KS
+Township of North	37.33914	-95.20609	US	KS
+City of Norton	39.83639	-99.89162	US	KS
+Township of Norton	39.39205	-95.30963	US	KS
+Nortonville	39.41666	-95.33358	US	KS
+Norway	39.69612	-97.77393	US	KS
+Norwich	37.45724	-97.84894	US	KS
+Norwood	38.70973	-95.24692	US	KS
+Township of Norway	39.69713	-97.76317	US	KS
+O'Brien	38.51335	-95.02802	US	KS
+Oak Valley	37.34339	-96.00999	US	KS
+Township of Oak Valley	37.36513	-96.00894	US	KS
+Township of Oak	39.78473	-98.56044	US	KS
+Oakland	39.06667	-95.63637	US	KS
+Township of Oakland	39.263	-97.31465	US	KS
+Township of Oakland	39.35018	-97.53606	US	KS
+Oaklawn	37.61029	-97.29699	US	KS
+Oatville	37.62224	-97.38921	US	KS
+Obeeville	38.05751	-97.84894	US	KS
+Observation Bluff	38.90778	-95.0483	US	KS
+Ocheltree	38.76862	-94.81607	US	KS
+Odense	37.7031	-95.25192	US	KS
+Township of Odessa	39.69792	-98.44851	US	KS
+Township of Odessa	38.47873	-97.97972	US	KS
+Odin	38.56612	-98.60869	US	KS
+Offerle	37.89085	-99.5579	US	KS
+Ogallah	38.9914	-99.73234	US	KS
+Township of Ogallah	39.02342	-99.6954	US	KS
+Ogden	39.11111	-96.70612	US	KS
+Township of Ogden	39.12468	-96.682	US	KS
+Township of Ohio	38.47775	-95.28276	US	KS
+Township of Ohio	38.82732	-97.76164	US	KS
+Township of Ohio	37.52008	-97.42433	US	KS
+Township of Ohio	37.95585	-98.74715	US	KS
+Oketo	39.96361	-96.59974	US	KS
+Township of Oketo	39.9578	-96.63779	US	KS
+Olathe	38.8814	-94.81913	US	KS
+City of Olathe	38.88468	-94.81919	US	KS
+Township of Olathe	38.89256	-94.89012	US	KS
+Olcott	37.75418	-98.37674	US	KS
+Old Fort Hays	38.86168	-99.34233	US	KS
+Old Maids Fork	38.47446	-99.3915	US	KS
+The Prairie Band of Potawatomi Nation Reservation	39.3	-95.94277	US	KS
+Township of Olivet	38.50958	-95.74942	US	KS
+Olmitz	38.51668	-98.93648	US	KS
+Olpe	38.26252	-96.16694	US	KS
+Olsburg	39.43055	-96.61556	US	KS
+Olson Aerodrome	37.52314	-97.20259	US	KS
+Township of Omnia	37.43244	-96.76898	US	KS
+Onaga	39.48888	-96.17	US	KS
+Oneida	39.86389	-95.93916	US	KS
+Ophir	37.50835	-96.74614	US	KS
+Opolis	37.3445	-94.62107	US	KS
+Ontario	39.56666	-95.88221	US	KS
+Opossum Hollow	37.86809	-94.95803	US	KS
+Opossum Hollow	39.33778	-94.99302	US	KS
+Township of Orange	39.17593	-98.32164	US	KS
+Township of Orange	38.04351	-99.18635	US	KS
+Orsemus	37.49724	-97.93561	US	KS
+Orwell	38.01557	-99.71568	US	KS
+City of Osage City	38.63374	-95.82204	US	KS
+Osage City	38.6339	-95.82582	US	KS
+Township of Osage	37.99423	-95.1518	US	KS
+Township of Osage	37.97181	-94.66372	US	KS
+Township of Osage	37.39949	-95.02168	US	KS
+Township of Osage	37.32525	-95.44678	US	KS
+Township of Osage	38.43611	-94.85958	US	KS
+Osawatomie	38.49724	-94.95052	US	KS
+City of Osawatomie	38.50899	-94.93576	US	KS
+Township of Osawatomie	38.48092	-94.99764	US	KS
+Osborne	39.4389	-98.69479	US	KS
+City of Osborne	39.44067	-98.69937	US	KS
+Township of Osborne	37.25907	-97.53057	US	KS
+Oskaloosa	39.21528	-95.31275	US	KS
+Township of Oskaloosa	39.21766	-95.31285	US	KS
+Osro	37.06587	-96.43612	US	KS
+Oswego	37.16757	-95.10996	US	KS
+City of Oswego	37.16781	-95.11324	US	KS
+Township of Oswego	37.14102	-95.1161	US	KS
+Otego	39.82723	-98.34728	US	KS
+Otis	38.53473	-99.05315	US	KS
+Osage Cuestas	37.42503	-96.45862	US	KS
+Ottawa	38.61557	-95.26775	US	KS
+Ottawa Junction	38.63418	-95.2697	US	KS
+City of Ottawa	38.60067	-95.26444	US	KS
+Township of Ottawa	38.64652	-95.27457	US	KS
+Township of Ottawa	39.08852	-97.42683	US	KS
+Township of Otter	37.1765	-96.56667	US	KS
+Otto	37.07031	-96.71364	US	KS
+Ottumwa	38.2778	-95.79888	US	KS
+Township of Ottumwa	38.29814	-95.74808	US	KS
+Oursler	38.29057	-96.98308	US	KS
+Overbrook	38.78056	-95.5572	US	KS
+Township of Overland	38.81432	-96.86275	US	KS
+Oxford	37.27419	-97.16893	US	KS
+Township of Oxford	38.83508	-94.75268	US	KS
+Township of Oxford	37.26439	-97.20214	US	KS
+Township of Ozark	38.08205	-95.35355	US	KS
+Ozawkie	39.23333	-95.46692	US	KS
+Township of Ozawkie	39.25992	-95.43213	US	KS
+Padonia	39.92334	-95.56276	US	KS
+Township of Padonia	39.94984	-95.50794	US	KS
+Township of Painterhood	37.47417	-96.05322	US	KS
+Township of Palacky	38.65289	-98.42463	US	KS
+Palco	39.25223	-99.56289	US	KS
+Palermo	39.73249	-94.97664	US	KS
+Township of Palestine	37.35531	-97.21561	US	KS
+Palmer	39.63195	-97.1403	US	KS
+Township of Palmyra	38.79924	-95.15447	US	KS
+City of Paola	38.57809	-94.86278	US	KS
+Township of Paola	38.57802	-94.91409	US	KS
+Paradise	39.11362	-98.91842	US	KS
+Paola	38.57224	-94.87913	US	KS
+Township of Paradise	39.04569	-98.92729	US	KS
+Township of Paris	38.21226	-94.82519	US	KS
+Parnell	39.50639	-95.20664	US	KS
+Parsons	37.34034	-95.26108	US	KS
+City of Parsons	37.34274	-95.26641	US	KS
+Patterson	37.94334	-97.65505	US	KS
+Pauline	38.96334	-95.69054	US	KS
+Paton	37.21614	-97.17726	US	KS
+Township of Paw Paw	37.56251	-96.2251	US	KS
+Pawnee Indian Village	39.90834	-97.86088	US	KS
+Pawnee Point	39.08778	-96.76417	US	KS
+Township of Pawnee	37.71774	-94.832	US	KS
+Township of Pawnee	38.21777	-99.18661	US	KS
+Township of Pawnee	39.95899	-98.67274	US	KS
+Paxico	39.06944	-96.16638	US	KS
+Paxton	38.0139	-97.59199	US	KS
+Township of Payne	37.78779	-97.19759	US	KS
+Peabody	38.16946	-97.1067	US	KS
+Township of Peabody	38.13076	-97.0977	US	KS
+Pearl	38.85167	-97.04418	US	KS
+Peck	37.47752	-97.37227	US	KS
+Penalosa	37.71668	-98.31979	US	KS
+Township of Penn	39.43781	-98.67468	US	KS
+Penokee	39.35112	-99.97235	US	KS
+Peoria	38.58473	-95.14886	US	KS
+Township of Peoria	38.60827	-95.11986	US	KS
+Perry	39.07583	-95.39331	US	KS
+Township of Perry	37.78526	-95.58458	US	KS
+Perth	37.17475	-97.50533	US	KS
+Peru	37.08867	-96.09471	US	KS
+Township of Peters	37.51472	-98.3003	US	KS
+Petersburg	37.77588	-94.97942	US	KS
+Peterton	38.67362	-95.81693	US	KS
+Petrolia	37.74588	-95.47165	US	KS
+Pfeifer	38.70807	-99.16565	US	KS
+Pickrell Corner	37.67919	-96.8442	US	KS
+Piedmont	37.62364	-96.36556	US	KS
+Township of Pike	38.38358	-96.29969	US	KS
+Pilot Knob	39.29722	-94.93635	US	KS
+Pilot Knob	37.67807	-98.8726	US	KS
+Pilot Knob	37.88835	-98.60842	US	KS
+Pilsen	38.4714	-97.0403	US	KS
+Township of Pioneer	39.50256	-99.66712	US	KS
+Township of Pioneer	38.39114	-98.425	US	KS
+Township of Pioneer	38.52975	-99.08782	US	KS
+Piper	39.14306	-94.86135	US	KS
+Piqua	37.92281	-95.53526	US	KS
+Pixley	37.25197	-98.51369	US	KS
+Township of Plainview	39.61094	-99.45928	US	KS
+Plainville	39.23473	-99.29816	US	KS
+Pleasant Green Assembly of God	39.92695	-99.12308	US	KS
+Pleasant Valley	37.73751	-97.34393	US	KS
+Township of Pleasant Valley	37.15951	-96.98184	US	KS
+Township of Pleasant Valley	38.04365	-99.07706	US	KS
+Township of Pleasant Valley	38.91448	-97.7615	US	KS
+Township of Pleasant Valley	37.60214	-95.59786	US	KS
+Township of Pleasant View	37.27298	-94.67062	US	KS
+Township of Pleasant	37.60674	-97.09835	US	KS
+Township of Pleasant	38.2293	-95.88138	US	KS
+Township of Pleasant	38.04338	-97.20825	US	KS
+Township of Pleasant	39.00136	-98.42987	US	KS
+Township of Pleasant	39.87209	-98.8983	US	KS
+Township of Pleasantdale	38.63874	-99.08799	US	KS
+Pleasanton	38.17781	-94.71135	US	KS
+Plevna	37.97224	-98.30868	US	KS
+Township of Plevna	37.9555	-98.30728	US	KS
+Township of Plum	39.78534	-99.12259	US	KS
+Township of Plumb	38.80161	-95.99815	US	KS
+Township of Plymouth	38.82748	-98.54056	US	KS
+Plymouth	38.4139	-96.33222	US	KS
+Polk	37.54338	-94.74191	US	KS
+Pollard	38.44973	-98.21062	US	KS
+Pomeroy	39.16834	-94.76135	US	KS
+Pomona	38.60834	-95.45165	US	KS
+Pomona	38.59584	-95.45359	US	KS
+Township of Pomona	38.62192	-95.46221	US	KS
+Pontiac	37.81752	-96.71614	US	KS
+Port Williams	39.45639	-95.03274	US	KS
+Porterville	37.7181	-95.06886	US	KS
+Portis	39.56362	-98.69341	US	KS
+Portland	37.0778	-97.31227	US	KS
+Township of Potosi	38.17922	-94.68461	US	KS
+Township of Pottawatomie	38.30307	-95.59076	US	KS
+Township of Pottawatomie	38.43755	-95.12718	US	KS
+Township of Pottawatomie	39.32905	-96.4518	US	KS
+Prairie Band of Potawatomi Nation Reservation	39.34071	-95.84016	US	KS
+Potter	39.42583	-95.14191	US	KS
+Potts Landing Strip	39.58028	-96.82585	US	KS
+Potwin	37.93891	-97.01976	US	KS
+Township of Powell	37.34023	-99.11041	US	KS
+Powhattan	39.76167	-95.62998	US	KS
+Township of Powhattan	39.72543	-95.70461	US	KS
+Township of Prairie View	39.87179	-99.57112	US	KS
+Prairie Village	37.69946	-97.1381	US	KS
+Prairie Village	38.99167	-94.63357	US	KS
+City of Prairie Village	38.98737	-94.63611	US	KS
+Township of Prairie	39.61128	-98.09886	US	KS
+Township of Prairie	37.60305	-95.82404	US	KS
+City of Pratt	37.70456	-98.75734	US	KS
+Prescott	38.06364	-94.69551	US	KS
+Pratt	37.64391	-98.73759	US	KS
+Preston	37.75891	-98.55314	US	KS
+Price Ravine	39.04805	-96.84029	US	KS
+Pretty Prairie	37.78001	-98.01978	US	KS
+Princeton	38.4889	-95.27525	US	KS
+Prichard Airstrip	38.89829	-97.11353	US	KS
+Prospect	37.63446	-97.44699	US	KS
+Township of Prospect	37.8032	-96.75072	US	KS
+Prospect	37.80696	-96.78919	US	KS
+Township of Protection	37.17792	-99.48211	US	KS
+Protection	37.20141	-99.48401	US	KS
+Purcell	37.61113	-97.35727	US	KS
+Putnam	37.9689	-97.38782	US	KS
+Township of Putnam	38.36759	-95.26424	US	KS
+Township of Putnam	38.17309	-98.52772	US	KS
+Quaker	37.13173	-94.75856	US	KS
+Purcell	39.68056	-95.33081	US	KS
+Quartzite	39.02112	-98.09477	US	KS
+Quenemo	38.57973	-95.52693	US	KS
+Quincy	37.88198	-95.99277	US	KS
+Township of Quincy	37.86658	-96.0498	US	KS
+Quivira National Wildlife Refuge	38.16176	-98.50335	US	KS
+Quivira Square	38.98695	-94.72385	US	KS
+Radium	38.17418	-98.89343	US	KS
+Rago	37.4528	-98.08173	US	KS
+Rainbow Bend	37.17503	-97.13087	US	KS
+Ramona	38.59723	-97.06196	US	KS
+Randall	39.64251	-98.04477	US	KS
+Randolph	39.43055	-96.76001	US	KS
+Ransom	38.63613	-99.93373	US	KS
+Ransomville	38.5064	-95.42581	US	KS
+Rantoul	38.54862	-95.10025	US	KS
+Ray	38.17446	-98.9676	US	KS
+Raymond	38.27696	-98.4159	US	KS
+Township of Raymond	38.3042	-98.42457	US	KS
+Reading	38.51946	-95.9586	US	KS
+Township of Reading	38.53962	-96.02164	US	KS
+Reamsville	39.93001	-98.86702	US	KS
+Red Onion	37.58699	-94.64607	US	KS
+Redd Valley	37.15919	-96.92448	US	KS
+Redel	38.83056	-94.63357	US	KS
+Reece	37.79891	-96.4464	US	KS
+Redwing	38.52196	-98.66452	US	KS
+Reedsville	39.76917	-96.5389	US	KS
+Township of Reilly	39.60951	-95.95783	US	KS
+Reneberg Landing Strip	39.7914	-99.04064	US	KS
+Reno	39.05111	-95.11997	US	KS
+Township of Reno	39.02015	-95.13016	US	KS
+Township of Reno	38.0514	-97.97865	US	KS
+Republic	39.92362	-97.82171	US	KS
+Township of Reeder	38.32478	-95.43401	US	KS
+Republican Point	39.07389	-96.83195	US	KS
+Rest	37.6531	-95.66054	US	KS
+Rice	39.57222	-97.55559	US	KS
+Township of Rich	38.07422	-95.13255	US	KS
+Richardson	39.26667	-94.90024	US	KS
+Richland	38.88361	-95.5397	US	KS
+Township of Republican	39.18382	-97.01245	US	KS
+Township of Richland	37.51931	-97.09845	US	KS
+Township of Richland	37.42554	-96.87848	US	KS
+Township of Richland	37.95623	-97.20804	US	KS
+Township of Richland	39.8715	-98.10013	US	KS
+Township of Richland	37.51638	-98.08124	US	KS
+Township of Richland	37.06073	-95.11688	US	KS
+Township of Richland	39.9576	-96.40755	US	KS
+Township of Richland	38.67223	-94.99038	US	KS
+Township of Richland	39.08864	-97.53823	US	KS
+Township of Richland	39.78432	-97.42479	US	KS
+Township of Richland	37.95635	-98.85786	US	KS
+Richmond	38.4028	-95.25386	US	KS
+Township of Richmond	38.41489	-95.25889	US	KS
+Township of Richmond	39.8721	-96.07044	US	KS
+Richter	38.61168	-95.37859	US	KS
+Riga	38.95057	-99.65039	US	KS
+Riley	39.29889	-96.83084	US	KS
+Township of Rinehart	38.91439	-96.98205	US	KS
+Ringer	38.53446	-94.90857	US	KS
+Ringo	37.50949	-94.76135	US	KS
+Rishel	38.62973	-97.01418	US	KS
+Township of Risley	38.39335	-97.20649	US	KS
+Robinson	39.81667	-95.41053	US	KS
+Township of Robinson	39.81639	-95.39574	US	KS
+Township of Rochester	37.42772	-98.30027	US	KS
+Roepke Landing Strip	39.59361	-96.74807	US	KS
+Rogers	37.14699	-96.27916	US	KS
+Roland	37.26613	-97.45755	US	KS
+Rollin	37.63422	-95.35609	US	KS
+Rome	37.16142	-97.14282	US	KS
+Ronald	37.79171	-94.80441	US	KS
+Ronsse Landing Strip	39.17361	-96.04888	US	KS
+Roper	37.66116	-95.73276	US	KS
+Rosaco	39.57889	-97.62809	US	KS
+Rosalia	37.8153	-96.61974	US	KS
+Township of Rosalia	37.78125	-96.62089	US	KS
+Roscoe	39.48084	-99.76956	US	KS
+Township of Roscoe	37.779	-98.08222	US	KS
+Rose	37.7931	-95.68637	US	KS
+Rose Dome	37.77921	-95.70859	US	KS
+Township of Rose Valley	37.86871	-98.74723	US	KS
+Roseland	37.28117	-94.85052	US	KS
+Township of Ross	37.27388	-94.88635	US	KS
+Township of Ross	39.52389	-98.54354	US	KS
+Rossville	39.13611	-95.95166	US	KS
+Township of Rossville	39.16228	-95.96742	US	KS
+Round Mound	39.12556	-95.40636	US	KS
+Round Mound	37.10063	-95.89332	US	KS
+Round Mound	38.9164	-99.64873	US	KS
+Township of Round Mound	39.26358	-98.99237	US	KS
+Round Top	37.72171	-95.86804	US	KS
+Roxbury	38.55084	-97.43031	US	KS
+Rozel	38.19585	-99.40317	US	KS
+Ruella	37.08058	-98.18368	US	KS
+Rural	38.18807	-96.56862	US	KS
+Township of Rural	39.08946	-95.31311	US	KS
+Township of Rural	37.60156	-98.41015	US	KS
+Township of Rushville	39.6109	-99.34675	US	KS
+Russell	38.89529	-98.85981	US	KS
+City of Russell	38.88761	-98.851	US	KS
+Township of Russell	38.91706	-98.8444	US	KS
+Township of Rutland	37.19016	-95.89184	US	KS
+Township of Ryan	37.25642	-97.63838	US	KS
+Rydal	39.81334	-97.71143	US	KS
+Sabetha	39.90222	-95.80082	US	KS
+City of Sabetha	39.91197	-95.79081	US	KS
+Saffordville	38.40001	-96.39278	US	KS
+Saint Benedict	39.88722	-96.09889	US	KS
+Saint Clere	39.36916	-96.05583	US	KS
+Township of Saint Clere	39.36324	-96.10551	US	KS
+Saint George	39.19111	-96.42028	US	KS
+Saint George Orthodox Christian Cathedral	37.70808	-97.24991	US	KS
+Township of Saint George	39.21943	-96.40453	US	KS
+Saint Jacobs Well	37.2403	-99.9818	US	KS
+Saint Joe	37.7489	-97.73199	US	KS
+Saint John	38.00224	-98.76009	US	KS
+Township of Saint John	38.04305	-98.74753	US	KS
+Saint Joseph	39.50972	-97.40614	US	KS
+Saint Leo	37.52919	-98.41035	US	KS
+Saint Marks	37.73585	-97.56227	US	KS
+Saint Marys	39.19416	-96.0711	US	KS
+Saint Marys	37.70668	-97.64005	US	KS
+Saint Mary's Cathedral	37.69297	-97.33522	US	KS
+Township of Saint Marys	39.22079	-96.08088	US	KS
+Saint Michael Monastery	39.12389	-94.6694	US	KS
+Saint Pats	39.47777	-95.12163	US	KS
+Saint Paul	37.51894	-95.17331	US	KS
+Saint Paul	37.66251	-97.75227	US	KS
+Township of Salamanca	37.16332	-94.88883	US	KS
+Salem	39.87168	-98.4845	US	KS
+Township of Salem	37.8202	-95.30283	US	KS
+Township of Salem	37.33628	-96.88041	US	KS
+Township of Salem	38.0216	-96.43058	US	KS
+Township of Salem	37.51787	-97.32067	US	KS
+Salemsborg	38.69528	-97.68615	US	KS
+Salina	38.84028	-97.61142	US	KS
+City of Salina	38.81428	-97.61508	US	KS
+Sallyards	37.82141	-96.50724	US	KS
+Salser Landing Strip	37.19641	-97.89311	US	KS
+Salter	37.61391	-97.04476	US	KS
+Salvation Army Citadel	38.4023	-96.18311	US	KS
+Sanford	38.18057	-99.31428	US	KS
+Santa Fe Congregation Jehovahs Witnesses	37.64585	-97.34893	US	KS
+Township of Santa Fe	38.13068	-99.18634	US	KS
+Township of Sarcoxie	39.09452	-95.2287	US	KS
+Savior of the World Seminary	39.12659	-94.8752	US	KS
+Savonburg	37.74949	-95.14414	US	KS
+Township of Sawlog	37.95688	-99.89963	US	KS
+Sawyer	37.49724	-98.68231	US	KS
+Saxman	38.28057	-98.12589	US	KS
+Scammon	37.27756	-94.82496	US	KS
+City of Scammon	37.27824	-94.82294	US	KS
+Scandia	39.79445	-97.78365	US	KS
+Township of Scandia	39.78421	-97.76339	US	KS
+Schaffer	38.4714	-99.08871	US	KS
+Schoenchen	38.71335	-99.33233	US	KS
+Schulte	37.62307	-97.47144	US	KS
+Scipio	38.36835	-95.21775	US	KS
+Township of Scott	37.83332	-94.68394	US	KS
+Township of Scott	39.17574	-98.09788	US	KS
+Township of Scott	38.33086	-94.84519	US	KS
+Scottsville	39.54362	-97.9531	US	KS
+Scranton	38.78167	-95.7386	US	KS
+Township of Scranton	38.80411	-95.76067	US	KS
+Seacat Brothers Landing Strip	37.3103	-99.39012	US	KS
+Sedan	37.12672	-96.18694	US	KS
+Township of Sedan	37.14576	-96.16824	US	KS
+Sedgwick	37.91668	-97.42254	US	KS
+Township of Sedgwick	37.95542	-97.42664	US	KS
+Sedivy Landing Strip	39.63333	-96.66918	US	KS
+Seneca	39.83416	-96.06417	US	KS
+City of Seneca	39.83771	-96.06906	US	KS
+Selma	38.13475	-95.12331	US	KS
+Township of Seventy-Six	37.34715	-97.4218	US	KS
+Severy	37.62225	-96.22805	US	KS
+Seward	38.17779	-98.79481	US	KS
+Shady Bend	39.01834	-98.02171	US	KS
+Shady Brook	38.73945	-96.98307	US	KS
+Shannon	39.56528	-95.24331	US	KS
+Township of Shannon	39.59875	-95.1603	US	KS
+Township of Shannon	39.43568	-96.5261	US	KS
+Sharon	37.24863	-98.42063	US	KS
+Township of Sharon	37.29684	-98.40428	US	KS
+Sharons Mexican Mission	37.71057	-97.33143	US	KS
+Sharpe	38.28196	-95.69193	US	KS
+Shaw	37.60227	-95.31748	US	KS
+Shawnee	39.04167	-94.72024	US	KS
+City of Shawnee	39.01577	-94.80766	US	KS
+Township of Shawnee	37.16326	-94.67041	US	KS
+Sherdahl	39.85695	-97.8081	US	KS
+Sheridan Point	39.09389	-96.75528	US	KS
+Township of Sheridan	37.27428	-95.00778	US	KS
+Township of Sheridan	37.25864	-96.77022	US	KS
+Township of Sheridan	37.3977	-94.86906	US	KS
+Township of Sheridan	38.08083	-94.68204	US	KS
+Township of Sheridan	39.26313	-97.761	US	KS
+Township of Sheridan	39.61009	-97.19994	US	KS
+Sherman	37.25728	-95.05719	US	KS
+Sherman Heights	39.075	-96.81695	US	KS
+Township of Sherman	39.5013	-97.20453	US	KS
+Township of Sherman	37.61624	-94.86001	US	KS
+Township of Sherman	39.08968	-97.10184	US	KS
+Township of Sherman	38.82728	-98.20678	US	KS
+Township of Sherman	39.023	-94.99413	US	KS
+Township of Sherman	39.26292	-97.53694	US	KS
+Township of Sherman	39.43506	-96.2954	US	KS
+Township of Sherman	39.36764	-96.75183	US	KS
+Township of Sherman	37.78031	-97.64448	US	KS
+Township of Sherman	39.61005	-97.08762	US	KS
+Sherwin	37.18006	-94.94774	US	KS
+Township of Shiley	38.30591	-99.52883	US	KS
+Shiloh Baptist Temple	37.66001	-97.33977	US	KS
+Township of Shiloh	37.42761	-95.45247	US	KS
+Shipton	38.91389	-97.68226	US	KS
+Township of Shirley	39.53389	-97.42701	US	KS
+Shroyer	39.76945	-96.67863	US	KS
+Township of Sibley	39.62469	-97.67538	US	KS
+Sibleyville	38.88417	-95.19553	US	KS
+Silica	38.35168	-98.46202	US	KS
+Silkville	38.45001	-95.48915	US	KS
+Silver City Dome	37.75171	-95.79193	US	KS
+Silverdale	37.04197	-96.90337	US	KS
+Township of Silverdale	37.06346	-96.87699	US	KS
+Township of Sinclair	39.87068	-97.9881	US	KS
+Sitka	37.17503	-99.65151	US	KS
+Township of Sitka	37.12492	-99.63308	US	KS
+Simpson	39.38528	-97.93143	US	KS
+Skellyville	37.67502	-98.45036	US	KS
+Skidmore	37.24034	-94.8319	US	KS
+Skiddy	38.86806	-96.79445	US	KS
+Smileyville	37.51974	-96.88087	US	KS
+Township of Smoky View	38.65269	-97.64847	US	KS
+Smolan	38.73862	-97.68448	US	KS
+Township of Smolan	38.73567	-97.65068	US	KS
+Snag Hollow	37.8017	-95.94332	US	KS
+Snooks Hollow	37.31863	-99.16372	US	KS
+Township of Sodville	37.51206	-99.74869	US	KS
+Soldier	39.53611	-95.96416	US	KS
+Soldier Cap Mound	38.71612	-97.79532	US	KS
+Township of Soldier	39.522	-95.97026	US	KS
+Solomon	38.91944	-97.37114	US	KS
+Solomon Rapids	39.47362	-98.19255	US	KS
+Township of Solomon Rapids	39.52393	-98.20885	US	KS
+Township of Soldier	39.15533	-95.66017	US	KS
+Township of Solomon	39.37208	-97.87307	US	KS
+Township of Solomon	39.69752	-99.34704	US	KS
+Township of Solomon	38.82718	-97.42771	US	KS
+Somerset	38.60501	-94.76885	US	KS
+Sorghum Hollow	37.16256	-95.97943	US	KS
+South Basehor	39.12889	-94.93858	US	KS
+Township of South Bend	38.30416	-98.75479	US	KS
+Township of South Brown	37.77747	-99.37318	US	KS
+South Galena	37.06423	-94.638	US	KS
+Township of South Haven	37.06409	-97.41928	US	KS
+South Hoisington	38.50557	-98.77536	US	KS
+South Hutchinson	38.02807	-97.94033	US	KS
+South Mound	37.43728	-95.22859	US	KS
+South Mound	37.52672	-95.82776	US	KS
+South Haven	37.05197	-97.40532	US	KS
+Township of South Salem	37.89376	-96.43489	US	KS
+South Seneca Gardens	37.60113	-97.34921	US	KS
+Township of South Seward	38.1302	-98.74772	US	KS
+South Topeka Interchange	38.99167	-95.69248	US	KS
+Southeast Kansas Agricultural Experiment	37.18618	-95.45581	US	KS
+Southwest Village	39.01472	-95.74221	US	KS
+Spearville	37.85002	-99.75679	US	KS
+Township of Spearville	37.78892	-99.7685	US	KS
+Speed	39.67723	-99.42093	US	KS
+Spence	39.9325	-96.93642	US	KS
+Spencer	39.05778	-95.5322	US	KS
+Spiritual Assembly of the Baha'is of Wichita	37.744	-97.36383	US	KS
+Spivey	37.44585	-98.1634	US	KS
+Stafford	37.96224	-98.60064	US	KS
+Township of Stafford	37.95514	-98.63678	US	KS
+Stanley	38.85445	-94.66579	US	KS
+Stanton	38.54335	-95.05441	US	KS
+Township of Stanton	38.05912	-94.84169	US	KS
+Township of Stanton	38.56478	-95.00455	US	KS
+Township of Stanton	39.26283	-97.874	US	KS
+Township of Star	38.22778	-95.59318	US	KS
+Stark	37.69005	-95.14303	US	KS
+Township of Starr	39.34986	-97.42485	US	KS
+Sterling	38.21001	-98.20701	US	KS
+City of Sterling	38.20912	-98.20675	US	KS
+Township of Sterling	38.00015	-99.67963	US	KS
+Township of Sterling	38.20971	-98.1743	US	KS
+Stilwell	38.76918	-94.65635	US	KS
+Stippville	37.22228	-94.83774	US	KS
+Stone	39.12861	-94.91691	US	KS
+Stony Point	37.05285	-95.80165	US	KS
+Stony Point	39.09445	-94.76024	US	KS
+Stony Brook	38.31501	-97.26225	US	KS
+Stover	37.17395	-95.19469	US	KS
+Township of Stranger	39.13001	-95.02542	US	KS
+Strauss	37.34034	-95.0858	US	KS
+Strawberry	39.71195	-97.25531	US	KS
+Township of Strawberry	39.69743	-97.19966	US	KS
+Township of Strong	38.45449	-96.53146	US	KS
+Strong City	38.39724	-96.53695	US	KS
+Stull	38.97111	-95.45609	US	KS
+Stuttgart	39.79945	-99.45538	US	KS
+Stubbs	37.00669	-98.56591	US	KS
+Sugarloaf	37.30752	-99.92208	US	KS
+Sugarloaf	37.17725	-99.58679	US	KS
+Sullivan	39.66528	-96.35584	US	KS
+Summit	37.82113	-96.56418	US	KS
+Summit	39.89722	-96.34751	US	KS
+Township of Summit	37.14911	-96.30842	US	KS
+Township of Summit	39.50201	-97.87273	US	KS
+Township of Summit	38.12966	-96.9871	US	KS
+Township of Sumner	39.43745	-98.96159	US	KS
+Township of Sumner	39.95892	-99.12314	US	KS
+Township of Sumner	37.78692	-97.7541	US	KS
+Township of Sumner	37.3447	-97.53047	US	KS
+Sumnerville	39.1975	-97.73643	US	KS
+Sun City	37.37863	-98.91593	US	KS
+Township of Sun City	37.34025	-98.92965	US	KS
+Sunflower	39.06528	-94.86413	US	KS
+Sunflower Aerodrome	37.92501	-97.93366	US	KS
+Sunflower Triangle	38.3689	-97.64115	US	KS
+Sunnydale	37.86835	-97.29948	US	KS
+Sunset Acres	37.72502	-97.12865	US	KS
+Sunset Memory Gardens	39.3	-94.96552	US	KS
+Township of Superior	38.21717	-97.7569	US	KS
+Township of Superior	38.64816	-95.77832	US	KS
+Suppesville	37.50085	-97.77033	US	KS
+Susank	38.64084	-98.77397	US	KS
+Sutphen	39.04833	-97.05529	US	KS
+Township of Swan	39.87247	-99.01071	US	KS
+Swissvale	38.83362	-95.58026	US	KS
+Sycamore	37.32701	-95.71554	US	KS
+Township of Sycamore	38.02824	-96.65455	US	KS
+Township of Sycamore	37.32134	-95.75061	US	KS
+Sylvia	37.95779	-98.40813	US	KS
+Township of Sylvia	37.95532	-98.41734	US	KS
+Table Mound	37.2709	-95.76748	US	KS
+Table Mounds	39.31222	-97.27725	US	KS
+Tabor	39.85695	-97.51699	US	KS
+Tabor Valley	39.12361	-96.43917	US	KS
+Tackett Mound	37.26895	-95.37053	US	KS
+Talmage	39.025	-97.26058	US	KS
+Talmo	39.69584	-97.5881	US	KS
+Tampa	38.54723	-97.15308	US	KS
+Township of Talleyrand	37.42857	-95.79741	US	KS
+Taussig	37.10559	-96.57057	US	KS
+Taylor Point	39.11028	-96.77501	US	KS
+Tecumseh	39.04806	-95.57915	US	KS
+Township of Tecumseh	39.0266	-95.56107	US	KS
+Temple Beth Sholom	39.04786	-95.73	US	KS
+Congregation Emanuel - El	37.69294	-97.25571	US	KS
+Temple Israel	39.07417	-95.67081	US	KS
+Temple Knob	37.69947	-96.49446	US	KS
+Township of Ten Mile	38.67861	-94.75422	US	KS
+Terra Heights	38.97667	-95.68332	US	KS
+Terra Cotta	38.74167	-97.95727	US	KS
+Tescott	39.00806	-97.8756	US	KS
+Teterville	38.04308	-96.42056	US	KS
+Thayer	37.49311	-95.47026	US	KS
+The Dell	37.67501	-97.46144	US	KS
+The Leavenworth Landing	39.32889	-94.91302	US	KS
+Township of Thomas	38.56572	-98.20156	US	KS
+Thompsonville	39.10556	-95.43359	US	KS
+Thornburg	39.94446	-98.78619	US	KS
+Thrall	38.01002	-96.32112	US	KS
+Three Mounds	37.55561	-95.5347	US	KS
+Township of Tilden	39.4381	-98.81414	US	KS
+Timken	38.47362	-99.17816	US	KS
+Township of Tioga	37.6892	-95.41557	US	KS
+Tisdale	37.24336	-96.85198	US	KS
+Township of Tisdale	37.25877	-96.87026	US	KS
+Toad Hollow	39.13194	-95.9261	US	KS
+Tipton	39.34307	-98.4709	US	KS
+Togo	39.18334	-99.86623	US	KS
+Toledo	38.42224	-96.37111	US	KS
+Township of Toledo	38.41283	-96.4098	US	KS
+Tolerville	37.75279	-97.26921	US	KS
+Tomahawk Recreation Complex	39.00195	-94.79441	US	KS
+Tonganoxie	39.10972	-95.08775	US	KS
+Tonovay	37.85225	-96.17805	US	KS
+Tonovay Draw	37.84892	-96.19583	US	KS
+Township of Tonganoxie	39.13705	-95.12749	US	KS
+City of Topeka	39.03596	-95.69542	US	KS
+Township of Topeka	38.97806	-95.66652	US	KS
+Toronto	37.79893	-95.94916	US	KS
+Township of Toronto	37.82101	-95.91174	US	KS
+Toulon	38.85168	-99.24149	US	KS
+Towanda	37.79752	-96.99976	US	KS
+Township of Towanda	37.78122	-96.98933	US	KS
+Township of Towanda	39.61086	-99.57169	US	KS
+Topeka	39.04833	-95.67804	US	KS
+Towne East Square	37.68335	-97.24615	US	KS
+Towne West Square	37.67779	-97.40032	US	KS
+Township 1	37.27555	-98.23949	US	KS
+Township 1	38.59881	-96.46678	US	KS
+Township 1	39.43795	-99.10094	US	KS
+Township 10	37.51388	-98.90312	US	KS
+Township 10	39.2199	-99.43774	US	KS
+Township 11	37.51438	-98.6292	US	KS
+Township 11	39.2343	-99.2888	US	KS
+Township 12	37.6104	-98.64298	US	KS
+Township 12	39.2055	-99.14034	US	KS
+Township 2	37.08219	-98.23857	US	KS
+Township 2	38.73799	-96.48541	US	KS
+Township 2	39.43698	-99.21236	US	KS
+Township 3	37.11093	-98.03443	US	KS
+Township 3	38.82647	-96.56649	US	KS
+Township 3	39.48054	-99.32319	US	KS
+Township 4	37.09556	-97.8753	US	KS
+Township 4	38.77417	-96.65691	US	KS
+Township 4	39.3504	-99.32498	US	KS
+Township 5	37.25396	-97.9656	US	KS
+Township 5	38.8265	-96.76023	US	KS
+Township 5	39.49545	-99.50888	US	KS
+Township 6	37.34168	-97.96729	US	KS
+Township 6	38.73242	-96.8718	US	KS
+Township 6	37.73518	-98.57387	US	KS
+Township 6	39.39408	-99.43616	US	KS
+Township 7	38.65199	-96.82895	US	KS
+Township 7	37.76112	-98.73711	US	KS
+Township 7	39.35062	-99.54823	US	KS
+Township 8	38.56589	-96.81932	US	KS
+Township 8	37.77929	-98.904	US	KS
+Township 8	39.26348	-99.54939	US	KS
+Township 9	38.61213	-96.6578	US	KS
+Township 9	37.64543	-98.90417	US	KS
+Township 9	39.17614	-99.54952	US	KS
+Trading Post	38.24864	-94.68079	US	KS
+Trent	37.58172	-95.17998	US	KS
+Trenton	38.88695	-97.6492	US	KS
+Township of Trenton	37.84609	-99.51959	US	KS
+Tresham	37.17003	-97.04976	US	KS
+Township of Trivoli	38.56585	-98.09073	US	KS
+Trousdale	37.81529	-99.08566	US	KS
+Trout	37.05392	-99.54623	US	KS
+Troy	39.78305	-95.08997	US	KS
+Township of Troy	37.86846	-98.08687	US	KS
+Turck	37.23061	-94.8319	US	KS
+Turkville	39.10334	-99.24565	US	KS
+Turner	39.08334	-94.7044	US	KS
+Turon	37.80724	-98.42674	US	KS
+Twin Mound	39.29668	-99.21926	US	KS
+Twin Mounds	39.33277	-97.19836	US	KS
+Twin Mounds	39.50889	-97.51142	US	KS
+Twin Mounds	38.86056	-95.49081	US	KS
+Twin Mounds	37.35812	-95.46553	US	KS
+Twin Mounds	39.61555	-96.50807	US	KS
+Twin Mounds	38.51723	-97.49614	US	KS
+Twin Towers Complex	38.41613	-96.17833	US	KS
+Tyler	37.66946	-97.44477	US	KS
+Tyro	37.03785	-95.82137	US	KS
+Udall	37.38752	-97.11421	US	KS
+Township of Union	38.6529	-98.75696	US	KS
+Township of Union	37.51986	-96.62082	US	KS
+Township of Union	39.26371	-97.09193	US	KS
+Township of Union	38.73974	-96.98296	US	KS
+Township of Union	39.69666	-95.2835	US	KS
+Township of Union	39.21402	-95.22001	US	KS
+Township of Union	37.60164	-98.30047	US	KS
+Township of Union	38.56568	-97.75871	US	KS
+Township of Union	39.3479	-96.33324	US	KS
+Township of Union	39.87126	-97.76325	US	KS
+Township of Union	38.3913	-97.97974	US	KS
+Township of Union	38.41495	-99.41857	US	KS
+Township of Union	37.78078	-97.53591	US	KS
+Township of Union	37.8679	-98.63697	US	KS
+Township of Union	39.95863	-97.31299	US	KS
+Uniontown	37.84726	-94.97525	US	KS
+Unitarian Universalist Fellowship	39.02903	-95.73802	US	KS
+Upland	39.08889	-97.01918	US	KS
+Upland	39.82445	-96.55585	US	KS
+Upola	37.41671	-95.99859	US	KS
+Urbana	37.55811	-95.39942	US	KS
+Utopia	37.89781	-96.22417	US	KS
+Valeda	37.0473	-95.44747	US	KS
+Valencia	39.07861	-95.87638	US	KS
+Valley Brook	38.66251	-95.57026	US	KS
+Township of Valley Brook	38.61048	-95.66981	US	KS
+Township of Valley	37.42748	-98.51952	US	KS
+Township of Valley	38.56534	-98.42479	US	KS
+Township of Valley	38.2183	-99.89976	US	KS
+Township of Valley	37.42839	-98.08101	US	KS
+Township of Valley	38.91435	-98.2068	US	KS
+Township of Valley	38.26794	-94.68434	US	KS
+Township of Valley	38.51519	-94.85542	US	KS
+Township of Valley	39.17676	-98.76907	US	KS
+Township of Valley	39.61145	-99.12241	US	KS
+Township of Valley	38.00376	-97.75315	US	KS
+Township of Valley	38.2171	-98.31634	US	KS
+Township of Valley	39.69842	-99.01023	US	KS
+Township of Valverde	37.1734	-97.20343	US	KS
+Van Arsdale	37.99918	-97.42698	US	KS
+Vance	38.15781	-95.07692	US	KS
+Vanora	37.76585	-96.8892	US	KS
+Varner	37.7189	-98.03645	US	KS
+Van Rankin Landing Strip	37.46669	-98.49175	US	KS
+Vassar	38.64723	-95.62248	US	KS
+Vaughn	38.34112	-99.28622	US	KS
+Venango	38.6389	-97.98644	US	KS
+Vera	39.06694	-96.09499	US	KS
+Verdi	38.99167	-97.50309	US	KS
+Township of Verdigris	37.67607	-95.91504	US	KS
+Vernon	37.98059	-95.65693	US	KS
+Township of Vernon	37.25932	-97.09001	US	KS
+Vesper	39.03195	-98.28006	US	KS
+Township of Vesper	39.00157	-98.31773	US	KS
+Township of Vicksburg	39.69714	-97.98804	US	KS
+Victor	39.24806	-98.28395	US	KS
+Township of Victor	39.2638	-98.88057	US	KS
+Victoria	38.85279	-99.1476	US	KS
+Victoria City Wells	38.77251	-99.15593	US	KS
+Township of Victoria	38.8127	-99.12351	US	KS
+Township of Victoria	38.47859	-98.20141	US	KS
+Victory Junction	39.12889	-94.90135	US	KS
+Videtta Spur	37.03425	-95.5772	US	KS
+Township of Vienna	39.42772	-96.1836	US	KS
+Vilas	37.65421	-95.58637	US	KS
+Vincent	39.19168	-98.7198	US	KS
+Vinewood	39.17167	-94.79357	US	KS
+Vining	39.56694	-97.29531	US	KS
+Township of Vinita	37.60414	-97.86301	US	KS
+Vinland	38.83945	-95.18219	US	KS
+Vinland Valley Aerodrome	38.83848	-95.18305	US	KS
+Vinton	37.10559	-96.82531	US	KS
+Viola	37.48307	-97.64394	US	KS
+Township of Viola	37.51856	-97.64308	US	KS
+Virgil	37.98086	-96.01027	US	KS
+Vliets	39.71389	-96.33362	US	KS
+Volland	38.94445	-96.40444	US	KS
+WaKeeney	39.02501	-99.87957	US	KS
+Township of WaKeeney	39.0012	-99.87167	US	KS
+Wabaunsee	39.14611	-96.34611	US	KS
+Township of Wabaunsee	39.11974	-96.31201	US	KS
+Waco	37.52057	-97.30754	US	KS
+Township of Waco	37.59711	-97.42957	US	KS
+Wadsworth	39.27833	-94.90024	US	KS
+Wagner Point	39.35583	-94.94024	US	KS
+Wakarusa	38.88584	-95.69582	US	KS
+Wagstaff	38.66501	-94.79635	US	KS
+Township of Wakarusa	38.92487	-95.24683	US	KS
+Waldeck	38.43056	-97.33503	US	KS
+Waldeck	37.65391	-98.61009	US	KS
+Waldo	39.11834	-98.79814	US	KS
+Township of Waldo	39.04557	-98.76084	US	KS
+Waldron	37.00225	-98.18257	US	KS
+Walker	38.86723	-99.07593	US	KS
+Walker Draw	37.41808	-99.02399	US	KS
+Walker Mound	37.21007	-95.78748	US	KS
+Township of Walker	38.3243	-95.11157	US	KS
+Wallula	39.1725	-94.90052	US	KS
+Walnut	37.60144	-95.07803	US	KS
+Township of Walnut	39.46207	-95.07101	US	KS
+Township of Walnut	38.47835	-98.97763	US	KS
+Township of Walnut	37.71809	-94.99695	US	KS
+Township of Walnut	39.84837	-95.70416	US	KS
+Township of Walnut	37.60678	-96.98954	US	KS
+Township of Walnut	37.25574	-96.96266	US	KS
+Township of Walnut	37.61648	-95.01518	US	KS
+Township of Walnut	39.95888	-98.33006	US	KS
+Township of Walnut	39.78402	-96.75035	US	KS
+Township of Walnut	38.30487	-99.08748	US	KS
+Township of Walnut	39.9585	-99.34707	US	KS
+Township of Walnut	38.12991	-98.30754	US	KS
+Township of Walnut	38.74007	-97.53898	US	KS
+Walsburg	39.39305	-96.81168	US	KS
+Walter Landing Strip	37.09033	-96.18055	US	KS
+Walton	38.11779	-97.2567	US	KS
+Walton Landing	38.05696	-97.21281	US	KS
+Walton Landing Strip	38.26307	-98.15617	US	KS
+Township of Walton	38.13075	-97.20888	US	KS
+Township of Walton	37.34046	-95.32798	US	KS
+Township of Walton	37.06408	-97.20239	US	KS
+Wamego	39.20194	-96.305	US	KS
+Township of Wamego	39.20611	-96.29631	US	KS
+Township of Waring	38.62475	-99.69701	US	KS
+Washington	39.81806	-97.05086	US	KS
+Washington Square	37.67501	-97.32671	US	KS
+City of Washington	39.81734	-97.04904	US	KS
+Township of Washington	38.22623	-95.29187	US	KS
+Township of Washington	39.70743	-95.39585	US	KS
+Township of Washington	37.14902	-96.02621	US	KS
+Township of Washington	37.50814	-94.69783	US	KS
+Township of Washington	39.77475	-94.94401	US	KS
+Township of Washington	39.25036	-95.93515	US	KS
+Township of Washington	39.7844	-98.10081	US	KS
+Township of Washington	39.95711	-95.95821	US	KS
+Township of Washington	39.95841	-97.76319	US	KS
+Township of Washington	38.74023	-97.76177	US	KS
+Township of Washington	39.87196	-98.78567	US	KS
+Township of Washington	38.97895	-96.43612	US	KS
+Township of Washington	39.78364	-97.08753	US	KS
+Waterloo	37.67696	-97.94089	US	KS
+Township of Waterloo	38.68755	-96.01769	US	KS
+Waterville	39.69111	-96.74752	US	KS
+Township of Waterville	39.69694	-96.75045	US	KS
+Wathena	39.75916	-94.94969	US	KS
+Watson	38.98806	-95.55637	US	KS
+Wauneta	37.1131	-96.38056	US	KS
+Waverly	38.39391	-95.60304	US	KS
+Wayne	39.71472	-97.54198	US	KS
+Township of Wayne	39.68327	-95.07783	US	KS
+Township of Wayne	37.95482	-99.26509	US	KS
+Wayside	37.12479	-95.87332	US	KS
+Wea	38.71529	-94.6669	US	KS
+Township of Wea	38.66902	-94.66069	US	KS
+Weaver	38.96195	-95.06719	US	KS
+Weavers Bend	39.20417	-94.78079	US	KS
+Webber	39.93501	-98.03504	US	KS
+Township of Webster	39.69789	-98.56076	US	KS
+Township of Webster	37.69044	-95.82427	US	KS
+Wego-Waco	37.52085	-97.33393	US	KS
+Weir	37.31005	-94.7719	US	KS
+City of Weir	37.30827	-94.77451	US	KS
+Welborn	39.14334	-94.70024	US	KS
+Welch Stadium	38.41751	-96.17972	US	KS
+Welda	38.16947	-95.2947	US	KS
+Township of Welda	38.16247	-95.32554	US	KS
+Wellington	37.2653	-97.37171	US	KS
+City of Wellington	37.27174	-97.39732	US	KS
+Township of Wellington	37.25773	-97.42557	US	KS
+Wells	39.13889	-97.55086	US	KS
+Township of Wells	39.69651	-96.52267	US	KS
+Wellsford	37.61669	-99.02871	US	KS
+Wellsville	38.71834	-95.08164	US	KS
+Township of West Cherry	37.31758	-95.6426	US	KS
+Township of West Cooper	38.04235	-98.63736	US	KS
+West Coffeyville	37.03897	-95.66998	US	KS
+West Mound	37.53199	-95.85109	US	KS
+Township of West Washington	38.21711	-98.08725	US	KS
+Westlink Village	37.69779	-97.45338	US	KS
+Township of Westminster	37.9557	-98.19707	US	KS
+Westmoreland	39.39389	-96.41361	US	KS
+Weston Bend	39.3925	-94.89357	US	KS
+Westphalia	38.18197	-95.49026	US	KS
+Township of Westphalia	38.21057	-95.45029	US	KS
+Westside Village	39.31111	-94.95024	US	KS
+Westwood	39.04056	-94.6169	US	KS
+City of Westwood	39.0394	-94.61559	US	KS
+Wetmore	39.63333	-95.81138	US	KS
+Township of Wetmore	39.60947	-95.84529	US	KS
+Township of Wheatland	38.65267	-98.86722	US	KS
+Township of Wheatland	38.73995	-97.31644	US	KS
+Township of Wheatland	38.76223	-99.26395	US	KS
+Township of Wheatland	37.82312	-99.61949	US	KS
+Wheaton	39.50222	-96.32084	US	KS
+White City	38.79556	-96.73584	US	KS
+White Cloud	39.97639	-95.29692	US	KS
+Township of White Mound	39.87182	-98.44811	US	KS
+Township of White	37.69189	-98.07944	US	KS
+Whitewater	37.96474	-97.14753	US	KS
+Whiteside	38.00751	-98.01505	US	KS
+Whiting	39.58972	-95.61276	US	KS
+Township of Whiting	39.6094	-95.62036	US	KS
+Whitman	37.33252	-97.18754	US	KS
+Wichita	37.69224	-97.33754	US	KS
+Wichita Baptist Tabernacle	37.69196	-97.32254	US	KS
+Wichita Heights	37.78112	-97.33588	US	KS
+Wichita Prairies	37.42502	-97.58366	US	KS
+City of Wichita	37.69063	-97.34258	US	KS
+Township of Wilcox	38.78345	-99.87482	US	KS
+Township of Wildcat	37.36823	-96.338	US	KS
+Wild Glen	39.10055	-96.76251	US	KS
+Wildcat Hollow	38.92584	-96.05777	US	KS
+Township of Wildcat	39.23711	-96.70263	US	KS
+Wildon Draw	38.78085	-99.60122	US	KS
+Township of Wildhorse	39.33121	-99.69644	US	KS
+Willard	39.09333	-95.94193	US	KS
+Williams Butte	39.25612	-98.45423	US	KS
+Williamsburg	38.48057	-95.46692	US	KS
+Township of Williamsburg	38.44534	-95.44491	US	KS
+Williamstown	39.06278	-95.33275	US	KS
+Willis	39.725	-95.50581	US	KS
+Williston Point	39.09722	-96.76806	US	KS
+Willow Brook	38.60418	-95.66526	US	KS
+Willowbrook	38.10196	-97.992	US	KS
+Willowdale	37.5153	-98.30174	US	KS
+Township of Willowdale	39.00194	-97.31566	US	KS
+Wilmington	38.74445	-95.95943	US	KS
+Township of Wilmington	38.80019	-96.11119	US	KS
+Wilmore	37.33586	-99.21011	US	KS
+Wilmot	37.37613	-96.87587	US	KS
+Wilsey	38.63612	-96.67529	US	KS
+Wilson	38.82501	-98.47534	US	KS
+Township of Wilson	38.82724	-98.42987	US	KS
+Township of Wilson	38.30458	-97.09548	US	KS
+Township of Wilson	38.30401	-98.09115	US	KS
+Winchester	39.32222	-95.26692	US	KS
+Windhorst	37.7853	-99.64207	US	KS
+Windom	38.3839	-97.91005	US	KS
+Township of Windsor	37.32376	-96.62059	US	KS
+Winifred	39.76944	-96.48085	US	KS
+Winkler	39.48167	-96.83168	US	KS
+Wind-N-Wave	39.1625	-95.46414	US	KS
+Township of Winterset	38.74025	-98.98594	US	KS
+Winway	37.32562	-95.25858	US	KS
+Wise	37.99448	-95.28026	US	KS
+Wolcott	39.18889	-94.80163	US	KS
+Wonsevu	38.15085	-96.77224	US	KS
+Woodbine	38.79612	-96.95862	US	KS
+Woodlawn	39.78333	-95.86471	US	KS
+Womer	39.97362	-98.71063	US	KS
+Woodson Cove	37.74504	-95.91415	US	KS
+Woodston	39.45529	-99.09565	US	KS
+Worden	38.78223	-95.33442	US	KS
+Wreford	38.96167	-96.84862	US	KS
+Wright	37.78058	-99.89208	US	KS
+Xavier	39.27722	-94.90913	US	KS
+Xenia	37.99531	-94.98636	US	KS
+Yaggy	38.09696	-98.00894	US	KS
+Yale	37.48394	-94.6419	US	KS
+Yocemento	38.90723	-99.424	US	KS
+Yoder	37.94029	-97.86838	US	KS
+Township of Yoder	37.95773	-97.86856	US	KS
+Township of York	37.8679	-98.527	US	KS
+Yuma	39.59111	-97.74976	US	KS
+Zarah	39.00723	-94.82385	US	KS
+Zeandale	39.15944	-96.42667	US	KS
+Township of Zeandale	39.11173	-96.4491	US	KS
+Zenda	37.44224	-98.28202	US	KS
+Zenith	37.95724	-98.49202	US	KS
+Zimmerdale	38.10279	-97.39004	US	KS
+Zola Witten Track	38.41724	-96.17916	US	KS
+Zurich	39.23445	-99.43816	US	KS
+Zyba	37.43474	-97.38921	US	KS
+Haworth	39.825	-97.38782	US	KS
+Township of Bachelor	37.83898	-96.19683	US	KS
+Warwick	39.99862	-97.90727	US	KS
+Olivet	38.48057	-95.75165	US	KS
+Stickney	38.63807	-98.82953	US	KS
+Tasco	39.35417	-100.29125	US	KS
+City of Goodland	39.34922	-101.71041	US	KS
+Dighton	38.48196	-100.46708	US	KS
+South East Rollo Pasture	37.10003	-101.60044	US	KS
+Laird	38.44752	-100.05457	US	KS
+Township of Adell	39.52363	-100.24614	US	KS
+Alamota	38.46113	-100.31014	US	KS
+Township of Alamota	38.40785	-100.31933	US	KS
+Alanthus	38.70001	-100.16707	US	KS
+Allison	39.575	-100.2643	US	KS
+Township of Allison	39.61063	-100.23619	US	KS
+Township of Allodium	39.50169	-100.09195	US	KS
+Township of Altory	39.78468	-100.34778	US	KS
+Amy	38.48196	-100.60181	US	KS
+Angelus	39.19112	-100.68431	US	KS
+Arkalon	37.14308	-100.80738	US	KS
+Armstrong Draw	39.09167	-101.73656	US	KS
+Artesian Pasture	37.11252	-101.83378	US	KS
+Artesian Valley	37.29808	-100.3282	US	KS
+Astor	38.47279	-101.90295	US	KS
+Atwood	39.80667	-101.0421	US	KS
+Township of Atwood	39.81644	-101.04407	US	KS
+Township of Augustine	38.74452	-101.37273	US	KS
+Township of Baker	39.00229	-100.21418	US	KS
+Township of Banner	37.06192	-101.17577	US	KS
+Township of Bassettville	39.69832	-100.68453	US	KS
+Beardsley	39.81444	-101.22766	US	KS
+Township of Beaver	39.95843	-100.57094	US	KS
+Township of Beaver	38.6272	-101.01817	US	KS
+Township of Benkelman	39.65532	-101.91894	US	KS
+Township of Benton	38.04422	-100.17143	US	KS
+Big Bow	37.56502	-101.56156	US	KS
+Township of Big Bow	37.5625	-101.60809	US	KS
+Big Lagoon	39.01655	-101.9846	US	KS
+Big Lagoon	38.9364	-101.53878	US	KS
+Bird City	39.75083	-101.53294	US	KS
+Township of Bird City	39.7763	-101.51935	US	KS
+Bradshaw Draw	39.03195	-101.56294	US	KS
+Breton	39.4525	-100.81404	US	KS
+Brewster	39.36667	-101.37683	US	KS
+Brookover	38.01808	-100.88294	US	KS
+Brownville	39.18612	-101.3535	US	KS
+Township of Bryant	39.19715	-100.07084	US	KS
+Burris Draw	38.76529	-100.88459	US	KS
+Township of Calhoun	39.92461	-101.67518	US	KS
+Capper Draw	38.90251	-101.51961	US	KS
+Caruso	39.33861	-101.81545	US	KS
+Cave	37.35864	-101.14127	US	KS
+Chardon	39.65472	-101.0571	US	KS
+Charleston	37.8653	-100.56487	US	KS
+Chalk Pyramids	38.79612	-100.76459	US	KS
+Chevron	38.31252	-100.91016	US	KS
+Township of Cheyenne	38.6131	-100.6146	US	KS
+Cimarron National Grassland	37.13844	-101.78219	US	KS
+Township of Cimarron	37.79677	-100.32735	US	KS
+Township of Cimarron	37.0781	-100.53449	US	KS
+Township of Cimarron	37.07502	-101.77278	US	KS
+Clayton	39.7375	-100.17764	US	KS
+Clinesmith	37.14197	-101.68905	US	KS
+Clough Valley	39.8261	-102.00213	US	KS
+Colby	39.39584	-101.05238	US	KS
+City of Colby	39.38511	-101.04552	US	KS
+Collano	37.29891	-100.50737	US	KS
+Collyer	39.03556	-100.11791	US	KS
+Township of Collyer	38.98671	-100.05704	US	KS
+Columbian Track	37.54086	-101.17545	US	KS
+Township of Concord	37.60565	-100.1061	US	KS
+Township of Cook	39.61152	-100.68487	US	KS
+Coolidge	38.04168	-102.00879	US	KS
+Township of Coolidge	38.0444	-101.98561	US	KS
+Township of Copeland	37.58392	-100.59774	US	KS
+Coronado	38.48585	-101.3046	US	KS
+Copeland	37.54197	-100.6296	US	KS
+Cow Draw	39.14556	-100.2643	US	KS
+Township of Custer	39.69774	-100.46031	US	KS
+Crozier Draw	38.21836	-101.05933	US	KS
+Depperschmidt Draw	38.91112	-101.47878	US	KS
+Dellvale	39.77223	-100.03513	US	KS
+Devils Backbone	38.64029	-100.91293	US	KS
+Dighton City Wells	38.53779	-100.45014	US	KS
+Township of Dighton	38.40213	-100.53535	US	KS
+Dodge City	37.7528	-100.01708	US	KS
+City of Dodge City	37.76065	-100.01808	US	KS
+Township of Dodge	37.7885	-100.05025	US	KS
+Dresden	39.62417	-100.42236	US	KS
+Township of Dresden	39.61089	-100.46062	US	KS
+Township of Driftwood	39.95875	-101.0745	US	KS
+Devizes	39.99112	-100.05735	US	KS
+Township of Dudley	37.56234	-101.01688	US	KS
+Township of East Hale	39.37373	-101.22271	US	KS
+Township of East Hess	37.60636	-100.27008	US	KS
+East Headquarters Pasture	37.04447	-101.89072	US	KS
+Township of East Saline	39.21933	-100.21944	US	KS
+Township of Eden	38.47721	-100.1513	US	KS
+Edson	39.33722	-101.54044	US	KS
+Eightyone Pasture	37.14725	-101.87406	US	KS
+El Cuartelejo Ruins	38.67724	-100.91515	US	KS
+Elkader	38.79335	-100.85876	US	KS
+Township of Elkader	38.873	-100.89948	US	KS
+Elkhart	37.00808	-101.89017	US	KS
+Ensign	37.6528	-100.23375	US	KS
+Township of Fairview	37.73819	-100.16042	US	KS
+Township of Fargo	37.13059	-100.74725	US	KS
+Feterita	37.14503	-101.48377	US	KS
+Township of Finley	39.95855	-100.6831	US	KS
+Fowler	37.38558	-100.1957	US	KS
+Township of Fowler	37.3926	-100.18566	US	KS
+Township of Foote	37.92862	-100.3365	US	KS
+Friend	38.26002	-100.91155	US	KS
+Frisbie Landing Strip	39.88666	-101.35405	US	KS
+Township of Gaeland	38.9388	-100.73206	US	KS
+Gano	38.19224	-100.91127	US	KS
+Garden City	37.97169	-100.87266	US	KS
+City of Garden City	37.97787	-100.8604	US	KS
+Township of Garden City	37.9175	-100.85621	US	KS
+Gardner Draw	39.06445	-101.59517	US	KS
+Township of Franklin	38.76924	-100.05991	US	KS
+Township of Gettysburg	39.39385	-100.0211	US	KS
+Gem	39.42778	-100.89765	US	KS
+Goodland	39.35083	-101.71017	US	KS
+Gove	38.95779	-100.48875	US	KS
+Township of Gove	38.93815	-100.52909	US	KS
+Grace Baptist Temple	37.03761	-100.92787	US	KS
+Township of Grant	39.95816	-100.23431	US	KS
+Township of Grant	39.48141	-101.94291	US	KS
+Great Plains	39.41667	-101.29211	US	KS
+Greenwood Pasture	37.18336	-101.88239	US	KS
+Grigston	38.48474	-100.71709	US	KS
+Haggard	37.63447	-100.32042	US	KS
+Halford	39.37306	-100.86987	US	KS
+Township of Harlan	39.95852	-100.34652	US	KS
+Township of Harmony	37.32283	-101.44776	US	KS
+Harper Landing Strip	39.89083	-101.28933	US	KS
+Harris Draw	39.06667	-101.62211	US	KS
+Township of Harrison	38.76483	-101.56669	US	KS
+Hart Draw	37.30697	-100.42043	US	KS
+Hartland	37.88724	-101.37211	US	KS
+Township of Hartland	37.98399	-101.42767	US	KS
+Township of Haskell	37.56228	-100.87103	US	KS
+Headquarters Draw	38.91918	-101.55489	US	KS
+Hayne	37.10058	-100.80405	US	KS
+Healy	38.60002	-100.61709	US	KS
+Herndon	39.90973	-100.78515	US	KS
+Hess	38.49724	-101.13099	US	KS
+Hickok	37.56113	-101.22878	US	KS
+High Plains	39.41667	-101.29211	US	KS
+Highway Pasture	37.09308	-101.70044	US	KS
+Holcomb	37.98614	-100.98933	US	KS
+Township of Herl	39.84404	-100.84621	US	KS
+Horace	38.4764	-101.79073	US	KS
+Horsethief Draw	39.04862	-101.93879	US	KS
+Hoxie	39.3575	-100.44181	US	KS
+Hudkins Draw	39.02501	-101.51544	US	KS
+Howell	37.78335	-100.17931	US	KS
+Hughes	39.39584	-101.26155	US	KS
+Hugoton	37.1753	-101.3496	US	KS
+Hutchins	38.43974	-100.91543	US	KS
+Ingalls	37.8278	-100.45459	US	KS
+Township of Ingalls	37.77478	-100.54566	US	KS
+Township of Iowa	39.19971	-101.50326	US	KS
+Township of Isbel	38.48206	-101.05425	US	KS
+Township of Itasca	39.3058	-101.66773	US	KS
+Township of Ivanhoe	37.7961	-100.91234	US	KS
+James Draw	38.11308	-101.12655	US	KS
+Township of Jaqua	39.65523	-102.01283	US	KS
+Township of Jefferson	39.61147	-100.81532	US	KS
+Jennings	39.67945	-100.29347	US	KS
+Township of Jennings	39.69767	-100.34816	US	KS
+Township of Jerome	38.78635	-100.48478	US	KS
+Johnson	37.57057	-101.751	US	KS
+Johnson Draw	39.84028	-100.49792	US	KS
+Township of Johnson	38.3345	-100.13529	US	KS
+Township of Jones	37.05999	-101.98876	US	KS
+Julian	37.56196	-101.62656	US	KS
+Kalvesta	38.05946	-100.28625	US	KS
+Kanco	38.47224	-102.04268	US	KS
+Kanona	39.79667	-100.38986	US	KS
+Kanorado	39.33305	-102.03796	US	KS
+Kendall	37.93474	-101.546	US	KS
+Township of Kendall	38.0323	-101.58917	US	KS
+Township of Kendall	37.8022	-101.35628	US	KS
+Kennedy Glider Port	37.41225	-100.09042	US	KS
+Township of Kenneth	39.35038	-100.4418	US	KS
+Township of Keystone	38.48273	-100.75976	US	KS
+Township of Kingery	39.22198	-101.27959	US	KS
+Kismet	37.20558	-100.7021	US	KS
+Keller Brothers Landing Strip	39.10001	-101.16377	US	KS
+Kough Landing Strip	38.68057	-101.16988	US	KS
+Township of Lacey	39.43789	-100.88729	US	KS
+Lakin	37.94058	-101.25489	US	KS
+Lakin Draw	37.55863	-101.32656	US	KS
+Township of Lakin	37.99776	-101.27048	US	KS
+Lambs Draw	39.755	-100.69293	US	KS
+Township of Lamont	37.82426	-101.65693	US	KS
+Landon Draw	38.63002	-100.92404	US	KS
+Township of Larrabee	38.78515	-100.26308	US	KS
+Leeds Draw	39.17084	-100.29708	US	KS
+Lenora	39.61056	-100.00263	US	KS
+Leoti	38.47974	-101.35877	US	KS
+Township of Leoti	38.48208	-101.34736	US	KS
+Leoville	39.58167	-100.46098	US	KS
+Levant	39.38556	-101.19488	US	KS
+Township of Lewis	38.78686	-100.70687	US	KS
+Liberal	37.04308	-100.921	US	KS
+City of Liberal	37.04659	-100.92915	US	KS
+Township of Liberal	37.12977	-100.96521	US	KS
+Township of Liberty	39.87203	-100.57171	US	KS
+Township of Liberty	38.11013	-101.71612	US	KS
+Apostolic Life Tabernacle	37.04428	-100.93363	US	KS
+Township of Lincoln	39.87111	-100.23506	US	KS
+Township of Lincoln	37.56195	-101.30799	US	KS
+Township of Lincoln	39.30738	-101.89341	US	KS
+Township of Lees	38.74276	-100.92915	US	KS
+Little Pyramids	38.75696	-100.94904	US	KS
+Township of Llanos	39.4819	-101.44598	US	KS
+Township of Lockport	37.56213	-100.72534	US	KS
+Township of Logan	39.87188	-100.68381	US	KS
+Township of Logan	37.92905	-100.55496	US	KS
+Township of Logan	37.23419	-100.18179	US	KS
+Township of Logan	39.35044	-100.60911	US	KS
+Township of Logan	39.32925	-101.78221	US	KS
+Lone Butte	38.78779	-101.20877	US	KS
+Long Draw	39.65639	-100.89432	US	KS
+Lowe	38.03308	-100.99267	US	KS
+Lowe Landing Strip	39.06723	-101.25321	US	KS
+Lucas Landing Strip	37.41995	-101.55781	US	KS
+Lucerne	39.49667	-100.20041	US	KS
+Ludell	39.85556	-100.95988	US	KS
+Township of Ludell	39.87179	-100.94433	US	KS
+Lydia	38.27835	-101.29155	US	KS
+Lyle	39.95778	-100.21653	US	KS
+Township of Lyon	39.611	-100.34849	US	KS
+Manning	38.55529	-100.72348	US	KS
+Manter	37.52307	-101.8849	US	KS
+Township of Manter	37.56382	-101.94723	US	KS
+Marienthal	38.48752	-101.21293	US	KS
+Mattox Draw	38.01558	-101.1835	US	KS
+Mayline	37.96001	-101.66045	US	KS
+McAllaster	39.00612	-101.39155	US	KS
+Township of McAllaster	39.04867	-101.39632	US	KS
+McBride Monument	38.68418	-100.91654	US	KS
+McDonald	39.78583	-101.37572	US	KS
+Township of McPherson	39.17686	-101.94318	US	KS
+Meade	37.28558	-100.34015	US	KS
+Medway	38.01362	-101.8824	US	KS
+Township of Medway	38.04461	-101.87193	US	KS
+Menlo	39.35695	-100.72265	US	KS
+Township of Menlo	39.32882	-100.77704	US	KS
+Township of Mertilla	37.39983	-100.50402	US	KS
+Meyers Draw	39.04639	-101.90684	US	KS
+Township of Michigan	38.62752	-100.79745	US	KS
+Midway	39.82917	-100.77765	US	KS
+Midway Draw	39.16556	-100.34264	US	KS
+Mingo	39.27834	-100.96237	US	KS
+Township of Mirage	39.65503	-101.24363	US	KS
+Missler	37.3178	-100.43515	US	KS
+Modoc	38.48696	-101.08182	US	KS
+Township of Montezuma	37.59597	-100.42888	US	KS
+Monument	39.10445	-101.0071	US	KS
+Township of Monument	39.04677	-101.06323	US	KS
+Moore Pasture	37.02502	-101.96295	US	KS
+Morgan Draw	38.65113	-100.91293	US	KS
+Morland	39.34945	-100.07569	US	KS
+Moscow	37.32363	-101.20572	US	KS
+Township of Moscow	37.30436	-101.19778	US	KS
+Township of Morgan	39.37274	-101.11101	US	KS
+New Almelo	39.59417	-100.11791	US	KS
+New Life Baptist Mission	37.04299	-100.93066	US	KS
+New Pasture Number Thirteen	37.25419	-101.85045	US	KS
+Norcatur	39.83695	-100.18791	US	KS
+North Fork Pasture	37.24586	-101.97823	US	KS
+Township of North Randall	39.32905	-100.88818	US	KS
+Township of North Roscoe	38.18931	-100.13586	US	KS
+Oakley	39.13334	-100.86376	US	KS
+Township of Oakley	39.04659	-100.89671	US	KS
+Oberlin	39.81834	-100.5282	US	KS
+City of Oberlin	39.82304	-100.53074	US	KS
+Township of Oberlin	39.78337	-100.57364	US	KS
+Township of Odee	37.078	-100.35312	US	KS
+Township of Ohio	38.62673	-100.14151	US	KS
+Old Maid Pool	38.98703	-101.79716	US	KS
+Township of Olive	39.8717	-100.45929	US	KS
+Township of Orlando	39.78551	-101.69241	US	KS
+Oronoque	39.78889	-100.02541	US	KS
+Page City	39.08973	-101.14627	US	KS
+Painter Landing Strip	37.09281	-100.19347	US	KS
+Township of Parnell	39.43737	-100.49721	US	KS
+Pasture Number Eight	37.19586	-101.98517	US	KS
+Pasture Number Eighteen	37.14863	-102.02962	US	KS
+Pasture Number Eleven	37.21113	-101.931	US	KS
+Pasture Number Five	37.24724	-102.02267	US	KS
+Pasture Number Forty	37.25419	-101.54766	US	KS
+Pasture Number Fortyeight	37.05002	-101.79489	US	KS
+Pasture Number Fortyfour	37.24725	-101.5296	US	KS
+Pasture Number Fortynine	37.08752	-101.75877	US	KS
+Pasture Number Fortyone	37.04725	-101.81294	US	KS
+Pasture Number Fortyseven	37.20835	-102.03378	US	KS
+Pasture Number Fortythree	37.03475	-101.77544	US	KS
+Pasture Number Four	37.23891	-102.03101	US	KS
+Pasture Number Nine	37.18891	-101.96712	US	KS
+Pasture Number Nineteen	37.14863	-102.00878	US	KS
+Pasture Number Seven	37.20697	-101.99628	US	KS
+Pasture Number Seventeen	37.18197	-102.01295	US	KS
+Pasture Number Six	37.2403	-102.01295	US	KS
+Pasture Number Sixteen	37.18058	-101.83794	US	KS
+Pasture Number Ten	37.18891	-101.94906	US	KS
+Pasture Number Thirty	37.02919	-101.71294	US	KS
+Pasture Number Thirtyeight	37.17363	-101.90461	US	KS
+Pasture Number Thirtyfive	37.0528	-101.88656	US	KS
+Pasture Number Thirtyfour	37.06947	-101.93934	US	KS
+Pasture Number Thirtynine	37.00558	-101.97545	US	KS
+Pasture Number Thirtyone	37.02086	-101.70877	US	KS
+Pasture Number Thirtyseven	37.06114	-101.82961	US	KS
+Pasture Number Thirtysix	37.04169	-101.77683	US	KS
+Pasture Number Thirtythree	37.02086	-101.86711	US	KS
+Pasture Number Three	37.25419	-102.02962	US	KS
+Pasture Number Twelve	37.21113	-101.89628	US	KS
+Pasture Number Twenty	37.13752	-101.98378	US	KS
+Pasture Number Twentyeight	37.08753	-101.63238	US	KS
+Pasture Number Twentyfive	37.11669	-101.58794	US	KS
+Pasture Number Twentyfour	37.20419	-101.57822	US	KS
+Pasture Number Twentynine	37.0403	-101.68655	US	KS
+Pasture Number Twentyone	37.1528	-101.95878	US	KS
+Pasture Number Twentysix	37.06947	-101.59627	US	KS
+Pasture Number Twentythree	37.20002	-101.61294	US	KS
+Pasture Number Twentytwo	37.14447	-101.93795	US	KS
+Pawnee Mound	38.28141	-100.82182	US	KS
+Township of Paxton	38.74421	-101.15096	US	KS
+Township of Payne	39.00283	-100.34355	US	KS
+Pence	38.65585	-101.07265	US	KS
+Pendennis	38.63946	-100.33652	US	KS
+Peterson	38.03252	-101.06711	US	KS
+Pierceville	37.87836	-100.67682	US	KS
+Township of Pierceville	37.91358	-100.71598	US	KS
+North Lowe Pasture	37.18475	-101.7185	US	KS
+Plains	37.2603	-100.59265	US	KS
+Pleasant Valley	37.12641	-101.04878	US	KS
+Township of Pleasant Valley	39.69748	-100.236	US	KS
+Township of Pleasant Valley	38.17752	-100.77399	US	KS
+Pioneer Co-op Spur	37.57169	-101.39989	US	KS
+Point Pasture	37.10558	-101.96295	US	KS
+Township of Prairie Dog	39.61121	-100.57276	US	KS
+Township of Prairie Dog	39.52445	-100.66414	US	KS
+Quinby	37.98836	-100.92878	US	KS
+Quinter	39.06945	-100.23236	US	KS
+RWR Landing Strip	38.63113	-101.1921	US	KS
+Township of Racewood	39.80694	-101.30877	US	KS
+Plymell	37.80975	-100.86989	US	KS
+Ravanna	38.15974	-100.38236	US	KS
+Reager	39.82695	-100.09624	US	KS
+Township of Richland	37.69547	-100.0544	US	KS
+Township of Richland	38.219	-101.79341	US	KS
+Ritchal	38.03252	-101.02822	US	KS
+Township of Rocewood	39.81794	-101.31258	US	KS
+Rexford	39.47167	-100.74348	US	KS
+Rodkey	38.0178	-100.95766	US	KS
+Township of Rolla	37.11142	-101.63473	US	KS
+Rollo Pasture	37.17502	-101.66433	US	KS
+Township of Roosevelt	39.8718	-100.34709	US	KS
+Township of Rovohl	39.50302	-101.05414	US	KS
+Township of Royal	37.8699	-100.11825	US	KS
+Ruggles Draw	39.06556	-101.69489	US	KS
+Ryus	37.4978	-101.10822	US	KS
+Saint Francis	39.77222	-101.7999	US	KS
+Saint Peter	39.18973	-100.0893	US	KS
+Ruleton	39.33944	-101.88934	US	KS
+Sand Draw	38.64724	-100.90654	US	KS
+Satanta	37.43725	-100.97211	US	KS
+Saunders	37.47113	-102.03934	US	KS
+Township of Sappa	39.78514	-100.68422	US	KS
+Sayre	37.68808	-100.17431	US	KS
+Township of Scott	38.43626	-100.90697	US	KS
+Sears	37.76252	-100.10597	US	KS
+Seguin	39.33751	-100.59487	US	KS
+Selden	39.54084	-100.56764	US	KS
+Selkirk	38.47335	-101.5435	US	KS
+Township of Seward	37.32246	-100.85137	US	KS
+Scott City	38.48252	-100.90709	US	KS
+Township of Sheridan	39.52429	-100.52492	US	KS
+Township of Sherlock	37.95986	-101.02075	US	KS
+Township of Sherman	39.9584	-100.4589	US	KS
+Township of Sherman	37.66368	-101.30838	US	KS
+Township of Shermanville	39.48185	-101.55786	US	KS
+Shields	38.61557	-100.44514	US	KS
+Skunkie Arroyo	37.12447	-100.39098	US	KS
+Township of Smoky	39.19895	-101.72677	US	KS
+Township of Solomon	39.30731	-100.07082	US	KS
+Township of Solomon	39.22011	-100.63773	US	KS
+Township of Smith	39.4379	-100.77627	US	KS
+South East Wilberton Pasture	37.06253	-101.70877	US	KS
+South Lowe Pasture	37.14169	-101.72544	US	KS
+Township of South Randall	39.19839	-100.83286	US	KS
+Township of South Roscoe	37.95702	-100.11798	US	KS
+South Pasture	37.19308	-101.63655	US	KS
+Township of Southside	37.87798	-101.19986	US	KS
+Spica	39.20667	-100.91543	US	KS
+Squaws Den Battleground	38.64363	-100.92765	US	KS
+Squaws Den Monument	38.64363	-100.92765	US	KS
+Stano	37.52058	-101.48989	US	KS
+Township of Stanton	37.56274	-101.77131	US	KS
+Stateline Pasture	37.00558	-102.01712	US	KS
+Township of Stateline	39.30758	-101.99891	US	KS
+Steele Monument	38.67474	-100.91876	US	KS
+Steer Pasture	37.04863	-102.01712	US	KS
+Studley	39.35306	-100.16374	US	KS
+Stumpie Arroyo	37.13336	-100.38931	US	KS
+Stout Landing Strip	39.95639	-101.42961	US	KS
+Suicide Bluffs	38.68668	-100.92959	US	KS
+Township of Sullivan	37.46051	-101.30768	US	KS
+Sullivans Track	37.56391	-101.45322	US	KS
+Township of Summers	39.22033	-101.05589	US	KS
+Township of Summit	39.69796	-100.57227	US	KS
+Sunland	38.89279	-101.82156	US	KS
+Sutton	37.90585	-101.46545	US	KS
+Syracuse	37.98057	-101.75267	US	KS
+Sublette	37.48169	-100.84377	US	KS
+Township of Syracuse	37.97952	-101.73422	US	KS
+Table Mesa	37.03725	-100.57071	US	KS
+Township of Taloga	37.06032	-101.88123	US	KS
+Tennis	38.16336	-100.91099	US	KS
+Township of Terry	38.17788	-100.99329	US	KS
+The Village Square	37.73585	-100.01847	US	KS
+Tice	37.51614	-100.72683	US	KS
+Tractor	38.48696	-100.8332	US	KS
+Traer	39.92834	-100.66626	US	KS
+Tribune	38.46974	-101.75267	US	KS
+Township of Tribune	38.48054	-101.80597	US	KS
+Tucker Pasture	37.08336	-101.74488	US	KS
+Turner Draw	39.14584	-100.1993	US	KS
+Twin Butte	38.78557	-101.38461	US	KS
+Township of Union	39.77442	-100.91058	US	KS
+Township of Union	39.52418	-100.38562	US	KS
+Township of Union	39.33022	-101.44696	US	KS
+Unit One Pasture	37.11947	-102.00184	US	KS
+Unit One Pasture	37.10697	-102.03795	US	KS
+Utica	38.6439	-100.16985	US	KS
+Ulysses	37.58141	-101.35517	US	KS
+Township of Valley	38.33734	-101.01607	US	KS
+Township of Valley	39.34981	-100.27445	US	KS
+Voda	39.04917	-100.01985	US	KS
+Township of Voltaire	39.47058	-101.719	US	KS
+Township of Voorhees	37.06125	-101.42012	US	KS
+Walkinghood	38.47224	-101.97268	US	KS
+Wallace	38.9114	-101.59156	US	KS
+Wallace Bluffs	38.84279	-101.54544	US	KS
+Township of Wallace	38.98229	-101.56355	US	KS
+Township of Wano	39.77777	-101.8595	US	KS
+Township of Washington	39.32983	-101.55852	US	KS
+Watson Pasture	37.06253	-101.65461	US	KS
+Township of Wendell	39.52476	-100.83127	US	KS
+Weskan	38.86667	-101.96434	US	KS
+Township of Weskan	38.88604	-101.94499	US	KS
+Township of West Hale	39.37412	-101.33475	US	KS
+West Headquarters Pasture	37.05141	-101.90878	US	KS
+Township of West Plains	37.24468	-100.54003	US	KS
+Township of West Saline	39.21986	-100.33101	US	KS
+Township of Western	38.87524	-101.39847	US	KS
+Township of Westola	37.25784	-101.96208	US	KS
+Wettick	37.79669	-100.26431	US	KS
+Wheeler	39.76416	-101.71295	US	KS
+White Woman Basin	38.44169	-100.88376	US	KS
+White Woman Bottoms	38.0328	-100.85599	US	KS
+Whitelaw	38.45502	-101.67934	US	KS
+Township of Wilburn	37.51816	-100.10662	US	KS
+Wilburton	37.07364	-101.77322	US	KS
+White Womans Grave	38.64502	-100.91126	US	KS
+Wild Horse Draw	39.20139	-101.70545	US	KS
+Winona	39.06334	-101.24433	US	KS
+Township of Winona	39.04838	-101.22997	US	KS
+Wolf	38.03224	-101.09906	US	KS
+Township of Wilson	38.62712	-100.46858	US	KS
+Woods	37.1703	-101.10572	US	KS
+Yoder Pasture	37.1653	-101.85461	US	KS
+North Atwood	39.82361	-101.04682	US	KS
+Arnold	38.64029	-100.04624	US	KS
+Cedar Bluffs	39.97889	-100.56181	US	KS
+Beeler	38.44446	-100.19486	US	KS
+Cimarron	37.80669	-100.3482	US	KS
+South Dodge	37.74224	-100.01986	US	KS
+Coen Pasture	37.10419	-101.77544	US	KS
+Montezuma	37.59586	-100.4432	US	KS
+Rolla	37.12003	-101.63211	US	KS
+Topeka NEXRAD	39	-96.23333	US	KS
+Mission Animal Clinic	39.0219	-94.6656	US	KS
+Overland Pet Clinic	38.9858	-94.6665	US	KS
+Anderson Animal Clinic	38.8528	-94.7973	US	KS
+Animal Clinic	38.8835	-94.7459	US	KS
+Aubry Animal Clinic	38.7737	-94.6678	US	KS
+De Soto Veterinary Clinic	38.9714	-94.9787	US	KS
+Knappenberger Veterinary Clinic	38.854	-94.8114	US	KS
+Mc Callum Veterinary Clinic	38.9727	-94.9749	US	KS
+Sand Mound	39.2511	-98.7692	US	KS
+Round Mound	39.2514	-98.9582	US	KS
+KIUL-1240 AM (Garden City)	37.9976	-100.9074	US	KS
+KANZ-91.1 FM (Garden City)	37.7786	-100.8695	US	KS
+Childrens Village Child Care	38.9694	-94.7019	US	KS
+Abundant Life Assembly of God	38.922	-94.7587	US	KS
+Adat Yeshua-Messianic	38.9744	-94.7066	US	KS
+Alpha North American	38.9815	-94.6953	US	KS
+Canaan Christian Fellowship	39.0142	-94.74	US	KS
+Christian Assembly Fellowship	39.0433	-94.6978	US	KS
+Congregation Beth Israel Abraham and Anshy Voliner	38.94953	-94.68679	US	KS
+Congregation Beth Torah	38.899	-94.6567	US	KS
+Congregation Ohev Sholom	38.99279	-94.64755	US	KS
+Cornerstone Ministries of Kansas	38.8368	-94.8334	US	KS
+Ethiopian Christians Fellowship	38.91218	-94.75221	US	KS
+Ethiopian Christian Fellowship	38.9575	-94.7404	US	KS
+Faith Builders International	38.97708	-94.97083	US	KS
+Adat Yeshua Messianic Jewish Congregation	38.97438	-94.70663	US	KS
+Midwest Sikh Association	39.00356	-94.74365	US	KS
+Heartland International Ministries	39.01326	-94.66854	US	KS
+Hebrew Orthodox Congregation	38.9395	-94.6737	US	KS
+Kansas Baptist Convention	38.9608	-94.7365	US	KS
+Kansas City Kansas Baptist Association	38.9702	-94.71041	US	KS
+Heartland Christian Fellowship	38.8977	-94.7268	US	KS
+Kehilath Israel Synagogue	38.93955	-94.67342	US	KS
+Lao Buddhist Association of Olathe	38.8869	-94.8285	US	KS
+Olathe Sojourn Fellowship	38.87038	-94.76371	US	KS
+Olathe Christian Fellowship	38.82271	-94.79808	US	KS
+Saint Ann's Kansas Rectory	39.0101	-94.6301	US	KS
+Vineyard Christian Fellowship of Kansas City	38.97771	-94.65764	US	KS
+Westview Congregation of Jehovah's Witnesses	38.8698	-94.7569	US	KS
+Congregation B'nai Jehudah	38.9038	-94.6509	US	KS
+Shawnee Assembly of God	39.02596	-94.71043	US	KS
+Shawnee Mission Unitarian Society	38.9707	-94.6757	US	KS
+Unitarian Universalist Fellowship	38.9933	-94.6295	US	KS
+Olathe Adult Detention	38.8832	-94.8212	US	KS
+Roman Catholic Archdiocese of Kansas City in Kansas	39.1269	-94.8749	US	KS
+Old Shawnee Town	39.0338	-94.6249	US	KS
+Girls Softball Complex	38.8539	-94.7459	US	KS
+Blue Valley Recreation Complex	38.8788	-94.6949	US	KS
+Sar-Ko-Par Trac	38.9691	-94.7544	US	KS
+Ad Astra Pool	38.9788	-94.7699	US	KS
+Shawnee Swimming Pool East	39.0249	-94.7209	US	KS
+Black Bob Pool	38.8591	-94.7557	US	KS
+Frontier Pool	38.897	-94.7723	US	KS
+Fairway City Pool	39.0176	-94.6312	US	KS
+Mission Municipal Pool	39.0193	-94.6546	US	KS
+Marty Pool	38.9947	-94.6728	US	KS
+Roe Pool	38.9406	-94.6405	US	KS
+Shawnee East Pool	39.0249	-94.7209	US	KS
+Young's Pool	38.9883	-94.6842	US	KS
+Gardner Pool	38.8135	-94.9262	US	KS
+Cheyenne Gap	39.22001	-98.64813	US	KS
+Shawnee Mission Memory Gardens	38.99146	-94.85735	US	KS
+Ambroselli's Villa Serendip B&B	39.45001	-98.90797	US	KS
+Howard Johnsons Goodland Ks	39.3342	-101.726	US	KS
+	38.9362	-94.6674	US	KS
+Chateau Avalon	39.117	-94.819	US	KS
+Howard Johnson	39.015	-94.6723	US	KS
+MAPLE UNCOMMON	37.1707	-94.8423	US	KS
+MICROTEL OLATHE	38.8598	-94.8123	US	KS
+MICROTEL INDEPENDENCE	37.2253	-95.7391	US	KS
+EXTENDEDSTAYDELUXE KANSAS CITY	38.9361	-94.6694	US	KS
+STUDIOPLUS WICHITA-EAST	37.682	-97.2273	US	KS
+HARRAHS PRAIRIE BAND	39.318	-95.7499	US	KS
+HOLTZE EXECUTIVE VILLAGE	38.9277	-94.718	US	KS
+Southwest Junior High	38.93795	-95.29968	US	KS
+	37.0625	-95.67707	US	KS
+Argentine Levee Unit	39.09889	-94.68472	US	KS
+Armourdale Levee Unit	39.07556	-94.63083	US	KS
+Andover Fire and Rescue	37.70197	-97.13581	US	KS
+Towanda Fire and Rescue	37.79503	-97.00274	US	KS
+City of Brewster	39.36305	-101.37712	US	KS
+City of Bronson	37.89567	-95.07324	US	KS
+City of Brookville	38.7735	-97.86471	US	KS
+City of Brownell	38.64058	-99.74435	US	KS
+City of Buffalo	37.70911	-95.69721	US	KS
+City of Buhler	38.13873	-97.7706	US	KS
+City of Burden	37.31499	-96.75542	US	KS
+City of Burdett	38.19358	-99.52617	US	KS
+City of Burlingame	38.75165	-95.83471	US	KS
+City of Burns	38.08966	-96.8876	US	KS
+City of Burr Oak	39.87005	-98.30562	US	KS
+City of Burrton	38.0238	-97.67105	US	KS
+City of Bushong	38.64275	-96.25667	US	KS
+City of Bushton	38.51224	-98.39591	US	KS
+City of Byers	37.78765	-98.86697	US	KS
+City of Cimarron	37.80969	-100.34489	US	KS
+City of Circleville	39.50936	-95.85579	US	KS
+City of Claflin	38.52438	-98.53698	US	KS
+City of Clayton	39.73702	-100.17647	US	KS
+City of Clearwater	37.50852	-97.49739	US	KS
+City of Clifton	39.56797	-97.28059	US	KS
+City of Climax	37.71919	-96.22404	US	KS
+City of Clyde	39.59185	-97.40025	US	KS
+City of Coats	37.51117	-98.82497	US	KS
+City of Coldwater	37.25157	-99.35085	US	KS
+City of Collyer	39.03724	-100.11849	US	KS
+City of Colony	38.07115	-95.36263	US	KS
+City of Colwich	37.78182	-97.5363	US	KS
+City of Coolidge	38.04142	-102.00781	US	KS
+City of Copeland	37.54049	-100.62911	US	KS
+City of Corning	39.65659	-96.02875	US	KS
+City of Coyville	37.68722	-95.89575	US	KS
+City of Cuba	39.80209	-97.45731	US	KS
+City of Cullison	37.63032	-98.90527	US	KS
+City of Culver	38.96861	-97.75913	US	KS
+City of Cunningham	37.64465	-98.43097	US	KS
+City of Danville	37.28595	-97.89207	US	KS
+City of Canton	38.38594	-97.43004	US	KS
+City of Carbondale	38.81922	-95.69318	US	KS
+City of Carlton	38.68662	-97.29313	US	KS
+City of Cassoday	38.03924	-96.63827	US	KS
+City of Cedar	39.65712	-98.94015	US	KS
+City of Cedar Point	38.25995	-96.8212	US	KS
+City of Cedar Vale	37.10608	-96.50177	US	KS
+City of Centralia	39.72462	-96.1303	US	KS
+City of Chapman	38.97366	-97.02402	US	KS
+City of Chase	38.35522	-98.34851	US	KS
+City of Chautauqua	37.024	-96.17742	US	KS
+City of Cheney	37.63235	-97.77922	US	KS
+City of Abbyville	37.97034	-98.20401	US	KS
+City of Agenda	39.70724	-97.43222	US	KS
+City of Albert	38.45397	-99.01105	US	KS
+City of Alden	38.24386	-98.31199	US	KS
+City of Alexander	38.46929	-99.55297	US	KS
+City of Allen	38.65513	-96.16968	US	KS
+City of Altamont	37.18725	-95.29365	US	KS
+City of Alton	39.46772	-98.94862	US	KS
+City of Altoona	37.52509	-95.66156	US	KS
+City of Americus	38.50655	-96.26139	US	KS
+City of Andale	37.7915	-97.6275	US	KS
+City of Andover	37.68692	-97.13519	US	KS
+City of Arcadia	37.64117	-94.624	US	KS
+City of Argonia	37.26775	-97.76311	US	KS
+City of Arlington	37.89609	-98.17697	US	KS
+City of Arma	37.54282	-94.70228	US	KS
+City of Ashland	37.18675	-99.76969	US	KS
+City of Atlanta	37.43572	-96.76698	US	KS
+City of Attica	37.24278	-98.22759	US	KS
+City of Auburn	38.90723	-95.81619	US	KS
+City of Aurora	39.45192	-97.52988	US	KS
+City of Axtell	39.87127	-96.25664	US	KS
+City of Basehor	39.13414	-94.93242	US	KS
+City of Bassett	37.90639	-95.40748	US	KS
+City of Bazine	38.44606	-99.69275	US	KS
+City of Beattie	39.86236	-96.41779	US	KS
+City of Belle Plaine	37.39385	-97.27956	US	KS
+City of Belpre	37.95048	-99.09991	US	KS
+City of Belvue	39.21625	-96.17883	US	KS
+City of Benedict	37.62688	-95.74348	US	KS
+City of Bennington	39.0333	-97.59305	US	KS
+City of Bentley	37.88681	-97.51483	US	KS
+City of Benton	37.78798	-97.10778	US	KS
+City of Bern	39.96134	-95.97115	US	KS
+City of Beverly	39.01391	-97.9752	US	KS
+City of Bison	38.51977	-99.19783	US	KS
+City of Blue Mound	38.08896	-95.01004	US	KS
+City of Bogue	39.35948	-99.68776	US	KS
+City of Grenola	37.35052	-96.44933	US	KS
+City of Gridley	38.101	-95.88248	US	KS
+City of Gypsum	38.70576	-97.42686	US	KS
+City of Hamilton	37.98052	-96.16385	US	KS
+City of Hamlin	39.91553	-95.62721	US	KS
+City of Hanston	38.123	-99.71268	US	KS
+City of Hardtner	37.01473	-98.64932	US	KS
+City of Hartford	38.3081	-95.95668	US	KS
+City of Harveyville	38.78957	-95.96275	US	KS
+City of Havana	37.09207	-95.94236	US	KS
+City of Haven	37.90167	-97.7816	US	KS
+City of Havensville	39.51127	-96.07647	US	KS
+City of Haysville	37.56501	-97.35288	US	KS
+City of Hazelton	37.08942	-98.40133	US	KS
+City of Herndon	39.90879	-100.78601	US	KS
+City of Hesston	38.14036	-97.42166	US	KS
+City of Holcomb	37.98524	-100.99444	US	KS
+City of Hollenberg	39.98092	-96.99186	US	KS
+City of Holyrood	38.58753	-98.41193	US	KS
+City of Hope	38.69118	-97.07634	US	KS
+City of Horace	38.47681	-101.7904	US	KS
+City of Howard	37.46946	-96.26315	US	KS
+City of Hoxie	39.35577	-100.43973	US	KS
+City of Hoyt	39.24949	-95.70807	US	KS
+City of Hudson	38.10486	-98.66066	US	KS
+City of Hugoton	37.17534	-101.34679	US	KS
+City of Hunnewell	37.00464	-97.40752	US	KS
+City of Hunter	39.23499	-98.3963	US	KS
+City of Huron	39.64577	-95.34768	US	KS
+City of Dearing	37.05374	-95.69554	US	KS
+City of Delia	39.23931	-95.96485	US	KS
+City of Denison	39.39379	-95.62845	US	KS
+City of Denton	39.73188	-95.26952	US	KS
+City of Derby	37.55606	-97.25528	US	KS
+City of Dexter	37.17959	-96.71605	US	KS
+City of Dorrance	38.84674	-98.59024	US	KS
+City of Douglass	37.51778	-97.01028	US	KS
+City of Downs	39.50307	-98.54712	US	KS
+City of Dresden	39.62169	-100.41891	US	KS
+City of Dunlap	38.57611	-96.36746	US	KS
+City of Durham	38.48488	-97.22722	US	KS
+City of Dwight	38.84478	-96.59228	US	KS
+City of Earlton	37.58736	-95.46995	US	KS
+City of Eastborough	37.68552	-97.25912	US	KS
+City of Easton	39.3449	-95.11661	US	KS
+City of Edmond	39.62713	-99.81991	US	KS
+City of Elbing	38.05386	-97.12769	US	KS
+City of Elgin	37.00198	-96.28068	US	KS
+City of Elkhart	37.00375	-101.89421	US	KS
+City of Elmdale	38.37315	-96.64573	US	KS
+City of Elsmore	37.79415	-95.14983	US	KS
+City of Elwood	39.75254	-94.88751	US	KS
+City of Emmett	39.30725	-96.05728	US	KS
+City of Englewood	37.04006	-99.98672	US	KS
+City of Ensign	37.65306	-100.23312	US	KS
+City of Enterprise	38.90238	-97.11624	US	KS
+City of Erie	37.57171	-95.24205	US	KS
+City of Esbon	39.82202	-98.43394	US	KS
+City of Everest	39.67674	-95.42494	US	KS
+City of Fairview	39.83965	-95.72807	US	KS
+City of Fontana	38.424	-94.84328	US	KS
+City of Ford	37.63665	-99.75381	US	KS
+City of Formoso	39.77901	-97.99318	US	KS
+City of Frankfort	39.70393	-96.41697	US	KS
+City of Frederick	38.51253	-98.2676	US	KS
+City of Freeport	37.19889	-97.85436	US	KS
+City of Fulton	38.00979	-94.71976	US	KS
+City of Galatia	38.64117	-98.9579	US	KS
+City of Galesburg	37.47235	-95.35639	US	KS
+City of Galva	38.38359	-97.53813	US	KS
+City of Garden Plain	37.65921	-97.68123	US	KS
+City of Gas	37.92283	-95.34524	US	KS
+City of Gaylord	39.64628	-98.84731	US	KS
+City of Gem	39.42598	-100.89723	US	KS
+City of Geneseo	38.51699	-98.15447	US	KS
+City of Glade	39.68316	-99.31151	US	KS
+City of Glasco	39.36102	-97.83696	US	KS
+City of Glen Elder	39.50015	-98.30638	US	KS
+City of Goddard	37.66568	-97.56142	US	KS
+City of Goessel	38.24689	-97.34576	US	KS
+City of Goff	39.66411	-95.93178	US	KS
+City of Gorham	38.88069	-99.0236	US	KS
+City of Greeley	38.36774	-95.12718	US	KS
+City of Green	39.42998	-97.0001	US	KS
+City of Greenleaf	39.72726	-96.98023	US	KS
+City of Marquette	38.55569	-97.83439	US	KS
+City of Mayetta	39.33854	-95.72112	US	KS
+City of McCracken	38.58202	-99.56903	US	KS
+City of McCune	37.3538	-95.01938	US	KS
+City of McDonald	39.78473	-101.37014	US	KS
+City of McFarland	39.05459	-96.23786	US	KS
+City of McLouth	39.19592	-95.20838	US	KS
+City of Melvern	38.50743	-95.63771	US	KS
+City of Menlo	39.35611	-100.72427	US	KS
+City of Meriden	39.18962	-95.56767	US	KS
+City of Mound Valley	37.20715	-95.40474	US	KS
+City of Mulvane	37.47552	-97.23761	US	KS
+City of Munden	39.91272	-97.53841	US	KS
+City of Muscotah	39.55348	-95.52035	US	KS
+City of Narka	39.96	-97.4269	US	KS
+City of Nashville	37.43815	-98.42269	US	KS
+City of Natoma	39.1886	-99.0242	US	KS
+City of Neosho Rapids	38.36853	-95.99177	US	KS
+City of Netawaka	39.60298	-95.71894	US	KS
+City of New Albany	37.5674	-95.93585	US	KS
+City of New Cambria	38.87879	-97.50667	US	KS
+City of New Strawn	38.26202	-95.74235	US	KS
+City of Niotaze	37.06772	-96.01475	US	KS
+City of Norcatur	39.83475	-100.18877	US	KS
+City of Nortonville	39.41575	-95.33043	US	KS
+City of Norwich	37.4569	-97.84593	US	KS
+City of Oakley	39.12546	-100.85144	US	KS
+City of Ogden	39.11281	-96.70328	US	KS
+City of Oketo	39.96319	-96.59895	US	KS
+City of Milan	37.25751	-97.67392	US	KS
+City of Mildred	38.02468	-95.17397	US	KS
+City of Milford	39.1728	-96.91058	US	KS
+City of Miltonvale	39.3495	-97.45239	US	KS
+City of Montezuma	37.59254	-100.45033	US	KS
+City of Moran	37.9165	-95.17138	US	KS
+City of Morganville	39.46658	-97.20362	US	KS
+City of Morland	39.34893	-100.07427	US	KS
+City of Morrill	39.92909	-95.69478	US	KS
+City of Morrowville	39.84506	-97.17275	US	KS
+City of Moscow	37.32518	-101.20671	US	KS
+City of Ingalls	37.8286	-100.45348	US	KS
+City of Inman	38.23042	-97.77274	US	KS
+City of Isabel	37.46713	-98.5515	US	KS
+City of Iuka	37.72952	-98.73238	US	KS
+City of Jamestown	39.59947	-97.86125	US	KS
+City of Jennings	39.68055	-100.2932	US	KS
+City of Jetmore	37.98102	-99.88819	US	KS
+City of Johnson City	37.56989	-101.74431	US	KS
+City of Kanopolis	38.70813	-98.15802	US	KS
+City of Kanorado	39.33654	-102.03725	US	KS
+City of Kechi	37.79514	-97.28236	US	KS
+City of Kensington	39.76682	-99.03314	US	KS
+City of Kincaid	38.08126	-95.15529	US	KS
+City of Kiowa	37.01769	-98.48466	US	KS
+City of Kirwin	39.66934	-99.12249	US	KS
+City of Kismet	37.20448	-100.70181	US	KS
+City of La Crosse	38.53193	-99.30942	US	KS
+City of La Cygne	38.34726	-94.76024	US	KS
+City of Lakin	37.93972	-101.25872	US	KS
+City of Lancaster	39.57126	-95.30371	US	KS
+City of Lane	38.43989	-95.08168	US	KS
+City of Langdon	37.85304	-98.32432	US	KS
+City of Latham	37.53545	-96.64273	US	KS
+City of Latimer	38.73864	-96.8458	US	KS
+City of Lebanon	39.81021	-98.55732	US	KS
+City of Lebo	38.4158	-95.86217	US	KS
+City of Lecompton	39.03594	-95.39289	US	KS
+City of Lehigh	38.3742	-97.30247	US	KS
+City of Lenora	39.61089	-100.00132	US	KS
+City of Leon	37.69011	-96.784	US	KS
+City of Leona	39.78619	-95.32155	US	KS
+City of Leonardville	39.36411	-96.85963	US	KS
+City of Leoti	38.48335	-101.35733	US	KS
+City of LeRoy	38.08629	-95.63311	US	KS
+City of Lewis	37.93697	-99.25457	US	KS
+City of Liberty	37.15652	-95.59789	US	KS
+City of Liebenthal	38.65447	-99.32015	US	KS
+City of Lincolnville	38.49438	-96.96148	US	KS
+City of Linwood	39.00222	-95.03612	US	KS
+City of Lone Elm	38.07962	-95.24314	US	KS
+City of Longford	39.17219	-97.32906	US	KS
+City of Longton	37.37768	-96.08229	US	KS
+City of Lorraine	38.569	-98.31722	US	KS
+City of Louisville	39.24986	-96.31453	US	KS
+City of Luray	39.11487	-98.69212	US	KS
+City of Macksville	37.95722	-98.96884	US	KS
+City of Madison	38.13392	-96.1372	US	KS
+City of Mahaska	39.98768	-97.35376	US	KS
+City of Maize	37.77494	-97.46151	US	KS
+City of Manchester	39.092	-97.32136	US	KS
+City of Mankato	39.7874	-98.20821	US	KS
+City of Manter	37.52446	-101.88335	US	KS
+City of Mapleton	38.01557	-94.88337	US	KS
+City of Sharon	37.25003	-98.41771	US	KS
+City of Simpson	39.38603	-97.93401	US	KS
+City of Smolan	38.73771	-97.68409	US	KS
+City of Soldier	39.53728	-95.96561	US	KS
+City of Solomon	38.9214	-97.36935	US	KS
+City of South Haven	37.04982	-97.40089	US	KS
+City of South Hutchinson	38.0276	-97.94272	US	KS
+City of Spearville	37.84785	-99.75461	US	KS
+City of Speed	39.67655	-99.42108	US	KS
+City of Spivey	37.44842	-98.16576	US	KS
+City of Stafford	37.96237	-98.59933	US	KS
+City of Stark	37.68965	-95.1438	US	KS
+City of Stockton	39.43686	-99.27207	US	KS
+City of Sublette	37.48222	-100.8465	US	KS
+City of Susank	38.64057	-98.77452	US	KS
+City of Sylvia	37.95918	-98.40878	US	KS
+City of Syracuse	37.9531	-101.79155	US	KS
+City of Tampa	38.54807	-97.15406	US	KS
+City of Tescott	39.01278	-97.87815	US	KS
+City of Olivet	38.48141	-95.75207	US	KS
+City of Olmitz	38.51657	-98.93664	US	KS
+City of Olsburg	39.43183	-96.61471	US	KS
+City of Oneida	39.86662	-95.93987	US	KS
+City of Oskaloosa	39.21614	-95.31403	US	KS
+City of Otis	38.53486	-99.05354	US	KS
+City of Overbrook	38.77941	-95.5568	US	KS
+City of Oxford	37.27474	-97.16975	US	KS
+City of Ozawkie	39.2356	-95.4651	US	KS
+City of Palco	39.25321	-99.56355	US	KS
+City of Palmer	39.63339	-97.13983	US	KS
+City of Paradise	39.11446	-98.91844	US	KS
+City of Paxico	39.06885	-96.1671	US	KS
+City of Peabody	38.16832	-97.10462	US	KS
+City of Penalosa	37.71611	-98.31985	US	KS
+City of Perry	39.0729	-95.38683	US	KS
+City of Peru	37.08038	-96.0962	US	KS
+City of Plainville	39.23128	-99.30117	US	KS
+City of Plevna	37.97178	-98.30957	US	KS
+City of Pomona	38.61044	-95.453	US	KS
+City of Portis	39.56385	-98.69157	US	KS
+City of Potwin	37.93861	-97.01832	US	KS
+City of Powhattan	39.76159	-95.6339	US	KS
+City of Prairie View	39.83203	-99.57336	US	KS
+City of Preston	37.75829	-98.55548	US	KS
+City of Pretty Prairie	37.77878	-98.02279	US	KS
+City of Princeton	38.48769	-95.27064	US	KS
+City of Protection	37.20021	-99.48096	US	KS
+City of Quinter	39.06678	-100.23484	US	KS
+City of Radium	38.1738	-98.89447	US	KS
+City of Ramona	38.59775	-97.06376	US	KS
+City of Randall	39.64158	-98.04547	US	KS
+City of Randolph	39.42886	-96.75975	US	KS
+City of Ransom	38.63618	-99.93273	US	KS
+City of Rantoul	38.54803	-95.10098	US	KS
+City of Raymond	38.278	-98.41451	US	KS
+City of Reading	38.51916	-95.95753	US	KS
+City of Republic	39.92403	-97.8247	US	KS
+City of Rexford	39.47046	-100.74391	US	KS
+City of Richmond	38.40127	-95.25347	US	KS
+City of Riley	39.29907	-96.8275	US	KS
+City of Robinson	39.81522	-95.4115	US	KS
+City of Rolla	37.11784	-101.63193	US	KS
+City of Roseland	37.28033	-94.84409	US	KS
+City of Rossville	39.13538	-95.94928	US	KS
+City of Rozel	38.19545	-99.40249	US	KS
+City of Saint Francis	39.77148	-101.8015	US	KS
+City of Saint George	39.19174	-96.41865	US	KS
+City of Saint John	37.99984	-98.76057	US	KS
+City of Saint Marys	39.19422	-96.06465	US	KS
+City of Saint Paul	37.51829	-95.17482	US	KS
+City of Satanta	37.4379	-100.98758	US	KS
+City of Savonburg	37.74894	-95.14289	US	KS
+City of Sawyer	37.49795	-98.68225	US	KS
+City of Schoenchen	38.71283	-99.33176	US	KS
+City of Scott City	38.47813	-100.90213	US	KS
+City of Scottsville	39.54258	-97.9523	US	KS
+City of Sedgwick	37.91574	-97.42139	US	KS
+City of Selden	39.54145	-100.56718	US	KS
+City of Severance	39.76682	-95.24923	US	KS
+City of Seward	38.17782	-98.79428	US	KS
+City of Timken	38.47309	-99.17755	US	KS
+City of Tipton	39.33953	-98.47082	US	KS
+City of Tonganoxie	39.10842	-95.08256	US	KS
+City of Toronto	37.79852	-95.94961	US	KS
+City of Towanda	37.79655	-96.992	US	KS
+City of Treece	37.00049	-94.84369	US	KS
+City of Tribune	38.47186	-101.75453	US	KS
+City of Troy	39.78478	-95.09373	US	KS
+City of Turon	37.80756	-98.42798	US	KS
+City of Tyro	37.03725	-95.82124	US	KS
+City of Udall	37.38902	-97.11755	US	KS
+City of Uniontown	37.84726	-94.97575	US	KS
+City of Utica	38.64264	-100.16986	US	KS
+City of Vining	39.56747	-97.29364	US	KS
+City of Viola	37.48287	-97.64441	US	KS
+City of Virgil	37.98073	-96.01164	US	KS
+City of WaKeeney	39.02363	-99.88169	US	KS
+City of Waldo	39.11992	-98.79795	US	KS
+City of Waldron	37.00175	-98.18255	US	KS
+City of Wallace	38.91265	-101.59298	US	KS
+City of Walnut	37.60018	-95.07481	US	KS
+City of Walton	38.1194	-97.2582	US	KS
+City of Wamego	39.20528	-96.31042	US	KS
+City of Waterville	39.69202	-96.74726	US	KS
+City of Wathena	39.76038	-94.93985	US	KS
+City of Waverly	38.39614	-95.60468	US	KS
+City of Webber	39.93442	-98.03515	US	KS
+City of Westmoreland	39.39434	-96.41377	US	KS
+City of Westphalia	38.182	-95.49077	US	KS
+City of Wetmore	39.63558	-95.81137	US	KS
+City of Wheaton	39.50217	-96.31883	US	KS
+City of White Cloud	39.97437	-95.29898	US	KS
+City of Whitewater	37.96339	-97.14622	US	KS
+City of Willard	39.09391	-95.94334	US	KS
+City of Williamsburg	38.48249	-95.47102	US	KS
+City of Willis	39.72271	-95.5057	US	KS
+City of Willowbrook	38.10114	-97.99195	US	KS
+City of Wilmore	37.33544	-99.20933	US	KS
+City of Wilsey	38.63581	-96.67644	US	KS
+City of Wilson	38.82533	-98.47492	US	KS
+City of Winchester	39.32259	-95.26894	US	KS
+City of Windom	38.3842	-97.91096	US	KS
+City of Winona	39.06178	-101.24511	US	KS
+City of Woodbine	38.79557	-96.95935	US	KS
+City of Woodston	39.45397	-99.09858	US	KS
+City of Zenda	37.44469	-98.28165	US	KS
+City of Zurich	39.23214	-99.43469	US	KS
+Franklin Sidewalk	37.5326	-94.7049	US	KS
+ANW Special Education Cooperative	37.81094	-95.43798	US	KS
+Saint Peter's Cathedral	39.11015	-94.64514	US	KS
+Pioneer Stadium	38.8702	-94.7809	US	KS
+Central Baptist Theological Seminary	39.11381	-94.66374	US	KS
+First Presbyterian Head Start	39.12533	-94.67619	US	KS
+Muncie Head Start	39.10173	-94.72742	US	KS
+Heartland Programs Head Start	38.80299	-97.61901	US	KS
+Learning Cooperative of North Central Kansas	39.56908	-97.64966	US	KS
+Western Plains Medical Complex	37.78627	-100.01736	US	KS
+Labette Health	37.32112	-95.26443	US	KS
+Kansas Highway Patrol Troop F Butler	37.67831	-97.07981	US	KS
+Kansas Highway Patrol Troop B Headquarters	39.06617	-95.7227	US	KS
+Kansas Highway Patrol Headquarters	39.05074	-95.67508	US	KS
+Kansas State Gaming Agency	39.05135	-95.66801	US	KS
+Kansas Highway Patrol Troop A Headquarters	38.86504	-94.80824	US	KS
+Kansas Bureau of Investigation	39.03752	-95.68395	US	KS
+Kansas Highway Patrol Troop B Osage	38.61872	-95.6864	US	KS
+Kansas Highway Patrol Troop B Pottawatomie	39.20152	-96.30605	US	KS
+Kansas Highway Patrol Troop C Marion	38.35909	-97.20507	US	KS
+Kansas Highway Patrol Troop H Greenwood	37.82179	-96.29472	US	KS
+Kansas Highway Patrol Troop H Lyon	38.41787	-96.17904	US	KS
+Kansas Highway Patrol Troop C Morris	38.65786	-96.50103	US	KS
+Kansas Highway Patrol Troop D Russell	38.87137	-98.85893	US	KS
+Kansas Highway Patrol Troop E Kiowa	37.60782	-99.28257	US	KS
+Kansas Highway Patrol Troop F Headquarters	37.76718	-97.29819	US	KS
+Kansas Highway Patrol Troop C Lincoln	39.04098	-98.14478	US	KS
+Kansas Highway Patrol Troop F Stafford	38.00121	-98.75995	US	KS
+Kansas Highway Patrol Troop H Wilson	37.54713	-95.8223	US	KS
+Kansas Highway Patrol Troop D Trego	39.02094	-99.89076	US	KS
+Kansas Highway Patrol Troop E Grant	37.57593	-101.36206	US	KS
+Kansas Highway Patrol Troop C Headquarters	38.84221	-97.57804	US	KS
+Kansas Highway Patrol Troop B	39.85258	-95.53319	US	KS
+Kansas Highway Patrol Troop E Zone 2	37.81778	-100.3482	US	KS
+Kansas Highway Patrol Troop H Lawrence	38.99068	-95.23516	US	KS
+Kansas Highway Patrol Troop D Headquarters	38.90952	-99.35349	US	KS
+Kansas Highway Patrol Troop C Zone M	39.79857	-97.65303	US	KS
+Kansas Highway Patrol Troop H Chanute	37.66689	-95.45808	US	KS
+United States Government Drug Enforcement Administration Garden City	37.98865	-100.84773	US	KS
+Kansas Highway Patrol Troop F	37.64872	-98.09973	US	KS
+Kansas Highway Patrol Troop E Headquarters	37.95999	-100.84442	US	KS
+Kansas Highway Patrol Troop D Zone C	39.4334	-99.2779	US	KS
+Kansas Highway Patrol Troop F	37.15349	-98.02937	US	KS
+Kansas Highway Patrol Troop F	38.05773	-97.32794	US	KS
+Kansas Highway Patrol Troop C	38.36903	-97.63396	US	KS
+Kansas Bureau of Investigations	38.35782	-98.77461	US	KS
+Kansas Bureau of Investigations	39.01555	-94.67461	US	KS
+Kansas Highway Patrol Troop H Iola	37.92256	-95.40465	US	KS
+Kansas Bureau of Investigations	37.68568	-97.33639	US	KS
+United States Government Drug Enforcement Administration Topeka	39.0532	-95.67185	US	KS
+Kansas Highway Patrol Troop B Doniphan	39.78275	-95.09877	US	KS
+Kansas Highway Patrol Troop D Logan	39.12694	-100.86167	US	KS
+Kansas Highway Patrol Troop E Rush	38.5302	-99.31143	US	KS
+Kansas Highway Patrol Troop B Nemaha	39.83705	-96.06458	US	KS
+Kansas Highway Patrol Troop A Miami	38.61988	-94.75077	US	KS
+Kansas Highway Patrol Troop B Jackson	39.46111	-95.74709	US	KS
+Kansas Highway Patrol Troop F Pratt	37.64335	-98.73721	US	KS
+Hodgeman Jail	38.0841	-99.89315	US	KS
+United States Penitentiary Leavenworth Kansas	39.3299	-94.93648	US	KS
+Parsons City Jail	37.34221	-95.26361	US	KS
+Kansas Juvenile Correctional Complex	39.09659	-95.68127	US	KS
+Wyandotte Clinic	39.11684	-94.62152	US	KS
+Kansas City Orthopaedic Institute	38.92667	-94.62825	US	KS
+The Rehabilitation Institute South	38.88599	-94.67061	US	KS
+Olathe Medical Clinic	38.89855	-94.80344	US	KS
+Fellowship Acres	38.9559	-94.6266	US	KS
+Buu Quang Temple	37.60119	-97.31658	US	KS
+Bel Aire Recreation Complex	37.76995	-97.27472	US	KS
+Overbrook Water Tower	38.77754	-95.55207	US	KS
+Carbondale Water Tower	38.81832	-95.68775	US	KS
+Clearwater Water Tower	37.50527	-97.49736	US	KS
+Kechi Water Tower	37.79647	-97.28273	US	KS
+Andale Water Tower	37.79386	-97.6254	US	KS
+Tensquatawa Burial Ground	39.0716	-94.6736	US	KS
+Cotton - O'Neil Meriden Clinic	39.18707	-95.56411	US	KS
+The Salvation Army	38.88422	-94.815	US	KS
+Metzger Nursery	38.99217	-95.73077	US	KS
+Jerry's Nursery and Landscaping	39.18411	-94.89951	US	KS
+Wat Wichitaram Buddhist Temple	37.78002	-97.33687	US	KS
+Topeka Art Guild Gallery	39.02747	-95.74836	US	KS
+Loma Vista Nursery	38.82433	-95.34379	US	KS
+Scenic Landscape Water Garden Nursery	37.67884	-97.41103	US	KS
+Kokopelli Wholesale Nursery	38.96072	-94.85627	US	KS
+Christs Outreach Ministries	39.07967	-94.80638	US	KS
+Loma Vista Nursery	38.86828	-94.73588	US	KS
+Assisted Lifestyles of Kansas	38.89097	-94.82741	US	KS
+Botanica - The Wichita Garden	37.69529	-97.36377	US	KS
+Lawrence Chamber of Commerce	38.97159	-95.23678	US	KS
+Gabler's Nursery	38.98112	-94.66692	US	KS
+Family Tree Nursery	38.97569	-94.70095	US	KS
+Hong's Landscape and Nursery	37.63655	-97.23414	US	KS
+Cedar Crest	39.066	-95.74676	US	KS
+Brown v. Board of Education National Historic Site	39.03793	-95.67641	US	KS
+Alice C Sabatini Gallery	39.05049	-95.69634	US	KS
+E F A Reinisch Rose Garden	39.05185	-95.72536	US	KS
+Evangelical Assembly of God	37.72383	-97.47548	US	KS
+Sunrise Assisted Living of Leawood	38.91903	-94.63916	US	KS
+Mission Gardens Nursery	38.8825	-94.68777	US	KS
+Vinland Valley Nursery	38.82707	-95.20341	US	KS
+Shawnee Heartland Assisted Living Residence	38.99791	-94.77335	US	KS
+Scranton Water Tower	38.78057	-95.73834	US	KS
+Sunrise Assisted Living of Lenexa	38.97047	-94.7604	US	KS
+United States Penitentiary Leavenworth Kansas	39.33096	-94.93604	US	KS
+McLouth Medical Clinic	39.19577	-95.20857	US	KS
+De Soto Chamber of Commerce	38.97839	-94.96961	US	KS
+Shawnee Mission State Historic Site	39.03266	-94.62451	US	KS
+Joe's Market and Nursery	38.87794	-94.83416	US	KS
+Brooks Landfill	37.7462	-97.39027	US	KS
+Eudora Water Treatment Facilty	38.94678	-95.10528	US	KS
+Fort Riley North	39.11081	-96.81392	US	KS
+Interchange 11	39.08722	-94.80165	US	KS
+Interchange 12A and 12B	39.10655	-94.81145	US	KS
+Interchange 13A and 13B	39.11637	-94.8812	US	KS
+Interchange 13A and 13B	39.11629	-94.81186	US	KS
+Interchange 14A and 14B	39.1286	-94.81659	US	KS
+Interchange 15A and 15B	39.14295	-94.82015	US	KS
+Interchange 18	39.17945	-94.79897	US	KS
+Interchange 1A	38.94306	-94.76498	US	KS
+Interchange 1B	38.94616	-94.77189	US	KS
+Interchange 2	38.95765	-94.77502	US	KS
+Interchange 210	38.85515	-94.81577	US	KS
+Interchange 215	38.87038	-94.79732	US	KS
+Interchange 218	38.88371	-94.79126	US	KS
+Interchange 220	38.91274	-94.77125	US	KS
+Interchange 224	38.95646	-94.7327	US	KS
+Interchange 225A	38.97113	-94.71876	US	KS
+Interchange 225B	38.98216	-94.7084	US	KS
+Interchange 227	38.99309	-94.69785	US	KS
+Interchange 228A	39.00764	-94.69389	US	KS
+Interchange 228B and 228C	39.01486	-94.69316	US	KS
+Interchange 229	39.02224	-94.69177	US	KS
+Interchange 230	39.03243	-94.68773	US	KS
+Interchange 231	39.04034	-94.6721	US	KS
+Interchange 232A	39.04489	-94.65629	US	KS
+Interchange 232B and 232C	39.04762	-94.64634	US	KS
+Interchange 233	39.0577	-94.62832	US	KS
+Interchange 233B	39.06244	-94.62587	US	KS
+Interchange 234	39.07093	-94.61912	US	KS
+Interchange 235	39.07565	-94.60833	US	KS
+Interchange 2A	39.07324	-94.6805	US	KS
+Interchange 2B	39.07923	-94.68052	US	KS
+Interchange 3	38.97093	-94.77636	US	KS
+Interchange 3	39.09241	-94.68057	US	KS
+Interchange 4	39.10239	-94.67969	US	KS
+Interchange 410	39.10599	-94.83507	US	KS
+Interchange 411	39.10657	-94.8113	US	KS
+Interchange 414	39.10507	-94.7605	US	KS
+Interchange 415	39.10619	-94.73928	US	KS
+Interchange 417	39.10524	-94.70979	US	KS
+Interchange 418	39.10408	-94.67808	US	KS
+Interchange 419	39.10026	-94.66966	US	KS
+Interchange 420	39.0962	-94.6494	US	KS
+Interchange 422B	39.09224	-94.62883	US	KS
+Interchange 422C and 422D	39.11417	-94.61694	US	KS
+Interchange 422D	39.10252	-94.62156	US	KS
+Interchange 5	38.99991	-94.78263	US	KS
+Interchange 5A and 5B	39.11667	-94.68179	US	KS
+Interchange 6A and 6B	39.0107	-94.785	US	KS
+Interchange 6C	39.02181	-94.78555	US	KS
+Interchange 7	39.14291	-94.67096	US	KS
+Interchange 77A	38.93262	-94.63963	US	KS
+Interchange 77B	38.93175	-94.64891	US	KS
+Interchange 79	38.93199	-94.66769	US	KS
+Interchange 8	39.14668	-94.65699	US	KS
+Interchange 81	38.9352	-94.70498	US	KS
+Interchange 82	38.93515	-94.72364	US	KS
+Interchange 8A	39.04342	-94.78933	US	KS
+Interchange 8B	39.05106	-94.7901	US	KS
+Interchange 9	39.06181	-94.79194	US	KS
+Fort Leavenworth	39.35684	-94.91529	US	KS
+Fort Riley	39.05833	-96.82155	US	KS
+McConnell Air Force Base	37.62639	-97.25671	US	KS
+Clinton Marina	38.93283	-95.35236	US	KS
+Oaklawn-Sunview CDP	37.60841	-97.29846	US	KS
+South Edgewater	38.85884	-94.666	US	KS
+Shops at Tallgrass	37.7239	-97.2406	US	KS
+Midtown Centre	39.2919	-94.9074	US	KS
+Nall Valley Shops	38.85547	-94.64787	US	KS
+The Shops at Iron Horse Centre	38.85418	-94.64637	US	KS
+The Shops of Sedona	38.88426	-94.74668	US	KS
+Leawood Executive Centre	38.92671	-94.63842	US	KS
+Metcalf View	38.9359	-94.6666	US	KS
+Oak Valley West	39.02697	-94.85504	US	KS
+Regents Village	38.90107	-94.72461	US	KS
+Shops of Sunnybrook	38.92562	-94.83768	US	KS
+Topeka Civic Theatre	39.05568	-95.71466	US	KS
+Fairway North Shops	39.04349	-94.61728	US	KS
+The Roe Shops	39.03549	-94.64122	US	KS
+Switzer Shops	38.99251	-94.70467	US	KS
+Four Winds Shops	38.98455	-94.70426	US	KS
+Glenwood Shops	38.96348	-94.6656	US	KS
+The Shops of Sunnybrook	38.92607	-94.83576	US	KS
+The Shops at Corporate Woods	38.92832	-94.69897	US	KS
+Dennis Avenue Shops	38.86853	-94.81942	US	KS
+Bonner Shops	39.06123	-94.87601	US	KS
+Avignon Village Shops	38.91357	-94.74901	US	KS
+Kaw Drive Shops	39.06026	-94.87656	US	KS
+Leawood Shops	38.98386	-94.61348	US	KS
+Roe 89 Shops	38.96774	-94.63923	US	KS
+Santa Fe Shops	38.81066	-94.88972	US	KS
+Monrovia Shops	39.01414	-94.72825	US	KS
+The Shops at Shawnee	39.00691	-94.76258	US	KS
+8th and Vine	38.86472	-99.31694	US	KS
+City of Bucklin	37.5488	-99.63452	US	KS
+City of Cawker City	39.50957	-98.43305	US	KS
+City of Cherokee	37.34507	-94.82157	US	KS
+City of Admire	38.64093	-96.10206	US	KS
+City of Agra	39.76145	-99.11962	US	KS
+City of Alma	39.01552	-96.28754	US	KS
+City of Almena	39.8913	-99.7097	US	KS
+City of Alta Vista	38.86304	-96.48896	US	KS
+City of Assaria	38.68018	-97.6042	US	KS
+City of Athol	39.76616	-98.91981	US	KS
+City of Atwood	39.81026	-101.04192	US	KS
+City of Bluff City	37.07602	-97.87491	US	KS
+City of Hanover	39.89306	-96.87607	US	KS
+City of Hepler	37.66203	-94.96964	US	KS
+City of Highland	39.86037	-95.26498	US	KS
+City of Delphos	39.27448	-97.76578	US	KS
+City of Dighton	38.48111	-100.46643	US	KS
+City of Edna	37.05872	-95.35887	US	KS
+City of Effingham	39.52236	-95.39772	US	KS
+City of Fowler	37.38281	-100.19562	US	KS
+City of Gove City	38.95933	-100.48707	US	KS
+City of Meade	37.28517	-100.33745	US	KS
+City of Ness City	38.45395	-99.90571	US	KS
+City of North Newton	38.07675	-97.34719	US	KS
+City of Offerle	37.8908	-99.56054	US	KS
+City of Moline	37.36363	-96.30245	US	KS
+City of Jewell	39.67159	-98.15222	US	KS
+City of Labette	37.23	-95.18355	US	KS
+City of Logan	39.6616	-99.56719	US	KS
+City of Lucas	39.05862	-98.53784	US	KS
+City of Lyndon	38.6115	-95.68462	US	KS
+City of Strong City	38.39553	-96.53697	US	KS
+City of Thayer	37.48825	-95.47404	US	KS
+City of Olpe	38.26199	-96.16587	US	KS
+City of Onaga	39.4893	-96.17012	US	KS
+City of Plains	37.26424	-100.58976	US	KS
+City of Pleasanton	38.18	-94.70751	US	KS
+City of Prescott	38.06312	-94.69272	US	KS
+City of Quenemo	38.58042	-95.52681	US	KS
+City of Scandia	39.79683	-97.78399	US	KS
+City of Scranton	38.77776	-95.74034	US	KS
+City of Sedan	37.12837	-96.18489	US	KS
+City of Severy	37.62197	-96.22751	US	KS
+City of Ulysses	37.57721	-101.35467	US	KS
+City of Victoria	38.85345	-99.14735	US	KS
+City of Wellsville	38.71641	-95.08074	US	KS
+City of White City	38.7939	-96.73501	US	KS
+City of Whiting	39.58786	-95.61117	US	KS
+Kansas Speedway	39.116	-94.83103	US	KS
+KANH - FM (Emporia)	38.36226	-96.11672	US	KS
+YWCA of Topeka	39.04324	-95.67913	US	KS
+Kaw Mission	38.66593	-96.49388	US	KS
+Kansas National Guard Armory Abilene	38.92138	-97.23001	US	KS
+Kansas National Guard Armory Augusta	37.69778	-96.97303	US	KS
+Kansas National Guard Armory Concordia	39.55073	-97.65474	US	KS
+Kansas National Guard Armory Dodge City	37.77209	-100.01743	US	KS
+Kansas National Guard Armory Emporia	38.42066	-96.18237	US	KS
+Kansas National Guard Armory Hays	38.86603	-99.3336	US	KS
+Kansas National Guard Armory Hiawatha	39.85361	-95.52771	US	KS
+Kansas National Guard Armory Holton	39.46263	-95.74896	US	KS
+Kansas National Guard Armory Hutchinson	38.06554	-97.91363	US	KS
+Kansas National Guard Armory Junction City	39.04247	-96.83817	US	KS
+Kansas National Guard Armory Lawrence	38.9797	-95.25982	US	KS
+Kansas National Guard Armory Lenexa	38.97224	-94.7968	US	KS
+Kansas National Guard Armory Marysville	39.84372	-96.63438	US	KS
+Kansas National Guard Armory Newton	38.04649	-97.35892	US	KS
+Kansas National Guard Armory Nickell	39.02154	-95.68186	US	KS
+Kansas National Guard Armory Norton	39.84277	-99.88948	US	KS
+Kansas National Guard Armory Olathe	38.86426	-94.84311	US	KS
+Kansas National Guard Armory Ottawa	38.58998	-95.27154	US	KS
+Kansas National Guard Armory Pratt	37.64452	-98.73212	US	KS
+Kansas National Guard Armory Salina	38.78513	-97.64075	US	KS
+Kansas National Guard Armory Wichita East	37.6953	-97.2709	US	KS
+Kansas National Guard Armory Wichita South	37.62926	-97.35327	US	KS
+Kansas National Guard Armory Wichita West	37.68358	-97.38421	US	KS
+KKLO - AM (Leavenworth)	39.27336	-94.90751	US	KS
+KCSP - AM (Mission)	38.98416	-94.62858	US	KS
+KNGL - AM (McPherson)	38.33845	-97.66786	US	KS
+KAIR - FM (Atchison)	39.62922	-95.31572	US	KS
+KAHS - AM (Wichita)	37.81464	-96.81452	US	KS
+KGSO - AM (Wichita)	37.7352	-97.35143	US	KS
+KNSS - AM (Wichita)	37.713	-97.24779	US	KS
+KFH - AM (Wichita)	37.71823	-97.3184	US	KS
+KCZZ - AM (Kansas City)	39.06866	-94.70285	US	KS
+KMBZ - AM (Mission)	39.03812	-94.61496	US	KS
+KNNS - AM (Larned)	38.16518	-99.10182	US	KS
+KXTR - AM (Mission)	39.03812	-94.61496	US	KS
+KSMI - LPTV (Wichita)	37.69801	-97.31977	US	KS
+KSNP - FM (Burlington)	38.16585	-95.53965	US	KS
+KSAJ - FM (Abilene)	38.79715	-97.21713	US	KS
+KREP - FM (Belleville)	39.75022	-97.61385	US	KS
+KSEK - FM (Girard)	37.48418	-94.85237	US	KS
+KGCR - FM (Brewster)	39.36727	-101.44589	US	KS
+KKRK - FM (Coffeyville)	37.10794	-95.72279	US	KS
+KGGF - FM (Neodesha)	37.37269	-95.72716	US	KS
+KACY - FM (Arkansas City)	37.08452	-96.93	US	KS
+KUSN - FM (Coffeyville)	37.10794	-95.72279	US	KS
+KINZ - FM (Chanute)	37.74786	-95.561	US	KS
+KSAS - TV (Wichita)	37.77788	-97.51049	US	KS
+KAAS - TV (Abilene)	39.10446	-97.38767	US	KS
+KSAS - LPTV (Dodge City)	37.77966	-100.06111	US	KS
+KTMJ - TV (Topeka)	39.02603	-95.91723	US	KS
+KTKA - TV (Topeka)	39.02603	-95.91722	US	KS
+KLBY - TV (Garden City)	39.25263	-101.35291	US	KS
+KWCH - TV (Burrton)	38.0605	-97.76381	US	KS
+KBSD - TV (Dodge City)	37.64122	-100.34478	US	KS
+KBSH - TV (Hays)	38.8836	-99.33769	US	KS
+KUJH - TV (Lawrence)	38.95363	-95.26985	US	KS
+KSCW - TV (Burrton)	38.06049	-97.76383	US	KS
+KMTW - TV (Wichita)	37.93936	-97.51181	US	KS
+KDCK - TV (Dodge City)	37.82587	-100.17876	US	KS
+KOCW - TV (Wichita)	38.63135	-98.84741	US	KS
+KMAJ - AM (Topeka)	39.01862	-95.57308	US	KS
+KSMM - AM (Liberal)	37.06522	-100.86671	US	KS
+KACZ - FM (Manhattan)	39.22619	-96.61695	US	KS
+KANR - FM (Wichita)	37.33639	-97.46433	US	KS
+KANV - FM (Junction City)	39.01501	-96.8986	US	KS
+KBBE - FM (McPherson)	38.33846	-97.66786	US	KS
+KBCU - FM (North Newton)	38.07356	-97.34314	US	KS
+KBGL - FM (Albert)	38.45163	-99.16802	US	KS
+KBLS - FM (Manhattan)	38.95081	-96.79612	US	KS
+KBTL - FM (El Dorado)	37.80574	-96.88267	US	KS
+KCFN - FM (Newton)	38.01989	-97.38463	US	KS
+KCVT - FM (Topeka)	39.14494	-95.92716	US	KS
+KCVW - FM (Pretty Prairie)	37.80051	-97.94688	US	KS
+KDGS - FM (Wichita)	37.61681	-97.33671	US	KS
+KERP - FM (Dodge City)	37.94167	-100.31279	US	KS
+KFBZ - FM (Colwich)	37.80019	-97.52506	US	KS
+KFFX - FM (Emporia)	38.38596	-96.17642	US	KS
+KFH - FM (Wichita)	37.40307	-97.5897	US	KS
+KFIX - FM (Hays)	39.02081	-99.47063	US	KS
+KFTI - FM (Newton)	38.01989	-97.38463	US	KS
+KFXJ - FM (Kechi)	37.80428	-97.26819	US	KS
+KFXX - FM (Ulysses)	37.31607	-101.33821	US	KS
+KHAZ - FM (Hays)	38.94254	-99.35554	US	KS
+KHCA - FM (Manhattan)	39.21104	-96.3528	US	KS
+KHCD - FM (Longford)	39.10447	-97.38768	US	KS
+KHCT - FM (Olmitz)	38.61734	-98.94298	US	KS
+KHMY - FM (Plevna)	37.92839	-98.31071	US	KS
+KHYM - FM (Copeland)	37.47615	-100.60032	US	KS
+KIBB - FM (Colwich)	37.8002	-97.52506	US	KS
+KJIL - FM (Copeland)	37.47615	-100.60032	US	KS
+KJRL - FM (Herington)	38.61738	-96.98633	US	KS
+KJTY - FM (Topeka)	39.03939	-95.44995	US	KS
+KKCI - FM (Goodland)	39.38989	-101.56037	US	KS
+KKJQ - FM (Cimarron)	37.77989	-100.46098	US	KS
+KKQY - FM (Hays)	39.02081	-99.47063	US	KS
+KLDG - FM (Liberal)	37.04581	-101.10194	US	KS
+KLKC - FM (Parsons)	37.34315	-95.23199	US	KS
+KMXN - FM (Overbrook)	38.73949	-95.55205	US	KS
+KMZA - FM (Seneca)	39.82587	-96.02964	US	KS
+KNDY - FM (Marysville)	39.95917	-96.7351	US	KS
+KOMB - FM (Fort Scott)	37.90771	-94.76747	US	KS
+KOTE - FM (Eureka)	37.79124	-96.29018	US	KS
+KPRD - FM (Great Bend)	38.77112	-98.73801	US	KS
+KQLA - FM (Junction City)	39.15553	-96.61253	US	KS
+KQNK - FM (Norton)	39.79755	-99.89169	US	KS
+KRBB - FM (Wichita)	37.77788	-97.51051	US	KS
+KSAL - FM (Salina)	38.87644	-97.72109	US	KS
+KSCB - FM (Liberal)	37.04581	-101.10194	US	KS
+KSKL - FM (Scott City)	38.52533	-100.9081	US	KS
+KSKZ - FM (Cimarron)	37.77989	-100.46098	US	KS
+KSMM - FM (Liberal)	37.05521	-100.81151	US	KS
+KSOB - FM (Larned)	38.16518	-99.10182	US	KS
+KSOK - FM (Arkansas City)	37.07564	-96.93721	US	KS
+KSSA - FM (Cimarron)	37.77989	-100.46098	US	KS
+KTHR - FM (Wichita)	37.77788	-97.51051	US	KS
+KTLI - FM (Potwin)	37.93897	-96.98882	US	KS
+KVCY - FM (Fort Scott)	37.87858	-94.72349	US	KS
+KVOB - FM (Salina)	38.66611	-97.69202	US	KS
+KVOE - FM (Emporia)	38.36227	-96.11672	US	KS
+KWGB - FM (Goodland)	39.38989	-101.56037	US	KS
+KWIC - FM (Topeka)	39.064	-95.76374	US	KS
+KWKR - FM (Leoti)	38.27785	-101.29936	US	KS
+KWME - FM (Wellington)	37.24021	-97.40167	US	KS
+KXKU - FM (Hutchinson)	38.26296	-97.90267	US	KS
+KZAN - FM (Hays)	38.95809	-99.35213	US	KS
+KZCH - FM (Wichita)	37.71823	-97.3184	US	KS
+KZQD - FM (Liberal)	37.04814	-100.90979	US	KS
+KZRD - FM (Dodge City)	37.93213	-100.31742	US	KS
+KZRS - FM (Great Bend)	38.77112	-98.73802	US	KS
+KZSN - FM (Colwich)	37.79626	-97.53349	US	KS
+KZUH - FM (Salina)	39.01494	-97.62901	US	KS
+Congregation Beth Sholom	38.87096	-94.66352	US	KS
+Sickler Airstrip	38.43057	-96.08833	US	KS
+Ingels Aerodrome	39.01861	-94.95441	US	KS
+Mc Connell Air Force Base	37.63045	-97.26064	US	KS
+Alton Bluffs	39.4525	-98.94778	US	KS
+Higgins Bluff	39.55694	-98.52111	US	KS
+Pilot Mound	39.34417	-98.97704	US	KS
+Sunny Slope Mound	39.27639	-98.73583	US	KS
+Sunset Memory Gardens	39.59777	-95.13538	US	KS
+Apostolic Faith Tabernacle	38.07189	-97.90541	US	KS
+Community of Christ	37.23762	-96.98467	US	KS
+Cornerstone Fellowship	38.37595	-98.75784	US	KS
+Harvest Christian Fellowship	39.22392	-99.29765	US	KS
+Iglesia de Cristo Maranatha Elim	37.04864	-100.92702	US	KS
+Temple Victory	38.62911	-95.26279	US	KS
+Templo Puerta del Cielo Asambleas de Dios	37.04559	-100.92401	US	KS
+Vineyard Christian Fellowship	37.33934	-95.26184	US	KS
+Wellington Baptist Temple	37.27539	-97.40982	US	KS
+Apostolic Truth Tabernacle	37.5908	-101.36417	US	KS
+Berean Christian Mission	37.22019	-95.72258	US	KS
+Cana Tabernacle	37.02681	-94.7409	US	KS
+Cathedral of Our Lady of Guadalupe	37.79357	-100.03494	US	KS
+Community of Christ	37.82164	-94.71043	US	KS
+Community of Christ	37.40212	-94.7072	US	KS
+Faith Tabernacle	37.97218	-100.87605	US	KS
+Grace Baptist Tabernacle	37.8364	-94.69845	US	KS
+Iglesia Bautista Emanual	37.76114	-100.00496	US	KS
+Iglesia del Senor	37.97085	-100.87228	US	KS
+Iglesia Luterana la Resurreccion	37.97069	-100.87864	US	KS
+Iglesia Nueva Ezperanza	37.75611	-100.01556	US	KS
+Mission Christiana Elim	37.97413	-100.84095	US	KS
+New Covenant Fellowship	37.48144	-100.84327	US	KS
+Plains Christian Chruch	37.26083	-100.59349	US	KS
+Primera Iglesia Bautista Ulysses	37.58389	-101.36286	US	KS
+Templo Calvario	37.96989	-100.87473	US	KS
+Templo la Hermosa	37.74111	-100.01416	US	KS
+Templo Nueva Vida	37.58814	-101.35969	US	KS
+Tu Quang Buddist Temple	37.96747	-100.86269	US	KS
+Verdigris Valley Christian Fellowship	37.53036	-95.6603	US	KS
+Victory Life Fellowship	37.74037	-100.03255	US	KS
+Faith Word Fellowship	38.85862	-97.6128	US	KS
+Centro Cristiano de Emporia de las Asambleas de Dios	38.40891	-96.18235	US	KS
+Iglesia Centro Hispano Maranatha	39.02889	-96.83178	US	KS
+Primera Asamblea de Dios	37.97054	-100.88555	US	KS
+Living Water Fellowship Ministries	39.75038	-101.53327	US	KS
+Community Bible Fellowship	37.28863	-98.55223	US	KS
+Extreme Hope Christian Fellowship	38.36684	-98.76715	US	KS
+Christ Episcopal Cathedral	38.83921	-97.61213	US	KS
+New Covenant Fellowship	38.53087	-99.30768	US	KS
+Community of Christ	38.82686	-97.61463	US	KS
+Community of Christ	39.18751	-96.56177	US	KS
+Community of Christ	37.68762	-95.46539	US	KS
+Community of Christ	37.92161	-95.36508	US	KS
+Community of Christ	39.56392	-95.125	US	KS
+Community of Christ	38.49755	-94.96094	US	KS
+Community of Christ	37.27689	-94.82007	US	KS
+Abundant Life Temple	37.04212	-95.62739	US	KS
+Apostolic Tabernacle	38.42301	-96.24491	US	KS
+Friendship Faith Ministries	38.57124	-94.88576	US	KS
+Salvation Army	37.96659	-100.87627	US	KS
+Iglesia Adventista Hispana de Garden City	37.97522	-100.89035	US	KS
+Iglesia del Dios Vivo	39.34262	-101.72169	US	KS
+Heart Ministries	38.04899	-97.758	US	KS
+Fellowship of Kingdom Life Ministries	38.12984	-97.42794	US	KS
+Harvest Time Fellowship	37.91888	-95.39483	US	KS
+Islamic Society of Southeast Kansas	37.3402	-94.70441	US	KS
+Saint Benedict's Abbey	39.57228	-95.11492	US	KS
+Louisburg Baptist Temple	38.63455	-94.66634	US	KS
+Liberty Christian Fellowship	38.87131	-99.33177	US	KS
+Manhattan Jewish Congregation	39.19528	-96.61698	US	KS
+Newton el Calvario Iglesia del Nazareno	38.03437	-97.33993	US	KS
+Marysville Christian Fellowship	39.84077	-96.61257	US	KS
+Word of Faith Fellowship	38.36309	-97.67387	US	KS
+Islamic Society of Wichita	37.74623	-97.25867	US	KS
+New Creation Fellowship	38.04031	-97.34013	US	KS
+Oberlin Community Fellowship	39.82772	-100.52948	US	KS
+Saint Mary Magdalene Orthodox Christian Mission	39.17283	-96.57085	US	KS
+Three Hierarchs Orthodox Mission	37.98395	-100.86956	US	KS
+Osage City Baptist Temple	38.62169	-95.83761	US	KS
+Redeeming Love Ministries	39.39647	-101.04549	US	KS
+Salvation Army	38.06113	-97.92933	US	KS
+Salvation Army	38.85959	-97.6094	US	KS
+Salvation Army	37.81867	-96.85139	US	KS
+Salvation Army	37.75834	-100.00923	US	KS
+Blue Stem Community Fellowship	37.6905	-96.78352	US	KS
+Faith Covenant Fellowship	38.67093	-96.94319	US	KS
+Grace Baptist Fellowship	37.26815	-97.39896	US	KS
+Iglesia Temploy la Hermosa	38.66926	-96.95478	US	KS
+Calvary Temple Assembly of God	39.84542	-95.52755	US	KS
+Frontier Christian Fellowship	37.03754	-96.40989	US	KS
+United Parish of Lenora	39.61182	-100.00126	US	KS
+Grace Baptist Chruch	39.78179	-98.77942	US	KS
+Trumpets of Yahveh Ministries	37.67572	-96.97927	US	KS
+Living Hope Fellowship	39.81231	-99.88911	US	KS
+Salvation Army	37.41239	-94.70083	US	KS
+Unitarian Universalist Fellowship of Manhattan	39.17268	-96.53765	US	KS
+Salina Unitarian Universalist Fellowship	38.82193	-97.59497	US	KS
+Primera Iglesia Bautista Hispana de Garden City	37.98142	-100.87261	US	KS
+New Life Assembly of God	38.03518	-97.34068	US	KS
+Grace Baptist Temple	38.82685	-97.60537	US	KS
+Hesston Wastewater Treatment	38.12595	-97.42067	US	KS
+Wamego Wastewater Treatment	39.19607	-96.29035	US	KS
+Lenexa Village Square	38.9663	-94.72059	US	KS
+Oakley Landfill	39.10762	-100.83857	US	KS
+Jetmore Landfill	38.07911	-99.86587	US	KS
+Wellington Landfill	37.24251	-97.38234	US	KS
+Salina Municipal Solid Waste Landfill	38.7649	-97.69896	US	KS
+Western Plains Regional Landfill	37.94329	-100.76853	US	KS
+Wheatland Landfill	37.24443	-94.8288	US	KS
+North Central Kansas Chapter of the American Red Cross	38.8389	-97.62439	US	KS
+Midway - Kansas American Red Cross	37.68666	-97.31412	US	KS
+Dodge City American Red Cross	37.76301	-100.01829	US	KS
+Garden City American Red Cross	37.96462	-100.85606	US	KS
+Pioneer Kansas American Red Cross	37.03636	-95.61637	US	KS
+Liberal American Red Cross	37.04295	-100.91816	US	KS
+Sycamore Landing	37.03755	-95.64345	US	KS
+Presbyterian Manors of Mid - America	37.81129	-94.71202	US	KS
+Andover Assembly of God	37.69293	-97.1475	US	KS
+Lindsborg Convention and Visitors Bureau	38.57323	-97.67499	US	KS
+Liberal Chamber of Commerce	37.03878	-100.9214	US	KS
+Colby Chamber of Commerce	39.39211	-101.05546	US	KS
+National Orphan Train Complex	39.57461	-97.6615	US	KS
+Belleville Chamber of Commerce	39.82429	-97.63174	US	KS
+Hiawatha Chamber of Commerce	39.85318	-95.5368	US	KS
+Sterling Chamber of Commerce	38.20957	-98.20657	US	KS
+Anthony Chamber of Commerce	37.15248	-98.03252	US	KS
+Powell Observatory	38.6464	-94.69997	US	KS
+Augusta Chamber of Commerce	37.67765	-96.97804	US	KS
+Wellington Chamber of Commerce	37.26431	-97.39762	US	KS
+Columbus Chamber of Commerce	37.17056	-94.83917	US	KS
+The Palace Theatre	37.92261	-99.4101	US	KS
+Ellis Chamber of Commerce	38.93902	-99.56053	US	KS
+Emporia Granada Theatre	38.40776	-96.18047	US	KS
+Emporia Chamber of Commerce And Visitors Bureau	38.40701	-96.18045	US	KS
+Thunderbird Marina	39.06933	-96.91781	US	KS
+Concordia Chamber of Commerce	39.57119	-97.66138	US	KS
+Fox Theatre	38.05382	-97.93089	US	KS
+Independence Chamber of Commerce	37.22634	-95.70626	US	KS
+Junction City Chamber of Commerce	39.0295	-96.83104	US	KS
+Lindsborg Chamber of Commerce	38.57438	-97.67621	US	KS
+Lyons Chamber of Commerce	38.34703	-98.20284	US	KS
+McPherson Chamber of Commerce	38.37179	-97.66653	US	KS
+Farpoint Observatory	38.89024	-96.0024	US	KS
+Osawatomie Chamber of Commerce	38.49914	-94.95183	US	KS
+Parsons Chamber of Commerce	37.33802	-95.26175	US	KS
+Saint Marys Chamber of Commerce	39.19459	-96.07303	US	KS
+Salina Community Theatre	38.84096	-97.60587	US	KS
+Scott City Chamber of Commerce	38.48236	-100.90612	US	KS
+Stiefel Theatre	38.83866	-97.60868	US	KS
+Northrup Theatre	37.98141	-101.7528	US	KS
+Columbian Theatre	39.20297	-96.30543	US	KS
+Wamego Chamber of Commerce	39.20323	-96.30541	US	KS
+Chanute Chamber of Commerce	37.6825	-95.45202	US	KS
+McPherson Family YMCA	38.37105	-97.66918	US	KS
+Pratt Chamber of Commerce	37.64654	-98.73918	US	KS
+Paola Public Works	38.59515	-94.86858	US	KS
+Lindsborg City Public Works	38.57317	-97.67402	US	KS
+Osawatomie Public Works	38.50046	-94.95641	US	KS
+Coffeyville City Public Works	37.06128	-95.63586	US	KS
+Dodge City Public Works	37.74969	-100.01777	US	KS
+Fort Scott Public Works	37.81542	-94.70237	US	KS
+Fredonia Public Works	37.5428	-95.82844	US	KS
+Garden City Public Works	37.9627	-100.85167	US	KS
+Hugoton Public Works	37.1796	-101.3472	US	KS
+Independence City Public Works	37.23209	-95.70958	US	KS
+Montezuma Public Works	37.59089	-100.44584	US	KS
+Plains Public Works	37.26125	-100.59026	US	KS
+Severy Public Works	37.62073	-96.22767	US	KS
+Hugoton Recreation Commission	37.18156	-101.34547	US	KS
+Holton Wastewater Treatment	39.47116	-95.72228	US	KS
+Koepke Mobile Manor	38.67367	-96.93312	US	KS
+Dalton Gang Hideout	37.28095	-100.33701	US	KS
+Santa Fe Depot	37.64162	-98.11176	US	KS
+Muchnic Art Gallery	39.56861	-95.11725	US	KS
+Finch Theatre	39.04047	-98.14704	US	KS
+Marais des Cygnes Massacre State Historic Site	38.28134	-94.61984	US	KS
+Lebold Mansion	38.91564	-97.22368	US	KS
+The Big Well	37.60346	-99.29443	US	KS
+Brown Mansion	37.01989	-95.61456	US	KS
+The Garden of Eden	39.05792	-98.53512	US	KS
+Junction City Art Gallery	39.02911	-96.82993	US	KS
+Keystone Gallery	38.743	-100.8687	US	KS
+Summit Surgical	38.08022	-97.88857	US	KS
+Life Star of Kansas	39.04155	-96.83764	US	KS
+American Medical Response	38.63923	-95.82027	US	KS
+American Medical Response Alma	39.01478	-96.28928	US	KS
+Topeka Air Ambulance Life Star	39.00612	-95.22261	US	KS
+City of Troy Ambulance	39.78652	-95.09061	US	KS
+Critical Care Transfer	37.59073	-101.37202	US	KS
+EagleMed Air Ambulance	37.92723	-100.71979	US	KS
+Erie Emergency Care Unit	37.57288	-95.2376	US	KS
+Transcare of Kansas	37.67966	-95.45462	US	KS
+Midwest Lifeteam	37.74663	-97.22598	US	KS
+Lifewatch Air Ambulance	37.69602	-97.2987	US	KS
+Ballard Aviation - EagleMed	37.66907	-97.41958	US	KS
+Topeka Air Ambulance Life Star	38.94987	-95.67587	US	KS
+American Medical Response	39.05466	-95.67398	US	KS
+Clifton City Ambulance	39.56654	-97.28261	US	KS
+Sacred Heart Cathedral	38.84103	-97.61188	US	KS
+Associated Mennonite Biblical Seminary - Great Plains Extension	38.07227	-97.34561	US	KS
+ITT Technical Institute - Wichita	37.74149	-97.2425	US	KS
+The Art Institutes International - Kansas City	38.979	-94.70966	US	KS
+Wichita Technical Institute	37.65698	-97.37182	US	KS
+Central Baptist Theological Seminary	39.00941	-94.83845	US	KS
+Wade Quarries	38.3775	-94.67472	US	KS
+Kanas	39.0119	-98.48425	US	KS
+Sveadahl	38.3562	-98.34686	US	KS
+Balloonport	37.09447	-97.96145	US	KS
+Sacred Heart Cathedral	37.75644	-100.01707	US	KS
+Nicodemus National Historic Site	39.39039	-99.61787	US	KS
+Smith Grave	39.36416	-97.43234	US	KS
+Biehler Gravesite	38.63093	-97.02608	US	KS
+Buhler Municipal	38.14412	-97.77493	US	KS
+Midwest Lifeteam	38.04871	-97.27959	US	KS
+Cedar Vale Ambulance and Rescue	37.10372	-96.49829	US	KS
+Emergystat Ambulance	38.16723	-94.71324	US	KS
+Pool 1B	38.46166	-98.66724	US	KS
+Pool 1A	38.46139	-98.64424	US	KS
+Pool 1C	38.47564	-98.65282	US	KS
+Pool 2	38.47416	-98.68132	US	KS
+Pool 3A	38.49109	-98.64853	US	KS
+Pool 3B	38.49485	-98.63136	US	KS
+Pool 4A	38.47214	-98.61437	US	KS
+Pool 4B	38.45561	-98.6221	US	KS
+Pool 5	38.44405	-98.68096	US	KS
+Howard Johnson Lawrence. Ks	38.9732	-95.2627	US	KS
+Howard Johnson Junction City	39.00894	-96.8351	US	KS

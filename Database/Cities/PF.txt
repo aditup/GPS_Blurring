@@ -1,0 +1,2194 @@
+Melanesia	-10	160	PF	00
+Iles Marotiri	-27.8931	-143.5041	PF	00
+Vaitepua	-9.85	-139.05	PF	00
+Vaitemanu	-9.85	-139.06667	PF	00
+Vaiteama	-9.75	-138.91667	PF	00
+Baie Vaitaka	-8.93333	-139.56667	PF	00
+Baie Vaitahu	-9.93333	-139.1	PF	00
+Vaitahu	-9.93333	-139.1	PF	00
+Vaipio	-9.8	-138.93333	PF	00
+Vaipaia	-8.91667	-139.61667	PF	00
+Vallee de Vaipae	-8.91667	-139.56667	PF	00
+Vaihoa	-9.78333	-138.85	PF	00
+Vaiee	-9.71667	-139.03333	PF	00
+Uuapi	-8.93333	-139.56667	PF	00
+Ututehe	-9.8	-138.93333	PF	00
+Upehaa	-9.81667	-138.96667	PF	00
+Ua Huka	-8.9	-139.55	PF	00
+Sommet Tumu Meae Ufa	-9.91667	-139.08333	PF	00
+Rocher Tumaiai	-9.8	-139.13333	PF	00
+Baie des Traitres	-9.83333	-139.03333	PF	00
+Hana te Tou	-9.9	-139.06667	PF	00
+Topahu	-8.91667	-139.5	PF	00
+Motu Tio Tio	-8.95	-139.6	PF	00
+Cap Tikapo	-8.95	-140	PF	00
+Teuaua	-8.95	-139.6	PF	00
+Pointe Tetutu	-8.93333	-139.61667	PF	00
+Tepuhiaatuna	-9.86667	-139.05	PF	00
+Tepua	-9.73333	-139.06667	PF	00
+Vallee de Tepeopo	-8.93333	-139.58333	PF	00
+Pointe Teohotupa	-9.76667	-138.83333	PF	00
+Pointe Teohotepapa	-9.76667	-138.8	PF	00
+Rocher Te-oho-te-kea	-8.95	-140	PF	00
+Mont Temeti	-9.81667	-139.05	PF	00
+Te Kokuu	-9.9	-139.08333	PF	00
+Rocher Tekoapa	-8.93333	-139.56667	PF	00
+Pointe Tekeo	-8.95	-139.58333	PF	00
+Pointe Teihuhaoe	-9.8	-139.13333	PF	00
+Pointe Teho te Papa	-8.93333	-139.5	PF	00
+Cap Tehoohaivei	-9.81667	-138.9	PF	00
+Mont Teavatiu	-9.83333	-139.06667	PF	00
+Pointe Teaehoa	-9.85	-139.01667	PF	00
+Vallee de Taua	-9.83333	-139.06667	PF	00
+Anse Taua	-9.83333	-139.05	PF	00
+Taua	-9.83333	-139.05	PF	00
+Mont Taoua	-8.91667	-139.55	PF	00
+Tamuka	-9.45	-140	PF	00
+Tamuhu	-9.71667	-139.03333	PF	00
+Tahuata	-9.95	-139.08333	PF	00
+Motu Tabu	-9.75	-138.8	PF	00
+Motu Tabu	-8.86667	-139.55	PF	00
+Chaine de Taataa	-9.76667	-138.83333	PF	00
+Vallee de Taahuku	-9.8	-139.01667	PF	00
+Baie Taahuku	-9.8	-139.01667	PF	00
+Punahe	-9.81667	-139	PF	00
+Pointe Pukoo	-9.81667	-138.98333	PF	00
+Baie de Puhioono	-9.95	-138.83333	PF	00
+Puhiae	-9.91667	-139.1	PF	00
+Vai Puha	-9.93333	-139.03333	PF	00
+Vallee de Puamau	-9.76667	-138.88333	PF	00
+Baie Puamau	-9.76667	-138.86667	PF	00
+Mont Pouoanuu	-9.81667	-139.11667	PF	00
+Poiheke	-9.71667	-139.03333	PF	00
+Pointe Plate	-9.81667	-139.01667	PF	00
+Pointe Planche	-9.75	-138.88333	PF	00
+Piahoo	-9.81667	-138.91667	PF	00
+Paumea	-9.4	-140	PF	00
+Patioti	-9.9	-139.03333	PF	00
+Papatikee	-9.45	-140	PF	00
+Papahoa	-9.8	-138.93333	PF	00
+Motu Papa	-8.93333	-139.55	PF	00
+Mont Ootua	-9.78333	-138.96667	PF	00
+Ooa	-9.81667	-138.88333	PF	00
+Motu Ofio	-9.75	-138.78333	PF	00
+Oehau	-9.91667	-139.05	PF	00
+Pointe de l'Obelisque	-9.76667	-138.86667	PF	00
+Pointe Noire	-9.8	-139.01667	PF	00
+Baie Niva	-8.88333	-140	PF	00
+Naotue	-9.78333	-138.83333	PF	00
+Mont Namana	-9.75	-138.88333	PF	00
+Mont Namana	-8.91667	-139.51667	PF	00
+Pointe des Naiades	-9.76667	-138.86667	PF	00
+Nahoe	-9.75	-138.91667	PF	00
+Nahoe	-9.75	-138.91667	PF	00
+Motuua	-9.75	-138.91667	PF	00
+Motutui	-1.45	-138.6	PF	00
+Rocher Motu Toue	-8.86667	-139.58333	PF	00
+Rocher Motu Takatai	-8.88333	-139.6	PF	00
+Rocher Motu Taa	-9.76667	-138.83333	PF	00
+Motopua	-9.35	-140	PF	00
+Baie de Motopu	-9.91667	-139.05	PF	00
+Motopu	-9.91667	-139.05	PF	00
+Cap Moteve	-9.96667	-139.03333	PF	00
+Motu Mokohe	-9.9	-139.06667	PF	00
+Motu Mokoe	-9.35	-139.98333	PF	00
+Mohotani	-9.98333	-138.81667	PF	00
+Rocher Metiti	-9.83333	-139.11667	PF	00
+Hana Menino	-9.9	-139.08333	PF	00
+Pointe Mautau	-9.7	-138.98333	PF	00
+Mauhepo	-9.75	-139.08333	PF	00
+Rocher Mata Utu	-9.81667	-138.95	PF	00
+Pointe Matatepai	-9.71667	-139.03333	PF	00
+Le Dome	-9.71667	-139	PF	00
+La Borne	-9.71667	-139	PF	00
+Rocher Komautuee	-8.86667	-139.6	PF	00
+Pointe Kiukiu	-9.78333	-139.15	PF	00
+Motu Keo Keo	-8.95	-139.6	PF	00
+Katohau	-8.88333	-139.51667	PF	00
+Kahavaiau	-9.76667	-138.85	PF	00
+Pointe Jouan	-9.71667	-139	PF	00
+Rochers Jacquemart	-9.76667	-138.86667	PF	00
+Ivaiva Nui	-9.91667	-139.1	PF	00
+Ivaiva Iti	-9.91667	-139.1	PF	00
+Initaiafa	-8.93333	-139.55	PF	00
+Iniaei	-8.93333	-139.55	PF	00
+Iles Marquises	-9	-139.5	PF	04
+Iaone	-9.75	-138.9	PF	00
+Humi	-9.8	-138.86667	PF	00
+Mata te Hoke	-9.91667	-139.1	PF	00
+Hoanui	-8.93333	-139.5	PF	00
+Hiva Oa	-9.75	-139	PF	00
+Hana Hevane	-9.9	-139.06667	PF	00
+Hekeani	-9.81667	-138.91667	PF	00
+Hana Hee	-8.95	-139.56667	PF	00
+Mont Heani	-9.78333	-139.06667	PF	00
+Havahai	-8.93333	-139.51667	PF	00
+Haue	-8.88333	-139.6	PF	00
+Hatutu	-8.9	-139.61667	PF	00
+Hateone	-8.86667	-139.53333	PF	00
+Hateleniu	-8.91667	-139.61667	PF	00
+Hateava	-8.86667	-139.51667	PF	00
+Baie Hapatoni	-9.96667	-139.11667	PF	00
+Hapatoni	-9.96667	-139.11667	PF	00
+Hapao	-8.86667	-139.55	PF	00
+Mont Hapake	-8.91667	-139.63333	PF	00
+Pointe Hannanu	-8.86667	-139.58333	PF	00
+Hanene	-9.93333	-139.1	PF	00
+Hanautoku	-9.75	-139.11667	PF	00
+Hanaui	-9.75	-139.08333	PF	00
+Hanaui	-9.75	-139.08333	PF	00
+Hanauaua	-9.83333	-139.11667	PF	00
+Hanatevi	-9.85	-139.1	PF	00
+Hanatevai	-9.76667	-138.85	PF	00
+Hanateuatoa	-9.85	-139.08333	PF	00
+Baie de Hanatetena	-9.96667	-139.06667	PF	00
+Hanatetena	-9.96667	-139.06667	PF	00
+Hanatete	-8.93333	-139.48333	PF	00
+Hanatepu	-9.75	-138.88333	PF	00
+Vallee d'Hanatekua	-9.73333	-138.98333	PF	00
+Baie Hanatekua	-9.71667	-138.98333	PF	00
+Baie de Hanateio	-9.98333	-139.1	PF	00
+Hana Teio	-9.98333	-139.1	PF	00
+Hanatefeke	-9.73333	-139.06667	PF	00
+Hana te Fau	-9.96667	-139.1	PF	00
+Hanatea	-8.86667	-139.56667	PF	00
+Hanatea	-9.81667	-138.98333	PF	00
+Hanatao	-9.75	-139.06667	PF	00
+Hanapeteo	-9.75	-139.08333	PF	00
+Vallee d'Hanapaoa	-9.76667	-138.96667	PF	00
+Hanapaoa	-9.75	-138.95	PF	00
+Hanaoua	-8.9	-139.5	PF	00
+Hanaotiu	-9.83333	-139.11667	PF	00
+Hanaomutu	-9.75	-139.06667	PF	00
+Hanaohouua	-9.71667	-139.03333	PF	00
+Hanaoa	-9.35	-140	PF	00
+Hananunau	-9.85	-139.06667	PF	00
+Hananui	-8.93333	-139.53333	PF	00
+Baie d'Hananai	-8.93333	-139.53333	PF	00
+Baie Hana-moe-noa	-9.91667	-139.1	PF	00
+Hana-moe-noa	-9.91667	-139.1	PF	00
+Hanamiai	-9.95	-139.1	PF	00
+Hanameoi	-9.75	-139.1	PF	00
+Vallee d'Hanamenu	-9.8	-139.11667	PF	00
+Baie Hanamenu	-9.76667	-139.13333	PF	00
+Hanameneo	-9.75	-139.08333	PF	00
+Hanameito	-9.98333	-139.11667	PF	00
+Hanamate	-9.81667	-139	PF	00
+Hanakiki	-9.75	-139.11667	PF	00
+Hanake	-9.81667	-139.03333	PF	00
+Vallee d'Hanaiapa	-9.75	-139	PF	00
+Baie Hanaiapa	-9.71667	-139	PF	00
+Baie Hanahupe	-9.8	-138.9	PF	00
+Hanahoo	-9.85	-139.1	PF	00
+Hanaheo	-8.86667	-139.51667	PF	00
+Vallee d'Hanaheka	-9.78333	-139.13333	PF	00
+Roche Hanaheka	-9.76667	-139.13333	PF	00
+Hanaheka	-9.76667	-139.13333	PF	00
+Hanahehupe	-8.86667	-139.56667	PF	00
+Hanahee	-9.81667	-138.96667	PF	00
+Hanahe	-8.9	-139.5	PF	00
+Baie Hanahatupa	-8.86667	-139.58333	PF	00
+Hanafeta	-9.73333	-139.05	PF	00
+Hamamaho	-8.93333	-139.51667	PF	00
+Hakiki	-9.38333	-140	PF	00
+Hakaunui	-9.41667	-140	PF	00
+Hakauiti	-9.41667	-140	PF	00
+Hakateivi	-9.38333	-140	PF	00
+Hakamui	-9.38333	-140	PF	00
+Hakamui	-9.38333	-140	PF	00
+Hakakiua	-9.38333	-140	PF	00
+Pointe Haatinao	-9.78333	-138.85	PF	00
+Baie de Haaoipu	-9.95	-139.06667	PF	00
+Haaoipu	-9.95	-139.06667	PF	00
+Motu Haane	-8.93333	-139.53333	PF	00
+Haaevea	-8.86667	-139.6	PF	00
+Pointe Gaussin	-9.75	-139.11667	PF	00
+Fueputaua	-9.83333	-139.1	PF	00
+Fatu Huku	-9.41667	-138.9	PF	00
+Roche Fatautau	-9.85	-139.06667	PF	00
+Hana Epo	-9.98333	-139.11667	PF	00
+Roches Epeti	-8.86667	-139.58333	PF	00
+Emeni	-8.95	-139.6	PF	00
+Pointe Conte	-9.76667	-138.85	PF	00
+Banc Clark	-8.1	-139.63333	PF	00
+Vallee de Chave	-8.91667	-139.58333	PF	00
+Baie Chave	-8.95	-139.6	PF	00
+Sommet du Cap Martin	-8.93333	-140	PF	00
+Banc Boulard	-9.76667	-138.86667	PF	00
+Pointe Bonnard	-9.76667	-139.13333	PF	00
+Baie Blanche	-8.93333	-139.6	PF	00
+Pointe du Bastion	-9.76667	-138.86667	PF	00
+Cap Balguerie	-9.75	-138.78333	PF	00
+Cap Atupa Atua	-8.81667	-140	PF	00
+Vallee d'Atuona	-9.8	-139.05	PF	00
+Baie Atuona	-9.81667	-138.01667	PF	00
+Atuona	-9.8	-139.03333	PF	00
+Atuana	-8.93333	-139.61667	PF	00
+Anapoo	-9.95	-139.1	PF	00
+Baie Anahi	-9.75	-138.93333	PF	00
+Pointe Akuhua	-9.8	-138.86667	PF	00
+Aiguille Nord	-9.98333	-139.1	PF	00
+Hana Aeae	-9.9	-139.08333	PF	00
+Atoll Vanavana	-20.78333	-139.15	PF	00
+Vaitutaki	-21.48333	-135.63333	PF	00
+Atoll Vairaatea	-19.31667	-139.33333	PF	00
+Vaipiopio	-10.43333	-138.6	PF	00
+Pointe Vainono	-21.56667	-135.55	PF	00
+Vaiatekeue	-23.0575	-134.90667	PF	00
+Vahitahi Atoll	-18.77355	-138.82324	PF	03
+Atoll Vahaga	-21.33333	-136.65	PF	00
+Roche Tutaii	-10	-139.08333	PF	00
+Atoll Tureia	-20.83333	-138.53333	PF	00
+Totegegie	-23.07778	-134.89	PF	00
+Tomouutea	-10.46667	-138.66667	PF	00
+Banc de Tokorua	-23.17889	-135.10889	PF	00
+Tivaava	-21.53333	-135.51667	PF	00
+Tiovaava	-21.55	-135.53333	PF	00
+Rocher Thomasset	-10.35	-138.41667	PF	00
+Pointe Tewai	-10.41667	-138.65	PF	00
+Teupukahaia	-21.5	-135.48333	PF	00
+Tetio	-10.46667	-138.65	PF	00
+Tetavakeroa	-20.81667	-138.58333	PF	00
+Mont Terua Kotuku	-23.08139	-134.94222	PF	00
+Pointe Terua Mago	-23.19472	-134.91806	PF	00
+Tepu-Nui	-23.16583	-135.04222	PF	00
+Pointe Tepaeture	-23.07083	-134.93667	PF	00
+Teonemahina	-14.8	-138.85	PF	00
+Pointe Teonekura	-23.12667	-134.96333	PF	00
+Pointe Teoapu Kotuku	-23.13056	-135.02556	PF	00
+Mont Teoaiua	-10.5	-138.63333	PF	00
+Tenoko	-23.07111	-135.01306	PF	00
+Atoll Tenaruga	-21.35	-136.53333	PF	00
+Atoll Tenararo	-21.3	-136.75	PF	00
+Pointe Temotu	-23.17694	-134.90278	PF	00
+Temoe	-23.33333	-134.48333	PF	00
+Temeae	-10.53333	-138.61667	PF	00
+Pointe Tekava	-21.51667	-135.45	PF	00
+Tekaruga	-20.85	-138.51667	PF	00
+Ile Motu Teiku	-23.20833	-134.97611	PF	00
+Cap Te Hope o te Keho	-10.03333	-139.1	PF	00
+Teavamotu	-21.48333	-135.5	PF	00
+Pointe Teauorogo	-23.08667	-134.97056	PF	00
+Pointe Teanaorepo	-23.11444	-134.98972	PF	00
+Pointe Teanakoporo	-23.12639	-134.89139	PF	00
+Teamuiga	-20.86667	-138.55	PF	00
+Mont Teamotua	-10.46667	-138.65	PF	00
+Tekava	-23.16167	-134.85306	PF	00
+Pointe Teakaru Vahine	-23.09639	-134.98028	PF	00
+Pointe Teakarereanga	-23.15639	-135.06222	PF	00
+Pointe Teahone	-20.76667	-138.56667	PF	00
+Teahiahu	-10.48333	-138.6	PF	00
+Pointe Teae	-10.53333	-138.65	PF	00
+Tauna	-23.14306	-134.85278	PF	00
+Monts Tauaouoho	-10.48333	-138.61667	PF	00
+Tatakoto Atoll	-17.34146	-138.40164	PF	03
+Pointe Tataaihoa	-10.51667	-138.66667	PF	00
+Ile Taravai	-23.14722	-135.03861	PF	00
+Tarauru Roa	-23.10611	-134.85639	PF	00
+Baie de Taku	-23.08028	-134.95611	PF	00
+Taku	-23.08139	-134.94861	PF	00
+Roche Takiei	-10.53333	-138.61667	PF	00
+Taiokai	-10.41667	-138.66667	PF	00
+Tahava	-10.45	-138.6	PF	00
+Banc Sainjon	-23.14167	-134.97917	PF	00
+Ilot Rumarei	-23.11056	-134.99139	PF	00
+Rouru	-23.12556	-134.96611	PF	00
+Port de Rikitea	-23.11833	-134.96667	PF	00
+Rikitea	-23.12028	-134.96917	PF	00
+Atoll Reao	-18.51667	-136.38333	PF	00
+Atoll Pukarua	-18.31248	-137.02183	PF	03
+Atoll Pukapuka	-14.81667	-138.8	PF	00
+Pointe Puirau	-23.12722	-134.90833	PF	00
+Puaumu	-23.01361	-134.91861	PF	00
+Tepapuri	-23.00306	-134.94694	PF	00
+Recif Portland	-23.7	-134.5	PF	00
+Roche Pointue	-10.5	-138.65	PF	00
+Atoll Pinaki	-19.36667	-138.73333	PF	00
+Pierre Bonhomme	-10.5	-138.66667	PF	00
+Montagne Percee	-10	-139.1	PF	00
+Rocher Pahi	-10.5	-138.6	PF	00
+Vallee d'Ouia	-10.46667	-138.61667	PF	00
+Baie d'Ouia	-10.46667	-138.6	PF	00
+Ouia	-10.46667	-138.61667	PF	00
+Vallee d'Omoa	-10.5	-138.65	PF	00
+Baie d'Omoa	-10.5	-138.66667	PF	00
+Omoa	-10.5	-138.68333	PF	00
+Oi	-10.48333	-138.65	PF	00
+Mont Nataha	-10.48333	-138.61667	PF	00
+Nanifava	-10.46667	-138.65	PF	00
+Nanifapoto	-10.46667	-138.65	PF	00
+Monts Namana	-10.45	-138.61667	PF	00
+Atoll Mururoa	-21.82613	-138.89929	PF	03
+Rocher Motuua	-10.53333	-138.61667	PF	00
+Pointe Motahumu	-10.5	-138.66667	PF	00
+Atoll Morane	-23.16667	-137.11667	PF	00
+Rocher Mopii	-10.53333	-138.61667	PF	00
+Mont Mokoto	-23.12417	-134.98694	PF	00
+Mont Mukotaka	-23.10139	-134.96833	PF	00
+Pointe Mataihu Tea	-23.08889	-134.93278	PF	00
+Ile Mekiro	-23.17111	-134.92167	PF	00
+Atoll Maturei-Vavao	-21.46667	-136.4	PF	00
+Cap Matautuoa	-10.45	-138.66667	PF	00
+Pointe Matariki	-23.13667	-135.02611	PF	00
+Rocher Matapua	-10.5	-138.6	PF	00
+Pointe Mata Kuiti	-23.13361	-134.91833	PF	00
+Pointe Matakoo	-10.46667	-138.6	PF	00
+Pointe Mata Karaka	-23.1175	-134.89444	PF	00
+Atoll Marutea	-21.5	-135.56667	PF	00
+Atoll Maria	-22	-136.16667	PF	00
+Ile Manui	-23.22889	-134.94611	PF	00
+Motu Manu	-21.48333	-135.56667	PF	00
+Pointe Mangarereia	-23.09278	-134.94806	PF	00
+Manao	-10.43333	-138.6	PF	00
+Makoe	-21.55	-135.61667	PF	00
+Ile Makaroa	-23.21556	-134.97167	PF	00
+Ile Makapu	-23.19639	-134.92417	PF	00
+Pointe Mahitoa	-10.51667	-138.66667	PF	00
+Ile Mangareva	-23.09917	-134.96694	PF	00
+Banc Lavenir	-23.14528	-134.96778	PF	00
+Pointe Koutu Puhipuhi	-23.10722	-135.01194	PF	00
+Pointe Kureru	-23.09944	-134.95639	PF	00
+Pointe Koutu Poto	-23.10583	-135.00417	PF	00
+Pointe Koutu Piro	-23.10667	-134.96611	PF	00
+Kouaku	-23.20583	-134.85944	PF	00
+Maison Kote	-23.11806	-134.97111	PF	00
+Baie de Kirimiro	-23.09278	-134.97722	PF	00
+Kirimiro	-23.10056	-134.97389	PF	00
+Ile Kamaka	-23.24028	-134.95889	PF	00
+Pointe Kaikaveu	-20.88333	-138.51667	PF	00
+Pointe Kaiepe	-23.09306	-134.98583	PF	00
+Iles Tuamotu-Gambier	-19	-139	PF	03
+Pointe Hirinaki	-20.81667	-138.51667	PF	00
+Hapai	-20.85	-138.56667	PF	00
+Vallee d'Hanavave	-10.45	-138.63333	PF	00
+Baie Hanavave	-10.45	-138.66667	PF	00
+Hanavave	-10.45	-138.65	PF	00
+Hanauu	-10.48333	-138.65	PF	00
+Hanaui	-10.48333	-138.66667	PF	00
+Hanauaonui	-10.43333	-138.61667	PF	00
+Hanauaoiti	-10.43333	-138.61667	PF	00
+Hana Tuuna	-10	-139.11667	PF	00
+Hanatumata	-10.41667	-138.65	PF	00
+Hanateupu	-10.53333	-138.63333	PF	00
+Hanateone	-10.43333	-138.61667	PF	00
+Hanapuoo	-10.41667	-138.66667	PF	00
+Hanapuaea	-10.46667	-138.66667	PF	00
+Hanapano	-10.41667	-138.63333	PF	00
+Hanaouua	-10.43333	-138.6	PF	00
+Hanaoumi	-10.41667	-138.61667	PF	00
+Hanaopue	-10.53333	-138.63333	PF	00
+Hanamoohe	-10.43333	-138.61667	PF	00
+Hanamio	-10.53333	-138.63333	PF	00
+Hanakau	-10.53333	-138.61667	PF	00
+Hanahepu	-10.41667	-138.61667	PF	00
+Haatinao	-10.51667	-138.61667	PF	00
+Haateenapa	-10.5	-138.6	PF	00
+Haahouna	-10.48333	-138.6	PF	00
+Banc Gaveau	-23.14056	-134.97361	PF	00
+Baie de Gatavake	-23.10861	-134.98222	PF	00
+Gatavake	-23.11722	-134.98111	PF	00
+Baie Ganutu	-23.11444	-134.99611	PF	00
+Pointe Ganoa	-23.12583	-134.99694	PF	00
+Baie de Gahutu	-23.07361	-134.94194	PF	00
+Gahutu	-23.07833	-134.94722	PF	00
+Iles Gambier	-23.14722	-134.95833	PF	00
+Polynesie Francaise	-15	-140	PF	00
+Fatu Hiva	-10.46667	-138.63333	PF	00
+Atoll Fangataufa	-22.23333	-138.75	PF	00
+Fakamaru	-20.78333	-138.55	PF	00
+Monts Faeone	-10.43333	-138.65	PF	00
+Hana Ete	-10	-139.11667	PF	00
+Eeu	-10.46667	-138.66667	PF	00
+Recif Ebrill	-22.66667	-133.5	PF	00
+Mont Duff	-23.12556	-134.975	PF	00
+Banc Brisant	-23.1375	-134.95972	PF	00
+Mont Boise	-10.48333	-138.63333	PF	00
+Pointe Autapu	-23.08222	-134.95194	PF	00
+Auorotini	-21.48333	-135.63333	PF	00
+Ile Aukena	-23.12861	-134.90389	PF	00
+Ile Atumata	-23.19556	-134.90694	PF	00
+Pointe d'Atitouiti	-23.13111	-134.97167	PF	00
+Atituiti	-23.13056	-134.97444	PF	00
+Baie d'Atirikigaro	-23.08944	-134.94278	PF	00
+Atirikigaro	-23.08833	-134.94472	PF	00
+Atiaoha	-23.11583	-134.99056	PF	00
+Ilot Motu-o-ari	-23.14778	-135.0225	PF	00
+Araumu	-21.46667	-135.51667	PF	00
+Akiaki	-18.5	-139.2	PF	00
+Baie d'Akaputu	-23.07722	-134.93472	PF	00
+Akaputu	-23.07833	-134.93667	PF	00
+Ile Akamaru	-23.18194	-134.91444	PF	00
+Gaioio	-23.11222	-134.84	PF	00
+Pointe Aimoua	-10.41667	-138.66667	PF	00
+Aiguille Sud	-10.01667	-139.1	PF	00
+Ahau	-10.48333	-138.6	PF	00
+Ile Agakauitai	-23.16278	-135.03583	PF	00
+Groupe Acteon	-21.33333	-136.5	PF	00
+Teauaone	-23.00083	-134.95528	PF	00
+Apou	-23.05917	-134.90667	PF	00
+Teauotu	-23.06	-134.90556	PF	00
+Tuaeu	-23.06222	-134.90389	PF	00
+Atea	-23.14167	-134.96389	PF	00
+Toerua	-23.14222	-134.95417	PF	00
+Toerua Makaroa	-23.14306	-134.94722	PF	00
+Banc Itiki	-23.13611	-134.96944	PF	00
+Otaturua	-23.13472	-134.96389	PF	00
+Temapouroa	-23.13333	-134.94861	PF	00
+Toaiti	-23.13306	-134.95417	PF	00
+Banc Bousses	-23.1325	-134.9575	PF	00
+Pointe Kouora	-23.13056	-134.97361	PF	00
+Seuil d'Aukena	-23.12917	-134.95417	PF	00
+Tokapui	-23.12917	-134.94722	PF	00
+Rouru	-23.125	-134.96528	PF	00
+Tokaterei	-23.12361	-134.95556	PF	00
+Banc Rautaro	-23.11667	-134.96111	PF	00
+Mitirapa	-23.11667	-134.94583	PF	00
+Baie Reivaru	-23.10556	-134.96389	PF	00
+Baie Vaituatai	-23.10278	-134.96111	PF	00
+Pointe Tasgairi	-23.10417	-134.9625	PF	00
+Pointe Koutu Rarotemangaroa	-23.12694	-135.03417	PF	00
+Pointe Paroa	-23.13333	-135.04306	PF	00
+Pointe Mata O Ruarangi	-23.13639	-135.04639	PF	00
+Taravai	-23.14194	-135.03028	PF	00
+Quai de la Legion	-23.10917	-134.96806	PF	00
+Pointe Teoneai	-23.075	-134.94583	PF	00
+Pointe Teauouo	-23.07944	-134.93056	PF	00
+Rade de Rikitea	-23.11667	-134.95	PF	00
+Pointe Terimuroa	-23.11389	-135.01222	PF	00
+Ilots Tekoreu	-23.16639	-135.04694	PF	00
+Akamaru	-23.17778	-134.91472	PF	00
+Ilot Teohootepohatu	-23.17444	-134.89111	PF	00
+Mont Tepuka	-23.12556	-134.98583	PF	00
+Otatumaria	-23.14889	-134.96917	PF	00
+Otaroa	-23.14667	-134.98528	PF	00
+Balise	-23.13861	-134.96778	PF	00
+Oterangi	-23.14583	-134.95222	PF	00
+Tekaurua	-23.12639	-134.93833	PF	00
+Tearai	-23.12861	-134.93472	PF	00
+Toerua Pokirikiri	-23.14444	-134.94778	PF	00
+Baie Onemea	-23.14694	-135.05667	PF	00
+Baie Anganui	-23.14083	-135.04861	PF	00
+Anganui	-23.14083	-135.04139	PF	00
+Baie Gahutu Taravai	-23.13111	-135.03417	PF	00
+Baie Angaopiri	-23.1375	-135.04583	PF	00
+Pointe Vaipoiti	-23.13611	-135.03611	PF	00
+Pointe Vaiponui	-23.13667	-135.03889	PF	00
+Kokohue	-23.12083	-134.99722	PF	00
+Ganoa	-23.12917	-134.99028	PF	00
+Pointe Atituiti	-23.13194	-134.98056	PF	00
+Atihoi	-23.09028	-134.96667	PF	00
+Kairori	-23.08778	-134.95278	PF	00
+Gataha	-23.08528	-134.95139	PF	00
+Ilot Temotu Nui	-23.08194	-134.95333	PF	00
+Ilot Temotu Iti	-23.07083	-134.94861	PF	00
+Vaitinoua	-23.07778	-134.94722	PF	00
+Gahutu Tenohu	-23.075	-134.94444	PF	00
+Baie Gahutu Tenohu	-23.06944	-134.94167	PF	00
+Baie de Gaheata	-23.08472	-134.93056	PF	00
+Vaitu	-8.93333	-140.08333	PF	00
+Vaitaitai	-9.45	-140.01667	PF	00
+Vaitahu	-7.98333	-140.63333	PF	00
+Baie de Vaieo	-9.38333	-140.1	PF	00
+Baie Vaekao	-8.81667	-140.15	PF	00
+Baie Ua-Uka	-8.96667	-140.15	PF	00
+Ua Pou	-9.38333	-140.05	PF	00
+Uapa	-9.43333	-140.06667	PF	00
+Mont Touao	-9.43333	-140.03333	PF	00
+Roche Tauna	-9.33333	-140.05	PF	00
+Roche Tapukava	-9.46667	-140.01667	PF	00
+Mont Tamaka	-9.35	-140.03333	PF	00
+Motu Takahe	-9.46667	-140.03333	PF	00
+Taipi Vaii	-8.88333	-140.05	PF	00
+Taipi Avaangi	-8.9	-140.01667	PF	00
+Baie Taiohae	-8.93333	-140.08333	PF	00
+Baie de Tai Oa	-8.96667	-140.15	PF	00
+Iles Sous le Vent	-16.63333	-151.5	PF	00
+Sentinelle de l'Ouest	-8.95	-140.1	PF	00
+Sentinelle de l'Est	-8.95	-140.08333	PF	00
+Ile de Sable	-7.88333	-140.36667	PF	00
+Roches Rouges	-9.35	-140.06667	PF	00
+Falaise Rouge	-8.95	-140.05	PF	00
+Pointe Punahukua	-9.36667	-140.1	PF	00
+Poutoko	-9.41667	-140.03333	PF	00
+Baie Pour	-8.81667	-140.21667	PF	00
+Potainui	-9.38333	-140.05	PF	00
+Poiku	-8.8	-140.01667	PF	00
+Pohumaka	-9.38333	-140.05	PF	00
+Motu Papai	-9.33333	-140.03333	PF	00
+Vallee de Pakiu	-8.91667	-140.08333	PF	00
+Pain de Sucre	-9.4	-140.1	PF	00
+Pahatea	-8.93333	-140.1	PF	00
+Baie Obi Tufa	-8.01667	-140.7	PF	00
+Vallee de Oata	-8.91667	-140.1	PF	00
+Motu Oa	-9.46667	-140.01667	PF	00
+Rocher Motu Iti	-8.81667	-140.03333	PF	00
+Baie Motu-hee	-8.8	-140.18333	PF	00
+Motu Mohuku	-9.4	-140.1	PF	00
+Pointe de la Mesange	-8.83333	-140.05	PF	00
+Baie Marquisienne	-8.93333	-140.2	PF	00
+Banc Lawson	-8.7	-140.76667	PF	00
+Motu Kuee	-9.33333	-140.05	PF	00
+Motu Kuara	-9.41667	-140.08333	PF	00
+Motu Iti	-8.68333	-140.6	PF	00
+Hooumi	-8.9	-140.01667	PF	00
+Honapeka	-9.33333	-140.06667	PF	00
+Baie Hohoi	-9.43333	-140.01667	PF	00
+Hipuoo	-9.33333	-140.03333	PF	00
+Baie Hikeu	-9.43333	-140.06667	PF	00
+Vallee de Havao	-8.91667	-140.08333	PF	00
+Baie Haume	-8.83333	-140.08333	PF	00
+Hatutu	-7.93333	-140.53333	PF	00
+Baie Hatuatua	-8.88333	-140.21667	PF	00
+Baie Hatuatua	-8.85	-140.01667	PF	00
+Baie d'Hataivea	-8.81667	-140.03333	PF	00
+Baie Hapateki	-9.41667	-140.08333	PF	00
+Baie Hapapani	-8.81667	-140.13333	PF	00
+Baie Haopu	-8.85	-140.23333	PF	00
+Anse Hanga Haa	-8.9	-140.03333	PF	00
+Hanga Haa	-8.88333	-140.03333	PF	00
+Anse Hakaui	-8.95	-140.16667	PF	00
+Hakaui	-8.95	-140.16667	PF	00
+Baie Hakatupe	-9.35	-140.06667	PF	00
+Anse Hakatea	-8.95	-140.15	PF	00
+Hakatea	-8.95	-140.15	PF	00
+Baie d'Hakatau	-9.45	-140.05	PF	00
+Haka Puuae	-8.91667	-140.03333	PF	00
+Hakapehi	-8.93333	-140.08333	PF	00
+Hakapata	-9.45	-140.05	PF	00
+Baie Hakapa	-8.83333	-140.11667	PF	00
+Anse Hakaotu	-9.38333	-140.1	PF	00
+Baie Hakaoke	-8.93333	-140.05	PF	00
+Hakanai	-9.33333	-140.05	PF	00
+Baie Hakamaii	-9.41667	-140.08333	PF	00
+Baie Hakahetau	-9.35	-140.06667	PF	00
+Baie Hakahau	-9.35	-140.01667	PF	00
+Baie Hakaehu	-8.8	-140.16667	PF	00
+Haakuti	-9.36667	-140.1	PF	00
+E One Oa	-8.91667	-140.03333	PF	00
+Eiao	-8	-140.66667	PF	00
+Baie du Controleur	-8.91667	-140.01667	PF	00
+Fort Collet	-8.93333	-140.08333	PF	00
+Pointe Chickakoff	-8.98333	-140.16667	PF	00
+Mont Baatiioico	-8.96667	-140.15	PF	00
+Baie Atiheu	-8.83333	-140.06667	PF	00
+Henua Ataha	-8.86667	-140.2	PF	00
+Pointe Arquee	-8.95	-140.08333	PF	00
+Baie de Aotupa	-8.95	-140.1	PF	00
+Baie Aneo	-9.33333	-140.05	PF	00
+Baie d'Anaho	-8.83333	-140.05	PF	00
+Anaho	-8.85	-140.05	PF	00
+Baie Akuoa	-8.9	-140.21667	PF	00
+Pierre de Wilkes	-17.48333	-149.48333	PF	00
+Riviere Waimaru	-17.76667	-149.46667	PF	00
+Riviere Vuiea	-17.75	-149.18333	PF	00
+Viriviriterai	-17.66667	-149.38333	PF	00
+Veroia	-17.68333	-149.3	PF	00
+Pointe Venus	-17.48333	-149.48333	PF	00
+Iles du Vent	-17.5	-149.5	PF	00
+Motu Veiamanu	-23.88333	-147.61667	PF	00
+Riviere Vavii	-17.81667	-149.28333	PF	00
+Vallee Vavaroa	-17.53333	-149.4	PF	00
+Riviere Vavaroa	-17.51667	-149.4	PF	00
+Vavaroa	-17.51667	-149.4	PF	00
+Motu Vavara	-16.71667	-150.96667	PF	00
+Mont Vavahi	-17.83333	-149.13333	PF	00
+Variararu	-17.58333	-149.3	PF	00
+Vaiuru	-23.86667	-147.65	PF	00
+Vaiuru	-23.86667	-147.65	PF	00
+Vaiupai	-17.73333	-149.56667	PF	00
+Riviere Vaiumote	-17.46667	-149.78333	PF	00
+Mont Vaiumete	-17.51667	-149.88333	PF	00
+Riviere Vaitupa	-17.71667	-149.56667	PF	00
+Riviere Vaitunaniaa	-17.76667	-149.43333	PF	00
+Vaitunanaa	-17.76667	-149.41667	PF	00
+Vallee Vaitunamea	-17.73333	-149.43333	PF	00
+Riviere Vaitunamea	-17.76667	-149.45	PF	00
+Riviere Vaituara	-17.75	-149.15	PF	00
+Vallee de Vaitoto	-17.78333	-149.13333	PF	00
+Riviere Vaitoto	-17.76667	-149.13333	PF	00
+Riviere Vaitoto	-17.55	-149.86667	PF	00
+Riviere Vaitoto	-17.55	-149.78333	PF	00
+Baie Vaitoto	-17.55	-149.78333	PF	00
+Vaitoto	-17.76667	-149.11667	PF	00
+Vaitona	-17.75	-149.18333	PF	00
+Pointe Vaitokerau	-27.6	-144.36667	PF	00
+Vaitoare	-17.68333	-149.3	PF	00
+Vaitoare	-16.68333	-151.45	PF	00
+Pointe Vaitipi	-17.53333	-149.88333	PF	00
+Riviere Vaitiapuo	-17.48333	-149.83333	PF	00
+Riviere Vaitianna	-17.75	-149.15	PF	00
+Vallee Vaitia	-17.8	-149.21667	PF	00
+Riviere Vaitia	-17.76667	-149.18333	PF	00
+Vaitia	-16.43333	-152.26667	PF	00
+Riviere Vaitepiha	-17.73333	-149.16667	PF	00
+Vaitepaua	-15.85	-148.23333	PF	00
+Riviere Vaitepahua	-17.71667	-149.28333	PF	00
+Riviere Vaiteiripua	-17.75	-149.15	PF	00
+Vaiteiore	-17.73333	-149.58333	PF	00
+Riviere Vaitehoro	-17.73333	-149.25	PF	00
+Vaitarua	-17.73333	-149.33333	PF	00
+Vaitarua	-17.71667	-149.33333	PF	00
+Vaitape	-16.50741	-151.74913	PF	02
+Riviere Vaitaitai	-17.73333	-149.2	PF	00
+Riviere Vaitaa	-17.85	-149.13333	PF	00
+Riviere Vairutu	-17.58333	-149.81667	PF	00
+Mont Vairutu	-17.56667	-149.83333	PF	00
+Riviere Vairumu	-17.55	-149.86667	PF	00
+Mont Vairu	-27.58333	-144.31667	PF	00
+Riviere Vairohia	-17.75	-149.18333	PF	00
+Riviere Vairoa	-17.75	-149.15	PF	00
+Baie Vairoa	-17.53333	-149.76667	PF	00
+Vairoa	-17.53333	-149.76667	PF	00
+Vairo	-17.85	-149.13333	PF	00
+Riviere Vairehe	-17.8	-149.13333	PF	00
+Riviere Vairarari	-17.73333	-149.26667	PF	00
+Baie de Vairapa	-17.58689	-149.82955	PF	00
+Port Vairao	-17.8	-149.3	PF	00
+Vairao	-17.78333	-149.28333	PF	00
+Riviere Vairamu	-17.58333	-149.8	PF	00
+Riviere Vairahi	-16.78333	-151.4	PF	00
+Baie Vairahi	-16.78333	-151.4	PF	00
+Riviere Vairaharaha	-17.75	-149.38333	PF	00
+Vallee Vaipuu	-17.53333	-149.4	PF	00
+Riviere Vaipuu	-17.51667	-149.38333	PF	00
+Vaipuu	-17.83333	-149.23333	PF	00
+Vaipue	-17.71667	-149.31667	PF	00
+Vallee Vaipuarii	-17.71667	-149.55	PF	00
+Riviere Vaipuarii	-17.73333	-149.56667	PF	00
+Vallee de Vaipua	-17.51667	-149.76667	PF	00
+Pointe Vaipua	-17.51667	-149.76667	PF	00
+Vallee Vaipu	-17.75	-149.25	PF	00
+Grotte de Vaipoui	-17.86667	-149.18333	PF	00
+Riviere Vaipopo	-17.73333	-149.21667	PF	00
+Riviere Vaipoopoo	-17.58333	-149.6	PF	00
+Riviere Vaiponao	-17.73333	-149.25	PF	00
+Vallee de Vaipohe	-17.51667	-149.78333	PF	00
+Vaipohe	-17.75	-149.15	PF	00
+Riviere Vaipiura	-17.55	-149.86667	PF	00
+Recif de Vaipeu	-17.48333	-149.85	PF	00
+Vaipeu	-17.48333	-149.83333	PF	00
+Riviere Vaipapa	-17.58333	-149.83333	PF	00
+Riviere Vaipaou	-17.56667	-149.78333	PF	00
+Riviere Vaipahu	-17.48333	-149.83333	PF	00
+Pointe Vaipahu	-17.48333	-149.83333	PF	00
+Riviere Vaiou	-17.78333	-149.3	PF	00
+Vaiotomoana	-17.85	-149.13333	PF	00
+Riviere Vaiote	-17.83333	-149.13333	PF	00
+Vaiotaha	-16.45	-152.28333	PF	00
+Riviere Vaiorie	-17.48333	-149.9	PF	00
+Pointe Vaiorie	-17.56667	-149.8	PF	00
+Baie Vaiorie	-17.56667	-149.8	PF	00
+Vaiori	-17.96667	-142.23333	PF	00
+Vaiorea	-16.76667	-151.01667	PF	00
+Baie Vaiore	-16.6	-151.51667	PF	00
+Vaioperu	-17.73333	-149.55	PF	00
+Vallee de Vaiopea	-17.78333	-149.13333	PF	00
+Riviere Vaiopea	-17.78333	-149.13333	PF	00
+Mont Vaiopea	-17.78333	-149.13333	PF	00
+Riviere Vaiooro	-17.53333	-149.78333	PF	00
+Vaionifa	-17.76667	-149.13333	PF	00
+Riviere Vainiotu	-17.73333	-149.15	PF	00
+Vainiania	-17.73333	-149.56667	PF	00
+Vallee Vainiaa	-17.8	-149.26667	PF	00
+Riviere Vainiaa	-17.8	-149.28333	PF	00
+Riviere Vainano	-17.73333	-149.25	PF	00
+Riviere Vaimuu	-17.73333	-149.2	PF	00
+Vallee Vaimoto	-17.58333	-149.83333	PF	00
+Vallee Vaimoora	-17.56667	-149.85	PF	00
+Mont Vaimariri	-16.45	-152.26667	PF	00
+Riviere Vaimaraeapai	-17.73333	-149.26667	PF	00
+Riviere Vaimao	-17.53333	-149.78333	PF	00
+Riviere Vaimahanahana	-17.73333	-149.25	PF	00
+Riviere Vaima	-17.75	-149.35	PF	00
+Riviere Vailopaa	-17.73333	-149.2	PF	00
+Riviere Vailoloa	-17.76667	-149.46667	PF	00
+Riviere Vailiaera	-17.7	-149.3	PF	00
+Riviere Vailerimu	-17.73333	-149.21667	PF	00
+Baie Vaihuti	-16.88333	-151.45	PF	00
+Riviere Vaihoata	-17.76667	-149.43333	PF	00
+Lac Vaihiria	-17.66667	-149.41667	PF	00
+Riviere Vaihi	-17.68333	-149.3	PF	00
+Vaihi	-17.76667	-149.3	PF	00
+Riviere Vaihe	-17.85	-149.25	PF	00
+Riviere Vaiharu	-17.63333	-149.31667	PF	00
+Riviere Vaihanu	-17.56667	-149.85	PF	00
+Riviere Vaifora	-17.46667	-149.78333	PF	00
+Vallee Vaifare	-17.55	-149.85	PF	00
+Riviere Vaifare	-17.55	-149.86667	PF	00
+Vaieri	-17.8	-149.28333	PF	00
+Baie Vaiare	-17.52333	-149.775	PF	00
+Riviere Vaiavao	-17.65	-149.6	PF	00
+Riviere Vaiavaine	-17.68333	-149.3	PF	00
+Port de Vaiau	-17.86667	-149.18333	PF	00
+Riviere Vaiatu	-17.68333	-149.58333	PF	00
+Riviere Vaiarupenu	-17.68333	-149.3	PF	00
+Vaiaramato	-17.83333	-149.26667	PF	00
+Riviere Vaiapaura	-16.76667	-151.46667	PF	00
+Presqu'ile Vaiannana	-23.86667	-147.68333	PF	00
+Pointe Vaiannana	-23.86667	-147.68333	PF	00
+Vallee Vaianahe	-17.55	-149.85	PF	00
+Baie de Vaianahe	-17.58135	-149.84003	PF	00
+Baie Vaianae	-16.9	-151.4	PF	00
+Riviere Vaiahore	-17.71667	-149.3	PF	00
+Riviere Vaiahiri	-17.46667	-149.78333	PF	00
+Baie Vaiaeho	-16.85	-151.46667	PF	00
+Baie Vaiaau	-16.86667	-151.46667	PF	00
+Pointe Vaiaahai	-16.66667	-151.51667	PF	00
+Riviere Vaiaa	-17.68333	-149.58333	PF	00
+Riviere Vahoata	-17.51667	-149.53333	PF	00
+Vahituri	-15.27491	-147.21851	PF	03
+Vahi Tarua	-17.73333	-149.33333	PF	00
+Riviere Vahiria	-17.76667	-149.38333	PF	00
+Vahi Poeri	-17.73333	-149.3	PF	00
+Vahi Pahu	-17.73333	-149.31667	PF	00
+Baie Vahioti	-16.58333	-151.5	PF	00
+Vallee Vahii	-17.58333	-149.31667	PF	00
+Riviere Vahii	-17.58333	-149.3	PF	00
+Vahiara	-17.55	-149.51667	PF	00
+Motu Vahapiapia	-16.25	-145.61667	PF	00
+Riviere Vaapopo	-17.51667	-149.51667	PF	00
+Mont Uui	-17.5	-149.9	PF	00
+Vallee Uufau	-17.53333	-149.86667	PF	00
+Riviere Uufau	-17.53333	-149.86667	PF	00
+Port d'Uturoa	-16.73333	-151.41667	PF	00
+Uturoa	-16.72891	-151.44482	PF	02
+Uturaufea	-17.7	-149.3	PF	00
+Utukainga	-16.35	-145.48333	PF	00
+Motu Uta	-17.53333	-149.56667	PF	00
+Riviere Ururoa	-17.51667	-149.5	PF	00
+Uritutua	-17.8	-149.28333	PF	00
+Urihore	-17.78333	-149.28333	PF	00
+Ure Vai Arava	-17.81667	-149.2	PF	00
+Mont Urau	-17.83333	-149.16667	PF	00
+Col d'Ura-faaa	-17.66667	-149.41667	PF	00
+Upapa	-16.73333	-151.46667	PF	00
+Umeameo	-17.71667	-149.31667	PF	00
+Uaihou	-17.63333	-149.6	PF	00
+Uahupariva	-17.83333	-149.28333	PF	00
+Riviere Tuuto	-17.56667	-149.85	PF	00
+Baie Tuuroto	-16.91667	-151.45	PF	00
+Pointe Tuufenua	-16.76667	-151.48333	PF	00
+Riviere Tutueheru	-17.56667	-149.8	PF	00
+Vai Tutae Puaa	-17.85	-149.21667	PF	00
+Motu Tutaemaro	-15.31667	-146.75	PF	00
+Pointe Turuoetemata	-17.51667	-149.9	PF	00
+Outu Turoa	-17.51667	-149.4	PF	00
+Mont Turivao	-23.86667	-147.61667	PF	00
+Mont Turi	-16.71667	-151	PF	00
+Sommet Tuputupuraa	-17.55	-149.81667	PF	00
+Tupapau	-17.8	-149.3	PF	00
+Tupapati	-17.54584	-142.66871	PF	00
+Tupana	-16.13333	-146.33333	PF	03
+Pointe Tupai	-17.51667	-149.76667	PF	00
+Atoll Tupai	-16.28333	-151.83333	PF	00
+Vai Tupa	-17.56667	-149.61667	PF	00
+Baie Tuofao	-17.58333	-149.8	PF	00
+Tunapoa	-17.56667	-149.83333	PF	00
+Vallee Tunahe	-17.48333	-149.9	PF	00
+Tukuhora	-17.34605	-145.51709	PF	00
+Motu Tuitui	-23.86667	-147.7	PF	00
+Tuiora	-17.85	-149.16667	PF	00
+Mont Tuhi	-17.81667	-149.16667	PF	00
+Tuherahera	-15.11414	-148.24453	PF	00
+Tuete	-17.76667	-149.13333	PF	00
+Iles Tubuai	-23	-150	PF	00
+Baie Tubuai	-27.56667	-144.33333	PF	00
+Tubuai	-23.36653	-149.48032	PF	05
+Baie Tubua	-16.75	-151.41667	PF	00
+Vallee de Tuaura	-17.51667	-149.48333	PF	00
+Riviere Tuaura	-17.5	-149.48333	PF	00
+Tuareva	-17.53333	-149.31667	PF	00
+Tuara	-17.75	-149.15	PF	00
+Motu Tuapua	-23.86667	-147.58333	PF	00
+Atoll Tuanake	-16.66667	-144.21667	PF	00
+Pointe Tuanae	-16.9	-151.45	PF	00
+Archipel des Tuamotu	-19	-142	PF	00
+Tuamotu	-27.56667	-144.31667	PF	00
+Tuaiva	-15.3	-146.88333	PF	00
+Pointe Tuahora	-16.48333	-151.71667	PF	00
+Banc Touria	-17.48333	-149.85	PF	00
+Touoata	-17.56667	-149.78333	PF	00
+Motu Touanae	-16.43333	-152.23333	PF	00
+Roche Totoro	-23.85	-147.68333	PF	00
+Vallee de Toto	-17.56667	-149.81667	PF	00
+Totini	-17.75	-149.41667	PF	00
+Baie Torevau	-17.75	-149.31667	PF	00
+Torea	-17.85	-149.25	PF	00
+Torea	-16.76667	-151.48333	PF	00
+Mont Topau	-17.5	-149.76667	PF	00
+Motu Topati	-16.73333	-150.96667	PF	00
+Toopua Iti	-16.53333	-151.76667	PF	00
+Pic Toopua	-16.51667	-151.76667	PF	00
+Toopua	-16.51667	-151.76667	PF	00
+Pointe Tonoi	-16.73333	-151.41667	PF	00
+Pic Tonarutu	-23.4	-149.5	PF	00
+Vallee Tomatoatoa	-17.8	-149.13333	PF	00
+Toini	-16.36618	-144.35645	PF	03
+Toi	-17.81667	-149.21667	PF	00
+Tohouo	-17.76667	-149.3	PF	00
+Mont Tohivea	-17.55	-149.81667	PF	00
+Recif Tohautu	-17.75	-149.31667	PF	00
+Bassin de Tohautu	-17.75	-149.31667	PF	00
+Tohautu	-17.75	-149.31667	PF	00
+Motu Tofari	-16.48045	-151.69167	PF	02
+Toetoe	-17.7	-149.56667	PF	00
+Toerao	-16.53333	-151.73333	PF	00
+Motu Toena	-23.35	-149.4	PF	00
+Atoll Toau	-15.91667	-146	PF	00
+Toatoatu	-16.71667	-151.46667	PF	00
+Toa Tehe	-17.5	-149.5	PF	00
+La Chaine du Toatea	-17.5	-149.5	PF	00
+Toatane	-17.46667	-149.81667	PF	00
+Toataa	-17.73333	-149.2	PF	00
+Toa Roto	-17.83333	-149.26667	PF	00
+Toaroto	-17.71667	-149.23333	PF	00
+Banc Toaroa	-17.76667	-149.13333	PF	00
+Toaputae	-17.71667	-149.23333	PF	00
+Toapuhi	-16.66667	-151.46667	PF	00
+Toapu	-17.71667	-149.25	PF	00
+Toa Nui	-17.81667	-149.28333	PF	00
+Toanoano	-17.85	-149.21667	PF	00
+Toamotea	-17.73333	-149.33333	PF	00
+Pointe Toamaro	-16.68333	-151.46667	PF	00
+Toamaro	-16.85	-151.48333	PF	00
+Toamara	-17.71667	-149.3	PF	00
+Toa Mapa	-17.48333	-149.5	PF	00
+Toa Maere	-17.85	-149.25	PF	00
+Toamaere	-17.75	-149.31667	PF	00
+Toaiti	-17.73333	-149.23333	PF	00
+Toahotu	-16.65	-151.41667	PF	00
+Toahotu	-17.75	-149.3	PF	00
+Vallee de Toahiva	-16.86667	-151.38333	PF	00
+Pointe Toahiva	-17.53333	-149.88333	PF	00
+Baie de Toahiva	-16.83333	-151.35	PF	00
+Mont Toaeho	-17.81667	-149.16667	PF	00
+Riviere Toaaie	-17.85	-149.23333	PF	00
+Mont Tiura	-17.51667	-149.86667	PF	00
+Anse Tiupi	-17.73333	-149.33333	PF	00
+Vallee Titivari	-17.75	-149.36667	PF	00
+Riviere Titivari	-17.75	-149.33333	PF	00
+Pointe Tiritau	-17.53333	-149.9	PF	00
+Tiripoa	-17.71667	-149.3	PF	00
+Tiputa	-14.97663	-147.62466	PF	03
+Riviere Tipaerui	-17.53333	-149.56667	PF	00
+Tipaerui	-17.53333	-149.56667	PF	00
+Tipaemau	-16.78333	-151.36667	PF	00
+Pointe Tipae	-17.59364	-149.79423	PF	00
+Riviere Tiori	-17.56667	-149.78333	PF	00
+Tiomati	-17.78333	-149.28333	PF	00
+Vai Tio	-17.86667	-149.2	PF	00
+Tikei	-14.96667	-144.53333	PF	00
+Atoll Tikehau	-15	-148.16667	PF	00
+Tiitau	-17.73333	-149.25	PF	00
+Tihirahi	-17.85	-149.23333	PF	00
+Tiheva	-17.53333	-149.78333	PF	00
+Tiere	-17.83333	-149.11667	PF	00
+Tiaure	-17.53333	-149.78333	PF	00
+Tiarei	-17.53333	-149.33333	PF	00
+Pointe Tiaraha	-17.55	-149.78333	PF	00
+Tiaraha	-17.55	-149.78333	PF	00
+Ruisseau Tiara	-23.88333	-147.65	PF	00
+Tiapau	-17.56667	-149.3	PF	00
+Motu Tiapaa	-16.46667	-152.25	PF	00
+Tianoa	-16.48333	-151.71667	PF	02
+Tiano	-16.83333	-151.46667	PF	00
+Tiamao	-17.73333	-149.56667	PF	00
+Pointe Tiamahana	-16.65	-151.51667	PF	00
+Tiaiti	-17.83333	-149.26667	PF	00
+Motu Tiahura	-17.48728	-149.89564	PF	00
+Riviere Tiafirufiru	-17.53333	-149.88333	PF	00
+Tiafa	-17.75	-149.16667	PF	00
+Riviere Tiaaia	-17.46667	-149.76667	PF	00
+Mouillage de la Thisbe	-16.73333	-151.41667	PF	00
+Teveiroa	-16.47148	-151.77209	PF	02
+Tevaitoa	-16.78333	-151.5	PF	00
+Mont Tevaitahu	-27.61667	-144.33333	PF	00
+Pointe Tevaiputa	-27.61667	-144.35	PF	00
+Tevailohi	-17.66667	-149.35	PF	00
+Teureohurupa	-17.56667	-149.81667	PF	00
+Teuo	-23.36667	-149.43333	PF	00
+Teu	-16.01667	-142.43333	PF	00
+Mont Tetufera	-17.66667	-149.43333	PF	00
+Te Tuana	-17.53333	-149.36667	PF	00
+Pointe Tetuamotu	-17.55	-149.86667	PF	00
+Te Tuairi Iri	-17.76667	-149.43333	PF	00
+Baie Tetoroa	-16.81667	-151.46667	PF	00
+Tetoara	-17.55	-149.78333	PF	00
+Tetira	-17.61667	-149.3	PF	00
+Atoll Tetiaroa	-17.025	-149.55833	PF	00
+Vallee Tetiairi	-17.51667	-149.43333	PF	00
+Mont Tete	-16.63333	-151.5	PF	00
+Pointe Tetaupu	-17.59281	-149.82407	PF	00
+Tetaro	-16.75	-151.41667	PF	00
+Monts Te Tara i Paue	-17.56667	-149.8	PF	00
+Tetamanu	-16.51667	-145.46667	PF	00
+Pointe Tetaeuo	-17.5	-149.91667	PF	00
+Pointe Terurua	-17.86667	-149.13333	PF	00
+Riviere Teruea	-17.73333	-149.23333	PF	00
+Teruaupoa	-17.56667	-149.8	PF	00
+Terua te Auea	-17.53333	-149.56667	PF	00
+Te Rua Pua	-17.51667	-149.53333	PF	00
+Teruamao	-17.83333	-149.13333	PF	00
+Te Rua Mao	-17.58333	-149.6	PF	00
+Riviere Teruairi	-17.55	-149.78333	PF	00
+Teruafaroa	-17.66667	-149.3	PF	00
+Banc Teruaea	-17.63333	-149.3	PF	00
+Terre Eugenie	-17.75	-149.45	PF	00
+Teririaiaa	-17.55	-149.8	PF	00
+Morne Terioto	-17.86667	-149.18333	PF	00
+Tereporepo	-14.96667	-144.55	PF	00
+Tere-ia-Varoua	-16.45	-152.26667	PF	00
+Pointe Tereia	-16.76667	-151.48333	PF	00
+Pointe Tereia	-16.47313	-151.76282	PF	00
+Terehe	-17.75	-149.5	PF	00
+Vallee Tereehia	-17.73333	-149.55	PF	00
+Riviere Tereehia	-17.75	-149.55	PF	00
+Mont Te Ratua	-16.45	-152.25	PF	00
+Source Terairoa	-17.51667	-149.9	PF	00
+Teraiotupo	-17.66667	-149.4	PF	00
+Plateau de Teraio Tapu	-17.7	-149.46667	PF	00
+Vallee Terahimaua	-17.5	-149.86667	PF	00
+Pic Teraetu	-23.4	-149.48333	PF	00
+Pointe Tepuu	-23.38333	-149.51667	PF	00
+Riviere Teputa	-17.76667	-149.13333	PF	00
+Tepupa	-17.55	-149.8	PF	00
+Pointe Tepukutautu	-27.6	-144.33333	PF	00
+Tepukamaruia	-14.16516	-141.27156	PF	03
+Col de Tepuatiafa	-17.51667	-149.8	PF	00
+Vallee Tepu	-17.48333	-149.81667	PF	00
+Tepu	-23.4	-149.5	PF	00
+Atoll Tepoto	-16.81667	-144.28333	PF	00
+Tepoto	-14.10275	-141.42878	PF	00
+Baie Teporou	-17.55	-149.78333	PF	00
+Mont Tepiahu	-27.6	-144.3	PF	00
+Pointe Tepee	-17.48932	-149.87918	PF	00
+Te Pari	-17.88333	-149.16667	PF	00
+Pointe Tepapuaa	-17.56667	-149.78333	PF	00
+Riviere Tepao	-17.58333	-149.35	PF	00
+Pointe Tepane	-16.66667	-151.43333	PF	00
+Te Oropaa	-17.6	-149.6	PF	00
+Riviere Teoro	-17.55	-149.86667	PF	00
+Baie Teopoo	-17.56667	-149.78333	PF	00
+Pointe Teopape	-16.7	-151.03333	PF	00
+Baie Teoneroa-Haaoa	-16.63333	-151.43333	PF	00
+Pointe Teoneatia	-17.55	-149.78333	PF	00
+Pointe Teoneahua	-17.58333	-149.86667	PF	00
+Vallee Teohu	-17.73333	-149.48333	PF	00
+Riviere Teohu	-17.76667	-149.48333	PF	00
+Pointe Teofaitaamao	-17.58333	-149.81667	PF	00
+Tenukupara	-14.53333	-146.36667	PF	00
+Pointe Teniutaoto	-17.55	-149.86667	PF	00
+Teniuohiri	-17.53333	-149.88333	PF	00
+Pointe Tenape	-16.75	-151.48333	PF	00
+Vallee Tenaira	-17.73333	-149.38333	PF	00
+Riviere Tenaira	-17.75	-149.38333	PF	00
+Temupua	-17.83333	-149.25	PF	00
+Riviere Temoti	-17.53333	-149.88333	PF	00
+Plateau de Temehani	-16.76667	-151.45	PF	00
+Port de Tematoe	-17.61667	-149.3	PF	00
+Pointe Te Matoaitanata	-23.86667	-147.68333	PF	00
+Tematahoa	-17.5	-145.36667	PF	00
+Atoll Tematagi	-21.68333	-140.66667	PF	00
+Temarii	-16	-142.43333	PF	00
+Temarie	-17.33333	-145.56667	PF	00
+Pointe Temare	-27.61667	-144.28333	PF	00
+Te Mara Tohivea	-17.53333	-149.76667	PF	00
+Pointe Temaranga	-27.6	-144.31667	PF	00
+Temao	-15.81667	-148.26667	PF	00
+Recif de Temaino	-17.76667	-149.31667	PF	00
+Temahino	-17.75	-149.3	PF	00
+Pointe Temaearoa	-17.48333	-149.86667	PF	00
+Lac Temae	-17.48333	-149.76667	PF	00
+Temae	-17.48333	-149.76667	PF	00
+Atoll Tekokota	-17.3	-142.56667	PF	00
+Tekanapi	-16.01667	-142.45	PF	00
+Mont Teivihee	-17.5	-149.76667	PF	00
+Teipe	-17.75	-149.31667	PF	00
+Mont Teiehe	-17.81667	-149.13333	PF	00
+Mont Teiatao	-17.53333	-149.88333	PF	00
+Baie Tehurui	-16.85	-151.46667	PF	00
+Atoll Tehuata	-16.83333	-141.91667	PF	00
+Tehuarupe	-17.56667	-149.85	PF	00
+Tehua Roto	-17.83333	-149.11667	PF	00
+Tehuahine	-16	-142.43333	PF	00
+Vallee de Tehoro	-17.75	-149.25	PF	00
+Rocher Tehoro	-23.85	-147.65	PF	00
+Anse Tehipatoi	-17.73333	-149.3	PF	00
+Riviere Tehiahauri	-17.51667	-149.9	PF	00
+Tehere Raaume	-17.83333	-149.13333	PF	00
+Tehekega	-14.1	-141.43333	PF	00
+Pointe Tehau	-17.49063	-149.89267	PF	00
+Motu Tehau	-23.83333	-147.6	PF	00
+Banc Teharato Sud	-16	-142.43333	PF	00
+Banc Teharato Nord	-16	-142.43333	PF	00
+Tehakoro	-18.13476	-140.89005	PF	03
+Mont Tefuira	-17.53333	-149.86667	PF	00
+Pointe Teffaao	-16.7	-151.03333	PF	00
+Baie Tefautaupe	-17.58333	-149.81667	PF	00
+Tefautaupe	-17.51667	-149.4	PF	00
+Tefau	-17.56667	-149.85	PF	00
+Pointe Tefareroa	-17.55	-149.86667	PF	00
+Te-Fare-Arii	-16.45	-152.25	PF	00
+Pointe Tefaramoo	-17.5	-149.76667	PF	00
+Te Fana i Ahurai	-17.55	-149.6	PF	00
+Baie de Teavaro	-17.48333	-149.76667	PF	00
+Teavaro	-17.5	-149.76667	PF	00
+Teautavaha	-16.83333	-151.35	PF	00
+Teaurua Rahi	-17.58333	-149.8	PF	00
+Teaurua Iti	-17.58333	-149.8	PF	00
+Banc de Teaue	-17.73333	-149.31667	PF	00
+Te Auae	-17.53333	-149.58333	PF	00
+Teaua	-17.73333	-149.31667	PF	00
+Baie Teatiati	-17.51667	-149.76667	PF	00
+Teatea	-16.13333	-145.81667	PF	00
+Riviere Tearutea	-17.53333	-149.86667	PF	00
+Cretes Teara Tapu	-17.71667	-149.5	PF	00
+Mont Tearai	-17.5	-149.78333	PF	00
+Te Arahoa	-17.53333	-149.35	PF	00
+Mont Teapiri	-17.5	-149.9	PF	00
+Baie Teapaa	-16.78333	-151.01667	PF	00
+Teapaa	-16.76667	-151	PF	00
+Te Aoua	-16.45	-152.26667	PF	00
+Teaoa	-17.56667	-149.78333	PF	00
+Pointe Teanatua	-17.5	-149.75	PF	00
+Te Anamoo Caverne	-16.45	-152.26667	PF	00
+Mont Te Anaiou	-16.45	-152.26667	PF	00
+Teana	-15.83049	-140.89562	PF	03
+Pointe Teakateke	-27.63333	-144.33333	PF	00
+Bassin Teahupoo	-17.83333	-149.26667	PF	00
+Teahupoo	-17.83333	-149.26667	PF	00
+Mont Teaharoa	-17.5	-149.78333	PF	00
+Teaharoa	-17.46667	-149.76667	PF	00
+Pointe Tchaugara	-27.6	-144.3	PF	00
+Taverea	-17.71667	-149.58333	PF	00
+Mont Tavahi	-16.73333	-151.03333	PF	00
+Tauturau	-27.63333	-144.3	PF	00
+Tautu	-16.56667	-151.51667	PF	00
+Vallee de Tautira	-17.76667	-149.16667	PF	00
+Presqu'ile de Tautira	-17.75	-149.16667	PF	00
+Pointe Tautira	-17.73333	-149.15	PF	00
+Bassin de Tautira	-17.75	-149.15	PF	00
+Tautira	-17.73333	-149.15	PF	00
+Mont Tautautu	-27.61667	-144.33333	PF	00
+Pointe Taurere	-16.55	-151.71667	PF	00
+Tauraroa	-16	-142.43333	PF	00
+Taura	-27.61667	-144.35	PF	00
+Riviere Taupapa	-17.85	-149.25	PF	00
+Chenal Taunoa	-17.51667	-149.55	PF	00
+Tau-noa	-17.51667	-149.55	PF	00
+Taunoa	-17.75	-149.35	PF	00
+Taunoa	-17.51667	-149.55	PF	00
+Tauna	-27.6	-144.28333	PF	00
+Atoll Tauere	-17.36667	-141.5	PF	00
+Pointe Tatutu	-17.53333	-149.76667	PF	00
+Tatoi	-16.45	-152.26667	PF	00
+Mont Tatiri	-17.51667	-149.88333	PF	00
+Tatauroa	-17.61667	-149.3	PF	00
+Tatara-moa	-17.85	-149.16667	PF	00
+Pointe Tataa	-17.56667	-149.61667	PF	00
+Tataa	-17.55	-149.6	PF	00
+Tarione	-15.98155	-140.16658	PF	00
+Riviere Tarevareva	-17.68333	-149.58333	PF	00
+Tarehu	-17.48333	-149.91667	PF	00
+Isthme de Taravao	-17.71667	-149.31667	PF	00
+Fort de Taravao	-17.71667	-149.3	PF	00
+Baie de Taravao	-17.71667	-149.28333	PF	00
+Taravao	-17.73333	-149.31667	PF	00
+Mont Taravaapura	-17.48333	-149.9	PF	00
+Tarania	-17.81667	-149.25	PF	00
+Tarakoi	-27.58333	-144.28333	PF	00
+Mont Taraia	-23.88333	-147.66667	PF	00
+Tarahou Apouhi	-16.41667	-152.26667	PF	00
+Tarae	-16.45	-152.26667	PF	00
+Tara	-17.85	-149.23333	PF	00
+Motu Tapute	-16.86667	-151.45	PF	00
+Tapui	-27.6	-144.33333	PF	00
+Baie Tapuamu	-16.61667	-151.53333	PF	00
+Bassin de Tapuaeraha	-17.78333	-149.3	PF	00
+Riviere Tapuaawi	-17.85	-149.23333	PF	00
+Motu Tapu	-16.5049	-151.77672	PF	02
+Riviere Tapoioae	-17.53333	-149.78333	PF	00
+Mont Tapioi	-23.88333	-147.68333	PF	00
+Mont Tapioi	-17.78333	-149.13333	PF	00
+Mont Tapioi	-16.7531	-151.46396	PF	00
+Tapiko	-27.63333	-144.3	PF	00
+Motu Tape	-16.5	-151.7	PF	00
+Tapahi	-17.5	-149.45	PF	00
+Taouho	-17.55	-149.48333	PF	00
+Taoru	-16.75	-151.41667	PF	00
+Pointe Tanitoa	-23.35	-149.45	PF	00
+Riviere Tanio	-27.65	-149.31667	PF	00
+Tangihia	-16.03333	-142.45	PF	00
+Mont Tanga	-27.6	-144.3	PF	00
+Recif Tanai	-23.83333	-147.65	PF	00
+Tamatoa	-23.38831	-149.45093	PF	00
+Mont Tamarutofa	-17.53333	-149.83333	PF	00
+Motu Tamaro	-15.56667	-146.25	PF	00
+Plateau de Tamanu	-17.61667	-149.53333	PF	00
+Atoll Takume	-15.81667	-142.2	PF	00
+Takeke	-16	-142.43333	PF	00
+Takaroa Atoll	-14.46667	-144.96667	PF	00
+Atoll Takapoto	-14.63333	-145.2	PF	00
+Pointe Takangolalanga	-27.61667	-144.35	PF	00
+Banc Taiuriu	-16.71667	-151.03333	PF	00
+Taiti	-17.65	-149.51667	PF	00
+Pointe Taitea	-17.5	-149.91667	PF	00
+Mont Taitaeaha	-16.43333	-152.25	PF	00
+Mont Taita	-23.38333	-149.45	PF	00
+Roche Taipari	-17.6	-149.6	PF	00
+Baie de Taipahia	-17.58333	-149.3	PF	00
+Source Taiomehia	-17.51667	-149.9	PF	00
+Pointe Tainuu	-16.8	-151.48333	PF	00
+Riviere Taihuaru	-16.76667	-151.46667	PF	00
+Riviere Taiemiti	-17.53333	-149.9	PF	00
+Atoll Taiaro	-15.73333	-144.63333	PF	00
+Taiariaru	-17.83333	-149.26667	PF	00
+Pointe Taiari	-17.48333	-149.85	PF	00
+Presqu'ile de Taiarapu	-17.78333	-149.23333	PF	00
+Motu Taiahu	-16.76667	-150.93333	PF	00
+Tahuotira	-17.6	-149.35	PF	00
+Tahu-Naoe	-16.75	-151.48333	PF	00
+Tahuna	-17.8	-149.13333	PF	00
+Mouillage de Tahueia	-23.35	-149.43333	PF	00
+Tahiti	-17.61667	-149.45	PF	00
+Motu Tahiri	-17.55	-149.6	PF	00
+Tahire	-17.78333	-149.3	PF	00
+Tahi	-16.46498	-151.74479	PF	00
+Vallee de Tahaute	-17.56667	-149.33333	PF	00
+Tahateao	-16.71667	-151.03333	PF	00
+Riviere Taharuu	-17.75	-149.46667	PF	00
+Taharoa	-17.73333	-149.21667	PF	00
+Pointe Tahara	-17.5	-149.5	PF	00
+Mont Tahara	-17.5	-149.5	PF	00
+Atoll Tahanea	-16.86667	-144.75	PF	00
+Tahaa	-16.63333	-151.5	PF	00
+Mont Taga	-27.6	-144.31667	PF	00
+Mont Tafanio	-17.51667	-149.9	PF	00
+Pointe Taeroero	-14.2	-141.18333	PF	03
+Atoll Taenga	-16.35	-143.13333	PF	00
+Motu Tae	-15.2	-146.8	PF	00
+Mont Tabu	-16.7	-150.98333	PF	00
+Mont Taatuapae	-17.51667	-149.86667	PF	00
+Vai Taare	-17.71667	-149.31667	PF	00
+Vallee Taapurau	-17.51667	-149.9	PF	00
+Vallee de Taapuna	-17.6	-149.6	PF	00
+Taapuna	-17.6	-149.6	PF	00
+Riviere de Taapeha	-17.86667	-149.15	PF	00
+Baie de Taapeha	-17.86667	-149.15	PF	00
+Pointe Taahio	-16.5	-151.73333	PF	00
+Pointe Taahava	-16.76667	-151.48333	PF	00
+Pointe Sud	-16	-142.43333	PF	00
+Ile du Sud	-21.8	-154.68333	PF	00
+Soufleur	-17.86667	-149.15	PF	00
+Recif Soaotoi	-17.53333	-149.58333	PF	00
+Sainte Amelie	-17.53333	-149.56667	PF	00
+Ilot de Sable	-17.76667	-149.41667	PF	00
+Rurutu	-22.45704	-151.35542	PF	05
+Pointe Ruea	-27.56667	-144.35	PF	00
+Riviere Rua Upai	-17.81667	-149.28333	PF	00
+Rocher Ruatara	-23.85	-147.66667	PF	00
+Mont Ruatara	-27.58333	-144.33333	PF	00
+Ruamao	-17.75	-149.31667	PF	00
+Riviere Ruairi	-17.56667	-149.8	PF	00
+Motu Ruahuata	-23.9	-147.68333	PF	00
+Mont Ruahiti	-17.55	-149.85	PF	00
+Motu Rua	-16.5	-151.7	PF	00
+Pic Rouge	-23.88333	-147.7	PF	00
+Le Pic Rouge	-17.56667	-149.58333	PF	00
+Riviere Roturua	-17.56667	-149.78333	PF	00
+Mont Rotui	-17.5	-149.83333	PF	00
+Rotoava	-16.05	-145.61667	PF	00
+Vai na Roto	-17.83333	-149.26667	PF	00
+Vai Roroa	-17.85	-149.21667	PF	00
+Vai Rorahau	-17.85	-149.21667	PF	00
+Roniu	-17.81667	-149.2	PF	00
+Iles du Roi Georges	-14.53333	-145.13333	PF	00
+Mouillage des Roches Noires	-23.35	-149.46667	PF	00
+Anse de Robinson	-17.5	-149.85	PF	00
+Roae	-17.78333	-149.3	PF	00
+Motu Roa	-16.88333	-151.45	PF	00
+Pointe Riri	-17.76667	-149.3	PF	00
+Vai Rimu	-17.55	-149.6	PF	00
+Rimatara	-22.64008	-152.80583	PF	00
+Riviere Reroto	-17.76667	-149.46667	PF	00
+Vai Repo	-17.81667	-149.28333	PF	00
+Atoll Reitoru	-17.86667	-143.08333	PF	00
+Vallee de la Reine	-17.53333	-149.56667	PF	00
+Pointe du Regent	-16.73333	-151.43333	PF	00
+Atoll Ravahere	-18.23333	-142.15	PF	00
+Rautini	-15.36667	-146.61667	PF	00
+Riviere Rauru	-17.65	-149.31667	PF	00
+Raurau a Pare	-17.5	-149.41667	PF	00
+Pointe Rauraia	-17.53333	-149.36667	PF	00
+Mont Rauiro	-17.81667	-149.13333	PF	00
+Mont Rauiri	-17.81667	-149.13333	PF	00
+Pointe Rauero	-16.9	-151.4	PF	00
+Baie Rate	-16.75	-150.96667	PF	00
+Plateau du Rata	-17.61667	-149.51667	PF	00
+Raroia Atoll	-16.06759	-142.42779	PF	03
+Mont Raraterepa	-23.86667	-147.66667	PF	00
+Rarapai	-27.56667	-144.35	PF	00
+Atoll Raraka	-16.16667	-144.9	PF	00
+Rapa Iti	-27.61667	-144.28333	PF	00
+Pointe Rapae	-17.86667	-149.15	PF	00
+Rapa	-27.6	-144.33333	PF	00
+Atoll Rangiroa	-15.16667	-147.58333	PF	03
+Raivavae	-23.86667	-147.66667	PF	00
+Pointe Raititi	-16.53333	-151.75	PF	00
+Raitahiti	-15.673	-146.87635	PF	00
+Rairua	-23.86667	-147.68333	PF	00
+Rairai	-17.53333	-149.91667	PF	00
+Raianaonao	-17.75	-149.51667	PF	00
+Rahiri	-17.81667	-149.28333	PF	00
+Pointe Rahere	-17.51667	-149.55	PF	00
+Groupe Raevski	-16.75	-144.23333	PF	00
+Baie Rae	-16.61667	-151.43333	PF	00
+Motu Puuru	-17.56667	-149.3	PF	00
+Puuru	-17.65	-149.3	PF	00
+Puuroa	-17.51667	-149.78333	PF	00
+Sommet Puuhinu	-17.48333	-149.83333	PF	00
+Mont Puuaretu	-16.71667	-151.01667	PF	00
+Putuahara	-17.45	-145.46667	PF	00
+Baie Putoa	-17.55	-149.78333	PF	00
+Putiara	-17.8	-149.28333	PF	00
+Pointe Putete	-16.91667	-151.43333	PF	00
+Putaiamo	-17.56667	-149.31667	PF	00
+Pururu	-17.76667	-149.38333	PF	00
+Mont Puruo	-17.55	-149.85	PF	00
+Mont Purauti	-16.61667	-151.48333	PF	00
+Banc Puratea	-18.23333	-141.06667	PF	00
+Puraa	-17.73333	-149.35	PF	00
+Puputeai	-17.5	-149.5	PF	00
+Pupuarii	-17.75	-149.46667	PF	00
+Pointe Pupu	-27.6	-144.3	PF	00
+Mata Pupu	-16.52934	-151.72025	PF	00
+Puooro	-17.51667	-149.53333	PF	00
+Vallee de Punaruu	-17.61667	-149.55	PF	00
+Riviere Punaruu	-17.63333	-149.6	PF	00
+Punaruku	-16.51667	-143.81667	PF	00
+Riviere Punafara	-17.53333	-149.76667	PF	00
+Pointe Punaauia	-17.61667	-149.61667	PF	00
+Punaauia	-17.61667	-149.58333	PF	01
+Baie de Punaauia	-17.61667	-149.61667	PF	00
+Punaauia	-17.63333	-149.6	PF	01
+Pointe Punaaea	-17.56667	-149.8	PF	00
+Riviere Pumaoa	-17.56667	-149.78333	PF	00
+Mont Pukutaketake	-27.6	-144.35	PF	00
+Mont Pukunia	-27.58333	-144.3	PF	00
+Pointe Pukarahi	-15.96999	-140.09465	PF	00
+Pointe Puhia	-16.48333	-151.73333	PF	00
+Baie Puheru	-16.58333	-151.51667	PF	00
+Pointe Puha	-17.85	-149.13333	PF	00
+Pointe Puforatiai	-17.86667	-149.2	PF	00
+Baie de Pufau	-16.76667	-151.48333	PF	00
+Port de Pueu	-17.73333	-149.21667	PF	00
+Pueu	-17.73333	-149.21667	PF	00
+Vallee de Puaue	-17.5	-149.76667	PF	00
+Mont Puatava	-17.81667	-149.11667	PF	00
+Motu Puarua	-14.96667	-148.08333	PF	00
+Puarata	-17.75	-149.4	PF	00
+Mont Puapuapae	-17.53333	-149.86667	PF	00
+Puaiti	-17.65	-149.31667	PF	00
+Puaiti	-17.76667	-149.46667	PF	00
+Puahua	-16.7	-151.01667	PF	00
+Mont Puaataia	-17.48333	-149.9	PF	00
+Riviere Pua	-17.58333	-149.43333	PF	00
+Baie de Povai	-16.51667	-151.75	PF	00
+Povai	-16.51667	-151.73333	PF	00
+Poutei	-17.75	-149.35	PF	00
+Pouheva	-16.62238	-143.56938	PF	03
+Poreho	-17.75	-149.31667	PF	00
+Vai Pora	-17.85	-149.21667	PF	00
+Mont Popoti	-16.48333	-151.75	PF	02
+Popoti	-17.48333	-149.48333	PF	00
+Baie Popote	-17.76667	-149.48333	PF	00
+Popoeretia	-17.51667	-149.8	PF	00
+Popipoto	-16.41667	-152.26667	PF	00
+Pointe Popa	-17.51667	-149.9	PF	00
+Pointe Pooti	-17.8	-149.28333	PF	00
+Vai Poopoo	-17.5	-149.48333	PF	00
+Tombeau des Pomare	-17.51667	-149.51667	PF	00
+Pic Pokumaru	-27.61667	-144.33333	PF	00
+Pointe Pokitarava	-27.58333	-144.3	PF	00
+Pohueura	-17.78333	-149.13333	PF	00
+Riviere Pohuaru	-17.56667	-149.85	PF	00
+Mont Pohiri	-17.56667	-149.83333	PF	00
+Pointe Pohatuao	-17.53333	-149.76667	PF	00
+Riviere Pohaitara	-17.51667	-149.5	PF	00
+Ilot Plat	-23.41667	-149.41667	PF	00
+Baie Piriati	-27.56667	-144.35	PF	00
+Riviere Piretahi	-17.86667	-149.18333	PF	00
+Vallee de Pirae	-17.51667	-149.53333	PF	00
+Pirae	-17.51667	-149.53333	PF	01
+Pipine	-17.51667	-149.51667	PF	00
+Piopio	-17.46667	-149.81667	PF	00
+Pihau	-17.85	-149.23333	PF	00
+Vallee de Pihaihataha	-17.56667	-149.45	PF	00
+Pointe Pihaena	-17.48415	-149.81259	PF	00
+Pihaena	-17.48333	-149.83333	PF	00
+Port de Pihaa	-17.73333	-149.2	PF	00
+Pihaa	-17.73333	-149.2	PF	00
+Pierre	-17.8	-149.28333	PF	00
+Baie de Pierere	-17.85	-149.13333	PF	00
+Vai Piere	-17.85	-149.25	PF	00
+Riviere Piapai	-17.48333	-149.83333	PF	00
+Port Phaeton	-17.73333	-149.35	PF	00
+Banc du Phaeton	-17.61667	-149.6	PF	00
+Petou	-16.45	-152.25	PF	00
+Tour Perot	-17.61667	-149.6	PF	00
+Pererao-Fai	-16.51667	-151.73333	PF	00
+Mont Perahu	-27.58333	-144.36667	PF	00
+Motu Peihi	-16.71667	-151.03333	PF	00
+Pehuea	-17.85	-149.21667	PF	00
+Motu Pehue	-17.51667	-149.76667	PF	00
+Chenal Pehoa	-17.81667	-149.3	PF	00
+Pehoa	-17.8	-149.28333	PF	00
+Peao	-16.43333	-152.25	PF	00
+Pointe Paveau	-17.48404	-149.80159	PF	00
+Pointe Pautu	-16.71667	-150.96667	PF	00
+Pau Toru	-17.51667	-149.51667	PF	00
+Port de Paui	-17.75	-149.33333	PF	00
+Paui	-17.75	-149.33333	PF	00
+Baie Pauhure	-16.58333	-151.46667	PF	00
+Riviere Pauareoa	-17.5	-149.91667	PF	00
+Patutoa	-17.51667	-149.56667	PF	00
+Paturoa	-17.73333	-149.2	PF	00
+Patu Patu	-23.36667	-149.46667	PF	00
+Patuarepa	-17.73333	-149.63333	PF	00
+Pointe Patoe	-17.51667	-149.76667	PF	00
+Pointe Patoa	-17.81667	-149.28333	PF	00
+Baie Patio	-16.58333	-151.48333	PF	00
+Patio	-16.58333	-151.48333	PF	00
+Baie Patii	-16.66667	-151.5	PF	00
+Pointe Pati	-16.71667	-150.98333	PF	00
+Pati	-17.83333	-149.25	PF	00
+Patere	-17.75	-149.53333	PF	00
+Pataroa	-17.51667	-149.51667	PF	00
+Pointe Patangarua	-27.61667	-144.3	PF	00
+Riviere Paroa	-17.81667	-149.26667	PF	00
+Pointe Paroa	-17.5944	-149.80713	PF	00
+Paritautia	-17.63333	-149.31667	PF	00
+Paripahia	-17.76667	-149.3	PF	00
+Pariauta	-17.63333	-149.31667	PF	00
+Motu Paria	-16.88333	-151.46667	PF	00
+Cote de Pari	-17.85	-149.16667	PF	00
+Mont Parehia	-17.5	-149.76667	PF	00
+Vallee Paraura	-17.61667	-149.33333	PF	00
+Parau	-17.83333	-149.25	PF	00
+Paratahi	-17.66667	-149.3	PF	00
+Mont Parata	-17.5	-149.88333	PF	00
+Motu Pararuu	-23.88333	-147.71667	PF	00
+Parari	-17.73333	-149.21667	PF	00
+Paraoro	-17.48333	-149.81667	PF	00
+Paraohumu	-17.53333	-149.88333	PF	00
+Atoll Paraoa	-19.15	-140.71667	PF	00
+Vai Parala	-17.86667	-149.18333	PF	00
+Paraiore	-17.8	-149.28333	PF	00
+Paraeo	-17.73333	-149.23333	PF	00
+Bassin de Papeuriri	-17.76667	-149.38333	PF	00
+Riviere Papetoai	-17.48333	-149.86667	PF	00
+Recif de Papetoai	-17.48333	-149.86667	PF	00
+Papetoai	-17.49613	-149.87291	PF	00
+Riviere Papetai	-17.58333	-149.8	PF	00
+Baie Papetai	-17.58333	-149.8	PF	00
+Papereu	-17.58333	-149.6	PF	00
+Vallee de Papenoo	-17.51667	-149.41667	PF	00
+Riviere Papenoo	-17.51208	-149.42114	PF	00
+Port de Papenoo	-17.5	-149.43333	PF	00
+Pointe de Papenoo	-17.5	-149.41667	PF	00
+Papenoo	-17.5	-149.41667	PF	00
+Vallee Papeivi	-17.7	-149.31667	PF	00
+Riviere Papeivi	-17.7	-149.3	PF	00
+Riviere Papeivi	-17.56667	-149.31667	PF	00
+Vallee Papeiti	-17.71667	-149.48333	PF	00
+Papeiti	-17.73333	-149.35	PF	00
+Vallee de Papeiha	-17.65	-149.31667	PF	00
+Riviere Papeiha	-17.65	-149.31667	PF	00
+Vallee Papehue	-17.65	-149.56667	PF	00
+Riviere Papehue	-17.65	-149.6	PF	00
+Papehee	-17.6	-149.3	PF	00
+Pape Haua	-17.55	-149.6	PF	00
+Papehau	-17.85	-149.23333	PF	00
+Port de Papeete	-17.53333	-149.58333	PF	00
+Papeete	-17.53733	-149.5665	PF	01
+Pointe Papeere	-17.5	-149.85	PF	00
+Riviere Pape Ava	-17.51667	-149.55	PF	00
+Papearia	-17.56667	-149.6	PF	00
+Port de Papeari	-17.76667	-149.36667	PF	00
+Pape Amo	-17.5	-149.51667	PF	00
+Vallee Papeaea	-17.48333	-149.83333	PF	00
+Port Papawa	-17.51667	-149.53333	PF	00
+Papawa	-17.51667	-149.51667	PF	00
+Pointe Papatea	-16.71667	-151.03333	PF	00
+Paparoa	-17.71667	-149.31667	PF	00
+Paparevo	-17.76667	-149.45	PF	00
+Riviere Papaputaputa	-17.55	-149.78333	PF	00
+Papao	-17.75	-149.55	PF	01
+Papaihona	-17.56667	-149.55	PF	00
+Pointe Papaa	-17.53333	-149.76667	PF	00
+Riviere Paotoe	-17.58333	-149.83333	PF	00
+Vallee de Paoroa	-17.55	-149.8	PF	00
+Pointe Paorea	-17.53333	-149.78333	PF	00
+Vallee de Paopao	-17.5	-149.81667	PF	00
+Paopao	-17.5	-149.81667	PF	00
+Paofai	-17.8	-149.11667	PF	00
+Pointe Paoaoa	-16.53333	-151.71667	PF	00
+Paniola	-17.75	-149.48333	PF	00
+Mont Pane	-23.38333	-149.46667	PF	00
+Motu Panao	-15.63333	-146.83333	PF	00
+Iles Palliser	-15.5	-146.5	PF	00
+Baie Pake	-27.6	-144.3	PF	00
+Paite	-16.01667	-142.43333	PF	00
+Mont Pairu	-17.48333	-149.78333	PF	00
+Paiouma	-16.43333	-152.25	PF	00
+Motu Paio	-15.01667	-147.75	PF	03
+Riviere Paihoro	-17.71667	-149.31667	PF	00
+Pointe Pahua	-16.50703	-151.76694	PF	00
+Pahua	-17.71667	-149.28333	PF	00
+Pointe Pahotu	-17.76667	-149.3	PF	00
+Baie Pahopoha	-17.5	-149.76667	PF	00
+Pahonu	-17.52686	-149.55637	PF	00
+Pahoa	-17.85	-149.21667	PF	00
+Riviere Paho	-17.76667	-149.3	PF	00
+Vallee Pahiti	-16.7	-151	PF	00
+Pahiti	-16.68333	-151	PF	00
+Morne Pahiaraia	-16.7	-151.01667	PF	00
+Mont Pahia	-16.5	-151.75	PF	00
+Pahi	-17.8	-149.3	PF	00
+Vai Pahe	-17.83333	-149.26667	PF	00
+Motu Pahare	-16.71667	-150.96667	PF	00
+Vallee Pafatu	-17.5	-149.9	PF	00
+Mont Pafatu	-17.5	-149.88333	PF	00
+Pointe Pafara	-17.5	-149.76667	PF	00
+Pointe Paevaeva	-17.53333	-149.88333	PF	00
+Riviere Paetahaa	-17.51667	-149.76667	PF	00
+Vallee Paeroa	-17.53333	-149.88333	PF	00
+Riviere Paeroa	-17.53333	-149.88333	PF	00
+Mont Paeo	-16.73333	-151	PF	00
+Pointe Paelou	-17.5	-149.76667	PF	00
+Pointe Paeau	-17.51667	-149.9	PF	00
+Paeau	-17.51667	-149.91667	PF	00
+Vallee de Paea	-17.75	-149.3	PF	00
+Vallee Paea	-17.58333	-149.81667	PF	00
+Riviere de Paea	-17.73333	-149.3	PF	00
+Riviere Paea	-17.58333	-149.81667	PF	00
+Paea	-17.68333	-149.58333	PF	01
+Mont Paaru Iti	-17.48333	-149.76667	PF	00
+Paaroa	-17.73333	-149.56667	PF	00
+Vallee Paaiti	-17.68333	-149.55	PF	00
+Vallee Paahonu	-17.56667	-149.83333	PF	00
+Riviere Paahonu	-17.56667	-149.83333	PF	00
+Pointe Ovauaara	-17.81667	-149.11667	PF	00
+Riviere Ovaipiro	-17.53333	-149.78333	PF	00
+Outu-Ramea	-17.53333	-149.6	PF	00
+Outurahia	-17.53333	-149.58333	PF	00
+Outu Poto Mahire	-17.83333	-149.26667	PF	00
+Outu Maoro	-17.56667	-149.61667	PF	00
+Pointe Outuhaihai	-17.51667	-149.51667	PF	00
+Outo	-15.98333	-142.41667	PF	00
+Ile de l'Ouest	-21.8	-154.7	PF	00
+Motu Oue	-16.68333	-151.01667	PF	00
+Riviere Ouaiurohi	-17.53333	-149.76667	PF	00
+Otutara	-17.76667	-149.41667	PF	00
+Riviere Otuofai	-17.65	-149.31667	PF	00
+Otuofai	-17.65	-149.31667	PF	00
+Vallee Otuna	-17.73333	-149.53333	PF	00
+Riviere Otuna	-17.75	-149.51667	PF	00
+Otumai	-17.5	-149.81667	PF	00
+Oti Kaia	-16	-142.43333	PF	00
+Pointe Otiaroa	-17.76667	-149.38333	PF	00
+Chenal d'Otiaroa	-17.76667	-149.38333	PF	00
+Otiaroa	-17.76667	-149.4	PF	00
+Riviere Otepu	-17.5	-149.76667	PF	00
+Otepipi	-17.43333	-145.5	PF	00
+Otepipi	-15.31667	-147.46667	PF	03
+Otepa	-18.11667	-140.9	PF	03
+Mont Otemanu	-16.5	-151.73333	PF	00
+Riviere Orutai	-16.78333	-151.46667	PF	00
+Vallee Orufara	-17.5	-149.85	PF	00
+Riviere Orufara	-17.5	-149.85	PF	00
+Pointe Orufara	-17.5	-149.85	PF	00
+Orufara	-17.5	-149.85	PF	00
+Orouau	-17.46667	-149.8	PF	00
+Mont Orotufaamahea	-17.83333	-149.13333	PF	00
+Mont Orotaio	-16.76667	-151.43333	PF	00
+Oropaha	-17.75	-149.48333	PF	00
+Oroiri	-17.78333	-149.28333	PF	00
+Mont Orohena	-17.61667	-149.46667	PF	00
+Orohe	-17.85	-149.2	PF	00
+Vallee Orofere	-17.68333	-149.58333	PF	00
+Riviere Orofara	-17.5	-149.45	PF	00
+Orofara	-17.5	-149.46667	PF	00
+Orofaamu	-17.81667	-149.18333	PF	00
+Pointe Oroau	-17.48122	-149.79383	PF	00
+Mont Oranga	-27.61667	-144.31667	PF	00
+Baie Oraioperu	-17.53333	-149.76667	PF	00
+Riviere Ora	-17.75	-149.5	PF	00
+Vallee d'Opunohu	-17.51667	-149.85	PF	00
+Baie d'Opunohu	-17.5	-149.85	PF	00
+Riviere Oponu	-17.5	-149.85	PF	00
+Oponu	-17.51667	-149.85	PF	00
+Vallee Opemataira	-17.56667	-149.85	PF	00
+Pointe Opeha	-16.8	-151.38333	PF	00
+Pointe Opaura	-17.58019	-149.84239	PF	00
+Opaura	-17.56667	-149.85	PF	00
+Riviere Oparu	-16.78333	-151.46667	PF	00
+Oparari	-16	-142.41667	PF	00
+Riviere Opae-rahi	-17.48333	-149.46667	PF	00
+Oopu	-17.71667	-149.31667	PF	00
+Vallee d'Onoheha	-17.53333	-149.36667	PF	00
+Onoheha	-17.53333	-149.36667	PF	00
+Onetea	-17.73333	-149.33333	PF	00
+Pointe Oneroa	-17.73333	-149.33333	PF	00
+Oneheko	-16.01667	-142.45	PF	00
+Vai Omure	-17.85	-149.21667	PF	00
+Omuara	-17.71667	-149.58333	PF	00
+Motu Ome	-16.45	-151.73333	PF	02
+Okukina	-14.66667	-145.25	PF	00
+Riviere Oimo	-17.85	-149.25	PF	00
+Ohue Teu	-16.01667	-142.45	PF	00
+Ohue	-16.01667	-142.45	PF	00
+Ohomo	-15.85	-142.26667	PF	00
+Mont Ohiri	-16.63333	-151.5	PF	00
+Ohi Amo	-17.81667	-149.28333	PF	00
+Baie Ohemai	-16.6	-151.43333	PF	00
+Ohavere	-16	-142.41667	PF	00
+Ohava Teu	-16.01667	-142.43333	PF	00
+Ohava Marahi	-16.01667	-142.43333	PF	00
+Ohava	-16.01667	-142.43333	PF	00
+Ohava	-16.45	-143.96667	PF	00
+Pointe Ofaiorio	-16.71667	-151.03333	PF	00
+Pointe Ofailau	-17.51667	-149.76667	PF	00
+Ofaihonu	-17.51667	-149.38333	PF	00
+Ofaiharata	-17.75	-149.36667	PF	00
+Motu Ofai	-23.4	-149.41667	PF	00
+Baie Obuone	-16.63333	-151.53333	PF	00
+Motu Oavarei	-16.7	-150.98333	PF	00
+Oati	-17.81667	-149.28333	PF	00
+Oatara	-16.85	-151.31667	PF	00
+Riviere Oarufenua	-17.53333	-149.78333	PF	00
+Mont Oaraau	-17.53333	-149.8	PF	00
+Pointe Oahutapu	-16.76667	-151.48333	PF	00
+Vallee Oahu	-17.73333	-149.53333	PF	00
+Riviere Oahu	-17.75	-149.53333	PF	00
+Oae	-16.45	-152.25	PF	00
+Motu Nuutina	-15.46667	-146.45	PF	00
+Pointe Nuutere	-17.53333	-149.58333	PF	00
+Motu Nuutere	-16.88333	-151.45	PF	00
+Pointe Nuurua	-17.48613	-149.80992	PF	00
+Pointe Nuuraa	-17.53333	-149.9	PF	00
+Pointe Nuupere	-17.59083	-149.78972	PF	00
+Motu Nuumiri	-23.88333	-147.61667	PF	00
+Riviere Nuuati	-17.51667	-149.76667	PF	00
+Nutae	-17.73333	-149.25	PF	00
+Nurehia	-17.75	-149.18333	PF	00
+Atoll Nukutipipi	-20.7	-143.06667	PF	00
+Pointe Nukutere	-27.6	-144.3	PF	00
+Baie Nuarei	-17.5	-149.75	PF	00
+Marae de Nououboure	-16.45	-152.26667	PF	00
+Vai Noro	-17.85	-149.25	PF	00
+Ile du Nordet	-21.78333	-154.66667	PF	00
+Pointe Nord	-15.98333	-142.43333	PF	00
+Motu Nono	-17.71667	-149.28333	PF	00
+Sommet Noir	-23.38333	-149.43333	PF	00
+Vai Noa	-17.83333	-149.25	PF	00
+Nivee	-17.51667	-149.4	PF	00
+Niutahi	-15.5712	-146.41226	PF	00
+Vallee de Niuroa	-17.53333	-149.78333	PF	00
+Niuporiri	-17.78333	-149.28333	PF	00
+Niumaa	-17.73333	-149.23333	PF	00
+Vai ni Niore	-17.51667	-149.56667	PF	00
+Atoll Nihiru	-16.7	-142.83333	PF	00
+Niau Atoll	-16.14997	-146.35806	PF	03
+Ngnarumaova	-16.05035	-142.47495	PF	03
+Ngake	-18.38333	-140.71667	PF	03
+Atoll Nengo-Nengo	-18.78333	-141.8	PF	00
+Neketautau	-16.01667	-142.43333	PF	00
+Pointe Narioa	-27.6	-144.31667	PF	00
+Napuka Atoll	-14.17203	-141.23491	PF	03
+Napiropiro	-16	-142.41667	PF	00
+Nape Nape	-16	-142.43333	PF	00
+Motu Naonao	-15.16667	-147.51667	PF	00
+Nao Nao	-16.91667	-151.41667	PF	00
+Nansouty	-17.56667	-149.3	PF	00
+Nairiri	-17.76667	-149.43333	PF	00
+Nairi Pehe	-17.76667	-149.43333	PF	00
+Motu Mute	-16.44588	-151.7581	PF	02
+Motu Muri Maora	-16.75	-150.95	PF	00
+Mont Muatapu	-23.86667	-147.63333	PF	00
+Mont Muaroa	-17.53333	-149.85	PF	00
+Muaputa	-17.51667	-149.81667	PF	00
+Mont Muanui	-23.86667	-147.66667	PF	00
+Recif du Mouillage	-17.48333	-149.85	PF	00
+Mont Mouapu	-17.53333	-149.86667	PF	00
+Motu Ura	-22.66085	-152.80474	PF	00
+Atoll Motutunga	-17.1	-144.36667	PF	00
+Pointe Motu Tiofai	-16.73333	-151.46667	PF	00
+Pointe Motu Tabu	-16.71667	-151.45	PF	00
+Motu Moturaa	-23.36667	-149.38333	PF	00
+Motuouu	-17.75	-149.36667	PF	00
+Atoll Motu One	-15.8	-154.55	PF	00
+Riviere Motuiti	-17.48333	-149.83333	PF	00
+Lac Motuiti	-17.46667	-149.76667	PF	00
+Riviere Motui	-17.83333	-149.13333	PF	00
+Mont Motu	-27.6	-144.36667	PF	00
+Motu Motihia	-23.38333	-149.38333	PF	00
+Pointe Motenaonao	-27.63333	-144.3	PF	00
+Motea	-16.66667	-151.43333	PF	00
+Riviere Motauau	-17.55	-149.78333	PF	00
+Recif Moses	-22.8	-151.23333	PF	00
+Vallee Moruu	-17.53333	-149.88333	PF	00
+Moorea	-17.53333	-149.83333	PF	01
+Mona Fareiure	-16.45	-152.26667	PF	00
+Moerai	-22.45133	-151.34191	PF	05
+Mont Moaru	-17.5	-149.78333	PF	00
+Moana	-17.81667	-149.28333	PF	00
+Anse Mitirapa	-17.73333	-149.3	PF	00
+Mitirapa	-17.73333	-149.3	PF	00
+Point Mirimiri	-16.76667	-151.48333	PF	00
+Miramiraau Teu	-16.01667	-142.43333	PF	00
+Miramiraau	-16.03333	-142.45	PF	00
+Meremere	-16.01667	-142.45	PF	00
+Pointe Mei	-27.63333	-144.28333	PF	00
+Mehetia	-17.86667	-148.05	PF	00
+Maveraura	-17.6	-149.61667	PF	00
+Motu Mautaro	-23.35	-149.4	PF	00
+Mauru	-17.61667	-149.38333	PF	00
+Riviere Maure	-16.78333	-151.46667	PF	00
+Atoll Maupihaa	-16.83333	-153.91667	PF	00
+Mont Mauna Roa	-17.61667	-151.45	PF	00
+Vallee Mauhuti	-16.78333	-150.98333	PF	00
+Baie Mauhuti	-16.78333	-150.96667	PF	00
+Sommet Maufenua	-16.83333	-151.4	PF	00
+Pointe Maturioi	-17.58333	-149.8	PF	00
+Mont Maturaorao	-17.55	-149.85	PF	00
+Matura	-17.8	-149.28333	PF	00
+Banc Matuhu	-17.75	-149.31667	PF	00
+Matueiri-rahi	-17.58333	-149.8	PF	00
+Mont Matotea	-17.5	-149.9	PF	00
+Matotea	-23.88333	-147.7	PF	00
+Matotea	-17.81667	-149.2	PF	00
+Mont Matoerere	-16.71667	-151.01667	PF	00
+Matiti	-17.81667	-149.28333	PF	00
+Pointe Matira	-16.55	-151.73333	PF	00
+Matie	-17.83333	-149.16667	PF	00
+Riviere Matehoro	-17.75	-149.5	PF	00
+Baie de Matavai	-17.5	-149.5	PF	00
+Pointe Matautia	-17.48333	-149.88333	PF	00
+Pointe Matauri	-27.6	-144.3	PF	00
+Mouillage de Mataura	-23.35	-149.48333	PF	00
+Mataura	-23.34722	-149.48487	PF	00
+Mont Matarufau	-17.85	-149.13333	PF	00
+Sommet Matarii	-17.86667	-149.18333	PF	00
+Riviere Mataravi	-17.75	-149.18333	PF	00
+Pointe Matapu	-27.56667	-144.3	PF	00
+Mataorio	-17.8	-149.11667	PF	00
+Mataorio	-17.58333	-149.3	PF	00
+Atoll Mataiva	-14.88333	-148.66667	PF	00
+Mataiva	-17.75	-149.18333	PF	00
+Mont Mataiua	-17.48333	-149.8	PF	00
+Pic Mataihua	-16.48671	-151.73123	PF	02
+Pointe Matahuhe	-17.85	-149.25	PF	00
+Matahiva	-17.53333	-149.33333	PF	00
+Riviere Matahioa	-17.46667	-149.8	PF	00
+Pointe Matahiae	-17.81667	-149.28333	PF	00
+Riviere Mataeo	-17.6	-149.3	PF	00
+Atoll Marutea	-17	-143.16667	PF	00
+Vai Maruapo	-17.86667	-149.2	PF	00
+Riviere Maruapo	-17.63333	-149.6	PF	00
+Atoll Marokau	-18.03333	-142.28333	PF	00
+Baie de Maroe	-16.75	-150.98333	PF	00
+Maroe	-16.75	-150.98333	PF	00
+Mariuti	-17.58333	-149.43333	PF	00
+Atoll Maria	-21.8	-154.68333	PF	00
+Riviere Marepu	-17.46667	-149.8	PF	00
+Marepa	-17.46667	-149.8	PF	00
+Mont Marau	-17.61667	-149.53333	PF	00
+Pointe Maraetiria	-17.86667	-149.18333	PF	00
+Maraeapai	-17.73333	-149.26667	PF	00
+Marae	-17.53333	-149.9	PF	00
+Vallee Maraarii	-17.51667	-149.9	PF	00
+Pointe Maraa	-17.73333	-149.56667	PF	00
+Baie de Maraa	-17.73333	-149.56667	PF	00
+Maraa	-17.76667	-149.56667	PF	00
+Mapurarahi	-17.85	-149.2	PF	00
+Riviere Mapuaura	-17.66667	-149.33333	PF	00
+Mapeti	-17.76667	-149.41667	PF	00
+Mont Maouoe	-16.45	-152.26667	PF	00
+Vallee Maoroa	-17.73333	-149.45	PF	00
+Riviere Maoroa	-17.76667	-149.45	PF	00
+Pointe Maomao	-27.6	-144.3	PF	00
+Riviere Maoeraura	-17.6	-149.61667	PF	00
+Pointe de la Manutention	-17.51667	-149.56667	PF	00
+Riviere Manuihi	-16.78333	-151.46667	PF	00
+Atoll Manuhangi	-19.2	-141.26667	PF	00
+Manuai	-17.56667	-149.6	PF	00
+Atoll Manuae	-16.5	-154.66667	PF	00
+Pointe Manua	-17.58333	-149.85	PF	00
+Manua	-17.76667	-149.41667	PF	00
+Motu Manounou	-16.68333	-151	PF	00
+Motu Mano	-23.9	-147.7	PF	00
+Mont Manino	-17.51667	-149.76667	PF	00
+Motus Manini	-16.47173	-151.74934	PF	02
+Atoll Manihi	-14.4	-145.93333	PF	00
+Pic Mangaoa	-27.61667	-144.31667	PF	00
+Mont Mana	-17.5	-149.76667	PF	00
+Pointe Mamora	-16.61667	-151.53333	PF	00
+Mamanu	-17.6	-149.56667	PF	00
+Makemo	-16.59836	-143.72349	PF	03
+Mont Makatea	-27.63333	-144.3	PF	00
+Makatea	-15.83333	-148.25	PF	00
+Pointe Makaoere	-27.61667	-144.36667	PF	00
+Mairipehe	-17.76667	-149.43333	PF	00
+Vallee Mairi	-17.7	-149.55	PF	00
+Vallee Maioo	-17.73333	-149.55	PF	00
+Riviere Maioo	-17.73333	-149.55	PF	00
+Maiao	-17.65278	-150.63	PF	00
+Maiai	-14.91667	-148.06667	PF	00
+Mont Mahutaa	-17.65	-149.5	PF	00
+Mahu	-23.3941	-149.4768	PF	00
+Le Banc Mahoti	-17.5	-149.5	PF	00
+Mahire	-17.81667	-149.25	PF	00
+Mahina	-17.50648	-149.48899	PF	01
+Lac Maheva	-16.68333	-151	PF	00
+Maheva	-16.68333	-150.98333	PF	00
+Mahea	-16.65	-151.41667	PF	00
+Mahanatoa	-23.86667	-147.66667	PF	00
+Mahanatoa	-23.86667	-147.66667	PF	00
+Mahaiutea	-17.76667	-149.53333	PF	00
+Mahaiatea	-17.76667	-149.46667	PF	00
+Maha-Honu	-17.5	-149.46667	PF	00
+Vallee de Mahaena	-17.56667	-149.33333	PF	00
+Mahaena	-17.56667	-149.31667	PF	00
+Maeo	-17.58333	-149.78333	PF	00
+Motu Maava	-15.83333	-146.61667	PF	00
+Vallee Maatepua	-17.51667	-149.9	PF	00
+Chenal de Maatea	-17.58333	-149.78333	PF	00
+Maatea	-17.58333	-149.81667	PF	00
+Vallee Maara	-17.75	-149.36667	PF	00
+Riviere Maara	-17.75	-149.36667	PF	00
+Maanua	-16.73333	-151.46667	PF	00
+Vallee de Maamaa	-17.48333	-149.76667	PF	00
+Maaea	-17.75	-149.36667	PF	00
+Vai Maa	-17.86667	-149.2	PF	00
+Le Matotea	-17.56667	-149.38333	PF	00
+Mont Lekie	-27.61667	-144.35	PF	00
+Le Crabe	-17.75	-149.13333	PF	00
+Lauiaru	-17.75	-149.35	PF	00
+Pointe Kutuni	-27.6	-144.31667	PF	00
+Kurataketake	-16.01667	-142.43333	PF	00
+Kumekume	-16	-142.43333	PF	00
+Pointe Kukuanga	-27.56667	-144.35	PF	00
+Pointe Kouturoa	-27.58333	-144.36667	PF	00
+Pointe Komire	-27.56667	-144.35	PF	00
+Pointe Komire	-27.55	-144.31667	PF	00
+Atoll Kaukura	-15.75	-146.7	PF	03
+Pointe Kauira	-27.56667	-144.33333	PF	00
+Atoll Kauehi	-15.85	-145.15	PF	00
+Katiu Atoll	-16.43333	-144.36667	PF	03
+Katiro	-17.78333	-149.28333	PF	00
+Mont Karere	-27.56667	-144.35	PF	00
+Karapo Iti	-27.63333	-144.31667	PF	00
+Karapo Hari	-27.63333	-144.31667	PF	00
+Ivirairai	-17.68333	-149.51667	PF	00
+Iumaru	-17.53333	-149.9	PF	00
+Itahaa	-17.75	-149.5	PF	00
+Iroroa	-17.83333	-149.15	PF	00
+Iriru	-16.8	-151.36667	PF	00
+Irioa	-17.48333	-149.9	PF	00
+Iore Rahi	-17.53333	-149.31667	PF	00
+Iore Iti	-17.55	-149.31667	PF	00
+Iles Sous-le-Vent	-16.66667	-151.5	PF	02
+Iles du Vent	-17.5	-149.5	PF	01
+Iles Australes	-23	-150	PF	05
+Ikitake	-17.83333	-140.85	PF	00
+Ianoteu	-16.01667	-142.45	PF	00
+Hurareva	-17.51667	-149.38333	PF	00
+Hui	-17.75	-149.18333	PF	00
+Huau	-17.51667	-149.38333	PF	00
+Mont Huahuatearu	-17.48333	-149.76667	PF	00
+Huahine Nui	-16.71667	-151	PF	00
+Huahine Iti	-16.76667	-150.96667	PF	00
+Huahine	-23.38333	-149.48333	PF	00
+Huahine	-16.75	-151	PF	00
+Houroumanou	-16.45	-152.25	PF	00
+Vallee de Hotutea	-17.53333	-149.8	PF	00
+Riviere Hotutea	-17.53333	-149.78333	PF	00
+Hotuatua	-23.86667	-147.61667	PF	00
+Mont Hotou Tavairoa	-16.43333	-152.26667	PF	00
+Mont Hotou	-16.45	-152.25	PF	00
+Baie Hotopuu	-16.85	-151.35	PF	00
+Hotopuu	-17.86667	-149.16667	PF	00
+Pointe Horotua	-23.86667	-147.61667	PF	00
+Horea	-16.81667	-151.48333	PF	00
+Riviere Hopuetamai	-17.66667	-149.58333	PF	00
+Anse Hooumi	-18.91667	-140.01667	PF	00
+Honua	-17.5	-149.5	PF	00
+Mont Honu	-17.51667	-149.88333	PF	00
+Baie Hoapea	-16.88333	-151.36667	PF	00
+Motu Hiumoo	-16.71667	-151.03333	PF	00
+Hiti Mahaua	-17.5	-149.48333	PF	00
+Hitianghaa	-16.01667	-142.45	PF	00
+Pointe Hitiaa	-17.56667	-149.8	PF	00
+Hitiaa O Te Ra	-17.60574	-149.30523	PF	01
+Hitiaa	-17.6	-149.3	PF	00
+Atoll Hiti	-16.73333	-144.1	PF	00
+Mont Hiro	-23.86667	-147.65	PF	00
+Hirifa	-16.45	-145.36667	PF	00
+Baie Hiri	-27.61667	-144.35	PF	00
+Hinahuruvi	-16.8	-151.36667	PF	00
+Atoll Hikueru	-17.58267	-142.61782	PF	00
+Atoll Hereheretue	-19.9	-144.96667	PF	00
+Mont Herane	-23.38333	-149.46667	PF	00
+Hauturua	-17.75	-149.35	PF	00
+Pointe Hauru	-17.49428	-149.89771	PF	00
+Baie de Haumi	-17.56667	-149.78333	PF	00
+Pointe Hauiehau	-17.56667	-149.86667	PF	00
+Vai Haua	-17.85	-149.21667	PF	00
+Hau	-17.83333	-149.23333	PF	00
+Hatinua	-17.76667	-149.43333	PF	00
+Atoll Haraiki	-17.46667	-143.45	PF	00
+Vallee Hapaa	-17.63333	-149.56667	PF	00
+Riviere Hapaa	-17.65	-149.6	PF	00
+Riviere Haoma	-17.75	-149.31667	PF	00
+Hao Atoll	-18.13737	-140.96437	PF	03
+Hanareho	-23.4	-149.48333	PF	00
+Vallee de Hamuta	-17.51667	-149.55	PF	00
+Hamuta	-17.51667	-149.53333	PF	00
+Baie Hamene	-16.65	-151.43333	PF	00
+Motu Hakono	-16.23333	-145.7	PF	00
+Vallee de Haavini	-17.75	-149.21667	PF	00
+Riviere Haavai	-16.73333	-151.01667	PF	00
+Baie Haavai	-16.71667	-151.03333	PF	00
+Haapupuni	-17.53333	-149.38333	PF	00
+Baie Haapu	-16.78333	-151	PF	00
+Haapu	-16.76667	-151	PF	00
+Mont Haapeaouo	-16.45	-152.25	PF	00
+Pointe Haaparu	-17.56667	-149.8	PF	00
+Haapape	-17.5	-149.48333	PF	00
+Riviere Haamoa	-16.78333	-151.41667	PF	00
+Vallee Haamene	-16.71667	-151.01667	PF	00
+Riviere Haamene	-16.71667	-151.01667	PF	00
+Baie Haamaire	-16.48621	-151.71759	PF	02
+Haaio	-16.9	-151.41667	PF	00
+Motu Haa	-23.9	-147.66667	PF	00
+Grand Banc Central	-16.71667	-151.45	PF	00
+Garumaoa	-16.01667	-142.45	PF	00
+Fitinu	-16.4844	-151.72668	PF	00
+Fitii	-16.73333	-151.03333	PF	00
+Fenuaroa	-15.23333	-147.76667	PF	03
+Fenuaino	-17.83333	-149.11667	PF	00
+Vallee de Fautaua	-17.55	-149.51667	PF	00
+Riviere Fautaua	-17.51667	-149.55	PF	00
+Vallee Faurahi	-17.73333	-149.43333	PF	00
+Riviere Faurahi	-17.76667	-149.41667	PF	00
+Fatu Fatu	-16.68333	-151.45	PF	00
+Baie Fatira	-16.6	-151.43333	PF	00
+Fatavete	-17.83333	-149.21667	PF	00
+Fatati	-17.71667	-149.31667	PF	00
+Fata te Iore	-17.53333	-149.58333	PF	00
+Baie de Faroa	-17.86667	-149.15	PF	00
+Faro	-15.8	-146.48333	PF	00
+Mont Farii	-16.43333	-152.25	PF	00
+Pointe Fare Ute	-17.53333	-149.56667	PF	00
+Mont Fareura	-16.65	-151.45	PF	00
+Riviere Faretui	-17.53333	-149.76667	PF	00
+Mont Faretua	-17.85	-149.18333	PF	00
+Pointe Faretiare	-17.48333	-149.88333	PF	00
+Faretea	-16.43333	-152.26667	PF	00
+Pointe Fareroi	-16.58333	-151.51667	PF	00
+Pointe Farepoe	-16.73333	-151.46667	PF	02
+Fareparahi	-16.83333	-151.38333	PF	00
+Farepaiti	-16.83333	-151.38333	PF	00
+Farepaia	-16.45	-152.25	PF	00
+Fareorea	-17.71667	-149.56667	PF	00
+Fareone	-17.48333	-149.91667	PF	00
+Faremi	-17.76667	-149.43333	PF	00
+Pointe Fare Mahora	-17.85	-149.25	PF	00
+Morne Farei	-17.75	-149.31667	PF	00
+Riviere Farehiore	-17.75	-149.5	PF	00
+Farehau	-17.53333	-149.78333	PF	00
+Farehau	-16.71667	-151.01667	PF	00
+Vallee Farehae	-17.5	-149.9	PF	00
+Mont Farehae	-17.5	-149.9	PF	00
+Fareeru	-16.76667	-150.95	PF	00
+Baie Fare	-16.71667	-151.03333	PF	00
+Fare	-16.7	-151.01667	PF	00
+Farauo	-17.81667	-149.11667	PF	00
+Mont Farataupoo	-17.5	-149.8	PF	00
+Recif de Faratara	-17.86667	-149.13333	PF	00
+Pointe Farariki	-15.80621	-140.83245	PF	03
+Riviere Farapa	-17.51667	-149.4	PF	00
+Mont Faraiere	-17.5	-149.8	PF	00
+Pointe Faraari	-17.73333	-149.21667	PF	00
+Riviere Faomariri	-17.51667	-149.68333	PF	00
+Fangatau Atoll	-15.82479	-140.86206	PF	03
+Mont Faneuhi	-16.85	-151.43333	PF	00
+Riviere Falaiti	-17.71667	-149.31667	PF	00
+Fakatopatere	-14.7	-145.25	PF	00
+Chenal de Fakarava	-16.06667	-145.83333	PF	00
+Fakarava	-16.33333	-145.61667	PF	00
+Fakahina Atoll	-15.98333	-140.13333	PF	00
+Riviere Faiovau	-17.71667	-149.3	PF	00
+Mont Faiere	-17.53333	-149.55	PF	00
+Baie Faie	-16.71667	-150.98333	PF	00
+Source Faiavea	-17.51667	-149.9	PF	00
+Lac Fahuna	-16.68333	-151.01667	PF	00
+Fahe	-17.81667	-149.2	PF	00
+Fahana	-17.78333	-149.3	PF	00
+Fafao	-16.75	-151.46667	PF	00
+Fort Fachoda	-17.6	-149.53333	PF	00
+Pointe Faaupo	-17.49366	-149.73873	PF	00
+Faauanu	-17.53333	-149.35	PF	00
+Faatohora	-16.50276	-151.73904	PF	00
+Faa te Pere	-17.51667	-149.48333	PF	00
+Baie Faatemu	-16.88333	-151.41667	PF	00
+Riviere Faatautia	-17.63333	-149.31667	PF	00
+Faatautia	-17.63333	-149.31667	PF	00
+Mont Faataouhi	-16.43333	-152.26667	PF	00
+Baie Faataoto	-16.68333	-151.43333	PF	00
+Pointe Faarurou	-17.56667	-149.78333	PF	00
+Vallee de Faarumai	-17.51667	-149.38333	PF	00
+Faarumai	-17.51667	-149.38333	PF	00
+Faaru	-17.55	-149.33333	PF	00
+Vallee de Faaroa	-16.86667	-151.41667	PF	00
+Baie Faaroa	-16.81667	-151.4	PF	00
+Faaripoo	-17.5	-149.45	PF	00
+Vallee Faarei	-17.51667	-149.88333	PF	00
+Faarapa	-17.5	-149.4	PF	00
+Riviere Faarahi	-17.58333	-149.35	PF	00
+Baie Faarahi	-16.88333	-151.36667	PF	00
+Vallee Faapete	-17.48333	-149.83333	PF	00
+Riviere de Faaone	-17.66667	-149.3	PF	00
+Faaone	-17.66667	-149.3	PF	00
+Baie Faanui	-16.48704	-151.75106	PF	02
+Faanui	-16.48679	-151.74102	PF	00
+Faanoa	-16.45	-152.26667	PF	00
+Vallee de Faamaariri	-17.5	-149.78333	PF	00
+Riviere Faaiti	-17.55	-149.31667	PF	00
+Atoll Faaite	-16.75	-145.23333	PF	00
+Pointe Faainu	-16.81667	-151.36667	PF	00
+Pointe Faaa	-17.55	-149.61667	PF	00
+Plateaux de Faaa	-17.56667	-149.58333	PF	00
+Faaa	-17.55	-149.61667	PF	00
+Faaa	-17.55	-149.6	PF	01
+Chenal de Faa	-17.53333	-149.6	PF	00
+Sommet Est	-17.5	-149.83333	PF	00
+Baie Ereeo	-16.83333	-151.46667	PF	00
+Emari	-16	-142.43333	PF	00
+Ea Ea	-17.56667	-149.3	PF	00
+Mouillage de la Durance	-23.35	-149.5	PF	00
+Iles du Duc de Gloucester	-20.63333	-143.33333	PF	00
+Banc du Dolphin	-17.5	-149.48333	PF	00
+Diademe	-17.63333	-149.51667	PF	00
+Iles du Desappointement	-14.16667	-141.33333	PF	03
+Mouillage de Cook	-17.73333	-149.16667	PF	00
+Baie de Cook	-17.49081	-149.80586	PF	00
+Ile Centrale	-21.8	-154.68333	PF	00
+Tour de Brea	-17.61667	-149.6	PF	00
+Mont Boutoua	-16.43333	-152.26667	PF	00
+Port Bourayne	-16.75	-151	PF	00
+Bououroo	-16.45	-152.26667	PF	00
+Mouillage de Bougainville	-17.58333	-149.3	PF	00
+Bora-Bora	-16.49667	-151.74067	PF	02
+Fort Belleau	-17.63333	-149.6	PF	00
+Port du Beaumanoir	-17.86667	-149.21667	PF	00
+Baie Averarahi	-16.8	-151.38333	PF	00
+Baie Averaiti	-16.8	-151.4	PF	00
+Avera	-22.47814	-151.35126	PF	05
+Avatoru	-14.94172	-147.702	PF	03
+Avatika	-14.93333	-147.85	PF	03
+Avaiti	-17.75	-149.51667	PF	00
+Avae	-17.58333	-149.6	PF	00
+Avaavatohora	-17.71667	-149.3	PF	00
+Auviri	-17.51667	-149.4	PF	00
+Hauti	-22.48686	-151.32483	PF	05
+Pointe Autea	-27.56667	-144.3	PF	00
+Mont Autao	-17.53333	-149.86667	PF	00
+Pointe Auroa	-27.55	-144.33333	PF	00
+Auaue	-17.75	-149.13333	PF	00
+Vallee Auauanahe	-17.58333	-149.83333	PF	00
+Motu Au	-17.48333	-149.46667	PF	00
+Aturopa	-27.56667	-144.33333	PF	00
+Atopa	-17.76667	-149.46667	PF	00
+Mont Atomovahine	-17.78333	-149.13333	PF	00
+Atiue	-17.6	-149.61667	PF	00
+Ati te Puaa	-17.85	-149.21667	PF	00
+Vallee d'Atitara	-17.68333	-149.56667	PF	00
+Atitara	-17.7	-149.58333	PF	00
+Plateau d'Atimaono	-17.71667	-149.43333	PF	00
+Bassin d'Atimaono	-17.76667	-149.43333	PF	00
+Atimaono	-17.76667	-149.46667	PF	00
+Vallee Atimaha	-17.55	-149.83333	PF	00
+Atihiva	-17.73333	-149.26667	PF	00
+Ati Hira	-17.85	-149.21667	PF	00
+Mont Atiati	-17.53333	-149.88333	PF	00
+Ateuru	-17.81667	-149.25	PF	00
+Atavahine	-17.65	-149.3	PF	00
+Mont Atara	-17.81667	-149.23333	PF	00
+Baie Atanui	-27.58333	-144.3	PF	00
+Port d'Ataiti	-17.75	-149.38333	PF	00
+Ataiti	-17.75	-149.38333	PF	00
+Atoll Arutua	-15.3	-146.73333	PF	03
+Pointe Arupa	-17.86667	-149.15	PF	00
+Arue	-17.51667	-149.5	PF	01
+Banc de l'Artemise	-17.53333	-149.31667	PF	00
+Pointe Aroa	-17.46667	-149.76667	PF	00
+Vai Aro	-17.85	-149.23333	PF	00
+Riviere Arepua	-23.86667	-149.68333	PF	00
+Riviere Areiupa	-17.56667	-149.86667	PF	00
+Vai Arava	-17.86667	-149.2	PF	00
+Mont Araua	-23.86667	-147.66667	PF	00
+Atoll Aratika	-15.53333	-145.53333	PF	00
+Mont Arapao	-17.5	-149.88333	PF	00
+Araope	-17.81667	-149.26667	PF	00
+Vai Arana	-17.86667	-149.18333	PF	00
+Mont Aramaoro	-17.58333	-149.4	PF	00
+Araito	-17.53333	-149.88333	PF	00
+Araiteva	-17.76667	-149.45	PF	00
+Arahutu	-17.71667	-149.3	PF	00
+Arahoohoo	-17.51667	-149.38333	PF	00
+Arahiri	-17.51667	-149.53333	PF	00
+Pointe Arahavo	-17.83333	-149.26667	PF	00
+Motu Araara	-16.8	-150.96667	PF	00
+Motu Araao	-23.88333	-147.6	PF	00
+Pointe Apu-Puhi	-16.68333	-151.48333	PF	00
+Baie Apu	-16.66667	-151.48333	PF	00
+Baie Aporapu	-16.53333	-151.71667	PF	00
+Baie Apoomatai	-16.75	-150.96667	PF	00
+Apooiti	-16.73333	-151.46667	PF	00
+Motu Apomeo	-16.5	-151.7	PF	02
+Apomaoro	-17.75	-149.5	PF	00
+Apirimaue	-17.73333	-149.35	PF	00
+Mont Apiri	-17.56667	-149.83333	PF	00
+Apihaa	-17.76667	-149.13333	PF	00
+Vallee Apiapi	-17.5	-149.9	PF	00
+Mont Apiapi	-17.5	-149.9	PF	00
+Apataki Atoll	-15.43333	-146.33333	PF	00
+Apaparao	-17.53333	-149.6	PF	00
+Pointe Apaapa	-17.56667	-149.8	PF	00
+Motu Aouera	-16.43333	-152.28333	PF	00
+Aoua	-17.66667	-149.58333	PF	00
+Riviere Aorotamou	-17.55	-149.86667	PF	00
+Riviere Aoromarau	-17.73333	-149.2	PF	00
+Mont Aorai	-17.61667	-149.5	PF	00
+Vai Ao	-17.85	-149.25	PF	00
+Atoll Anuanu Ruga	-20.63333	-143.3	PF	00
+Atoll Anuanu Raro	-20.48333	-143.53333	PF	00
+Anua	-23.38333	-149.5	PF	00
+Baie d'Angairao	-27.56667	-144.31667	PF	00
+Baie d'Anau	-16.5	-151.71667	PF	00
+Anau	-16.51667	-151.73333	PF	00
+Anatonu	-23.88333	-147.63333	PF	00
+Baie Anatauri	-27.61667	-144.3	PF	00
+Baie Anataari	-27.63333	-144.3	PF	00
+Baie Anarua	-27.6	-144.36667	PF	00
+Pointe Anapu	-17.55	-149.31667	PF	00
+Chenal d'Anapu	-17.55	-149.31667	PF	00
+Anapoto	-22.64293	-152.81743	PF	00
+Baie Anapori	-27.63333	-144.33333	PF	00
+Grotte Anaihe	-17.85	-149.13333	PF	00
+Mont Anaaotou	-17.51667	-149.88333	PF	00
+Anaa	-17.41667	-145.5	PF	00
+Anse Amyot	-15.8	-146.16667	PF	00
+Amaru	-22.64659	-152.79283	PF	00
+Atoll Amanu	-17.8	-140.76667	PF	00
+Pointe Akuro	-27.63333	-144.33333	PF	00
+Baie Akatamiro	-27.56667	-144.33333	PF	00
+Baie Akao	-27.63333	-144.31667	PF	00
+Baie Akananue	-27.56667	-144.31667	PF	00
+Riviere Aiurua	-17.81667	-149.11667	PF	00
+Mont Aiurua	-17.81667	-149.15	PF	00
+Baie Airera	-17.56667	-149.78333	PF	00
+Ainui	-17.85	-149.18333	PF	00
+Vai Aina	-17.81667	-149.28333	PF	00
+Aihuta	-17.83333	-149.11667	PF	00
+Baie d'Aifa	-17.76667	-149.41667	PF	00
+Motu Aie	-16.41667	-152.26667	PF	00
+Vai Aiaia	-17.85	-149.25	PF	00
+Motu Aiai	-15.83333	-146.66667	PF	00
+Mont Ahutau	-17.56667	-149.81667	PF	00
+Mont Ahutai	-17.55	-149.78333	PF	00
+Baie d'Ahurei	-27.6	-144.31667	PF	00
+Ahurei	-27.6	-144.31667	PF	00
+Pointe Ahuoivi	-23.86667	-147.7	PF	00
+Atoll Ahunui	-19.65	-140.41667	PF	00
+Motu Ahuna	-16.48934	-151.77535	PF	00
+Ahuatoa	-17.83333	-149.26667	PF	00
+Vallee de Ahonu	-17.5	-149.46667	PF	00
+Riviere Ahonu	-17.5	-149.46667	PF	00
+Ahoara	-17.75	-149.5	PF	00
+Motu Ahi	-17.55	-149.78333	PF	00
+Motu Ahi	-16.41667	-152.26667	PF	00
+Atoll Ahe	-14.5	-146.3	PF	00
+Rocher Ahau	-23.85	-147.68333	PF	00
+Baie Aharoa	-17.58333	-149.8	PF	00
+Afatauri	-17.78333	-149.13333	PF	00
+Vallee Afarue	-17.55	-149.5	PF	00
+Baie Afakatea	-16.6	-151.45	PF	00
+Afainaa	-17.73333	-149.55	PF	00
+Afaahiti	-17.75	-149.28333	PF	00
+Riviere Afa	-17.48333	-149.83333	PF	00
+Pointe Ae	-17.55	-149.78333	PF	00
+Lac Roto Iti	-17.64667	-150.63333	PF	00
+Lac Roto Rahi	-17.6625	-150.61667	PF	00
+Pointe Tepuatau	-17.63222	-150.62667	PF	00
+Pointe Vavatunu	-17.65722	-150.60667	PF	00
+Pointe Auparirua	-17.67083	-150.60694	PF	00
+Pointe Tetii	-17.67917	-150.62	PF	00
+Pointe Maurea	-17.6675	-150.63111	PF	00
+Pointe Paparoa	-17.66667	-150.64722	PF	00
+Pointe Momoa	-17.66167	-150.64861	PF	00
+Pointe Pufee	-17.64333	-150.63667	PF	00
+Tiaraunu	-16.99167	-149.58194	PF	00
+Tauini	-16.98556	-149.56667	PF	00
+Auroa	-16.98722	-149.58167	PF	00
+Hiraanaa	-16.98667	-149.55833	PF	00
+Oroatera	-16.99056	-149.54333	PF	00
+Aie	-17.01	-149.53611	PF	00
+Tahuna Rahi	-17.03056	-149.54889	PF	00
+Tahuna Iti	-17.04	-149.54694	PF	00
+Reiono	-17.04833	-149.54944	PF	00
+Rimatuu	-17.02917	-149.56	PF	00
+Onetahi	-17.02056	-149.59194	PF	00
+Honuea	-17.01	-149.58667	PF	00
+Chenal de Moorea	-17.55833	-149.7	PF	01
+Vaiare	-17.52083	-149.77972	PF	00
+Oceania	-10	180	PF	00
+Paeua	-14.45895	-146.05937	PF	
+Le Meridien Tahiti	-17.6167	-149.6189	PF	
+SOFITEL HEIVA HUAHINE	-23.3833	-149.4833	PF	
+LE MERIDIEN TAHITI	-17.6333	-149.6	PF	
+Faa'a	-17.55329	-149.59963	PF	01
+Maharepa	-17.48396	-149.80803	PF	
+Vallee de la Maroto	-17.65482	-149.44736	PF	
+Taiohae	-8.91093	-140.09972	PF	04
+Rimatara	-22.64	-152.8	PF	
+Takume	-15.85	-142.3	PF	
+Tupai	-16.25	-151.833	PF	
+Tavava	-19.27825	-138.77398	PF	03
+Marautagaroa	-18.26681	-137.06517	PF	
+Tumukuru	-17.34548	-138.45014	PF	
+Maumu	-15.83788	-148.2595	PF	00
+Pointe Motumano	-8.95405	-140.19904	PF	00
+Atiheu	-8.84666	-140.05335	PF	00
+Cap Matauaoa	-8.81442	-140.01287	PF	00
+Pointe Matauoa	-8.87718	-139.58364	PF	00
+Tiva	-16.64434	-151.53229	PF	00
+Vaiaau	-16.85727	-151.47229	PF	00
+Fetuna	-16.89609	-151.43582	PF	00
+Opoa	-16.85021	-151.36288	PF	00
+Titiaroa	-17.01491	-149.58765	PF	00
+Bertero	-22.05702	-133.44248	PF	00
+Baie D'Hane	-8.95111	-139.53857	PF	00
+Taiohae	-8.93054	-140.07274	PF	00
+Hauru	-17.50729	-149.91377	PF	
+The Brando	-17.02298	-149.59586	PF	
+Legends	-17.49475	-149.89403	PF	
+Sofitel Moorea	-16.50728	-151.7464	PF	
+Maitai	-14.95423	-147.6698	PF	
+Le Maitai Polynesia Bora Bora	-16.50728	-151.7464	PF	
+Intercontinental (Papeete)	-17.57066	-149.61838	PF	
+La Pirogue	-16.73164	-151.4489	PF	
+Aggie Greys Le Meridien Tahiti	-17.63408	-149.61014	PF	
+Le Meridien Bora Bora	-16.49853	-151.70041	PF	

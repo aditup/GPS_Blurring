@@ -1,0 +1,826 @@
+Sungai Yul	4.65	114.48333	BN	00
+Sungai Yu	4.9	115.11667	BN	00
+Sungai Yau	4.85	114.78333	BN	00
+Sungai Wasan	4.76667	114.8	BN	00
+Sungai Wasai	4.85	114.95	BN	00
+Bukit Usong	4.5	114.53333	BN	00
+Sungai Urup	4.76667	114.6	BN	00
+Sungai Ukong	4.7	114.56667	BN	00
+Sungai Ugong	4.93333	114.83333	BN	00
+Bukit Udal	4.71667	114.65	BN	00
+Sungai Tutong Merah	4.38333	114.8	BN	00
+Sungai Tutong	4.76667	114.6	BN	00
+Kuala Tutong	4.76667	114.6	BN	00
+Tutong	4.8	114.65	BN	04
+Sungai Tungku	4.93333	114.88333	BN	00
+Sungai Tungkadeh	4.9	114.93333	BN	00
+Sungai Tunggulian Kechil	4.7	114.5	BN	00
+Sungai Tunggulian Besar	4.68333	114.46667	BN	00
+Bukit Tunggulian	4.7	114.51667	BN	00
+Sungai Tumasek	4.86667	114.91667	BN	00
+Sungai Tudal	4.45	114.78333	BN	00
+Sungai Tuan	4.7	114.51667	BN	00
+Sungai Tropong	4.2	114.66667	BN	00
+Sungai Tingap	4.86667	114.98333	BN	00
+Sungai Tiga	4.58333	114.13333	BN	00
+Sungai Tidan	4.4	114.65	BN	00
+Sungai Tian Payau	4.86667	115.18333	BN	00
+Sungai Tian	4.68333	114.5	BN	00
+Sungai Tetamu	4.8	114.68333	BN	00
+Tanjong Teritip	4.96667	115.03333	BN	00
+Sungai Teritip	4.86667	114.8	BN	00
+Sungai Teraja	4.36667	114.36667	BN	00
+Bukit Teraja	4.3	114.43333	BN	00
+Sungai Tepiku	4.71667	114.55	BN	00
+Sungai Tepangan	4.55	114.48333	BN	00
+Sungai Tepam	4.78333	114.68333	BN	00
+Sungai Tenuyong	4.7	115.15	BN	00
+Sungai Tengah	4.96667	114.86667	BN	00
+Sungai Tendureh Besar	4.93333	114.81667	BN	00
+Tempuan Ugas	4.76667	114.58333	BN	00
+Sungai Tempinak	4.28333	114.63333	BN	00
+Bukit Tempayan Pisang	5.01667	115.03333	BN	00
+Sungai Temiang	4.88333	114.73333	BN	00
+Sungai Temerok	4.76667	114.78333	BN	00
+Sungai Temburong Machang	4.53333	115.2	BN	00
+Sungai Temburong	4.8	115.05	BN	00
+Sungai Tembunan	4.86667	114.8	BN	00
+Sungai Tembailek	4.98333	114.9	BN	00
+Sungai Tembailek	4.9	114.76667	BN	00
+Sungai Temawai	4.38333	115.28333	BN	00
+Bukit Temanik	4.86667	114.75	BN	00
+Temada	4.55	115.06667	BN	00
+Bukit Telugong	4.63333	115.11667	BN	00
+Sungai Telisai	4.96667	114.86667	BN	00
+Sungai Telisai	4.75	114.58333	BN	00
+Bukit Telingan	4.36667	114.46667	BN	00
+Sungai Telamba	4.75	114.58333	BN	00
+Sungai Telaga Tiga	4.9	114.93333	BN	00
+Sungai Tekuyong	4.9	114.95	BN	00
+Sungai Tebabang	4.96667	114.93333	BN	00
+Sungai Tasek	4.9	114.93333	BN	00
+Sungai Taring	4.93333	114.91667	BN	00
+Sungai Taring	4.65	114.41667	BN	00
+Sungai Tarap	4.53333	114.53333	BN	00
+Sungai Taong	4.4	114.63333	BN	00
+Sungai Tanjong Pasir	4.91667	114.88333	BN	00
+Sungai Tanjong Pampang	4.93333	114.93333	BN	00
+Sungai Tanjong Maya	4.75	114.65	BN	00
+Pulau Tanjong Maya	4.76667	114.66667	BN	00
+Sungai Tangur	4.9	114.76667	BN	00
+Tangki Ayer	4.91667	114.93333	BN	00
+Sungai Tanah Panggal	4.7	115.03333	BN	00
+Tanjong Tanah Palang	4.76667	114.6	BN	00
+Aur Tanah	4.68333	115.21667	BN	00
+Sungai Tamunok	4.4	114.65	BN	00
+Sungai Tampuan Nyatoi	4.45	114.56667	BN	00
+Sungai Tampoi	4.9	114.85	BN	00
+Sungai Taman Lasong	4.7	115.15	BN	00
+Sungai Tali	4.65	114.4	BN	00
+Bang Tajok	4.46667	114.55	BN	00
+Sungai Tajau	4.78333	114.81667	BN	00
+Bang Tagas	4.73333	114.66667	BN	00
+Lubok Tagal	4.85	114.88333	BN	00
+Bukit Tabor Bintang	5	114.95	BN	00
+Sungai Suragam	4.93333	114.88333	BN	00
+Sungai Supon	4.5	114.76667	BN	00
+Bukit Supon	4.5	114.75	BN	00
+Sungai Sunda	4.88333	114.9	BN	00
+Sungai Sunan	4.7	114.55	BN	00
+Sungai Sumpakan	4.93333	114.83333	BN	00
+Sungai Sumor	4.86667	114.95	BN	00
+Sungai Sumbiling	4.9	114.93333	BN	00
+Sungai Sukin	4.95	114.83333	BN	00
+Sukang Hilir	4.4	114.6	BN	00
+Lubok Sukang	4.41667	114.6	BN	00
+Sukang	4.31667	114.61667	BN	01
+Sungai Subok	4.7	115.06667	BN	00
+Bukit Stapok	4.81667	114.91667	BN	00
+Sungai Soga	4.16667	114.7	BN	00
+Tanjong Sipusu	4.9	115.05	BN	00
+Sungai Sipan	4.25	114.55	BN	00
+Sungai Sipal	4.75	115.2	BN	00
+Sungai Sinupoi Besar	4.68333	115.18333	BN	00
+Sungai Sinukoh	4.75	115.2	BN	00
+Sungai Singap	4.53333	114.55	BN	00
+Bukit Singap	4.86667	114.76667	BN	00
+Sungai Sinaut	4.81667	114.75	BN	00
+Bukit Sinaut	4.81667	114.75	BN	00
+Sungai Sinarubai	4.83333	114.86667	BN	00
+Sungai Simud	4.73333	114.73333	BN	00
+Pulau Silama	4.88333	115.05	BN	00
+Sungai Sigoho	4.96667	114.86667	BN	00
+Sungai Sibut	4.61667	115.1	BN	00
+Pulau Sibungor	4.86667	114.95	BN	00
+Bukit Sibundang	4.83333	114.7	BN	00
+Sungai Sibuke	4.75	115.18333	BN	00
+Pulau Siarau	4.8	115.03333	BN	00
+Sungai Serusup	4.93333	114.93333	BN	00
+Sungai Seria	4.61667	114.3	BN	00
+Sungai Seria	4.56667	114.73333	BN	00
+Seria	4.60637	114.32476	BN	01
+Tanjong Serasa	5	115.06667	BN	00
+Sungai Semburu	4.43333	114.38333	BN	00
+Sungai Sembatu	4.7	114.6	BN	00
+Sungai Sembatang	4.8	114.7	BN	00
+Sungai Sembatang	4.7	115.13333	BN	00
+Tanjong Semasta	4.91667	115.01667	BN	00
+Sungai Semabat	4.58333	115.06667	BN	00
+Tanjong Selirong	4.88333	115.1	BN	00
+Sungai Selirong	4.88333	115.1	BN	00
+Bukit Selila	4.9	114.96667	BN	00
+Bukit Selayun	4.98333	114.93333	BN	00
+Pulau Selawat	4.76667	114.6	BN	00
+Sungai Selapan	4.68333	115.2	BN	00
+Sungai Selanjak	4.81667	115.05	BN	00
+Sungai Selangan Batu	4.85	114.75	BN	00
+Sungai Selangan	4.65	115.1	BN	00
+Sungai Seladan	4.68333	114.56667	BN	00
+Sungai Sekurop Besar	4.53333	115.23333	BN	00
+Pulau Sekurop	4.68333	115.18333	BN	00
+Tanjong Sekina	4.83333	114.98333	BN	00
+Sungai Segiran	4.7	115.11667	BN	00
+Sungai Sebunyak	5	114.93333	BN	00
+Bukit Sebuara	4.85	114.91667	BN	00
+Sungai Sebatu	4.65	115.2	BN	00
+Sungai Sebabang	4.78333	114.73333	BN	00
+Sungai Sayas	4.85	114.86667	BN	00
+Sungai Sawak	4.46667	115.1	BN	00
+Sungai Saud	4.36667	114.6	BN	00
+Sungai Satu	4.58333	114.15	BN	00
+Bukit Sarang Halang	4.96667	114.88333	BN	00
+Tanjung Sapu	5	115.11667	BN	00
+Sungai San Kiram	4.86667	114.91667	BN	00
+Sungai Sanggut	4.86667	114.81667	BN	00
+Sungai Sangai Sangai	4.86667	114.85	BN	00
+Sungai Samat	4.66667	114.48333	BN	00
+Sungai Salong	4.83333	115.06667	BN	00
+Sungai Salar	5	115.03333	BN	00
+Sungai Salar	4.2	114.68333	BN	00
+Pulau Salar	4.98333	115.03333	BN	00
+Sungai Salang	4.83333	115.05	BN	00
+Sungai Sagut	4.38333	114.65	BN	00
+Batang Sagat	4.7	115.16667	BN	00
+Bukit Sagan	4.8	115.23333	BN	00
+Bukit Saeh	4.85	114.91667	BN	00
+Sungai Sablik	4.83333	114.73333	BN	00
+Sungai Ruradang	4.7	115.13333	BN	00
+Rumah Supon	4.48333	114.78333	BN	00
+Rumah Samawa	4.23333	114.66667	BN	00
+Rumah Bawang Grang	4.21667	114.68333	BN	00
+Sungai Rujak	4.2	114.56667	BN	00
+Sungai Ropan	4.7	115.15	BN	00
+Sungai Resuar	4.76667	115.2	BN	00
+Sungai Rempanga	4.8	114.75	BN	00
+Sungai Raya	4.8	115.05	BN	00
+Sungai Raya	4.9	115.13333	BN	00
+Sungai Rawai	4.31667	114.61667	BN	00
+Sungai Rata	4.68333	115.2	BN	00
+Sungai Rasau	4.8	114.81667	BN	00
+Rasau	4.55	114.21667	BN	00
+Pulau Ranggu	4.85	114.9	BN	00
+Sungai Randu	4.31667	114.66667	BN	00
+Sungai Rampayoh	4.43333	114.4	BN	00
+Rampayoh	4.38333	114.45	BN	00
+Sungai Ragu	4.78333	114.7	BN	00
+Sungai Putat	4.83333	114.98333	BN	00
+Sungai Putat	4.2	114.68333	BN	00
+Purau Purau	4.38333	114.61667	BN	00
+Sungai Puput	4.65	114.5	BN	00
+Tanjong Punyit	4.96667	114.85	BN	00
+Sungai Punyit	4.96667	114.86667	BN	00
+Pulau Punyit	4.98333	114.83333	BN	00
+Sungai Pungut	4.86667	114.71667	BN	00
+Sungai Pulaie	4.93333	114.93333	BN	00
+Bang Puku	4.73333	114.66667	BN	00
+Tanjong Puan	4.9	115.11667	BN	00
+Sungai Premat	4.25	114.58333	BN	00
+Bukit Posongan	4.75	114.8	BN	00
+Sungai Plandok	4.3	114.36667	BN	00
+Sungai Pirasong	4.83333	114.86667	BN	00
+Sungai Pilohong	4.86667	114.86667	BN	00
+Sungai Piasau-Piasau	4.78333	115.1	BN	00
+Sungai Piabok	4.71667	114.66667	BN	00
+Sungai Petogo	4.9	114.75	BN	00
+Sungai Petani	4.81667	114.65	BN	00
+Sungai Perupok	4.71667	114.66667	BN	00
+Sungai Periding	4.71667	114.66667	BN	00
+Sungai Perayunan	4.91667	114.8	BN	00
+Sungai Peradayan	4.75	115.15	BN	00
+Bukit Peradayan	4.73333	115.16667	BN	00
+Pulau Pepatan	4.91667	115.03333	BN	00
+Sungai Pepakan	4.73333	114.55	BN	00
+Sungai Penyuroh	4.65	114.48333	BN	00
+Sungai Penyatang	4.76667	114.58333	BN	00
+Sungai Penipir Kechil	4.18333	114.68333	BN	00
+Sungai Penipir	4.16667	114.7	BN	00
+Sungai Peninjau	4.93333	114.83333	BN	00
+Sungai Pengasing	4.81667	114.65	BN	00
+Sungai Pendaruan	4.86667	114.71667	BN	00
+Sungai Penapar	4.75	114.58333	BN	00
+Sungai Penalan	4.65	115.15	BN	00
+Tanjong Pelumpong	5.05	115.1	BN	00
+Sungai Peliher	4.85	114.76667	BN	00
+Sungai Pejari	4.48333	114.35	BN	00
+Aur Payong	4.66667	115.2	BN	00
+Sungai Payau	4.1	114.61667	BN	00
+Sungai Pauh	4.96667	114.93333	BN	00
+Sungai Pauau	4.35	114.68333	BN	00
+Bukit Patoi	4.75	115.18333	BN	00
+Sungai Pat Nunok	4.73333	114.71667	BN	00
+Sungai Patam	4.33333	114.65	BN	00
+Batu Patam	4.06667	114.73333	BN	00
+Sungai Patah Jin	4.88333	114.71667	BN	00
+Sungai Pasuang	4.38333	114.68333	BN	00
+Sungai Parit	4.88083	114.93165	BN	00
+Sungai Paring	4.95	115.01667	BN	00
+Sungai Paring	4.81667	114.96667	BN	00
+Sungai Panta Layang	4.85	114.9	BN	00
+Bukit Panjang	4.85	114.81667	BN	00
+Sungai Pangkalan Turis	4.76667	114.71667	BN	00
+Pangkalan Siong	4.48333	114.55	BN	00
+Sungai Pangkalan Pendayan	4.76667	114.7	BN	00
+Sungai Pangkalan Nanai	4.75	114.71667	BN	00
+Sungai Pangkalan Kalan	4.85	114.95	BN	00
+Sungai Pangan	4.66667	115.08333	BN	00
+Bang Pangan	4.65	114.63333	BN	00
+Sungai Pandaruan	4.33333	114.36667	BN	00
+Sungai Pandan Besar	4.81667	114.86667	BN	00
+Sungai Pandan	4.81667	114.86667	BN	00
+Sungai Pandan	4.6	114.21667	BN	00
+Sungai Panau	4.38333	114.63333	BN	00
+Sungai Panaga	4.71667	114.51667	BN	00
+Sungai Panaga	4.6	114.26667	BN	00
+Panaga	4.6	114.28333	BN	00
+Sungai Palu Palu	4.86667	115.11667	BN	00
+Sungai Palu Besar	4.85	114.68333	BN	00
+Sungai Pali Regang	4.21667	114.75	BN	00
+Sungai Pali Bangun	4.21667	114.75	BN	00
+Sungai Palang	4.43333	114.66667	BN	00
+Sungai Paku	4.71667	114.53333	BN	00
+Sungai Pahapaha	4.88333	114.88333	BN	00
+Sungai Pagang	4.43333	114.6	BN	00
+Arur Padi	4.68333	115.21667	BN	00
+Lubok Padayan	4.81667	114.83333	BN	00
+Sungai Padang	4.9	114.83333	BN	00
+Sungai Padang	4.71667	114.53333	BN	00
+Sungai Padang	4.61667	114.65	BN	00
+Sungai Nyatang	4.75	115.11667	BN	00
+Sungai Nyamuk Nying	4.4	114.8	BN	00
+Bukit Nong Dangar	4.66667	114.58333	BN	00
+Lubok Nipah	4.85	115.11667	BN	00
+Sungai Ngaua	4.31667	114.53333	BN	00
+Sungai Nawak	4.43333	114.66667	BN	00
+Sungai Nansang	4.46667	115.1	BN	00
+Bang Nalud	4.66667	114.63333	BN	00
+Sungai Nagalang Onat	4.76667	115.11667	BN	00
+Sungai Nagalang Ering	4.76667	115.11667	BN	00
+Sungai Nagalang	4.7	115.13333	BN	00
+Sungai Mumong	4.6	114.25	BN	00
+Sungai Mulaut	4.86667	114.85	BN	00
+Muara Harbour	5.03333	115.06667	BN	00
+Pulau Muara Besar	5	115.1	BN	00
+Muara	5.03333	115.06667	BN	00
+Sungai Motong	4.6	115.11667	BN	00
+Sungai Metamba	4.86667	114.86667	BN	00
+Sungai Merutop	4.65	115.1	BN	00
+Luagan Merimbun	4.6	114.66667	BN	00
+Sungai Merasak	4.93333	114.83333	BN	00
+Sungai Merangking	4.5	114.55	BN	00
+Sungai Merah	4.88333	114.8	BN	00
+Sungai Merah	4.35	114.63333	BN	00
+Sungai Meragang	5.03333	115.03333	BN	00
+Sungai Meragang	4.93333	114.91667	BN	00
+Sungai Meragang	4.76667	115.18333	BN	00
+Sungai Meragang	4.65	114.48333	BN	00
+Sungai Meradun	4.85	114.86667	BN	00
+Sungai Menunggul	4.9	115.01667	BN	00
+Sungai Menjalek	4.4	114.53333	BN	00
+Sungai Mendaram	4.86667	114.91667	BN	00
+Sungai Mendaram	4.45	114.3	BN	00
+Sungai Mempanai	4.78333	114.8	BN	00
+Bukit Melintang	4.83333	114.93333	BN	00
+Sungai Melinok	4.55367	114.23172	BN	00
+Sungai Melimbai	4.86667	115.13333	BN	00
+Melilas	4.23333	114.66667	BN	01
+Melabau Estate	4.91667	114.93333	BN	00
+Sungai Melabau	4.93333	114.93333	BN	00
+Sungai Mejawa	4.93333	114.83333	BN	00
+Bukit Mejawa	4.93333	114.85	BN	00
+Sungai Medait	4.56667	114.71667	BN	00
+Sungai Mayliong	4.71667	115.18333	BN	00
+Sungai Mayak	4.28333	114.36667	BN	00
+Tanjong Maya	4.75	114.66667	BN	00
+Sungai Mau	4.55	114.48333	BN	00
+Sungai Matasan	4.75	114.75	BN	00
+Sungai Mataiang	4.9	115.11667	BN	00
+Sungai Masin Buang	4.61667	114.66667	BN	00
+Bukit Masin	4.83333	114.83333	BN	00
+Sungai Marantubu	4.76667	114.6	BN	00
+Sungai Mantis	4.9	114.76667	BN	00
+Sungai Mantang	4.7	114.55	BN	00
+Sungai Maniup	4.65	115.05	BN	00
+Sungai Mani	4.56667	115.11667	BN	00
+Sungai Mangsiang Besar	4.88333	114.75	BN	00
+Sungai Mangsalut	5	114.96667	BN	00
+Sungai Mangsalut	4.91667	114.93333	BN	00
+Sungai Manggis	4.61667	114.46667	BN	00
+Aur Mangan	4.65	115.21667	BN	00
+Sungai Manadolar	4.25	114.66667	BN	00
+Sungai Mali Luagan	4.65	114.48333	BN	00
+Sungai Malayan	4.53333	114.51667	BN	00
+Sungai Majaan	4.65	115.2	BN	00
+Bukit Lutut	4.6	115.15	BN	00
+Sungai Lutong	4.75	114.75	BN	00
+Sungai Lusi	4.41667	114.43333	BN	00
+Sungai Lunchur	4.65	114.5	BN	00
+Pulau Lumut Lunting	4.86667	114.95	BN	00
+Tanjong Lumut	4.96667	115.05	BN	00
+Sungai Lumut	4.65	114.43333	BN	00
+Sungai Lumbi	4.81667	114.85	BN	00
+Lumbi	4.83333	114.83333	BN	00
+Sungai Lumba Lumba	4.88333	115.1	BN	00
+Sungai Lumapas	4.85	114.9	BN	00
+Bukit Lumadan	4.86667	114.91667	BN	00
+Sungai Lugu	4.86667	114.8	BN	00
+Bukit Lugam	4.91667	114.85	BN	00
+Sungai Lubok Abai	4.71667	114.75	BN	00
+Sungai Luba	4.56667	114.61667	BN	00
+Pulau Luba	4.85	114.88333	BN	00
+Bukit Luang	4.95	114.93333	BN	00
+Aur Luang	4.7	115.16667	BN	00
+Sungai Lokasan Kechil	4.71667	115.16667	BN	00
+Sungai Lokasan Besar	4.71667	115.18333	BN	00
+Sungai Linggang	4.85	114.91667	BN	00
+Aur Limpaku	4.65	115.23333	BN	00
+Sungai Limau Manis	4.8	114.83333	BN	00
+Sungai Limau	4.95	114.83333	BN	00
+Sungai Limau	4.88333	114.9	BN	00
+Sungai Lima	4.58333	114.1	BN	00
+Pulau Lilipan	4.88333	115.05	BN	00
+Sungai Lilas	4.7	114.51667	BN	00
+Sungai Ligi	4.58333	114.61667	BN	00
+Sungai Liang Kechil	4.66667	114.48333	BN	00
+Sungai Liang	4.68333	114.48333	BN	00
+Sungai Lepong	4.68333	115.2	BN	00
+Sungai Lengkunis	4.85	114.68333	BN	00
+Sungai Lengaban	4.56667	114.73333	BN	00
+Sungai Lemeling Empat	4.7	115.18333	BN	00
+Sungai Legan	4.85	114.9	BN	00
+Tanjong Ledong	5.01667	115.08333	BN	00
+Sungai Layong	4.68333	114.66667	BN	00
+Sungai Lawang	4.83333	115.06667	BN	00
+Bukit Lawan	4.93333	114.96667	BN	00
+Sungai Langsat	4.3	114.41667	BN	00
+Sungai Lamunin	4.7	114.7	BN	00
+Sungai Lalit	4.66667	114.56667	BN	00
+Sungai Lakop	4.66667	115.2	BN	00
+Sungai Lakiun	4.75	115.13333	BN	00
+Sungai Lagongsai	4.9	114.83333	BN	00
+Sungai Lacquan	4.7	115.15	BN	00
+Sungai Labu	4.78333	115.08333	BN	00
+Labi	4.38333	114.43333	BN	01
+Aur Labai	4.7	115.18333	BN	00
+Sungai Kutop Temburong	4.7	115.13333	BN	00
+Sungai Kutop	4.68333	115.18333	BN	00
+Sungai Kutang	4.23333	114.66667	BN	00
+Sungai Kutan	4.7	114.63333	BN	00
+Sungai Kusop	4.66667	115.08333	BN	00
+Sungai Kurok	4.61667	114.68333	BN	00
+Sungai Kumpai	4.88333	114.83333	BN	00
+Kumbang Pasang Estate	4.91667	114.93333	BN	00
+Tanjong Kulat	4.85	115.1	BN	00
+Sungai Kulapis	4.85	114.81667	BN	00
+Sungai Kukub	4.38333	114.63333	BN	00
+Bukit Kukub	4.7	114.61667	BN	00
+Bukit Kubur Jin	4.66667	114.7	BN	00
+Bukit Kubu	4.8	114.75	BN	00
+Tanjong Kuala Tutong	4.76667	114.6	BN	00
+Kuala Belait	4.58361	114.2312	BN	01
+Kuala Balai	4.45	114.31667	BN	01
+Bukit Kota	4.78333	114.81667	BN	00
+Sungai Kobok	4.93333	114.83333	BN	00
+Sungai Kiulu	4.53333	114.75	BN	00
+Sungai Kiudang	4.75	114.71667	BN	00
+Sungai Kitus	4.85	114.9	BN	00
+Pulau Kitang	4.88333	115.1	BN	00
+Tanjung Kindana	4.93333	115.01667	BN	00
+Bukit Kindana	4.91667	115.01667	BN	00
+Aur Kilo	4.7	115.15	BN	00
+Sungai Kilanas	4.86667	114.86667	BN	00
+Sungai Kibi	4.76667	115.05	BN	00
+Pulau Kibi	4.76667	115.03333	BN	00
+Sungai Kiarong	4.9	114.91667	BN	00
+Sungai Kiaput	4.55	114.75	BN	00
+Sungai Kianggeh	4.88701	114.94472	BN	00
+Sungai Kiajong	4.91667	114.8	BN	00
+Tanjong Kerasik	4.85	115.1	BN	00
+Kepala Berbunot	4.88333	115.03333	BN	00
+Sungai Kenua	4.61667	115.05	BN	00
+Sungai Kenipahan	4.95	114.83333	BN	00
+Sungai Kenangan	4.56667	115.06667	BN	00
+Sungai Keluyoh Kechil	4.66667	114.5	BN	00
+Sungai Keluyoh Besar	4.65	114.48333	BN	00
+Sungai Kelukus	4.81667	114.76667	BN	00
+Sungai Kelugus	4.78333	114.75	BN	00
+Sungai Kelansat	4.61667	114.73333	BN	00
+Bukit Kelangkong	4.85	114.86667	BN	00
+Sungai Kelakas	4.81667	114.66667	BN	00
+Arur Kelaban	4.65	115.23333	BN	00
+Sungai Keduan Tepaling	4.2	114.55	BN	00
+Sungai Keduan	4.28333	114.63333	BN	00
+Sungai Kedayan	4.88519	114.93754	BN	00
+Sungai Kebun	4.73333	114.73333	BN	00
+Sungai Kebubok	4.51667	114.76667	BN	00
+Sungai Keboluan	4.63333	114.7	BN	00
+Bukit Kebia	4.76667	114.73333	BN	00
+Bukit Kayu Arang	4.96667	114.9	BN	00
+Sungai Kayal	4.8	114.81667	BN	00
+Sungai Kawang	4.7	115.13333	BN	00
+Sungai Karut	4.66667	114.45	BN	00
+Sungai Karop	4.68333	115.18333	BN	00
+Sungai Kareta	4.6	114.71667	BN	00
+Sungai Kangkan	4.18333	114.7	BN	00
+Sungai Kang	4.66667	114.46667	BN	00
+Kampong Wasan	4.76667	114.78333	BN	00
+Kampong Ukong	4.66667	114.63333	BN	04
+Kampong Tunggulian	4.68333	114.5	BN	00
+Kampong Tunah Jambu	4.98333	114.98333	BN	00
+Kampong Tulang	4.88333	114.83333	BN	00
+Kampong Timbunan	4.95	114.96667	BN	00
+Kampong Timahu	4.86667	114.81667	BN	00
+Kampong Terap Bau	4.86667	114.93333	BN	00
+Kampong Telisai	4.73333	114.56667	BN	04
+Kampong Telamba	4.73333	114.56667	BN	00
+Kampong Telaga Baka	4.81667	114.68333	BN	00
+Kampong Tanjong Santul	4.68333	114.66667	BN	00
+Kampong Tanjong Nangka	4.88333	114.81667	BN	00
+Kampong Tanjong Menungan	4.83333	114.71667	BN	00
+Kampong Tanjong Maya	4.75	114.66667	BN	04
+Kampong Tanjong Durian	4.81667	114.75	BN	00
+Kampong Tanjong Berapan	4.81667	114.66667	BN	00
+Kampong Tanjong	4.88333	114.83333	BN	00
+Kampong Tanah Burok	4.83333	114.66667	BN	00
+Kampong Sungai Liang Kechil	4.66667	114.48333	BN	00
+Kampong Sungai Liang	4.68333	114.5	BN	01
+Kampong Sungai Lampai	4.88333	114.95	BN	00
+Kampong Sungai Kelugus	4.83333	114.91667	BN	00
+Kampong Sungai Hanching	4.96492	114.97815	BN	00
+Kampong Sungai Burong	4.71667	114.71667	BN	00
+Kampong Sungai Bubus	5.01667	115.1	BN	00
+Kampong Sungai Besar	4.93333	115.01667	BN	00
+Jalan Sungai Asam	4.87156	114.93698	BN	00
+Kampong Sumbiling	4.58333	115.11667	BN	00
+Kampong Subok	4.88333	114.95	BN	00
+Kampong Sinonuk	4.63333	114.66667	BN	00
+Kampong Sinaut	4.81667	114.75	BN	00
+Kampong Sinarubai	4.83333	114.86667	BN	00
+Kampong Sibut	4.61667	115.1	BN	00
+Kampong Sibakit	4.73333	114.66667	BN	00
+Kampong Serusup	4.95	114.93333	BN	00
+Kampong Serdang	4.9	114.98333	BN	00
+Kampong Serasa	5.01667	115.05	BN	00
+Kampong Sengkurong	4.88333	114.83333	BN	00
+Kampong Semabat	4.56667	115.06667	BN	00
+Kampong Selayun	4.9	114.85	BN	00
+Kampong Selangan	4.91667	114.83333	BN	00
+Kampong Sawah	4.51667	114.55	BN	00
+Kampong Sangkarai	4.8	114.65	BN	00
+Kampong Salam Bigar	4.98333	114.98333	BN	00
+Kampong Sabun	5.03333	115.06667	BN	00
+Kampong Riong	4.85	114.98333	BN	00
+Kampong Riong	4.81667	114.68333	BN	00
+Kampong Rimba	4.91667	114.9	BN	00
+Kampong Rendangan	4.83333	114.83333	BN	00
+Kampong Ranggu	4.86667	114.91667	BN	00
+Kampong Rampaya	4.63333	114.65	BN	00
+Kampong Rambai	4.63333	114.65	BN	04
+Kampong Putat	4.83333	114.98333	BN	00
+Kampong Purau Purau	4.36667	114.6	BN	00
+Kampong Pulau Muda	4.93333	114.91667	BN	00
+Pulaie	4.92994	114.95523	BN	00
+Kampong Pugat	4.8	114.81667	BN	00
+Kampong Pudak	4.9	114.98333	BN	00
+Kampong Potong	4.83333	114.78333	BN	00
+Kampong Perupok	4.75	114.61667	BN	00
+Kampong Perumpong	4.68333	114.48333	BN	00
+Kampong Peradayan	4.73333	115.08333	BN	00
+Kampong Pepatan	4.9	115.03333	BN	00
+Kampong Pepara	4.8	114.81667	BN	00
+Kampong Penyatang	4.75	114.58333	BN	00
+Kampong Peninjau	4.93333	114.83333	BN	00
+Kampong Penapar	4.73333	114.66667	BN	00
+Kampong Penanjong	4.85	114.68333	BN	00
+Kampong Penabai	4.8	114.61667	BN	00
+Kampong Pelumpong	5.03333	115.1	BN	00
+Kampong Pegalayan	4.78333	114.83333	BN	00
+Kampong Patong	4.81667	114.91667	BN	00
+Kampong Pasang	4.91667	114.91667	BN	00
+Kampong Parit Biang	4.61667	115.1	BN	00
+Kampong Parit	4.88594	114.92867	BN	00
+Kampong Paring	4.95	115.01667	BN	00
+Kampong Pantau Marai	4.8	114.8	BN	00
+Kampong Panjang	4.95	114.9	BN	00
+Kampong Pangkalan Ran	4.66667	114.63333	BN	00
+Kampong Pangkalan Piasau	4.68333	114.65	BN	00
+Kampong Pangkalan Parai	4.66667	114.63333	BN	00
+Kampong Pangkalan Mau	4.75	114.73333	BN	00
+Kampong Panchuran	4.96667	115.01667	BN	00
+Kampong Panchor Papan	4.8	114.66667	BN	00
+Kampong Panchor Dulit	4.81667	114.65	BN	00
+Kampong Pak	4.68333	115.18333	BN	00
+Kampong Paganan	4.55	115.06667	BN	00
+Kampong Padnunok	4.71667	114.71667	BN	00
+Kampong Nong Kelulau	4.73333	114.65	BN	00
+Kampong Nangka	4.88333	114.83333	BN	00
+Kampong Mungkom	4.73333	114.75	BN	00
+Kampong Mulaut	4.88333	114.83333	BN	00
+Kampong Mulaut	4.86667	114.83333	BN	00
+Kampong Menunggol	4.93333	114.83333	BN	00
+Kampong Menunggol	4.88333	114.98333	BN	00
+Kampong Mentiri	4.98333	115.01667	BN	00
+Kampong Mengawang	4.88333	114.85	BN	00
+Kampong Medaras	4.96667	114.91667	BN	00
+Kampong Mata Mata	4.9	114.9	BN	00
+Kampong Madewa	4.85	114.9	BN	00
+Kampong Lupak Luas	4.86667	114.93333	BN	00
+Kampong Lumapas	4.85	114.91667	BN	00
+Kampong Lugu	4.88333	114.8	BN	00
+Kampong Lubok Tanjong Maya	4.75	114.66667	BN	00
+Kampong Lubok Pulau	4.78333	114.66667	BN	00
+Kampong Luagan Dudok	4.81667	114.71667	BN	00
+Kampong Lopat	4.68333	115.2	BN	00
+Kampong Limpas	4.83333	114.91667	BN	00
+Kampong Limau Manis	4.75	114.81667	BN	00
+Kampong Lilas	4.7	114.51667	BN	00
+Kampong Lepong	4.6	115.05	BN	00
+Kampong Layong	4.68333	114.66667	BN	00
+Kampong Lamunin	4.68333	114.71667	BN	04
+Kampong Lambak A	4.96611	114.94296	BN	02
+Kampong Labut	4.75	115.1	BN	00
+Kampong Kupang	4.85	114.78333	BN	00
+Kampong Kuala Ungar	4.61667	114.66667	BN	00
+Kampong Kuala Tutong	4.78333	114.6	BN	04
+Kampong Kuala Abang	4.7	114.68333	BN	00
+Kampong Kota Batu	4.88333	114.95	BN	00
+Kampong Kobong	4.63333	115.03333	BN	00
+Kampong Kiulap	4.9	114.91667	BN	00
+Kampong Kiudang	4.75	114.73333	BN	04
+Kampong Kiarong	4.9	114.91667	BN	00
+Kampong Kiajong	4.91667	114.78333	BN	00
+Kampong Keriam	4.81667	114.68333	BN	04
+Kampong Kerangan Nyatan	4.41667	114.6	BN	00
+Kampong Kenua	4.61667	115.05	BN	00
+Kampong Keluyoh	4.66667	114.5	BN	00
+Kampong Kelalang	4.73333	114.66667	BN	00
+Kampong Kebun	4.75	114.73333	BN	00
+Kampong Kebia	4.76667	114.73333	BN	00
+Kampong Kayu Kapur	4.73333	114.66667	BN	00
+Kampong Katok	4.93333	114.88333	BN	00
+Kampong Katimahar	4.86667	114.8	BN	00
+Kampong Kasat	4.85	114.95	BN	00
+Kampong Kapok	5.03333	115.05	BN	00
+Kampong Kandang	4.8	114.65	BN	00
+Kampong Kalamasi	4.83333	114.95	BN	00
+Kampong Junjongan	4.8	114.85	BN	00
+Kampong Jerudong	4.95	114.85	BN	02
+Kampong Jangsak	4.88333	114.86667	BN	00
+Kampong Imang	4.8	114.8	BN	00
+Kampong Ikas	4.86667	114.8	BN	00
+Kampong Gadong	4.91667	114.91667	BN	02
+Kampong Empat Setengah	4.95	114.95	BN	00
+Kampong Delima	4.95	114.95	BN	00
+Kampong Danau	4.76667	114.58333	BN	00
+Kampong Burong Pingai Berakas	4.93333	114.91667	BN	00
+Kampong Burong Pingai	4.65	114.63333	BN	00
+Kampong Bunot	4.85	114.88333	BN	00
+Kampong Bukok	4.65	115.05	BN	00
+Kampong Bukit Tambai	4.76667	114.73333	BN	00
+Kampong Bukit Sulang	4.65	114.73333	BN	00
+Kampong Bukit Panggal	4.83333	114.73333	BN	00
+Kampong Bukit Kota	4.7	114.71667	BN	00
+Kampong Bukit Bang Tangur	4.61667	114.6	BN	00
+Kampong Bukit	4.63333	114.65	BN	00
+Kampong Buang Tawar	4.88333	114.96667	BN	00
+Kampong Buangsakar	4.85	114.95	BN	00
+Kampong Buang Bulan	4.68333	115.08333	BN	00
+Kampong Buangang	4.61667	114.68333	BN	00
+Kampong Birau	4.78333	114.73333	BN	00
+Kampong Bintauran	4.86667	114.71667	BN	00
+Kampong Binchaya	4.73333	114.56667	BN	00
+Kampong Bibit	4.88333	114.9	BN	00
+Kampong Biang	4.65	115.1	BN	00
+Kampong Beribi	4.88333	114.88333	BN	00
+Kampong Berbunot	4.88333	115.03333	BN	00
+Berangan	4.89565	114.94549	BN	02
+Kampong Berakas	4.94794	114.93583	BN	02
+Kampong Benutan	4.6	114.71667	BN	00
+Kampong Belayong	4.63333	115.05	BN	00
+Kampong Belaban	4.66667	115.08333	BN	00
+Kampong Bebatek	4.85	114.83333	BN	00
+Kampong Bawong	4.83333	114.96667	BN	00
+Kampong Batu Marang	4.98333	115.03333	BN	00
+Kampong Batu Lapan	4.88333	114.85	BN	00
+Kampong Batu Empat	4.86667	114.9	BN	00
+Kampong Batu Empat	4.78333	114.81667	BN	00
+Kampong Batong	4.81667	114.81667	BN	00
+Kampong Batang Duri	4.56667	115.13333	BN	00
+Kampong Bantun	4.88333	114.86667	BN	00
+Kampong Bang Togor	4.61667	114.61667	BN	00
+Kampong Bangana	4.65	114.71667	BN	00
+Kampong Bandong	4.88333	114.76667	BN	00
+Kampong Bakaladong	4.68333	114.66667	BN	00
+Kampong Baharu	4.8	114.8	BN	00
+Kampong Ampar	4.78333	114.81667	BN	00
+Kampong Amo	4.61667	115.1	BN	03
+Kampong Abang	4.68333	114.71667	BN	00
+Sungai Kalasi	4.2	114.68333	BN	00
+Sungai Kalambat Kechil	4.83333	114.88333	BN	00
+Sungai Kalambat Besar	4.85	114.88333	BN	00
+Sungai Kalamasi	4.85	114.95	BN	00
+Sungai Kaingaran	4.98333	114.9	BN	00
+Pulau Kaingaran	4.95	115.03333	BN	00
+Sungai Kagu	4.53333	114.55	BN	00
+Sungai Jerudong	4.96667	114.83333	BN	00
+Sungai Jerudong	4.86667	114.81667	BN	00
+Bukit Jerudong	4.95	114.85	BN	00
+Sungai Jeraya	4.71667	114.56667	BN	00
+Sungai Jelutong	4.58333	114.51667	BN	00
+Sungai Jambu	4.91667	114.9	BN	00
+Istana Darul Hana	4.88333	114.91667	BN	00
+Sungai Ingei	4.16667	114.71667	BN	00
+Sungai Imbang	4.76667	114.66667	BN	00
+Sungai Imang	4.8	114.83333	BN	00
+Sungai Ikas	4.86667	114.8	BN	00
+Sungai Hanching	4.95863	114.98579	BN	00
+Sungai Gudang Akop	4.3	114.51667	BN	00
+Sungai Golok	4.68333	115.18333	BN	00
+Sungai Glas	4.46667	114.78333	BN	00
+Sungai Geronggung	4.66667	114.56667	BN	00
+Sungai Geriting	4.7	114.5	BN	00
+Sungai Gelinggong	4.85	114.81667	BN	00
+Sungai Garang	4.85	115.1	BN	00
+Sungai Gana	4.68333	114.48333	BN	00
+Gadong Estate	4.91667	114.9	BN	00
+Sungai Gadong	4.9	114.91667	BN	00
+Sungai Entudau	4.45	114.8	BN	00
+Sungai Enjalatu	4.41667	114.61667	BN	00
+Sungai Enam	4.58333	114.1	BN	00
+Sungai Empat	4.58333	114.11667	BN	00
+Lubok Embangan	4.45	114.56667	BN	00
+Sungai Durian Sarawak	4.75	114.8	BN	00
+Sungai Durian Kalang	4.86667	114.86667	BN	00
+Sungai Durian	4.8	114.75	BN	00
+Bang Durian	4.7	114.63333	BN	00
+Sungai Duau Kechil	4.85	115.1	BN	00
+Sungai Duau Besar	4.83333	115.08333	BN	00
+Sungai Dua	4.58333	114.13333	BN	00
+Bukit Didaran	4.91667	114.83333	BN	00
+Sungai Dedap	4.88333	114.88333	BN	00
+Bukit Dedap	4.81667	114.71667	BN	00
+Sungai Dangar	4.66667	114.65	BN	00
+Tanjong Danau	4.76667	114.6	BN	00
+Sungai Danau	4.78333	114.6	BN	00
+Sungai Dalit	4.56667	114.2	BN	00
+Sungai Dalam	4.98333	114.9	BN	00
+Sungai Dalam	4.83333	114.86667	BN	00
+Sungai Dalai	4.7	114.55	BN	00
+Bukit Cowie	5.03333	115.05	BN	00
+Pulau Chermin	4.93333	115.01667	BN	00
+Sungai Butir	4.86667	114.95	BN	00
+Sungai Burong Lapas	4.81667	114.86667	BN	00
+Sungai Bura	4.25	114.66667	BN	00
+Sungai Buloh Gading	4.85	114.75	BN	00
+Sungai Buloh Besar	4.85	114.73333	BN	00
+Sungai Buloh Balui	4.75	114.71667	BN	00
+Sungai Buloh	4.83333	114.66667	BN	00
+Aur Buloh	4.66667	115.2	BN	00
+Sungai Bukok	4.65	115.05	BN	00
+Sungai Bukit Tiong	4.75	114.71667	BN	00
+Bukit Puan	4.53333	114.45	BN	00
+Sungai Bukit	4.63333	114.65	BN	00
+Sungai Buhot	4.96667	114.85	BN	00
+Sungai Buaya	4.85	114.88333	BN	00
+Sungai Buaya	4.71667	115.1	BN	00
+Sungai Buaya	4.21667	114.68333	BN	00
+Sungai Buang Tekurok	4.86667	114.93333	BN	00
+Sungai Buang Tawar	4.81667	114.85	BN	00
+Bukit Buang Sakar	4.85	114.93333	BN	00
+Sungai Buang Pinang	4.98333	114.91667	BN	00
+Bowong Point	5	115.08333	BN	00
+Sungai Bontu Kechil	4.85	115.08333	BN	00
+Sungai Bontu Besar	4.85	115.08333	BN	00
+Bukit Bisut	4.55	114.5	BN	00
+Sungai Birau	4.8	114.66667	BN	00
+Arur Birau	4.68333	115.18333	BN	00
+Sungai Bintauran Besar	4.88333	114.71667	BN	00
+Tanjong Binjai	4.78333	114.65	BN	00
+Sungai Biawak	4.98333	114.98333	BN	00
+Sungai Biang Tapan	4.66667	115.13333	BN	00
+Biang Estate	4.66667	115.1	BN	00
+Sungai Biang	4.66667	115.1	BN	00
+Bukit Biang	4.68333	115.1	BN	00
+Sungai Biadong Tengah	4.3	114.7	BN	00
+Sungai Biadong Patan	4.3	114.7	BN	00
+Sungai Biadong	4.35	114.61667	BN	00
+Sungai Betia	4.71667	115.1	BN	00
+Sungai Betayan	4.71667	115.1	BN	00
+Sungai Betampat	4.86667	114.8	BN	00
+Sungai Besar	5	114.91667	BN	00
+Sungai Besar	4.81667	114.66667	BN	00
+Alor Besar	4.86667	115.11667	BN	00
+Sungai Beruang	4.7	114.73333	BN	00
+Sungai Beribi	4.9	114.9	BN	00
+Sungai Beribi	4.68333	114.66667	BN	00
+Sungai Berbunut	4.93333	114.91667	BN	00
+Pulau Berbunot	4.88333	115.03333	BN	00
+Sungai Berbunga	4.85	115.13333	BN	00
+Sungai Berangan	4.9	114.95	BN	00
+Sungai Berangan	4.31667	114.66667	BN	00
+Pulau Berambang	4.86667	114.98333	BN	00
+Sungai Berakas	4.93333	114.93333	BN	00
+Sungai Bera	4.63333	114.35	BN	00
+Sungai Benutan	4.95	114.9	BN	00
+Sungai Benutan	4.6	114.71667	BN	00
+Sungai Bengkala	4.91667	114.9	BN	00
+Sungai Benawar	4.63333	114.65	BN	00
+Sungai Bemban	4.78333	115.21667	BN	00
+Sungai Belangsat	4.83333	114.81667	BN	00
+Sungai Belandak	4.93333	114.86667	BN	00
+Sungai Belalong	4.93333	114.81667	BN	00
+Sungai Belalong	4.55	115.13333	BN	00
+Bukit Belalong	4.48333	115.18333	BN	00
+Sungai Belait	4.58276	114.18752	BN	00
+Kuala Belait	4.59165	114.18005	BN	00
+Sungai Belabau	4.45	114.78333	BN	00
+Sungai Belaban	4.91667	114.9	BN	00
+Sungai Bekuku	4.76667	114.61667	BN	00
+Pulau Bekuku	4.78333	114.61667	BN	00
+Sungai Bekina	4.85	114.78333	BN	00
+Sungai Bekiau	4.8	114.66667	BN	00
+Pulau Bedukang	4.98333	115.05	BN	00
+Sungai Bedawan	4.48333	114.78333	BN	00
+Sungai Bedaput	4.46667	114.78333	BN	00
+Sungai Bawang Grang	4.23333	114.68333	BN	00
+Sungai Bawang Gayoh	4.21667	114.68333	BN	00
+Sungai Batu Miris	4.63333	115.23333	BN	00
+Sungai Batu Marang	4.98333	115.03333	BN	00
+Sungai Batu Apoi Obud	4.61667	115.23333	BN	00
+Batu Apoi Estate	4.71667	115.08333	BN	00
+Sungai Batu Apoi	4.75	115.08333	BN	00
+Batu Apoi	4.7	115.1	BN	03
+Sungai Batong	4.9	114.91667	BN	00
+Sungai Batong	4.8	114.83333	BN	00
+Sungai Batang Tongkat	4.71667	115.16667	BN	00
+Sungai Batang Duri	4.58333	115.11667	BN	00
+Sungai Basong	4.81667	114.76667	BN	00
+Sungai Bangau	4.38333	114.68333	BN	00
+Bangar	4.71667	115.06667	BN	03
+Sungai Bangal	4.9	114.9	BN	00
+Sungai Bandong	4.86667	114.78333	BN	00
+Bandar Seri Begawan	4.94029	114.94806	BN	02
+Sungai Bamban	4.65	114.63333	BN	00
+Sungai Balau	4.88333	114.73333	BN	00
+Sungai Bakut	4.75	114.71667	BN	00
+Sungai Bakong	4.66667	114.45	BN	00
+Tanjong Bakarang	4.9	115.03333	BN	00
+Sungai Bahu	4.25	114.65	BN	00
+Sungai Badas	4.56667	114.41667	BN	00
+Sungai Badak	4.63333	114.65	BN	00
+Arur Bada	4.7	115.16667	BN	00
+Sungai Babi	4.53333	115.16667	BN	00
+Anak Sungai Babi	4.55	115.23333	BN	00
+Sungai Ayer Terjun	4.86667	114.86667	BN	00
+Sungai Ayam Ayam	4.86667	115.15	BN	00
+Sungai Ayam	4.63333	114.35	BN	00
+Sungai Asin	4.25	114.58333	BN	00
+Sungai Asan	4.91667	114.78333	BN	00
+Sungai Asan	4.58333	114.66667	BN	00
+Sungai Arut	4.81667	114.85	BN	00
+Sungai Aru Lirang	4.13333	114.56667	BN	00
+Sungai Aru Bonang	4.18333	114.68333	BN	00
+Sungai Ara Nibong	4.7	115.15	BN	00
+Sungai Ara Nibong	4.13333	114.65	BN	00
+Sungai Apan	4.55	115.18333	BN	00
+Sungai Antong	5	114.96667	BN	00
+Sungai Anduki	4.63333	114.36667	BN	00
+Sungai Anduan	4.63333	114.4	BN	00
+Sungai Ampoh	4.71667	114.51667	BN	00
+Sungai Amoh Besar	4.61667	115.13333	BN	00
+Sungai Amoh	4.63333	115.11667	BN	00
+Bukit Ambok	4.8	114.66667	BN	00
+Sungai Akotakut	5	114.93333	BN	00
+Ajong Batu	4.86667	114.91667	BN	00
+Sungai Ajar	4.33333	114.66667	BN	00
+Sungai Aipoh	4.36667	114.7	BN	00
+Sungai Agutagut	5	114.93333	BN	00
+Bukit Agok	4.9	114.78333	BN	00
+Sungai Agat	4.94052	114.96128	BN	00
+Sungai Agas	4.38333	114.33333	BN	00
+Sungai Abang	4.7	114.66667	BN	00
+Bukit Abang	4.88333	114.81667	BN	00
+Kampong Ayer	4.91667	114.91667	BN	
+Sungai Kianggeh	4.8958	114.94705	BN	
+Radisson	4.9115	114.9341	BN	
+Rizqun International	4.90555	114.91683	BN	
+Raddison	4.9431	114.9425	BN	

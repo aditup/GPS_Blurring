@@ -1,0 +1,449 @@
+Zealandia Bank - Active Hydrothermal Discharge	16.8953	145.855	MP	085
+Vogt Guyot	19.83333	149	MP	085
+Stingray Shoal	20.4958	142.4375	MP	085
+Pathfinder Bank	16.5	143.135	MP	110
+Mariana Trough	15.175	144.57	MP	110
+Mariana Trench	15.175	147.505	MP	110
+Lowrie Guyot	19.68268	150.73105	MP	085
+Fryer Guyot	20.5	148	MP	085
+Esmeralda Bank - Active Hydrothermal Discharge	14.9583	145.2458	MP	120
+Arakane Reef	15.61667	142.75	MP	110
+Enrique Guyot	15.40338	148.41156	MP	110
+Pigafetta Guyot	15.83718	148.79883	MP	110
+Victoria Guyot	14.33333	147.75	MP	100
+Landeran Achugao	15.24126	145.76868	MP	110
+Okso Achugao	15.23926	145.77772	MP	110
+Puntan Achugao	15.24993	145.76931	MP	110
+Unai Achugao	15.24527	145.76315	MP	110
+Puntan Afetna	15.13013	145.69209	MP	110
+Afuefuniya Point	14.11222	145.19528	MP	100
+Puntan Agingan	15.11889	145.68861	MP	110
+Agrihan	18.745	145.669	MP	085
+Agrihan Vessel Anchorage	18.73409	145.64708	MP	085
+Laderan I Akgak	15.2027	145.75006	MP	110
+Alutom	14.85417	145.55083	MP	120
+Angyuta Islet	14.13598	145.13197	MP	100
+Kastiyu Plateau North	14.9672	145.6564	MP	120
+Old Mt.Pagan Volcano Caldera Rim Southwest	18.11559	145.76694	MP	085
+Sengao Peninsula	18.10203	145.79578	MP	085
+Aratsu-wan	14.14361	145.2375	MP	100
+Puntan Asiga	15.05853	145.65888	MP	120
+Asuzudo Point	14.20005	145.24233	MP	100
+Puntan Atgidon	15.015	145.58111	MP	120
+Suicide Cliff	15.27745	145.80973	MP	110
+Banzai Cliff	15.28653	145.81583	MP	110
+Puntan Bapot	15.15444	145.76778	MP	110
+Unai Baput	15.16167	145.76083	MP	110
+Carolinas Plateau	14.93415	145.63801	MP	120
+Laderan Carolinas Sampapa	14.92547	145.6411	MP	120
+Laderan Carolinas Sanhilo	14.92915	145.63893	MP	120
+Puntan Carolinas	14.92194	145.63306	MP	120
+Chalan Kanoa Village	15.14636	145.70304	MP	110
+Laderan Chiget	15.05861	145.64917	MP	120
+Puntan Chiget	15.06129	145.65655	MP	120
+Unai Chiget	15.06114	145.65521	MP	120
+Puntan Dandan	15.12311	145.7551	MP	110
+Kagman Peninsula	15.16393	145.77913	MP	110
+Unai Dandan	15.13569	145.74191	MP	110
+Unai Dangkolo	15.03556	145.64611	MP	120
+Death Valley WW2	15.18464	145.75394	MP	110
+Old Mt.Pagan Volcano Caldera Rim South	18.11461	145.78471	MP	085
+Galleon Nuestra Senora de la Concepcion 1638	15.11443	145.69905	MP	110
+Unai Dikike Matuis	15.26249	145.78372	MP	110
+Okso Dogas	15.23531	145.7726	MP	110
+Puntan Dogas	15.24251	145.75361	MP	110
+Puntan Diapblo	14.99472	145.58389	MP	120
+Rota East Docks	14.13931	145.14389	MP	100
+Fanochuluyan	15.2651	145.80248	MP	110
+Puntan As Fani	14.16113	145.28346	MP	100
+Bahia Fanonchuluyan	15.25528	145.81333	MP	110
+Farallon de Medinilla	16.024	146.0615	MP	085
+Farallon de Pajaros	20.54	144.891	MP	085
+Puntan Fina Atkos	14.18876	145.28964	MP	100
+Puntan Flores	15.23194	145.74085	MP	110
+Lagunan Garapan	15.18332	145.7103	MP	110
+Okso Frailon	15.22273	145.74056	MP	110
+Okso Gualo Rai	15.19658	145.7241	MP	110
+Puntan Hakmang	15.15	145.78583	MP	110
+Puntan Gloria	15.20046	145.78188	MP	110
+Unai Halaihai	15.18418	145.78105	MP	110
+I Hasngot	15.21319	145.77746	MP	110
+Puntan Halaihai	15.18143	145.78467	MP	110
+Puntan Haina	14.131	145.23095	MP	100
+Chenchon Bird Sanctuary	14.15289	145.26731	MP	100
+Kagman I	15.18181	145.77415	MP	110
+Matansa	15.24718	145.79031	MP	110
+Laderan Kalaberan Kattan	15.26872	145.81151	MP	110
+Laderan Kalaberan Lichan	15.24567	145.79684	MP	110
+Lagunan Chalan Kanoa	15.13036	145.68987	MP	110
+Kastiyu	14.95564	145.65069	MP	120
+Puntan Kastiyu	14.94804	145.66554	MP	120
+Unai Chalan Kiya	15.16139	145.70417	MP	110
+Koblerville Village	15.12382	145.70228	MP	110
+Kutake Yashi	18.058	145.724	MP	085
+Puntan Laggua Kattan	15.28682	145.81874	MP	110
+Puntan Laggua	15.27274	145.83012	MP	110
+Laguna Sanhalom - Brackish Water	18.14969	145.77334	MP	085
+Puntan Lamanibot Sampapa'	15.03816	145.58888	MP	120
+Puntan Lamanibot Sanhilo	15.05139	145.595	MP	120
+Unai Lamlam	15.08667	145.63028	MP	120
+Puntan Laolao Kattan	15.16673	145.79751	MP	110
+Unai Laolao Kattan	15.17472	145.78596	MP	110
+Bahia Laolao	15.14167	145.75639	MP	110
+Unai I Hasngot	15.20989	145.77854	MP	110
+Unai Laolao	15.15972	145.75111	MP	110
+Okso Laolao	15.16901	145.75018	MP	110
+Badeha Plateau	15.02421	145.61777	MP	120
+Kalabera Cave	15.24503	145.79751	MP	110
+Laderan Machiget	15.20638	145.763	MP	110
+Laderan I Maddock	15.26452	145.82269	MP	110
+Puntan I Maddock	15.25955	145.82694	MP	110
+Laderan Gntot	15.06	145.62256	MP	120
+Puntan Makpe	15.27586	145.79493	MP	110
+Unai Makpe	15.27073	145.79051	MP	110
+Marpo Wells	14.97996	145.65584	MP	120
+Puntan Malilok	14.11524	145.21253	MP	100
+Laderan Makpe	15.27533	145.79915	MP	110
+Puntan Masalok	15.00589	145.6739	MP	120
+As Matuis Cliff	15.26054	145.7993	MP	110
+Mochon Point	14.19887	145.26183	MP	100
+Puntan Muchot	15.21937	145.71725	MP	110
+Naftan Cliff	15.10664	145.75276	MP	110
+Laderan I Naftan	15.10922	145.75093	MP	110
+Puntan I Naftan	15.09111	145.74611	MP	110
+Naftan Peninsula	15.09902	145.74845	MP	110
+Puntan Nanesu	15.22862	145.79866	MP	110
+US Naval Base Tinian WW2	14.96503	145.61755	MP	120
+JP Fighter Air Base Banadera WW2	15.2812	145.81265	MP	110
+Opyan	15.10588	145.73851	MP	110
+Puntan Opyan	15.10528	145.705	MP	110
+Puntan Unai Opyan	15.10417	145.72917	MP	110
+Catholic Our Lady of Lourdes Shrine	15.19298	145.76235	MP	110
+Laderan Papao	15.24334	145.77739	MP	110
+Unai Peo	15.10772	145.71665	MP	110
+Old South Volcano Caldera Rim East	18.07006	145.74169	MP	085
+Pidos Kalaho	15.2769	145.8071	MP	110
+Puntan Pona	14.11208	145.16732	MP	100
+Tinian Amphitheater	14.96353	145.63044	MP	120
+Rota Municipality	14.154	145.201	MP	100
+Dugi Village	14.18851	145.27874	MP	100
+Puntan Sabaneta	15.2899	145.8111	MP	110
+Puntan Saguagahga	14.15176	145.26735	MP	100
+Puntan Sailigai	14.16556	145.15667	MP	100
+Saipan Channel	15.10991	145.68146	MP	110
+Saipan Municipality	15.1355	145.701	MP	110
+JP Tinian Town pre-WW2	14.96874	145.62437	MP	120
+San Roque Village	15.24889	145.77553	MP	110
+San Vicente Village	15.15165	145.7376	MP	110
+Puntan Senhanom	14.12139	145.11917	MP	100
+Pagan Village	18.12539	145.75938	MP	085
+Sinapalo Village	14.16608	145.2317	MP	100
+Smiling Cove Marina	15.21715	145.723	MP	110
+Songsong	14.13972	145.14111	MP	100
+South Point	18.04452	145.70935	MP	085
+Suicide Cliff	14.93867	145.65228	MP	120
+Puntan Susupe	15.15619	145.7	MP	110
+75m Communication Tower	14.95673	145.64245	MP	120
+Puntan Tahgong	15.10107	145.64485	MP	120
+Harnom Point	14.11812	145.12233	MP	100
+Laderan Takpochao	15.18663	145.74656	MP	110
+Okso Talofofo	15.22835	145.76497	MP	110
+Tanapag Village	15.24205	145.75626	MP	110
+Lagunan Tanapag	15.23939	145.72678	MP	110
+Puetton Tanapag	15.23127	145.73321	MP	110
+Unai Tanapag	15.23611	145.74528	MP	110
+Laderan Tangke	15.25227	145.80608	MP	110
+Puntan Tangke	15.24162	145.81034	MP	110
+Laderan As Taman	15.18841	145.73057	MP	110
+Tarage	18.17	145.79389	MP	085
+Tatsumi Reef	14.90216	145.66412	MP	120
+Tinian Channel	14.90139	145.605	MP	120
+Tinian Municipality	15.029	145.616	MP	120
+Okso Tipo Poli	15.18576	145.73433	MP	110
+Tonga Caves	14.14373	145.14421	MP	100
+Supply Reef	20.13815	145.09678	MP	085
+Zealandia Bank	16.8953	145.854	MP	085
+Dandan Village	15.13511	145.73404	MP	110
+Garapan Village	15.20545	145.72025	MP	110
+Gualo Rai Village	15.19415	145.71682	MP	110
+Kagman III	15.16975	145.78018	MP	110
+San Antonio Village	15.13299	145.69716	MP	110
+San Jose Village	15.16853	145.71016	MP	110
+San Jose Village	14.96823	145.61998	MP	120
+Susupe Village	15.15634	145.70258	MP	110
+North West Pacific Ocean - to the East	15.214	145.7575	MP	00
+Philippine Sea - to the West	15.214	145.758	MP	00
+Marianas Tectonic Micro-Plate	15.214	145.759	MP	00
+Spanish Marianas Colony -1899	15.213	145.756	MP	00
+German Carolines Colony -1914	15.213	145.7565	MP	00
+Japan League of Nations Mandate -1944	15.213	145.757	MP	00
+USA United Nations Mandate -1978	15.213	145.7575	MP	00
+Pacific Tectonic Plate	15.175	148.2	MP	110
+Battle of the Philippine Sea WW2	15.213	145.758	MP	00
+Philippine Sea Tectonic Plate	15.175	140.5	MP	110
+Uracas Bank	20.66	144.83	MP	085
+Fuel Tanker Mooring and Shore Pipeline	14.13533	145.14552	MP	100
+Coastguard Mooring Buoy	14.13412	145.14201	MP	100
+Entry Channel Direction Lights	14.13839	145.13189	MP	100
+West Cargo Dock 2	14.13653	145.13458	MP	100
+Aguijan Reef	14.775	145.483	MP	120
+NoName Reef 1	17.16047	143.22395	MP	085
+NoName Reef 2	17.7167	142.8583	MP	085
+NoName Reef 3	18.1	143.1	MP	085
+Entrance Channel	14.95505	145.6241	MP	120
+Breakwater atop Coral Reef	14.96183	145.61944	MP	120
+Explosives Anchorage	14.99209	145.58413	MP	120
+Commercial Dock	14.96459	145.6222	MP	120
+Local Marina	14.96677	145.618	MP	120
+Isleta Managaha	15.24092	145.71258	MP	110
+Ushi Point Light	15.10051	145.64422	MP	120
+JP Sugar Dock	15.15135	145.6991	MP	110
+Tanapag Approach Lighted Buoy T	15.20328	145.67465	MP	110
+Tanapag Entrance Channel	15.21347	145.68609	MP	110
+Moored Fish Attracting Devices FAD	15.25	145.5	MP	110
+Marpi Reef	15.425	145.85	MP	110
+Westerlies Vessel Anchorage	15.15689	145.75888	MP	110
+Agingan Radio Masts Landmark	15.12112	145.69287	MP	110
+Garapan Vessel Anchorage	15.19392	145.6897	MP	110
+Isolated Okino Reef and Buoy	15.2114	145.6967	MP	110
+Commercial Dock B	15.22553	145.73307	MP	110
+JP Seaplane Ramps WW2	15.23102	145.73877	MP	110
+Northwest Reef	16.08606	145.9259	MP	085
+North Reef 1	16.0317	146.0683	MP	085
+North Reef 2	16.045	146.07	MP	085
+North Reef 3	16.05333	146.066	MP	085
+ESE Anatahan Bank	16.29114	146.02341	MP	085
+Isolated North Reef	16.8166	145.7666	MP	085
+Extending Sand Bank	17.57	145.8033	MP	085
+Northeasterlies Anchorage	17.58308	145.81844	MP	085
+Shomushon Entrance	18.12311	145.75751	MP	085
+Shomushon Boat Anchorage	18.12355	145.75861	MP	085
+Apaan Anchorage	18.12823	145.75218	MP	085
+Maug Vessel Anchorage	20.02497	145.22922	MP	085
+Active Stratovolcano	20.54559	144.8928	MP	085
+Farallon de Pajaros	20.54	144.89	MP	085
+Zealandia Bank	16.8953	145.8535	MP	085
+Farallon de Medinilla	16.024	146.061	MP	085
+German Auxiliary Cruisers Staging Base WW2	20.014	145.221	MP	085
+Battle of Tinian WW2	15.029	145.618	MP	120
+Capture of the Marianas WW2	15.213	145.7585	MP	00
+Battle of Saipan WW2	15.1355	145.702	MP	110
+Historic Maug Settlement	20.02735	145.23314	MP	085
+JP Weather and Communication Garrison WW2	20.02688	145.23316	MP	085
+Shrub and Grassland Cover	20.014	145.222	MP	085
+Asuncion Stratovolcano - Fumarolic Activities	19.6942	145.4042	MP	085
+Mariana Trench Marine National Monument - Vents Unit	21.94145	143.45982	MP	085
+Mariana Trench Marine National Monument - Vents Unit	20.0225	145.21983	MP	085
+Marianas Central Trough - Fumarolic Activity	18.017	144.75	MP	085
+Mariana Trench Marine National Monument - Trench Unit	23.89305	145.09611	MP	085
+Intermittent Historic Settlements	19.68211	145.3947	MP	085
+General High Grasses and Shrub Cover	19.68858	145.3977	MP	085
+Agrihan Crater South Rim	18.7676	145.6732	MP	085
+Agrihan Stratovolcano - Fumarolic Activity	18.7676	145.6733	MP	085
+New Agrihan Somma Volcano - Fumarolic Activity	18.77847	145.67159	MP	085
+Caldera Bottom	18.78107	145.6683	MP	085
+Agrihan Crater West Rim	18.78251	145.65892	MP	085
+Agrihan Crater North Rim	18.78688	145.66695	MP	085
+Agrihan Crater East Rim	18.77902	145.68071	MP	085
+Major NW Lava Flow	18.80573	145.65725	MP	085
+Old Crater Bottom - Tall Grasses and Ferns	18.7805	145.66775	MP	085
+Vegetables Gardens	18.73926	145.65313	MP	085
+Agrihan Village	18.73638	145.65295	MP	085
+Laguna Sanhiyon - Salt Water	18.14204	145.7633	MP	085
+Sonome Reef	16.44135	146.05499	MP	085
+Eastern Volcanic Maar	18.14614	145.77175	MP	085
+Eastern Maar North Rim	18.15262	145.77338	MP	085
+Eastern Maar West Rim	18.14326	145.76752	MP	085
+Eastern Maar South Rim	18.13741	145.77291	MP	085
+Bandeera - Old Mt.Pagan Volcano Caldera Rim West	18.12754	145.75653	MP	085
+Old Mt.Pagan Volcano Caldera Rim East	18.14408	145.80492	MP	085
+Old Mt.Pagan Volcano Caldera Rim North	18.16349	145.78424	MP	085
+Mariana Trench	18.11	147.77	MP	085
+1981 Lava Flow SW Limit	18.1223	145.76618	MP	085
+Alamagan Village	17.61252	145.82147	MP	085
+Puntan Gagu	18.16632	145.79432	MP	085
+Butkan Kanat Dagu	18.11877	145.80402	MP	085
+1981 Lava Flow North Limit	18.1664	145.7739	MP	085
+1872-73 Lava Flows	18.15943	145.80261	MP	085
+Western Volcanic Maar	18.14137	145.76343	MP	085
+Old Mt.Pagan Volcano Caldera Rim West	18.12164	145.75863	MP	085
+Old South Volcano Caldera Rim South	18.058	145.7238	MP	085
+Oldest Central Volcano - Eroded Fragment	18.0934	145.75416	MP	085
+Old South Volcano Caldera Bottom	18.06182	145.72746	MP	085
+Old South Volcano Caldera Rim NorthEast	18.0797	145.7428	MP	085
+South Pagan Volcano	18.0729	145.72585	MP	085
+South Pagan Post-Caldera Volcanoes Group	18.0729	145.7261	MP	085
+Bulikan Bulifli - South Post-Caldera Crater	18.07631	145.73313	MP	085
+Seismic - South Post-Caldera Crater	18.07418	145.72622	MP	085
+Bilikan Paliat - South Post-Caldera Crater	18.07112	145.72515	MP	085
+NoName - South Post-Caldera Crater	18.0689	145.7254	MP	085
+Grass and Shrub Cover	18.06794	145.71879	MP	085
+JP Army Airbase WW2	18.11	145.775	MP	085
+JP Army Headquarters WW2	18.13639	145.76493	MP	085
+JP Airbase Facilities WW2	18.12379	145.76405	MP	085
+Alamagan Stratovolcano - Permanent Geothermic Activity	17.602	145.8369	MP	085
+Crater North Rim	17.602	145.8371	MP	085
+Deep Crater Bottom	17.5977	145.84	MP	085
+Crater South Rim	17.5933	145.8408	MP	085
+Crater West Rim	17.5983	145.835	MP	085
+Crater East Rim	17.5975	145.8425	MP	085
+Secondary Vent	17.6058	145.8436	MP	085
+Large Southwest Graben	17.5931	145.82952	MP	085
+former Songsong Village	17.5857	145.82453	MP	085
+South Pagan Top	18.0797	145.7424	MP	085
+South Guguan Volcano	17.29982	145.84155	MP	085
+South Guguan Extinct Stratovolcano	17.29982	145.842	MP	085
+South Guguan Caldera Southwest Rim	17.29982	145.8411	MP	085
+South Guguan Caldera Rim Northeast	17.30846	145.84542	MP	085
+South Guguan Caldera Bottom	17.3043	145.84342	MP	085
+North Guguan Volcano	17.31297	145.83903	MP	085
+Dormant North Guguan Volcano	17.3128	145.839	MP	085
+North Guguan Volcano post-caldera Southern Vent	17.3126	145.839	MP	085
+North Guguan Volcano post-caldera Northern Vent	17.31435	145.83934	MP	085
+North Guguan Volcano Caldera South Rim	17.31115	145.84041	MP	085
+Zealandia Dormant Stratovolcano - Geothermal Activity	16.8953	145.8545	MP	085
+Mariana Trench Marine National Monument - Vents Unit	16.8953	145.8555	MP	085
+Dormant Sarigan Stratovolcano	16.6988	145.7802	MP	085
+Copra Workers Settlement pre-WW2	16.70999	145.77046	MP	085
+Anatahan Village - abandoned since 1993	16.3654	145.63421	MP	085
+Active Anatahan Stratovolcano	16.355	145.6562	MP	085
+Caldera West Rim	16.355	145.6566	MP	085
+Caldera NorthEast Rim	16.3575	145.7072	MP	085
+Extra-Caldera Southeast Crater	16.34267	145.71691	MP	085
+Caldera NorthNorthEast Rim	16.35986	145.69865	MP	085
+Caldera North Rim	16.36299	145.6786	MP	085
+Caldera South Rim	16.34094	145.67519	MP	085
+Caldera SouthEast Rim	16.3432	145.70579	MP	085
+West Caldera Bottom	16.35465	145.68515	MP	085
+Extra-Caldera NorthWest Crater	16.36569	145.64687	MP	085
+Last Surrender of JP WW2 Troops 1951-06-30	16.362	145.644	MP	085
+Caldera Walls and Bottom Grass and Trees pre-2003	16.35346	145.68343	MP	085
+Post-Caldera Craters	16.35473	145.67841	MP	085
+US Military Target and Exercise Range	16.024	146.062	MP	085
+Bomb Targeting Marks - 20-Feet Shipping Containers	16.0205	146.06093	MP	085
+Top of FDM	16.01622	146.05892	MP	085
+North Cape	16.02634	146.06257	MP	085
+South Cape	16.00601	146.05214	MP	085
+Central Isthmus - 20m wide	16.01282	146.05468	MP	085
+Extended SouthWest Reef	14.82401	145.52284	MP	120
+Last Chamorro Holdout - Spanish-Chamorro Wars 1694	14.85	145.56	MP	120
+JP Army Garrison WW2	14.85	145.561	MP	120
+JP Topsoil Phosphate Mining pre-WW2	14.8528	145.55606	MP	120
+frmr Material Tramway to Ship Loading	14.84944	145.55132	MP	120
+Ship Loading Cable Tramway	14.84784	145.53829	MP	120
+West Cargo Dock 1	14.13569	145.13378	MP	100
+West Harbour Marina	14.13512	145.13334	MP	100
+Shoun Maru Wreck - Phosphate Frighter WW2	14.1236	145.1617	MP	100
+Tweksberry Lagoon	14.13362	145.13049	MP	100
+Teneto Village	14.13773	145.15351	MP	100
+Water Tank	14.13991	145.15333	MP	100
+Songsong Belvedere	14.14351	145.14472	MP	100
+Liyo Hamlet	14.13269	145.13522	MP	100
+JP Army Garrison WW2	14.154	145.204	MP	100
+JP Phospahate and Sugar Production	14.154	145.205	MP	100
+Bank of Guam	14.14203	145.14201	MP	100
+NMC Rota Instructional Site	14.1671	145.16234	MP	100
+The Coconut Village	14.1789	145.2058	MP	100
+Mariana Trough	19	144	MP	085
+Natural Swimming Hole - Fresh Water	14.19277	145.22564	MP	100
+Miigao	14.12434	145.16791	MP	100
+Phosphate Cable Tram to Teruson	14.13416	145.17669	MP	100
+JP Sugar Cane Tramway to Songsong	14.19357	145.23991	MP	100
+Marpi Landfill - Municipal Waste Disposal Site	15.27168	145.8177	MP	110
+JP Sinapalo Airbase WW2	14.17419	145.23969	MP	100
+Taipingot Peninsula	14.12434	145.12656	MP	100
+Fina' Atkos Caves	14.16585	145.28344	MP	100
+Sabana Communication Tower	14.14058	145.17547	MP	100
+Water Cave - Rota Drinking Water Caption	14.12697	145.19143	MP	100
+Fringing Reef North and East	14.19477	145.28061	MP	100
+JP Sugar Cane Tramway Northern Leg	14.15118	145.14581	MP	100
+JP Tramway Steam Locomitive pre-WW2	14.13639	145.13554	MP	100
+JP 140mm Coastal Defense Gun and Casemate WW2	14.12307	145.1681	MP	100
+Rota Channel	13.92607	145.047	MP	100
+Tatsumi Reef Southwest	14.895	145.6583	MP	120
+Tatsumi Reef NorthEast	14.9142	145.68	MP	120
+High Stack as Day Beacon	14.97361	145.61534	MP	120
+The Tinian Blow Hole	15.0744	145.6557	MP	100
+Entrance Channel Bend	14.9583	145.6255	MP	120
+Casino Helipad	14.96003	145.63109	MP	120
+160m Antenna Masts - Northernmost	15.05283	145.61011	MP	120
+Southernmost of 16 Antenna Masts	15.04198	145.60404	MP	100
+Municipal Garbage Dump	14.98617	145.61262	MP	120
+Coral Islet Awash	14.9542	145.6253	MP	120
+Japanese Shrine	14.96697	145.62177	MP	120
+USMC Amtrack WW2	15.06579	145.6149	MP	120
+107 Seabees Monument	15.01679	145.61003	MP	120
+Dynasty Workers Housing Complex	14.95922	145.63546	MP	120
+Tinian Shinto Shrine	14.96141	145.6485	MP	120
+Carolinas Heights	14.96655	145.64914	MP	120
+Marpo Heights Hamlet	14.97974	145.63687	MP	120
+Tinian Christian Assembly - Babtist	14.96788	145.63084	MP	120
+old Tinian Amphitheater	14.96621	145.62433	MP	120
+8th Avenue - South End	14.97166	145.6213	MP	120
+Water Tank	14.96538	145.65135	MP	120
+Dynasty Casino	14.95956	145.63272	MP	120
+Saipan Ferry Dock	14.96607	145.61885	MP	120
+JP Bombs and Fuel Drums Storage	15.08171	145.63703	MP	120
+Tatsumi Channel	14.91509	145.65863	MP	120
+Lasso Shrine	15.04158	145.63011	MP	120
+Carolinas-Kastiyu Plateau	14.94313	145.64498	MP	120
+Water Tank	14.9889	145.6381	MP	120
+Municipal Wells	14.97561	145.65322	MP	120
+Battle of Tinian - US Heavy Artillery Positions WW2	15.11671	145.70084	MP	110
+Banzai Cliff - Hoshoji Buddhist Temple	15.28624	145.81404	MP	110
+Banzai Cliff WW2	15.28651	145.81587	MP	110
+Suicide Cliff WW2	15.27734	145.80984	MP	110
+Kart Circuit	15.26617	145.7891	MP	110
+Philippine Consulate General	15.15652	145.70628	MP	110
+FEBC Shortwave Radio Transmitter	15.26995	145.79791	MP	110
+The Grotto - Natural Hole to the Sea	15.25989	145.8239	MP	110
+Water Tank	15.22222	145.74004	MP	110
+Bank of Hawaii	15.14958	145.70091	MP	110
+Saipan Botanical Garden	15.17244	145.74922	MP	110
+Kagman II	15.17906	145.77925	MP	110
+Ada Gym	15.16349	145.70881	MP	110
+Oleai Soccer and Athletics Stadium	15.16379	145.70977	MP	110
+First Hawaiian Bank	15.17384	145.7121	MP	110
+Seventh-Day Adventist Clinic	15.18163	145.71621	MP	110
+Dandan Driving Range	15.14007	145.73005	MP	110
+US Kobler Naval Air Base WW2	15.12321	145.70448	MP	110
+Consulate of Palau	15.15158	145.72738	MP	110
+Iglesia Ni Cristo Local Congregation of Saipan	15.15136	145.73131	MP	110
+Takpochao Communication Antenna	15.18623	145.74398	MP	110
+Bank of Guam	15.20841	145.71748	MP	110
+Saipan Chamber of Commerce	15.20806	145.72012	MP	110
+JP Sugar Cane Tramway Steam Locomotive	15.20218	145.72016	MP	110
+JP Sugar King Haruji Matsue Statue	15.20195	145.72088	MP	110
+Katori Shinto Shrine	15.20217	145.72192	MP	110
+Bank of Saipan	15.2074	145.72035	MP	110
+Japanese Jail WW2	15.20032	145.71915	MP	110
+USMC AMSEA Class Maritime Prepositioning Ship	15.19371	145.68094	MP	110
+Guma Hustisia	15.15979	145.7065	MP	110
+Saipan Jail	15.15771	145.70736	MP	110
+Saipan	15.21233	145.7545	MP	110
+CNMI Legislature	15.21147	145.75462	MP	00
+CNMI Treasury	15.21485	145.75167	MP	00
+JP Coastal Defense Blockhaus WW2	15.10644	145.7375	MP	110
+JP Garapan Government Pier	15.20253	145.71497	MP	110
+Garapan Boat Channel	15.19793	145.70763	MP	110
+Hachiman Shinto Shrine	15.17881	145.7622	MP	110
+Saipan Tribune - Print and Online Newspaper	15.19958	145.71748	MP	110
+Chalan Kanoa Boat Channel	15.14848	145.69399	MP	110
+Chalan Kanoa - JP Sugar Cane Processing Facilities	15.14748	145.70466	MP	110
+Kagman Village	15.17354	145.78057	MP	110
+Puerto Rico Village	15.2197	145.73296	MP	110
+German Marianas Penal Colony 1900s	16.71001	145.77132	MP	085
+Landing Besch SCARLET 2 - demonstration only WW2	15.22746	145.7386	MP	110
+closed Garments Factories - Asian Workers Sweatshops	15.23383	145.75351	MP	110
+Takpochao Statue of Christ	15.18678	145.74332	MP	110
+Muchot	15.21521	145.71987	MP	110
+Charly Dock	15.22705	145.73716	MP	110
+Tinian-Saipan Ferry Berth	15.22732	145.73652	MP	110
+Achugao Hamlet	15.23165	145.76707	MP	110
+As Lito Hamlet	15.12963	145.72377	MP	110
+As Perdido Hamlet	15.1339	145.7092	MP	110
+Chalan Kiya Hamlet	15.16364	145.71909	MP	110
+Fina Sisu Hamlet	15.14558	145.71927	MP	110
+Matansa Hamlet	15.2509	145.78596	MP	110
+Papago Hamlet	15.17358	145.74703	MP	110
+Riviera	15.1778	145.75097	MP	110

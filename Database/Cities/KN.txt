@@ -1,0 +1,318 @@
+Zion	17.13333	-62.55	KN	04
+Zetlands Estate	17.13333	-62.58333	KN	04
+Zetlands	17.13333	-62.56667	KN	04
+Willetts Gut	17.4	-62.81667	KN	09
+Willetts Gut	17.3	-62.76667	KN	15
+Willett's Estate	17.4	-62.81667	KN	09
+Whites	17.33333	-62.73333	KN	08
+Westbury	17.16667	-62.6	KN	12
+The Weir	17.33333	-62.76667	KN	00
+Webb's Ground	17.13333	-62.55	KN	04
+Webb's Estate	17.11667	-62.55	KN	04
+Wash Gut	17.35	-62.71667	KN	08
+Ward	17.15	-62.58333	KN	00
+Vervain Estate	17.13333	-62.55	KN	04
+Verchild's	17.31667	-62.8	KN	13
+Vaughans	17.15	-62.61667	KN	12
+Vambelle	17.35	-62.81667	KN	13
+Upper Mansion	17.36667	-62.76667	KN	01
+Upper Conaree	17.31667	-62.7	KN	11
+Upper Canada Estate	17.33333	-62.7	KN	11
+Upper Bourryeau	17.36667	-62.73333	KN	01
+Fort Tyson	17.28333	-62.68333	KN	03
+Trinity Palmetto Point	17.31667	-62.76667	KN	15
+Trinity	17.3	-62.76667	KN	15
+Trants	17.38333	-62.85	KN	00
+Tittle Ghut	17.16667	-62.53333	KN	05
+Fort Thomas	17.3	-62.71667	KN	03
+The Walk	17.33333	-62.81667	KN	13
+Theroulds	17.31667	-62.76667	KN	00
+Taylors Pasture	17.11667	-62.56667	KN	04
+Taylor's	17.3	-62.71667	KN	03
+Tabernacle	17.38333	-62.76667	KN	06
+Sulphur Ghut	17.11667	-62.61667	KN	07
+Sugar Loaf	17.25	-62.63333	KN	00
+Stuart's	17.15	-62.61667	KN	12
+Stone Fort Estate	17.3	-62.78333	KN	15
+Stone Fort	17.31667	-62.78333	KN	00
+Stone Castle	17.38333	-62.76667	KN	06
+Stapleton Estate	17.31667	-62.71667	KN	11
+Stapleton	17.31667	-62.73333	KN	11
+Spooners Estate	17.35	-62.71667	KN	08
+South East Range	17.33333	-62.75	KN	00
+Soldiers Gut	17.38333	-62.73333	KN	00
+Fort Smith	17.28333	-62.7	KN	03
+Sir Gillies Estate	17.37472	-62.84407	KN	02
+Simmonds Estate	17.11667	-62.55	KN	04
+Sherriffs	17.11667	-62.55	KN	04
+Shaws	17.2	-62.56667	KN	05
+Shadwell Estate	17.31667	-62.71667	KN	03
+Seahaven Estate	17.2	-62.6	KN	05
+Scotch Bonnet	17.21667	-62.61667	KN	03
+Scarborough	17.18333	-62.56667	KN	04
+Sandy Point Town	17.35908	-62.84858	KN	02
+Sandy Point Gut	17.35609	-62.84858	KN	00
+Saint Thomas Lowland	17.16667	-62.6	KN	12
+Saint Peter's	17.3	-62.71667	KN	00
+Saint Peter Basseterre	17.31667	-62.71667	KN	11
+Saint Paul's Point	17.41011	-62.84343	KN	09
+Saint Paul's	17.4	-62.81667	KN	09
+Saint Paul Charlestown	17.13333	-62.6	KN	10
+Saint Paul Capesterre	17.4	-62.83333	KN	09
+Saint Mary Cayon	17.35	-62.73333	KN	08
+Federation of Saint Kitts and Nevis	17.33333	-62.75	KN	00
+Saint John Figtree	17.11667	-62.6	KN	07
+Saint John Capesterre	17.38333	-62.8	KN	06
+Saint James Windward	17.16667	-62.56667	KN	05
+Saint Georges Gut	17.38333	-62.76667	KN	00
+Saint George Gingerland	17.13333	-62.56667	KN	04
+Saint George Basseterre	17.26667	-62.68333	KN	03
+Saint Christopher	17.33333	-62.75	KN	00
+Saint Anne Sandy Point	17.36667	-62.83333	KN	02
+Sadler's Land Settlement	17.38333	-62.78333	KN	06
+Sadlers Gut	17.40495	-62.78763	KN	06
+Sadlers	17.40454	-62.79296	KN	06
+Russells Rest	17.18333	-62.55	KN	05
+Romneys	17.33333	-62.78333	KN	13
+Romney's	17.31667	-62.78333	KN	13
+Rices	17.11667	-62.55	KN	04
+Red Cliff	17.11475	-62.54826	KN	04
+Rawlins	17.18333	-62.58333	KN	05
+Rawlins	17.13333	-62.56667	KN	04
+Ramsberry	17.15	-62.6	KN	00
+Pump Estate	17.35	-62.85	KN	02
+Prospect Estate	17.11667	-62.6	KN	07
+Profit	17.4	-62.8	KN	06
+Powells Estate	17.16667	-62.55	KN	05
+Potwork Estate	17.2	-62.55	KN	05
+Poldock	17.15	-62.53333	KN	00
+Pogsons Gut	17.4	-62.8	KN	06
+Pogson's	17.4	-62.8	KN	06
+Pembroke Estate	17.1	-62.6	KN	00
+Pembroke	17.1	-62.6	KN	07
+Parsons Gut	17.4	-62.8	KN	06
+Parson's Ground	17.40945	-62.80515	KN	06
+Parson's	17.4	-62.8	KN	06
+Parry's	17.31667	-62.71667	KN	11
+Parris	17.15	-62.6	KN	00
+Parish Land	17.15	-62.55	KN	00
+Paradise Estate	17.16667	-62.6	KN	12
+Palmetto Point	17.29676	-62.77455	KN	15
+Ottleys Gut	17.36667	-62.73333	KN	08
+Ottley's Estate	17.35	-62.73333	KN	08
+Ottley's	17.35	-62.73333	KN	08
+Ottley's	17.3	-62.76667	KN	15
+Ortons	17.38333	-62.83333	KN	00
+Orton's	17.36667	-62.83333	KN	00
+Olivees	17.3	-62.73333	KN	03
+Old Windward Estate	17.2	-62.58333	KN	05
+Old Manor Estate	17.13333	-62.56667	KN	04
+Ogee's	17.31667	-62.73333	KN	11
+North West Range	17.36667	-62.8	KN	00
+Nine Turn Gut	17.35	-62.78333	KN	00
+Nicola Town	17.36667	-62.75	KN	01
+Nichola Town Gut	17.38333	-62.75	KN	01
+Newtons	17.38333	-62.85	KN	09
+Newton Ground	17.38333	-62.85	KN	09
+New Guinea	17.33962	-62.82785	KN	13
+Newcastle	17.2	-62.58333	KN	05
+Nevis	17.15	-62.58333	KN	00
+Needsmust Estate	17.31667	-62.7	KN	11
+The Narrows	17.2	-62.63333	KN	00
+Nags Head	17.2	-62.65	KN	03
+Mullins Gut	17.3	-62.78333	KN	15
+Muddy Point	17.3	-62.68333	KN	11
+Mosquito Bluff	17.23333	-62.61667	KN	03
+Morning Star Estate	17.11667	-62.58333	KN	07
+Morgan Estate	17.13333	-62.58333	KN	07
+Montravers	17.15	-62.6	KN	12
+Montpelier Estate	17.11667	-62.58333	KN	07
+Montpelier	17.11667	-62.58333	KN	07
+Molineux Estate	17.35	-62.75	KN	01
+Molines Gut	17.33333	-62.81667	KN	13
+Molineaux	17.36667	-62.75	KN	01
+Middle Work Estate	17.11667	-62.55	KN	04
+Maynards Ground	17.11667	-62.56667	KN	04
+Market Shop	17.11667	-62.56667	KN	04
+Market Shop	17.13333	-62.55	KN	04
+Mardenbrough	17.31667	-62.71667	KN	00
+Mansion Estate	17.38333	-62.75	KN	00
+Mansion	17.36667	-62.75	KN	01
+Mannings	17.15	-62.55	KN	05
+Maddens Estate	17.16667	-62.55	KN	05
+Maddens	17.18333	-62.53333	KN	05
+Lynches Gut	17.4	-62.8	KN	06
+Lynche's Estate	17.38333	-62.8	KN	06
+Lucas	17.3	-62.7	KN	06
+Low Grounds	17.11667	-62.6	KN	07
+Lower Webbes	17.13333	-62.53333	KN	04
+Long Point Estate	17.1	-62.61667	KN	07
+Little Sir Gillies	17.35	-62.83333	KN	02
+Limekiln	17.28333	-62.73333	KN	03
+Limekiln	17.28333	-62.73333	KN	03
+Liburd's Estate	17.13333	-62.56667	KN	04
+Lawrence Estate	17.16667	-62.61667	KN	12
+Lavingtons Gut	17.4	-62.78333	KN	06
+Lavington's Estate	17.4	-62.78333	KN	06
+La Vallee Estate	17.36667	-62.85	KN	02
+Lambert's Estate	17.31667	-62.8	KN	13
+La Guerite	17.3	-62.71667	KN	00
+Kittitian Village	17.28333	-62.68333	KN	00
+Kitt Ghut	17.11667	-62.53333	KN	04
+Kit Stoddart's	17.3	-62.71667	KN	03
+Key Gut	17.33333	-62.7	KN	00
+Key	17.33333	-62.7	KN	08
+Jones	17.21667	-62.56667	KN	00
+Johnsons	17.3	-62.73333	KN	00
+John England Village	17.31667	-62.71667	KN	11
+Joe Jones	17.2	-62.6	KN	00
+Jessup Estate	17.15	-62.6	KN	12
+Jessup	17.15	-62.61667	KN	12
+Jeffreys	17.2	-62.55	KN	05
+Jack in the Box	17.35	-62.73333	KN	00
+Indian Castle Estate	17.1	-62.55	KN	04
+Hutchinsons	17.31667	-62.78333	KN	13
+Hull Ground	17.13333	-62.56667	KN	04
+Houston's Estate	17.38333	-62.78333	KN	06
+Houstons	17.38333	-62.78333	KN	06
+Horse Shoe Point	17.21667	-62.65	KN	03
+Hope	17.36667	-62.76667	KN	00
+Holland Gut	17.33333	-62.71667	KN	08
+Hog Valley Estate	17.16667	-62.58333	KN	05
+Hick's Estate	17.16667	-62.55	KN	05
+Hick's Cove	17.18738	-62.54947	KN	05
+Hick's	17.18434	-62.55963	KN	05
+Hickmans	17.13333	-62.53333	KN	04
+Hichmans	17.13333	-62.55	KN	04
+Hermitage Estate	17.35	-62.73333	KN	08
+Hermitage	17.11667	-62.56667	KN	00
+Hermitage	17.36667	-62.71667	KN	08
+Hermitage	17.13333	-62.56667	KN	00
+Heldon's	17.4	-62.85	KN	09
+Helden's Point	17.4	-62.83333	KN	09
+Heldens	17.40552	-62.83678	KN	09
+Harts Gut	17.3	-62.73333	KN	00
+Harry Phipp's	17.33333	-62.81667	KN	13
+Harris Land Settlement	17.38333	-62.78333	KN	06
+Harris Gut	17.4	-62.78333	KN	06
+Harris Gut	17.28333	-62.75	KN	15
+Harris	17.13333	-62.55	KN	04
+Harris	17.40275	-62.78747	KN	06
+Hard Times Estate	17.13333	-62.56667	KN	04
+Hardtimes	17.13333	-62.55	KN	04
+Hanleys Estate	17.11667	-62.55	KN	04
+Hamilton's Estate	17.13333	-62.6	KN	00
+Half Way Tree Gut	17.33042	-62.82395	KN	13
+Half Way Tree	17.33497	-62.8295	KN	13
+Half Moon Point	17.3	-62.68333	KN	11
+Hacket Point	17.4	-62.81667	KN	09
+Guana Point	17.23333	-62.65	KN	03
+Green Point	17.21667	-62.65	KN	03
+Greatheeds	17.31667	-62.7	KN	11
+Greagan's	17.38333	-62.78333	KN	06
+Grandee Ghut	17.08333	-62.6	KN	07
+Godwin Gut	17.31667	-62.81667	KN	13
+Godwin Estate	17.33333	-62.81667	KN	13
+Gingerland	17.13333	-62.55	KN	04
+Gillews Gut	17.28333	-62.73333	KN	00
+Geagans	17.38333	-62.78333	KN	06
+Garvey's Estate	17.3	-62.76667	KN	15
+Garner Estate	17.18333	-62.58333	KN	05
+Frankland's Estate	17.31667	-62.78333	KN	13
+Fountain Ghut	17.2	-62.55	KN	05
+Fountain Ghut	17.1	-62.55	KN	04
+Fountain Estate	17.33333	-62.73333	KN	11
+Fountain	17.16667	-62.58333	KN	05
+Fothergill's Estate	17.13333	-62.55	KN	04
+Fothergill	17.15	-62.55	KN	04
+Fleming Estate	17.23333	-62.63333	KN	03
+Fig Tree Fort	17.36667	-62.85	KN	02
+Fig Tree	17.36735	-62.85755	KN	02
+Fig Tree	17.11667	-62.6	KN	07
+Fahies Land Settlement	17.38333	-62.83333	KN	09
+Eden Brown Estate	17.15	-62.55	KN	05
+Duporte	17.3	-62.75	KN	15
+Dowsons Gut	17.38333	-62.76667	KN	06
+Douglas Estate	17.1	-62.6	KN	07
+Douglas Estate	17.3	-62.71667	KN	11
+Douglas	17.31667	-62.71667	KN	11
+Dogwood Estate	17.1	-62.6	KN	07
+Dewars	17.3	-62.73333	KN	03
+Davis Gut	17.33333	-62.7	KN	11
+Dasents Estate	17.11667	-62.56667	KN	04
+Dalzells	17.35	-62.7	KN	08
+Cunningham Estate	17.35	-62.71667	KN	08
+Crook's Ground	17.11667	-62.56667	KN	04
+The Crater	17.36667	-62.8	KN	00
+Cranstowns Gut	17.38333	-62.85	KN	09
+Cranstoun's Estate	17.38333	-62.85	KN	09
+Craddocks	17.13333	-62.61667	KN	02
+Crab Hole	17.21667	-62.65	KN	03
+Coxheath Estate	17.1	-62.58333	KN	07
+Cox	17.11667	-62.58333	KN	07
+Cotton Ground	17.16667	-62.61667	KN	12
+Con Phipp's Estate	17.33333	-62.81667	KN	13
+Conaree	17.31667	-62.7	KN	11
+Colquhouns Estate	17.16667	-62.6	KN	12
+Coconut Walk Estate	17.13333	-62.53333	KN	05
+Cliftons	17.4	-62.8	KN	09
+Cliftons	17.18333	-62.6	KN	12
+Clifton's	17.4	-62.81667	KN	00
+Clay Ghaut Estate	17.11667	-62.56667	KN	04
+Clark's Estate	17.15	-62.61667	KN	12
+Clarkes	17.16667	-62.6	KN	12
+Chicken Stone	17.11667	-62.56667	KN	04
+Charlestown	17.13333	-62.61667	KN	10
+Charles Fort	17.34957	-62.8468	KN	02
+Fort Charles	17.31667	-62.78333	KN	13
+Fort Charles	17.13333	-62.61667	KN	07
+Central Range	17.36667	-62.78333	KN	00
+Cayon	17.35	-62.73333	KN	08
+Cane Garden Estate	17.11667	-62.58333	KN	07
+Canada Estate	17.33333	-62.7	KN	11
+Canada	17.33333	-62.7	KN	11
+Caines Estate	17.4	-62.8	KN	06
+Cades Point	17.18333	-62.61667	KN	12
+Cades Estate	17.18333	-62.6	KN	12
+Butlers Estate	17.15	-62.55	KN	05
+Butlers	17.16667	-62.55	KN	05
+Business Ghut	17.13333	-62.53333	KN	04
+Burts	17.36667	-62.81667	KN	02
+Burt's	17.35	-62.83333	KN	02
+Burnaby	17.18333	-62.56667	KN	05
+Buggs Hole	17.21667	-62.65	KN	03
+Buckleys Estate	17.3	-62.73333	KN	03
+Brumaire	17.3	-62.73333	KN	00
+Brown Pasture	17.11667	-62.58333	KN	07
+Brown Estate	17.1	-62.6	KN	07
+Brownes	17.4	-62.8	KN	00
+Browne's	17.4	-62.81667	KN	00
+Brothersons Gut	17.4	-62.85	KN	09
+Brotherson's Estate	17.38333	-62.85	KN	09
+Brighton Estate	17.36667	-62.71667	KN	08
+Brick Kiln	17.17532	-62.55345	KN	05
+Braziers Estate	17.13333	-62.6	KN	07
+Brambles	17.38333	-62.76667	KN	06
+Brambles	17.38333	-62.76667	KN	06
+Boyd's	17.29435	-62.74807	KN	15
+Bourryeau Estate	17.36667	-62.73333	KN	01
+Bourryau	17.38333	-62.73333	KN	01
+Bourke's Land Settlement	17.35	-62.83333	KN	02
+Bloody Point	17.30333	-62.78851	KN	15
+Ben Lomond	17.3	-62.75	KN	00
+Belmont Estate	17.40147	-62.84321	KN	09
+Belmont Estate	17.15	-62.6	KN	12
+Belle Vue Estate	17.39796	-62.78221	KN	06
+Belle Vue	17.40192	-62.78056	KN	06
+Belle Tete	17.37001	-62.86321	KN	02
+Beaumont	17.11667	-62.56667	KN	07
+Bath Plain Estate	17.13333	-62.61667	KN	07
+Bath	17.13333	-62.61667	KN	07
+Basseterre	17.29484	-62.7261	KN	03
+Bakers Gut	17.38333	-62.75	KN	01
+Asbby Fort	17.16667	-62.61667	KN	12
+Saint Kitts Deep Water Port	17.2875	-62.70778	KN	03
+Majors Bluff	17.225	-62.64167	KN	00
+The Hermitage	17.1409	-62.5734	KN	
+OCCIDENTAL ALLEGRO ST KITTS	17.2848	-62.6893	KN	
+FOUR SEASONS NEVIS	17.1146	-62.5568	KN	
