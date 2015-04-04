@@ -1,47 +1,49 @@
 dy_import_module_symbols("sensorlib.r2py")
 
 def get_gps_coordinates():
-  coordinates = {}
-  sensor_data = {}
+
+  # get a connection to communicate with sensors
   port = get_connectionport()
   sensor_socket = getconnection(port)
 
   request_data(sensor_socket, 'startLocating', [])
 
-  while True:
+  # try to read current location
+  location_data = request_data(sensor_socket, 'readLocation', []) 
+
+  # if location was not retrieved, keep trying
+  while not location_data:
+    sleep(2)
+    location_data = request_data(sensor_socket, 'readLocation', [])
+
+  providers = ["gps", "network", "passive"]
+  for p in providers:
     try:
-      sensor_data = request_data(sensor_socket, 'readLocation', [])
-      sleep(2)
-
-    except Exception as e:
-      #log(str(e), '\n')
-      request_data(sensor_socket, 'stopLocating', []) 
-      sensor_socket.close()
-      raise Error(e+"\n")
-
-    if sensor_data != {}:
-      log(sensor_data)
-      try:
-        log("Trying location...\n")
-        location = sensor_data["gps"]
-      except KeyError:
-        log("Trying network...\n")
-        location = sensor_data["network"]
-      except KeyError:
-        log("Trying passive...\n")
-        location = sensor_data["passive"]
-
-      coordinates = {"latitude": location["latitude"], "longitude": location["longitude"]}
+      location = location_data[p]
+      log("provider: " + p + '\n')
       break
+    except Exception as e:
+      continue
+
+  coordinates = {"latitude": location["latitude"], "longitude": location["longitude"]}
 
   request_data(sensor_socket, 'stopLocating', []) 
   sensor_socket.close()
   return coordinates
 
 def get_address(coordinates):
-  address = ""
-  while address != "":
-    address = geocode(coordinates["latitude"], coordinates["longitude"])
+
+  # get a connection to communicate with sensors
+  port = get_connectionport()
+  sensor_socket = getconnection(port)
+
+  # return a list of addresses (1 address by default)
+  address = request_data(sensor_socket, 'geocode', [coordinates["latitude"], coordinates["longitude"]])
+
+  # take the first returned address
+  address = address[0]
+
+  sensor_socket.close()
   return address
 
 def get_city(address):
@@ -59,4 +61,21 @@ def find_closest_point(long, lat, listofpoints):
 def load_long_lat_from_file(filename):
   pass
 
-log(get_gps_coordinates())
+
+-----------------------TEST-----------------------
+coordinates = get_gps_coordinates()
+
+log("latitude: " + str(coordinates["latitude"]) + ", longitude: " + str(coordinates["longitude"]) + "\n")
+
+address = get_address(coordinates)
+
+log("Address: " + str(address) + "\n")
+
+postal = address["postal_code"]
+streetno = address["feature_name"]
+streetname = address["thoroughfare"]
+#cityname = address["locality"]
+statename = address["admin_area"]
+countryname = address["country_name"]
+
+log(str(streetno) + " " + streetname + ", " + statename + ", " + countryname + ", " + str(postal) + "\n")
