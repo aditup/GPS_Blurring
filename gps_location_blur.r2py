@@ -1,4 +1,17 @@
+# Notes
+#
+# IndexError: list index out of range
+# if coordinates are in the ocean
+#
+# All DB files have four columns:
+# 0:"code", 1:"ascii_name", 2:"latitude", 3:"longitude"]
+
+# Filenames
+statefilename = "states.txt"
+countryfilename = "countries.txt"
+
 dy_import_module_symbols("sensorlib.r2py")
+# dy_import_module_symbols("httpretrieve.r2py")
 
 def get_gps_coordinates():
 
@@ -46,36 +59,149 @@ def get_address(coordinates):
   sensor_socket.close()
   return address
 
-def get_city(address):
+def get_file_from_server(filename):
   pass
 
-def get_state(address):
+def get_data(filename, column_to_compare, value_to_compare, required_data = "code"):
+
+  retval = None
+
+  if filename not in listfiles():
+    get_file_from_server(filename)
+
+  fileobj = openfile(filename, False)
+  filedata = fileobj.readat(None, 0).split("\n")
+
+  for line in filedata:
+    linedata = line.split("\t")
+    compareval = linedata[column_to_compare]
+    if compareval == value_to_compare:
+      if required_data == "coordinates":
+        lat = linedata[2]
+        long = linedata[3]
+        retval = {"latitude": lat, "longitude": long}
+      else:
+        retval = linedata[0]
+      break
+  fileobj.close()
+  return retval
+
+def get_city_coordinates(address, lat, long):
+
+  if address["country_code"] in ["US", "CA"]:
+    # Get State/Province code
+    column_to_compare = 1        # ascii_name
+    state_name = address["admin_area"]
+    state_code = get_data(statefilename, column_to_compare, state_name).split(".")
+
+    # Filename should be in the form countrycode_statecode in lowercase
+    filename = ("_".join(state_code)).lower() + ".txt"
+
+  else:
+    # Remove "eu_" when phones are not just in US/CA/EU
+    filename = "eu_" + address["country_code"].lower() + ".txt"
+
+  if filename not in listfiles():
+    get_file_from_server(filename)
+
+  listofpoints = load_lat_long_from_file(filename)
+  closest_city = find_closest_point(lat, long, listofpoints)
+	
+  #log("city: " + closest_city["city"] + "\n")
+	
+  coordinates = {"latitude": closest_city["coordinates"][0], "longitude": closest_city["coordinates"][1]}
+	
+  return coordinates
+
+def get_state_coordinates(address):
+
+  column_to_compare = 1        # ascii_name
+  state_name = address["admin_area"]
+  required_data = "coordinates"
+	
+  coordinates = get_data(statefilename, column_to_compare, state_name, required_data)
+
+  # Case when there is no match for state_name: (1) download file(s) for 
+	# the country (2) find closest city (3) return coordinates of state
+	# corresponding to that city
+  if isinstance(coordinates,type(None)):
+    pass
+
+  log(state_name)
+  return coordinates
+
+def get_country_coordinates(address):
+
+  column_to_compare = 0        # code
+  country_code = address["country_code"]
+  required_data = "coordinates"
+	
+  coordinates = get_data(countryfilename, column_to_compare, country_code, required_data)
+
+  # Case when there is no match for country_code
+  if isinstance(coordinates, type(None)):
+    raise Exception("No match for country code <" + country_code + ">\n")
+
+  log(address["country_name"])
+  return coordinates
+
+def find_distance(p1, p2):
   pass
 
-def get_country(address):
-  pass
+def find_closest_point(lat, long, listofpoints):
 
-def find_closest_point(long, lat, listofpoints):
-  pass
+  min_dist = 6379 # Larger than radius of the earth (km)
+  closest_point = ()
+  point1 = (lat, long)
+  closest_city = ""
+  cities = listofpoints.keys()
 
-def load_long_lat_from_file(filename):
-  pass
+  for city in cities:
+    point2 = listofpoints[city]
+    dist = find_distance(point1, point2)
+    if dist < min_dist:
+      min_dist = dist
+      closest_point = point2
+      closest_city = city
+
+  return {"city": closest_city, "coordinates": closest_point}
+
+def load_lat_long_from_file(filename):
+
+  listofpoints = {}
+
+  fileobj = openfile(filename, False)
+  filedata = fileobj.readat(None, 0).split("\n")
+
+  for line in filedata:
+    linedata = line.split("\t")
+    city_name = linedata[0]
+    lat = linedata[1]
+    long = linedata[2]
+    coordinates = (lat, long)
+    listofpoints[city_name] = coordinates
+  fileobj.close()
+  return listofpoints
 
 
------------------------TEST-----------------------
+#-----------------------TEST-----------------------#
+
 coordinates = get_gps_coordinates()
 
 log("latitude: " + str(coordinates["latitude"]) + ", longitude: " + str(coordinates["longitude"]) + "\n")
 
 address = get_address(coordinates)
 
-log("Address: " + str(address) + "\n")
+log(str(address) + "\n")
 
-postal = address["postal_code"]
-streetno = address["feature_name"]
-streetname = address["thoroughfare"]
-#cityname = address["locality"]
-statename = address["admin_area"]
-countryname = address["country_name"]
+lat = coordinates["latitude"]
+long = coordinates["longitude"]
 
-log(str(streetno) + " " + streetname + ", " + statename + ", " + countryname + ", " + str(postal) + "\n")
+coordinates = get_city_coordinates(address, lat, long)
+log("City: " + str(coordinates) + "\n")
+
+coordinates = get_state_coordinates(address)
+log(str(coordinates) + "\n")
+
+coordinates = get_country_coordinates(address)
+log(str(coordinates) + "\n")
