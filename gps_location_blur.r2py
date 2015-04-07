@@ -3,7 +3,7 @@
 # IndexError: list index out of range
 # if coordinates are in the ocean
 #
-# All DB files have four columns:
+# states.txt and countries.txt files have four columns as:
 # 0:"code", 1:"ascii_name", 2:"latitude", 3:"longitude"]
 
 # Filenames
