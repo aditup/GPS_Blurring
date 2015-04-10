@@ -1,18 +1,36 @@
-# Notes
+# This program performs location blurring. It accesses the location 
+# address of a mobile device from it's sensors(e.g. GPS/network), 
+# and returns the coordinates (latitude/longitude) cooresponding to
+# this address. Based on requirement, the coordinates are that of
+# the center of the city/state/country to which the address belongs.
+#
+#
+# ------Notes------
 #
 # IndexError: list index out of range
-# if coordinates are in the ocean
+# -- if the address is in the ocean
 #
-# states.txt and countries.txt files have four columns as:
-# 0:"code", 1:"ascii_name", 2:"latitude", 3:"longitude"]
-
-# Filenames
-statefilename = "states.txt"
-countryfilename = "countries.txt"
+# The columns in states.txt and countries.txt (databases) are as follows:
+# 0:"code", 1:"ascii_name", 2:"latitude", 3:"longitude"
+#
+# All the city files (cities divided by country database) are named 
+# with the country code of the country they belong to. If the cities
+# belong to Canada (CA) or the United States (US), they are named as
+# <countrycode>_<statecode>, and if they belong to Europe, they are 
+# names as EU_<countrycode>.
 
 dy_import_module_symbols("sensorlib.r2py")
-# dy_import_module_symbols("httpretrieve.r2py")
+dy_import_module_symbols("httpretrieve.r2py")
 
+statefilename = "states.txt"        # Database of states
+countryfilename = "countries.txt"   # Database of countries
+
+
+
+# Returns a dictionary of the location coordinates (latitude, longitude)
+# from the sensors on the phone.
+# Example:
+# {"latitude": xxxx, "longitude": xxxx}
 def get_gps_coordinates():
 
   # get a connection to communicate with sensors
@@ -44,6 +62,13 @@ def get_gps_coordinates():
   sensor_socket.close()
   return coordinates
 
+
+
+# Returns a dictionary of the address from the given coordinates
+# Example:
+# {"locality": "city name", "admin_area": "province/state name",
+# "thoroughfare": "street name", "feature_name": "street number",
+# "country_code": "xxx", "country_name": "xxx", "postal_code":"xxxx"}
 def get_address(coordinates):
 
   # get a connection to communicate with sensors
@@ -59,9 +84,26 @@ def get_address(coordinates):
   sensor_socket.close()
   return address
 
+# Downloads the required file from the server
 def get_file_from_server(filename):
-  pass
+	url = "http://sensibilityclearinghouse.poly.edu/data/quad/" + filename
+	httpretrieve_save_file(url, filename)
 
+
+
+# Iterates through each row in the specified file and returns the required
+# data from the row where there is a match with some specified value.
+#
+# Inputs:
+# filename - Name of the file to get the data from
+# column_to_compare - Column number from which to take data to compare
+# value_to_compare - The value to compare with the data in the selected column
+# required_data - can be "coordinates" or "code". The data to return from the #                 row in which there is a match between the compared values.
+#
+# Returns:
+# if required_data = "coordinates": returns a dictionary of the lat/long values
+# (default) if required_data = "code": returns a string with the value in the
+# first column
 def get_data(filename, column_to_compare, value_to_compare, required_data = "code"):
 
   retval = None
@@ -86,6 +128,12 @@ def get_data(filename, column_to_compare, value_to_compare, required_data = "cod
   fileobj.close()
   return retval
 
+
+
+# Returns a dictionary of the lat/long values of the center of the city to
+# which the address belongs. If there is no match for the city name, it finds
+# the closest city from the coordinates data and returns the lat/long value of
+# the center of that city.
 def get_city_coordinates(address, lat, long):
 
   if address["country_code"] in ["US", "CA"]:
@@ -113,6 +161,8 @@ def get_city_coordinates(address, lat, long):
 	
   return coordinates
 
+
+
 def get_state_coordinates(address):
 
   column_to_compare = 1        # ascii_name
@@ -130,6 +180,8 @@ def get_state_coordinates(address):
   log(state_name)
   return coordinates
 
+
+
 def get_country_coordinates(address):
 
   column_to_compare = 0        # code
@@ -145,12 +197,21 @@ def get_country_coordinates(address):
   log(address["country_name"])
   return coordinates
 
+
+
 def find_distance(p1, p2):
-  pass
+  (lat1, lng1) = p1
+  (lat2, lng2) = p2
+  lat_diff = (lat1-lat2) * (lat1-lat2)
+  lng_diff = (lng1-lng2) * (lng1-lng2)
+  # return squared distance
+  return lat_diff + lng_diff
+
+
 
 def find_closest_point(lat, long, listofpoints):
 
-  min_dist = 6379 # Larger than radius of the earth (km)
+  min_dist = 9999 # Larger than radius of the earth (km)
   closest_point = ()
   point1 = (lat, long)
   closest_city = ""
@@ -166,6 +227,8 @@ def find_closest_point(lat, long, listofpoints):
 
   return {"city": closest_city, "coordinates": closest_point}
 
+
+
 def load_lat_long_from_file(filename):
 
   listofpoints = {}
@@ -175,9 +238,12 @@ def load_lat_long_from_file(filename):
 
   for line in filedata:
     linedata = line.split("\t")
-    city_name = linedata[0]
-    lat = linedata[1]
-    long = linedata[2]
+    try: # To ignore the last blank line in the file
+      city_name = linedata[0]
+      lat = float(linedata[1])
+      long = float(linedata[2])
+    except Exception:
+      continue
     coordinates = (lat, long)
     listofpoints[city_name] = coordinates
   fileobj.close()
@@ -186,6 +252,7 @@ def load_lat_long_from_file(filename):
 
 #-----------------------TEST-----------------------#
 
+"""
 coordinates = get_gps_coordinates()
 
 log("latitude: " + str(coordinates["latitude"]) + ", longitude: " + str(coordinates["longitude"]) + "\n")
@@ -205,3 +272,14 @@ log(str(coordinates) + "\n")
 
 coordinates = get_country_coordinates(address)
 log(str(coordinates) + "\n")
+"""
+
+filename = "39_-121.txt"
+lat = 38.4	
+long = -121.3
+
+get_file_from_server(filename)
+
+listofpoints = load_lat_long_from_file(filename)
+
+log(str(find_closest_point(lat, long, listofpoints)) + "\n")
