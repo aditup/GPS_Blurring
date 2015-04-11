@@ -62,8 +62,11 @@ def get_gps_coordinates():
 # Downloads the required file from the server
 def get_file_from_server(filename):
   if filename not in listfiles():
-	  url = "http://sensibilityclearinghouse.poly.edu/data/quad/" + filename
-	  httpretrieve_save_file(url, filename)
+    if filename not in [statefilename, countryfilename]:
+	    url = "http://sensibilityclearinghouse.poly.edu/data/quad/" + filename
+    else:
+      url = "http://sensibilityclearinghouse.poly.edu/data/" + filename
+    httpretrieve_save_file(url, filename)
 
 
 
@@ -131,7 +134,7 @@ def get_country_coordinates(lat, lng):
   countryfile.close()
 
   log("country: " + country_name + "\n")
-  coordinates = {"latitude": lat, "longitude": lng}
+  coordinates = {"latitude": clat, "longitude": clng}
   return coordinates
 
 
@@ -215,6 +218,8 @@ def find_closest_point(lat, lng):
 
 #-----------------------TEST-----------------------#
 
+starttime = getruntime()
+
 coordinates = get_gps_coordinates()
 
 log("latitude: " + str(coordinates["latitude"]) + ", longitude: " + str(coordinates["longitude"]) + "\n")
@@ -230,3 +235,6 @@ log("coordinates: " + str(coordinates) + "\n")
 
 coordinates = get_country_coordinates(lat, lng)
 log("coordinates: " + str(coordinates) + "\n")
+
+endtime = getruntime() - starttime
+log("runtime: " + str(endtime) + "\n")
