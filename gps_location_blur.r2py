@@ -1,26 +1,21 @@
 # This program performs location blurring. It accesses the location 
-# address of a mobile device from it's sensors(e.g. GPS/network), 
-# and returns the coordinates (latitude/longitude) cooresponding to
-# this address. Based on requirement, the coordinates are that of
-# the center of the city/state/country to which the address belongs.
+# coordinates of a mobile device from its sensors (e.g. GPS/network), 
+# and returns the coordinates (latitude/longitude) corresponding to
+# center of the city/state/country to which the original coordinates
+# belong.
 #
 #
 # ------Notes------
 #
 # IndexError: list index out of range
-# -- if the address is in the ocean
+# -- if the coordinates are in the ocean
 #
 # The columns in states.txt and countries.txt (databases) are as follows:
 # 0:"code", 1:"ascii_name", 2:"latitude", 3:"longitude"
-#
-# All the city files (cities divided by country database) are named 
-# with the country code of the country they belong to. If the cities
-# belong to Canada (CA) or the United States (US), they are named as
-# <countrycode>_<statecode>, and if they belong to Europe, they are 
-# names as EU_<countrycode>.
 
 dy_import_module_symbols("sensorlib.r2py")
 dy_import_module_symbols("httpretrieve.r2py")
+dy_import_module_symbols("math.r2py")
 
 statefilename = "states.txt"        # Database of states
 countryfilename = "countries.txt"   # Database of countries
@@ -64,137 +59,79 @@ def get_gps_coordinates():
 
 
 
-# Returns a dictionary of the address from the given coordinates
-# Example:
-# {"locality": "city name", "admin_area": "province/state name",
-# "thoroughfare": "street name", "feature_name": "street number",
-# "country_code": "xxx", "country_name": "xxx", "postal_code":"xxxx"}
-def get_address(coordinates):
-
-  # get a connection to communicate with sensors
-  port = get_connectionport()
-  sensor_socket = getconnection(port)
-
-  # return a list of addresses (1 address by default)
-  address = request_data(sensor_socket, 'geocode', [coordinates["latitude"], coordinates["longitude"]])
-
-  # take the first returned address
-  address = address[0]
-
-  sensor_socket.close()
-  return address
-
 # Downloads the required file from the server
 def get_file_from_server(filename):
-	url = "http://sensibilityclearinghouse.poly.edu/data/quad/" + filename
-	httpretrieve_save_file(url, filename)
-
-
-
-# Iterates through each row in the specified file and returns the required
-# data from the row where there is a match with some specified value.
-#
-# Inputs:
-# filename - Name of the file to get the data from
-# column_to_compare - Column number from which to take data to compare
-# value_to_compare - The value to compare with the data in the selected column
-# required_data - can be "coordinates" or "code". The data to return from the #                 row in which there is a match between the compared values.
-#
-# Returns:
-# if required_data = "coordinates": returns a dictionary of the lat/long values
-# (default) if required_data = "code": returns a string with the value in the
-# first column
-def get_data(filename, column_to_compare, value_to_compare, required_data = "code"):
-
-  retval = None
-
   if filename not in listfiles():
-    get_file_from_server(filename)
+	  url = "http://sensibilityclearinghouse.poly.edu/data/quad/" + filename
+	  httpretrieve_save_file(url, filename)
 
-  fileobj = openfile(filename, False)
-  filedata = fileobj.readat(None, 0).split("\n")
 
-  for line in filedata:
-    linedata = line.split("\t")
-    compareval = linedata[column_to_compare]
-    if compareval == value_to_compare:
-      if required_data == "coordinates":
-        lat = linedata[2]
-        long = linedata[3]
-        retval = {"latitude": lat, "longitude": long}
-      else:
-        retval = linedata[0]
+
+def get_city_coordinates(lat, lng):
+
+  closest = find_closest_point(lat, lng)
+  log("city: " + closest["city"] + "\n")
+  coordinates = {"latitude": closest["coordinates"][0], "longitude": closest["coordinates"][1]}
+  return coordinates
+
+
+
+def get_state_coordinates(lat, lng):
+
+  state_name = ""
+  slat = ""
+  slng = ""
+
+  closest = find_closest_point(lat, lng)
+  country_code = closest["countrycode"]
+  state_code = closest["statecode"]
+  code = country_code + "." + str(state_code)
+
+  get_file_from_server(statefilename)
+
+  statefile = openfile(statefilename, False)
+  statefiledata = statefile.readat(None, 0).split("\n")
+
+  for line in statefiledata:
+    line = line.split("\t")
+    if code == line[0]:
+      state_name = line[1]
+      slat = line[2]
+      slng = line[3]
       break
-  fileobj.close()
-  return retval
+  statefile.close()
 
-
-
-# Returns a dictionary of the lat/long values of the center of the city to
-# which the address belongs. If there is no match for the city name, it finds
-# the closest city from the coordinates data and returns the lat/long value of
-# the center of that city.
-def get_city_coordinates(address, lat, long):
-
-  if address["country_code"] in ["US", "CA"]:
-    # Get State/Province code
-    column_to_compare = 1        # ascii_name
-    state_name = address["admin_area"]
-    state_code = get_data(statefilename, column_to_compare, state_name).split(".")
-
-    # Filename should be in the form countrycode_statecode in lowercase
-    filename = ("_".join(state_code)).lower() + ".txt"
-
-  else:
-    # Remove "eu_" when phones are not just in US/CA/EU
-    filename = "eu_" + address["country_code"].lower() + ".txt"
-
-  if filename not in listfiles():
-    get_file_from_server(filename)
-
-  listofpoints = load_lat_long_from_file(filename)
-  closest_city = find_closest_point(lat, long, listofpoints)
-	
-  #log("city: " + closest_city["city"] + "\n")
-	
-  coordinates = {"latitude": closest_city["coordinates"][0], "longitude": closest_city["coordinates"][1]}
-	
+  log("state: " + state_name + "\n")
+  coordinates = {"latitude": slat, "longitude": slng}
   return coordinates
 
 
 
-def get_state_coordinates(address):
+def get_country_coordinates(lat, lng):
 
-  column_to_compare = 1        # ascii_name
-  state_name = address["admin_area"]
-  required_data = "coordinates"
-	
-  coordinates = get_data(statefilename, column_to_compare, state_name, required_data)
+  country_name = ""
+  clat = ""
+  clng = ""
 
-  # Case when there is no match for state_name: (1) download file(s) for 
-	# the country (2) find closest city (3) return coordinates of state
-	# corresponding to that city
-  if isinstance(coordinates,type(None)):
-    pass
+  closest = find_closest_point(lat, lng)
+  country_code = closest["countrycode"]
 
-  log(state_name)
-  return coordinates
+  get_file_from_server(countryfilename)
 
+  countryfile = openfile(countryfilename, False)
+  countryfiledata = countryfile.readat(None, 0).split("\n")
 
+  for line in countryfiledata:
+    line = line.split("\t")
+    if country_code == line[0]:
+      country_name = line[1]
+      clat = line[2]
+      clng = line[3]
+      break
+  countryfile.close()
 
-def get_country_coordinates(address):
-
-  column_to_compare = 0        # code
-  country_code = address["country_code"]
-  required_data = "coordinates"
-	
-  coordinates = get_data(countryfilename, column_to_compare, country_code, required_data)
-
-  # Case when there is no match for country_code
-  if isinstance(coordinates, type(None)):
-    raise Exception("No match for country code <" + country_code + ">\n")
-
-  log(address["country_name"])
+  log("country: " + country_name + "\n")
+  coordinates = {"latitude": lat, "longitude": lng}
   return coordinates
 
 
@@ -202,6 +139,8 @@ def get_country_coordinates(address):
 def find_distance(p1, p2):
   (lat1, lng1) = p1
   (lat2, lng2) = p2
+  lat2 = float(lat2)
+  lng2 = float(lng2)
   lat_diff = (lat1-lat2) * (lat1-lat2)
   lng_diff = (lng1-lng2) * (lng1-lng2)
   # return squared distance
@@ -209,27 +148,9 @@ def find_distance(p1, p2):
 
 
 
-def find_closest_point(lat, long, listofpoints):
+def load_lat_lng_from_file(filename):
 
-  min_dist = 9999 # Larger than radius of the earth (km)
-  closest_point = ()
-  point1 = (lat, long)
-  closest_city = ""
-  cities = listofpoints.keys()
-
-  for city in cities:
-    point2 = listofpoints[city]
-    dist = find_distance(point1, point2)
-    if dist < min_dist:
-      min_dist = dist
-      closest_point = point2
-      closest_city = city
-
-  return {"city": closest_city, "coordinates": closest_point}
-
-
-
-def load_lat_long_from_file(filename):
+  get_file_from_server(filename)
 
   listofpoints = {}
 
@@ -238,48 +159,74 @@ def load_lat_long_from_file(filename):
 
   for line in filedata:
     linedata = line.split("\t")
-    try: # To ignore the last blank line in the file
+    try:
       city_name = linedata[0]
-      lat = float(linedata[1])
-      long = float(linedata[2])
-    except Exception:
-      continue
-    coordinates = (lat, long)
-    listofpoints[city_name] = coordinates
+      lat = linedata[1]
+      lng = linedata[2]
+      country_code = linedata[3]
+      state_code = linedata[4]
+    except IndexError:
+      pass
+    else:
+      listofpoints[city_name] = [lat, lng, country_code, state_code]
   fileobj.close()
   return listofpoints
 
 
+
+def get_filename(lat, lng):
+  # get ceiling as x/y index
+  x = int(math_ceil(lat))
+  y = int(math_ceil(lng))
+  filename = str(x) + '_' + str(y) + '.txt'
+  return filename
+
+
+
+def find_closest_point(lat, lng):
+
+  filename = get_filename(lat, lng)
+  listofpoints = load_lat_lng_from_file(filename)
+
+  min_dist = 9999
+  closest_point = ()
+  point1 = (lat, lng)
+  closest_city = ""
+  closest_state_code = ""
+  closest_country_code = ""
+
+  for city in listofpoints.keys():
+    data = listofpoints[city]
+    point2 = (data[0], data[1])
+    dist = find_distance(point1, point2)
+    if dist < min_dist:
+      min_dist = dist
+      closest_point = point2
+      closest_city = city
+      closest_state_code = data[3]
+      closest_country_code = data[2]
+
+  closest = {"city": closest_city, "statecode": closest_state_code, "countrycode": closest_country_code, "coordinates": closest_point}
+  #log("closest: " + str(closest) + "\n")
+
+  return closest
+
+
+
 #-----------------------TEST-----------------------#
 
-"""
 coordinates = get_gps_coordinates()
 
 log("latitude: " + str(coordinates["latitude"]) + ", longitude: " + str(coordinates["longitude"]) + "\n")
 
-address = get_address(coordinates)
-
-log(str(address) + "\n")
-
 lat = coordinates["latitude"]
-long = coordinates["longitude"]
+lng = coordinates["longitude"]
 
-coordinates = get_city_coordinates(address, lat, long)
-log("City: " + str(coordinates) + "\n")
+coordinates = get_city_coordinates(lat, lng)
+log("coordinates: " + str(coordinates) + "\n")
 
-coordinates = get_state_coordinates(address)
-log(str(coordinates) + "\n")
+coordinates = get_state_coordinates(lat, lng)
+log("coordinates: " + str(coordinates) + "\n")
 
-coordinates = get_country_coordinates(address)
-log(str(coordinates) + "\n")
-"""
-
-filename = "39_-121.txt"
-lat = 38.4	
-long = -121.3
-
-get_file_from_server(filename)
-
-listofpoints = load_lat_long_from_file(filename)
-
-log(str(find_closest_point(lat, long, listofpoints)) + "\n")
+coordinates = get_country_coordinates(lat, lng)
+log("coordinates: " + str(coordinates) + "\n")
