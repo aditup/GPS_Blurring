@@ -284,11 +284,13 @@ def httpretrieve_save_file(url, filename, querydata=None, postdata=None, \
   # Repeatedly read from the file-like HTTP object into our file, until the
   # response is finished.
   responsechunkstr = None
+  offset = 0
   while responsechunkstr != '':
     responsechunkstr = httpobj.read(4096)
-    
+
 		# ----Update----
-    outfileobj.writeat(responsechunkstr, 0)
+    outfileobj.writeat(responsechunkstr, offset)
+    offset += len(responsechunkstr)
 
   outfileobj.close()
   httpobj.close()
