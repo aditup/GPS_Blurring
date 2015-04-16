@@ -1,17 +1,17 @@
-# This program performs location blurring. It accesses the location 
-# coordinates of a mobile device from its sensors (e.g. GPS/network), 
-# and returns the coordinates (latitude/longitude) corresponding to
-# center of the city/state/country to which the original coordinates
-# belong.
-#
-#
-# ------Notes------
-#
-# IndexError: list index out of range
-# -- if the coordinates are in the ocean
-#
-# The columns in states.txt and countries.txt (databases) are as follows:
-# 0:"code", 1:"ascii_name", 2:"latitude", 3:"longitude"
+"""
+<Program Name>
+  gps_location_blur.r2py
+
+<Started>
+  March 20, 2015
+  
+<Purpose>
+	Provides a method to blur the true lat/lng coordinates returned by the
+  location sensors on a mobile device. The coordinates can be blurred to
+  represent the center of the nearest city, state/province or country, based
+  on requirement.
+
+"""
 
 dy_import_module_symbols("sensorlib.r2py")
 dy_import_module_symbols("httpretrieve.r2py")
@@ -21,9 +21,8 @@ statefilename = "states.txt"        # Database of states
 countryfilename = "countries.txt"   # Database of countries
 
 
-
-# Returns a dictionary of the location coordinates (latitude, longitude)
-# from the sensors on the phone.
+# Returns a dictionary of the lat/lng coordinates from the sensors on a
+# mobile device.
 # Example:
 # {"latitude": xxxx, "longitude": xxxx}
 def get_gps_coordinates():
@@ -58,18 +57,8 @@ def get_gps_coordinates():
   return coordinates
 
 
-
-# Downloads the required file from the server
-def get_file_from_server(filename):
-  if filename not in listfiles():
-    if filename not in [statefilename, countryfilename]:
-	    url = "http://sensibilityclearinghouse.poly.edu/data/quad/" + filename
-    else:
-      url = "http://sensibilityclearinghouse.poly.edu/data/" + filename
-    httpretrieve_save_file(url, filename)
-
-
-
+# Returns the lat/lng coordinates of the center of the city closest to the
+# actual coordinates
 def get_city_coordinates(lat, lng):
 
   closest = find_closest_point(lat, lng)
@@ -78,7 +67,8 @@ def get_city_coordinates(lat, lng):
   return coordinates
 
 
-
+# Returns the lat/lng coordinates of the center of the state/province
+# closest to the actual coordinates
 def get_state_coordinates(lat, lng):
 
   state_name = ""
@@ -90,11 +80,13 @@ def get_state_coordinates(lat, lng):
   state_code = closest["statecode"]
   code = country_code + "." + str(state_code)
 
+  # Download the States database
   get_file_from_server(statefilename)
 
   statefile = openfile(statefilename, False)
   statefiledata = statefile.readat(None, 0).split("\n")
 
+  # Look for the state corresponding to the code
   for line in statefiledata:
     line = line.split("\t")
     if code == line[0]:
@@ -109,7 +101,8 @@ def get_state_coordinates(lat, lng):
   return coordinates
 
 
-
+# Returns the lat/lng coordinates of the center of the country closest to the
+# actual coordinates
 def get_country_coordinates(lat, lng):
 
   country_name = ""
@@ -119,11 +112,13 @@ def get_country_coordinates(lat, lng):
   closest = find_closest_point(lat, lng)
   country_code = closest["countrycode"]
 
+  # Download the Countries database
   get_file_from_server(countryfilename)
 
   countryfile = openfile(countryfilename, False)
   countryfiledata = countryfile.readat(None, 0).split("\n")
 
+  # Look for the country corresponding to the country code
   for line in countryfiledata:
     line = line.split("\t")
     if country_code == line[0]:
@@ -138,57 +133,25 @@ def get_country_coordinates(lat, lng):
   return coordinates
 
 
-
-def find_distance(p1, p2):
-  (lat1, lng1) = p1
-  (lat2, lng2) = p2
-  lat2 = float(lat2)
-  lng2 = float(lng2)
-  lat_diff = (lat1-lat2) * (lat1-lat2)
-  lng_diff = (lng1-lng2) * (lng1-lng2)
-  # return squared distance
-  return lat_diff + lng_diff
-
-
-
-def load_lat_lng_from_file(filename):
-
-  get_file_from_server(filename)
-
-  listofpoints = {}
-
-  fileobj = openfile(filename, False)
-  filedata = fileobj.readat(None, 0).split("\n")
-
-  for line in filedata:
-    linedata = line.split("\t")
-    try:
-      city_name = linedata[0]
-      lat = linedata[1]
-      lng = linedata[2]
-      country_code = linedata[3]
-      state_code = linedata[4]
-    except IndexError:
-      pass
+# Downloads the required file from the server
+def get_file_from_server(filename):
+  if filename not in listfiles(): # In case it already exists
+    if filename not in [statefilename, countryfilename]:
+	    url = "http://sensibilityclearinghouse.poly.edu/data/quad/" + filename
     else:
-      listofpoints[city_name] = [lat, lng, country_code, state_code]
-  fileobj.close()
-  return listofpoints
+      url = "http://sensibilityclearinghouse.poly.edu/data/" + filename
+    httpretrieve_save_file(url, filename)
 
 
-
-def get_filename(lat, lng):
-  # get ceiling as x/y index
-  x = int(math_ceil(lat))
-  y = int(math_ceil(lng))
-  filename = str(x) + '_' + str(y) + '.txt'
-  return filename
-
-
-
+# Returns a dictionary containing information about the point closest to
+# a given lat/lng pair, from the database.
+# {"city": closest_city, "statecode": closest_state_code, "countrycode":
+# closest_country_code, "coordinates": closest_point}
 def find_closest_point(lat, lng):
 
+  # Find the database file with coordinates closest to the given lat/lng pair
   filename = get_filename(lat, lng)
+	# Get the list of coordinates from that file
   listofpoints = load_lat_lng_from_file(filename)
 
   min_dist = 9999
@@ -214,6 +177,56 @@ def find_closest_point(lat, lng):
 
   return closest
 
+
+# Returns the filename in the database which contains the given lat/lng point
+# and other nearby points
+def get_filename(lat, lng):
+  # get ceiling as x/y index
+  x = int(math_ceil(lat))
+  y = int(math_ceil(lng))
+  filename = str(x) + '_' + str(y) + '.txt'
+  return filename
+
+
+# Returns a dictionary containing all the cities in the given file, along with
+# their corresponding data
+# {city1: [lat, lng, country_code, state_code], city2: [lat, lng, country_code,
+# state_code], ...}
+def load_lat_lng_from_file(filename):
+
+  get_file_from_server(filename)
+
+  listofpoints = {}
+
+  fileobj = openfile(filename, False)
+  filedata = fileobj.readat(None, 0).split("\n")
+
+  for line in filedata:
+    linedata = line.split("\t")
+    try:
+      city_name = linedata[0]
+      lat = linedata[1]
+      lng = linedata[2]
+      country_code = linedata[3]
+      state_code = linedata[4]
+    except IndexError:
+      pass
+    else:
+      listofpoints[city_name] = [lat, lng, country_code, state_code]
+  fileobj.close()
+  return listofpoints
+
+
+# Returns the distance between two lat/lng points
+def find_distance(p1, p2):
+  (lat1, lng1) = p1
+  (lat2, lng2) = p2
+  lat2 = float(lat2)
+  lng2 = float(lng2)
+  lat_diff = (lat1-lat2) * (lat1-lat2)
+  lng_diff = (lng1-lng2) * (lng1-lng2)
+  # return squared distance
+  return lat_diff + lng_diff
 
 
 #-----------------------TEST-----------------------#
