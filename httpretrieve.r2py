@@ -42,7 +42,7 @@ class HttpBrokenServerError(Exception):
 
 
 def httpretrieve_open(url, querydata=None, postdata=None,\
-    httpheaders=None, proxy=None, timeout=5):
+    httpheaders=None, proxy=None, timeout=None):
   """
   <Purpose>
      Returns a file-like object that can be used to read the content from
@@ -170,7 +170,7 @@ def httpretrieve_open(url, querydata=None, postdata=None,\
     headersstr = ""
     while not headersstr.endswith("\r\n\r\n"):
       try:
-        # ----Update----
+        # Update: set timeout = 5
         # This should probably be replaced with page-sized reads in the future,
         # but for now, the behavior is at least correct.
         headersstr += sockobj.recv(1, timeout = 5)
@@ -275,7 +275,7 @@ def httpretrieve_save_file(url, filename, querydata=None, postdata=None, \
 
   # Open the output file object and http file-like object.
 
-  # ----Update----
+  # Update
   outfileobj = openfile(filename, True)
 
   httpobj = httpretrieve_open(url, querydata=querydata, postdata=postdata, \
@@ -284,11 +284,14 @@ def httpretrieve_save_file(url, filename, querydata=None, postdata=None, \
   # Repeatedly read from the file-like HTTP object into our file, until the
   # response is finished.
   responsechunkstr = None
+	
+	# Update
   offset = 0
+	
   while responsechunkstr != '':
     responsechunkstr = httpobj.read(4096)
 
-		# ----Update----
+		# Update
     outfileobj.writeat(responsechunkstr, offset)
     offset += len(responsechunkstr)
 
@@ -413,7 +416,7 @@ class _httpretrieve_filelikeobject:
     httpcontentstr = ''
     while True:
       try:
-        # ----Update----
+        # Update: set timeout = 5
         contentchunkstr = self._sockobj.recv(lefttoread or 4096, timeout=5)
       except Exception, e:
         if str(e) == "The socket has been closed remotely!":
