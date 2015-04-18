@@ -6,7 +6,7 @@
   March 20, 2015
   
 <Purpose>
-	Provides a method to blur the true lat/lng coordinates returned by the
+  Provides a method to blur the true lat/lng coordinates returned by the
   location sensors on a mobile device. The coordinates can be blurred to
   represent the center of the nearest city, state/province or country, based
   on requirement.
