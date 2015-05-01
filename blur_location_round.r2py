@@ -1,0 +1,93 @@
+TYPE="type"
+ARGS="args"
+RETURN="return"
+EXCP="exceptions"
+TARGET="target"
+FUNC="func"
+OBJC="objc"
+ANY = "any"
+
+dy_import_module_symbols("sensorlib.r2py")
+unicode_scrubber = dy_import_module("unicode_scrubber.r2py")
+
+
+def blurred_get_coordinates():
+
+  location = None
+
+  # Try to read current location for MAX_TIME seconds before giving up
+  MAX_TIME = 5
+  starttime = getruntime()
+
+  while(getruntime() - starttime < MAX_TIME):
+    try:
+      location = get_location()
+      if location:
+        break
+    except RepyException: # Not able to use LocationNotFoundException here
+      pass
+
+  # If current location is unavailable, get last known location
+  if not location:
+    log("\nCurrent location unavailable. Using last known location.\n")
+    location_data = get_lastknown_location()
+
+    # Get the location from the the provider
+    providers = ["gps", "network", "passive"]
+    for p in providers:
+      location = location_data[p]
+      if location:
+        break
+
+  # Blur the coordinates by rounding
+  location["latitude"] = round(location["latitude"], 1)
+  location["longitude"] = round(location["longitude"], 1)
+
+  log("location: " + str(location) + "\n")
+  return location
+
+
+
+def blurred_get_geolocation():
+
+  # Get blurred coordinates
+  location = blurred_get_coordinates()
+
+  # Get a connection to communicate with sensors
+  port = get_connectionport()
+  sensor_socket = getconnection(port)
+
+  # Return a list of addresses (1 address by default)
+  address = request_data(sensor_socket, 'geocode', [location["latitude"], location["longitude"]])
+
+  # Take the first returned address
+  address = address[0]
+
+  # Convert unicode format to ASCII
+  address = unicode_scrubber.scrub(address)
+
+  sensor_socket.close()
+  return address
+
+
+
+# Mapping blurred_get_coordinates to get_coordinates() 
+CHILD_CONTEXT_DEF["get_coordinates"] = {
+  TYPE: FUNC,
+  ARGS: None,
+  EXCP: ANY,
+  RETURN: dict,
+  TARGET: blurred_get_coordinates
+}
+
+
+# Mapping blurred_get_geolocation to get_geolocation()
+CHILD_CONTEXT_DEF["get_geolocation"] = {
+  TYPE: FUNC,
+  ARGS: None,
+  EXCP: ANY,
+  RETURN: dict,
+  TARGET: blurred_get_geolocation
+}
+
+secure_dispatch_module()
