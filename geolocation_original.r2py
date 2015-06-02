@@ -1,0 +1,24 @@
+# To replace get_geolocation()
+def get_address():
+
+  try:
+    location_data = get_location()
+  except Exception: # Not able to use LocationNotFoundException here
+    raise Exception
+
+  latitude = location_data["latitude"]
+  longitude = location_data["longitude"]
+
+  address = geocode(latitude, longitude)
+
+  return address
+
+CHILD_CONTEXT_DEF["get_geolocation"] = {
+    "type": "func",
+    "args": None,
+    "return": dict,
+    "exceptions": "any",
+    "target": get_address,
+}
+
+secure_dispatch_module()
