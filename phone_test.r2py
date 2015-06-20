@@ -1,0 +1,64 @@
+sensorlib = dy_import_module("sensorlib.r2py")
+port = sensorlib.get_connectionport()
+sensor_socket = sensorlib.getconnection(port)
+
+log("checkNetworkRoaming: ", sensorlib.request_data(sensor_socket,
+  'checkNetworkRoaming', []), "\n\n")
+
+log("getCellLocation: ", sensorlib.request_data(sensor_socket,
+  'getCellLocation', []), "\n\n")
+
+# log("getDeviceId: ", sensorlib.request_data(sensor_socket,
+# 'getDeviceId', []), "\n\n")
+
+# log("getDeviceSoftwareVersion: ", sensorlib.request_data(sensor_socket,
+# 'getDeviceSoftwareVersion', []), "\n\n")
+
+# log("getLine1Number: ", sensorlib.request_data(sensor_socket,
+# 'getLine1Number', []), "\n\n")
+
+log("getNeighboringCellInfo: ", sensorlib.request_data(sensor_socket,
+  'getNeighboringCellInfo', []), "\n\n")
+
+log("getNetworkOperator: ", sensorlib.request_data(sensor_socket,
+  'getNetworkOperator', []), "\n\n")
+
+log("getNetworkOperatorName: ", sensorlib.request_data(sensor_socket,
+  'getNetworkOperatorName', []), "\n\n")
+
+log("getNetworkType: ", sensorlib.request_data(sensor_socket,
+  'getNetworkType', []), "\n\n")
+
+# log("getPhoneType: ", sensorlib.request_data(sensor_socket, 
+# 'getPhoneType', []), "\n\n")
+
+log("getSimCountryIso: ", sensorlib.request_data(sensor_socket,
+  'getSimCountryIso', []), "\n\n")
+
+log("getSimOperator: ", sensorlib.request_data(sensor_socket, 
+  'getSimOperator', []), "\n\n")
+
+log("getSimOperatorName: ", sensorlib.request_data(sensor_socket,
+  'getSimOperatorName', []), "\n\n")
+
+# log("getSimSerialNumber: ", sensorlib.request_data(sensor_socket,
+# 'getSimSerialNumber', []), "\n\n")
+
+log("getSimState: ", sensorlib.request_data(sensor_socket, 'getSimState',
+  []), "\n\n")
+
+# log("getSubscriberId: ", sensorlib.request_data(sensor_socket,
+# 'getSubscriberId', []), "\n\n")
+
+# log("getVoiceMailAlphaTag: ", sensorlib.request_data(sensor_socket,
+# 'getVoiceMailAlphaTag', []), "\n\n")
+
+# log("getVoiceMailNumber: ", sensorlib.request_data(sensor_socket,
+# 'getVoiceMailNumber', []), "\n\n")
+
+sensorlib.request_data(sensor_socket, 'startTrackingPhoneState', [])
+
+log("readPhoneState: ", sensorlib.request_data(sensor_socket,
+  'readPhoneState', []), "\n\n")
+
+sensorlib.request_data(sensor_socket, 'stopTrackingPhoneState', [])
