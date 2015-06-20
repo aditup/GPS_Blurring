@@ -62,3 +62,5 @@ log("readPhoneState: ", sensorlib.request_data(sensor_socket,
   'readPhoneState', []), "\n\n")
 
 sensorlib.request_data(sensor_socket, 'stopTrackingPhoneState', [])
+
+sensor_socket.close()
